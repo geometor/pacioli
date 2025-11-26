@@ -3,12 +3,6 @@ pacioli
 
 .. include:: intro.rst
 
-recent logs
------------
-
-.. postlist:: 5
-   :excerpts:
-
 
 
 .. toctree::
@@ -18,7 +12,7 @@ recent logs
    mission/index.rst
    usage/index.rst
    modules/index.rst
-   logs.rst
+   divina/index.rst
    demos/index.rst
    refs/index.rst
    todos.rst
