@@ -1,0 +1,448 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>pacioli.parser &mdash; Project name not set  documentation</title>
+  <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../../_static/css/styles.css?v=a3216404" />
+  <link rel="stylesheet" type="text/css" href="../../_static/graphviz.css?v=4ae1632d" />
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <a href="../../index.html">
+        <img src="../../_static/logo.png" class="logo" alt="Logo"/>
+      </a>
+      <div class="org-repo">
+        <span class="org">geometor</span>
+        •
+        <span class="repo">pacioli</span>
+      </div>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../../divina/index.html"  >De Divina Proportione</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main>
+
+    <article>
+      <div class="content">
+      <nav class="breadcrumbs">
+        <span><a href="../../index.html">Home</a></span>
+          <span>/</span>
+        <span><a href="../index.html">Module code</a></span>
+          <span>/</span>
+        <span><a href="../pacioli.html">pacioli</a></span>
+        <span>/</span>
+        <span>pacioli.parser</span>
+      </nav>
+        <nav class="context">
+          <div class="prev">
+          </div>
+          <div class="next">
+          </div>
+        </nav>
+          <h1>Source code for pacioli.parser</h1><div class="highlight"><pre>
+<span></span><span class="kn">import</span><span class="w"> </span><span class="nn">re</span>
+<span class="kn">from</span><span class="w"> </span><span class="nn">pathlib</span><span class="w"> </span><span class="kn">import</span> <span class="n">Path</span>
+<span class="kn">from</span><span class="w"> </span><span class="nn">typing</span><span class="w"> </span><span class="kn">import</span> <span class="n">List</span><span class="p">,</span> <span class="n">Dict</span><span class="p">,</span> <span class="n">Optional</span>
+
+<div class="viewcode-block" id="PacioliParser">
+<a class="viewcode-back" href="../../modules/api/pacioli/parser/index.html#pacioli.parser.PacioliParser">[docs]</a>
+<span class="k">class</span><span class="w"> </span><span class="nc">PacioliParser</span><span class="p">:</span>
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">resources_dir</span><span class="p">:</span> <span class="n">Path</span><span class="p">,</span> <span class="n">output_dir</span><span class="p">:</span> <span class="n">Path</span><span class="p">):</span>
+<div class="viewcode-block" id="PacioliParser.resources_dir">
+<a class="viewcode-back" href="../../modules/api/pacioli/parser/index.html#pacioli.parser.PacioliParser.resources_dir">[docs]</a>
+        <span class="bp">self</span><span class="o">.</span><span class="n">resources_dir</span> <span class="o">=</span> <span class="n">resources_dir</span></div>
+
+<div class="viewcode-block" id="PacioliParser.output_dir">
+<a class="viewcode-back" href="../../modules/api/pacioli/parser/index.html#pacioli.parser.PacioliParser.output_dir">[docs]</a>
+        <span class="bp">self</span><span class="o">.</span><span class="n">output_dir</span> <span class="o">=</span> <span class="n">output_dir</span></div>
+
+<div class="viewcode-block" id="PacioliParser.transcribed_file">
+<a class="viewcode-back" href="../../modules/api/pacioli/parser/index.html#pacioli.parser.PacioliParser.transcribed_file">[docs]</a>
+        <span class="bp">self</span><span class="o">.</span><span class="n">transcribed_file</span> <span class="o">=</span> <span class="n">resources_dir</span> <span class="o">/</span> <span class="s2">&quot;gri-ark--13960-t48p7rw0p-1680998311.txt&quot;</span></div>
+
+
+<div class="viewcode-block" id="PacioliParser.parse">
+<a class="viewcode-back" href="../../modules/api/pacioli/parser/index.html#pacioli.parser.PacioliParser.parse">[docs]</a>
+    <span class="k">def</span><span class="w"> </span><span class="nf">parse</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<span class="w">        </span><span class="sd">&quot;&quot;&quot;Main execution method.&quot;&quot;&quot;</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Parsing resources from: </span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">resources_dir</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Outputting to: </span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">output_dir</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
+        
+        <span class="k">if</span> <span class="ow">not</span> <span class="bp">self</span><span class="o">.</span><span class="n">transcribed_file</span><span class="o">.</span><span class="n">exists</span><span class="p">():</span>
+            <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Error: Transcribed file not found at </span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">transcribed_file</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
+            <span class="k">return</span>
+
+        <span class="n">content</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">transcribed_file</span><span class="o">.</span><span class="n">read_text</span><span class="p">(</span><span class="n">encoding</span><span class="o">=</span><span class="s1">&#39;utf-8&#39;</span><span class="p">)</span>
+        <span class="n">lines</span> <span class="o">=</span> <span class="n">content</span><span class="o">.</span><span class="n">splitlines</span><span class="p">()</span>
+
+        <span class="c1"># Define Books (Ranges are approximate based on analysis, can be refined)</span>
+        <span class="c1"># Book 1: Divina Proportione</span>
+        <span class="c1"># TOC: ~1170 - ~1540</span>
+        <span class="c1"># Text: ~1615 - ~5600</span>
+        
+        <span class="c1"># Book 2: Architectura</span>
+        <span class="c1"># TOC: ~1540 - ~1600</span>
+        <span class="c1"># Text: ~5614 - ~7380</span>
+        
+        <span class="c1"># We will extract these sections based on markers</span>
+        
+        <span class="n">books</span> <span class="o">=</span> <span class="p">[</span>
+            <span class="p">{</span>
+                <span class="s2">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;proportione&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;toc_start_marker&quot;</span><span class="p">:</span> <span class="s2">&quot;Cap. I. Epistola a lo excellentissimo&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;text_start_marker&quot;</span><span class="p">:</span> <span class="s2">&quot;Excellentissimo principi Ludouico mariae Sforza&quot;</span><span class="p">,</span> <span class="c1"># Start of text (no header)</span>
+                <span class="s2">&quot;text_end_marker&quot;</span><span class="p">:</span> <span class="s2">&quot;(Dela mesura e proportioni del corpo humano&quot;</span><span class="p">,</span> <span class="c1"># End of text (Start of Arch)</span>
+                <span class="s2">&quot;gap_start_marker&quot;</span><span class="p">:</span> <span class="s2">&quot;Gap. II.&quot;</span> <span class="c1"># Gap I is missing header, special handling</span>
+            <span class="p">},</span>
+            <span class="p">{</span>
+                <span class="s2">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;architectura&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;toc_start_marker&quot;</span><span class="p">:</span> <span class="s2">&quot;Tabula del tractato de larchitectura&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;text_start_marker&quot;</span><span class="p">:</span> <span class="s2">&quot;Gap. I.&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;text_end_marker&quot;</span><span class="p">:</span> <span class="s2">&quot;Gap. I. Rühmende Erwähnung&quot;</span> <span class="c1"># Start of German</span>
+            <span class="p">}</span>
+        <span class="p">]</span>
+
+        <span class="k">for</span> <span class="n">book</span> <span class="ow">in</span> <span class="n">books</span><span class="p">:</span>
+            <span class="bp">self</span><span class="o">.</span><span class="n">process_book</span><span class="p">(</span><span class="n">lines</span><span class="p">,</span> <span class="n">book</span><span class="p">)</span>
+
+        <span class="c1"># Generate root index.rst</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">create_root_index</span><span class="p">([</span><span class="n">b</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">]</span> <span class="k">for</span> <span class="n">b</span> <span class="ow">in</span> <span class="n">books</span><span class="p">])</span></div>
+
+
+<div class="viewcode-block" id="PacioliParser.create_root_index">
+<a class="viewcode-back" href="../../modules/api/pacioli/parser/index.html#pacioli.parser.PacioliParser.create_root_index">[docs]</a>
+    <span class="k">def</span><span class="w"> </span><span class="nf">create_root_index</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">book_names</span><span class="p">:</span> <span class="n">List</span><span class="p">[</span><span class="nb">str</span><span class="p">]):</span>
+        <span class="n">index_content</span> <span class="o">=</span> <span class="s2">&quot;&quot;&quot;</span>
+<span class="s2">:navigation: header</span>
+
+<span class="s2">De Divina Proportione</span>
+<span class="s2">=====================</span>
+
+<span class="s2">.. toctree::</span>
+<span class="s2">   :maxdepth: 2</span>
+<span class="s2">   :caption: Books</span>
+
+<span class="s2">&quot;&quot;&quot;</span>
+        <span class="k">for</span> <span class="n">name</span> <span class="ow">in</span> <span class="n">book_names</span><span class="p">:</span>
+            <span class="n">index_content</span> <span class="o">+=</span> <span class="sa">f</span><span class="s2">&quot;   </span><span class="si">{</span><span class="n">name</span><span class="si">}</span><span class="s2">/index</span><span class="se">\n</span><span class="s2">&quot;</span>
+
+        <span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">output_dir</span> <span class="o">/</span> <span class="s2">&quot;index.rst&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">write_text</span><span class="p">(</span><span class="n">index_content</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s1">&#39;utf-8&#39;</span><span class="p">)</span></div>
+
+
+<div class="viewcode-block" id="PacioliParser.process_book">
+<a class="viewcode-back" href="../../modules/api/pacioli/parser/index.html#pacioli.parser.PacioliParser.process_book">[docs]</a>
+    <span class="k">def</span><span class="w"> </span><span class="nf">process_book</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">lines</span><span class="p">:</span> <span class="n">List</span><span class="p">[</span><span class="nb">str</span><span class="p">],</span> <span class="n">book_config</span><span class="p">:</span> <span class="n">Dict</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Processing book: </span><span class="si">{</span><span class="n">book_config</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">]</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
+        
+        <span class="c1"># 1. Extract TOC Chapters (Titles)</span>
+        <span class="n">toc_chapters</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">extract_chapters</span><span class="p">(</span><span class="n">lines</span><span class="p">,</span> <span class="n">book_config</span><span class="p">[</span><span class="s1">&#39;toc_start_marker&#39;</span><span class="p">],</span> <span class="n">book_config</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;text_start_marker&#39;</span><span class="p">),</span> <span class="s2">&quot;Cap&quot;</span><span class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;  Found </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">toc_chapters</span><span class="p">)</span><span class="si">}</span><span class="s2"> TOC chapters.&quot;</span><span class="p">)</span>
+        
+        <span class="c1"># 2. Extract Text Chapters (Content)</span>
+        <span class="c1"># Note: Text extraction needs to handle the start/end markers carefully</span>
+        <span class="n">text_chapters</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">extract_chapters</span><span class="p">(</span><span class="n">lines</span><span class="p">,</span> <span class="n">book_config</span><span class="p">[</span><span class="s1">&#39;text_start_marker&#39;</span><span class="p">],</span> <span class="n">book_config</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;text_end_marker&#39;</span><span class="p">),</span> <span class="s2">&quot;Gap&quot;</span><span class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;  Found </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">text_chapters</span><span class="p">)</span><span class="si">}</span><span class="s2"> Text chapters.&quot;</span><span class="p">)</span>
+        
+        <span class="c1"># Special handling for Proportione Book 1 Chapter 1 (Missing Gap. I.)</span>
+        <span class="k">if</span> <span class="n">book_config</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">]</span> <span class="o">==</span> <span class="s1">&#39;proportione&#39;</span><span class="p">:</span>
+            <span class="c1"># We need to manually create Chapter 1 text from the start marker up to Gap. II.</span>
+            <span class="c1"># Or just rely on the fact that extract_chapters might miss it if it looks for &quot;Gap.&quot;</span>
+            <span class="c1"># Let&#39;s see if we can capture it.</span>
+            <span class="k">pass</span>
+
+        <span class="c1"># 3. Merge Chapters</span>
+        <span class="n">merged_chapters</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">merge_chapters</span><span class="p">(</span><span class="n">toc_chapters</span><span class="p">,</span> <span class="n">text_chapters</span><span class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;  Merged into </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">merged_chapters</span><span class="p">)</span><span class="si">}</span><span class="s2"> chapters.&quot;</span><span class="p">)</span>
+
+        <span class="c1"># 4. Generate RST</span>
+        <span class="n">book_output_dir</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">output_dir</span> <span class="o">/</span> <span class="n">book_config</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">]</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">generate_rst_structure</span><span class="p">(</span><span class="n">merged_chapters</span><span class="p">,</span> <span class="n">book_output_dir</span><span class="p">)</span></div>
+
+
+<div class="viewcode-block" id="PacioliParser.extract_chapters">
+<a class="viewcode-back" href="../../modules/api/pacioli/parser/index.html#pacioli.parser.PacioliParser.extract_chapters">[docs]</a>
+    <span class="k">def</span><span class="w"> </span><span class="nf">extract_chapters</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">lines</span><span class="p">:</span> <span class="n">List</span><span class="p">[</span><span class="nb">str</span><span class="p">],</span> <span class="n">start_marker</span><span class="p">:</span> <span class="nb">str</span><span class="p">,</span> <span class="n">end_marker</span><span class="p">:</span> <span class="nb">str</span><span class="p">,</span> <span class="n">prefix</span><span class="p">:</span> <span class="nb">str</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="n">Dict</span><span class="p">[</span><span class="nb">str</span><span class="p">,</span> <span class="n">Dict</span><span class="p">]:</span>
+<span class="w">        </span><span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">        Extracts chapters from a section of lines.</span>
+<span class="sd">        Returns a dict keyed by Roman Numeral ID.</span>
+<span class="sd">        &quot;&quot;&quot;</span>
+        <span class="n">chapters</span> <span class="o">=</span> <span class="p">{}</span>
+        <span class="n">in_section</span> <span class="o">=</span> <span class="kc">False</span>
+        <span class="n">current_chapter</span> <span class="o">=</span> <span class="kc">None</span>
+        <span class="n">buffer</span> <span class="o">=</span> <span class="p">[]</span>
+        
+        <span class="c1"># Regex for &quot;Cap. X.&quot; or &quot;Gap. X.&quot;</span>
+        <span class="c1"># Note: Gap. I. might be missing in some places</span>
+        <span class="n">pattern</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="sa">r</span><span class="s2">&quot;^\s*&quot;</span> <span class="o">+</span> <span class="n">prefix</span> <span class="o">+</span> <span class="sa">r</span><span class="s2">&quot;\.\s+([IVXLCDM]+)\.&quot;</span><span class="p">,</span> <span class="n">re</span><span class="o">.</span><span class="n">IGNORECASE</span><span class="p">)</span>
+        
+        <span class="n">start_idx</span> <span class="o">=</span> <span class="o">-</span><span class="mi">1</span>
+        <span class="n">end_idx</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">lines</span><span class="p">)</span>
+        
+        <span class="c1"># Find start/end indices</span>
+        <span class="k">for</span> <span class="n">i</span><span class="p">,</span> <span class="n">line</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">lines</span><span class="p">):</span>
+            <span class="k">if</span> <span class="n">start_marker</span> <span class="ow">in</span> <span class="n">line</span><span class="p">:</span>
+                <span class="n">start_idx</span> <span class="o">=</span> <span class="n">i</span>
+                <span class="k">break</span>
+        
+        <span class="k">if</span> <span class="n">start_idx</span> <span class="o">==</span> <span class="o">-</span><span class="mi">1</span><span class="p">:</span>
+            <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;  Warning: Start marker &#39;</span><span class="si">{</span><span class="n">start_marker</span><span class="si">}</span><span class="s2">&#39; not found.&quot;</span><span class="p">)</span>
+            <span class="k">return</span> <span class="p">{}</span>
+
+        <span class="k">if</span> <span class="n">end_marker</span><span class="p">:</span>
+            <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">start_idx</span> <span class="o">+</span> <span class="mi">1</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">lines</span><span class="p">)):</span>
+                <span class="k">if</span> <span class="n">end_marker</span> <span class="ow">in</span> <span class="n">lines</span><span class="p">[</span><span class="n">i</span><span class="p">]:</span> <span class="c1"># Changed &#39;line&#39; to &#39;lines[i]&#39;</span>
+                    <span class="n">end_idx</span> <span class="o">=</span> <span class="n">i</span>
+                    <span class="k">break</span>
+        
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;  Scanning lines </span><span class="si">{</span><span class="n">start_idx</span><span class="si">}</span><span class="s2"> to </span><span class="si">{</span><span class="n">end_idx</span><span class="si">}</span><span class="s2"> for &#39;</span><span class="si">{</span><span class="n">prefix</span><span class="si">}</span><span class="s2">&#39;...&quot;</span><span class="p">)</span>
+
+        <span class="c1"># Special case for Proportione Text Chapter 1 (starts at start_marker without &quot;Gap. I.&quot;)</span>
+        <span class="k">if</span> <span class="n">prefix</span> <span class="o">==</span> <span class="s2">&quot;Gap&quot;</span> <span class="ow">and</span> <span class="s2">&quot;Excellentissimo&quot;</span> <span class="ow">in</span> <span class="n">start_marker</span><span class="p">:</span>
+             <span class="n">current_chapter</span> <span class="o">=</span> <span class="p">{</span>
+                <span class="s2">&quot;id&quot;</span><span class="p">:</span> <span class="s2">&quot;I&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;title&quot;</span><span class="p">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span> <span class="c1"># Title comes from TOC</span>
+                <span class="s2">&quot;content&quot;</span><span class="p">:</span> <span class="s2">&quot;&quot;</span>
+            <span class="p">}</span>
+             <span class="c1"># We start capturing immediately</span>
+             <span class="n">in_section</span> <span class="o">=</span> <span class="kc">True</span>
+
+        <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">start_idx</span><span class="p">,</span> <span class="n">end_idx</span><span class="p">):</span>
+            <span class="n">line</span> <span class="o">=</span> <span class="n">lines</span><span class="p">[</span><span class="n">i</span><span class="p">]</span>
+            <span class="n">match</span> <span class="o">=</span> <span class="n">pattern</span><span class="o">.</span><span class="n">match</span><span class="p">(</span><span class="n">line</span><span class="p">)</span>
+            
+            <span class="k">if</span> <span class="n">match</span><span class="p">:</span>
+                <span class="c1"># Save previous chapter</span>
+                <span class="k">if</span> <span class="n">current_chapter</span><span class="p">:</span>
+                    <span class="n">current_chapter</span><span class="p">[</span><span class="s1">&#39;content&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&quot;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">buffer</span><span class="p">)</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
+                    <span class="n">chapters</span><span class="p">[</span><span class="n">current_chapter</span><span class="p">[</span><span class="s1">&#39;id&#39;</span><span class="p">]]</span> <span class="o">=</span> <span class="n">current_chapter</span>
+                
+                <span class="c1"># Start new chapter</span>
+                <span class="n">roman_num</span> <span class="o">=</span> <span class="n">match</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span><span class="o">.</span><span class="n">upper</span><span class="p">()</span>
+                <span class="n">current_chapter</span> <span class="o">=</span> <span class="p">{</span>
+                    <span class="s2">&quot;id&quot;</span><span class="p">:</span> <span class="n">roman_num</span><span class="p">,</span>
+                    <span class="s2">&quot;title&quot;</span><span class="p">:</span> <span class="n">line</span><span class="o">.</span><span class="n">strip</span><span class="p">(),</span> <span class="c1"># This might be the title (TOC) or just &quot;Gap. X.&quot; (Text)</span>
+                    <span class="s2">&quot;content&quot;</span><span class="p">:</span> <span class="s2">&quot;&quot;</span>
+                <span class="p">}</span>
+                <span class="n">buffer</span> <span class="o">=</span> <span class="p">[]</span>
+                <span class="n">in_section</span> <span class="o">=</span> <span class="kc">True</span>
+            <span class="k">elif</span> <span class="n">in_section</span><span class="p">:</span>
+                <span class="n">buffer</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">line</span><span class="p">)</span>
+        
+        <span class="c1"># Save last chapter</span>
+        <span class="k">if</span> <span class="n">current_chapter</span><span class="p">:</span>
+            <span class="n">current_chapter</span><span class="p">[</span><span class="s1">&#39;content&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&quot;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">buffer</span><span class="p">)</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
+            <span class="n">chapters</span><span class="p">[</span><span class="n">current_chapter</span><span class="p">[</span><span class="s1">&#39;id&#39;</span><span class="p">]]</span> <span class="o">=</span> <span class="n">current_chapter</span>
+            
+        <span class="k">return</span> <span class="n">chapters</span></div>
+
+
+<div class="viewcode-block" id="PacioliParser.merge_chapters">
+<a class="viewcode-back" href="../../modules/api/pacioli/parser/index.html#pacioli.parser.PacioliParser.merge_chapters">[docs]</a>
+    <span class="k">def</span><span class="w"> </span><span class="nf">merge_chapters</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">toc_chapters</span><span class="p">:</span> <span class="n">Dict</span><span class="p">,</span> <span class="n">text_chapters</span><span class="p">:</span> <span class="n">Dict</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="n">List</span><span class="p">[</span><span class="n">Dict</span><span class="p">]:</span>
+<span class="w">        </span><span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">        Merges TOC and Text chapters.</span>
+<span class="sd">        &quot;&quot;&quot;</span>
+        <span class="n">merged</span> <span class="o">=</span> <span class="p">[]</span>
+        <span class="n">all_ids</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span><span class="n">toc_chapters</span><span class="o">.</span><span class="n">keys</span><span class="p">())</span> <span class="o">|</span> <span class="nb">set</span><span class="p">(</span><span class="n">text_chapters</span><span class="o">.</span><span class="n">keys</span><span class="p">())</span>
+        
+        <span class="k">def</span><span class="w"> </span><span class="nf">roman_to_int</span><span class="p">(</span><span class="n">s</span><span class="p">):</span>
+            <span class="n">rom_val</span> <span class="o">=</span> <span class="p">{</span><span class="s1">&#39;I&#39;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span> <span class="s1">&#39;V&#39;</span><span class="p">:</span> <span class="mi">5</span><span class="p">,</span> <span class="s1">&#39;X&#39;</span><span class="p">:</span> <span class="mi">10</span><span class="p">,</span> <span class="s1">&#39;L&#39;</span><span class="p">:</span> <span class="mi">50</span><span class="p">,</span> <span class="s1">&#39;C&#39;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span> <span class="s1">&#39;D&#39;</span><span class="p">:</span> <span class="mi">500</span><span class="p">,</span> <span class="s1">&#39;M&#39;</span><span class="p">:</span> <span class="mi">1000</span><span class="p">}</span>
+            <span class="n">int_val</span> <span class="o">=</span> <span class="mi">0</span>
+            <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">s</span><span class="p">)):</span>
+                <span class="k">if</span> <span class="n">i</span> <span class="o">&gt;</span> <span class="mi">0</span> <span class="ow">and</span> <span class="n">rom_val</span><span class="p">[</span><span class="n">s</span><span class="p">[</span><span class="n">i</span><span class="p">]]</span> <span class="o">&gt;</span> <span class="n">rom_val</span><span class="p">[</span><span class="n">s</span><span class="p">[</span><span class="n">i</span> <span class="o">-</span> <span class="mi">1</span><span class="p">]]:</span>
+                    <span class="n">int_val</span> <span class="o">+=</span> <span class="n">rom_val</span><span class="p">[</span><span class="n">s</span><span class="p">[</span><span class="n">i</span><span class="p">]]</span> <span class="o">-</span> <span class="mi">2</span> <span class="o">*</span> <span class="n">rom_val</span><span class="p">[</span><span class="n">s</span><span class="p">[</span><span class="n">i</span> <span class="o">-</span> <span class="mi">1</span><span class="p">]]</span>
+                <span class="k">else</span><span class="p">:</span>
+                    <span class="n">int_val</span> <span class="o">+=</span> <span class="n">rom_val</span><span class="p">[</span><span class="n">s</span><span class="p">[</span><span class="n">i</span><span class="p">]]</span>
+            <span class="k">return</span> <span class="n">int_val</span>
+
+        <span class="n">sorted_ids</span> <span class="o">=</span> <span class="nb">sorted</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="n">all_ids</span><span class="p">),</span> <span class="n">key</span><span class="o">=</span><span class="n">roman_to_int</span><span class="p">)</span>
+        
+        <span class="k">for</span> <span class="n">i</span><span class="p">,</span> <span class="n">chapter_id</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">sorted_ids</span><span class="p">):</span>
+            <span class="n">toc</span> <span class="o">=</span> <span class="n">toc_chapters</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">chapter_id</span><span class="p">,</span> <span class="p">{})</span>
+            <span class="n">text</span> <span class="o">=</span> <span class="n">text_chapters</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">chapter_id</span><span class="p">,</span> <span class="p">{})</span>
+            
+            <span class="c1"># Title comes from TOC, Content from Text</span>
+            <span class="c1"># If Text is missing, we might have a placeholder</span>
+            <span class="c1"># If TOC is missing, we use what we have</span>
+            
+            <span class="n">title</span> <span class="o">=</span> <span class="n">toc</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;title&#39;</span><span class="p">,</span> <span class="n">text</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;title&#39;</span><span class="p">,</span> <span class="sa">f</span><span class="s2">&quot;Chapter </span><span class="si">{</span><span class="n">chapter_id</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">))</span>
+            <span class="c1"># Clean title: Remove &quot;Cap. X.&quot; prefix if present</span>
+            <span class="n">title</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">sub</span><span class="p">(</span><span class="sa">r</span><span class="s2">&quot;^\s*Cap\.\s+[IVXLCDM]+\.\s*&quot;</span><span class="p">,</span> <span class="s2">&quot;&quot;</span><span class="p">,</span> <span class="n">title</span><span class="p">,</span> <span class="n">flags</span><span class="o">=</span><span class="n">re</span><span class="o">.</span><span class="n">IGNORECASE</span><span class="p">)</span>
+            
+            <span class="n">content</span> <span class="o">=</span> <span class="n">text</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;content&#39;</span><span class="p">,</span> <span class="s2">&quot;&quot;</span><span class="p">)</span>
+            
+            <span class="n">merged</span><span class="o">.</span><span class="n">append</span><span class="p">({</span>
+                <span class="s2">&quot;id&quot;</span><span class="p">:</span> <span class="n">chapter_id</span><span class="p">,</span>
+                <span class="s2">&quot;order&quot;</span><span class="p">:</span> <span class="n">i</span> <span class="o">+</span> <span class="mi">1</span><span class="p">,</span>
+                <span class="s2">&quot;title&quot;</span><span class="p">:</span> <span class="n">title</span><span class="p">,</span>
+                <span class="s2">&quot;content&quot;</span><span class="p">:</span> <span class="n">content</span>
+            <span class="p">})</span>
+            
+        <span class="k">return</span> <span class="n">merged</span></div>
+
+
+<div class="viewcode-block" id="PacioliParser.generate_rst_structure">
+<a class="viewcode-back" href="../../modules/api/pacioli/parser/index.html#pacioli.parser.PacioliParser.generate_rst_structure">[docs]</a>
+    <span class="k">def</span><span class="w"> </span><span class="nf">generate_rst_structure</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">chapters</span><span class="p">:</span> <span class="n">List</span><span class="p">[</span><span class="n">Dict</span><span class="p">],</span> <span class="n">output_dir</span><span class="p">:</span> <span class="n">Path</span><span class="p">):</span>
+<span class="w">        </span><span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">        Generates the RST folder structure and files.</span>
+<span class="sd">        &quot;&quot;&quot;</span>
+        <span class="k">if</span> <span class="ow">not</span> <span class="n">output_dir</span><span class="o">.</span><span class="n">exists</span><span class="p">():</span>
+            <span class="n">output_dir</span><span class="o">.</span><span class="n">mkdir</span><span class="p">(</span><span class="n">parents</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+
+        <span class="c1"># Create main index.rst</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">create_main_index</span><span class="p">(</span><span class="n">chapters</span><span class="p">,</span> <span class="n">output_dir</span><span class="p">)</span>
+
+        <span class="k">for</span> <span class="n">chapter</span> <span class="ow">in</span> <span class="n">chapters</span><span class="p">:</span>
+            <span class="n">chapter_id</span> <span class="o">=</span> <span class="n">chapter</span><span class="p">[</span><span class="s1">&#39;id&#39;</span><span class="p">]</span>
+            <span class="n">folder_name</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;capitulum_</span><span class="si">{</span><span class="n">chapter_id</span><span class="si">}</span><span class="s2">&quot;</span>
+            <span class="n">chapter_dir</span> <span class="o">=</span> <span class="n">output_dir</span> <span class="o">/</span> <span class="n">folder_name</span>
+            <span class="n">chapter_dir</span><span class="o">.</span><span class="n">mkdir</span><span class="p">(</span><span class="n">exist_ok</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+            
+            <span class="bp">self</span><span class="o">.</span><span class="n">create_chapter_files</span><span class="p">(</span><span class="n">chapter_dir</span><span class="p">,</span> <span class="n">chapter</span><span class="p">)</span></div>
+
+
+<div class="viewcode-block" id="PacioliParser.create_main_index">
+<a class="viewcode-back" href="../../modules/api/pacioli/parser/index.html#pacioli.parser.PacioliParser.create_main_index">[docs]</a>
+    <span class="k">def</span><span class="w"> </span><span class="nf">create_main_index</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">chapters</span><span class="p">:</span> <span class="n">List</span><span class="p">[</span><span class="n">Dict</span><span class="p">],</span> <span class="n">output_dir</span><span class="p">:</span> <span class="n">Path</span><span class="p">):</span>
+        <span class="n">index_content</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;&quot;&quot;</span>
+<span class="si">{</span><span class="n">output_dir</span><span class="o">.</span><span class="n">name</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">&#39;_&#39;</span><span class="p">,</span><span class="w"> </span><span class="s1">&#39; &#39;</span><span class="p">)</span><span class="o">.</span><span class="n">title</span><span class="p">()</span><span class="si">}</span>
+<span class="si">{</span><span class="s1">&#39;=&#39;</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="nb">len</span><span class="p">(</span><span class="n">output_dir</span><span class="o">.</span><span class="n">name</span><span class="p">)</span><span class="si">}</span>
+
+<span class="s2">.. toctree::</span>
+<span class="s2">   :maxdepth: 1</span>
+<span class="s2">   :caption: Chapters</span>
+
+<span class="s2">&quot;&quot;&quot;</span>
+        <span class="k">for</span> <span class="n">chapter</span> <span class="ow">in</span> <span class="n">chapters</span><span class="p">:</span>
+            <span class="n">chapter_id</span> <span class="o">=</span> <span class="n">chapter</span><span class="p">[</span><span class="s1">&#39;id&#39;</span><span class="p">]</span>
+            <span class="n">index_content</span> <span class="o">+=</span> <span class="sa">f</span><span class="s2">&quot;   capitulum_</span><span class="si">{</span><span class="n">chapter_id</span><span class="si">}</span><span class="s2">/index</span><span class="se">\n</span><span class="s2">&quot;</span>
+
+        <span class="p">(</span><span class="n">output_dir</span> <span class="o">/</span> <span class="s2">&quot;index.rst&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">write_text</span><span class="p">(</span><span class="n">index_content</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s1">&#39;utf-8&#39;</span><span class="p">)</span></div>
+
+
+<div class="viewcode-block" id="PacioliParser.create_chapter_files">
+<a class="viewcode-back" href="../../modules/api/pacioli/parser/index.html#pacioli.parser.PacioliParser.create_chapter_files">[docs]</a>
+    <span class="k">def</span><span class="w"> </span><span class="nf">create_chapter_files</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">chapter_dir</span><span class="p">:</span> <span class="n">Path</span><span class="p">,</span> <span class="n">chapter</span><span class="p">:</span> <span class="n">Dict</span><span class="p">):</span>
+        <span class="c1"># index.rst</span>
+        <span class="c1"># Add Anchor and Order</span>
+        <span class="c1"># Add full text in code block</span>
+        
+        <span class="c1"># Extract first line of content for &quot;text of first line after the chapter heading&quot; ??</span>
+        <span class="c1"># The user said &quot;include the full text in the code-block (text of first line after the chapter heading)&quot;</span>
+        <span class="c1"># I assume they mean the *entire* text content of the chapter.</span>
+        
+        <span class="n">index_content</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;&quot;&quot;</span>
+<span class="s2">:order: </span><span class="si">{</span><span class="n">chapter</span><span class="p">[</span><span class="s1">&#39;order&#39;</span><span class="p">]</span><span class="si">}</span>
+
+<span class="s2">.. _capitulum_</span><span class="si">{</span><span class="n">chapter</span><span class="p">[</span><span class="s1">&#39;id&#39;</span><span class="p">]</span><span class="si">}</span><span class="s2">:</span>
+
+<span class="si">{</span><span class="n">chapter</span><span class="p">[</span><span class="s1">&#39;title&#39;</span><span class="p">]</span><span class="si">}</span>
+<span class="si">{</span><span class="s1">&#39;=&#39;</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="nb">len</span><span class="p">(</span><span class="n">chapter</span><span class="p">[</span><span class="s1">&#39;title&#39;</span><span class="p">])</span><span class="si">}</span>
+
+<span class="s2">.. include:: english.rst</span>
+<span class="s2">.. include:: notes.rst</span>
+
+<span class="s2">Original Text</span>
+<span class="s2">-------------</span>
+
+<span class="s2">.. code-block:: text</span>
+
+<span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">indent_text</span><span class="p">(</span><span class="n">chapter</span><span class="p">[</span><span class="s1">&#39;content&#39;</span><span class="p">])</span><span class="si">}</span>
+
+<span class="s2">&quot;&quot;&quot;</span>
+        <span class="p">(</span><span class="n">chapter_dir</span> <span class="o">/</span> <span class="s2">&quot;index.rst&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">write_text</span><span class="p">(</span><span class="n">index_content</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s1">&#39;utf-8&#39;</span><span class="p">)</span>
+        
+        <span class="c1"># english.rst</span>
+        <span class="n">english_content</span> <span class="o">=</span> <span class="s2">&quot;&quot;&quot;</span>
+<span class="s2">Translation</span>
+<span class="s2">-----------</span>
+
+<span class="s2">.. note::</span>
+<span class="s2">   English translation to be added.</span>
+<span class="s2">&quot;&quot;&quot;</span>
+        <span class="p">(</span><span class="n">chapter_dir</span> <span class="o">/</span> <span class="s2">&quot;english.rst&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">write_text</span><span class="p">(</span><span class="n">english_content</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s1">&#39;utf-8&#39;</span><span class="p">)</span>
+        
+        <span class="c1"># notes.rst</span>
+        <span class="n">notes_content</span> <span class="o">=</span> <span class="s2">&quot;&quot;&quot;</span>
+<span class="s2">Notes</span>
+<span class="s2">-----</span>
+
+<span class="s2">.. note::</span>
+<span class="s2">   Notes to be added.</span>
+<span class="s2">&quot;&quot;&quot;</span>
+        <span class="p">(</span><span class="n">chapter_dir</span> <span class="o">/</span> <span class="s2">&quot;notes.rst&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">write_text</span><span class="p">(</span><span class="n">notes_content</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s1">&#39;utf-8&#39;</span><span class="p">)</span></div>
+
+
+<div class="viewcode-block" id="PacioliParser.indent_text">
+<a class="viewcode-back" href="../../modules/api/pacioli/parser/index.html#pacioli.parser.PacioliParser.indent_text">[docs]</a>
+    <span class="k">def</span><span class="w"> </span><span class="nf">indent_text</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">text</span><span class="p">:</span> <span class="nb">str</span><span class="p">,</span> <span class="n">indent</span><span class="p">:</span> <span class="nb">str</span> <span class="o">=</span> <span class="s2">&quot;   &quot;</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">str</span><span class="p">:</span>
+        <span class="k">return</span> <span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&quot;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">indent</span> <span class="o">+</span> <span class="n">line</span> <span class="k">for</span> <span class="n">line</span> <span class="ow">in</span> <span class="n">text</span><span class="o">.</span><span class="n">splitlines</span><span class="p">())</span></div>
+</div>
+
+</pre></div>
+      </div>
+      <footer>
+
+
+        <nav class="context">
+          <div class="prev">
+          </div>
+          <div class="next">
+          </div>
+        </nav></footer>
+    </article>
+
+  </main>
+
+<div class="asides">
+    <aside>
+        <h3>Search</h3>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+    </aside>
+    
+    
+
+    
+
+    
+
+</div>
+<footer>
+    <hr/>
+    <div role="contentinfo">
+        <p>
+                &copy; Copyright .
+        </p>
+    </div>
+</footer>
+
+  <script src="../../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../../_static/documentation_options.js?v=5929fcd5"></script>
+  <script src="../../_static/doctools.js?v=9bcbadda"></script>
+  <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+  <script src="../../_static/js/collection_controls.js"></script>
+
+
+</body>
+</html>
