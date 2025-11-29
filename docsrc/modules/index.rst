@@ -1,10 +1,9 @@
+:navigation: header
+:order: 2
 
 modules
 =======
 
-.. automodule:: geometor.pacioli
-   :members:
-   :undoc-members:
-   :show-inheritance:
+.. include:: api/geometor/pacioli/index.rst
 
 

@@ -1,3 +1,4 @@
+from __future__ import annotations
 import re
 from pathlib import Path
 from typing import List, Dict, Optional
@@ -9,7 +10,12 @@ class PacioliParser:
         self.transcribed_file = resources_dir / "gri-ark--13960-t48p7rw0p-1680998311.txt"
 
     def parse(self):
-        """Main execution method."""
+        """
+        Execute the parsing process.
+
+        This method orchestrates the extraction of TOC and text chapters,
+        merges them, and generates the RST output structure.
+        """
         print(f"Parsing resources from: {self.resources_dir}")
         print(f"Outputting to: {self.output_dir}")
         
@@ -99,8 +105,16 @@ De Divina Proportione
 
     def extract_chapters(self, lines: List[str], start_marker: str, end_marker: str, prefix: str) -> Dict[str, Dict]:
         """
-        Extracts chapters from a section of lines.
-        Returns a dict keyed by Roman Numeral ID.
+        Extract chapters from a section of lines.
+
+        Args:
+            lines: The list of lines to process.
+            start_marker: The string marking the start of the section.
+            end_marker: The string marking the end of the section.
+            prefix: The prefix for chapter headers (e.g., "Cap", "Gap").
+
+        Returns:
+            dict: A dictionary of chapters keyed by Roman Numeral ID.
         """
         chapters = {}
         in_section = False
@@ -173,7 +187,14 @@ De Divina Proportione
 
     def merge_chapters(self, toc_chapters: Dict, text_chapters: Dict) -> List[Dict]:
         """
-        Merges TOC and Text chapters.
+        Merge TOC and Text chapters into a single list.
+
+        Args:
+            toc_chapters: Dictionary of chapters extracted from the TOC.
+            text_chapters: Dictionary of chapters extracted from the text.
+
+        Returns:
+            list: A list of merged chapter dictionaries, sorted by Roman Numeral ID.
         """
         merged = []
         all_ids = set(toc_chapters.keys()) | set(text_chapters.keys())
@@ -215,7 +236,11 @@ De Divina Proportione
 
     def generate_rst_structure(self, chapters: List[Dict], output_dir: Path):
         """
-        Generates the RST folder structure and files.
+        Generate the RST folder structure and files for the chapters.
+
+        Args:
+            chapters: List of chapter dictionaries.
+            output_dir: The directory where RST files will be generated.
         """
         if not output_dir.exists():
             output_dir.mkdir(parents=True)
