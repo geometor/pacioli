@@ -6,4 +6,4 @@ dist/
 .doctrees
 .ipynb_checkpoints
 __pycache__
-tags
+docs
