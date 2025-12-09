@@ -1,6 +1,8 @@
 pacioli
 =======
 
+A system for tracking and analyzing the works of Fra Luca Pacioli.
+
 .. include:: intro.rst
 
 

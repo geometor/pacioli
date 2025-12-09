@@ -1,17 +1,13 @@
+:navigation: header
+:order: 1
+
 mission
 =======
 
-.. contents::
-   :local:
-   :backlinks: none
-
-
-.. todo:: complete mission statement
+    track and analyze the works of Fra Luca Pacioli
 
 goals
 -----
 
-.. .. postlist:: 
-   :category: GOALS
-   :excerpts:
-
+.. collection::
+   :sort: order
