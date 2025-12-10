@@ -1,0 +1,9 @@
+XXXVIII. Inclusion of the Tetrahedron in the Octahedron
+
+**Proposition**
+The Tetrahedron can be inscribed in the Octahedron.
+
+**Construction**
+1.  Inscribe a Cube in the Octahedron (as in XXXVII).
+2.  Inscribe a Tetrahedron in that Cube (as in XXXV).
+3.  Therefore, the Tetrahedron is inscribed in the Octahedron.

@@ -1,0 +1,11 @@
+XLII. Inclusion of the Octahedron in the Dodecahedron
+
+**Proposition**
+The Octahedron can be inscribed in the Dodecahedron.
+
+**Construction**
+1.  Inscribe a Cube in the Dodecahedron (as in XLI).
+2.  Inscribe an Octahedron in that Cube (as in XXXVI) by connecting the centers of the Cube's faces.
+3.  Therefore, the Octahedron is inscribed in the Dodecahedron.
+    The 6 vertices of the Octahedron correspond to the centers of the 6 faces of the inscribed Cube, which align with the orientation of the Dodecahedron's structure.
+    (Euclid XV.9).

@@ -1,0 +1,77 @@
+Cap. XXVIII.
+
+    Wie das Oktaeder gebildet wird, welches genau in die Kugel sich beschreiben lässt, und sein Verhältniss zur Kugel.
+
+
+Es ist drittens der aus acht Dreieckflächen bestehende
+Körper zu construiren, das sogenannte Oktaeder, der ebenfalls
+von einer angenommenen Kugel genau umschlossen sein soll,
+von welcher Kugel allein der Durchmesser uns bekannt sei. Und
+das geschieht auf folgende Art: Man nehme den Durchmesser
+der Kugel, welches die Linie ab sei, die man im Punkte c
+halbire, und über der ganzen Linie schlage man den Halbkreis
+abd und ziehe cd senkrecht zur Linie ab; und sodann verbinde
+man den Punkt d mit dem Endpunkte des genannten Durch-
+messers, nämlich mit a und mit b. Sodann bilde man ein Qua-
+drat, dessen sämmtliche Seiten gleich der Linie bd sind, und
+dies Quadrat sei efgh. Und in diesem Quadrate ziehe man zwei
+Durchmesser, wovon der eine eg, der andere fh sei. Diese
+schneiden sich unter einander im Punkte k. Daher ist nach der
+vierten des ersten klar, dass jeder dieser Durchmesser gleich der
+Linie ab ist, die als Durchmesser der Kugel angenommen wurde,
+indem der Winkel d nach dem ersten Theile der dreissigsten
+des dritten ein rechter ist. Und weiter ist jeder der Winkel
+e, f, g, h ein rechter, nach der Definition des Quadrats. Und
+ferner ist klar, dass jene beiden Durchmesser eg und fh sich
+
+') seil. Kubus.
+
+
+
+2iq
+
+unter einander zu gleichen Theilen im Punkte k theilen. Und
+es erhellt leicht durch Ableitung aus der fünften und zweiund-
+dreissigsten und sechsten des ersten. Nun errichte man über k
+die Linie kl senkrecht zur Ebene des Quadrats: welche Senk-
+rechte man gleich der Hälfte des Durchmessers eg oder flx
+mache; und dann lasse man die Hypotomisseni) le, If, lg, Ih
+herab. Und alle diese Hypotomissen werden nach dem Vor-
+erwähnten und Vorausgesetzten, mittelst der vorletzten des
+ersten, die so oft wie es nöthig wiederholt angegeben, unter
+sich und ebenso gleich den Seiten des Quadrats sein. Wir haben
+also bis hierher eine Pvramide von vier gleichseitigen Dreiecks-
+flächen über dem genannten Quadrate erreicht, welche Pyramide
+die Hälfte des achtflächigen Körpers ist, den wir suchen. Machen
+wir sodann unterhalb des genannten Quadrats eine andere,
+dieser ähnliche Pyramide auf dieselbe Art, nämlich : Wir werden
+die genannte Linie Ik ziehen, indem sie das genannte Quadrat
+durchbohrt und durchdringt bis zum Punkte m, in der Art, dass
+die Linie km, welche sich unterhalb des Quadrats befindet, gleich
+der Linie Ik sei, die über dem genannten Quadrate steht. Und
+sodann werde ich den Punkt m mit allen Eckpunkten des
+Quadrats verbinden, indem ich vier andere hypotomissenartige
+Linien, nämlich me, mf, mg, mh ziehe. Und auch von diesem
+wird nach der vorletzten des ersten und den andern vorher
+angeführten bewiesen, dass sie unter sich und auch den Seiten
+des genannten Quadrats gleich seien, wie es von den andern
+Hypotomissen oberhalb des Quadrats bewiesen wurde. Und so-
+mit wird, wenn man stets mit Sorgfalt die oben genannten
+Dinge beachtet, der Körper von acht gleichseitigen Dreiecks-
+flächen beendet sein, der genau von der Kugel umschrieben sein
+wird. Das Verhältniss zwischen der Kugel und dem genannten
+Körper ist^ dass das Quadrat des Durchmessers der Kugel zum
+Quadrat der Seite des genannten Körpers genau doppelt ist,
+d. h. wenn der genannte Durchmesser 8 wäre, so würde die
+Seite des Oktaeders =1X32 sein, denn deren Potenzen stehen
+unter einander im doppelten Verhältniss, nämlich das Quadrat
+
+1) cfr. Gap. I.XXI.
+
+
+
+des Durchmessers ist das Doppelte vom Quadrat der Seite des
+genannten Körpers, und so haben wir die Construction und das
+Verhältniss hinsichtHch der Kugel etc.
+
+

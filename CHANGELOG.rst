@@ -1,22 +1,13 @@
-changelog
-=========
 
-:project: geometor.pacioli
+0.1.0 (2025-12-10)
+------------------
 
-0.0.2
------
+*   Synthesized English translations of *De Divina Proportione* (Book I) Chapters I-LXXI.
+*   Implemented `winterberg-parser` to process the 1896 Winterberg bilingual edition.
+*   Established file structure for parsed chapters (Italian, German, English).
+*   Added `winterberg_en/divina_en_2` directory for synthesized "Euclid-like" translations.
+*   Added `PacioliParser` class for text extraction and cleaning.
 
--   Refined docstrings and type hinting.
--   Fixed `from __future__ import annotations` placement.
-
-0.0.1 
------
-
-:init: 2025.330
-:merge:
-:pub: 
-
-  tracking the works of Fra Luca Pacioli
-
-- initalize project
-
+0.0.2 (2025-??-??)
+------------------
+*   Initial project setup.

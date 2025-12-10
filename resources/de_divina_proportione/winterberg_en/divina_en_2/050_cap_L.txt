@@ -1,0 +1,16 @@
+L. Variations of the Octahedron
+
+**I. Plane/Solid Octahedron**
+The standard body. 8 faces, 6 vertices, 12 edges.
+
+**II. Abscinded (Truncated) Octahedron**
+Created by cutting the vertices of the Octahedron at 1/3 of the edge length.
+*   Faces: 14 (8 Hexagons, 6 Squares).
+*   Vertices: 24.
+*   Edges: 36.
+
+**III. Elevated Octahedron (Triakis Octahedron)**
+Created by constructing pyramids on the faces of the Octahedron.
+*   Faces: 24 (Triangular).
+*   Vertices: 14 (6 original, 8 new apices).
+*   Edges: 36.

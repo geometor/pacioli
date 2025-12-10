@@ -1,0 +1,19 @@
+Cap. XVI.
+
+Of its seventh incredible effect.
+
+If one adds the side of the equilateral hexagon to the
+side of the equilateral decagon, which both are understood as described in
+one and the same circle, so will
+their sum always be a magnitude divided according to our said propor-
+tion. And its greater segment will be the
+hexagon side, e.g. let be the side of an equilateral
+hexagon described in the circle sqrt(125) - 5, and the side
+of the equilateral decagon in the same circle be 15 - sqrt(125)
+of which circle the diameter will be sqrt(500) - 10 [Note: sqrt(500) - 10? No. Hex side is r. Decagon side is r(sqrt(5)-1)/2. If r = sqrt(125)-5 = 5(sqrt(5)-1). Then d = 10(sqrt(5)-1) = 10sqrt(5)-10 = sqrt(500)-10. Correct.]. I
+say, that the sum of sqrt(125) - 5 plus 15 - sqrt(125), which
+makes ten, is divided according to our proportion and its
+greater segment is sqrt(125) - 5, and the smaller 15 - sqrt(125)
+as repeatedly has been stated to divide the number Ten.
+And this is proven geometrically by the ninth
+of the 13th.

@@ -9,7 +9,11 @@ GEOMETOR • pacioli
 Overview
 --------
 
-``geometor.pacioli`` is a dedicated toolset for processing and studying the texts of Fra Luca Pacioli. It includes parsing utilities and a terminal-based user interface (TUI) for navigating and analyzing the content.
+To provide a structured, digital environment for studying the works of Fra Luca Pacioli, integrating text analysis with the geometric and mathematical insights found in his treatises.
+
+Current Status (v0.1.0)
+-----------------------
+Completed synthesis of *De Divina Proportione* (Book I) English translation.
 
 Features
 --------

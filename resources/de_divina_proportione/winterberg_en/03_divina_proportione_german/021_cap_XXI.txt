@@ -1,0 +1,54 @@
+Cap. XXI.
+
+Of its twelfth almost incomprehensible effect.
+
+If a magnitude is divided according to our named proportion,
+so behaves the root of the sum of
+the square of the whole magnitude and the square of its
+greater segment to the root of the sum of the square
+of named magnitude and the square of its smaller segment,
+as the side of the Cube to the side of the Triangle of the icosahedral
+body.*) Let be for example 10 the magnitude divided according to the proportion, which
+has a mean and two extreme segments,
+so that the one part, namely the greater, as frequently
+said, is sqrt(125) - 5 and the smaller 15 - sqrt(125). Now
+one squares the named given magnitude 10, i.e. multi-
+plies it with itself, so that yields 100, and one squares
+further its greater segment, namely sqrt(125) - 5, which multi-
+plied with itself will yield 150 - sqrt(12500), and
+one squares also the smaller segment, i.e. 15 - sqrt(125), which
+multiplied with itself makes 350 - sqrt(112500). Now one adds to
+the square of the greater segment, namely to 150 - sqrt(12500)
+the square of the whole magnitude namely 10, which is 100, so
+results 250 - sqrt(12500). The same square of the named magnitude,
+i.e. 100, one adds to the square of the smaller segment,
+which, as we found, 350 - sqrt(112500), to which 100 added,
+will result 450 - sqrt(112500). Now I assert, that the
+ratio of the root of the one sum, i.e. 250 - sqrt(12500)
+which was formed from the square of the named magnitude and that of the
+greater segment, to the root of the other
+sum, which is formed from the square of the named magnitude and that
+of its smaller segment, i.e. 450 - sqrt(112500),
+be exactly the same, as the ratio of the side of the Cube to the
+Triangle-side of the icosahedral body; if both bodies
+are circumscribed or enclosed by one and the same sphere.
+These roots of the sums are designated as Power-lines *) of the
+named sums, i.e. sqrt(250 - sqrt(12500)) signifies
+a magnitude, whose power or square is exactly the named
+sum. And likewise signifies sqrt(450 - sqrt(112500)) a magnitude,
+whose power, or we will say square, is exactly 450 - sqrt(112500),
+which roots with other name are called by the practitioners
+universal roots or also connected roots
+as also becomes clear in our aforementioned work in the third
+Tractate of its eighth distinctio at the beginning of Sheet 120
+of the named Volume. The investigation of these magnitudes
+is highly subtle and they refer to speculative practice,
+as it reveals itself in detailed manner in the named Volume.
+- And these all, Exalted Prince, it is not possible,
+to indicate with lower characteristics. And this whole specu-
+lative effect is proven geometrically by means of the ninth of the fourteenth
+besides some others cited in that place by
+Campanus.
+
+*) Source writings f. Art History N. S. II. 15.
+*) i.e. lines whose square is equal to the sum.

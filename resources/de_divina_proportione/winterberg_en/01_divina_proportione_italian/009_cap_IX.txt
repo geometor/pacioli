@@ -1,0 +1,7 @@
+Cap. IX.
+
+(What is root of a number and of another quantity.)
+
+And because in our process often will happen to name Roots therefore succinctly here it seems to me [necessary] to clarify what that imports, although diffusely in our work has been said of it in all ways. Nevertheless I say the root of a quantity to be precisely a quantity which multiplied in itself makes that quantity of which it is said to be Root and that such multiplication made in itself is called square of said root. As we say the R. of 9. to be 3. and of 16. to be 4. and of 25. to be 5 so in the others and 9. and 16. and 25 are called squares. And for this it is to be known that there are some quantities which have not a R. that can be named precisely by number. As 10. has not a number which multiplied in itself makes precisely 10. and so 11. 12. 13. and other similars. And therefore are and are born two sorts of R. one called discrete, or we want to say rational and is that which can be assigned precisely by number as of 9 the R. will be 3. And the other is called surd, and will be that which cannot be given precisely by number. As we have said of the R. of 10 and others. And these by another name are called irrational. because all those quantities which cannot be assigned precisely by number in the art are called irrational. and those which can be given by number are called rational. And this for our purpose of the R. suffices.
+
+

@@ -1,0 +1,16 @@
+LIII. The Body of 26 Bases (Small Rhombicuboctahedron)
+
+**I. Plane/Solid 26-Base Body**
+Derived from the Cube by cutting/expansion (Cantellation).
+*   Faces: 26 (18 Squares, 8 Triangles).
+    *   18 Squares = 6 from original cube faces + 12 from edges.
+    *   8 Triangles = from the 8 corners.
+*   Vertices: 24.
+*   Edges: 48.
+*   Solid Angles: 24 (formed by 1 Triangle and 3 Squares).
+
+**II. Elevated 26-Base Body**
+Created by constructing pyramids on all 26 faces.
+*   Pyramids: 26 (18 Quadrangular, 8 Triangular).
+*   Edges: 144.
+*   Faces: 96? (Dimensions become complex).

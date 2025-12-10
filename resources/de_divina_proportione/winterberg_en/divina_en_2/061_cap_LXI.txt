@@ -1,0 +1,10 @@
+LXI. The Pentagonal and Multilateral Column
+
+**Definition**
+A pentagonal column is a laterated body contained by two parallel pentagonal bases and five lateral parallelogram faces.
+
+**Generalization**
+Columns can be formed with any rectilinear polygonal base (Hexagonal, Heptagonal, etc.).
+*   **Structure**: 2 parallel Bases (n-sided polygons) + n Lateral Faces (Rectangles).
+*   **Naming**: Derived from the shape of the base.
+*   **Condition**: The lateral faces are always rectangular parallelograms (in a right prism).

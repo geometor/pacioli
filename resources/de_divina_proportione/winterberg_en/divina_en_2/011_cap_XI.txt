@@ -1,0 +1,18 @@
+XI. Converse of the First Effect
+
+**Proposition**
+If a quantity is divided into two parts, and to one part a quantity is added such that the square of the sum is 5 times the square of the added quantity:
+Then the added quantity is half of the original divided quantity.
+And the part to which it was added is the greater segment of the original quantity divided according to the Divine Proportion.
+
+**Example**
+Let the two parts be $15 - \sqrt{125}$ (lesser) and $\sqrt{125} - 5$ (greater).
+Add 5 to the greater part: $(\sqrt{125} - 5) + 5 = \sqrt{125}$.
+Square of sum: $(\sqrt{125})^2 = 125$.
+Square of added quantity: $5^2 = 25$.
+$125 = 5 \times 25$.
+
+**Conclusion**
+The added quantity (5) is half of the original quantity (10).
+The part to which it was added ($\sqrt{125} - 5$) is the greater segment of 10 divided in Divine Proportion.
+(Euclid XIII.2)

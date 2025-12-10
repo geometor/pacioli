@@ -1,0 +1,11 @@
+XLIV. Inclusion of the Cube in the Icosahedron
+
+**Proposition**
+The Cube can be inscribed in the Icosahedron.
+
+**Construction**
+1.  Inscribe a Dodecahedron in the Icosahedron (as in XXXIX).
+2.  Inscribe a Cube in that Dodecahedron (as in XLI).
+3.  Therefore, the Cube is inscribed in the Icosahedron.
+    The 8 vertices of the Cube rest on the centers of 8 of the 12 Pentagonal faces of the inscribed Dodecahedron, which in turn are derived from the Icosahedron.
+    (Euclid XV.11).

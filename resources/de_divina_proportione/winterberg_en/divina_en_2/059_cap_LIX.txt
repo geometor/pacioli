@@ -1,0 +1,10 @@
+LIX. The Triangular Column (Prism)
+
+**Definition**
+A triangular column is a laterated (angular) body contained by two parallel triangular bases and three lateral parallelogram faces.
+
+**Structure**
+*   **Bases**: Two triangles (Equilateral, Isosceles, or Scalene).
+*   **Lateral Faces**: Three parallelograms (Rectangles if the prism is right).
+*   **Total Surfaces**: 5.
+*   Also known as a "Seratile Body" (wedge-shaped or roof-like).

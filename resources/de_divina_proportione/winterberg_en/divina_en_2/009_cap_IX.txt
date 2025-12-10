@@ -1,0 +1,9 @@
+IX. Definition of Root
+
+**Definition**
+The Root of a quantity is that quantity which, multiplied by itself, produces the given quantity.
+The product is called the Square.
+
+**Types of Roots**
+1.  **Discrete (Rational)**: Can be expressed by a number. (e.g., $\sqrt{9} = 3$).
+2.  **Surd (Irrational)**: Cannot be expressed precisely by a number. (e.g., $\sqrt{10}$).

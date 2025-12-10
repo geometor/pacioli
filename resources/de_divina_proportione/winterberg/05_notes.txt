@@ -1,0 +1,716 @@
+
+Anmerkungen.
+
+^) Gap. VII, pag. igS, 4. Zeile v. u.
+
+Da die Definition der stetigen Theilung nach Euklid ge-
+wöhnlich so angegeben wird, wie am Schluss des Capitels gesagt,
+d. h. wenn die gegebene Linie in zwei Abschnitte zerfällt, wovon
+das Quadrat des grössern gleich dem Product aus der ganzen
+Länge mal dem kleinern Abschnitte ist, so sei zum, Nachweise der
+Identität der letztern mit der zu Anfang dieses Capitels gegebenen
+Definition Folgendes bemerkt:
+
+' Es sei nach der bekannten Euklidi-
+
+< l_ :f sehen Definition die Linie ac im Punkte
+
+b stetig getheilt, so dass:
+Vor. ab' = ac . bc so wird behauptet:
+
+Bs. Nach Vor. ist:
+
+ah'^^^aci^ac — ab) oder
+ac'^= ah^ 4- ab ac
+
+Fügt man rechts und links I — I hinzu, so folgt die Be-
+hauptung:
+
+^) Cap. VII, pag. 198, 14. Zeile v. u. Diese Folgerung ergibt
+
+2. sich, indem man sich die Linie
+
+7 j ab in c halbirt, und sodann bc
+
+I- \. '^ ^^ auf die gewöhnliche Art stetig
+
+getheilt denkt. Betrachtet man
+dann die 3 Thcilc, aus denen die Linie ab besteht, so ist der
+gr()sserc Abschnill ac ^=^ cd -[ bd.
+
+•') Cap. XII, pag. 2o3, 3. Zeile v. o. Mathematisch ausge-
+drückt, heisst dies iiiil liez. auf Fic;. i:
+
+
+
+
+Vor. ab'^- = ac . bc
+
+Bs. ab'^-^bc^-l- ab. bc (nach Vor.), daher analog wie
+
+durch HinzufÜgung von — rechts und links-
+
+Setzt man
+Beispiels ein:
+
+die Werthe des Cap.
+
+"'+»cy
+
+XII behandelten
+
+ab= [/i25 — 5
+
+so ergibt sich die Richtigkeit durch Uebereinstimmung der beiden
+Seiten der letzten Gleichung ohne weiteres.
+
+Form U' Fig™; '''• ""'' '• ^"^^ '■ °- ^" --thematischer
+Vor .cd'^ .= bc .bd
+Bh. ac''- = ad.cd
+Bs. Nach Vor. ist cd (ad - ac) = ac.bd folglich
+
+ad .cd = ac{bd -|- ci) = ac''-
+
+heisstlv?^/f^"lr'-^''^^°^' '"- ^'^^' ^- ^- ^^^ ^»gemeiner Form
+R. .i> ? ^f- '^ ""'''" '^''' ^'•"heren Voraussetzung-
+Bh. bd^-\-bc^ = 2, cd'-
+
+Bs. a) bc-i^ad.cd (nach 4) oder auch:
+= bc.cd-^cd^
+b)bd-2 = (bc--cd)'^ = bc'i-2bc.cd-{-cd'i
+
+bc . cd
+
+~bc^^^j^Jd^r^Vcd^^Ub^^^~~J^^^~^ durch Addition
+
+von a) und b) :
+
+= 2cd2-}-bc. bd also nach i)
+
+= 3 cd^ w. z. b.
+
+") Gap. XVI, pag. 20 5,
+1 1. Zeile V. u. Dies folgt unmittel-
+bar aus % wenn man berück-
+sichtigt, dass die 10 -Ecksseite
+der grössere Abschnitt des stetig
+getheilten Radius ist.
+
+7) Gap. XVIII,- pag. 206,
+II. Zeile V. u. Der Beweis folgt
+aus der Aehnhchkeit der gleich-
+schenkligen Dreiecke:
+
+bea und baf, wonach sich
+unmittelbar ergibt:
+
+ca ba,
+
+Va~af ^•'^■^^' = ^^.q/oder, da ba ^ bc = cf, cf- = ca . af
+
+
+
+
+S) Gap. XXI, pag. 209, i3. Zeile v. u. Bezeichnet man
+
+mit s, s' resp, die Seiten des Kubus und des regulären Ikosae-
+
+ders, so wird, wenn die Linie ab in c stetig getheilt ist (Fig. 4),
+behauptet:
+
+Bh. ]/^^^^±^ = i.
+V ab^-j-bc'^ s'
+
+Bs. Der Ausdruck unter den Wurzelzeichen links lässt sich
+vereinfachen, indem zuf. Vor. :
+
+a) ac'^ = ab . bc
+h) bc^ = {ab — ac)'^
+Durch Einsetzen dieser Ausdrücke und Ausführung der Qua-
+dratur des letzteren erhalt man:
+
+ab'^ -f- ac^ ab (ab -|- bc) ab -\- bc
+
+ab-^ 4- bc-^ "" 3 ab.bc ~ ~TTc~
+
+Aus der Gleichung a), nachdem darin ac = ab — bc gesetzt,
+erhält man :
+
+tc2 — 3 ab ac -j- ab'^=^o, durch deren Auflösung:
+
+Setzt man dies in den vorstehenden Quotienten ein, so er-
+hält man:
+
+1 /" ab'^^ac^ _ 1 /' abJr^c ^ i/^ 5 + ]/!
+r ab'i -f bc^ f^ 3 bc f 6
+
+Derselbe Werth ergibt sich aber auch, wenn man das Ver-
+
+hältniss von — durch den Radius r der umschriebenen Kugel aus-
+s'
+
+gedrückt berechnet, indem bekanntlich ist:
+2r
+
+4^
+
+l/lO-l- 2-|/-
+
+somit^=|/"üL
+
+9) Gap. XXII, pag. 211, 7. Zeile v. o. Vgl. hierüber den
+Tractat über die fünf regelmässigen Körper (Tract. II, Gas. 2C)
+u. s. w.)
+
+^"j Gap. XXVI, pag. 216, 12. Zeile v. o. Bekanntlich ver-
+halten sich in jedem regulären Tetraeder die Abschnitte der drei
+Höhen, welche sich im Gentrum der umschriebenen Kugel vom
+Radius r schneiden, zu einander wie i : 3. Bezeichnet man nun
+den kleinern Abschnitt mit x und denkt sich ferner eine der Hohen
+über die Grundfläche hinaus bis zum Durchschnitt mit der Kugel
+
+
+
+
+verlängert, so ergibt sich das Verhältniss dieser Verlängerung
+
+zu der Hohe des Tetraeders, welches in der Figur des Textes
+
+durch bc : ac ausgedrückt wird:
+
+ber — X . . >~
+
+folglich, da dem Vorigen gemäss x = -^ :
+
++
+
+bc
+
+
+Alles Uebrige ergibt sodann der Text von selber.
+
+1^) Gap. XXVII, pag. 217, 17. Zeile v. o. Bekanntlich ist
+das Quadrat der Diagonale eines Quadrats doppelt so gross als das
+Quadrat der Seite. Denkt man sich nun durch eine der drei Haupt-
+axen des Kubus und eine Kante eine Ebene gelegt, so schneidet
+sie die umschriebene Kugel in einem Kreise, dessen Durchmesser
+jene Axe (ab), deren zwei von
+ihren Endpunkten ausgehende
+Sehnen, respective die Seite
+(bd) und Diagonale {ad) des
+ihm angehörigen Quadrats ist.
+
+Daher hat man nach be-
+kannten Sätzen:
+
+W2 = bc.ab
+
+2 bd'^, erhält man durch
+
+ad'^ = ac.ab
+
+somit, da dem Vorherigen zufolge ad'
+
+Division vorstehender Gleichungen:
+
+bc I
+
+— ^^— w. z. b.
+
+ac 2
+
+12) Gap. XXIX, pag. 220, i5. Zeile v. o.
+Bekanntlich ist die Seite a des regulären Iko-
+saeders, durch den Halbmesser der umgeschrie-
+benen Kugel ausgedrückt:
+
+a = —^=^L=
+1/10 + 2 1/1
+Denkt man sich nun durch die Axe ab
+und eine Kante ad des Ikosaeders eine Ebene
+gelegt, welche zugleich die Kugel im Halbkreise
+adb schneidet, so ist nach bekannten Sätzen:
+_ad'^_a^
+ab 2r
+Setzt man den vorstehenden Werth von a hier ein, so ergibt sich:
+I
+
+ac
+
+^\ ]i}
+
+
+
+H'-
+
+woraus hervorgeht, dass:
+
+ac = cm
+
+v'-i
+
+somit das Doppelte :
+
+Nun ist dem Text zu
+folge (cfr. Fig. b) bekanntlich
+
+— ^=1 wenn der Durchmesser mit d bezeichnet wird.
+
+bcV~
+
+d sonach:
+
+b)
+
+bd=^cc', d. h. gleich der
+Länge der im Text als Kathe-
+ten bezeichneten Hohen, welche
+man in den Ecken der eben- </
+da angegebenen Fünfecke zu errichten hat, welche sich in einer zur
+Axe (cfr. Fig. a) ab senkrechten Ebene durch die Punkte c, c' be-
+finden. Der Radius r' des diesen Fünfecken (oder auch dem im
+Texte genannten Zehneck) umschriebenen Kreises ist aber, wenn a,
+wie es sein muss, als Seite des Ikosaeders, zugleich Fünfeckseite
+sein soll, durch diese bekanntlich:
+
+= ^^5°+ '""V
+
+oder, wenn man hierin für a den zu Anfang angegebenen Werth setzt:
+
+,,;^^]/^ 25-f-5]/i _ d^
+
+d. h. es muss r' genau gleich der Linie bd des Textes und zu-
+gleich gleich den als Katheten bezeichneten Höhen sein, wie
+solches der dort angegebenen Construction zufolge auch wirklich der
+Fall. Hiernach hat das Verständniss des Uebrigen keine Schwierigkeit.
+^"^) Cap. XXX, pag. 224, 4. Zeile v. u. Dies ergibt sich unter
+Beibehaltung der Figur des Textes i) folgendermassen:
+Es ist der Construction zufolge:
+
+In'^ z= an- — A'e^ — le'-
+= 4 A'/2 — ke'^ — /e2
+(da an als Kante des Dodekaeders gleich hn u. s. w. ist).
+Diese Gleichung kann man auch schreiben:
+In'^ = 2 W2 (/fe2 —2ke. le -}~ le'-)
+da kr^ = ke.le
+folglich:
+
+/«2 = 2 /f/2 — (ke - /e)2 =r A72 w. z. b.
+1^) Cap. XXX, pag. 32 5, 5. Zeile
+am einfachsten, wenn man sich über ek alj
+
+V. o. Dies
+Durchmesser
+
+ergibt sich
+einen Jlalh-
+
+') Fig. s. f. S. ölen.
+
+
+
+
+kreis denkt und im Punkte / eine Senkrechte bis zum Durchschnitt
+(m) mit ihm, sowie die Sehnen em, km zieht.
+Dann ist nach Voraussetzung:
+/f/2 r- ke el
+
+\ \7l
+
+ß
+
+v
+
+r
+
+t
+
+k '^^
+
+Ferner ist nach bekannten Sätzen:
+el- =: ein^ — ml- ^^^'
+
+ke- ^ em- -\- mk- also addirt:
+el'^ -\- ke- =: 2 em- -f- mk- — inl-
+z=: 2 em- -j- //c^
+
+Da ferner:
+em- = el . ek = Ik- so folgt:
+el- -\- ke- = 3 em- av. z. b.
+
+15) Die hier ausgesprochene Behauptung ist offenbar falsch,
+denn auf ganz analoge Art wie das Oktaeder dem Dodekaeder sich
+einbeschreiben lässt, kann es auch dem Ikosaeder eingeschrieben
+werden. Man braucht sich zu diesem Zweck nur die Mitten je
+zweier sich parallel gegenüberliegenden Kanten verbunden denken.
+Unter ihnen wird man drei solche als Axenkreuz wählen, welche
+senkrecht aufeinander stehen, was auf vielfache Art möglich. Damit
+ist zugleich die Lage des Oktaeders bestimmt. Der Grund, warum
+Pacioli das Vorhandensein dieser einfachen Thatsache leugnet.
+
+
+
+
+scheint aus dem einseitigen Bestreben hervorgegangen zu sein, im
+Sinne der platonischen Lehre einem unter den fünf Körpern dem
+Dodekaeder vor allen andern den Vorzug grösster Vollkommenheit
+zuzuerkennen, eine Anschauung, die sich nach dem Vorherigen als
+durchaus unhaltbar beweist. ^) Mit mehr Recht würde des Ver-
+fassers Annahme als zulässig erscheinen, hätte er als Massstab
+seines Urtheils nicht die Frage entscheiden lassen, welchem Körper
+die meisten andern sich einbeschreiben lassen, sondern welcher
+Körper sich der Kugel als dem, nach seiner Anschauung voll-
+kommensten Körper am meisten nähere, wenn sie sämmtlich
+derselben Kugel einbeschrieben gedacht werden, d. h. welcher die
+grösste Oberfläche und das grösste Volumen umfasse ? Hierbei
+stellt sich nämlich wie leicht nachweisbar die Entscheidung ent-
+schieden zu Gunsten des Dodekaeders.
+
+16) Hinsichtlich der Art des Zustandekommens der regulären
+Körper und der von ihnen abhängigen unterscheidet der Verf.
+zwei Classen, nämlich ebene (einfache) und abgeschnittene regel-
+mässige Körper, die er in volle und hohle eintheilt. Diese einfachen
+und abgeschnittenen werden dann ferner noch dadurch modificirt,
+dass man sich auf ihren Seitenflächen gleichseitige Pyramiden er-
+richtet denkt. Der entgegengesetzte Fall, diese Pyramiden über
+denselben Flächen ins Innere des Körpers hineinzuconstruiren,
+wird nicht erwähnt. Die auf die zuerst angegebene Art erhaltenen
+sternförmigen Körper sind ebenfalls in eine Kugel construirbar, welche
+alle Pyramidenspitzen umfasst, und es liegt die Frage nahe, welcher
+Körper entsteht, wenn man die Pyramidenspitzen als dessen Ecken
+betrachtet. Man erkennt iinmittelbar, dass sich dafür wieder ein-
+fache reguläre Körper ergeben. Das erhöhte Tetraeder z. B. würde
+zum einfachen Tetraeder. Der erhöhte Kubus zum einfachen Okta-
+eder, das erhöhte Oktaeder zum einfachen Kubus führen u. s. f.
+Umgekehrt ersieht man, dass durch Abtragen der Pyramiden nach
+innen ganz das Analoge stattfinden würde. Die ganze Auffassung
+lässt sich jedoch verallgemeinern und es möge in dieser Beziehung
+die folgende kurze Andeutung hier Platz finden:
+
+Die fünf einfachen regulären Körper verhalten sich hinsicht-
+lich der Anzahl ihrer Ecken, Kanten und Seitenflächen zwei und
+zwei reciprok zu einander. Das Tetraeder entspricht nur sich selbst
+d. h. es gibt nur diese Figur, welche bei sechs Kanten zugleich
+vier Ecken und vier Seitenflächen enthält. Der Kubus entspricht
+dem Oktaeder und umgekehrt, sofern jener bei zwölf Kanten acht
+Ecken und sechs Flächen, dieses bei derselben Kantenanzahl sechs
+Ecken und acht Flächen enthält. Dem Ikosaeder entspricht das
+Dodekaeder und umgekehrt, da jenes bei 3o Kanten 12 Ecken
+
+') Uebri,t;i-ns Iiat schon Tartaglili im General-Tratiato diese Ansicht
+
+widi;rlct;t.
+
+
+
+
+und 20 Seitenflächen, dieses bei derselben Kantenanzahil 12 Flächen
+und 20 Ecken enthält. Je zwei solcher zusammengehöriger Körper
+mögen der Kürze wegen als reciproke bezeichnet werden. Aus
+einem derselben ergibt sich dann dem Vorherigen gemäss der
+reciproke auf zweierlei Art:
+
+1 Durch Verwandlung der Seitenflächen in Eckpunkte, wie
+dies durch Aufsetzen oder Aushöhlen von Pyramiden geschieht, in-
+dem man deren Spitzen als die Ecken des neuen Körpers betrachtet;
+
+2 durch Verwandlung der Ecken in Ebenen, d. h. durch
+Abschneiden der Ecken. In diesem Falle muss jedoch ein ge-
+wisses Minimum erreicht oder überschritten sein bezüglich der Höhe
+der abzuschneidenden Pyramiden, deren Spitzen jene Ecken, damit
+der erhaltene Körper der reciproke des gegebenen sei. Dasselbe
+wird dadurch bedingt, dass sich sämmtliche um die Ecken einer
+Figur der Seitenfläche des regulären Körpers geführten Schnitte im
+Schwerpunkt dieser Figur schneiden müssen, oder die Seitenflächen
+müssen durch das Abschneiden der Ecken in Punkte übergehen.
+
+Der analoge Fall von i würde der sein, wo die Höhe der
+Pyramiden genau so bemessen wäre, dass die Spitzen sämmtlicher
+Pyramiden, welche auf den in einer Ecke zusammenstossenden
+Seitenflächen des gegebenen Körpers errichtet werden, mit seiner
+Ecke genau in einer Ebene liegen.
+
+Wie man leicht erkennt, wird in diesem Falle der neue
+Körper diejenige Kugel umhüllen, welche dem ursprünglichen um-
+schrieben ist, während im vorherigen Falle der durch Abschneiden
+der Ecken erhaltene von derjenigen Kugel umhüllt sein wird,
+welche dem ursprünglichen Körper einbeschrieben ist.
+
+1^) Wenn auch Pacioli die Bedeutung -t? <>• -r>'
+
+der fünf regelmässigen Körper in theore-
+tischer wie in praktischer Hinsicht weit
+überschätzt, so scheint es gleichwohl von
+Interesse, und nicht blos vom historischen
+Standpunkte aus, sondern auch aus wirk-
+lich praktischen Gesichtspunkten, auf die
+Theorie dieses Gegenstandes, welcher heut-
+zutage ohnehin in den meisten Bildungsan-
+stalten Unverdientermassen vernachlässigt wird, etwas nlher emzu-
+gehen, um die Eigenschaften jener Körper in ihrem gegenseitigen
+Zusammenhange leichter zu verstehen und zu verfolgen. Es werden
+hierdurch leicht alle auf die gegenseitige Einbeschreibung bezüg-
+lichen Fragen erledigt.
+
+Von irgend einem beliebigen Körper oder sonstigem geo-
+metrischen Gebilde kann man stets die Elemente, aus denen das-
+selbe zusammengesetzt ist, beim Körper die Ecken und Grenzflächen
+in zweierlei Art aufeinander bezogen denken;
+
+
+
+
+entweder indem man jeder Ecke des einen eine solche des
+andern, oder jeder Ebene des einen eine ebensolche des andern nach
+einem bestimmten Gesetz zuordnet; eine solche Beziehung ist
+eine directe;
+
+oder man ordnet zu jeder Ecke des ersten eine Grenzfläche
+des zweiten oder umgekehrt zu jeder Grenzfläche des ersten eine
+Ecke des zweiten; eine solche Beziehung heisst eine reciproke.
+
+Gegenseitigkeit oder Wechselwirkung braucht dabei in keinem
+der zwei Fälle stattzufinden. Ordnet man beispielsweise die acht
+Ecken des Kubus acht Ecken des Dodekaeders in bestimmter
+Ordnung, wie z, B. beim Einschreiben jenes Körpers in letzteren
+zu, so sind die Ebenen der beiden Figuren dadurch nicht gegen-
+seitig aufeinander bezogen. Bei dem. dem Ikosaeder einbe-
+schriebenen Kubus kann man sich die Beziehung von Ecken
+und Seitenflächen beider Körper als eine reciproke vorstellen, der-
+art, dass jede Ecke des Kubus der Fläche des Ikosaeders zugeordnet
+erscheint, auf der sie ruht. Aber es entsprechen dabei nicht die
+sechs Ebenen des Kubus solchen des Ikosaeders.
+
+Eine Beziehung der zuletzt angegebenen Art kann man auf
+mannigfache Art herstellen. Die einfachste ist die polare Beziehung
+mittelst einer Kugel. Unter Pol einer Ebene bezüglich einer Kugel
+versteht man bekanntlich die Spitze des Tangentenkegels, dessen
+Basis der von jener Ebene aus der Kugel ausgeschnittene Kreis
+ist, wie umgekehrt diese Ebene die Polarebene jenes Punktes ge-
+nannt wird. Liegt dagegen die Ebene selbst ausserhalb der Kugel,
+so findet man den, nunmehr innerhalb liegenden Pol, indem man
+zu dreien ihrer Punkte nach der vorigen Art die Polarebenen be-
+stimmt. Diese schneiden sich alsdann im gesuchten Pole.^) Diese
+Beziehung ist wechselseitig, wie man leicht erkennt, d. h. jedem
+Punkte des einen Gebildes wird eine Ebene des andern, aber auch
+umgekehrt jeder Ebene des ersten ein Punkt des letzten ent-
+sprechen.
+
+Bestimmt man in dieser Weise von irgend einem der regel-
+mässigen Körper seinen polaren Körper mittelst einer Kugel, die
+man zu diesem Zwecke in das Innere desselben concentrisch so legt,
+dass sie von ihm in beliebigem Abstände umschlossen wird (um
+von allen Ecken her Tangentialebenen an die Kugel legen zu
+können), so fi.ndet man, dass sich für jeden Körper der reciproke
+als polare Figur ergibt, sofern jedem Punkte eine Ebene entspricht.
+Die Gesammtheit dieser Ebenen, da sie ausserdem im gleichen
+Abstände vom Gentrum der Kugel liegen, bildet somit den frag-
+
+') Die drei Punkte, welche der verlängerte durch den Po! gehende
+Durchmesser aus der Kugeloberfläche und der Polarebene aussclineidet,
+bilden mit dem Pol bekanntlich vier harmonische Punkte,
+
+
+
+
+lichen Körper. Derselbe ist in dem angenommenen Fal4e von der
+Kugel, und somit auch vom ursprünglichen Körper vollständig
+umschlossen.
+
+Statt wie vorher zu jedem Punkt des ursprünglichen Körpers
+die Polarebenen zu bestimmen, hätte man auch umgekehrt zu
+jeder seiner Ebenen den Pol suchen können. Der dadurch erhaltene
+Körper w^ürde von dem auf die erste Art entstandenen nicht ver-
+schieden sein, weil der jedesmalige Pol sich als Durchschnitt dreier
+Polarebenen ergibt.
+
+Denkt man sich nun die Kugel allmählich wachsend, so wird
+der von ihr umhüllte polare Körper ebenfalls wachsen. Der Grenz-
+fall ist der, wo die Kugel den ursprünglich gegebenen Körper von
+innen berührt, so dass dessen Ebenen Tangentialebenen der Kugel
+sind. Alsdann aber werden zufolge der Definition vom Pol einer
+Ebene die Pole jener Tangentialebenen in die Berührungspunkte
+jener fallen, deren Verbindung den polaren Körper liefert, der
+somit dem ursprünglichen genau eingeschrieben ist, so dass seine
+Ecken in den Mitten der Seitenflächen des ersteren liegen. Wächst
+die Kugel noch mehr, so schneiden sich beide Körper. Von diesen
+sich gegenseitig durchschneidenden Körpern ist der Fall von be-
+sonderm Interesse, dass beide von derselben Kugel umschlossen
+werden, wobei sie dem Vorherigen zufolge auch beide dieselbe
+Kugel umhüllen. In diesem Falle muss der Radius R der Kugel,
+mittelst deren die polare Beziehung stattfindet, gleich sein:
+
+R = yvT^
+
+wo r der Radius der beiden Körpern umschriebenen, q der, der
+einbeschriebenen Kugel bezeichnet, wie sich leicht aus der neben-
+stehenden Figur ergibt.
+
+Dehnt sich die Kugel weiter aus, so
+tritt ein zweiter Grenzfall ein, wenn sie
+den ursprünglichen Körper genau um-
+hüllt. Alsdann vertauschen beide Körper
+ihre Stellen, und der letztere ist dem
+polaren genau einbeschrieben wie vorher
+dieser dem letzteren. Bei noch weiterer
+Ausdehnung der Kugel dehnt sich auch
+der polare Körper weiter aus und umhüllt den ursprünglichen fort-
+während, doch wird für jede endliche Grösse der ersteren auch stets
+ein bestimmter Körper als polarer des ursprünglichen sich ergeben.
+Zugleich geht aus dem Vorherigen hervor, dass je mehr sich
+der Pol, sei es von innen, sei es von aussen her, der Kugelober-
+fläche nähert, auch um so näher seine Polarebene von der ent-
+gegengesetzten Richtung her an diese Oberfläche herantritt, bis
+beide schliesslich in der Tangentialebene und ihrem Berührungs-
+punkte zusammenfallen.
+
+
+
+
+Mittelst dieser wenigen Sätze lassen sich alle die praktisch
+interessanten Fälle ohne Schwierigkeit erledigen, welche sich auf
+die gegenseitige Einschreibung zweier regulärer Körper beziehen.
+
+Die sämmtlichen überhaupt möglichen 20 oder genauer
+21 Fälle dieser Art ergeben sich, indem man zunächst nach drei
+Gruppen ordnet, je nachdem bei der Einschreibung Ecke auf Ecke,
+oder Ecke auf Seitenfläche oder endlich Ecke auf Kante fällt.
+Durch reciproke Uebertragung leitet man sodann aus den zehn
+hierauf bezüglichen Fällen ebensoviel neue ab, deren Gruppen-
+theilung darnach geschieht, je nachdem Fläche auf Fläche, Fläche
+auf Ecke und Kante auf Fläche fällt. Demgemäss ergibt sich folgen-
+des Schema:
+
+a) direct. b) durch reciproke Uebertragung.
+
+') Ecke auf Ecke. ') Fläche auf Fläche.
+
+1. Tetraeder im Kubus*. 2. Octaeder im Tetraeder*.
+
+2. TetraederimDodekaeder*. 4. Ikosaeder im Tetraeder.
+
+3. Kubus im Dodekaeder*. 6. Ikosaeder im Oktaeder.
+■^) Ecke auf Fläche. -j Fläche auf Ecke.
+
+7. Oktaeder im Kubus*. 8. Kubus im Oktaeder*.
+
+9. Ikosaederim Dodekaeder*. 10. Dodekaeder im Ikosaeder*.
+
+II. Tetraeder im Ikosaeder*. 12. Dodekaeder im Tetraeder.
+
+i3. Kubus im Ikosaeder*. 14. Dodekaeder im Oktaeder.
+
+'^) Ecke auf Kante. ^) Kante in Fläche.
+
+i5. Oktaeder im Dodekaeder*. 16. Ikosaeder im Kubus.
+
+17. Oktaeder im Ikosaeder. 18. Dodekaeder im Kubus.
+
+19. Tetraeder im Oktaeder*. 20. Kubus im Tetraeder.
+
+Hierzu würde als 21 noch die Einschreibung des Tetraeders
+ins Tetraeder zu zählen sein, die im Text übersehen. Die mit
+Sternen bezeichneten sind die im Text bereits erwähnten Fälle.
+
+Um nun aus der ersten Gruppe links die entsprechende zur
+Rechten zu erhalten^ denkt man sich mittelst der Kugel, welche je
+zweien der Körper aus der linken Gruppe umschrieben ist, die
+reciproke Beziehung hergestellt, wobei die Polarebenen der Ecken
+Tangentialebenen in diesen Punkten werden. Man erkennt dann
+ohne Schwierigkeit, dass der reciproke Körper des vorher einge-
+schriebenen den reciproken des vorher umschriebenen umhüllen
+wird, und zwar derart, dass die, den zusammenfallenden Ecken
+der beiden ursprünglichen Körper entsprechenden Ebenen der
+neuen Körper ihrerseits zusammenfallen. Es werden also im 2. vier
+Ebenen des Oktaeders in die vier Tetraederflächen fallen, wie es
+derjenigen Stellung entspricht, wobei die sechs Ecken des Okta-
+eders in die Mitten der sechs Kanten des Tetraeders fallen. Aus
+3 entsteht in ganz analoger Art 4, wobei vier Ebenen des Ikosa-
+eders mit den vier Tetraederebenen zusammenfallen. Die gegen-
+seitige Lage beider Körper kann man sich am einfachsten vorstellen,
+
+
+
+
+indem man sich das dem Ikosaeder eingeschriebene Tetraeder
+'denkt, wie solches im Text bereits angegeben, dessen Ecken in die
+Mitten von vier Ikosaederflächen fallen. Denkt man sich diese
+vier Flächen bis zu ihrem gegenseitigen Durchschnitt verlängert,
+so umhüllt das so erhaltene Tetraeder das Ikosaeder. Aus 5 wird
+ebenso 6 abgeleitet, wobei acht Ikosaederflächen mit den acht
+Flächen des Oktaeders zusammenfallen. Dabei fallen zugleich die
+zwölf Ecken des Ikosaeders in die zwölf Kanten des Oktaeders.
+Die gegenseitige Lage vergegenwärtigt man sich am einfachsten,
+wenn man beachtet, dass je zwei parallele gegenüberliegende Kanten
+des Ikosaeders je zwei diagonal gegenüberstehende von derselben
+Ecke ausgehende Kanten verbinden.
+
+Bei 7, 9, II der zweiten Gruppe würde das obige Verfahren
+wieder auf die ursprüngliche gegenseitige Lage beider Körper
+zurückführen, anstatt 8, lo, i2 zu ergeben. Allein diese Fälle
+erledigen sich noch einfacher als die vorigen, sofern man nur
+eines der beiden ursprünglichen Körper bedarf. Um 8 aus 7 zu
+bilden, hat man nur den Kubus nöthig, dessen reciproker Körper,
+das Oktaeder, bezüglich der ihn umschliessenden Kugel, ihn eben-
+falls umschliessen wird, wie umgekehrt das Oktaeder bezüglich der
+ihn einbeschriebenen Kugel genau den einbeschriebenen Kubus als
+reciproken Körper ergibt. Aus demselben Grunde hat man in 9
+nur das Dodekaeder nöthig, um Fall 10 abzuleiten. Dagegen wird man,
+um aus II den Fall 12 abzuleiten, zu beiden Körpern bezüglich
+derjenigen Kugel, welche den einen Körper umhüllt, und vom
+andern umhüllt wird, die reciproken construiren. Man denkt sich
+die gegenseitige Lage der so erhaltenen beiden Körper: Dodekaeder
+im Tetraeder am einfachsten, indem man sich zuerst den umge-
+kehrten im Text behandelten Fall des dem Dodekaeder einge-
+schriebenen Tetraeders vergegenwärtigt, und durch die gemeinsamen
+Eckpunkte beider Körper Tangentialebenen legt, deren Gesammt-
+heit das dem Dodekaeder umschriebene Tetraeder bildet. Analog
+ergibt sich 14 aus i3, wobei die Mitten der acht Oktaederflächen
+acht Ecken des Dodekaeders enthalten, und zwar diejenigen acht
+Ecken, welche verbunden, den eingeschriebenen Kubus bilden
+würden, wonach sich die gegenseitige Lage beider Körper leicht
+vorstellen lässt.
+
+Hinsichtlich der dritten Gruppe kann man nicht genau so
+wie vorher verfahren, weil beiden Körpern keine Kugel gemeinsam
+ist. Dies ist indessen zufolge dem Vorherigen an sich nicht nÖthig,
+indem jede Kugel, sobald sie nur concentrisch zu beiden Körpern
+liegt, stets ähnliche reguläre Körper als reciproke ergibt, derart,
+dass den zusammenfallenden Elementen jener wieder solche bei
+letzteren entsprechen. Fallen somit bei jenen Ecken auf Kanten, so
+werden bei letzteren die reciproken Elemente, d. h. Ebenen auf
+
+
+
+35o
+
+Kanten fallen. Da ferner die Grösse der Kugel, mittelst der die
+Beziehung geschieht, ganz willkürlich, so wähle man sie möglichst
+einfach^ z. B. so, dass sie den äussern Körper genau umschliesst.
+Der reciproke wird alsdann seinerseits die Kugel genau um-
+schliessen, während der, dem kleinern Körper reciproke dem Vor-
+herigen zufolge um so grösser wird, je kleiner jener M^ar. Hiernach
+ergibt sich i6 aus i5, wobei sechs Ikosaederkanten in die Kubus-
+flächen, und zwar in deren Mittellinien fallen, und zwar je zwei
+und zwei parallel, wobei sich zugleich sämmtliche 12 Ecken des
+Ikosaeders als Endpunkte der Kanten zu je zwei auf den Kubus-
+flächen befinden. Dieser im Text nicht aufgezählte Fall wird eigen-
+thümlicherweise im Tractat über die fünf regelmässigen Körper
+ausdrücklich erwähnt und behandelt. — Aus 1 7 entsteht ferner
+ebenso 18, wobei die Kantenlage dieselbe ist wie vorher bei 16,
+mit dem Unterschiede jedoch, dass hier nicht sämmtliche Ecken
+auf die Kubusflächen sich stützen, sondern ausserdem noch acht
+frei liegen, welche den Ecken des dem Dodekaeder eingeschriebenen
+Kubus entsprechen, welchen letzteren der umschliessende Kubus
+somit parallel umschreibt. Aus 19 endlich findet sich ebenso 20,
+wobei die vier Flächen des Tetraeders vier Kanten des Kubus
+enthalten. Um sich ihre gegenseitige Lage zu vergegenwärtigen,
+denke man sich je zwei gegenüberliegende Kubusflächen parallel
+zu je zwei sich kreuzenden Tetraederkanten derart, dass diese
+zugleich den Mittellinien der bezüglichen Quadrate parallel laufen.
+Denkt man sich auf diese Art den Kubus ins Tetraeder gestellt,
+so werden zwei sich gegenüberliegende Seiten des obern, und die
+sie kreuzenden des untern Quadrats an den Seitenflächen des
+Tetraeders liegen.
+
+

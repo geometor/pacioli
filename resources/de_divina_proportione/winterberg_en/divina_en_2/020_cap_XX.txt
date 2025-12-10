@@ -1,0 +1,16 @@
+XX. Eleventh Effect
+
+**Proposition**
+If the side of an equilateral Hexagon is divided according to the Divine Proportion:
+The greater segment is the side of the equilateral Decagon circumscribed about the same circle.
+(Note: The text says "circumscribed by the same circle" (inscribed), but later says "side of the decagon from the same circle circumscribed... diameter would come to be 20". If Hexagon side = 10, then Radius = 10, Diameter = 20. If Greater Segment of 10 is $\sqrt{125} - 5$ ($\approx 6.18$), this is the side of the inscribed Decagon ($R(\sqrt{5}-1)/2 = 10(1.236)/2 = 6.18$).
+So the proposition means: The greater segment of the Hexagon side (Radius) is the side of the INSCRIBED Decagon.)
+
+**Example**
+Hexagon Side (Radius) = 10.
+Divided in Divine Proportion.
+Greater Segment = $\sqrt{125} - 5$.
+This equals the side of the Decagon inscribed in the circle of Radius 10.
+
+**Reference**
+(Euclid XIV.3 implies this relationship for inscribed figures).

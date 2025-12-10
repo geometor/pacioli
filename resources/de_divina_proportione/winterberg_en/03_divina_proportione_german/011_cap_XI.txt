@@ -1,0 +1,24 @@
+Cap. XI.
+
+Of its second essential effect.
+
+If a magnitude is divided into two parts and to the
+one a magnitude is added, so that the square of this
+sum is the fivefold of the square of the added magnitude,
+so follows with necessity, that the said added
+magnitude be the half of the first magnitude decomposed into the two parts,
+and that the [part], to which it [was] added, [be] its
+greater segment, and that it [be] the whole divided in them according to our
+proportion. E.g. one take 15 - sqrt(125) and
+sqrt(125) - 5 for the two complete segments of a magnitude and
+add to the one of both namely sqrt(125) - 5 the number 5
+as third magnitude, then the sum is = sqrt(125) whose
+square 125 and the square of the added magnitude is 25.
+Therefore 125 is the fivefold of 25, the square of the ad-
+ded magnitude. I say, that sqrt(25) namely 5 [be] the half of the
+first magnitude divided into those two segments and that to which
+one added it, [be] the greater segment of said
+first magnitude divided according to our proportion, which has a mean and two
+extreme segments namely of 10.
+And that is the conversion of the preceding effect, as
+the second of the thirteenth concludes geometrically.

@@ -1,0 +1,16 @@
+XIX. Tenth Effect
+
+**Proposition**
+All quantities divided according to the Divine Proportion share the same properties and ratios, regardless of their size.
+The ratio of the Whole to the Greater Segment is constant.
+The ratio of the Greater Segment to the Lesser Segment is constant.
+The ratio of the Whole to the Lesser Segment is constant.
+
+**Example**
+Line 1: Whole = 10. Greater = $\sqrt{125} - 5$.
+Line 2: Whole = 12. Greater = $\sqrt{180} - 6$.
+Ratio $10 : (\sqrt{125} - 5)$ is equal to $12 : (\sqrt{180} - 6)$.
+
+**Conclusion**
+All such quantities exhibit an "Irrational Symphony" and harmony.
+(Euclid XIV.2)

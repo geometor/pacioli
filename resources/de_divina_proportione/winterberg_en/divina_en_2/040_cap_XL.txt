@@ -1,0 +1,12 @@
+XL. Inclusion of the Icosahedron in the Dodecahedron
+
+**Proposition**
+The Icosahedron can be inscribed in the Dodecahedron.
+
+**Construction**
+1.  Construct the Dodecahedron.
+2.  Find the center of each of its 12 pentagonal faces (Euclid IV.14).
+3.  Connect these centers with 30 straight lines.
+4.  These lines cross the sides of the Dodecahedron perpendicularly.
+5.  The result is an Icosahedron, with 20 triangular faces and 12 vertices resting on the centers of the Dodecahedron's faces.
+    (Euclid XV.7).

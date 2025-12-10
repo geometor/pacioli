@@ -1,0 +1,14 @@
+XV. Sixth Effect
+
+**Proposition**
+No rational quantity can be divided according to the Divine Proportion such that its parts are rational.
+If the whole is rational, the parts must be irrational (Residuals/Apotomes).
+
+**Example**
+Whole = 10 (Rational).
+Parts:
+$\sqrt{125} - 5$ (Irrational, Apotome).
+$15 - \sqrt{125}$ (Irrational, Apotome).
+
+**Reference**
+(Euclid XIII.6; X.79).

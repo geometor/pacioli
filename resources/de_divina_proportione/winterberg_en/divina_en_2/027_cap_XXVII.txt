@@ -1,0 +1,17 @@
+XXVII. Construction of the Cube
+
+**Construction**
+From a given sphere with diameter $AB$:
+1.  Divide $AB$ at $C$ such that $AC = 2 \cdot CB$.
+2.  Construct semicircle and perpendicular $CD$ (as in XXVI).
+3.  Draw $BD$.
+4.  Construct a square with side equal to $BD$.
+5.  Erect perpendiculars from the corners equal to $BD$ to form the Cube.
+
+**Ratio**
+The Square of the Sphere Diameter is triple the Square of the Cube Side.
+$D^2 : S^2 = 3 : 1$.
+If $D^2 = 300$, then $S^2 = 100$ ($S=10$).
+
+**Reference**
+(Euclid XIII.15)

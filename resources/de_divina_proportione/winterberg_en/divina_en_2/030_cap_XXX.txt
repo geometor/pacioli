@@ -1,0 +1,19 @@
+XXX. Construction of the Dodecahedron
+
+**Construction**
+From a given Cube inscribed in the sphere:
+1.  Divide the sides of the Cube faces.
+2.  Divide specific segments according to the Divine Proportion.
+3.  Construct Pentagons on the faces of the Cube using these divisions ("roofs" upon the cube faces).
+4.  The 12 Pentagons form the Dodecahedron.
+
+**Properties**
+The side of the Dodecahedron is the "Apotome" (Residuum) if the sphere diameter is rational.
+The vertices of the Dodecahedron touch the encompassing sphere.
+
+**Ratio**
+The Square of the Sphere Diameter is triple the Square of the Cube Side (from which the Dodecahedron is derived).
+Relationships involving the Divine Proportion are central to this construction.
+
+**Reference**
+(Euclid XIII.17)

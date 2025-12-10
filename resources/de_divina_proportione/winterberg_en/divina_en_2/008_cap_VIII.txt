@@ -1,0 +1,24 @@
+VIII. Algebraic Calculation of the Divine Proportion
+
+**Problem**
+Divide a quantity of 10 according to the proportion having a mean and two extremes.
+Let the whole quantity be 10.
+Let the greater part be $x$ and the lesser part be $10 - x$.
+By definition: $10 : x = x : (10 - x)$.
+Therefore: $x^2 = 10(10 - x) = 100 - 10x$.
+$x^2 + 10x - 100 = 0$.
+
+**Solution**
+Using Algebra (Rule of the Thing):
+$x = \sqrt{125} - 5$ (The greater part).
+The lesser part is $10 - (\sqrt{125} - 5) = 15 - \sqrt{125}$.
+
+These parts are irrational "Residuals" (Apotomes, Euclid X.79).
+$\sqrt{125} \approx 11.18$.
+Greater part $\approx 6.18$.
+Lesser part $\approx 3.82$.
+
+**Verification**
+$(15 - \sqrt{125}) \times 10 = 150 - \sqrt{12500}$.
+$(\sqrt{125} - 5)^2 = 125 - 10\sqrt{125} + 25 = 150 - \sqrt{12500}$.
+The product of the lesser and the whole equals the square of the greater.

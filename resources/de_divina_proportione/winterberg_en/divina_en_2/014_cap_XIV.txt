@@ -1,0 +1,19 @@
+XIV. Fifth Effect
+
+**Proposition**
+If a quantity is divided according to the Divine Proportion:
+The sum of the square of the smaller segment and the square of the whole quantity is 3 times the square of the greater segment.
+$CB^2 + AB^2 = 3 \cdot AC^2$.
+
+**Example**
+Whole ($AB$) = 10. Square = 100.
+Greater ($AC$) = $\sqrt{125} - 5$. Square = $150 - \sqrt{12500}$.
+Smaller ($CB$) = $15 - \sqrt{125}$. Square = $350 - \sqrt{112500}$. Note: $\sqrt{112500} = \sqrt{9 \times 12500} = 3\sqrt{12500}$.
+So $CB^2 = 350 - 3\sqrt{12500}$.
+
+Sum ($CB^2 + AB^2$) = $(350 - 3\sqrt{12500}) + 100 = 450 - 3\sqrt{12500}$.
+Triple Greater Square ($3 \cdot AC^2$) = $3 \times (150 - \sqrt{12500}) = 450 - 3\sqrt{12500}$.
+
+**Conclusion**
+The sum is equal to the triple square of the greater segment.
+(Euclid XIII.5)

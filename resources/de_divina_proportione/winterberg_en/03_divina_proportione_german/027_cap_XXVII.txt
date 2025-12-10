@@ -1,0 +1,50 @@
+Cap. XXVII.
+
+Of the production of the cube and its ratio to the sphere.
+
+It follows to show, how the Cube is formed, and
+which ratio must be between its side and the dia-
+meter of the sphere, so that it encloses it exactly.
+Therefore I say, named body must be formed in following
+way, namely: first one assume the diameter
+of the sphere, in which we intend to insert it exactly.
+And this be the line ab, over which I will describe the semicircle
+adb. And then I will divide the diameter in the
+point c, as I did it at the formation of the pre-
+ceding pyramid, namely that the part ac be doubly so
+large as bc, and the line cd one draw perpendicular to ab,
+and one draw further still the lines db and da. Then one
+form a square, of which all sides are equal to the line bd,
+and this square be efgh. *) And over its four corners one
+erect four perpendiculars to the surface of named square,
+as the twelfth of the eleventh teaches. And each of these perpendiculars be
+also equal to the line bd assumed, and named
+four perpendiculars be ek, fl, gm, hn. And all these four perpendiculars
+will stand according to the sixth of the said eleventh equidistant from
+each other. And the angles enclosed by those and the sides of the
+square are, according to the definition of the
+perpendicular on the surface, Rights. Then one connect the
+endpoints of these perpendiculars, by drawing the lines kl, lm,
+mn, nk. If one observes these things with care exactly,
+so the Cube will be ready, which we sought to form,
+enclosed by six quadratic surfaces, what
+is proven by the thirty-fourth of the first. The four
+surfaces, which enclose it, and indeed those, whose
+opposite sides are the four perpendiculars, are all
+quadratic. That the Basis be quadratic, shows itself clearly
+from our sentence, and likewise is proven through the named
+thirty-fourth of the first and the tenth of the eleventh,
+that the highest boundary surface, namely klmn also on its
+part be quadratic. And likewise shows itself still through the
+fourth of named eleventh, that all sides of the Cube stand right-
+angled on their two opposite surfaces.
+And just this *) will be exactly circumscribed by the sphere of the assum-
+ed diameter. Therefore will the named
+diameter in power always be the Triple of the side of the na-
+med Cube, i.e. the square of named dia-
+meter will be three times as large, as the square of the Cube
+side. If e.g. the diameter were sqrt(300), so would have to be the
+side of the Cube exactly 10. The knowledge thereof is for
+many necessary cases appropriate.
+
+*) seil. Cube.

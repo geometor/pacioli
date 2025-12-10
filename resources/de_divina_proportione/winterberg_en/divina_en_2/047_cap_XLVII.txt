@@ -1,0 +1,11 @@
+XLVII. Inscribing the Sphere in the Regular Bodies
+
+**Proposition**
+A sphere can be inscribed in each of the five regular bodies.
+
+**Construction**
+1.  Find the center of the body.
+2.  Draw perpendiculars from the center to each of the faces.
+3.  These perpendiculars are all equal in length.
+4.  A sphere with radius equal to this perpendicular length will touch all faces at their centers.
+    (Euclid XV, Corollary).

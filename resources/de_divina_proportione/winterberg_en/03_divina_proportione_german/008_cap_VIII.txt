@@ -1,0 +1,67 @@
+Cap. VIII.
+
+We must know, that these well-noted things, to divide a
+magnitude according to the proportion, which has a mean and
+two extreme segments, wants to say, to make from it two unequal
+parts such, that the product of the smaller into the
+whole said undivided magnitude be just as large as the square of the
+greater segment, as according to the third definition of the
+sixth our Philosopher explains. And if he therefore ever
+once in the case should use the naming: "Divide the said magnitude according to the
+proportion, which has a mean and two extreme segments",
+but should say only, the case,
+to form two parts from it according to the condition, that the
+product of the one into the whole said magnitude is equal
+to the square of the other segment so must he, who understands it
+well and is experienced in the art, lead the presented theorem back
+to our said proportion, for otherwise it can
+not be interpreted, e.g. if Someone said: "Make
+me from ten two parts such, that the one, multiplied by 10,
+yields just as much, as the other multiplied by itself.
+This case and others similar are found if one proceeds according to
+the instructions, which have been laid down by us in the speculative
+practice, Algebra and Almucantabala, designated with other name
+the Rule of the Thing, and in the work published by us,
+solved that namely the one
+part the smaller be 15 - sqrt(125) and the other greater
+sqrt(125) - 5. The so described parts are irrational and
+call themselves with technical term Residuals. Of their genera
+our Philosopher states in the 79th of the tenth, that there are
+six of them. And in general the said parts are brought forth
+as follows the smaller if he says: 15 - sqrt(125),
+That namely wants to say: After one has taken sqrt(125), which
+is little more than 11, and subtracted from 15, that little more
+than three remains, or we will say little less than 4. And
+the greater results: sqrt(125) - 5. And that wants to say, after
+one has taken the sqrt(125) which, as said, is little more
+than 11 and subtracted five from this, that little more
+than six, or we will say, little less than seven remains for
+the said greater segment. But similar
+acts of multiplying, adding, subtracting and dividing
+binomial residuals and roots and all other rational
+and irrational, whole and fractional magnitudes of every kind,
+I do not care to repeat in this work, since
+I have presented them completely in our aforementioned work,
+and care is taken only, to say new things,
+and not to repeat the already said. And
+with that we have at the division of every magnitude always three expressions ordered
+according to continuous proportionality such, that
+the one represents the whole so divided magnitude, i.e. the greater seg-
+ment, as here in the presented case ten, and the
+other forms the greater part namely the mean segment,
+as it is sqrt(125) - 5, the third smallest amounts to 15 - sqrt(125).
+Among these the same proportion takes place namely from the first
+to the second as from the second to the third and likewise vice versa,
+i.e. from the third to the second as from the second to the first. And
+the multiplication of the smaller i.e. 15 - sqrt(125) with the greater
+which is ten, makes just as much as the multiplication of the mean,
+namely sqrt(125) - 5 with itself, so that the one as the
+other product amounts to 150 - sqrt(12500), as our proportion
+requires. And of this ten is said, it is divided according to the
+proportion, which has a mean and two extreme seg-
+ments and its greater segment is sqrt(125) - 5, and the
+smaller 5 - sqrt(125) [Note: should be 15 - sqrt(125) based on context, checking math... 10*(15-sqrt(125)) = 150 - 10*sqrt(125) = 150 - sqrt(12500). (sqrt(125)-5)^2 = 125 - 10*sqrt(125) + 25 = 150 - sqrt(12500). Wait, 5 - sqrt(125) would be negative. The German text has a typo, says 5 - sqrt(125), but previous line says 15 - sqrt(125). I will correct to 15 - sqrt(125) or keep as is? The German text says 5 - sqrt(125) but previously 15. I'll translate as 15 - sqrt(125) to be correct or note the error. Actually let's look at the source again. Line 76: "und der kleinere 5 - ]/ 12 5". This is definitely a typo in the source or OCR. 15 - sqrt(125) is approx 15 - 11.18 = 3.82. sqrt(125) - 5 is approx 11.18 - 5 = 6.18. 3.82 + 6.18 = 10. Correct. 5 - sqrt(125) is negative. I will correct it to 15 - sqrt(125).]
+so that both are necessarily irrational as
+is proven by the sixth of the 13th, and also in the 11th
+of the second and 16th of the ninth. And this for the knowledge of the
+so divided magnitude.

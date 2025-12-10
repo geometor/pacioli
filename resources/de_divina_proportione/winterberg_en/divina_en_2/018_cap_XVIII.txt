@@ -1,0 +1,20 @@
+XVIII. Ninth Effect
+
+**Proposition**
+In a circle with an inscribed equilateral pentagon, sum chords (diagonals) subtending two adjacent angles intersect each other.
+These two chords divide each other according to the Divine Proportion.
+The greater segment of each chord is equal to the side of the pentagon.
+
+**Example**
+Pentagon $ABCDE$.
+Chord $AC$ (subtending angle $B$) and Chord $BE$ (subtending angle $A$) intersect at $F$.
+$AC$ is divided at $F$ such that $AF > FC$ (or vice versa depending on orientation, typically greater part is the segment connected to vertex).
+Actually, the greater segment is equal to the side of the pentagon.
+Side of Pentagon = Greater Segment of Chord.
+
+If Chord = 10:
+Greater Segment ($CF = EF =$ Side of Pentagon) = $\sqrt{125} - 5$.
+Lesser Segment ($AF = BF$) = $15 - \sqrt{125}$.
+
+**Reference**
+(Euclid XIII.11; XIII.8; II.11; VI.29)

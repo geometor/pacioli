@@ -1,0 +1,14 @@
+X. Verification of the First Effect
+
+**Demonstration**
+Recall the proposition from Chapter VII: $(AC + AD)^2 = 5 \cdot AD^2$.
+Let the line be 10. Half of the line ($AD$) is 5.
+The greater segment ($AC$) is $\sqrt{125} - 5$.
+Sum of greater segment and half line: $(\sqrt{125} - 5) + 5 = \sqrt{125}$.
+Square of the sum: $(\sqrt{125})^2 = 125$.
+Square of the half line: $5^2 = 25$.
+$125 = 5 \times 25$.
+
+**Conclusion**
+The square of the sum of the greater segment and the half line is exactly five times the square of the half line.
+(Euclid XIII.1)

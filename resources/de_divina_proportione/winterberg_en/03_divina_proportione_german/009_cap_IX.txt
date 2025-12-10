@@ -1,0 +1,30 @@
+Cap. IX.
+
+What the root of a number and other magnitude be.
+
+And since it will often happen in the progress of our work,
+to name roots, so it seems to me here in place, to explain briefly,
+what it means, although in our work
+has been spoken extensively about it in every way. Never-
+theless I say, the root of a magnitude is itself a
+magnitude, which multiplied with itself yields that magnitude,
+as whose root it itself was designated. As we say
+the root of nine is three, and of 16 is four, and of
+25 five and so with the others, and 9, 16, 25 are
+called Squares. And in reference hereto is to be known, that there
+are some magnitudes, which have no roots such, that one
+could state them determined by a number. As for ten
+no number exists, which, multiplied with itself, yields exactly ten,
+and likewise regarding 11, 12, 13, and other similar
+numbers. And thus there result and arise roots of two
+kinds, the one called discrete, or we will say rational and
+is that, which can be expressed by a determined number,
+as of nine the root is three. And the other is
+called deaf [surd], and is that, which cannot be reproduced exactly
+by a number, as we have said of the sqrt(10) and others.
+And these are called with other names irrational,
+insofar as all those magnitudes, which cannot be expressed by a
+determined number, are called in science irra-
+tional, and those, which let themselves be reproduced by a number,
+are called rational. And this be enough for
+our sentence regarding the root.

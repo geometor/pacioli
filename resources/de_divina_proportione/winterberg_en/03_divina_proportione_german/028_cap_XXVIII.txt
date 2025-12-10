@@ -1,0 +1,64 @@
+Cap. XXVIII.
+
+How the Octahedron is formed, which lets itself be described exactly in the sphere, and its ratio to the sphere.
+
+It is thirdly the body consisting of eight triangular surfaces
+to be constructed, the so-called Octahedron, which likewise
+shall be exactly enclosed by an assumed sphere,
+of which sphere only the diameter be known to us. And
+that happens in following way: One take the diameter
+of the sphere, which be the line ab, which one halve in point c,
+and over the whole line one beat the semicircle
+abd and draw cd perpendicular to the line ab; and then connect
+one the point d with the endpoint of named dia-
+meter, namely with a and with b. Then one form a squ-
+are, whose all sides are equal to the line bd, and
+this square be efgh. And in this square one draw two
+diameters, of which the one eg, the other fh be. These
+intersect themselves among each other in point k. Therefore is according to the
+fourth of the first clear, that each of these diameters is equal to the
+line ab, which was assumed as diameter of the sphere,
+since the angle d according to the first part of the thirtieth
+of the third is a right one. And further is each of the angles
+e, f, g, h a right one, according to the definition of the square. And
+further is clear, that those two diameters eg and fh divide themselves
+among each other to equal parts in point k. And
+it becomes clear easily through derivation from the fifth and thirty-
+second and sixth of the first. Now one erect over k
+the line kl perpendicular to the plane of the square: which per-
+pendicular one make equal to the half of the diameter eg or fh;
+and then one let the Hypotenuses *) le, lf, lg, lh
+down. And all these Hypotenuses will be according to the Afore-
+mentioned and Presupposed, by means of the penultimate of the
+first, which as often as it is necessary repeated stated,
+among themselves and likewise equal to the sides of the square. We have
+thus until here reached a pyramid of four equilateral triangular
+surfaces over the named square, which pryamid
+is the half of the eight-surfaced body, which we seek. Make
+we then below the named square another,
+to this similar pyramid in the same way, namely: We will
+draw the named line lk, by boring through the named square
+and penetrating it up to point m, in the way, that
+the line km, which is located below the square, be equal
+to the line lk, which stands over the named square. And
+then I will connect the point m with all corner points of the
+square, by drawing four other hypotenuse-like
+lines, namely me, mf, mg, mh. And also of this
+is proven according to the penultimate of the first and the others before
+cited, that they be equal among themselves and also to the sides of the
+named square, as it was proven of the other
+hypotenuses above the square. And there-
+with will, if one always observes the above named
+things with care, the body of eight equilateral triangular
+surfaces be ended, which will be exactly circumscribed by the sphere.
+The ratio between the sphere and the named
+body is, that the square of the diameter of the sphere to the
+square of the side of named body is exactly double,
+i.e. if the named diameter were 8, so would
+the side of the Octahedron = sqrt(32) be, for their powers stand
+among each other in double ratio, namely the square
+of the diameter is the Double of the square of the side of the
+named body, and so we have the construction and the
+ratio regarding the sphere etc.
+
+*) cfr. Cap. LXXI.

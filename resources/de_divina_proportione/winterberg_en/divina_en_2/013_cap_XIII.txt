@@ -1,0 +1,23 @@
+XIII. Fourth Effect
+
+**Proposition**
+If a quantity is divided according to the Divine Proportion, and to the whole is added its greater segment:
+The sum and the greater segment are parts of a second quantity also divided in Divine Proportion.
+The greater segment of this second quantity is the original whole quantity.
+
+**Example**
+Original Quantity ($AB$) = 10.
+Greater Segment ($AC$) = $\sqrt{125} - 5$.
+New Quantity ($L$) = $10 + (\sqrt{125} - 5) = \sqrt{125} + 5$.
+Parts of $L$:
+1. $10$ (Original Whole)
+2. $\sqrt{125} - 5$ (Original Greater Segment)
+
+Check Divine Proportion for $L$:
+Whole ($L$) $\times$ Lesser ($\sqrt{125} - 5$) = $(\sqrt{125} + 5)(\sqrt{125} - 5) = 125 - 25 = 100$.
+Square of Greater (10) = $10^2 = 100$.
+
+**Conclusion**
+The product of the whole new quantity and the lesser part equals the square of the greater part.
+Thus, the new quantity is divided in Divine Proportion.
+(Euclid XIII.4)

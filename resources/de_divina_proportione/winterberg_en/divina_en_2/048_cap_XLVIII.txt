@@ -1,0 +1,17 @@
+XLVIII. Variations of the Tetrahedron
+
+**I. Plane/Solid Tetrahedron**
+The standard body. 4 faces, 4 vertices, 6 edges.
+
+**II. Abscinded (Truncated) Tetrahedron**
+Created by cutting the vertices of the Tetrahedron at 1/3 of the edge length.
+*   Faces: 8 (4 Hexagons, 4 Triangles).
+*   Vertices: 12.
+*   Edges: 18.
+*   Solid Angles: 12.
+
+**III. Elevated (Cumulated) Tetrahedron**
+Created by constructing pyramids on the faces of the Tetrahedron.
+*   Faces: 12 (Triangular).
+*   Vertices: 8 (4 original, 4 new apices).
+*   Edges: 18.

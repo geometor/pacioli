@@ -1,0 +1,653 @@
+
+VORWORT.
+
+Die Bestrebungen der Neuzeit gingen, wie bekannt, schon
+längst darauf aus, die verloren gegangenen technischen Grund-
+lagen, welche insbesondere bei der malerischen Composition der
+Meisterwerke aus der Zeit der Renaissance stets wiederkehren,
+auf den Grund zu kommen, um so wiederum auf die Kunst
+der Gegenwart anregend zu wirken. Durch sorgfältige Ver-
+Öifentlichung der schrifthchen Ueberlieferungen hervorragender
+Meister jener Periode der Lösung dieser Aufgabe näher getreten
+zu sein, ist das grosse Verdienst der „Quellenschriften." In der
+That sind es gerade die technischen Tractate, welchen das un-
+verdiente Schicksal zu Theil ward, entweder unbenutzt und
+theilweise verschollen in den Bibliotheken Italiens zu vermodern,
+oder wenn etwa in früheren Jahrhunderten publicirt, dem heu-
+tigen Verständniss so fern zu stehen, däss nur Wenige sich mit
+ihrem Studium befassen. Das gilt insbesondere von den Pa-
+cioli'schen Tractaten der „Divina Proportione" und dem „Li-
+bellus de quinque corporibus regularibus." Als wissenschaftliche
+Werke unbedeutend, besteht ihr Hauptwerth vielmehr darin,
+dass sie, im engsten Zusammenhang mit den Bedürfnissen der
+künstlerischen Praxis entstanden, ein bedeutendes Licht auf die
+Art der Anwendung mathematischer Disciplinen in den bildenden
+Künsten insbesondere zur Zeit des ersten Aufschwunges der
+Frührenaissance werfen. Die vorerwähnten Uebelstande: die
+schwerfällige veraltete Ausdrucksweise, dazu die oft kaum zu
+entziffernden Abkürzungen, welche die noch vorhandene aus
+dem Anfang des i6. Jahrhunderts datirende Ausgabe dieser
+beiden Werke kennzeichnet, erklärt, warum dieselben unter den
+ausübenden Künstlern bisher so gut wie verschollen geblieben,
+abgesehen dass das Studiuna der nur in wenig Exemplaren auf
+einzelnen Bibhotheken befindlichen Tractate nur schwer zu
+ermöglichen war.
+
+Diesen Mangel durch die vorliegende neue Ausgabe zum
+Theil wenigstens beseitigen, durch dieselbe einen neuen Beitrag
+zum Verständniss des künstlerischen Schaffens einer grossen
+Zeit liefern und den Manen des hochverehrten Hofrath von
+Eitelberger, welcher neben seinem Freunde Ludwig in Rom
+die erste Anregung dazu gegeben, den Tribut seiner Dank-
+barkeit weihen zu dürfen, gereicht dem Herausgeber dieses zu
+besonderer Genugthuung.
+
+Karlsruhe i./B. März 1889.
+
+D. H.
+
+
+---
+
+INHALT,
+
+Seite
+
+1. Einleitung i — i5
+
+2. Text des Tractats der „divina proportione" i6 — 122
+
+3. Desgl. de architectura 12'i — 163
+
+4. Uebersetzung der „divina proportione" 164—286
+
+5. Desgl. de architectura .... 287 — SSy
+
+6. Sactiliche Anmerkungen zum Tractat der „divina proportione" 338 — 352
+
+7. Tafeln 353 — 367
+
+
+---
+
+EINLEITUNG.
+
+nter den wenigen Schriften aus der Frührenaissance,
+welche von technisch-mathematischen Disciplinen handeln,
+soweit sie mit der künstlerischen Praxis in Beziehung
+stehen, dürfte keine das Interesse des Historikers wie des
+Fachmannes so sehr verdienen, als die ihrer Zeit vielgenannten
+Tractate Pacioli's. Enthält doch selbst das grösste und be-
+deutendste Werk aus Jener Zeit, Lionardo da Vinci's Malerbuch,
+im Wesentlichen Nichts, als kurz aneinandergereihte Notizen
+ohne Innern Zusammenhang, über alle möglichen Hilfswissen-
+schaften der Malerei sich erstreckend, woraus die wissenschaft-
+liche Bedeutung des grossen Meisters in keiner Weise genügend
+hervorgeht. Etwas anderes ist es mit den Schriften Pacioli's, die
+im Gegensatz dazu trotz aller sonstigen Mängel doch ein fertig
+durchgearbeitetes Ganze bilden, von um so grösserem Interesse,
+als sie, wie bekannt, im ersten Anschluss an die künstlerischen
+Bedürfnisse jener Zeit entstanden, der eine von den fünf regel-
+mässigen Körpern sogar seine Autorschaft nicht von Pacioli,
+sondern von Piero della Francesca, also einem wirklichen
+Künstler, ableitet. Erst beim Lesen dieser Schriften gewannt man
+einen vollen Einblick in die grossen Schwierigkeiten, welche
+sich damals selbst bei einfacheren Problemen der Geometrie den
+Künstlern, darboten und man kann nicht genug die Einsicht und
+Energie bewundern, mit welcher die hervorragendsten unter
+ihnen sich unablässig bemüht, mit den mangelhaften wissen-
+schaftlichen Mitteln, wie sie vom Alterthum her überkommen,
+die für ihre Zwecke nothwendigen Fragen zu erledigen.
+
+Fra Luca Pacioli, dem Franziskanerorden angehÖrig, ist nach
+Libri 1) im Jahre 1460 zu Borgo San Sepolcro geboren, demselben
+im Toscanischen Apennin gelegenen Flecken, wo auch der vor-
+erwähnte Pierro della Francesca das Licht der Welt erblickte,
+dessen wissenschaftliche Beziehungen zu jenem an einem anderen
+Orte genauer zu discutiren sein werden. Von Pacioli's Lebens-
+verhältnissen ist wenig bekannt; erst nach seinem Tode
+wird er von den Autoren jener Zeit öfters citirt. Nach Montuela^)
+habe er auf Befehl seiner Vorgesetzten Reisen in den Orient
+gemacht, wo er vielleicht mit der arabischen Wissenschaft näher
+vertraut ward. Die Resultate seiner Studien finden sich in seinem
+Hauptwerke der: „Summa di arithmetica" niedergelegt. Das
+Werk dürfte deswegen auch von praktischem Interesse sein,
+als sich darin ausser dem algebraischen ein von Geometrie
+handelnder Abschnitt findet, wo insbesondere von den Propor-
+tionen die Rede ist, unter denen specieil den stetigen die grössere
+Brauchbarkeit zuerkannt und eine Reihe darauf bezüglicher Sätze
+abgeleitet wird, die in der That weniger aus theoretischer Spe-
+culation als aus praktischem Bedürfnisse hervorgegangen scheinen.
+Da der goldene Schnitt darin als specieller Fall auftritt, so
+scheint das auf einen gewissen Zusammenhang mit der weiter
+unten zu besprechenden „Divina proportione" hinzudeuten.
+Pacioli stand nämlich, wie berichtet wird, 3) mit den hervor-
+ragendsten Künstlern seiner Zeit in wissenschaftlichem Verkehr.
+Von Piero della Francesca, seinem älteren Landsmanne, heisst es
+insbesondere, dass dieser ihn in den mathematischen Disciplinen
+unterrichtet habe, und selbst der gefeierte Lionardo da Vinci
+verschmähte es nicht, zur Divina proportione die Figuren zu
+entwerfen. Es sind dieselben Zeichnungen der fünf regelmässigen
+und aus diesen durch Abschneiden der Ecken oder pyramidale
+Erhöhung der Flächen abgeleitete Körper, die sich bei späteren
+Autoren von Tractaten über Perspective wiederholen. Vielfach
+spricht ausserdem Pacioli selbst von seinen freundschaftlichen
+liczichungcn zu beiden Meistern. Piero insbesondere bezeichnet
+er in der l^inleitung des zuerst genannten, dem Herzog Guidu-
+
+') I.ihri, Ilisioirc dcü sciences ninllii.'mnrKiiics III,
+'■') Moiitiicl,!, Hisloin: <It:s sciciu-cs mMllu'iniiliqncs.
+■') Viisnri vile.
+
+
+baldo von Urbino gewidmeten Hauptwerkes als „il monarca alli
+tempi nostri della pictura", während im Tractate vom goldenen
+Schnitt die freundschaftlichen Beziehungen zu Lionardo mehr-
+fach betont und dessen Cenacolo, wie auch die leider nur im
+Modell vollendete Reiterstatue des Herzogs von Mailand unter
+unter den Meisterwerken jener Zeit genannt werden. In dem-
+selben Tractate finden sich überdies mehrfach Namen ausübender
+Künstler, die beim Autor Belehrung über praktische Fragen ge-
+sucht, insbesondere wird mit Genugthuung auf den Beifall hin-
+gewiesen, welchen seine zu Florenz, Mailand und anderen Orten
+gehaltenen wissenschaftlichen Vorträge bei Hoch und Niedrig ge-
+funden, die Herzoge und Fürsten durch ihre Anwesenheit zu ver-
+herrlichen pflegten. Aus diesem lebendigen Verkehr von Theorie
+und Praxis, von Wissenschaft und Kunst gingen wesentlich
+wohl jene beiden Tractate hervor, die nicht sowohl als Resultate
+theoretischer Forschung anzusehen sind, als vielmehr vorwiegend
+praktischen Zwecken des ausübenden Künstlers ihre Entstehung
+verdanken. Von ihnen ist der erste, der hier vorgelegte De divina
+proportione, gegen Ende des fünfzehnten Jahrhunderts entstanden
+und Anfang des sechzehnten zum erstenmale publicirt worden.
+Derselbe ist dem Herzog Lodovico Sforzo, genannt il Moro, ge-
+widmet und bildet eigentlich nur den allgemeinen oder theoretischen
+Theil als Einleitung eines zweiten Tractates von den fünf regel-
+mässigen und daraus abgeleiteten Körpern, welcher sich mit der
+Lösung bestimmter, in Zahlen ausgedrückter geometrischer Pro-
+bleme der künstlerischen Praxis beschäftigt. Der gleichsam nur
+als Anfang dem zuerst genannten angefügte kurze Tractat über
+Architektur steht sachlich ziemlich ausser Zusammenhang mit
+jenem, es sei denn, dass man einen solchen annimmt, wie Libri
+a. a. O. darin zu erkennen glaubt. Derselbe sagt nämlich,
+indem er von der Divina proportione spricht, Pacioli habe darin
+nachweisen wollen, wie jene Proportion, welche man auch als
+goldener Schnitt benennt, in den Gliederungen aller wohlgebil-
+deten menschlichen Gestalten ebenso wie in den Gebilden der
+Kunst, der Architektur insbesondere sich finde, und überall da
+wiederkehren müsse, wo etwas Schönes entstehen solle, so dass
+sogar die Buchstaben des Alphabets, dieser Regel entsprechend,
+zu construiren seien. Nun ist aber das, was Pacioli in jenem
+
+Tractat über Architektur von der menschlichen Gestalt sagt, im
+Wesentlichsten nichts, als eine Wiederholung der Vitruv'schen An-
+gaben, und das Gleiche lässt sich auch hinsichtlich der Säulenord-
+nungen behaupten, umsomehr als der Autor selber keinen Hehl
+daraus macht. Bei Vitruv aber, und ebenso bei allen Architekten der
+Renaissance, die wie Serlio, von ihm geschöpft, spielt nicht der
+goldene Schnitt, sondern vielmehr das auf Grund der musika-
+lischen Accorde abgeleitete harmonische Zahlenverhältniss die
+Hauptrolle. Was endlich das Alphabet betrifft, so ist dasselbe
+nebst den vom Autor gegebenen constructiven Bestimmungen am
+Ende des Tractates hinzugefügt, w^onach sich Jeder selber überzeugen
+kann, inwieweit nach dieser Seite die Ansicht Libri's motivirt er-
+scheint. Wäre sie dennoch begründet, so müsste man umsomehr
+fragen, mit welchem Rechte ein Werk Jüngeren Datums i) etwas als
+vöUig neu ausgeben durfte, was bereits vor dreihundert Jahren
+bekannt war. Gleichwohl steht fest und geht aus den im Tractat
+selber gelegentlich verstreuten Bemerkungen hervor, dass Pacioli,
+wenn er auch den goldenen Schnitt nicht als Basis eines allgemein
+giltigen Natur- und Kunstprincipes auffasst, doch dessen Bedeutung
+beiweitem überschätzt. Geht er doch so weit, in seinem En-
+thusiasmus zu bekennen, dass durch diese seine Entdeckungen
+die Wissenschaft an den Grenzen des menschlicher Fähigkeit
+Möglichen angelangt und künftige Fortschritte nur durch Er-
+weiterung des bisherigen, nicht aber durch Erfindung neuer Theo-
+rien zu erhoffen sei. Naive Auslassungen dieser Art mochten
+die für die damalige Zeit neuen Resultate veranlassen, wonach
+nicht nur die fünf regulären, sondern überhaupt alle möglichen
+durch Abschneiden der Ecken und so fort daraus erhaltenen Mo-
+dificationen dem goldenen Schnitt direct oder indirect bezüglich
+ihrer Formverhältnisse sich unterworfen zeigen. Ja es weist
+"sogar eine gelegentliche Aeusserung daraufhin, in welchem Sinne
+der Autor jene künftig zu erhoffende Erweiterung der Wissen-
+schaft verstanden wissen will, denn er denkt sich seine Theorie
+des üeberganges von den einfacheren zu den coniplicirteren, das
+heisst von einer grösseren und grösseren Flächenzahl umgrenzten
+
+') A. /.cisin/;, Nriir l.clnc von .h-n iM-npoilioiKüi des nu-nsflilicli
+
+Köf|itTH CIC.
+
+Körpern, die sich durch Eckenabschneiden aus jenen ergeben, gleich-
+sam als Ersatzmittel für die Differentialrechnung, um auf diese
+Art zu allen möglichen krummflächig begrenzten Körpern zu ge-
+langen, wie er am betreffenden Orte ausdrücklich durch den Aus-
+druck „in ogibilibus" andeutet. •) Ausserdem haben für ihn jeneKörper
+auch eine praktische und ästhetische Bedeutung: Abgesehen von
+dem Lobgesang auf die fünf regulären Körper, mit welchem erden
+bezüglichen Tractat beginnt, versäumt er keine Gelegenheit, Archi-
+tekten und Bildhauern die praktische Anwendung derselben zu
+empfehlen, weil die Regelmässigkeit ihrer Form dem Beschauer
+ästhetisches Wohlgefallen gewähre, so dass selbstPhidias, der grösste
+Meister der Antike, dieselben anzuwenden nicht unterlassen habe.
+Bei der grossen Bedeutung, welche als Leitfaden für
+Künstler und Techniker Pacioli's Divina proportione ihrer Zeit in
+Anspruch nahm, liegt neben dem historischen Interesse die
+Frage nach dem theoretischen und praktischen Werth des Trac-
+tats, insbesondere des goldenen Schnittes, vom Standpunkte
+der heutigen Kunstwissenschaft nahe, umsomehr als schon das
+Alterthum diesem Verhaltniss, wie der Name anzudeuten scheint,
+eine besondere Wichtigkeit beilegte, wie denn Euklid im
+Wesentlichen bereits alles das bekannt war, was Pacioli über
+die Divina proportione beibringt: denn alle darin enthaltenen
+Sätze lassen sich als norhwendige Folgerungen aus der Defini-
+tion selbst ableiten. So erklärt es sich denn, dass mit dem
+Wiedererwachen des Studiums der Antike das Interesse für Pa-
+cioli's Schriften, die wesentlich nichts Neues boten, und damit
+auch das für den goldenen Schnitt allmählich zurücktrat. Erst
+lange nachher, in der Mitte dieses Jahrhunderts, ward in der
+erwähnten Schrift der Gegenstand von neuem aufgenommen und
+in einer allgemeineren Auffassung der goldene Schnitt nicht
+nur als morphologisches Princip der Naturgebilde, sondern auch
+als ästhetisches Grundprincip alles Kunstschaffens aufgefasst,
+also dieselbe Bedeutung, welche nach Libri von Pacioli bereits
+der Divina proportione beigelegt, von neuem in den Vorder-
+grund gestellt. Es handelte sich zunächst darum, auf Grund dieses
+
+*) Wenn nicht etwa ein Druckfehler anzunehmen und zu lesen
+in agibilibus" (vgl. die betr. Stelle des Textes.)
+
+Princips einen sogenannten Kanon der menschlichen Gestalt zu
+construiren. Das Bemühen, eine Normalfigur für die Zwecke der
+Kunst herzustellen, hat an sich nichts Befremdliches. Schon in
+alten Zeiten, bei den Aegyptern wie den Griechen, mögen der-
+artige Vorbilder existirt haben. Das gewöhnliche und natürlichste
+Verfahren besteht darin, aus einer Anzahl von Messungen an
+möglichst normal gebildeten, sonst aber nach Alter und Ge-
+schlecht verschiedenen Individuen die linearen Verhältnisse der
+einzelnen KÖrpertheile bezüglich zur Gesammtlänge des Körpers
+zu bestimmen, und daraus nach dem Princip der Wahrschein-
+lichkeitsrechnung den mittleren W'erth abzuleiten. Daraus
+ergibt sich der sogenannte Kanon, der also gewissermassen
+als allgemeiner Typus ohne individuelle Eigenthümlichkeiten
+anzusehen ist. Allein der Künstler stellt keine Typen, sondern
+stets Individuen dar, wären es auch noch so ideale, wie
+die antiken Göttergestalten, die mit Unrecht als Typen bezeichnet
+werden, denn es wohnt ihnen allen doch stets ein bestimmter
+individueller Charakter inne. Diesen darzustellen, müsste der
+Künstler in jedem Falle die entsprechenden Modificationen seines
+Kanons kennen, welche Modification um so grösser, je weniger
+bei der Herstellung des Kanons Individuen entsprechender Art
+in Betracht gezogen werden. Es fragt sich in der That, ob an-
+statt eines in vorheriger allgemeiner Weise abgeleiteten Kanons
+es für die Zwecke des Künstlers nicht rathsamer wäre, nicht nur
+für jedes Alter und Geschlecht, sondern auch für jeden indivi-
+duellen Charaktertypus aus einer Anzahl entsprechender normal
+gebildeter Individuen specielle kanonische Formen abzuleiten,
+wie ja auch die hellenische Plastik nicht einen, sondern ver-
+schiedene Typen als solche aufweist. Immerhin mag es im
+Interesse der Kunst liegen, ein allgemeines festes Gesetz auf-
+zusuchen, demgemäss sich die normalsten Körperformen geo-
+metrisch construiren lassen. Zu diesem Zwecke ward, wie be-
+kannt, auch der goldene Schnitt benutzt. In der That haben die
+Messungen Zeising's und die darnach vorgenommenen Con-
+siructionen normaler menschlicher Figuren (cfr. unter Anderen
+Brocheneck, die nuinnlichc und weibliche Normalgcstult) er-
+geben, das;, die Vcrhiihnisse iIcs goldenen Schnittes den wirk-
+lichen N;iliii lormcn ebensowohl, wie auch den besten Bil-
+düngen der antiken Kunst sich mit relaiiv unbedeutenden
+Abweichungen anschhessen, derart, dass sich unter Zugrunde-
+legung dieses Gesetzes wiederum eine Art von „Kanon"
+ergibt, der von dem auf die andere Art enthaltenen kaum
+wesentlich abweicht. Aber mit Recht bemerkt Harless, dass auch
+jede beliebige andere stetige Proportion durch fortgesetzte lineare
+Theilung zu demselben Resultate führen müsse, weshalb von
+einem morphologischen Princip^ nach welchem alle Organismen
+im Sinne des goldenen Schnittes sich ghedern, zu abstrahiren
+ist. Im Gegentheil wird jede sonst noch eingeschlagene Methode,
+sofern sie nur von Resultaten begleitet ist, welche den natür-
+lichen Formen und den daraus durch directe Messungen ab-
+geleiteten Mittelwerthen keinen Zwang anthun, denselben Erfolg
+haben, ohne dass der einen vor der anderen darum der Vor-
+zug gebührt, ob wir mit Carus von der Wirbelsäule aus die
+natürliche Ghederung der Form suchen oder wie Schmidt eine
+an sich ganz willkürliche geometrische Constrüction zu Grunde
+legen oder wie Quetelet und nach ihm Trost rein empirisch
+verfahren.
+
+Die einzig rationelle und einzig denkbare Art, einen Kanon
+der menschlichen Gestalt im wahren Sinne des Wortes zu
+schaffen, wäre offenbar die, auf Grund der organischen Bildungs-
+geietze, welche seit seiner ersten Entstehung im Embryo die
+Entwickelung des Menschen begleiten. Diese aber zu ergründen,
+sind wir noch weit entfernt und werden es, wie der oben citirte
+Autor bemerkt, für immer wohl bleiben. So nützlich auch im
+übrigen der goldene Schnitt in seiner Anwendung auf die äussere
+Gestaltung des menschlichen Körpers sich für das künstlerische
+Studium erwiesen, so bleibt er doch nur eins von den unendlich
+vielen Mitteln, welche den gleichen Erfolg ergeben, also etwas
+ganz Aeusserliches.
+
+Anders verhält es sich aber mit der ästhetischen Wirkung,
+welche nach diesem Princip gegliederte Formen dem Beschauer
+erzeugen. Soll das Auge bei der Betrachtung eines Gegenstandes
+die Empfindung von gesetzmässiger Gliederung seiner Theile
+empfangen, so ist in erster Linie erforderlich, dass das fragliche
+Gesetz möglichst einfach sei, um sich auf den ersten Blick als
+solches kundzugeben. Das einfachste Verhältniss aber wäre das
+der Gleichheit aller Theile, welches Jedoch aus naheliegenden
+Gründen als ästhetisches Princip hier ausser Acht bleiben kann.
+Die demnächst einfachsten Verhältnisse wie i : '/2 : y.^ : Yg kann
+das Auge durch Vergleich zweier benachbarter Strecken zwar
+noch unterscheiden, doch schon das harmonische Verhältniss
+I • V2 • Vs • V4 würde sich ohne andere Hilfsmittel schwer er-
+kennen lassen, und noch schwieriger fast unmöglich würde bei
+complicirteren Zahlen, z. B. solchen, die in bestimmten Inter-
+vallen wachsen, die Schätzung ihrer Verhältnisse, es sei denn,
+dass die Einheit oder der Modul der Eintheilung in allen Theilen
+des Gebildes wiederkehrt, wie etwa bei den Quadern oder Back-
+steinen eines complicirteren Bauwerkes. Aber es handelt sich be-
+züglich des ästhetischen Eindrucks auch weniger um den Zahlen -
+werth der Verhaltnisse, als darum, die gesetzliche Durchführung
+eines solchen im Ganzen wie in allen seinen Theilen oder mit
+anderen Worten die Gliederung desselben nach einem bestimmten
+Rhythmus zumBewusstsein zu bringen. Nun sind von Proportionen
+im allgemeinsten Sinne bekanntHch zweierlei: arithmetische und
+geometrische zu unterscheiden. Von jenen werden die successiven
+Glieder einer Reihe durch Addition oder Subtraction, von diesen
+durch MultipHcation oder Division aus den Anfangsgliedern ab-
+geleitet. Die einfachste Form für Reihen der ersten Art wäre somit
+die, wo nur zwei Anfangsglieder a und b willkürlich anzunehmen
+sind, aus denen die folgenden durch die Relationen c = a -f- b, d =
+è -|- c, e = c-)-rf U.S. f. abgeleitet werden können. Jeder solchen Reihe
+liegt, wie schon andern" Orts i) hervorgehoben, ein gewisses orga-
+nisches Princip zu Grunde, welches sagt, dass aus zwei schwächeren
+ein stärkeres, oder umgekehrt aus diesem zwei schwächere hervor-
+gehen, wie etwa beim Baumwuchs.-) F]s liegt auf der Hand, dass das
+Auge durch den Vergleich je dreier aufeinanderfolgender GHeder bei
+
+1) Das Malerbuch Lionardo da Vinci's in Jahrbücher
+der königlich prcussischen Kunstsammlungen 1887.
+
+-) Versteht man unter a, b, a' b' nicht Zahlengrössen,
+Mindern je zwei sich unter einem Winkel begegnende lineare
+Kiiifte, unter c c' deren Resultanten nach Grösse und
+Klchtung, so ergibt die /usammenseizung der zwei letzteren
+eine neue Miiteikrafi, 11. s. f. wie nebenstehende Figur
+■ mdculci.
+jeder so gebildeten Reihe, indem es dieselben überfliegt, ihr Bildungs-
+
+geset;: sofort erkennen wird. Dagegen würde es die Gleichheit
+
+(X c
+
+zweier geometrischer Verhältnisse -^ und — r welche zwischen
+
+od,
+
+vier auf derselben Linie aneinanderstossenden Stücken a, b, c,
+
+d bestehen soll, nicht ohne weiters übersehen. Der Blick würde
+
+zunächst von a nach b gleitend, diese Längen vergleichen, sodann
+
+von b nach c übergehend dasselbe versuchen, ohne dafür einen Anhalt
+
+aus dem Verhältniss der beiden ersten Stücke zu finden, und somit
+
+eine Lücke in der Betrachtung empfinden. Erst wenn diese durch
+
+die Bestimmung ausgefüllt wird, dass das Verhältniss von —
+
+gleich dem Nachbarverhältniss — sein soll, wie bei stetigen Pro-
+portionen, ist ein fortlaufender Vergleich und somit eine Erkenntniss
+des Rhythmus möglich. Tritt ferner zu dieser einfachsten dem
+Auge stets kenntlichen geometrischen Proportion dieBedingung, dass
+zwischen den drei Grössen a b c auch das arithmetische Verhältniss
+a -\- b = c stattfinden soll, so ergibt sich dadurch das, was als
+goldener Schnitt bezeichnet wird, dessen Vorkommen in der
+organischen Natur hiernach nichts Auffallendes haben dürfte,
+während zugleich die doppelte Beziehung, welche unter je dreien
+seiner Glieder stattfindet^ dem Auge unmittelbar und ohne weitere
+Hilfsmitteln klar wird. Alle anderen, in der Kunst zur Anwen-
+dung kommenden Proportionen, insbesondere die harmonische
+Theilung, bedürfen, um sie dem Beschauer zu verdeutlichen,
+solcher Hilfen wie die in perspectivisch gleiche Abschnitte ge-
+theilten, im Augenpunkt convergirenden Senkrechten zur Bild-
+ebene, welche erst mittelst des durch sie und die zur Bildebene
+parallelen Linien entstehenden perspectivischen Quadratnetzes
+das Gesetz ihrer Theilung dem Auge vollkommen verständlich
+machen. Die Schwierigkeit ist hierbei schon deshalb grösser,
+weil zwei Glieder der Proportion voneinander unabhängig
+bleiben, woraus sich für das Auge stets die oben angedeuteten
+Inconvenienzen ergeben. Die Anwendung des goldenen Schnittes
+als Construciionsprincip für die äussere Form des menschlichen
+Körpers wird, den vorherigen Erläuterungen gemäss, zwar nie
+das uns unbekannte Naturgesetz ersetzen können. Es wird viel-
+mehr ein Surrogat stets sein und bleiben, wie alle übrigen Ver-
+suche dieser Art, einen Kanon zu construiren. Aber unter allen
+den Principien, welche in diesem Sinne bis jetzt beim mensch-
+lichen Körper angewandt worden, und weiterhin auch bezüglich
+anderer Organismen, für welche die vorher erläuterten Bedingungen
+zutreffen, Anwendung versprechen, dürfte keinem der Vorzug
+ästhetischer Vollkommenheit mit mehr Recht zukommen, als
+diesem, insofern die Durchführung dieses Gesetzes und der da-
+durch im Ganzen und den Theilen erzeugte Rhythmus dem
+unbefangenen Blick sich leichter als andere offenbart. Dass es
+der Kunst überhaupt möglich, einen solchen Rhythmus in der
+menschlichen Figur zum Ausdruck zu bringen, wird Niemand
+in Abrede stellen, der nach dieser Seite die Formen der Antike
+einer genaueren Betrachtung gewürdigt. Trotz aller Vorzüge
+ist doch nicht zu leugnen, dass genug Falle eintreten können,
+wo nichts weniger als der goldene Schnitt am Platze wäre.
+Musikalische Accorde nach der Scala des goldenen Schnittes
+construiren zu wollen, würde ebenso widersinnig sein, als die
+Eintheilung des menschlichen Körpers nach dem Princip der
+Harmonie der Töne. Nur da, wo aus der Sache selbst
+dieses oder jenes Verhältniss sich naturgemäss von selbst ergibt,
+wird dessen Wahl vor anderen den Vorzug haben. Ob übrigens
+Pacioli selber die hier angedeuteten Beziehungen bekannt ge-
+wesen, bleibt zweifelhiift. Die Divina proportione enthält davon^
+ausser den vorherigen Andeutungen, nichts von Bedeutung.
+Dem Inhalte nach zerfällt der Tractat in vier Gruppen. Die
+erste gibt eine Anzahl elementarer Sätze über den goldenen
+Schnitt, die übrigens ohne innere Nothwendigkeit willkürlich
+aneinandergereiht sind, wobei hinsichtlich der Beweise auf die
+betretfendcn Stellen Euklid's verwiesen wird, so dass es des Ver-
+ständnisses wegen nothwendig schien, die meisten dieser Sätze
+kurz zu erläutern, wie im Anhang am Ende des Tractates ge-
+schehen. Uebrigens wären für das Folgende bei Weitem nicht
+alle nöthig gewesen. An sie schliesst sich eine zweite Gruppe,
+welche sich mit der geometrischen Construction der fünf regu-
+lären Körper beschäftigt, die, da sie ohne Kenntniss der neueren
+Geoiuelrie und tier Theorie polarer Gebilde auf rein elemen-
+tarer Grundlag',' fusst, naturgemäss etwas umständlich ausfällt.
+Nachdem diese Gruppe mit dem Nachweis beschlossen, dass im
+Gegensatze zur unendlichen Zahl regulärer Polygone nur fünf
+entsprechende Körperformen existiren, werden in den folgenden
+eine Reihe gegenseitiger Ein- oder Umschreibungen besagter
+Körper discutirt, derart, "dass entweder Ecken auf Ecken oder
+Flächen auf Flächen oder Ecken auf Flächen oder Flächen auf
+Kanten fallen, wobei Pacioli den schon von Tartaglia i) gerügten
+Fehler begeht, eine Anzahl von Fällen mit Stillschweigen zu
+übergehen, ja in einem Falle: der Einschreibung des Octa-
+eders ins Icosaeder, unter Beibringung mysteriöser Gründe den
+Nachweis versucht, dass dieser Fall unmöglich sei. Es schien
+darum im Interesse der Sache nothwendig, die Gesammtheit
+aller möglichen Fälle gegenseitiger Einbeschreibungen auf Grund
+der Theorie von Pol und Polare im Anhang kurz zu erledigen.
+Zu jener absonderlich khngenden Annahme hat übrigens Pacioli,
+wie es scheint, eine aus dem Alterthum stammende Tradition
+veranlasst, und zeigt recht evident, wie fest die Macht der Vor-
+urtheile selbst unter den Gelehrten damaliger Zeit wurzelte. Die
+platonische Lehre von den vier Elementen, welcher er als fünftes
+die Himmelskraft hinzufügt, glaubt der Autor nämlich auf die
+fünf Körper anwenden zu müssen, indem er sie dem Grade der
+Vollkommenheit der einfachen Stoffe, welche sie symbolisch
+vertreten, entsprechend vertheilt. Diesen Vollkommenheitsgrad
+aber bestimmt er je nach der Anzahl derer, welche sich in jedem
+derselben einbeschreiben lassen, wobei das Dodekaeder als das
+vollkommenste, alle vier in sich aufnimmt, das Icosaeder aber
+als das nächst vollkommene, nur drei Einschreibungen zu-
+lässt. Uebrigens sieht man schon aus der Umständlich-
+keit der Behandlung dieses Gegenstandes, dass sich der Autor
+dabei weniger als anderswo selbständig fühlt. Als Schluss
+dieses Theiles behandelt der Inhalt eine Anzahl als „abhängige"
+von den fünf regulären Körpern bezeichnete Formen, beschränkt
+sich aber dabei auf die blosse Beschreibung. Alle lassen sich,
+mit Ausnahme des 72-Flächners, aus jenen durch Abschneiden
+der Ecken oder pyramidales Aufhöhen der Flächen ableiten,
+
+1) Tartaglia, General-Trattato di Matematiche.
+Die letzte Gruppe beginnt nach einem längeren Internaezzo mit
+der Deduction der Inhaltsbestimmungen von Prismen, Cylindern,
+ganzen und abgestumpften Pyramiden und Kegeln ohne Beweis;
+nur einmal wird nachzuweisen versucht, warum die Pyramide
+genau den dritten Theil des Volumens vom Prisma gleicher
+Grundfläche und Hohe ergeben müsse.
+
+Hiermit ist wesentlich der mathematische Inhalt des Trac-
+tates erschöpft. Als Anhang schliesst sich, wie bemerkt, in zwanzig
+Capiteln ein kurzer Abriss über Architektur an. Er enthält aussej
+einer umfangreichen, sachlich interesselosen Einleitung die haupt-
+sächlichsten, von Vitruv entnommenen Angaben und praktischen
+Regeln, soweit sie sich auf Säulenconstruction und Säulenbau be-
+ziehen. Vorangestellt ist eine kurze, ebenfalls Vitruv entlehnte
+Zusammenstellung der menschhchen Körperverhältnisse, welche
+nach jenem Autor den ältesten Säulengliederungen zum Vorbild
+gedient.
+
+Hinsichtlich der Methoden, soweit sie wissenschaftHch als
+solche in Betracht kommen, sind bereits die ihnen anhaftenden
+Mängel im Allgemeinen hervorgehoben. Ausser den ohne Be-
+weis vorausgeschickten Sätzen vom goldenen Schnitt kommen
+bei der Behandlung der fünf regulären Körper und der Deduction
+ihrer gegenseitigen Beziehungen neben dem Pythagoraischen Lehr-
+satze den Sehnen- und Tangentensätzen des Kreises, wie sie im
+Euklid sich finden, kaum andere Theorien in Betracht. Mittelst
+solcher Sätze werden die Höhen der zur Grundebene parallelen
+Schnitte bestimmt, welche man an entsprechenden Stellen
+durch die Körper hindurchlegt und ebenso die relativen Co-
+ordinatcn oder gegenseitigen Abstände der Eckpunkte dieser
+Schnitte. Dass ein so elementares Verfahren nur auf umständ-
+lichsten Verfahren zum Ziele führt, leuchtet ein. Bei dem Do-
+dekaeder z. B. würde schon die Zuhilfenahme des ihm einge-
+schriebenen Gubus die Construction vereinfacht haben; ebenso
+würde die des Icosaeders, wenn man sie nicht als polare Figur
+des Dodekaeders herleiten will, sich mit Zuhili'enahme des um-
+schriebenen W^ürfels weit bequemer gestalten, dessen Seiten je
+eine Kante des Icosaeders enthalten, Dass Pacioli dies Verfahren
+dem coniplicirtcrcn nicht vorzieht, erklärt sich dadurch, dass es
+seinem l'iiiicip vom I'jnfachcrcn zum Gomiilicirtcren fortzu-
+schreiten widersprochen hatte, die gegenseitigen Beziehungen
+der fünf Körper zu erörtern, ohne vorher die Bildung der ein-
+zelnen für sich genau untersucht zu haben. Er spart darum die
+Untersuchung dieser Beziehungen für die dritte Gruppe. Die Un-
+zulänglichkeiten dieses Theiles sind bereits hervorgehoben worden.
+Er bietet überdies nichts, was uns nicht schon bei Euklid be-
+gegnet. Das fünfzehnte Buch desselben enthält dieselben zwölf
+Probleme gegenseitiger Einschreibung regulärer Körper, welche
+Pacioli hier wieder aufnimmt. Die übrigen noch möglichen Falle
+entgehen ihm : ja er stellt sie sogar aus oben erwähnten Gründen
+in Abrede. Auch darin war er übrigens nicht der Erste, son-
+dern bereits sein Vorgänger Cumpanus hatte die gleiche Ansicht
+vertreten. Doch schon Tartaglia bewies, wie bemerkt, die Halt-
+losigkeit dieser Ansicht und fügte zwei neue Fälle, die Einschrei-
+bung des Icosaeders in den Kubus und den von Pacioli ge-
+leugneten Fall, hinzu. Des letzteren Beweismethoden sind über-
+dies bei Weitem klarer und kürzer als die unbehilflichen Me-
+thoden Pacioli's. Aber erst die neuere Geometrie vermochte in
+eleganter Deduction die volle Anzahl aller möglichen Fälle dar-
+zuthun, indem sie aus jedem der bis dahin bekannten die polare
+Figur ableitete und dadurch die Zahl verdoppelte. Auch
+die letzte Gruppe zeigt nichts weniger als eigene Arbeit des
+Verfassers, vielmehr scheinen die Notizen bezüglich der nicht in
+die Gruppe der regulären zu zählenden Körper nur den Zweck
+zu haben, für die in dem folgenden Tractat, dem Libellus ent-
+haltenen auf diese bezüglichen Probleme die allgemeinen Regeln
+noch kurz in Erinnerung zu bringen.
+
+Für die heutige knappe und präcise Ausdrucksweise hat
+die weitschweifige, unbeholfene Satzbildung, wie wir sie in beiden
+Tractaten antreffen, etwas Ungeniessbares. Schon die Zeitgenossen
+bezeichnen seine Schreibweise in wenig schmeichelhafter Art als:
+„Ceneraccio" (Aschenlauge, Schmutzbrühe). In der That ist es
+nicht blos die halb latinisirte an das heutige klangvolle Ita-
+lienisch gewöhnten Ohren befremdliche Wortbildung, auch be-
+züglich des Gedankenganges findet sich keineswegs überall jene
+strenge Logik festgehalten, die wir als einen Vorzug der classischen
+Zeit zu schätzen wissen. Mathematische Lehrsätze finden sich
+nach damaligem Brauch mit dogmatischen Absurditäten und
+EINLEITUNG.
+
+bigottestem Aberglauben im bunten Gemisch. Nicht selten sind
+ganze Episoden eingeschalter, welche zur Sache ohne irgend welche
+Beziehung, den Ideengang ohne Noth unterbrechen. Doch darf man
+nicht ungerecht urtheilen. Denn wohl mochte der durch seine münd-
+lichen Vorträge routinirte Mönch mit Rücksicht auf das Publicum,
+welchem er seine Lehren deducirte, worunter, wie erwähnt, keines-
+wegs ausschliesslich Künstler und Techniker, sondern auch Fürsten,
+hohe Herren zu zählen, denen es weniger um den Ernst der
+Wissenschaft als um leichte Unterhaltung zu thun, die Noth-
+wendigkeit eingesehen haben, das ermüdende Einerlei trockener
+Prosa hin und wieder durch derartige Episoden zu unterbrechen.
+In der Divina proportione schien dies um so nöthiger, als der
+Tractat dem Herzog von Mailand gewidmet, sich in der That
+auch formell als ein an dessen Person gerichteter mündlicher
+Vortrag darstellt.
+
+Mehr historisches Interesse, insofern sich daran der Name
+Lionardo da Vinci's knüpft, dürften die dem Tractate beigege-
+benen Tafeln beanspruchen, welche eine grössere Zahl von Zeich-
+nungen regulärer und daraus abgeleiteter Körper theils in Skelet-
+form, theils als Vollkörper enthält, derart, wie sie von da seit-
+her in den meisten Werken perspectivischen Inhaltes übergegangen
+sind. Offenbar sah man darin ein wesentliches Mittel, zunächst
+durch solche Zeichnungen eine gewisse Uebung zu erlangen,
+auch bei weniger scharf gegliederten Contouren der natürlichen
+Organismen die relative Lage der einzelnen, sie umgrenzenden
+Flächentheile richtig taxiren und dementprechend perspectivisch
+darstellen zu können, ähnlicherweise wie der Künstler seine
+Studien zuerst mit dem Zeichnen nach Gypsfiguren beginnt, ehe
+er sich zu den natürlichen Modellen wendet. Für den vorliegenden
+Zweck durften sie daher um so eher entbehrlich sein, als sich, wie
+bemerkt, keineswegs etwas Eigenartiges darin bietet, sofern sie
+fast in allen perspectivischen Abhandlungen jener Zeit sich
+wiederfinden, abgesehen davon, dass die Herstellung der nicht
+geringen Anzahl von Platten eine nicht unwesentliche Erhöhung
+der Kosten veranlasst haben würde.
+
+Die Neuausgabe der Divina proportione stellte sich zwar
+zunächst den Zweck, den nlterthümlichen, durch Abkürzungen
+aller Art f;ist un";cnicssbar gewordenen Text der früheren Aus-
+gäbe wieder lesbar zu machen und zugleich die sachlichen
+Mängel und Ungenauigkeiten zu berichtigen, um dadurch den
+Ueberblick und Beurtheilung der wissenschaftlichen Hilfsmitteln,
+über welche die damalige Kunst verfügt, zu erleichtern, zugleich
+aber neben diesem historischen Interesse möchte sie auch an-
+regend auf den heutigen Künstler wirken, welchem Kenntniss
+und Zeichnungen der regulären und daraus abgeleiteten Körper
+in der Weise, wie es Lionardo gethan, auch heute noch wohl
+zu empfehlen sein dürfte, vorausgesetzt, dass anstatt der geist-
+tödtenden Art Pacioli's die Hilfsmittel der neueren Geometrie be-
+nutzt werden, wie im Anhang dieser Ausgabe kurz angedeutet.
+Ohne diese Kenntniss würde sich die Kunst nicht nur alle solchen
+Studien erschweren, sondern auch ein Feld reichster Anregung
+für ihre Zwecke verschliessen, welcher Umstand umsomehr in
+die Wagschale fällt, als das moderne Geschlecht ausübender
+Künstler den Vorzug der alten Meister nicht theilt, welche sich
+keineswegs blos auf die Kunst zu beschränken, sondern, wie
+bekannt, zugleich als Techniker, Ingenieure, Architekten zu
+fuuctioniren pflegten.
+
+Schliesslich sei bemerkt, dass das der Bearbeitung zu Grunde
+gelegte Exemplar der Ausgabe von Anfang des i6. Jahrhunderts
+der Bibliothek des k. k. Oesterreichischen Museums angehört, von
+welcher es vom verstorbenen Director Hofrath v. Eitelberger
+gütigst zur Verfügung gestellt worden. Daneben wurde gelegent-
+lich bei zweifelhaften Stellen das Manuscript der Vaticane zu
+Rathe gezogen.
+
+
+---

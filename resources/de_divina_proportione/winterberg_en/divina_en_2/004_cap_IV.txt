@@ -1,0 +1,14 @@
+IV. Citations and Notation
+
+Citations of Euclid:
+- "The 5th of the 1st" refers to the 5th Proposition of Euclid's Book I.
+- "The 4th of the 2nd" refers to the 4th Proposition of Euclid's Book II.
+This convention applies generally to Euclid's Elements. Citations of other works will be explicit.
+
+Algebraic Terms (Modernized):
+- "Cosa" (Thing) = $x$ (unknown linear quantity)
+- "Censo" (Square) = $x^2$ (square of the unknown)
+- "Cubo" (Cube) = $x^3$ (cube of the unknown)
+- "Multiplication", "Product", "Rectangle" are equivalent terms.
+- "Square of a quantity" and "Power of a quantity" are equivalent terms.
+- The "Power of a line" refers to its square (Euclid X).

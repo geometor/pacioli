@@ -1,0 +1,23 @@
+Cap. XIV.
+
+Of its fifth wonderful effect.
+
+If a magnitude is divided according to our said proportion,
+so is always the sum of the square of the smaller
+segment and of the square of the whole magnitude the triple
+of the square of the greater segment. Let be e.g. ten the
+divided magnitude as we have said, so that the one segment
+15 - sqrt(125), i.e. the smaller, and the other sqrt(125) - 5 be,
+i.e. the greater. I say, that, if one adds the square of
+15 - sqrt(125) to the square of ten, the whole magnitude,
+their sum will be triple, i.e. three times as large as the
+square of the greater segment, i.e. sqrt(125) - 5.
+Accordingly is the square of 15 - sqrt(125) = 350 - sqrt(112500)
+and the square of ten is 100, which added to 350 - sqrt(112500)
+yields 450 - sqrt(112500) for the said sum. And
+the square of sqrt(125) - 5 is 150 - sqrt(112500), which makes 1/3 of the
+said sum, as is evident. For if one multiplies
+150 - sqrt(112500) with three, it makes exactly:
+450 - sqrt(112500). Thus is the said sum the triple
+of the said square, as we asserted. This effect
+concludes the fifth of the 13th geometrically.

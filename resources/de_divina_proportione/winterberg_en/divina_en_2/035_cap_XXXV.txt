@@ -1,0 +1,11 @@
+XXXV. Inclusion of the Tetrahedron in the Cube
+
+**Proposition**
+The Tetrahedron can be inscribed in the Cube.
+
+**Construction**
+1.  Construct the Cube.
+2.  Draw the diagonal on each of its 6 square faces.
+3.  These 6 diagonals form the 6 edges of the inscribed Tetrahedron.
+4.  The 4 vertices of the Tetrahedron coincide with 4 of the 8 vertices of the Cube.
+    (Euclid XV.1).

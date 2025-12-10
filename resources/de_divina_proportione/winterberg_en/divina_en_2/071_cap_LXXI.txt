@@ -1,0 +1,30 @@
+LXXI. Mathematical Definitions
+
+**Hypothesis**: A presupposition admitted by both author and adversary as a basis for argument.
+
+**Hypothumissa (Hypotenuse)**: The side opposite the greatest angle in a rectilinear figure. Specifically, the side opposite the right angle in a right-angled triangle (Euclid I.47).
+
+**Corausto**: A straight line joining two elevated points (Edges of elevation?).
+
+**Cone**: The apex or supreme point of a pyramid where the lateral lines meet.
+
+**Pentagonal Chord**: The straight line connecting two non-adjacent vertices of a pentagon (Diagonal).
+
+**Perpendicular (Cathetus)**: A straight line standing at right angles to another line or plane. In a triangle, the altitude (often called "Arrow" by vulgars).
+
+**Diameter**:
+1.  **Circle**: A straight line through the center, terminating at the circumference.
+2.  **Square**: The diagonal.
+
+**Parallelogram**: A four-sided figure with opposite sides parallel (Square, Rectangle, Rhombus, Rhomboid).
+
+**Diagonal**: A straight line joining opposite angles in a quadrilateral.
+
+**Center**:
+1.  **Circle**: The point from which all lines to the circumference are equal.
+2.  **Polygon**: The point from which lines to all vertices (or sides) are equal.
+
+**Arrow (Sagitta)**: The line segment from the midpoint of a chord to the midpoint of the arc subtended by the chord (Versine).
+
+**Conclusion**
+Finished the 14th day of December, 1497, in Milan.

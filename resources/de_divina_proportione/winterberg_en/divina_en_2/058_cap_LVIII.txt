@@ -1,0 +1,10 @@
+LVIII. The Round Column (Cylinder)
+
+**Definition**
+A round column (cylinder) is a solid figure described by the revolution of a rectangular parallelogram about one of its sides, which remains fixed (the axis).
+(Euclid XI, Def. 21).
+
+**Properties**
+*   **Bases**: Two equal and parallel circles.
+*   **Axis**: The fixed side of the generating rectangle.
+*   **Circumscription**: A sphere can be circumscribed about a cylinder if the diameter of the sphere equals the diagonal of the generating rectangle. The center of the sphere bisects the axis of the cylinder.

@@ -1,0 +1,21 @@
+XLIX. Variations of the Cube
+
+**I. Plane/Solid Cube**
+The standard body. 6 faces, 8 vertices, 12 edges.
+
+**II. Abscinded (Truncated) Cube**
+Created by cutting the vertices of the Cube at the midpoints of the edges (Cuboctahedron).
+*   Faces: 14 (6 Squares, 8 Triangles).
+*   Vertices: 12.
+*   Edges: 24.
+*   Solid Angles: 12.
+*   Note: "Abscinded" here describes the Cuboctahedron (rectified cube) if cut at midpoints.
+
+**III. Elevated Cube (Tetrakis Hexahedron)**
+Created by constructing pyramids on the faces of the Cube.
+*   Faces: 24 (Triangular).
+*   Vertices: 14 (8 original, 6 new apices).
+*   Edges: 36.
+
+**IV. Abscinded Elevated Hexahedron**
+Use complex construction involving 72 edges and 48 faces.

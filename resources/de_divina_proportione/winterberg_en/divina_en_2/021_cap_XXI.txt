@@ -1,0 +1,22 @@
+XXI. Twelfth Effect
+
+**Proposition**
+If a quantity is divided according to the Divine Proportion:
+The ratio of two specific roots derived from the segments is equal to the ratio of the Side of the Cube to the Side of the Icosahedron (in the same sphere).
+Specifically:
+$\sqrt{AB^2 + AC^2} : \sqrt{AB^2 + CB^2} = \text{Side of Cube} : \text{Side of Icosahedron}$
+(Where $AB$ is the Whole, $AC$ the Greater Segment, $CB$ the Lesser Segment).
+
+**Example**
+Whole ($AB$) = 10.
+Square of Whole = 100.
+Square of Greater ($AC$) = $150 - \sqrt{12500}$.
+Square of Lesser ($CB$) = $350 - \sqrt{112500}$.
+
+Sum 1 ($AB^2 + AC^2$) = $250 - \sqrt{12500}$.
+Sum 2 ($AB^2 + CB^2$) = $450 - \sqrt{112500}$.
+
+Ratio $\sqrt{250 - \sqrt{12500}} : \sqrt{450 - \sqrt{112500}}$ is the ratio of the Cube Side to the Icosahedron Side.
+
+**Reference**
+(Euclid XIV.9; Campanus)

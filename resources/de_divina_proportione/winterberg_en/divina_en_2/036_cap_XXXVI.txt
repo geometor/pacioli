@@ -1,0 +1,11 @@
+XXXVI. Inclusion of the Octahedron in the Cube
+
+**Proposition**
+The Octahedron can be inscribed in the Cube.
+
+**Construction**
+1.  Construct the Cube.
+2.  Find the center of each of its 6 square faces.
+3.  Connect these 6 centers with straight lines.
+4.  The result is an Octahedron, with its vertices resting on the centers of the Cube's faces.
+    (Euclid XV.3).

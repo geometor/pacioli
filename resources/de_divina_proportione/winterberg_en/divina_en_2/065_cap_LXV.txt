@@ -1,0 +1,15 @@
+LXV. The Laterated Pyramid
+
+**Definition**
+A laterated pyramid is a solid figure contained by planes that originate from a base and converge to a single point (the cone or apex).
+(Euclid XI, Def. 12).
+
+**Structure**
+*   **Base**: A rectilinear polygon (Triangle, Quadrilateral, Pentagon, etc.).
+*   **Lateral Faces**: Triangles meeting at the apex.
+*   **Naming**: Derived from the base (Triangular, Quadrangular, Pentagonal, etc.).
+
+**Types**
+*   **Right Pyramid**: If the apex lies directly above the center of the base (Perpendicular).
+*   **Oblique Pyramid (Declining)**: If the apex is not over the center.
+*   **Truncated Pyramid**: If the top part including the apex is cut off.

@@ -1,0 +1,14 @@
+XXIV. The Five Regular Bodies
+
+**Definition**
+Regular bodies are solids with equal sides, equal angles, and equal bases.
+There are exactly five such bodies in nature, corresponding to the five elements:
+1.  **Earth**: Cube (Headrahedron/Hexahedron).
+2.  **Water**: Icosahedron.
+3.  **Air**: Octahedron.
+4.  **Fire**: Tetrahedron (Pyramid).
+5.  **Quintessence (Heaven)**: Dodecahedron.
+
+**Proposition**
+It is impossible for there to be more than five regular bodies.
+(Plato, Timaeus).

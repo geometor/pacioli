@@ -1,0 +1,10 @@
+LVI. Definition of the Sphere
+
+**Definition**
+A sphere is a solid figure described by the revolution of a semicircle about its diameter, which remains fixed.
+(Euclid XI, Def. 14).
+
+**Properties**
+*   **Center**: The center of the sphere is the same as the center of the generating semicircle.
+*   **Surface**: The surface is the locus of the arc of the semicircle as it rotates.
+*   **Equality**: All straight lines drawn from the center to the surface are equal.

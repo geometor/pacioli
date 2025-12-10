@@ -1,0 +1,15 @@
+XVI. Seventh Effect
+
+**Proposition**
+If the side of an equilateral hexagon and the side of an equilateral decagon inscribed in the same circle are added together, the sum is divided according to the Divine Proportion.
+The greater segment is the side of the hexagon.
+
+**Example**
+Let the radius (Hexagon side) = $\sqrt{125} - 5$.
+Let the Decagon side = $15 - \sqrt{125}$.
+Sum (Radius + Decagon Side) = $(\sqrt{125} - 5) + (15 - \sqrt{125}) = 10$.
+We know from previous examples that 10 divided in Divine Proportion has $\sqrt{125} - 5$ as the greater segment.
+
+**Conclusion**
+The sum of the Hexagon side and Decagon side is a line divided in Divine Proportion, where the Hexagon side is the greater segment.
+(Euclid XIII.9)

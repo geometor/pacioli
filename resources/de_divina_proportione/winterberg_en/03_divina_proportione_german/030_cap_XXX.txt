@@ -1,0 +1,168 @@
+Cap. XXX.
+
+To be able to produce the body of twelve equilateral and equiangular Pentagons, so that the assumed sphere encloses it exactly.
+
+The side of the named body will evidently be irrational,
+which is called Residuum. One draw a Cube in
+the way taught by us, so that the assumed sphere
+surrounds it exactly. And there be of this Cube the two sur-
+faces ab and ac, and let us imagine now, that ab be the
+upper of them, and the surface ac one of the side surfaces. And
+the line ad be common to these two surfaces. One halve
+now in the surface ab the two opposite sides, namely
+bd and its opposite side and connect the dividing
+points by means of the line ef. And likewise one halve the side
+ad and its opposite in the surface ac, and the dividing
+points one connect by a straight line, whose half be gh,
+and the point h be the midpoint of the line ad. Likewise
+one halve the line ef in point k and draw hk. Then
+you will divide each of the three lines ek, kf and hg according to the proportion,
+which has a mean and two extreme segments in the three points
+l, m, q, and their greater segments be lk, km,
+gq, which evidently are equal to each other, insofar all divided
+lines equal, i.e. each of them was equal to half the Cube side.
+Then erect in the two points l and m the perpen-
+diculars to the surface ab (as the twelfth of the eleventh teaches),
+each of which you will set equal to the line kl,*), and indeed correspond these
+ln and mp. Likewise erect in point q perpendicular to surface ac
+the line qr, which you make equal to gq. Draw then the lines
+al, an, am, ap; dm, dp, dl, dn; ar, aq; dr, dq. Then is according to
+the fifth of the thirteenth evident, that the sum of the squ-
+ares of the two lines kl and el is three times as large, as that
+of the line kl **) and therefore also, as that of the line ln, insofar
+kl and ln are equal to each other. And it is also ke = ea. Thus is
+the power sum of the two lines ae and el equal to the triple
+of that of ln. Therefore is according to the penultimate of the first al^2 = 3ln^2, and
+consequently is according to the same an^2 = 4ln^2. And insofar the square of each
+line is the quadruple of the square of its half, so follows according to com-
+mon knowledge, that an is doubly as long as ln. And because lm
+the double of lk and besides lk and ln are equal to each other, so
+will an = lm be, since their halves are equal. And because according to the
+thirty-third of the first lm = np, so will also an = np
+be. And on the same way you will prove, that the three
+lines pd, dr and ra among themselves and to the two aforementioned
+are equal. We have therefore through these five lines the equi-
+lateral pentagon, namely a, n, p, d, r. But perhaps you will
+say, it be no pentagon, because it perhaps does not lie entirely in one
+and the same plane, which is necessary, so that it be a
+pentagon. And that it lie entirely in one and the same surface,
+you will recognize as follows: It may go out from point
+k the line ks vertical to the plane ab, which
+be equal to lk: then will it therefore be equal to each of the two
+ln and mp, and insofar as it stands from each of the two according to the six-
+th of the eleventh, equally far. Therefore must with
+both in the same plane, according to the definition of equidistant
+lines necessarily the point s be found in the line np,
+and halve the same. One draw now the two lines rh and
+hs. Then are the two triangles ksh and qrh situated over an
+angle (namely khq). And the proportion takes
+place: kh : qr = ks : qh, ***) since according to the seventh of the fifth
+gh : qr = kh : qr, and according to just the same rq : qh = ks : qh be-
+haves. But it behaves: gh : qr = qr : qh, since qr = qg. Therefore
+is according to the thirtieth of the sixth the line rhs a
+single +) straight. Therefore lies according to the second of the eleventh the in
+question pentagon in one and the same plane. I as-
+sert still, that it be equiangular, what becomes clear so. For
+insofar ek divided according to the continuous proportion, and km its greater
+segment, so will also according to the fourth of the thirteenth the
+whole em be continuously divided, ++) and its greater segment be the line
+ek, therefore also according to the fifth the two lines em and
+mk, and therefore the two: em and mp, since mp = mk is. The
+sum of the squares of the latter two $) is equal to the three-
+fold square of ek, and also of ae, because ae = ek is.
+Therefore is the sum of the squares of the three lines ae, em, mp
+equal to the fourfold square of the line ae. It is besides
+according to the already twice mentioned penultimate of the eleventh clear,
+that the square of the line ap is equal to the sum of the three squ-
+ares of the lines ae, em, mp. Therefore is the square of
+ap equal to the fourfold square of ae. And since the Cube
+side the double of ae, so is according to the fourth of the second
+also its square the quadruple of that. Therefore is according to com-
+mon knowledge ap equal to the Cube side. And insofar ad is one
+of the Cube sides, will ap = ad be. And therefore will according to
+the eighth of the first angle ard = angle anp be. On the same way
+you will prove, that the angle dpn = angle dra be, since you will
+show, that the square of dn is equal to the quadruple of the
+half Cube side. Insofar now according to the here said
+the pentagon is equilateral and has three equal angles, so will
+it according to the seventh of the thirteenth be equiangular. If
+we therefore on this way and with similar procedure over
+each of the other sides of the Cube erect an equilateral and equi-
+angular pentagon, so will result a solid body contained by
+twelve equilateral and also equiangular Pentagons.
+For the Cube has twelve edges. It
+remains now still to show, that just this body exactly by the
+given sphere be bounded, what shows itself as follows,
+namely: One place through the line hk two planes,
+which divide the Cube, of which the one may cut it in the line hlc,
+the other in the line ef. And according to the for-
+tieth of the eleventh will the common intersection line of these
+two planes halve the diameter §§) of the Cube and
+likewise conversely will it itself be halved by the named diameter.
+It be accordingly their common intersection line up to the
+diameter of the Cube the line ko, so that the point o be the
+center of the Cube. And one draw the lines oa, on, op,
+od, or, then is clear, that each of the two lines oa and od
+be the radius of the Cube, and therefore are they equal. And
+of the line ok is according to the fortieth of the eleventh clear, that
+she be equal to ek, i.e. equal to the half of the Cube side. And
+since ks equal to km, so becomes os in point k continuously divided, and
+its greater segment is the line ok, which is equal to ek. Therefore
+becomes according to the fifth of the thirteenth the square sum of the
+two lines os and sk or also, because sp = ks (to which
+this proof does not extend), of os and sp equal to the
+triple square of the line ok, and therefore also of the half
+Cube side. Therefore is according to the penultimate of the first the
+square of the line op equal to the triple square of the same
+Cube side. And from the Corollary of the fourteenth of the thir-
+teenth proceeds, that the square of the sphere radius
+is equal to the triple of the side of the Cube, which
+is enclosed by the same sphere. Therefore is op equal to the radi-
+us of the sphere, which exactly encloses the projected Cube.
+From the same reason are it all lines, which
+are drawn from point o to every corner of all Pentagons,
+which are formed over the Cube edges, i.e. to all corner
+points, which belong to the Pentagons, and not to those,
+which are common to them themselves and the surfaces of the Cube,
+i.e. to them entirely peculiar, as it are the three corner
+points n, p, r in the previously formed pentagon. And regard-
+ing the lines, which arrive from point o to all corners of the Penta-
+gons, which are common to the Pentagons and the Cube surfaces,
+as it are in the projected pentagon the two
+corners a and d, is clear, that they are equal to the radius
+of the sphere, which exactly surrounds the Cube; since they according to
+the fortieth of the eleventh are diameter of the Cube.
+But the radius of the Cube is equal to the radius of the
+sphere, which exactly encloses it, as it becomes clear from the reaso-
+ning of the fourteenth of the thirteenth. Therefore are all
+lines, which from point o out to all corners of the Dodecahedron,
+i.e. of that body which is enclosed of twelve equilateral and equi-
+angular Pentagons, which in Greek
+is called so, among themselves, and equal to the radius of the sphere.
+If therefore the over the whole sphere diameter, or
+exactly over the Cube described semicircle is turned
+around, so will it go through all its corner points.
+Therefore becomes according to the definition the same exactly by the
+determined sphere enclosed. I assert still, that the
+side of this figure be an irrational line, i.e. such a one,
+which one calls Residuum, if the diameter of the sphere, which
+exactly encloses it, is rational regarding its length or
+its square, what becomes clear so: Insofar according to the fourteenth of the thir-
+teenth the square of the sphere diameter is equal to the
+triple square of the Cube side, so will the square
+of the latter be rational, if the sphere diameter itself
+or its square is rational. And from the eleventh of the thir-
+teenth is clear, that the line rp continuously divides the line ad, which is Cube side,
+and that its greater segment is equal to the
+Pentagon side. And because its greater segment according to the sixth of the
+thirteenth is Residuum, so is clear, that the side of the in ques-
+tion Dodecahedron called figure be Residuum, what we have
+wanted to prove.
+
+*) It be allowed, here and in the Following to apply occasionally some mathematical abbreviations for better survey.
+**) seil. kl^2.
+***) seil. because of the similarity of the two triangles ksh and qrh following from the above proportion, since the sum of the two adjacent angles plus that enclosed by the two Cube surfaces together are equal to 180 degrees.
++) a single straight line.
+++) The shorter way here and in the following this expression has been set for the equal meaning: "according to the proportion, which has a mean and two extreme segments".
+$) seil. em and mp.
+§§) cfr. Cap. LXXI.

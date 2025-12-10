@@ -1,0 +1,43 @@
+Cap. XVIII.
+
+Of its ninth effect extending beyond the others.
+
+If one forms in the circle the equilateral pentagon, and spans
+over its two adjacent corners two straight lines starting from the end-
+points of its sides, so will these neces-
+sarily divide themselves among each other according to our proportion. And
+each of their greater segments will always be the side of the said
+pentagon. Let be e.g. the pentagon abcde and from the
+endpoints c and a one draw the chord ac, which spans the angle
+b, and from the endpoints b and e one draw
+the other chord be, which spans the angle a. I say,
+that these two lines ac and be intersect themselves among each other in the
+point f according to the proportion which has a mean
+and two extreme segments and the greater segment
+of each is exactly the side of the pentagon. Accordingly is of the line
+ac the greater segment cf, and the greater of the line bc is
+ef. And each of the same is always equal to cf, and the greater seg-
+ment of the line be is ef. And each of these is always equal
+to the side of the said pentagon. And by the mathe-
+maticians said two lines are called with other names
+chords of the pentagon angle. If e.g. each of the said
+chords were 10, since they will be equal to each other,
+as their pentagon in the circle is equilateral, so would cf =
+sqrt(125) - 5, af = 15 - sqrt(125) be, and likewise would be the
+segment ef = sqrt(125) - 5 and bf = 15 - sqrt(125). And
+the pentagon side would likewise be sqrt(125) - 5, and all this
+proves in beautiful way the 11th of the 13th geometrically. And
+by means of this effect we can through the knowledge of the
+side arrive at the knowledge of all its chords and all their seg-
+ments. And likewise we can vice versa through
+the knowledge of the chords arrive at the knowledge of the side and of the
+segments of said chords, by operating arithmetically
+and geometrically, as we have taught with all carefulness in our
+above cited work, to proceed with bino-
+mials and other irrational lines, about which
+our Philosopher treats in his 10th; and regarding the
+lines he proves it in the 11th of the second and in the 29th of the
+sixth, so that one easily in every case arrives at the knowledge of the
+one and the other, which is a matter of great
+use in our scientific and speculative occurren-
+ces.

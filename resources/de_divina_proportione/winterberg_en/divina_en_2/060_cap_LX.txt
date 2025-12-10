@@ -1,0 +1,18 @@
+LX. The Quadrangular Column (Prism)
+
+**Definition**
+A quadrangular column is a laterated body contained by two parallel quadrangular bases and four lateral parallelogram faces.
+
+**Classification by Base**
+The form of the column follows the form of its base:
+1.  **Square**: Base is a square (equal sides, right angles).
+2.  **Oblong Tetragon (Rectangle)**: Base is a rectangle (opposite sides equal, right angles).
+3.  **Elmuaym (Rhombus)**: Base is a rhombus (equal sides, oblique angles).
+4.  **Rhomboid**: Base is a parallelogram (opposite sides equal, oblique angles).
+5.  **Elmuariffe (Trapezium/Irregular)**: Base is irregular.
+
+**Structure**
+*   **Bases**: 2 Quadrilaterals.
+*   **Lateral Faces**: 4 Parallelograms.
+*   **Total Surfaces**: 6.
+If the bases are squares and the height equals the side, it becomes a Cube.

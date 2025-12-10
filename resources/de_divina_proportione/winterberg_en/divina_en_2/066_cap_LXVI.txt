@@ -1,0 +1,16 @@
+LXVI. Measurement of the Pyramid
+
+**Rule**
+Volume of Pyramid = $\frac{1}{3} \times$ (Volume of corresponding Column)
+Volume = $\frac{1}{3} \times$ (Area of Base $\times$ Height)
+
+**Example (Round Pyramid/Cone)**
+*   Base Diameter ($D$) = 7.
+*   Height ($h$) = 10.
+*   Area of Base (from LXII) = 38.5.
+*   Volume of Cylinder = 385.
+*   Volume of Cone = $385 \div 3 = 128 \frac{1}{3}$.
+
+**Proposition**
+Every pyramid is the third part of the prism (or cylinder) having the same base and the same height.
+(Euclid XII, Prop. 7 for Prisms; XII, Prop. 10 for Cones).

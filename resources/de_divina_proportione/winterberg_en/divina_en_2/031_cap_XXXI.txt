@@ -1,0 +1,21 @@
+XXXI. Determining the Sides of the Five Bodies from the Sphere Diameter
+
+**Proposition**
+Given the diameter of a sphere, one can determine the sides of all five inscribed regular bodies.
+
+**Construction**
+Let $AB$ be the diameter of the sphere.
+1.  Divide $AB$ at $C$ such that $AC = 2 \cdot CB$.
+2.  Desribe a semicircle on $AB$. Erect perpendiculars $CE$ and $DF$ (where $D$ is the midpoint of $AB$).
+3.  $AE$ is the side of the **Tetrahedron/Pyramid** ($S_4$).
+4.  $EB$ is the side of the **Cube** ($S_6$).
+5.  $FB$ is the side of the **Octahedron** ($S_8$).
+6.  $NB$ (derived from hex/decagon construction on radius) is the side of the **Icosahedron** ($S_{20}$).
+7.  $PB$ (greater segment of $EB$ divided in Divine Proportion) is the side of the **Dodecahedron** ($S_{12}$).
+
+**Ordering of Magnitude**
+$S_4 > S_8 > S_6 > S_{20} > S_{12}$
+(Tetrahedron > Octahedron > Cube > Icosahedron > Dodecahedron).
+
+**Note**
+The Cube precedes the Octahedron in construction, but the Octahedron exceeds the Cube in side length.

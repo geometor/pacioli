@@ -1,0 +1,10 @@
+XLV. Inclusion of the Tetrahedron in the Icosahedron
+
+**Proposition**
+The Tetrahedron can be inscribed in the Icosahedron.
+
+**Construction**
+1.  Inscribe a Cube in the Icosahedron (as in XLIV).
+2.  Inscribe a Tetrahedron in that Cube (as in XXXV).
+3.  Therefore, the Tetrahedron is inscribed in the Icosahedron.
+    (Euclid XV.12).

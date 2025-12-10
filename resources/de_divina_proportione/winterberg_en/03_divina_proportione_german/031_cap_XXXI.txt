@@ -1,0 +1,160 @@
+Cap. XXXI.
+
+To find the sides of all five regular bodies.
+
+To know to find the sides of the five aforementioned bodies, which are all
+exactly circumscribed by one and the same sphere, of
+which sphere the diameter alone is present to us, through
+the named diameter, - Let be e.g.
+the diameter of any sphere given to us, by means of which
+we shall find the sides of the five aforementioned bodies,
+which are all to be understood as inscribed in the same sphere,
+so that, if one of their corner points touches it, they all
+touch, i.e. that named sphere encloses them all exactly.
+This we will do in following way: We divide this
+diameter in point c such, that ac be the double of bc,
+and halve it at the same time in point d. And we beat
+over it the semicircle afb, to whose circumference two perpen-
+diculars to the line ab are drawn, which may be ce and df.
+And we connect e with a and b. Then is according to
+the proof of the thirteenth of the thirteenth clear, that ae
+is the side of the figure of four triangular and equilateral
+surfaces, and in consequence
+of the proof of the fourteen-
+th of the Named, that eb
+is the side of the Cube, and
+according to the proof of the fif-
+teenth, that fb is the side
+of the figure of eight equi-
+lateral triangular surfaces.
+And it be now in point
+a the line ag perpendicular to
+ab, and also equal to the
+same ab. Then one connect g with d, and be h the point,
+wherein gd divides the periphery of the semicircle. And one lead
+hk perpendicular on ab. And because ga the double of ad, so will
+according to the fourth of the sixth hk be the double of hd.
+For the two triangles gad and hkd are according to the thir-
+ty-second of the first equiangular, since the angle a
+of the greater is equal to the angle k of the smaller, because each
+is a right one and the angle d is common to both. Therefore
+is according to the fourth of the second hk in power the quadruple
+of kd. Thus is according to the penultimate of the first hd in
+power the quintuple of kd. And insofar db = hd is
+(because d the center of the semicircle), so will likewise db
+in power be the quintuple of kd. And insofar the whole
+ab doubly as large as the whole bd, as well as the from the first
+ab taken stretch ac is the double of cb, the from
+the second, bd taken away, so will according to the nine-
+teenth of the fifth bc, the remainder of the first be doubly as
+large, as cd, the remainder of the second. Therefore is the
+whole bd the triple of cd. Therefore is the square of
+bd the ninefold, i.e. nine times as large as the square
+of cd. And because it itself *) was only the quintuple of kd^2,
+so will according to the second part of the tenth of the
+fifth dc^2 < kd^2 and therefore dc < kd be. It be therefore
+dm = kd, and it go mn, which be perpendicular to ab, up to the
+periphery and one connect n with b. Insofar now dk and dm
+are equal to each other, so will in consequence of the definition thereof,
+that any line from the center out is equidistant, the
+two lines hk and mn equally far removed from the center,
+and therefore in consequence of the second part of the thirteenth of the third
+and of the second part of the third of the named be equal to each
+other. Therefore is mn = hk, because hk was equal to it, and because ab
+the double of bd and km the double of dk. And since
+the square of bd the quintuple of the square of dk,
+so will in consequence of the fifteenth of the fifth on equal way
+the square of ab be the quintuple of the square of km,
+because the square of the double behaves to the square
+of the double, like the square of the simple to the squ-
+are of the simple. And in consequence of the proof of the sixteenth
+it shows itself, that the sphere diameter in power is equal to the
+quintuple of the hexagon side of the to the regular Icosahedron
+relative circle. **) Thus is km equal to the hexagon side
+of the to the figure of twenty surfaces ***) belonging circle. For
+the diameter of the sphere, which is ab, is in power equal to the
+quintuple as well of the hexagon side of the circle of that figure,
+as of that of mk. And further also is in consequence of the proof of the
+same +) evident, that the diameter of the sphere is com-
+posed of the hexagon- and the two decagon sides
+of the to the figure of twenty surfaces relative circle.
+Insofar now km is so large, as the side of the hexagon, and
+also ak = mb is, because they, remainders or want you say
+remnants of the equal pieces are; so will, after
+one has taken these equal ones away from it ++), mb remain as side of the
+decagon. Because now mn results as hexagon side,
+since it is equal to km, so will according to the penultimate of the
+first and the tenth of the thirteenth nb as side of the Penta-
+gon of the to the figure of twenty surfaces belonging circle
+result. And because from the proof of the sixteenth of the
+named proceeds, that the side of the pentagon of the to the
+figure of twenty surfaces belonging circle be the side of the
+same figure of twenty surfaces, so is clear, that the
+line nb be the side of this figure. Only divide therefore eb (which
+is the side of the by the assumed sphere exactly enclos-
+ed Cube), continuously in point p, and be its greater seg-
+ment pb, so is according to the proof of the Preceding clear,
+that pb be the side of the figure of twelve surfaces. There are
+therefore the sides of the five previously set up bodies by means of
+the to us alone presented diameter of the sphere found,
+which sides are following, namely: ae of the pyramid of four
+surfaces, $), eb side of the Cube, fb side of the Eight-surfaced-one and
+nb side of the Twenty-surfaced-one, and the line pb side of the Twelve-
+surfaced-one. And which of these sides are the greater among
+each other, results thus: It is clear, that ... ae > eb
+because the arc ae > arc eb and further . . . . fb < eb
+and the side eb > nb
+And I assert further, that nb > pb
+For insofar ac the double of cb, so will according to the fourth
+of the second the square of ac be the quadruple of the square
+of cb. And according to the second part of the Corollary
+of the eighth of the sixth, and the Corollary of the seventeenth of the
+named is clear, that the square of ab is the triple of the
+square of bc. But it behaves according to the twenty-
+first of the sixth:
+ab^2 : be^2 = be^2 : bc^2 since the proportion takes place, of:
+ab : be = be : bc according to the second part of the Coro-
+llary of the eighth of the sixth. Therefore is according to the eleventh of the fifth the
+square of be the triple of the square of bc. And because
+the square of ac is the quadruple of the same square, as
+has been proven, so will according to the first part of the
+tenth of the fifth ac^2 > be^2 be, and therefore will the line
+ac > be, and therefore all the more am be greater. ++) And it
+is already from the ninth of the thirteenth evident, that if
+the line am is continuously divided, its greater segment will be the line
+km, which is equal to mn, and further if be according to the
+same proportion, i.e. is continuously divided, its greater seg-
+ment is the line pb. Insofar now the whole am is greater than the
+whole be, will mn, which equals, the greater segment
+am, be greater than pb, which is the greater segment of eb.
+And this is evident, according to the second of the fourteenth
+Book, which without help of anyone of those, which follow, is
+established with firm proof. Thus is according to the nineteenth
+of the first much stronger nb > pb. From that becomes clear, that the sides
+of the five aforementioned bodies almost with the same order, as
+they follow among each other, exceed each other reciprocally. Only
+this has the objection, namely this order is not with the
+Cube and the Octahedron, i.e. the Eight-surfaced-one observed,
+since the side of the Octahedron exceeds that of the Cube, un-
+damaged, that the Cube precedes the Octahedron regarding its pro-
+duction and formation, as from the thirteenth be-
+comes clear, and that is not without mystery. Therefore places it-
+self regarding its formation the Cube before the Octahedron, because
+through the same division of the diameter of the presented
+sphere the side of the pyramid of four three-sided base surfaces
+and the side of the Cube is found. It is thus the side ae of the
+pyramid greater, than the sides of all remaining bodies, and it
+next follows bf, the side of the Octahedron, greater than the sides
+of all remaining bodies, which follow after it. And thirdly follows
+according to size eb, the side of the Cube, and fourthly comes
+nb, side of the Twenty-surfaced-one, i.e. Icosahedron, and the
+smallest of all is pb, side of the Dodecahedron, i.e. Body
+of twelve pentagonal base surfaces.
+
+*) seil. bd^2.
+**) i.e. its square is equal to the fivefold square of the radius of that circle, in which the Pentagons were described (cfr. Cap. XXIX).
+***) seil. Icosahedron.
++) seil. Consequence.
+++) seil. from the sphere diameter
+$) seil. regular Tetrahedron.
+++) seil. than be.

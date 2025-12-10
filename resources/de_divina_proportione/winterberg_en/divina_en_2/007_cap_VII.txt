@@ -1,0 +1,18 @@
+VII. Definition and First Effect
+
+**Definition**
+A line is divided according to the "Proportion Having a Mean and Two Extremes" (Divine Proportion) when the whole line is to the greater segment as the greater segment is to the lesser.
+$a : b = b : (a - b)$
+
+**Proposition**
+If a straight line is divided according to this proportion, and to its greater segment is added the half of the whole line, the square of the sum is five times the square of the half of the whole line.
+
+Let the line be $AB$. Let it be divided at $C$ such that $AC > CB$ and $AB : AC = AC : CB$.
+Let $D$ be the midpoint of $AB$, so $AD = DB = AB/2$.
+Then $(AC + AD)^2 = 5 \cdot AD^2$.
+
+**Note**
+This proportion is irrational and corresponds to the division in Extreme and Mean Ratio (Euclid VI, Definition 3).
+The mean and two extremes form a continuous proportionality.
+The greater segment is always the sum of the lesser extreme and the mean (if considering the whole as the greater extreme).
+The terms are always irrational.

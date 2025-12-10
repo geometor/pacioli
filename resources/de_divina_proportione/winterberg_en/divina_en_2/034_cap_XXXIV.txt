@@ -1,0 +1,13 @@
+XXXIV. Inclusion of the Octahedron in the Tetrahedron
+
+**Proposition**
+The Tetrahedron cannot receive (contain) the Cube, Icosahedron, or Dodecahedron in a regular inscription.
+It can only receive the Octahedron.
+
+**Construction**
+To inscribe the Octahedron in the Tetrahedron:
+1.  Construct the Tetrahedron.
+2.  Find the midpoint of each of its 6 edges.
+3.  Connect these midpoints with straight lines.
+4.  The resulting figure is an Octahedron, with its 6 vertices resting on the 6 edges of the Tetrahedron.
+    (Euclid XV.1, XV.2).

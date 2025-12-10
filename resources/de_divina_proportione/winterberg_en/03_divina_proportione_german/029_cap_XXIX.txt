@@ -1,0 +1,151 @@
+Cap. XXIX.
+
+Of the production and formation of the body called Icosahedron.
+
+To produce the body from 20 equilateral triangular surfaces,
+which be exactly surrounded by a given sphere, which has a rational
+diameter. Evidently will the side
+of named body be an irrational line, i.e. that, which
+is called minor *) line, e.g. it be also here the diameter
+of the given sphere ab, of which one assumes, that it either in
+the mere length or only in its power **) be rational. And it
+be divided in point c, so that ac be the quadruple of bc. ***)
+And one beat over it, seil. ab a semicircle abd and draw
+cd perpendicular to ab, and draw further the line db. Further beat
+one with the length of the line db (as radius) the circle efghk about
+l as center, in which one inscribe an equilateral pentagon,
+which is marked by the same (letters). To the corners
+of the same one draw from the center l the lines le, lf, lg,
+lh, lk. And besides one describe in the same circle an
+equilateral decagon. One halve accordingly all arcs, whose
+chords are the sides of the pentagon, and draw from the
+halving points to the endpoints of all sides of the inscri-
+bed pentagon straight lines. And further one erect
+over all corner points of named Pentagon the cathetus, +) as
+the twelfth of the eleventh teaches, of which each be likewise equal to the line
+db. And the endpoints of these five catheti one connect by
+five corausts, ++) then will according to the sixth of the eleventh the
+so directed catheti stand equidistant from each other. And
+insofar as they are equal to each other, so will also in consequence of the
+thirty-third the five corausts, which connect their endpoints,
+be equal to the pentagon sides. Let then from
+each peak of all catheti each two and two hypotenuses
+down to the two neighboring corners of the inscribed deca-
+gon and connect the endpoints of these ten hypotenuses, which
+go down from the five ends of the catheti to the five points,
+whose each is an intermediate center of the
+inscribed decagon, by forming another
+pentagon in the named circle. This will
+likewise in consequence of the twenty-third of the third be equilateral.
+And if you will have done this, you will see,
+that you will have formed ten triangles, whose sides are the
+ten hypotenuses, the five corausts and the five sides
+of this inscribed pentagon. And that these triangles
+be equilateral, you will recognize as follows: insofar
+as well the radius of the described circle, as each of the
+erected catheti equal to the line bd, according to the assumption is,
+will according to the consequence of the fifteenth of the fourth
+each of the catheti be equal to the side of the equilateral hexagon,
+which is described in the circle, whose diameter [radius?]
+equal to the line bd. And because according to the penultimate of the first
+the square of each of the ten hypotenuses exceeds the square
+of the cathetus by that of the decagon side, and also
+according to the tenth of the thirteenth the square of the pentagon side
+by the amount of the square of the decagon side is greater than
+that of the just named, so will according to common knowledge each
+of these hypotenuses be equal to the side of the pentagon. And
+of the corausts has already been shown, that they are equal to the
+sides of the pentagon. Therefore are all sides of these
+ten triangles in deed either really sides of the for the
+second time in the circle described equilateral pentagon,
+or they are really equal to those. Therefore are the named
+triangles equilateral. Further one erect still over the cen-
+ter of the circle, which is the point l, another, equal to the first
+cathetus, which be hn. And its upper end, which be the
+point m, one connect with each endpoint of the first by means of
+five corausts. Then will according to the sixth of the eleventh this
+central cathetus, i.e. that erected in the center be equidistant
+from each erected in the endpoints catheti. Therefore
+will according to the thirty-third of the first these five corausts
+be equal to the radius of the circle, and according to the consequence
+of the fifteenth of the fourth each will be as large as the hexa-
+gon side. Therefore one add to the named central cathetus
+from both sides a line equal to the decagon side, i.e. above
+upwards to one add mn, and to below beneath the
+circle one add from the center of the circle lp. Then
+one let from point n five hypotenuses down to the five
+upper corner points of the ten triangles, which stand around in the circum-
+ference; and from point p other five, to
+the other five lower corner points. Then will these ten
+hypotenuses among themselves according to the penultimate of the first and
+the tenth of the thirteenth be equal to the sides of the inscribed
+pentagon, as it has been proven of the other ten be-
+fore. You have thus the body of twenty equi-
+lateral triangular surfaces, whose all sides are equal to the
+side of the Pentagon. And its diameter is the line
+np, and of these twenty triangles stand ten in the circumference
+above the circle, and five rise above it, while they
+meet in point n, and the five others meet
+below the circle in point p. And that this Icosahedron
+called body be so formed, that the given sphere encloses it
+exactly, reveals itself as follows. Insofar the line
+hn equal to the hexagon side $), and the line mn equal to the decagon side,
+which (polygons) equilateral and both circumscribed by the same circle efg,
+so will the whole line ln according to the ninth
+of the thirteenth be divided in point m according to the proportion, which has
+a mean and two extreme segments; and its
+greater segment will be the line lm. One halve therefore
+lm in point q and it will according to common knowledge be pq = qn,
+because pl just as mn equal to the decagon side was taken.
+Therefore is qn = 1/2 np just as qm = 1/2 lm. Since now
+according to the third of the thirteenth nq^2 = 5qm^2, so will also according
+to the fifteenth of the fifth pn^2 = 5lm^2 be. For according to the
+fourth of the second is pn^2 = 4qn^2 and likewise according to the same
+lm^2 = 4qm^2. And the quadruple behaves to the quadruple as
+the simple to the simple, as the fifteenth of the fifth
+assures. And according to the second part of the corollary of the
+eighth of the sixth, and according to the corollary of the seventeenth
+of the same is further ab^2 = 5bd^2. For it is also ab = 5bc, since ac
+was the quadruple of it. Because now according to assumption lm = bd
+is, so will according to common knowledge ab = np be. If one
+therefore described over the line np a semicircle, which be turned
+around, until it returns to the first place, from where
+it began to move, so will the sphere, which originated through its
+movement (according to the definition of equal spheres)
+be equal to the assumed sphere. And because the line lm
+the mean proportional between ln and nm, and therefore also
+between ln and pl, so will also each radius of the circle
+be the mean proportional between ln and lp. And insofar
+lm is equal to the radius of the circle, so will the semicircle described over pn
+go through all points of the circumference of the circle
+efg, therefore also through all corners of the solid body,
+which are located on that semicircle. And because from the
+same reason all corausts (which connect the endpoints of the in the
+corners erected catheti with the endpoint of the central) are mean
+proportionals between pm and mn, insofar
+as each of them is equal to lm, so follows, that same semicircle
+will also go through the remaining corners of the so constructed Icosahedron.
+It is thus just this body insertable into the sphere,
+whose diameter pn and therefore also into the sphere,
+whose diameter is ab. And of the side of this solid figure
+I assert, that it be the shorter line, for it is evident,
+that the line bd be rational regarding its power, §§) insofar its
+square is the fifth part of the square of the line ab which as
+rational either regarding its immediate length or its
+power was presupposed. Therefore are also further the ra-
+dius and the radii of the circle efg rational in the
+power, since its radius equal to bd. Therefore is according to the
+twelfth of the thirteenth the side of the in our circle be-
+scribed equilateral pentagon the smaller line. And
+further as in the course of this proof has been shown, is the
+side of this figure so large as the side of the pentagon. Therefore
+is the side of this figure of twenty equilateral triangles
+the smaller line, as stated before.
+
+*) If the whole length of the continuously to be divided line is rational, so will the segments always be irrational, what gave occasion to the above today no longer customary naming.
+**) seil. whose length itself or whose square be rational.
+***) seil. perpendiculars. About the namings occurring here and in the Following cfr. Cap. LXXI. 
++) cathetus = perpendicular.
+++) corausts = hypotenuses or connecting lines.
+$) seil. equal to the radius bd of the circle.
+§§) i.e. its second power.

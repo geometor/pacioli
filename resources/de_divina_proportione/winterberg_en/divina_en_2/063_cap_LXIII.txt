@@ -1,0 +1,13 @@
+LXIII. Measurement of the Laterated Column (Prism)
+
+**Rule**
+Volume = Area of Base × Height
+
+**Example (Square Prism)**
+*   Height ($h$) = 10.
+*   Base Side ($s$) = 6.
+*   Area of Base ($s^2$) = 36.
+*   Volume = $36 \times 10 = 360$.
+
+**General Application**
+This rule applies to all laterated columns (Triangular, Pentagonal, Hexagonal, etc.), provided the area of the base is calculated according to the rules for that specific polygon.

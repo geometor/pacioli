@@ -1,0 +1,13 @@
+LXVII. Demonstration of the Subtriple Proportion
+
+**Proposition**
+Any laterated column (prism) can be divided into three equal pyramids. Therefore, any pyramid is one-third of its corresponding column.
+(Euclid XII, Prop. 6).
+
+**Reasoning**
+1.  **Decomposition of Base**: Any rectilinear polygon can be resolved into triangles (Number of Triangles = Number of Sides - 2).
+    *   Quadrilateral $\to$ 2 Triangles.
+    *   Pentagon $\to$ 3 Triangles.
+2.  **Decomposition of Column**: A column with a polygonal base can be resolved into triangular prisms ("Seratile bodies") corresponding to the triangles of the base.
+3.  **Prism to Pyramid**: Each triangular prism is divisible into three equal pyramids.
+4.  **Conclusion**: Since the whole column is composed of prisms, and each prism is three times its pyramid, the entire column is three times the entire pyramid formed by the converging planes.

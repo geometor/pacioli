@@ -1,0 +1,18 @@
+XXVI. Construction of the Tetrahedron
+
+**Construction**
+From a given sphere with diameter $AB$:
+1.  Divide $AB$ at $C$ such that $AC = 2 \cdot CB$.
+2.  Desribe a semicircle on $AB$. Erect perpendicular $CD$.
+3.  $CD$ is the radius of the circle circumscribing the face of the Tetrahedron.
+4.  Construct an equilateral triangle in this circle (Euclid IV.2).
+5.  Erect a perpendicular from the center of the circle equal to $AC$.
+6.  Connect the vertex to the triangle vertices.
+
+**Ratio**
+The Square of the Sphere Diameter is to the Square of the Tetrahedron Side as 3 is to 2 (Sesquialter ratio).
+$D^2 : S^2 = 3 : 2$.
+If $D^2 = 6$, then $S^2 = 4$.
+
+**Reference**
+(Euclid XIII.13)

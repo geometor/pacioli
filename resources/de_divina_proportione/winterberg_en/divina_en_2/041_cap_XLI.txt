@@ -1,0 +1,11 @@
+XLI. Inclusion of the Cube in the Dodecahedron
+
+**Proposition**
+The Cube can be inscribed in the Dodecahedron.
+
+**Construction**
+1.  Construct the Dodecahedron.
+2.  Select 8 of the 20 vertices of the Dodecahedron appropriately.
+3.  Connect these vertices to form a Cube.
+    The 12 Pentagonal faces of the Dodecahedron are built upon the 12 edges of the inscribed Cube (Euclid XIII.17).
+    Each face of the Cube corresponds to a "roof" formed by the Pentagons.

@@ -1,0 +1,9 @@
+LXVIII. Measurement of the Truncated Pyramid
+
+**Method (Restoration)**
+To measure a truncated (cut/short) pyramid:
+1.  **Extend**: Imagine the pyramid is complete, extending the lateral edges until they meet at the apex.
+2.  **Measure Total**: Calculate the volume of the entire integral pyramid.
+3.  **Measure Tip**: Calculate the volume of the small pyramid that was removed (the defining "defect").
+4.  **Subtract**: Subtract the volume of the small pyramid from the volume of the total pyramid.
+    $$V_{truncated} = V_{total} - V_{tip}$$

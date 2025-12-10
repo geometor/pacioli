@@ -1,0 +1,11 @@
+XXXII. Proportions of the Bodies (Volume)
+
+**Statement**
+The proportions of the volumes of the regular bodies to each other are generally irrational, due to the intervention of the Divine Proportion (especially in the Dodecahedron and Icosahedron).
+Exceptions: Ratios between Tetrahedron, Cube, and Octahedron may be rational depending on the sphere diameter.
+
+**Key Relationships**
+1.  **Dodecahedron : Icosahedron** (in same sphere).
+    The ratio of their volumes is equal to the ratio of their total surface areas (Euclid XIV.10).
+2.  **Octahedron Volume**.
+    The Octahedron is divisible into two square-based pyramids with height equal to the sphere radius (Euclid XIV.16).

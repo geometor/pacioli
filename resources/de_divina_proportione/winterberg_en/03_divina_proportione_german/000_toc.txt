@@ -1,0 +1,748 @@
+
+Divina Proportio
+
+A work necessary for all clear and inquiring minds;
+where every student of Philosophy, Perspective, Painting,
+Sculpture, Architecture, Music and other mathematical subjects
+will find a pleasant, subtle and admirable learning
+and will delight himself with various questions of the most holy science.
+
+Under the review of the learned M. Ant. Capella,
+printed at Venice by the honest man
+Paganinum de Paganinis of Brescia 1509.
+
+Sonnet of the Author.
+
+Omnipotent nature has produced five bodies.
+
+Which one fittingly designates as simple
+
+For in every mixture they find themselves united
+
+And join together in an orderly manner.
+
+Created pure, unmixed and flawless
+
+As Fire, Water, Heaven, Air and Earth
+
+They gave origin to countless germs
+
+According to Plato's opinion, and the first form.
+
+But because nature is terrified of the void
+
+According to Aristotle in Earth and Heaven
+
+They cannot exist for themselves alone.
+
+And no species meets our eye
+
+But Plato's spirit and that of Euclid succeeded
+
+To discover five sphere-like bodies
+
+Of regular form and beautiful aspect
+
+Of equal surfaces and of equal edges.
+
+And yet a sixth can never arise.
+
+FINIS.
+
+The Bodies to the Reader.
+
+The sweet, magnificent and so beloved fruit
+Once forced the philosophers to investigate
+Our origin, which nourishes insight.
+
+Distich to the same.
+
+To search for us drove the philosophers
+Sweet gain, in which the spirit rejoices.
+
+The Bodies speak.
+
+You, who strive to explore the manifold reasons of things,
+Learn, study from us. This path is open to all.
+
+FINIS.
+
+Names and Number of the Bodies.
+
+Tetrahedron = regular three-
+sided Pyramid.
+
+1. Plane solid
+
+2. "" hollow
+
+3. Truncated solid
+
+4. "" hollow
+
+5. Elevated solid
+
+Hexahedron or Cube
+= Die.
+
+7. Plane solid
+
+8. "" hollow
+
+9. Truncated solid
+
+10. "" hollow
+
+11. Elevated solid
+
+12. Elevated hollow
+
+13. Truncated elevated solid
+
+14. "" "" hollow
+
+Octahedron = Eight-faced.
+
+15. Plane solid
+
+16. "" hollow
+
+17. Truncated solid
+
+18. "" hollow
+
+19. Elevated solid
+
+20. "" hollow
+
+Icosahedron = regular
+20-faced.
+
+21. Plane solid
+
+22. "" hollow
+
+23. Truncated solid
+
+24. "" hollow
+
+25. Elevated solid
+
+26. "" hollow
+
+Dodecahedron = regular
+12-faced.
+
+27. Plane solid
+
+28. "" hollow
+
+29. Truncated solid
+
+30. "" hollow
+
+31. Elevated solid
+
+32. "" hollow
+
+33. Truncated elevated solid
+
+26-faced (equal-
+edged).
+
+35. Plane solid
+
+36. "" hollow
+
+37. Truncated elevated solid
+
+38. "" "" hollow
+
+39. 72-faced solid
+
+40. 72- "" hollow
+
+41. Triangular solid Column or
+
+Body
+
+42. "" hollow Column
+
+(Prism)
+
+43. "" solid Pyramid
+
+44. "" hollow ""
+
+45. Four-sided solid Column
+
+46. "" hollow ""
+
+47. "" solid Pyramid
+
+48. "" hollow ""
+
+49. Five-sided solid Column
+
+50. "" hollow ""
+
+51. "" solid Pyramid
+
+52. "" hollow ""
+
+53. Six-sided solid Column
+
+54. "" hollow ""
+
+55. Unequal-sided three-sided
+
+solid Pyramid
+
+56. Unequal-sided three-sided
+
+hollow Pyramid
+
+57. Round solid Column (Cylinder)
+
+58. "" "" Pyramid (Cone)
+
+59. Solid Sphere
+
+60. Six-sided solid Pyramid
+
+61. "" hollow
+
+Reader, add the following words in Chapter L at the end
+of the column, where I said "truncated" was not
+said and these follow: "Possible that they produce a corporeal
+angle and it is formed from that preceded in the third part
+from each of its uniformly truncated
+sides" etc., XIX, XX. Further:
+
+"The elevated solid Octahedron" etc. Then follows the beginning
+of the following column, where: "solid or void" erroneously
+omitted. Further the following:
+
+Namely: Surface is 24 + sqrt(69 1/2), and the content is
+sqrt(8192). Set at the end of the fourth case of the third tractate
+
+on sheet 22, where I said: "And this whole body is sqrt(40),
+and the" etc., add: "The surface is 24" etc. and at the
+end of case 4 follows the beginning of the following column:
+"Reader" etc.
+
+Content
+
+of the present work and very useful Compendium
+titled, "Of the divine proportion selected from the
+mathematical disciplines. Composed by the Venerable Father
+Professor of Sacred Theology M. Luca paciolo from the city
+San Sepolchro, of the Order of Minorites and dedicated to the most
+excellent and powerful Prince Ludwig Ma. Sfor, Anglo, Duke
+of Milan, ornament of the divine heaven, and greatest
+Patron of all learned and virtuous men.
+
+In order to find more easily that which is contained in this book,
+the reader will observe the following list,
+wherein stands first the desired subject and afterwards the Chapter
+number to which it belongs.
+
+Letter to His Highness, Prince Lu. Ma. Sfor, Anglo,
+Duke of Milan.
+
+Cap. I. Praising mention of his magnificent court
+and significance of the men of every rank who adorn it,
+the most significant theologians and most deserving preachers of the
+holy scripture of the seraphic Minorite order.
+
+The famous Lord San Galeazzo San Severino, Captain General.
+
+The most outstanding physicians and astronomers of His Ducal
+Highness.
+
+Significance of his praiseworthy Magistrate. Leonardo
+Vinci from Florence.
+
+Jacob Andreas from Ferrara. Height and size of his ad-
+mirable and astonishing equestrian statue, and weight,
+after the image of the burning desire of our Saviour
+in the Temple of Grace has been mentioned with praise.
+
+Golden honey-flowing words of His Ducal Highness concerning
+the most holy science.
+
+Habits and qualities of the Author of the present
+writing, and of the other works composed by him.
+
+Stimulus and cause which occasioned him to this work,
+and why.
+
+Recommendation and division of the present Compen-
+dium and its content.
+
+How without the knowledge of the mathematical disciplines
+no good operation is possible. Admonition to His Highness and his
+dear confidants and revering subordinates for the appropriation
+of this. How false things are sometimes useful.
+
+Cap. II. Preface to the present Treatise or Compen-
+dium, named "of the divine proportion".
+
+How from seeing knowledge began. Mention of the
+mathematical bodies, and why the Author made them with his own hand
+and presented them with the present Compendium to His Highness.
+
+How the mathematical disciplines are foundation and ladder
+to arrive at the knowledge of every other science.
+
+How His Highness will be the occasion in his time
+to revive the century with them. How under his
+sublime rule righteousness will grow in his sub-
+ordinates, who are always ready for its defense,
+Archimedes of Syracuse defended the fatherland against the
+attack of the Romans with machines and instruments by means of
+mathematics.
+
+Remembrance of Your blessed father, Duke Franz Sforza.
+
+How neither the defense of states, nor perfection
+in any military exercise is possible without the knowledge of Arith-
+metic, Geometry and Proportion.
+
+How all artillery, instruments and war machines
+are made on the basis of mathematical disciplines. How all
+ramparts, walls and fortresses, rocks, bridges and bastions
+have been formed in similar manner by means of said disciplines.
+
+How the old Romans were victorious in consequence of the zealous care of the engi-
+neers.
+
+Robert Valturri, a very experienced man from Rimini. Julius
+Caesar threw the artful bridge across the Rhone.
+
+Remembrance of Your blessed father, Duke Franz Sforza.
+Very strong ropes of the industrious Tevere bridge.
+
+Frederick of Feltre, his near relative, Most Illustrious
+Duke of Urbino, surrounded his worthy palace of
+massive stone with all war machines and
+instruments, old and new.
+
+John Scotus, the keenest theologian and most deserving
+mathematician.
+
+The works of art are all difficult because of ignorance
+of mathematics.
+
+Bartolo of Sassoferrato, an excellent jurist,
+designed by means of mathematics the "Tiberina".
+
+Lack of good astrologers, from lack of the said
+mathematical knowledges.
+
+Reason for the rarity of good mathematicians.
+
+Distinguished Tuscan proverb of the mathematicians.
+
+Plato did not want those who were not geometers.
+
+Brief of Plato over the door of his Gymnasium against those
+ignorant of mathematics.
+
+Pythagoras sacrificed a hundred fat oxen to the gods for joy over the discovery of the
+right angle.
+
+In Milan, thanks to His Highness, the number of
+good mathematicians grows daily in consequence of their diligent instruction, which
+was recently introduced by His Highness.
+
+The Author reads on all weekdays in Milan the said
+mathematical disciplines, composing the present treatise
+to the greatest favor and worthy profit of the distinguished listeners.
+
+Cap. III. On the designation and meaning of the
+name: "Mathematic."
+
+Which and how many sciences and mathematical
+subjects there are.
+
+How Perspective is for just as many reasons as Music
+one of the mathematical disciplines.
+
+How of the mathematical subjects there are three, or exactly five.
+
+Recommendation of Perspective.
+
+The highly deserving painters Zeuxis and Parosasius.
+
+How painting deceives both kinds of creatures, the reason-
+able as well as the unreasonable.
+
+Of the things which the reader has to observe for the understanding
+of this book.
+
+Cap. IV. What is to be understood, when of the first
+or second, of Case 1 or 3 or others is spoken.
+
+Of the mathematical abbreviations and characters.
+
+Of the synonyms, i.e. different designations
+of the same object in mathematics. What one understands
+by power and square of a number.
+
+Cap. V. On the suitable title of this treatise on the
+Divine Proportion.
+
+On the five essential agreements of the said
+proportion with the divine epithets.
+
+How the fifth substance gives existence to the four simple bodies, and
+by means of these to all others, so also this pro-
+portion to the five regular bodies and through them to countless
+others.
+
+How the forms of the said five regular bodies
+have been ascribed to the five simple bodies.
+
+Cap. VI. Of the most worthy recommendation of this holy
+and divine proportion.
+
+How without the knowledge of said proportion many
+things most worthy of admiration can be attained neither in philosophy
+nor in any other science.
+
+Cap. VII. Of the first effect of a line divided according to the said
+divine proportion.
+
+How one has to understand and interpret the said
+relationship among magnitudes.
+
+How the wisest used to call said proportion in their
+books.
+
+What one understands by division of a magnitude according to the said
+proportion.
+
+How among three expressions of the same kind necessarily
+two proportions or ratios similar or dissimilar among themselves
+are found.
+
+How this proportion between three expressions is found in a
+certain way always unchangeable.
+
+How the other proportions, continuous or discontinuous,
+can vary in infinitely many ways among three homogenous magnitudes.
+
+How this proportion does not degrade all the others,
+but rather makes them even more significant, together with their defini-
+tions.
+
+That this proportion in its smallest outer and
+middle part can never be rational and never be expressed by a rational
+number.
+
+Cap. VIII. What one understands by dividing a magnitude according to the
+proportion that has a mean and two extreme
+segments.
+
+How usually the remainders arise and what one
+understands by them.
+
+Cap. IX. What the root of a number or any
+arbitrary other magnitude be. What rational and irrational
+magnitudes be.
+
+Cap. X. Consequence of the first effect.
+
+How in the whole course of this book Euclid is always pre-
+supposed.
+
+Cap. XI. Of the second essential effect of this
+proportion.
+
+Cap. XII. Of its third special effect.
+
+Cap. XIII. Of its fourth inexpressible effect.
+
+Cap. XIV. Of its fifth wonderful effect.
+
+Cap. XV. Of its sixth unnamable effect.
+
+How no rational magnitude can be divided according to this proportion in such
+a way that the parts are rational.
+
+Cap. XVI. Of its seventh incredible effect.
+
+How the hexagon and decagon together form a magnitude
+which is divided according to this proportion.
+
+Cap. XVII. Of the eighth reverse effect of the
+previous.
+
+Cap. XVIII. Of its ninth effect surpassing the others.
+
+What one understands by chords of the pentagon angle.
+Why the two adjacent chords in the pentad always
+intersect each other according to this proportion. Why neces-
+sarily always the one segment of said chords be equal
+to the side of the same pentagon.
+
+Cap. XIX. On its tenth highest effect.
+
+How all the effects and conditions of a magnitude
+divided according to this proportion correspond to all effects and con-
+ditions of every other so divided magnitude.
+
+Cap. XX. Of its eleventh distinguished effect.
+
+How from the division of the hexagon side according to this pro-
+portion the side of the equilateral decagon results.
+
+Cap. XXI. Of its twelfth almost incomprehensible effect.
+
+What general and connected roots be.
+
+Cap. XXII. Of its thirteenth most important effect.
+
+How without the knowledge of this proportion the formation
+of a regular pentagon is impossible.
+
+How Euclid and his proofs always apply only the preced-
+ing and not the following.
+
+Cap. XXIII. How out of reverence for our Saviour the
+said effects conclude here, of which many more are yet
+to be found.
+
+Special piety of His Highness. More open recommendation
+of the image of the burning desire of our Saviour. Leonardo
+Vinci from Florence.
+
+Cap. XXIV. How the said effects contribute to the com-
+position of all regular and dependent bodies.
+Why these five bodies are called regular.
+
+Cap. XXV. That it is impossible that there be in nature
+more than five regular bodies, and why?
+
+That it is impossible to form a regular body from the
+hexagon, heptagon, octagon,
+nonagon, decagon and other similar ones.
+
+Cap. XXVI. Of the production of the five regular
+bodies and of the ratio of each to the sphere diameter:
+and indeed first of the Tetrahedron or regular three-sided
+four-faced body, the form of fire according to the Platonists.
+
+Cap. XXVII. Of the formation of the body called Hexahedron or Cube
+and its ratio to the sphere, figure of the
+Earth according to the Platonists.
+
+Cap. XXVIII. How one produces the Octahedron to be fitted exactly
+into a sphere, figure of the Air, according to the Platonists,
+and on its ratio to the sphere.
+
+Cap. XXIX. Of the construction and production of the body called Ico-
+sahedron, form of Water according to the Pla-
+tonists and designation of its sides.
+
+Proof that the sphere surrounds it exactly.
+
+Cap. XXX. Of the manner of procedure to produce the noblest
+regular body, called Dodecahedron also body of 12 pentagons,
+according to the Platonists the form
+of the fifth substance and of the designation of its sides.
+Proof why the sphere surrounds it exactly.
+
+Cap. XXXI. Rule and method to find by means of the sphere diameter
+known to us all sides of the said five regular
+bodies. Order and way how the said
+bodies differ among themselves in sides and construction.
+
+Cap. XXXII. Of the ratio of the said regular
+and of the bodies dependent on them to one another.
+
+That their ratios to one another are partly rational,
+partly irrational.
+
+Cap. XXXIII. Of the ratio of all their surfaces to
+one another.
+
+Cap. XXXIV. Of the inscribing of the five regular
+bodies into one another and how many kinds thereof in
+total are possible, and why.
+
+Cap. XXXV. How the Tetrahedron is formed from the Cube
+and allows itself to be placed therein so that the corners exactly
+fall upon one another.
+
+Cap. XXXVI. Of the exact enclosing of the Octa-
+hedron by the Cube.
+
+Cap. XXXVII. How the Hexahedron is introduced into the Octahedron.
+
+Cap. XXXVIII. Of the inscription of the Tetrahedron into the
+Octahedron.
+
+Cap. XXXIX. How into the Icosahedron exactly the body called Dodecahedron
+is placed.
+
+Cap. XL. Of the setting of the Icosahedron into the Dodecahedron.
+
+Cap. XLI. Of the setting of the Cube into the Dodecahedron.
+
+Cap. XLII. How to fit the Octahedron into the Dodecahedron.
+
+Cap. XLIII. Of the inclusion of the Tetrahedron in the Dodecahedron.
+
+Cap. XLIV. Setting of the Cube into the Icosahedron.
+
+Cap. XLV. Manner to form the Tetrahedron in the Icosahedron.
+
+Cap. XLVI. Reason why of the said inscriptions
+there cannot be more.
+
+Cap. XLVII. Procedure to be able to produce in each of the five said
+regular bodies the most regular body, namely the
+sphere.
+
+Cap. XLVIII. Of the form and arrangement of the plane
+solid or hollow, and of the truncated plane solid or
+hollow, and of the elevated solid or hollow Tetrahedron.
+
+Cap. XLIX. Of the nature of the plane solid and
+hollow, of the truncated plane solid or hollow, and of the
+elevated solid or hollow Hexahedron.
+
+Cap. L. Of the arrangement of the plane solid or hollow,
+of the truncated solid or hollow and of the elevated solid
+or hollow Octahedron.
+
+Cap. LI. Description of the plane, truncated and
+elevated solid or void Icosahedron.
+
+Cap. LII. Properties and form of the plane, trun-
+cated and elevated solid or void Dodecahedron, its
+origin and the bodies dependent on it.
+
+Cap. LIII. Form and origin of the plane, truncated
+and elevated solid or void 26-faced body.
+
+Cap. LIV. How the 72-faced body arises. How the
+architects frequently make use of this form in their buildings.
+
+That many moderns are abusively called architects,
+who in consequence of their ignorance deviate from the old authors,
+especially Vitruvius.
+
+Ducal motive of His Highness for the shaming of the ig-
+norant.
+
+Great joy of Pythagoras when he found the ratio of the
+two sides which enclose the right angle.
+
+Cap. LV. On the way to be able to form besides the aforesaid several
+material bodies, and how their forms continue into the
+infinite.
+
+For what reason Plato ascribed the forms of the five regular
+bodies to the five simple materials, namely Earth,
+Water, Air, Fire, Heaven. Calcidius, Apuleius,
+Alcinous and Macrobius.
+
+That the sphere is not to be excluded from regularity,
+although in it there are no sides and angles.
+
+Cap. LVI. Of the spherical body, its formation.
+
+Cap. LVII. How all five regular
+bodies allow themselves to be inscribed in the sphere.
+
+How the mason would have to make the said
+regular bodies from stone or other material.
+
+Honorable and scientific consolation and argument against
+false boasters.
+
+Different appearance of two equal straight lines placed before the eyes,
+in their length.
+
+Case of the Author in Rome, to please the Most Illustrious Count
+Hieronymus of blessed memory in the presence of
+Master Melozzo, the painter, at the building of his palace.
+
+Exemplary evidence against said false braggarts;
+of Hiero and the poet Simonides.
+
+Cap. LVIII. Of the oblong bodies, i.e. which are longer
+or higher than broad, like columns and their pyramids.
+
+Of the two main column types in general.
+
+What angular and round columns are.
+
+Cap. LIX. Of the columns with three-sided basis.
+
+What a bar-shaped body be.
+
+Cap. LX. Of the columns with four-sided basis.
+
+To the diversity of their equal base surfaces correspond
+the principal regular four-sided figures, namely
+square, elongated rectangle, Elmuhaym and other Elmu-
+ariffe [Rhombus and Rhomboid] or irregular equal- or unequal-sided figures.
+
+Cap. LXI. Of the five-sided columns, i.e. of five
+side surfaces, be they equal- or unequal-sided.
+
+How the types of columns, like the straight-lined figures
+of their base surfaces, can multiply into the infinite.
+
+Cap. LXII. Of the way to measure all columns, and first
+of the round ones, with examples.
+
+Why for the quadrature of the circle one takes 11/14 of the
+square of its diameter.
+
+Cap. LXIII. Of the way to measure all types of angular columns
+and examples thereof.
+
+Cap. LXIV. Of the pyramids and all their differ-
+ences. What a round pyramid be.
+
+Cap. LXV. Of the angular pyramids and their diver-
+sities.
+
+How the types of angular pyramids can continue into the
+infinite, just like their columns. What abbreviated
+or truncated pyramids be.
+
+Cap. LXVI. Of the way and procedure to be able to measure
+every pyramid. How every pyramid be 1/3 of its cylinder
+or of its column.
+
+Cap. LXVII. How from the angular ones results evidently
+that each be 1/3 of its column.
+
+How all angular columns let themselves be resolved into as many bar-shaped bodies
+as their base surfaces decompose into triangles.
+
+Cap. LXVIII. Of the way to calculate all types of abbreviated, round
+and all kinds of angular pyramids.
+
+Cap. LXIX. Of the measurement of all other regular
+bodies and those dependent on them.
+
+Confidence in the versed geniuses, but especially
+in that of His Ducal Highness. With worthy recommendation and
+true praise of the distinguished serious and pious senti-
+ments of His Ducal Highness.
+
+How His Ducal Highness in no less fitting
+manner built the Temple of Grace in Milan, as Octavian in
+Rome the Temple of Peace.
+
+How he would be convicted of no less envy and ill-will against
+His Ducal Highness, who gave out the said
+praises for flattery, than the author of this
+flattery himself.

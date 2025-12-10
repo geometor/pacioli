@@ -1,0 +1,23 @@
+XXV. Proof of Only Five Regular Bodies
+
+**Demonstration**
+To form a solid angle, at least three plane angles must meet.
+The sum of the plane angles meeting at a vertex must be less than 4 right angles (360 degrees) (Euclid XI.21).
+
+**Analysis of Polygons:**
+1.  **Hexagon**: Angle = 120 degrees. $3 \times 120 = 360$. No solid angle (forms a plane).
+2.  **Heptagon+**: Angle > 120. Sum > 360. Impossible.
+3.  **Pentagon**: Angle = 108 degrees.
+    *   3 Pentagons: $3 \times 108 = 324 < 360$. (Forms **Dodecahedron**).
+    *   4 Pentagons: $4 \times 108 = 432 > 360$. Impossible.
+4.  **Square**: Angle = 90 degrees.
+    *   3 Squares: $3 \times 90 = 270 < 360$. (Forms **Cube**).
+    *   4 Squares: $4 \times 90 = 360$. Impossible (Plane).
+5.  **Triangle**: Angle = 60 degrees.
+    *   3 Triangles: $3 \times 60 = 180 < 360$. (Forms **Tetrahedron**).
+    *   4 Triangles: $4 \times 60 = 240 < 360$. (Forms **Octahedron**).
+    *   5 Triangles: $5 \times 60 = 300 < 360$. (Forms **Icosahedron**).
+    *   6 Triangles: $6 \times 60 = 360$. Impossible (Plane).
+
+**Conclusion**
+Only five regular bodies can be formed: Dodecahedron, Cube, Tetrahedron, Octahedron, Icosahedron.

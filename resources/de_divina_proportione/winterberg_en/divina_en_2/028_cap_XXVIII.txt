@@ -1,0 +1,18 @@
+XXVIII. Construction of the Octahedron
+
+**Construction**
+From a given sphere with diameter $AB$:
+1.  Divide $AB$ at midpoint $C$.
+2.  Construct semicircle and perpendicular $CD$.
+3.  Draw $BD$.
+4.  Construct a square with side $BD$.
+5.  Erect perpendiculars from the center of the square upwards and downwards, equal to half the diagonal.
+6.  Connect vertices to the square corners to form 8 equilateral triangles.
+
+**Ratio**
+The Square of the Sphere Diameter is double the Square of the Octahedron Side.
+$D^2 : S^2 = 2 : 1$.
+If $D = 8$ ($D^2=64$), then $S^2 = 32$ ($S=\sqrt{32}$).
+
+**Reference**
+(Euclid XIII.14)

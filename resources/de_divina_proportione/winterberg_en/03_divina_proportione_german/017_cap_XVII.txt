@@ -1,0 +1,19 @@
+Cap. XVII.
+
+Of the reverse effect of the preceding.
+
+If a line is divided according to the proportion, which
+has a mean and two extreme segments, so is always
+in the circle for which the greater segment is the side of the
+hexagon inscribed in it, the smaller the corresponding
+decagon side. If e.g. the divided line were ten, so
+will the greater segment, which is sqrt(125) - 5, always be the side
+of the hexagon of a circle, whose diameter will be the
+double of sqrt(125) - 5, namely sqrt(500) - 10. I as-
+sert, that in the same circle the smaller segment 15 - sqrt(125)
+be the side of the equilateral decagon inscribed in the
+same. And this conversion uses frequently Ptole-
+my in the ninth Chapter of the first theorem of his Almagest,
+to demonstrate the size of the chords of circle arcs. As
+likewise in the aforementioned ninth of the 13th is clearly
+proven geometrically.

@@ -1,0 +1,13 @@
+XXII. Thirteenth Effect
+
+**Proposition**
+The Divine Proportion is essential for the construction of the Pentagon.
+Consequently, it is essential for the construction of the Dodecahedron (bounded by 12 pentagons), which Plato attributed to the Heavens (Quintessence).
+
+**Demonstration**
+To construct an equilateral and equiangular pentagon (Euclid IV.11), one must first construct an isosceles triangle where each base angle is double the vertex angle (Euclid IV.10).
+To construct this triangle, one must divide a line such that the square of one segment equals the product of the other segment and the whole line (Euclid II.11).
+This division is exactly the Divine Proportion (Euclid VI, Definition 3).
+
+**Conclusion**
+Without the Divine Proportion, neither the Pentagon nor the Dodecahedron can be constructed.

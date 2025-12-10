@@ -1,0 +1,46 @@
+Cap. XXVI.
+
+Of the production or formation of those five regular bodies and the ratio of each to the diameter of the sphere, *) and indeed first of the Tetrahedron.
+
+After seen and understood, what regular bodies and
+how many exactly be present, so follows now to say, how they
+are formed, so that they be exactly surrounded by a sphere
+and further, what ratio and determination of them
+or their sides to the diameter of the sphere must take place,
+so that it encloses them exactly. Means of the same one ar-
+rives to the knowledge of them all. Accordingly we will
+speak first of the Tetrahedron, i.e. of the body from four equi-
+lateral triangular surfaces and then gradually
+of every other according to the sequence. I say therefore, named
+body must be formed in following way: first one takes
+the diameter of the sphere, in which we intend to insert it,
+which we assume as the line ab. And this
+be divided in point c such, that the segment ac be doubtly
+as large as bc. *o) And one beat over it a semi-
+circle adb and draw the line cd perpendicular to the line ab,
+and draw the line bd and da. Sodann one describe the
+circle fgh over the center e, whose radius be equal to the
+line cd. In this circle one describe then an equi-
+lateral triangle, as the second of the fourth teaches, and this
+triangle be fgh. And from the center to its angle points
+one draw the lines ef, eg, eh. Then one erect over the
+center the line ek perpendicular to the surface of the circle fgh,
+as the twelfth of the eleventh teaches, and this perpendicular one
+make equal to the line ac; and from point k one let the
+hypotenuses *) kf, kg, kh down. If one has observed these things so
+exactly, so I say, that the pyramid of four
+equilateral triangular surfaces be finished. And this will be exactly
+circumscribed by the sphere of just that diameter ab.
+And I assert, according to the ratio of the diameter
+of the sphere to the side of the constructed pyramid, that the square
+of the named diameter be the three-and-a-half-fold of the square of the
+side of named pyramid, i.e. that the square of the dia-
+meter contains the square of the side of the pyramid one and a half times,
+i.e. as 3:2 and 6:4 behaves. And that wants to say,
+that if the square of named diameter were 6, the
+square of the side of the pyramid would be 4. And so it finds
+itself proven in Geometry.
+
+*) i.e. the circumscribed.
+*o) cfr. Cap. LXXI.
+*) cfr. Cap. XXI.

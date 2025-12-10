@@ -1,0 +1,17 @@
+LXIX. Measurement of Abscinded and Elevated Bodies
+
+**Method regarding Abscinded (Truncated) Bodies**
+Treat the abscinded body as a regular body with "defects" (missing parts).
+1.  Calculate the volume of the full regular body.
+2.  Calculate the volume of the small pyramids removed from the corners (or edges).
+3.  Subtract the removed volumes from the total.
+
+**Method regarding Elevated (Stellated) Bodies**
+Treat the elevated body as a regular body with "additions".
+1.  Calculate the volume of the core regular body (the base of the elevations).
+2.  Calculate the volume of the pyramids added to the faces.
+3.  Add the pyramid volumes to the core volume.
+    $$V_{elevated} = V_{core} + \sum V_{pyramids}$$
+
+**Note**
+This method relies on the known geometry of the 5 regular bodies.

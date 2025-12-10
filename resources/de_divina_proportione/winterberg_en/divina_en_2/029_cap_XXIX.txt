@@ -1,0 +1,21 @@
+XXIX. Construction of the Icosahedron
+
+**Construction**
+From a given sphere with diameter $AB$:
+1.  Divide $AB$ at $C$ such that $AC = 4 \cdot CB$.
+2.  Construct perpendicular $CD$. Draw $DB$.
+3.  Construct a circle with radius $DB$.
+4.  Inscribe an equilateral Pentagon and Decagon in this circle.
+5.  Construct the icosahedron using vertices derived from these polygons and perpendiculars.
+    (Detailed geometric construction omitted for brevity, involves pentagonal tiers).
+
+**Properties**
+The side of the Icosahedron is the "Minor Line" (irrational) if the sphere diameter is rational.
+The side of the Icosahedron equals the side of the Pentagon inscribed in the circle with radius $DB$.
+
+**Ratio**
+The ratio involves the Divine Proportion and is derived from Euclid XIII.16.
+$D^2 = 5 \cdot (Radius \ of \ Construction \ Circle)^2$.
+
+**Reference**
+(Euclid XIII.16)

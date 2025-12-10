@@ -1,0 +1,26 @@
+Cap. XIII.
+
+Of its fourth inexpressible effect.
+
+If a magnitude is divided according to our divine proportion
+and one adds to the whole magnitude its greater seg-
+ment, so will said sum and said
+greater segment be parts of another likewise divided magnitude. And the greater segment of this second so divided
+magnitude will always be the whole first named magnitude. Let be
+e.g. the magnitude divided according to our unique proportion
+10 so that its greater segment will be sqrt(125) - 5, the smaller
+15 - sqrt(125). If one therefore adds to the first magnitude
+10 the greater segment, sqrt(125) - 5, so will result
+a second, namely sqrt(125) + 5. And of this second
+magnitude sqrt(125) + 5 I assert, that it is likewise divided in the
+two said segments according to our proportion
+namely in sqrt(125) - 5, the greater part of the first, and in
+10, which was the first magnitude, and is the greater segment
+of this second magnitude. And this becomes clear thus: because the pro-
+duct of sqrt(125) - 5 (which is the greater segment of the first, and
+now the smaller of this second is) with this whole second namely
+with sqrt(125) + 5 amounts to as much as the square of the mean, or we
+will say greater segment of this second, which is 10,
+so that both make exactly 100 as it is required for
+said proportion. This property proves to us
+also geometrically the fourth of the 13th.

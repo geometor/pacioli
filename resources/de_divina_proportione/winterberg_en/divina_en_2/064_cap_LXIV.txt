@@ -1,0 +1,10 @@
+LXIV. The Round Pyramid (Cone)
+
+**Definition**
+A round pyramid (cone) is a solid figure described by the revolution of a right-angled triangle about one of the sides containing the right angle (the axis).
+(Euclid XI, Def. 18).
+
+**Classification by Vertical Angle**
+1.  **Rectangular cone** (Right-angled): If the fixed side (axis) is equal to the rotating side (radius). The angle at the vertex is a right angle ($90^\circ$).
+2.  **Acute-angled cone**: If the fixed side (axis) is greater than the rotating side (radius). The angle at the vertex is acute ($<90^\circ$).
+3.  **Obtuse-angled cone**: If the fixed side (axis) is less than the rotating side (radius). The angle at the vertex is obtuse ($>90^\circ$).

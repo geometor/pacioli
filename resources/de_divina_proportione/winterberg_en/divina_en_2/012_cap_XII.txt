@@ -1,0 +1,22 @@
+XII. Third Effect
+
+**Proposition**
+If a quantity is divided according to the Divine Proportion, and to the smaller segment is added half of the greater segment:
+The square of the sum is 5 times the square of half the greater segment.
+
+**Example**
+Whole quantity = 10.
+Greater segment ($AC$) = $\sqrt{125} - 5$.
+Smaller segment ($CB$) = $15 - \sqrt{125}$.
+Half of greater segment ($AC/2$) = $\frac{\sqrt{125} - 5}{2} = \sqrt{31.25} - 2.5$.
+Sum ($CB + AC/2$) = $(15 - \sqrt{125}) + (\sqrt{31.25} - 2.5)$
+Note: $\sqrt{125} = 2\sqrt{31.25}$.
+Sum = $15 - 2\sqrt{31.25} + \sqrt{31.25} - 2.5 = 12.5 - \sqrt{31.25}$.
+
+Square of Sum = $(12.5 - \sqrt{31.25})^2 = 156.25 - 25\sqrt{31.25} + 31.25 = 187.5 - 25\sqrt{31.25}$.
+Square of Half Greater = $(\sqrt{31.25} - 2.5)^2 = 31.25 - 5\sqrt{31.25} + 6.25 = 37.5 - 5\sqrt{31.25}$.
+$5 \times (37.5 - 5\sqrt{31.25}) = 187.5 - 25\sqrt{31.25}$.
+
+**Conclusion**
+The square of the sum is exactly 5 times the square of half the greater segment.
+(Euclid XIII.3)

@@ -1,0 +1,17 @@
+XLVI. Summary of Inscriptions
+
+**Proposition**
+There are exactly 12 possible inscriptions of one regular body within another, not 20.
+Not every body can contain every other body.
+
+**List of Inscriptions**
+1.  **In Tetrahedron**: Octahedron.
+2.  **In Cube**: Tetrahedron, Octahedron.
+3.  **In Octahedron**: Cube, Tetrahedron.
+4.  **In Dodecahedron**: Icosahedron, Cube, Octahedron, Tetrahedron.
+5.  **In Icosahedron**: Dodecahedron, Cube, Tetrahedron.
+
+**Exclusions**
+*   Tetrahedron cannot contain Cube, Icosahedron, or Dodecahedron.
+*   Cube and Octahedron cannot contain Icosahedron or Dodecahedron.
+*   Icosahedron cannot contain Octahedron (due to structural conflict involving perpendicular diameters).

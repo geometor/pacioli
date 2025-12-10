@@ -1,0 +1,15 @@
+LVII. Inscribing Regular Bodies in the Sphere
+
+**Proposition**
+All five regular bodies can be inscribed within a sphere such that all their vertices touch the spherical surface.
+
+**Construction (Analogy of the Lapicide)**
+Imagine a spherical stone (e.g., a cannonball). By marking the appropriate number of equidistant points on its surface and cutting away the excess material along straight planes connecting these points, the regular bodies are formed:
+1.  **Tetrahedron**: 4 equidistant points.
+2.  **Cube**: 8 equidistant points.
+3.  **Octahedron**: 6 equidistant points.
+4.  **Icosahedron**: 12 equidistant points.
+5.  **Dodecahedron**: 20 equidistant points.
+
+**Geometric Impossibility**
+It is impossible to construct a regular body with equal faces that is not one of these five. For example, a body with 4 equal faces must be a Tetrahedron (triangular faces); it cannot have 4 square faces. A body with 6 equal faces must be a Cube (square faces); it cannot have 6 triangular faces.

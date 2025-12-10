@@ -1,0 +1,15 @@
+XXXIII. Proportions of the Surfaces
+
+**Statement**
+Proportions of surfaces are generally irrational, except for those composed of squares and triangles (Tetrahedron, Cube, Octahedron), which are commensurable with the square of the sphere diameter.
+
+**Key Relationships**
+1.  **Dodecahedron : Icosahedron** (Surfaces).
+    Ratio equals Side of Cube : Side of Icosahedron Triangle (Euclid XIV.8).
+    Both bodies can have their faces circumscribed by the same circle (Euclid XIV.5).
+2.  **Tetrahedron : Octahedron** (Surfaces).
+    Single Face Ratio: $Face_4 : Face_8 = 4 : 3$ (Sesquitertia).
+    Total Surface Ratio: $Surface_8 : Surface_4 = 6 : 4 = 3 : 2$ (Sesquialtera).
+3.  **Cube Surface**.
+    Total Surface Area = $2 \cdot D^2$ (Double the square of the sphere diameter).
+    Distance from Center to Face = $1/2 \cdot S_6$.

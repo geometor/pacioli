@@ -1,0 +1,15 @@
+XVII. Eighth Effect
+
+**Proposition (Converse of Effect VII)**
+If a line is divided according to the Divine Proportion:
+The greater segment is the side of a Hexagon inscribed in a circle.
+The lesser segment is the side of a Decagon inscribed in the *same* circle.
+
+**Example**
+Whole Line = 10.
+Greater Segment = $\sqrt{125} - 5$ = Hexagon Side (Radius).
+Circle Diameter = $2 \times (\sqrt{125} - 5) = \sqrt{500} - 10$.
+Lesser Segment = $15 - \sqrt{125}$ = Decagon Side.
+
+**Reference**
+(Euclid XIII.9; Ptolemy Almagest I.9)
