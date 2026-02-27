@@ -21,24 +21,7 @@ To provide a structured, digital environment for studying the works of Fra Luca 
 -   `app.py`: Entry point for the Textual-based TUI.
 -   `run_parse.py`: Script for executing parse routines.
 
-## Getting Started
 
-### Installation
-
-```bash
-git clone https://github.com/geometor/pacioli
-cd pacioli
-pip install -e .
-```
-
-### Usage
-
-```bash
-# Run the application
-pacioli
-```
-
-## Resources
 
 -   **Source Code**: https://github.com/geometor/pacioli
 -   **Issues**: https://github.com/geometor/pacioli/issues
