@@ -1,0 +1,18 @@
+{
+  "folio": "0103",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0103.g1.png",
+      "inverted_file": "0103.g1.inverted.png",
+      "bbox": [
+        578,
+        36,
+        407,
+        1216
+      ],
+      "white_point": 226,
+      "caption": "Folio 0103 Figure 1"
+    }
+  ]
+}

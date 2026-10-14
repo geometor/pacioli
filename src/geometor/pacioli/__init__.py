@@ -13,8 +13,14 @@ Initialize :class:`PacioliParser` with resources and output directories, then ca
 from __future__ import annotations
 
 from .parser import PacioliParser
+from .extraction import extract_all
+from .graphics import clean_image, detect_graphics_cv, extract_from_json
 
 __all__ = [
     "PacioliParser",
+    "extract_all",
+    "clean_image",
+    "detect_graphics_cv",
+    "extract_from_json",
 ]
 __version__ = "0.1.0"

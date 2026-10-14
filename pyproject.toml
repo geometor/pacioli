@@ -20,6 +20,8 @@ dependencies = [
 
 [project.scripts]
 pacioli = "geometor.pacioli.__main__:run"
+pacioli-extract = "geometor.pacioli.extraction:main"
+pacioli-graphics = "geometor.pacioli.graphics:main"
 
 [build-system]
 requires = ["setuptools", "setuptools-scm"]

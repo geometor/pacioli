@@ -1,0 +1,57 @@
+{
+  "folio": "0095",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0095.g1.png",
+      "inverted_file": "0095.g1.inverted.png",
+      "bbox": [
+        578,
+        48,
+        346,
+        273
+      ],
+      "white_point": 226,
+      "caption": "Folio 0095 Figure 1"
+    },
+    {
+      "id": "g2",
+      "file": "0095.g2.png",
+      "inverted_file": "0095.g2.inverted.png",
+      "bbox": [
+        653,
+        363,
+        276,
+        271
+      ],
+      "white_point": 226,
+      "caption": "Folio 0095 Figure 2"
+    },
+    {
+      "id": "g3",
+      "file": "0095.g3.png",
+      "inverted_file": "0095.g3.inverted.png",
+      "bbox": [
+        655,
+        679,
+        280,
+        273
+      ],
+      "white_point": 226,
+      "caption": "Folio 0095 Figure 3"
+    },
+    {
+      "id": "g4",
+      "file": "0095.g4.png",
+      "inverted_file": "0095.g4.inverted.png",
+      "bbox": [
+        657,
+        999,
+        277,
+        274
+      ],
+      "white_point": 226,
+      "caption": "Folio 0095 Figure 4"
+    }
+  ]
+}

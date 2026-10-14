@@ -1,0 +1,18 @@
+{
+  "folio": "0251",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0251.g1.png",
+      "inverted_file": "0251.g1.inverted.png",
+      "bbox": [
+        0,
+        188,
+        772,
+        1327
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 33 (Folio 0251): ^o^eKfli\u00c9^or ivn^iAtii\u00e0v &s-tt>ut ?"
+    }
+  ]
+}

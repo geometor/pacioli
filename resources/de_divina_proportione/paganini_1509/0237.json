@@ -1,0 +1,18 @@
+{
+  "folio": "0237",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0237.g1.png",
+      "inverted_file": "0237.g1.inverted.png",
+      "bbox": [
+        0,
+        64,
+        773,
+        1414
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 26 (Folio 0237): XXTIII \u00ablk\u00f3?*6(^\u00a7W \u00ab,S,OT6TjUHJueyOf X.\u00a3M"
+    }
+  ]
+}

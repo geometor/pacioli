@@ -1,0 +1,18 @@
+{
+  "folio": "0287",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0287.g1.png",
+      "inverted_file": "0287.g1.inverted.png",
+      "bbox": [
+        0,
+        0,
+        622,
+        1013
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 51 (Folio 0287): \u25a0sruo\u00abjUi<; \u25a0S\"A#y9i^w;T?T?#YC-)P0$ %\u00ecvh XLvnr"
+    }
+  ]
+}

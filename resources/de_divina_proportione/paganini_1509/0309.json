@@ -1,0 +1,18 @@
+{
+  "folio": "0309",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0309.g1.png",
+      "inverted_file": "0309.g1.inverted.png",
+      "bbox": [
+        0,
+        0,
+        802,
+        1515
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 62 (Folio 0309): m \u00bb S<J)\u00ab|{flt afl^itt"
+    }
+  ]
+}

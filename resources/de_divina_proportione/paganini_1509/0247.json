@@ -1,0 +1,18 @@
+{
+  "folio": "0247",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0247.g1.png",
+      "inverted_file": "0247.g1.inverted.png",
+      "bbox": [
+        0,
+        0,
+        898,
+        1515
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 31 (Folio 0247): $>ofrilLott$'$6t 0t7S,aTiT^^\"tV\u00f9t arl^iof xxrx"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "folio": "0273",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0273.g1.png",
+      "inverted_file": "0273.g1.inverted.png",
+      "bbox": [
+        0,
+        165,
+        542,
+        1350
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 44 (Folio 0273): kicjv \u25a0srAav\u00a7o<N<;,n>HY&>vo<; k.\u00a3vhs XLII"
+    }
+  ]
+}

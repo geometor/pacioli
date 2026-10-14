@@ -1,0 +1,18 @@
+{
+  "folio": "0307",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0307.g1.png",
+      "inverted_file": "0307.g1.inverted.png",
+      "bbox": [
+        0,
+        0,
+        583,
+        1400
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 61 (Folio 0307): - > \u25a0Brvgotjui? orgoifyuAi \u00ab-\u00a3\u00a7\u00a3\u00ab"
+    }
+  ]
+}

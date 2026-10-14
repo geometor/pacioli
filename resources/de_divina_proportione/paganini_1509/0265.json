@@ -1,0 +1,18 @@
+{
+  "folio": "0265",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0265.g1.png",
+      "inverted_file": "0265.g1.inverted.png",
+      "bbox": [
+        0,
+        0,
+        816,
+        1515
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 40 (Folio 0265): \u00a3lK.o;U*\u00abE^OY \u00ab\u25a0arOTETjUH/tECOV \u00a3-3TH\u00a7jUEVi)V K.EW XXX7III"
+    }
+  ]
+}

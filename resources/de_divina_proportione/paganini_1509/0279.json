@@ -1,0 +1,18 @@
+{
+  "folio": "0279",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0279.g1.png",
+      "inverted_file": "0279.g1.inverted.png",
+      "bbox": [
+        0,
+        0,
+        581,
+        1440
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 47 (Folio 0279): XLV juaf 75,A\u00abu\u00a7o<f,H5TST\u00a7\u00aby&)V\u00ab^ erigivi;"
+    }
+  ]
+}

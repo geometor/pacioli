@@ -1,0 +1,18 @@
+{
+  "folio": "0213",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0213.g1.png",
+      "inverted_file": "0213.g1.inverted.png",
+      "bbox": [
+        0,
+        16,
+        956,
+        1370
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 14 (Folio 0213): Pertafportantia e variet\u00e0 di queffi nomi ala tauola ord\u00ec'"
+    }
+  ]
+}

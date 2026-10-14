@@ -1,0 +1,18 @@
+{
+  "folio": "0263",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0263.g1.png",
+      "inverted_file": "0263.g1.inverted.png",
+      "bbox": [
+        0,
+        247,
+        740,
+        1268
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 39 (Folio 0263): \u00abltOSI\u00a3?0\u00a3\u00a3(^OVa-zrOTtT^HjUEl>OV i-^h^ivov we\u00a7\u00a3oy ."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "folio": "0211",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0211.g1.png",
+      "inverted_file": "0211.g1.inverted.png",
+      "bbox": [
+        0,
+        234,
+        730,
+        923
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 13 (Folio 0211): XJIJ \u00ab\u2022S-OTtTjUHjUtVOI/ \u00c9-Bn^/UffO? eTi^ldV"
+    }
+  ]
+}

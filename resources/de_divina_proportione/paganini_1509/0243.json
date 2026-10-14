@@ -1,0 +1,18 @@
+{
+  "folio": "0243",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0243.g1.png",
+      "inverted_file": "0243.g1.inverted.png",
+      "bbox": [
+        0,
+        0,
+        839,
+        1515
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 29 (Folio 0243): SO\u00bb ^"
+    }
+  ]
+}

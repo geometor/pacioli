@@ -1,0 +1,18 @@
+{
+  "folio": "0219",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0219.g1.png",
+      "inverted_file": "0219.g1.inverted.png",
+      "bbox": [
+        0,
+        0,
+        813,
+        1163
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 17 (Folio 0219): Ok.t\u00ab^\u00a7\u00bbv tr\u00e9ir&tS'M artqav a."
+    }
+  ]
+}

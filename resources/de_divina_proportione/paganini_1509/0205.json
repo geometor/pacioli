@@ -1,0 +1,18 @@
+{
+  "folio": "0205",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0205.g1.png",
+      "inverted_file": "0205.g1.inverted.png",
+      "bbox": [
+        0,
+        208,
+        800,
+        931
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 10 (Folio 0205): \u00ab\u25a03rOT\u00a3T/UHjUEfOV &Ti^iiV X"
+    }
+  ]
+}

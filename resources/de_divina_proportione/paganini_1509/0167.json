@@ -1,0 +1,18 @@
+{
+  "folio": "0167",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0167.g1.png",
+      "inverted_file": "0167.g1.inverted.png",
+      "bbox": [
+        82,
+        267,
+        611,
+        597
+      ],
+      "white_point": 226,
+      "caption": "Letter O (geometric) - Roman Capital Alphabet Construction"
+    }
+  ]
+}

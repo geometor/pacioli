@@ -1,0 +1,18 @@
+{
+  "folio": "0187",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0187.g1.png",
+      "inverted_file": "0187.g1.inverted.png",
+      "bbox": [
+        0,
+        199,
+        896,
+        1088
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 1 (Folio 0187): TtT{\u00ab.iS*\u00a3M l'&ti'&iS'CV ftJ-egCO^ I"
+    }
+  ]
+}

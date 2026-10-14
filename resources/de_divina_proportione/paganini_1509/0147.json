@@ -1,0 +1,18 @@
+{
+  "folio": "0147",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0147.g1.png",
+      "inverted_file": "0147.g1.inverted.png",
+      "bbox": [
+        78,
+        269,
+        603,
+        594
+      ],
+      "white_point": 226,
+      "caption": "Letter E - Roman Capital Alphabet Construction"
+    }
+  ]
+}

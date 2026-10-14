@@ -1,0 +1,51 @@
+[
+  {
+    "id": "front_matter",
+    "title": "Front Matter and Dedications",
+    "start_page": 1,
+    "end_page": 16,
+    "description": "Title page, epigrams, dedication to Piero Soderini, and Table of Contents."
+  },
+  {
+    "id": "compendio",
+    "title": "Part I: Compendio de Divina Proportione",
+    "start_page": 17,
+    "end_page": 80,
+    "description": "Chapters I to LXXI: The golden ratio, 13 effects, Platonic solids, and measurements."
+  },
+  {
+    "id": "architectura",
+    "title": "Part II: Tractato de l'Architectura",
+    "start_page": 81,
+    "end_page": 84,
+    "description": "Treatise on Vitruvian architecture, human proportion, columns, and capitals."
+  },
+  {
+    "id": "libellus",
+    "title": "Part III: Libellus in tres partiales tractatus divisus",
+    "start_page": 85,
+    "end_page": 135,
+    "description": "Treatise on the five regular bodies (Piero della Francesca translation)."
+  },
+  {
+    "id": "alphabet",
+    "title": "Appendix I: The Roman Geometric Alphabet",
+    "start_page": 136,
+    "end_page": 186,
+    "description": "Geometric construction and full-page woodcut plates of classical Roman capital letters (A-Z)."
+  },
+  {
+    "id": "polyhedra_plates",
+    "title": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+    "start_page": 187,
+    "end_page": 314,
+    "description": "Full-page woodcut illustrations designed by Leonardo da Vinci of regular, truncated, and stellated polyhedra (solid and hollow forms)."
+  },
+  {
+    "id": "end_matter",
+    "title": "End Matter and Colophon",
+    "start_page": 315,
+    "end_page": 318,
+    "description": "Concluding remarks, printer's mark, and colophon."
+  }
+]

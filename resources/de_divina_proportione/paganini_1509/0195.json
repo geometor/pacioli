@@ -1,0 +1,18 @@
+{
+  "folio": "0195",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0195.g1.png",
+      "inverted_file": "0195.g1.inverted.png",
+      "bbox": [
+        0,
+        194,
+        700,
+        1321
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 5 (Folio 0195): Ttr$\u00abi\u00a3-%iv vm^mv artici Tecr^dron Ekuarum Soliduw"
+    }
+  ]
+}

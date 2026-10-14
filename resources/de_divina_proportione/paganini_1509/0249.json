@@ -1,0 +1,18 @@
+{
+  "folio": "0249",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0249.g1.png",
+      "inverted_file": "0249.g1.inverted.png",
+      "bbox": [
+        0,
+        52,
+        811,
+        1463
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 32 (Folio 0249): ^0^'\u00cc!J\u00abJ^OV \u00ab\u25a0SfaT\u00c9TjUHjUtt'OV \u00ecLit\u00e8V XXX"
+    }
+  ]
+}

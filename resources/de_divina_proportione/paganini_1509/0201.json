@@ -1,0 +1,18 @@
+{
+  "folio": "0201",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0201.g1.png",
+      "inverted_file": "0201.g1.inverted.png",
+      "bbox": [
+        0,
+        214,
+        822,
+        1301
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 8 (Folio 0201): fffi-i'm<f'ov k\u00abov VTH"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "folio": "0303",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0303.g1.png",
+      "inverted_file": "0303.g1.inverted.png",
+      "bbox": [
+        0,
+        0,
+        825,
+        1515
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 59 (Folio 0303): \u2022srufls^Hg \u25a0o-Atv^M^H? Tyyur\u00bb$&vr,rff\\t\\.tyi$, K.eyn LVI"
+    }
+  ]
+}

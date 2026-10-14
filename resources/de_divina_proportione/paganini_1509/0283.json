@@ -1,0 +1,18 @@
+{
+  "folio": "0283",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0283.g1.png",
+      "inverted_file": "0283.g1.inverted.png",
+      "bbox": [
+        0,
+        0,
+        623,
+        1262
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 49 (Folio 0283): \u25a0ari^ajUK \u2022aA\u00f3tv$\u00f2f'>a$TlT$#yiMS$ ars^'s* xLvir"
+    }
+  ]
+}

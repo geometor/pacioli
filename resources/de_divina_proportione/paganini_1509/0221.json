@@ -1,0 +1,18 @@
+{
+  "folio": "0221",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0221.g1.png",
+      "inverted_file": "0221.g1.inverted.png",
+      "bbox": [
+        0,
+        0,
+        809,
+        963
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 18 (Folio 0221): \u25a0 Oh.T\u00ab\u00a3<Ss\u00a7\u00abV ETS-175-\u00c9^OV KIVO.V"
+    }
+  ]
+}

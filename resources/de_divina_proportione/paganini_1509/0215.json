@@ -1,0 +1,18 @@
+{
+  "folio": "0215",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0215.g1.png",
+      "inverted_file": "0215.g1.inverted.png",
+      "bbox": [
+        0,
+        109,
+        1018,
+        1130
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 15 (Folio 0215): \u25a0^n^>Ttft,>mij,i,l|inr,AWf<. Lianticbi aqjfo dicano Acrotberio Li mo.Regolo de la cornice"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "folio": "0207",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0207.g1.png",
+      "inverted_file": "0207.g1.inverted.png",
+      "bbox": [
+        0,
+        106,
+        832,
+        1237
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 11 (Folio 0207): tTZH%tHlVM \u00f9Tt^tW XI"
+    }
+  ]
+}

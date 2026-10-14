@@ -1,0 +1,18 @@
+{
+  "folio": "0193",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0193.g1.png",
+      "inverted_file": "0193.g1.inverted.png",
+      "bbox": [
+        0,
+        210,
+        738,
+        991
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 4 (Folio 0193): T\u20acT\u00a3a\u00a3<f\"\u00a7Of \u00ab\u2022aroTETjUNjuEfov k W un"
+    }
+  ]
+}

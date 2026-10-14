@@ -1,0 +1,18 @@
+{
+  "folio": "0229",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0229.g1.png",
+      "inverted_file": "0229.g1.inverted.png",
+      "bbox": [
+        0,
+        174,
+        752,
+        1341
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 22 (Folio 0229): XX tsrH\u00a7M\u00a3y0V Ktm"
+    }
+  ]
+}

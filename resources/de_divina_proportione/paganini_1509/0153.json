@@ -1,0 +1,18 @@
+{
+  "folio": "0153",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0153.g1.png",
+      "inverted_file": "0153.g1.inverted.png",
+      "bbox": [
+        133,
+        237,
+        605,
+        596
+      ],
+      "white_point": 226,
+      "caption": "Letter H - Roman Capital Alphabet Construction"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "folio": "0299",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0299.g1.png",
+      "inverted_file": "0299.g1.inverted.png",
+      "bbox": [
+        0,
+        0,
+        579,
+        1515
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 57 (Folio 0299): LUI! KI&39 ITA\u00c9Vg&xN? \u00a3;\u00abyO)V0(; K.6P0;"
+    }
+  ]
+}

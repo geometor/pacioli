@@ -1,0 +1,18 @@
+{
+  "folio": "0245",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0245.g1.png",
+      "inverted_file": "0245.g1.inverted.png",
+      "bbox": [
+        0,
+        83,
+        760,
+        1432
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 30 (Folio 0245): (JWtiwc^ot! e-sriwe^oif m\u00bb? XX VII f"
+    }
+  ]
+}

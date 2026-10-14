@@ -1,0 +1,18 @@
+{
+  "folio": "0241",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0241.g1.png",
+      "inverted_file": "0241.g1.inverted.png",
+      "bbox": [
+        0,
+        65,
+        845,
+        1450
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 28 (Folio 0241): \u00c9inosaEtS^oc i-zH$iJ.ivor neper XXVI"
+    }
+  ]
+}

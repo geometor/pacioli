@@ -1,0 +1,18 @@
+{
+  "folio": "0305",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0305.g1.png",
+      "inverted_file": "0305.g1.inverted.png",
+      "bbox": [
+        0,
+        0,
+        637,
+        1489
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 60 (Folio 0305): fitaflf^tvy\u00eciA\u00e8i \u00abvre^\u00c9\u00bb? LVH"
+    }
+  ]
+}

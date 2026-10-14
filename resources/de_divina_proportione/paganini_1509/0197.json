@@ -1,0 +1,18 @@
+{
+  "folio": "0197",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0197.g1.png",
+      "inverted_file": "0197.g1.inverted.png",
+      "bbox": [
+        0,
+        195,
+        990,
+        993
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 6 (Folio 0197): L^^fJLlVOV KiVOV. VI"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "folio": "0223",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0223.g1.png",
+      "inverted_file": "0223.g1.inverted.png",
+      "bbox": [
+        0,
+        0,
+        822,
+        1515
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 19 (Folio 0223): CX.TettS'qiV' \u00ab\u25a0ffOT\u00ecTJUHJUECO^ 6ft$ttV XVTI"
+    }
+  ]
+}

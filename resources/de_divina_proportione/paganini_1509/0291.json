@@ -1,0 +1,18 @@
+{
+  "folio": "0291",
+  "graphics": [
+    {
+      "id": "g1",
+      "file": "0291.g1.png",
+      "inverted_file": "0291.g1.inverted.png",
+      "bbox": [
+        0,
+        0,
+        627,
+        1515
+      ],
+      "white_point": 226,
+      "caption": "Leonardo da Vinci Plate 53 (Folio 0291): Rica* \u25a0srA\u00a3v\u00a7ca<JvH$ TgtVTotyovtsi; imo? \u2022ti"
+    }
+  ]
+}

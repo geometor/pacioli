@@ -1,0 +1,2233 @@
+{
+  "work": "de_divina_proportione",
+  "edition": "paganini_1509",
+  "total_pages": 318,
+  "pages": [
+    {
+      "page_num": 1,
+      "folio": "0001",
+      "section": "front_matter",
+      "image": "0001.png",
+      "text": "0001.txt"
+    },
+    {
+      "page_num": 2,
+      "folio": "0002",
+      "section": "front_matter",
+      "image": "0002.png",
+      "text": "0002.txt"
+    },
+    {
+      "page_num": 3,
+      "folio": "0003",
+      "section": "front_matter",
+      "image": "0003.png",
+      "text": "0003.txt"
+    },
+    {
+      "page_num": 4,
+      "folio": "0004",
+      "section": "front_matter",
+      "image": "0004.png",
+      "text": "0004.txt"
+    },
+    {
+      "page_num": 5,
+      "folio": "0005",
+      "section": "front_matter",
+      "image": "0005.png",
+      "text": "0005.txt"
+    },
+    {
+      "page_num": 6,
+      "folio": "0006",
+      "section": "front_matter",
+      "image": "0006.png",
+      "text": "0006.txt"
+    },
+    {
+      "page_num": 7,
+      "folio": "0007",
+      "section": "front_matter",
+      "image": "0007.png",
+      "text": "0007.txt"
+    },
+    {
+      "page_num": 8,
+      "folio": "0008",
+      "section": "front_matter",
+      "image": "0008.png",
+      "text": "0008.txt"
+    },
+    {
+      "page_num": 9,
+      "folio": "0009",
+      "section": "front_matter",
+      "image": "0009.png",
+      "text": "0009.txt"
+    },
+    {
+      "page_num": 10,
+      "folio": "0010",
+      "section": "front_matter",
+      "image": "0010.png",
+      "text": "0010.txt"
+    },
+    {
+      "page_num": 11,
+      "folio": "0011",
+      "section": "front_matter",
+      "image": "0011.png",
+      "text": "0011.txt"
+    },
+    {
+      "page_num": 12,
+      "folio": "0012",
+      "section": "front_matter",
+      "image": "0012.png",
+      "text": "0012.txt"
+    },
+    {
+      "page_num": 13,
+      "folio": "0013",
+      "section": "front_matter",
+      "image": "0013.png",
+      "text": "0013.txt"
+    },
+    {
+      "page_num": 14,
+      "folio": "0014",
+      "section": "front_matter",
+      "image": "0014.png",
+      "text": "0014.txt"
+    },
+    {
+      "page_num": 15,
+      "folio": "0015",
+      "section": "front_matter",
+      "image": "0015.png",
+      "text": "0015.txt"
+    },
+    {
+      "page_num": 16,
+      "folio": "0016",
+      "section": "front_matter",
+      "image": "0016.png",
+      "text": "0016.txt"
+    },
+    {
+      "page_num": 17,
+      "folio": "0017",
+      "section": "compendio",
+      "image": "0017.png",
+      "text": "0017.txt"
+    },
+    {
+      "page_num": 18,
+      "folio": "0018",
+      "section": "compendio",
+      "image": "0018.png",
+      "text": "0018.txt"
+    },
+    {
+      "page_num": 19,
+      "folio": "0019",
+      "section": "compendio",
+      "image": "0019.png",
+      "text": "0019.txt"
+    },
+    {
+      "page_num": 20,
+      "folio": "0020",
+      "section": "compendio",
+      "image": "0020.png",
+      "text": "0020.txt"
+    },
+    {
+      "page_num": 21,
+      "folio": "0021",
+      "section": "compendio",
+      "image": "0021.png",
+      "text": "0021.txt"
+    },
+    {
+      "page_num": 22,
+      "folio": "0022",
+      "section": "compendio",
+      "image": "0022.png",
+      "text": "0022.txt"
+    },
+    {
+      "page_num": 23,
+      "folio": "0023",
+      "section": "compendio",
+      "image": "0023.png",
+      "text": "0023.txt"
+    },
+    {
+      "page_num": 24,
+      "folio": "0024",
+      "section": "compendio",
+      "image": "0024.png",
+      "text": "0024.txt"
+    },
+    {
+      "page_num": 25,
+      "folio": "0025",
+      "section": "compendio",
+      "image": "0025.png",
+      "text": "0025.txt"
+    },
+    {
+      "page_num": 26,
+      "folio": "0026",
+      "section": "compendio",
+      "image": "0026.png",
+      "text": "0026.txt"
+    },
+    {
+      "page_num": 27,
+      "folio": "0027",
+      "section": "compendio",
+      "image": "0027.png",
+      "text": "0027.txt"
+    },
+    {
+      "page_num": 28,
+      "folio": "0028",
+      "section": "compendio",
+      "image": "0028.png",
+      "text": "0028.txt"
+    },
+    {
+      "page_num": 29,
+      "folio": "0029",
+      "section": "compendio",
+      "image": "0029.png",
+      "text": "0029.txt"
+    },
+    {
+      "page_num": 30,
+      "folio": "0030",
+      "section": "compendio",
+      "image": "0030.png",
+      "text": "0030.txt"
+    },
+    {
+      "page_num": 31,
+      "folio": "0031",
+      "section": "compendio",
+      "image": "0031.png",
+      "text": "0031.txt"
+    },
+    {
+      "page_num": 32,
+      "folio": "0032",
+      "section": "compendio",
+      "image": "0032.png",
+      "text": "0032.txt"
+    },
+    {
+      "page_num": 33,
+      "folio": "0033",
+      "section": "compendio",
+      "image": "0033.png",
+      "text": "0033.txt"
+    },
+    {
+      "page_num": 34,
+      "folio": "0034",
+      "section": "compendio",
+      "image": "0034.png",
+      "text": "0034.txt"
+    },
+    {
+      "page_num": 35,
+      "folio": "0035",
+      "section": "compendio",
+      "image": "0035.png",
+      "text": "0035.txt"
+    },
+    {
+      "page_num": 36,
+      "folio": "0036",
+      "section": "compendio",
+      "image": "0036.png",
+      "text": "0036.txt"
+    },
+    {
+      "page_num": 37,
+      "folio": "0037",
+      "section": "compendio",
+      "image": "0037.png",
+      "text": "0037.txt"
+    },
+    {
+      "page_num": 38,
+      "folio": "0038",
+      "section": "compendio",
+      "image": "0038.png",
+      "text": "0038.txt"
+    },
+    {
+      "page_num": 39,
+      "folio": "0039",
+      "section": "compendio",
+      "image": "0039.png",
+      "text": "0039.txt"
+    },
+    {
+      "page_num": 40,
+      "folio": "0040",
+      "section": "compendio",
+      "image": "0040.png",
+      "text": "0040.txt"
+    },
+    {
+      "page_num": 41,
+      "folio": "0041",
+      "section": "compendio",
+      "image": "0041.png",
+      "text": "0041.txt"
+    },
+    {
+      "page_num": 42,
+      "folio": "0042",
+      "section": "compendio",
+      "image": "0042.png",
+      "text": "0042.txt"
+    },
+    {
+      "page_num": 43,
+      "folio": "0043",
+      "section": "compendio",
+      "image": "0043.png",
+      "text": "0043.txt"
+    },
+    {
+      "page_num": 44,
+      "folio": "0044",
+      "section": "compendio",
+      "image": "0044.png",
+      "text": "0044.txt"
+    },
+    {
+      "page_num": 45,
+      "folio": "0045",
+      "section": "compendio",
+      "image": "0045.png",
+      "text": "0045.txt"
+    },
+    {
+      "page_num": 46,
+      "folio": "0046",
+      "section": "compendio",
+      "image": "0046.png",
+      "text": "0046.txt"
+    },
+    {
+      "page_num": 47,
+      "folio": "0047",
+      "section": "compendio",
+      "image": "0047.png",
+      "text": "0047.txt"
+    },
+    {
+      "page_num": 48,
+      "folio": "0048",
+      "section": "compendio",
+      "image": "0048.png",
+      "text": "0048.txt"
+    },
+    {
+      "page_num": 49,
+      "folio": "0049",
+      "section": "compendio",
+      "image": "0049.png",
+      "text": "0049.txt"
+    },
+    {
+      "page_num": 50,
+      "folio": "0050",
+      "section": "compendio",
+      "image": "0050.png",
+      "text": "0050.txt"
+    },
+    {
+      "page_num": 51,
+      "folio": "0051",
+      "section": "compendio",
+      "image": "0051.png",
+      "text": "0051.txt"
+    },
+    {
+      "page_num": 52,
+      "folio": "0052",
+      "section": "compendio",
+      "image": "0052.png",
+      "text": "0052.txt"
+    },
+    {
+      "page_num": 53,
+      "folio": "0053",
+      "section": "compendio",
+      "image": "0053.png",
+      "text": "0053.txt"
+    },
+    {
+      "page_num": 54,
+      "folio": "0054",
+      "section": "compendio",
+      "image": "0054.png",
+      "text": "0054.txt"
+    },
+    {
+      "page_num": 55,
+      "folio": "0055",
+      "section": "compendio",
+      "image": "0055.png",
+      "text": "0055.txt"
+    },
+    {
+      "page_num": 56,
+      "folio": "0056",
+      "section": "compendio",
+      "image": "0056.png",
+      "text": "0056.txt"
+    },
+    {
+      "page_num": 57,
+      "folio": "0057",
+      "section": "compendio",
+      "image": "0057.png",
+      "text": "0057.txt"
+    },
+    {
+      "page_num": 58,
+      "folio": "0058",
+      "section": "compendio",
+      "image": "0058.png",
+      "text": "0058.txt"
+    },
+    {
+      "page_num": 59,
+      "folio": "0059",
+      "section": "compendio",
+      "image": "0059.png",
+      "text": "0059.txt"
+    },
+    {
+      "page_num": 60,
+      "folio": "0060",
+      "section": "compendio",
+      "image": "0060.png",
+      "text": "0060.txt"
+    },
+    {
+      "page_num": 61,
+      "folio": "0061",
+      "section": "compendio",
+      "image": "0061.png",
+      "text": "0061.txt"
+    },
+    {
+      "page_num": 62,
+      "folio": "0062",
+      "section": "compendio",
+      "image": "0062.png",
+      "text": "0062.txt"
+    },
+    {
+      "page_num": 63,
+      "folio": "0063",
+      "section": "compendio",
+      "image": "0063.png",
+      "text": "0063.txt"
+    },
+    {
+      "page_num": 64,
+      "folio": "0064",
+      "section": "compendio",
+      "image": "0064.png",
+      "text": "0064.txt"
+    },
+    {
+      "page_num": 65,
+      "folio": "0065",
+      "section": "compendio",
+      "image": "0065.png",
+      "text": "0065.txt"
+    },
+    {
+      "page_num": 66,
+      "folio": "0066",
+      "section": "compendio",
+      "image": "0066.png",
+      "text": "0066.txt"
+    },
+    {
+      "page_num": 67,
+      "folio": "0067",
+      "section": "compendio",
+      "image": "0067.png",
+      "text": "0067.txt"
+    },
+    {
+      "page_num": 68,
+      "folio": "0068",
+      "section": "compendio",
+      "image": "0068.png",
+      "text": "0068.txt"
+    },
+    {
+      "page_num": 69,
+      "folio": "0069",
+      "section": "compendio",
+      "image": "0069.png",
+      "text": "0069.txt"
+    },
+    {
+      "page_num": 70,
+      "folio": "0070",
+      "section": "compendio",
+      "image": "0070.png",
+      "text": "0070.txt"
+    },
+    {
+      "page_num": 71,
+      "folio": "0071",
+      "section": "compendio",
+      "image": "0071.png",
+      "text": "0071.txt"
+    },
+    {
+      "page_num": 72,
+      "folio": "0072",
+      "section": "compendio",
+      "image": "0072.png",
+      "text": "0072.txt"
+    },
+    {
+      "page_num": 73,
+      "folio": "0073",
+      "section": "compendio",
+      "image": "0073.png",
+      "text": "0073.txt"
+    },
+    {
+      "page_num": 74,
+      "folio": "0074",
+      "section": "compendio",
+      "image": "0074.png",
+      "text": "0074.txt"
+    },
+    {
+      "page_num": 75,
+      "folio": "0075",
+      "section": "compendio",
+      "image": "0075.png",
+      "text": "0075.txt"
+    },
+    {
+      "page_num": 76,
+      "folio": "0076",
+      "section": "compendio",
+      "image": "0076.png",
+      "text": "0076.txt"
+    },
+    {
+      "page_num": 77,
+      "folio": "0077",
+      "section": "compendio",
+      "image": "0077.png",
+      "text": "0077.txt"
+    },
+    {
+      "page_num": 78,
+      "folio": "0078",
+      "section": "compendio",
+      "image": "0078.png",
+      "text": "0078.txt"
+    },
+    {
+      "page_num": 79,
+      "folio": "0079",
+      "section": "compendio",
+      "image": "0079.png",
+      "text": "0079.txt"
+    },
+    {
+      "page_num": 80,
+      "folio": "0080",
+      "section": "compendio",
+      "image": "0080.png",
+      "text": "0080.txt"
+    },
+    {
+      "page_num": 81,
+      "folio": "0081",
+      "section": "architectura",
+      "image": "0081.png",
+      "text": "0081.txt"
+    },
+    {
+      "page_num": 82,
+      "folio": "0082",
+      "section": "architectura",
+      "image": "0082.png",
+      "text": "0082.txt"
+    },
+    {
+      "page_num": 83,
+      "folio": "0083",
+      "section": "architectura",
+      "image": "0083.png",
+      "text": "0083.txt"
+    },
+    {
+      "page_num": 84,
+      "folio": "0084",
+      "section": "architectura",
+      "image": "0084.png",
+      "text": "0084.txt"
+    },
+    {
+      "page_num": 85,
+      "folio": "0085",
+      "section": "libellus",
+      "image": "0085.png",
+      "text": "0085.txt"
+    },
+    {
+      "page_num": 86,
+      "folio": "0086",
+      "section": "libellus",
+      "image": "0086.png",
+      "text": "0086.txt"
+    },
+    {
+      "page_num": 87,
+      "folio": "0087",
+      "section": "libellus",
+      "image": "0087.png",
+      "text": "0087.txt"
+    },
+    {
+      "page_num": 88,
+      "folio": "0088",
+      "section": "libellus",
+      "image": "0088.png",
+      "text": "0088.txt"
+    },
+    {
+      "page_num": 89,
+      "folio": "0089",
+      "section": "libellus",
+      "image": "0089.png",
+      "text": "0089.txt"
+    },
+    {
+      "page_num": 90,
+      "folio": "0090",
+      "section": "libellus",
+      "image": "0090.png",
+      "text": "0090.txt"
+    },
+    {
+      "page_num": 91,
+      "folio": "0091",
+      "section": "libellus",
+      "image": "0091.png",
+      "text": "0091.txt"
+    },
+    {
+      "page_num": 92,
+      "folio": "0092",
+      "section": "libellus",
+      "image": "0092.png",
+      "text": "0092.txt"
+    },
+    {
+      "page_num": 93,
+      "folio": "0093",
+      "section": "libellus",
+      "image": "0093.png",
+      "text": "0093.txt"
+    },
+    {
+      "page_num": 94,
+      "folio": "0094",
+      "section": "libellus",
+      "image": "0094.png",
+      "text": "0094.txt"
+    },
+    {
+      "page_num": 95,
+      "folio": "0095",
+      "section": "libellus",
+      "image": "0095.png",
+      "text": "0095.txt"
+    },
+    {
+      "page_num": 96,
+      "folio": "0096",
+      "section": "libellus",
+      "image": "0096.png",
+      "text": "0096.txt"
+    },
+    {
+      "page_num": 97,
+      "folio": "0097",
+      "section": "libellus",
+      "image": "0097.png",
+      "text": "0097.txt"
+    },
+    {
+      "page_num": 98,
+      "folio": "0098",
+      "section": "libellus",
+      "image": "0098.png",
+      "text": "0098.txt"
+    },
+    {
+      "page_num": 99,
+      "folio": "0099",
+      "section": "libellus",
+      "image": "0099.png",
+      "text": "0099.txt"
+    },
+    {
+      "page_num": 100,
+      "folio": "0100",
+      "section": "libellus",
+      "image": "0100.png",
+      "text": "0100.txt"
+    },
+    {
+      "page_num": 101,
+      "folio": "0101",
+      "section": "libellus",
+      "image": "0101.png",
+      "text": "0101.txt"
+    },
+    {
+      "page_num": 102,
+      "folio": "0102",
+      "section": "libellus",
+      "image": "0102.png",
+      "text": "0102.txt"
+    },
+    {
+      "page_num": 103,
+      "folio": "0103",
+      "section": "libellus",
+      "image": "0103.png",
+      "text": "0103.txt"
+    },
+    {
+      "page_num": 104,
+      "folio": "0104",
+      "section": "libellus",
+      "image": "0104.png",
+      "text": "0104.txt"
+    },
+    {
+      "page_num": 105,
+      "folio": "0105",
+      "section": "libellus",
+      "image": "0105.png",
+      "text": "0105.txt"
+    },
+    {
+      "page_num": 106,
+      "folio": "0106",
+      "section": "libellus",
+      "image": "0106.png",
+      "text": "0106.txt"
+    },
+    {
+      "page_num": 107,
+      "folio": "0107",
+      "section": "libellus",
+      "image": "0107.png",
+      "text": "0107.txt"
+    },
+    {
+      "page_num": 108,
+      "folio": "0108",
+      "section": "libellus",
+      "image": "0108.png",
+      "text": "0108.txt"
+    },
+    {
+      "page_num": 109,
+      "folio": "0109",
+      "section": "libellus",
+      "image": "0109.png",
+      "text": "0109.txt"
+    },
+    {
+      "page_num": 110,
+      "folio": "0110",
+      "section": "libellus",
+      "image": "0110.png",
+      "text": "0110.txt"
+    },
+    {
+      "page_num": 111,
+      "folio": "0111",
+      "section": "libellus",
+      "image": "0111.png",
+      "text": "0111.txt"
+    },
+    {
+      "page_num": 112,
+      "folio": "0112",
+      "section": "libellus",
+      "image": "0112.png",
+      "text": "0112.txt"
+    },
+    {
+      "page_num": 113,
+      "folio": "0113",
+      "section": "libellus",
+      "image": "0113.png",
+      "text": "0113.txt"
+    },
+    {
+      "page_num": 114,
+      "folio": "0114",
+      "section": "libellus",
+      "image": "0114.png",
+      "text": "0114.txt"
+    },
+    {
+      "page_num": 115,
+      "folio": "0115",
+      "section": "libellus",
+      "image": "0115.png",
+      "text": "0115.txt"
+    },
+    {
+      "page_num": 116,
+      "folio": "0116",
+      "section": "libellus",
+      "image": "0116.png",
+      "text": "0116.txt"
+    },
+    {
+      "page_num": 117,
+      "folio": "0117",
+      "section": "libellus",
+      "image": "0117.png",
+      "text": "0117.txt"
+    },
+    {
+      "page_num": 118,
+      "folio": "0118",
+      "section": "libellus",
+      "image": "0118.png",
+      "text": "0118.txt"
+    },
+    {
+      "page_num": 119,
+      "folio": "0119",
+      "section": "libellus",
+      "image": "0119.png",
+      "text": "0119.txt"
+    },
+    {
+      "page_num": 120,
+      "folio": "0120",
+      "section": "libellus",
+      "image": "0120.png",
+      "text": "0120.txt"
+    },
+    {
+      "page_num": 121,
+      "folio": "0121",
+      "section": "libellus",
+      "image": "0121.png",
+      "text": "0121.txt"
+    },
+    {
+      "page_num": 122,
+      "folio": "0122",
+      "section": "libellus",
+      "image": "0122.png",
+      "text": "0122.txt"
+    },
+    {
+      "page_num": 123,
+      "folio": "0123",
+      "section": "libellus",
+      "image": "0123.png",
+      "text": "0123.txt"
+    },
+    {
+      "page_num": 124,
+      "folio": "0124",
+      "section": "libellus",
+      "image": "0124.png",
+      "text": "0124.txt"
+    },
+    {
+      "page_num": 125,
+      "folio": "0125",
+      "section": "libellus",
+      "image": "0125.png",
+      "text": "0125.txt"
+    },
+    {
+      "page_num": 126,
+      "folio": "0126",
+      "section": "libellus",
+      "image": "0126.png",
+      "text": "0126.txt"
+    },
+    {
+      "page_num": 127,
+      "folio": "0127",
+      "section": "libellus",
+      "image": "0127.png",
+      "text": "0127.txt"
+    },
+    {
+      "page_num": 128,
+      "folio": "0128",
+      "section": "libellus",
+      "image": "0128.png",
+      "text": "0128.txt"
+    },
+    {
+      "page_num": 129,
+      "folio": "0129",
+      "section": "libellus",
+      "image": "0129.png",
+      "text": "0129.txt"
+    },
+    {
+      "page_num": 130,
+      "folio": "0130",
+      "section": "libellus",
+      "image": "0130.png",
+      "text": "0130.txt"
+    },
+    {
+      "page_num": 131,
+      "folio": "0131",
+      "section": "libellus",
+      "image": "0131.png",
+      "text": "0131.txt"
+    },
+    {
+      "page_num": 132,
+      "folio": "0132",
+      "section": "libellus",
+      "image": "0132.png",
+      "text": "0132.txt"
+    },
+    {
+      "page_num": 133,
+      "folio": "0133",
+      "section": "libellus",
+      "image": "0133.png",
+      "text": "0133.txt"
+    },
+    {
+      "page_num": 134,
+      "folio": "0134",
+      "section": "libellus",
+      "image": "0134.png",
+      "text": "0134.txt"
+    },
+    {
+      "page_num": 135,
+      "folio": "0135",
+      "section": "libellus",
+      "image": "0135.png",
+      "text": "0135.txt"
+    },
+    {
+      "page_num": 136,
+      "folio": "0136",
+      "section": "alphabet",
+      "image": "0136.png",
+      "text": "0136.txt"
+    },
+    {
+      "page_num": 137,
+      "folio": "0137",
+      "section": "alphabet",
+      "image": "0137.png",
+      "text": "0137.txt"
+    },
+    {
+      "page_num": 138,
+      "folio": "0138",
+      "section": "alphabet",
+      "image": "0138.png",
+      "text": "0138.txt"
+    },
+    {
+      "page_num": 139,
+      "folio": "0139",
+      "section": "alphabet",
+      "image": "0139.png",
+      "text": "0139.txt"
+    },
+    {
+      "page_num": 140,
+      "folio": "0140",
+      "section": "alphabet",
+      "image": "0140.png",
+      "text": "0140.txt"
+    },
+    {
+      "page_num": 141,
+      "folio": "0141",
+      "section": "alphabet",
+      "image": "0141.png",
+      "text": "0141.txt"
+    },
+    {
+      "page_num": 142,
+      "folio": "0142",
+      "section": "alphabet",
+      "image": "0142.png",
+      "text": "0142.txt"
+    },
+    {
+      "page_num": 143,
+      "folio": "0143",
+      "section": "alphabet",
+      "image": "0143.png",
+      "text": "0143.txt"
+    },
+    {
+      "page_num": 144,
+      "folio": "0144",
+      "section": "alphabet",
+      "image": "0144.png",
+      "text": "0144.txt"
+    },
+    {
+      "page_num": 145,
+      "folio": "0145",
+      "section": "alphabet",
+      "image": "0145.png",
+      "text": "0145.txt"
+    },
+    {
+      "page_num": 146,
+      "folio": "0146",
+      "section": "alphabet",
+      "image": "0146.png",
+      "text": "0146.txt"
+    },
+    {
+      "page_num": 147,
+      "folio": "0147",
+      "section": "alphabet",
+      "image": "0147.png",
+      "text": "0147.txt"
+    },
+    {
+      "page_num": 148,
+      "folio": "0148",
+      "section": "alphabet",
+      "image": "0148.png",
+      "text": "0148.txt"
+    },
+    {
+      "page_num": 149,
+      "folio": "0149",
+      "section": "alphabet",
+      "image": "0149.png",
+      "text": "0149.txt"
+    },
+    {
+      "page_num": 150,
+      "folio": "0150",
+      "section": "alphabet",
+      "image": "0150.png",
+      "text": "0150.txt"
+    },
+    {
+      "page_num": 151,
+      "folio": "0151",
+      "section": "alphabet",
+      "image": "0151.png",
+      "text": "0151.txt"
+    },
+    {
+      "page_num": 152,
+      "folio": "0152",
+      "section": "alphabet",
+      "image": "0152.png",
+      "text": "0152.txt"
+    },
+    {
+      "page_num": 153,
+      "folio": "0153",
+      "section": "alphabet",
+      "image": "0153.png",
+      "text": "0153.txt"
+    },
+    {
+      "page_num": 154,
+      "folio": "0154",
+      "section": "alphabet",
+      "image": "0154.png",
+      "text": "0154.txt"
+    },
+    {
+      "page_num": 155,
+      "folio": "0155",
+      "section": "alphabet",
+      "image": "0155.png",
+      "text": "0155.txt"
+    },
+    {
+      "page_num": 156,
+      "folio": "0156",
+      "section": "alphabet",
+      "image": "0156.png",
+      "text": "0156.txt"
+    },
+    {
+      "page_num": 157,
+      "folio": "0157",
+      "section": "alphabet",
+      "image": "0157.png",
+      "text": "0157.txt"
+    },
+    {
+      "page_num": 158,
+      "folio": "0158",
+      "section": "alphabet",
+      "image": "0158.png",
+      "text": "0158.txt"
+    },
+    {
+      "page_num": 159,
+      "folio": "0159",
+      "section": "alphabet",
+      "image": "0159.png",
+      "text": "0159.txt"
+    },
+    {
+      "page_num": 160,
+      "folio": "0160",
+      "section": "alphabet",
+      "image": "0160.png",
+      "text": "0160.txt"
+    },
+    {
+      "page_num": 161,
+      "folio": "0161",
+      "section": "alphabet",
+      "image": "0161.png",
+      "text": "0161.txt"
+    },
+    {
+      "page_num": 162,
+      "folio": "0162",
+      "section": "alphabet",
+      "image": "0162.png",
+      "text": "0162.txt"
+    },
+    {
+      "page_num": 163,
+      "folio": "0163",
+      "section": "alphabet",
+      "image": "0163.png",
+      "text": "0163.txt"
+    },
+    {
+      "page_num": 164,
+      "folio": "0164",
+      "section": "alphabet",
+      "image": "0164.png",
+      "text": "0164.txt"
+    },
+    {
+      "page_num": 165,
+      "folio": "0165",
+      "section": "alphabet",
+      "image": "0165.png",
+      "text": "0165.txt"
+    },
+    {
+      "page_num": 166,
+      "folio": "0166",
+      "section": "alphabet",
+      "image": "0166.png",
+      "text": "0166.txt"
+    },
+    {
+      "page_num": 167,
+      "folio": "0167",
+      "section": "alphabet",
+      "image": "0167.png",
+      "text": "0167.txt"
+    },
+    {
+      "page_num": 168,
+      "folio": "0168",
+      "section": "alphabet",
+      "image": "0168.png",
+      "text": "0168.txt"
+    },
+    {
+      "page_num": 169,
+      "folio": "0169",
+      "section": "alphabet",
+      "image": "0169.png",
+      "text": "0169.txt"
+    },
+    {
+      "page_num": 170,
+      "folio": "0170",
+      "section": "alphabet",
+      "image": "0170.png",
+      "text": "0170.txt"
+    },
+    {
+      "page_num": 171,
+      "folio": "0171",
+      "section": "alphabet",
+      "image": "0171.png",
+      "text": "0171.txt"
+    },
+    {
+      "page_num": 172,
+      "folio": "0172",
+      "section": "alphabet",
+      "image": "0172.png",
+      "text": "0172.txt"
+    },
+    {
+      "page_num": 173,
+      "folio": "0173",
+      "section": "alphabet",
+      "image": "0173.png",
+      "text": "0173.txt"
+    },
+    {
+      "page_num": 174,
+      "folio": "0174",
+      "section": "alphabet",
+      "image": "0174.png",
+      "text": "0174.txt"
+    },
+    {
+      "page_num": 175,
+      "folio": "0175",
+      "section": "alphabet",
+      "image": "0175.png",
+      "text": "0175.txt"
+    },
+    {
+      "page_num": 176,
+      "folio": "0176",
+      "section": "alphabet",
+      "image": "0176.png",
+      "text": "0176.txt"
+    },
+    {
+      "page_num": 177,
+      "folio": "0177",
+      "section": "alphabet",
+      "image": "0177.png",
+      "text": "0177.txt"
+    },
+    {
+      "page_num": 178,
+      "folio": "0178",
+      "section": "alphabet",
+      "image": "0178.png",
+      "text": "0178.txt"
+    },
+    {
+      "page_num": 179,
+      "folio": "0179",
+      "section": "alphabet",
+      "image": "0179.png",
+      "text": "0179.txt"
+    },
+    {
+      "page_num": 180,
+      "folio": "0180",
+      "section": "alphabet",
+      "image": "0180.png",
+      "text": "0180.txt"
+    },
+    {
+      "page_num": 181,
+      "folio": "0181",
+      "section": "alphabet",
+      "image": "0181.png",
+      "text": "0181.txt"
+    },
+    {
+      "page_num": 182,
+      "folio": "0182",
+      "section": "alphabet",
+      "image": "0182.png",
+      "text": "0182.txt"
+    },
+    {
+      "page_num": 183,
+      "folio": "0183",
+      "section": "alphabet",
+      "image": "0183.png",
+      "text": "0183.txt"
+    },
+    {
+      "page_num": 184,
+      "folio": "0184",
+      "section": "alphabet",
+      "image": "0184.png",
+      "text": "0184.txt"
+    },
+    {
+      "page_num": 185,
+      "folio": "0185",
+      "section": "alphabet",
+      "image": "0185.png",
+      "text": "0185.txt"
+    },
+    {
+      "page_num": 186,
+      "folio": "0186",
+      "section": "alphabet",
+      "image": "0186.png",
+      "text": "0186.txt"
+    },
+    {
+      "page_num": 187,
+      "folio": "0187",
+      "section": "polyhedra_plates",
+      "image": "0187.png",
+      "text": "0187.txt"
+    },
+    {
+      "page_num": 188,
+      "folio": "0188",
+      "section": "polyhedra_plates",
+      "image": "0188.png",
+      "text": "0188.txt"
+    },
+    {
+      "page_num": 189,
+      "folio": "0189",
+      "section": "polyhedra_plates",
+      "image": "0189.png",
+      "text": "0189.txt"
+    },
+    {
+      "page_num": 190,
+      "folio": "0190",
+      "section": "polyhedra_plates",
+      "image": "0190.png",
+      "text": "0190.txt"
+    },
+    {
+      "page_num": 191,
+      "folio": "0191",
+      "section": "polyhedra_plates",
+      "image": "0191.png",
+      "text": "0191.txt"
+    },
+    {
+      "page_num": 192,
+      "folio": "0192",
+      "section": "polyhedra_plates",
+      "image": "0192.png",
+      "text": "0192.txt"
+    },
+    {
+      "page_num": 193,
+      "folio": "0193",
+      "section": "polyhedra_plates",
+      "image": "0193.png",
+      "text": "0193.txt"
+    },
+    {
+      "page_num": 194,
+      "folio": "0194",
+      "section": "polyhedra_plates",
+      "image": "0194.png",
+      "text": "0194.txt"
+    },
+    {
+      "page_num": 195,
+      "folio": "0195",
+      "section": "polyhedra_plates",
+      "image": "0195.png",
+      "text": "0195.txt"
+    },
+    {
+      "page_num": 196,
+      "folio": "0196",
+      "section": "polyhedra_plates",
+      "image": "0196.png",
+      "text": "0196.txt"
+    },
+    {
+      "page_num": 197,
+      "folio": "0197",
+      "section": "polyhedra_plates",
+      "image": "0197.png",
+      "text": "0197.txt"
+    },
+    {
+      "page_num": 198,
+      "folio": "0198",
+      "section": "polyhedra_plates",
+      "image": "0198.png",
+      "text": "0198.txt"
+    },
+    {
+      "page_num": 199,
+      "folio": "0199",
+      "section": "polyhedra_plates",
+      "image": "0199.png",
+      "text": "0199.txt"
+    },
+    {
+      "page_num": 200,
+      "folio": "0200",
+      "section": "polyhedra_plates",
+      "image": "0200.png",
+      "text": "0200.txt"
+    },
+    {
+      "page_num": 201,
+      "folio": "0201",
+      "section": "polyhedra_plates",
+      "image": "0201.png",
+      "text": "0201.txt"
+    },
+    {
+      "page_num": 202,
+      "folio": "0202",
+      "section": "polyhedra_plates",
+      "image": "0202.png",
+      "text": "0202.txt"
+    },
+    {
+      "page_num": 203,
+      "folio": "0203",
+      "section": "polyhedra_plates",
+      "image": "0203.png",
+      "text": "0203.txt"
+    },
+    {
+      "page_num": 204,
+      "folio": "0204",
+      "section": "polyhedra_plates",
+      "image": "0204.png",
+      "text": "0204.txt"
+    },
+    {
+      "page_num": 205,
+      "folio": "0205",
+      "section": "polyhedra_plates",
+      "image": "0205.png",
+      "text": "0205.txt"
+    },
+    {
+      "page_num": 206,
+      "folio": "0206",
+      "section": "polyhedra_plates",
+      "image": "0206.png",
+      "text": "0206.txt"
+    },
+    {
+      "page_num": 207,
+      "folio": "0207",
+      "section": "polyhedra_plates",
+      "image": "0207.png",
+      "text": "0207.txt"
+    },
+    {
+      "page_num": 208,
+      "folio": "0208",
+      "section": "polyhedra_plates",
+      "image": "0208.png",
+      "text": "0208.txt"
+    },
+    {
+      "page_num": 209,
+      "folio": "0209",
+      "section": "polyhedra_plates",
+      "image": "0209.png",
+      "text": "0209.txt"
+    },
+    {
+      "page_num": 210,
+      "folio": "0210",
+      "section": "polyhedra_plates",
+      "image": "0210.png",
+      "text": "0210.txt"
+    },
+    {
+      "page_num": 211,
+      "folio": "0211",
+      "section": "polyhedra_plates",
+      "image": "0211.png",
+      "text": "0211.txt"
+    },
+    {
+      "page_num": 212,
+      "folio": "0212",
+      "section": "polyhedra_plates",
+      "image": "0212.png",
+      "text": "0212.txt"
+    },
+    {
+      "page_num": 213,
+      "folio": "0213",
+      "section": "polyhedra_plates",
+      "image": "0213.png",
+      "text": "0213.txt"
+    },
+    {
+      "page_num": 214,
+      "folio": "0214",
+      "section": "polyhedra_plates",
+      "image": "0214.png",
+      "text": "0214.txt"
+    },
+    {
+      "page_num": 215,
+      "folio": "0215",
+      "section": "polyhedra_plates",
+      "image": "0215.png",
+      "text": "0215.txt"
+    },
+    {
+      "page_num": 216,
+      "folio": "0216",
+      "section": "polyhedra_plates",
+      "image": "0216.png",
+      "text": "0216.txt"
+    },
+    {
+      "page_num": 217,
+      "folio": "0217",
+      "section": "polyhedra_plates",
+      "image": "0217.png",
+      "text": "0217.txt"
+    },
+    {
+      "page_num": 218,
+      "folio": "0218",
+      "section": "polyhedra_plates",
+      "image": "0218.png",
+      "text": "0218.txt"
+    },
+    {
+      "page_num": 219,
+      "folio": "0219",
+      "section": "polyhedra_plates",
+      "image": "0219.png",
+      "text": "0219.txt"
+    },
+    {
+      "page_num": 220,
+      "folio": "0220",
+      "section": "polyhedra_plates",
+      "image": "0220.png",
+      "text": "0220.txt"
+    },
+    {
+      "page_num": 221,
+      "folio": "0221",
+      "section": "polyhedra_plates",
+      "image": "0221.png",
+      "text": "0221.txt"
+    },
+    {
+      "page_num": 222,
+      "folio": "0222",
+      "section": "polyhedra_plates",
+      "image": "0222.png",
+      "text": "0222.txt"
+    },
+    {
+      "page_num": 223,
+      "folio": "0223",
+      "section": "polyhedra_plates",
+      "image": "0223.png",
+      "text": "0223.txt"
+    },
+    {
+      "page_num": 224,
+      "folio": "0224",
+      "section": "polyhedra_plates",
+      "image": "0224.png",
+      "text": "0224.txt"
+    },
+    {
+      "page_num": 225,
+      "folio": "0225",
+      "section": "polyhedra_plates",
+      "image": "0225.png",
+      "text": "0225.txt"
+    },
+    {
+      "page_num": 226,
+      "folio": "0226",
+      "section": "polyhedra_plates",
+      "image": "0226.png",
+      "text": "0226.txt"
+    },
+    {
+      "page_num": 227,
+      "folio": "0227",
+      "section": "polyhedra_plates",
+      "image": "0227.png",
+      "text": "0227.txt"
+    },
+    {
+      "page_num": 228,
+      "folio": "0228",
+      "section": "polyhedra_plates",
+      "image": "0228.png",
+      "text": "0228.txt"
+    },
+    {
+      "page_num": 229,
+      "folio": "0229",
+      "section": "polyhedra_plates",
+      "image": "0229.png",
+      "text": "0229.txt"
+    },
+    {
+      "page_num": 230,
+      "folio": "0230",
+      "section": "polyhedra_plates",
+      "image": "0230.png",
+      "text": "0230.txt"
+    },
+    {
+      "page_num": 231,
+      "folio": "0231",
+      "section": "polyhedra_plates",
+      "image": "0231.png",
+      "text": "0231.txt"
+    },
+    {
+      "page_num": 232,
+      "folio": "0232",
+      "section": "polyhedra_plates",
+      "image": "0232.png",
+      "text": "0232.txt"
+    },
+    {
+      "page_num": 233,
+      "folio": "0233",
+      "section": "polyhedra_plates",
+      "image": "0233.png",
+      "text": "0233.txt"
+    },
+    {
+      "page_num": 234,
+      "folio": "0234",
+      "section": "polyhedra_plates",
+      "image": "0234.png",
+      "text": "0234.txt"
+    },
+    {
+      "page_num": 235,
+      "folio": "0235",
+      "section": "polyhedra_plates",
+      "image": "0235.png",
+      "text": "0235.txt"
+    },
+    {
+      "page_num": 236,
+      "folio": "0236",
+      "section": "polyhedra_plates",
+      "image": "0236.png",
+      "text": "0236.txt"
+    },
+    {
+      "page_num": 237,
+      "folio": "0237",
+      "section": "polyhedra_plates",
+      "image": "0237.png",
+      "text": "0237.txt"
+    },
+    {
+      "page_num": 238,
+      "folio": "0238",
+      "section": "polyhedra_plates",
+      "image": "0238.png",
+      "text": "0238.txt"
+    },
+    {
+      "page_num": 239,
+      "folio": "0239",
+      "section": "polyhedra_plates",
+      "image": "0239.png",
+      "text": "0239.txt"
+    },
+    {
+      "page_num": 240,
+      "folio": "0240",
+      "section": "polyhedra_plates",
+      "image": "0240.png",
+      "text": "0240.txt"
+    },
+    {
+      "page_num": 241,
+      "folio": "0241",
+      "section": "polyhedra_plates",
+      "image": "0241.png",
+      "text": "0241.txt"
+    },
+    {
+      "page_num": 242,
+      "folio": "0242",
+      "section": "polyhedra_plates",
+      "image": "0242.png",
+      "text": "0242.txt"
+    },
+    {
+      "page_num": 243,
+      "folio": "0243",
+      "section": "polyhedra_plates",
+      "image": "0243.png",
+      "text": "0243.txt"
+    },
+    {
+      "page_num": 244,
+      "folio": "0244",
+      "section": "polyhedra_plates",
+      "image": "0244.png",
+      "text": "0244.txt"
+    },
+    {
+      "page_num": 245,
+      "folio": "0245",
+      "section": "polyhedra_plates",
+      "image": "0245.png",
+      "text": "0245.txt"
+    },
+    {
+      "page_num": 246,
+      "folio": "0246",
+      "section": "polyhedra_plates",
+      "image": "0246.png",
+      "text": "0246.txt"
+    },
+    {
+      "page_num": 247,
+      "folio": "0247",
+      "section": "polyhedra_plates",
+      "image": "0247.png",
+      "text": "0247.txt"
+    },
+    {
+      "page_num": 248,
+      "folio": "0248",
+      "section": "polyhedra_plates",
+      "image": "0248.png",
+      "text": "0248.txt"
+    },
+    {
+      "page_num": 249,
+      "folio": "0249",
+      "section": "polyhedra_plates",
+      "image": "0249.png",
+      "text": "0249.txt"
+    },
+    {
+      "page_num": 250,
+      "folio": "0250",
+      "section": "polyhedra_plates",
+      "image": "0250.png",
+      "text": "0250.txt"
+    },
+    {
+      "page_num": 251,
+      "folio": "0251",
+      "section": "polyhedra_plates",
+      "image": "0251.png",
+      "text": "0251.txt"
+    },
+    {
+      "page_num": 252,
+      "folio": "0252",
+      "section": "polyhedra_plates",
+      "image": "0252.png",
+      "text": "0252.txt"
+    },
+    {
+      "page_num": 253,
+      "folio": "0253",
+      "section": "polyhedra_plates",
+      "image": "0253.png",
+      "text": "0253.txt"
+    },
+    {
+      "page_num": 254,
+      "folio": "0254",
+      "section": "polyhedra_plates",
+      "image": "0254.png",
+      "text": "0254.txt"
+    },
+    {
+      "page_num": 255,
+      "folio": "0255",
+      "section": "polyhedra_plates",
+      "image": "0255.png",
+      "text": "0255.txt"
+    },
+    {
+      "page_num": 256,
+      "folio": "0256",
+      "section": "polyhedra_plates",
+      "image": "0256.png",
+      "text": "0256.txt"
+    },
+    {
+      "page_num": 257,
+      "folio": "0257",
+      "section": "polyhedra_plates",
+      "image": "0257.png",
+      "text": "0257.txt"
+    },
+    {
+      "page_num": 258,
+      "folio": "0258",
+      "section": "polyhedra_plates",
+      "image": "0258.png",
+      "text": "0258.txt"
+    },
+    {
+      "page_num": 259,
+      "folio": "0259",
+      "section": "polyhedra_plates",
+      "image": "0259.png",
+      "text": "0259.txt"
+    },
+    {
+      "page_num": 260,
+      "folio": "0260",
+      "section": "polyhedra_plates",
+      "image": "0260.png",
+      "text": "0260.txt"
+    },
+    {
+      "page_num": 261,
+      "folio": "0261",
+      "section": "polyhedra_plates",
+      "image": "0261.png",
+      "text": "0261.txt"
+    },
+    {
+      "page_num": 262,
+      "folio": "0262",
+      "section": "polyhedra_plates",
+      "image": "0262.png",
+      "text": "0262.txt"
+    },
+    {
+      "page_num": 263,
+      "folio": "0263",
+      "section": "polyhedra_plates",
+      "image": "0263.png",
+      "text": "0263.txt"
+    },
+    {
+      "page_num": 264,
+      "folio": "0264",
+      "section": "polyhedra_plates",
+      "image": "0264.png",
+      "text": "0264.txt"
+    },
+    {
+      "page_num": 265,
+      "folio": "0265",
+      "section": "polyhedra_plates",
+      "image": "0265.png",
+      "text": "0265.txt"
+    },
+    {
+      "page_num": 266,
+      "folio": "0266",
+      "section": "polyhedra_plates",
+      "image": "0266.png",
+      "text": "0266.txt"
+    },
+    {
+      "page_num": 267,
+      "folio": "0267",
+      "section": "polyhedra_plates",
+      "image": "0267.png",
+      "text": "0267.txt"
+    },
+    {
+      "page_num": 268,
+      "folio": "0268",
+      "section": "polyhedra_plates",
+      "image": "0268.png",
+      "text": "0268.txt"
+    },
+    {
+      "page_num": 269,
+      "folio": "0269",
+      "section": "polyhedra_plates",
+      "image": "0269.png",
+      "text": "0269.txt"
+    },
+    {
+      "page_num": 270,
+      "folio": "0270",
+      "section": "polyhedra_plates",
+      "image": "0270.png",
+      "text": "0270.txt"
+    },
+    {
+      "page_num": 271,
+      "folio": "0271",
+      "section": "polyhedra_plates",
+      "image": "0271.png",
+      "text": "0271.txt"
+    },
+    {
+      "page_num": 272,
+      "folio": "0272",
+      "section": "polyhedra_plates",
+      "image": "0272.png",
+      "text": "0272.txt"
+    },
+    {
+      "page_num": 273,
+      "folio": "0273",
+      "section": "polyhedra_plates",
+      "image": "0273.png",
+      "text": "0273.txt"
+    },
+    {
+      "page_num": 274,
+      "folio": "0274",
+      "section": "polyhedra_plates",
+      "image": "0274.png",
+      "text": "0274.txt"
+    },
+    {
+      "page_num": 275,
+      "folio": "0275",
+      "section": "polyhedra_plates",
+      "image": "0275.png",
+      "text": "0275.txt"
+    },
+    {
+      "page_num": 276,
+      "folio": "0276",
+      "section": "polyhedra_plates",
+      "image": "0276.png",
+      "text": "0276.txt"
+    },
+    {
+      "page_num": 277,
+      "folio": "0277",
+      "section": "polyhedra_plates",
+      "image": "0277.png",
+      "text": "0277.txt"
+    },
+    {
+      "page_num": 278,
+      "folio": "0278",
+      "section": "polyhedra_plates",
+      "image": "0278.png",
+      "text": "0278.txt"
+    },
+    {
+      "page_num": 279,
+      "folio": "0279",
+      "section": "polyhedra_plates",
+      "image": "0279.png",
+      "text": "0279.txt"
+    },
+    {
+      "page_num": 280,
+      "folio": "0280",
+      "section": "polyhedra_plates",
+      "image": "0280.png",
+      "text": "0280.txt"
+    },
+    {
+      "page_num": 281,
+      "folio": "0281",
+      "section": "polyhedra_plates",
+      "image": "0281.png",
+      "text": "0281.txt"
+    },
+    {
+      "page_num": 282,
+      "folio": "0282",
+      "section": "polyhedra_plates",
+      "image": "0282.png",
+      "text": "0282.txt"
+    },
+    {
+      "page_num": 283,
+      "folio": "0283",
+      "section": "polyhedra_plates",
+      "image": "0283.png",
+      "text": "0283.txt"
+    },
+    {
+      "page_num": 284,
+      "folio": "0284",
+      "section": "polyhedra_plates",
+      "image": "0284.png",
+      "text": "0284.txt"
+    },
+    {
+      "page_num": 285,
+      "folio": "0285",
+      "section": "polyhedra_plates",
+      "image": "0285.png",
+      "text": "0285.txt"
+    },
+    {
+      "page_num": 286,
+      "folio": "0286",
+      "section": "polyhedra_plates",
+      "image": "0286.png",
+      "text": "0286.txt"
+    },
+    {
+      "page_num": 287,
+      "folio": "0287",
+      "section": "polyhedra_plates",
+      "image": "0287.png",
+      "text": "0287.txt"
+    },
+    {
+      "page_num": 288,
+      "folio": "0288",
+      "section": "polyhedra_plates",
+      "image": "0288.png",
+      "text": "0288.txt"
+    },
+    {
+      "page_num": 289,
+      "folio": "0289",
+      "section": "polyhedra_plates",
+      "image": "0289.png",
+      "text": "0289.txt"
+    },
+    {
+      "page_num": 290,
+      "folio": "0290",
+      "section": "polyhedra_plates",
+      "image": "0290.png",
+      "text": "0290.txt"
+    },
+    {
+      "page_num": 291,
+      "folio": "0291",
+      "section": "polyhedra_plates",
+      "image": "0291.png",
+      "text": "0291.txt"
+    },
+    {
+      "page_num": 292,
+      "folio": "0292",
+      "section": "polyhedra_plates",
+      "image": "0292.png",
+      "text": "0292.txt"
+    },
+    {
+      "page_num": 293,
+      "folio": "0293",
+      "section": "polyhedra_plates",
+      "image": "0293.png",
+      "text": "0293.txt"
+    },
+    {
+      "page_num": 294,
+      "folio": "0294",
+      "section": "polyhedra_plates",
+      "image": "0294.png",
+      "text": "0294.txt"
+    },
+    {
+      "page_num": 295,
+      "folio": "0295",
+      "section": "polyhedra_plates",
+      "image": "0295.png",
+      "text": "0295.txt"
+    },
+    {
+      "page_num": 296,
+      "folio": "0296",
+      "section": "polyhedra_plates",
+      "image": "0296.png",
+      "text": "0296.txt"
+    },
+    {
+      "page_num": 297,
+      "folio": "0297",
+      "section": "polyhedra_plates",
+      "image": "0297.png",
+      "text": "0297.txt"
+    },
+    {
+      "page_num": 298,
+      "folio": "0298",
+      "section": "polyhedra_plates",
+      "image": "0298.png",
+      "text": "0298.txt"
+    },
+    {
+      "page_num": 299,
+      "folio": "0299",
+      "section": "polyhedra_plates",
+      "image": "0299.png",
+      "text": "0299.txt"
+    },
+    {
+      "page_num": 300,
+      "folio": "0300",
+      "section": "polyhedra_plates",
+      "image": "0300.png",
+      "text": "0300.txt"
+    },
+    {
+      "page_num": 301,
+      "folio": "0301",
+      "section": "polyhedra_plates",
+      "image": "0301.png",
+      "text": "0301.txt"
+    },
+    {
+      "page_num": 302,
+      "folio": "0302",
+      "section": "polyhedra_plates",
+      "image": "0302.png",
+      "text": "0302.txt"
+    },
+    {
+      "page_num": 303,
+      "folio": "0303",
+      "section": "polyhedra_plates",
+      "image": "0303.png",
+      "text": "0303.txt"
+    },
+    {
+      "page_num": 304,
+      "folio": "0304",
+      "section": "polyhedra_plates",
+      "image": "0304.png",
+      "text": "0304.txt"
+    },
+    {
+      "page_num": 305,
+      "folio": "0305",
+      "section": "polyhedra_plates",
+      "image": "0305.png",
+      "text": "0305.txt"
+    },
+    {
+      "page_num": 306,
+      "folio": "0306",
+      "section": "polyhedra_plates",
+      "image": "0306.png",
+      "text": "0306.txt"
+    },
+    {
+      "page_num": 307,
+      "folio": "0307",
+      "section": "polyhedra_plates",
+      "image": "0307.png",
+      "text": "0307.txt"
+    },
+    {
+      "page_num": 308,
+      "folio": "0308",
+      "section": "polyhedra_plates",
+      "image": "0308.png",
+      "text": "0308.txt"
+    },
+    {
+      "page_num": 309,
+      "folio": "0309",
+      "section": "polyhedra_plates",
+      "image": "0309.png",
+      "text": "0309.txt"
+    },
+    {
+      "page_num": 310,
+      "folio": "0310",
+      "section": "polyhedra_plates",
+      "image": "0310.png",
+      "text": "0310.txt"
+    },
+    {
+      "page_num": 311,
+      "folio": "0311",
+      "section": "polyhedra_plates",
+      "image": "0311.png",
+      "text": "0311.txt"
+    },
+    {
+      "page_num": 312,
+      "folio": "0312",
+      "section": "polyhedra_plates",
+      "image": "0312.png",
+      "text": "0312.txt"
+    },
+    {
+      "page_num": 313,
+      "folio": "0313",
+      "section": "polyhedra_plates",
+      "image": "0313.png",
+      "text": "0313.txt"
+    },
+    {
+      "page_num": 314,
+      "folio": "0314",
+      "section": "polyhedra_plates",
+      "image": "0314.png",
+      "text": "0314.txt"
+    },
+    {
+      "page_num": 315,
+      "folio": "0315",
+      "section": "end_matter",
+      "image": "0315.png",
+      "text": "0315.txt"
+    },
+    {
+      "page_num": 316,
+      "folio": "0316",
+      "section": "end_matter",
+      "image": "0316.png",
+      "text": "0316.txt"
+    },
+    {
+      "page_num": 317,
+      "folio": "0317",
+      "section": "end_matter",
+      "image": "0317.png",
+      "text": "0317.txt"
+    },
+    {
+      "page_num": 318,
+      "folio": "0318",
+      "section": "end_matter",
+      "image": "0318.png",
+      "text": "0318.txt"
+    }
+  ]
+}
