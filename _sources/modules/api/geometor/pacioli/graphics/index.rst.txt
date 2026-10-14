@@ -1,0 +1,88 @@
+geometor.pacioli.graphics
+=========================
+
+.. py:module:: geometor.pacioli.graphics
+
+.. autoapi-nested-parse::
+
+   Module and CLI utility for graphic detection, cropping, and managing <folio>.json for Pacioli.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.pacioli.graphics.cv2
+   geometor.pacioli.graphics.scipy
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.pacioli.graphics.clean_image
+   geometor.pacioli.graphics.detect_graphics_scipy
+   geometor.pacioli.graphics.detect_graphics_cv
+   geometor.pacioli.graphics.detect_margin_figures
+   geometor.pacioli.graphics.detect_graphics_folio
+   geometor.pacioli.graphics.detect_single_image
+   geometor.pacioli.graphics.extract_from_json
+   geometor.pacioli.graphics.main
+
+
+Module Contents
+---------------
+
+.. py:data:: cv2
+   :value: None
+
+
+.. py:data:: scipy
+   :value: None
+
+
+.. py:function:: clean_image(pil_image: PIL.Image.Image, white_point: int = 226) -> PIL.Image.Image
+
+   Applies a linear levels adjustment to the image, mapping white_point to pure white (255).
+
+   Effectively eliminates bleed-through, yellowed paper background, and scanning artifacts.
+
+
+.. py:function:: detect_graphics_scipy(image_path: pathlib.Path) -> List[Dict[str, Any]]
+
+   Detect diagrams/figures on a folio using pure NumPy and SciPy.
+
+
+.. py:function:: detect_graphics_cv(image_path: pathlib.Path) -> List[Dict[str, Any]]
+
+   Detect graphics using OpenCV if available, falling back to SciPy.
+
+
+.. py:function:: detect_margin_figures(image_path: pathlib.Path, is_recto: bool) -> List[Dict[str, Any]]
+
+   Detect distinct geometric diagrams in the outer margin of a text folio.
+
+
+.. py:function:: detect_graphics_folio(image_path: pathlib.Path) -> List[Dict[str, Any]]
+
+   Context-aware graphic detection based on folio page number and book section.
+
+
+.. py:function:: detect_single_image(img_path: pathlib.Path, save: bool = False, force: bool = False) -> None
+
+   Detect graphic bounding box(es) on a single folio scan and optionally save <folio>.json.
+
+
+.. py:function:: extract_from_json(json_path: pathlib.Path, no_clean: bool = False, no_invert: bool = False) -> None
+
+   Extract all graphics defined in a <folio>.json file from the corresponding folio scan.
+
+
+.. py:function:: main() -> None
+
+   CLI for managing graphics in Pacioli folios.
+
+

@@ -1,0 +1,184 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>geometor.pacioli.parse_winterberg &mdash; Project name not set  documentation</title>
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/css/styles.css?v=38c7a96b" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" href="../../../../../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../../../../../_static/favicon.ico" />
+</head>
+
+<body>
+  <header>
+    <div class="logo">
+      <a href="../../../../../index.html">
+        <img src="../../../../../_static/logo.png" class="logo" alt="Logo"/>
+      </a>
+      <div class="org-repo">
+        <span class="org">geometor</span>
+        •
+        <span class="repo">pacioli</span>
+      </div>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../../../../../mission/index.html"  >mission</a>
+        </li>
+        <li>
+          <a href="../../../../../books/index.html"  >Books</a>
+        </li>
+        <li>
+          <a href="../../../../../usage/index.html"  >usage</a>
+        </li>
+        <li>
+          <a href="../../../../index.html"  >modules</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main>
+    <article>
+      <header>
+      <nav class="breadcrumbs">
+        <span><a href="../../../../../index.html">Home</a></span>
+          <span>/</span>
+        <span><a href="../../../../index.html">modules</a></span>
+      </nav>
+        <nav class="context">
+          <div class="prev">
+             <a href="../pacioli/index.html" title="geometor.pacioli.pacioli" >Prev</a>
+          </div>
+          <div class="next">
+            <a href="../parser/index.html" title="geometor.pacioli.parser" >Next</a>
+          </div>
+        </nav>
+      </header>
+      <div class="content">
+        <section id="module-geometor.pacioli.parse_winterberg">
+          <span id="geometor-pacioli-parse-winterberg"></span><h1>geometor.pacioli.parse_winterberg<a class="headerlink" href="#module-geometor.pacioli.parse_winterberg" title="Link to this heading">¶</a></h1>
+          <section id="functions">
+          <h2>Functions<a class="headerlink" href="#functions" title="Link to this heading">¶</a></h2>
+          <table class="autosummary longtable docutils align-default">
+          <tbody>
+          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.parse_winterberg.clean_lines" title="geometor.pacioli.parse_winterberg.clean_lines"><code class="xref py py-obj docutils literal notranslate"><span class="pre">clean_lines</span></code></a>(→ List[str])</p></td>
+          <td><p>Remove page artifacts and clean text.</p></td>
+          </tr>
+          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.parse_winterberg.parse_winterberg" title="geometor.pacioli.parse_winterberg.parse_winterberg"><code class="xref py py-obj docutils literal notranslate"><span class="pre">parse_winterberg</span></code></a>()</p></td>
+          <td><p>Parses the Winterberg text file into top-level sections.</p></td>
+          </tr>
+          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.parse_winterberg.split_intro" title="geometor.pacioli.parse_winterberg.split_intro"><code class="xref py py-obj docutils literal notranslate"><span class="pre">split_intro</span></code></a>(lines, output_dir)</p></td>
+          <td><p>Splits the intro file into metadata, title page, and introduction.</p></td>
+          </tr>
+          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.parse_winterberg.split_book_into_chapters" title="geometor.pacioli.parse_winterberg.split_book_into_chapters"><code class="xref py py-obj docutils literal notranslate"><span class="pre">split_book_into_chapters</span></code></a>(lines, output_dir, filename)</p></td>
+          <td><p>Split book lines into chapter files.</p></td>
+          </tr>
+          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.parse_winterberg.extract_trailing_title" title="geometor.pacioli.parse_winterberg.extract_trailing_title"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_trailing_title</span></code></a>(lines)</p></td>
+          <td><p>Looks for a parenthetical block at the end of lines.</p></td>
+          </tr>
+          </tbody>
+          </table>
+          </section>
+          <section id="module-contents">
+          <h2>Module Contents<a class="headerlink" href="#module-contents" title="Link to this heading">¶</a></h2>
+          <dl class="py function">
+          <dt class="sig sig-object py" id="geometor.pacioli.parse_winterberg.clean_lines">
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.parse_winterberg.</span></span><span class="sig-name descname"><span class="pre">clean_lines</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">lines</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">]</span></span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.pacioli.parse_winterberg.clean_lines" title="Link to this definition">¶</a></dt>
+          <dd><p>Remove page artifacts and clean text.</p>
+          </dd></dl>
+
+          <dl class="py function">
+          <dt class="sig sig-object py" id="geometor.pacioli.parse_winterberg.parse_winterberg">
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.parse_winterberg.</span></span><span class="sig-name descname"><span class="pre">parse_winterberg</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#geometor.pacioli.parse_winterberg.parse_winterberg" title="Link to this definition">¶</a></dt>
+          <dd><p>Parses the Winterberg text file into top-level sections.</p>
+          </dd></dl>
+
+          <dl class="py function">
+          <dt class="sig sig-object py" id="geometor.pacioli.parse_winterberg.split_intro">
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.parse_winterberg.</span></span><span class="sig-name descname"><span class="pre">split_intro</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">lines</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">]</span></span></span></em>, <em class="sig-param"><span class="n"><span class="pre">output_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.pacioli.parse_winterberg.split_intro" title="Link to this definition">¶</a></dt>
+          <dd><p>Splits the intro file into metadata, title page, and introduction.</p>
+          </dd></dl>
+
+          <dl class="py function">
+          <dt class="sig sig-object py" id="geometor.pacioli.parse_winterberg.split_book_into_chapters">
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.parse_winterberg.</span></span><span class="sig-name descname"><span class="pre">split_book_into_chapters</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">lines</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">]</span></span></span></em>, <em class="sig-param"><span class="n"><span class="pre">output_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">filename</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.pacioli.parse_winterberg.split_book_into_chapters" title="Link to this definition">¶</a></dt>
+          <dd><p>Split book lines into chapter files.</p>
+          </dd></dl>
+
+          <dl class="py function">
+          <dt class="sig sig-object py" id="geometor.pacioli.parse_winterberg.extract_trailing_title">
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.parse_winterberg.</span></span><span class="sig-name descname"><span class="pre">extract_trailing_title</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">lines</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">]</span></span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.pacioli.parse_winterberg.extract_trailing_title" title="Link to this definition">¶</a></dt>
+          <dd><p>Looks for a parenthetical block at the end of lines.
+          Returns (subtitle_lines, remaining_lines).
+          Subtitle lines include the parentheses.</p>
+          </dd></dl>
+
+          </section>
+          </section>
+
+      </div>
+      <footer>
+
+        <nav class="context">
+          <div class="prev">
+             <a href="../pacioli/index.html" title="geometor.pacioli.pacioli" >Prev</a>
+          </div>
+          <div class="next">
+            <a href="../parser/index.html" title="geometor.pacioli.parser" >Next</a>
+          </div>
+        </nav>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside>
+      <h3>Search</h3>
+      <div role="search">
+        <form id="rtd-search-form" class="wy-form" action="../../../../../search.html" method="get">
+          <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+    <aside class="aside-types">
+      <h3>Types</h3>
+      <ul>
+        <li><a href="../../../../../types/book.html">book</a></li>
+        <li><a href="../../../../../types/chapter.html">chapter</a></li>
+      </ul>
+    </aside>
+  </div>
+  <footer>
+    <div class="footer-nav">
+      <ul>
+        <li><a href="../../../../../about.html">about</a></li>
+        <li><a href="../../../../../connect.html">connect</a></li>
+      </ul>
+    </div>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright .
+      </p>
+    </div>
+  </footer>
+
+  <script src="../../../../../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../../../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../../../../../_static/documentation_options.js?v=5929fcd5"></script>
+  <script src="../../../../../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../../../../../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../../../../../_static/js/collection_controls.js?v=b6b5297a"></script>
+
+</body>
+</html>

@@ -1,0 +1,232 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>geometor.pacioli.extraction &mdash; Project name not set  documentation</title>
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/css/styles.css?v=38c7a96b" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" href="../../../../../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../../../../../_static/favicon.ico" />
+</head>
+
+<body>
+  <header>
+    <div class="logo">
+      <a href="../../../../../index.html">
+        <img src="../../../../../_static/logo.png" class="logo" alt="Logo"/>
+      </a>
+      <div class="org-repo">
+        <span class="org">geometor</span>
+        •
+        <span class="repo">pacioli</span>
+      </div>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../../../../../mission/index.html"  >mission</a>
+        </li>
+        <li>
+          <a href="../../../../../books/index.html"  >Books</a>
+        </li>
+        <li>
+          <a href="../../../../../usage/index.html"  >usage</a>
+        </li>
+        <li>
+          <a href="../../../../index.html"  >modules</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main>
+    <article>
+      <header>
+      <nav class="breadcrumbs">
+        <span><a href="../../../../../index.html">Home</a></span>
+          <span>/</span>
+        <span><a href="../../../../index.html">modules</a></span>
+      </nav>
+        <nav class="context">
+          <div class="prev">
+             <a href="../app/index.html" title="geometor.pacioli.app" >Prev</a>
+          </div>
+          <div class="next">
+            <a href="../graphics/index.html" title="geometor.pacioli.graphics" >Next</a>
+          </div>
+        </nav>
+      </header>
+      <div class="content">
+        <section id="module-geometor.pacioli.extraction">
+          <span id="geometor-pacioli-extraction"></span><h1>geometor.pacioli.extraction<a class="headerlink" href="#module-geometor.pacioli.extraction" title="Link to this heading">¶</a></h1>
+          <p>Module for extracting folios (images, text, manifests) from De Divina Proportione scans.</p>
+          <section id="attributes">
+          <h2>Attributes<a class="headerlink" href="#attributes" title="Link to this heading">¶</a></h2>
+          <table class="autosummary longtable docutils align-default">
+          <tbody>
+          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.DEFAULT_PDF_PATH" title="geometor.pacioli.extraction.DEFAULT_PDF_PATH"><code class="xref py py-obj docutils literal notranslate"><span class="pre">DEFAULT_PDF_PATH</span></code></a></p></td>
+          <td><p></p></td>
+          </tr>
+          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.DEFAULT_OUTPUT_DIR" title="geometor.pacioli.extraction.DEFAULT_OUTPUT_DIR"><code class="xref py py-obj docutils literal notranslate"><span class="pre">DEFAULT_OUTPUT_DIR</span></code></a></p></td>
+          <td><p></p></td>
+          </tr>
+          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.EDITION_SECTIONS" title="geometor.pacioli.extraction.EDITION_SECTIONS"><code class="xref py py-obj docutils literal notranslate"><span class="pre">EDITION_SECTIONS</span></code></a></p></td>
+          <td><p></p></td>
+          </tr>
+          </tbody>
+          </table>
+          </section>
+          <section id="functions">
+          <h2>Functions<a class="headerlink" href="#functions" title="Link to this heading">¶</a></h2>
+          <table class="autosummary longtable docutils align-default">
+          <tbody>
+          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.ensure_dir" title="geometor.pacioli.extraction.ensure_dir"><code class="xref py py-obj docutils literal notranslate"><span class="pre">ensure_dir</span></code></a>(→ None)</p></td>
+          <td><p>Ensure directory exists.</p></td>
+          </tr>
+          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.extract_single_image" title="geometor.pacioli.extraction.extract_single_image"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_single_image</span></code></a>(→ pathlib.Path)</p></td>
+          <td><p>Extract a single page from PDF as a PNG image.</p></td>
+          </tr>
+          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.extract_single_text" title="geometor.pacioli.extraction.extract_single_text"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_single_text</span></code></a>(→ pathlib.Path)</p></td>
+          <td><p>Extract text from a single page of PDF.</p></td>
+          </tr>
+          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.extract_all" title="geometor.pacioli.extraction.extract_all"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_all</span></code></a>(→ None)</p></td>
+          <td><p>Extract page images and text for the entire volume in parallel.</p></td>
+          </tr>
+          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.generate_manifest" title="geometor.pacioli.extraction.generate_manifest"><code class="xref py py-obj docutils literal notranslate"><span class="pre">generate_manifest</span></code></a>(→ None)</p></td>
+          <td><p>Generate pages.json manifest matching the Euclid format.</p></td>
+          </tr>
+          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.generate_sections_index" title="geometor.pacioli.extraction.generate_sections_index"><code class="xref py py-obj docutils literal notranslate"><span class="pre">generate_sections_index</span></code></a>(→ None)</p></td>
+          <td><p>Generate sections.json index mapping sections and page ranges.</p></td>
+          </tr>
+          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.main" title="geometor.pacioli.extraction.main"><code class="xref py py-obj docutils literal notranslate"><span class="pre">main</span></code></a>(→ None)</p></td>
+          <td><p>CLI entry point for folio extraction.</p></td>
+          </tr>
+          </tbody>
+          </table>
+          </section>
+          <section id="module-contents">
+          <h2>Module Contents<a class="headerlink" href="#module-contents" title="Link to this heading">¶</a></h2>
+          <dl class="py data">
+          <dt class="sig sig-object py" id="geometor.pacioli.extraction.DEFAULT_PDF_PATH">
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.extraction.</span></span><span class="sig-name descname"><span class="pre">DEFAULT_PDF_PATH</span></span><a class="headerlink" href="#geometor.pacioli.extraction.DEFAULT_PDF_PATH" title="Link to this definition">¶</a></dt>
+          <dd></dd></dl>
+
+          <dl class="py data">
+          <dt class="sig sig-object py" id="geometor.pacioli.extraction.DEFAULT_OUTPUT_DIR">
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.extraction.</span></span><span class="sig-name descname"><span class="pre">DEFAULT_OUTPUT_DIR</span></span><a class="headerlink" href="#geometor.pacioli.extraction.DEFAULT_OUTPUT_DIR" title="Link to this definition">¶</a></dt>
+          <dd></dd></dl>
+
+          <dl class="py data">
+          <dt class="sig sig-object py" id="geometor.pacioli.extraction.EDITION_SECTIONS">
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.extraction.</span></span><span class="sig-name descname"><span class="pre">EDITION_SECTIONS</span></span><a class="headerlink" href="#geometor.pacioli.extraction.EDITION_SECTIONS" title="Link to this definition">¶</a></dt>
+          <dd></dd></dl>
+
+          <dl class="py function">
+          <dt class="sig sig-object py" id="geometor.pacioli.extraction.ensure_dir">
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.extraction.</span></span><span class="sig-name descname"><span class="pre">ensure_dir</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/constants.html#None" title="(in Python v3.13)"><span class="pre">None</span></a></span></span><a class="headerlink" href="#geometor.pacioli.extraction.ensure_dir" title="Link to this definition">¶</a></dt>
+          <dd><p>Ensure directory exists.</p>
+          </dd></dl>
+
+          <dl class="py function">
+          <dt class="sig sig-object py" id="geometor.pacioli.extraction.extract_single_image">
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.extraction.</span></span><span class="sig-name descname"><span class="pre">extract_single_image</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">pdf_path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">page_num</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">output_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">dpi</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">150</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">force</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#bool" title="(in Python v3.13)"><span class="pre">bool</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></span><a class="headerlink" href="#geometor.pacioli.extraction.extract_single_image" title="Link to this definition">¶</a></dt>
+          <dd><p>Extract a single page from PDF as a PNG image.</p>
+          </dd></dl>
+
+          <dl class="py function">
+          <dt class="sig sig-object py" id="geometor.pacioli.extraction.extract_single_text">
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.extraction.</span></span><span class="sig-name descname"><span class="pre">extract_single_text</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">pdf_path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">page_num</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">output_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">force</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#bool" title="(in Python v3.13)"><span class="pre">bool</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></span><a class="headerlink" href="#geometor.pacioli.extraction.extract_single_text" title="Link to this definition">¶</a></dt>
+          <dd><p>Extract text from a single page of PDF.</p>
+          </dd></dl>
+
+          <dl class="py function">
+          <dt class="sig sig-object py" id="geometor.pacioli.extraction.extract_all">
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.extraction.</span></span><span class="sig-name descname"><span class="pre">extract_all</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">pdf_path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">output_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">start_page</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">1</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">end_page</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">318</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">dpi</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">150</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">max_workers</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">6</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">force</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#bool" title="(in Python v3.13)"><span class="pre">bool</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/constants.html#None" title="(in Python v3.13)"><span class="pre">None</span></a></span></span><a class="headerlink" href="#geometor.pacioli.extraction.extract_all" title="Link to this definition">¶</a></dt>
+          <dd><p>Extract page images and text for the entire volume in parallel.</p>
+          </dd></dl>
+
+          <dl class="py function">
+          <dt class="sig sig-object py" id="geometor.pacioli.extraction.generate_manifest">
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.extraction.</span></span><span class="sig-name descname"><span class="pre">generate_manifest</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">output_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">start_page</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">end_page</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/constants.html#None" title="(in Python v3.13)"><span class="pre">None</span></a></span></span><a class="headerlink" href="#geometor.pacioli.extraction.generate_manifest" title="Link to this definition">¶</a></dt>
+          <dd><p>Generate pages.json manifest matching the Euclid format.</p>
+          </dd></dl>
+
+          <dl class="py function">
+          <dt class="sig sig-object py" id="geometor.pacioli.extraction.generate_sections_index">
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.extraction.</span></span><span class="sig-name descname"><span class="pre">generate_sections_index</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">output_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/constants.html#None" title="(in Python v3.13)"><span class="pre">None</span></a></span></span><a class="headerlink" href="#geometor.pacioli.extraction.generate_sections_index" title="Link to this definition">¶</a></dt>
+          <dd><p>Generate sections.json index mapping sections and page ranges.</p>
+          </dd></dl>
+
+          <dl class="py function">
+          <dt class="sig sig-object py" id="geometor.pacioli.extraction.main">
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.extraction.</span></span><span class="sig-name descname"><span class="pre">main</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/constants.html#None" title="(in Python v3.13)"><span class="pre">None</span></a></span></span><a class="headerlink" href="#geometor.pacioli.extraction.main" title="Link to this definition">¶</a></dt>
+          <dd><p>CLI entry point for folio extraction.</p>
+          </dd></dl>
+
+          </section>
+          </section>
+
+      </div>
+      <footer>
+
+        <nav class="context">
+          <div class="prev">
+             <a href="../app/index.html" title="geometor.pacioli.app" >Prev</a>
+          </div>
+          <div class="next">
+            <a href="../graphics/index.html" title="geometor.pacioli.graphics" >Next</a>
+          </div>
+        </nav>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside>
+      <h3>Search</h3>
+      <div role="search">
+        <form id="rtd-search-form" class="wy-form" action="../../../../../search.html" method="get">
+          <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+    <aside class="aside-types">
+      <h3>Types</h3>
+      <ul>
+        <li><a href="../../../../../types/book.html">book</a></li>
+        <li><a href="../../../../../types/chapter.html">chapter</a></li>
+      </ul>
+    </aside>
+  </div>
+  <footer>
+    <div class="footer-nav">
+      <ul>
+        <li><a href="../../../../../about.html">about</a></li>
+        <li><a href="../../../../../connect.html">connect</a></li>
+      </ul>
+    </div>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright .
+      </p>
+    </div>
+  </footer>
+
+  <script src="../../../../../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../../../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../../../../../_static/documentation_options.js?v=5929fcd5"></script>
+  <script src="../../../../../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../../../../../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../../../../../_static/js/collection_controls.js?v=b6b5297a"></script>
+
+</body>
+</html>
