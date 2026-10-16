@@ -23,4 +23,4 @@ __all__ = [
     "detect_graphics_cv",
     "extract_from_json",
 ]
-__version__ = "0.1.0"
+__version__ = "0.2.0"

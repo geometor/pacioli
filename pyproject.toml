@@ -16,6 +16,10 @@ dependencies = [
     "textual",
     "rich",
     "jinja2",
+    "pillow",
+    "pypdfium2",
+    "opencv-python",
+    "numpy",
 ]
 
 [project.scripts]
