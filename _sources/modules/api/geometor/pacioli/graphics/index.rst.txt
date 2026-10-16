@@ -76,7 +76,7 @@ Module Contents
    Detect graphic bounding box(es) on a single folio scan and optionally save <folio>.json.
 
 
-.. py:function:: extract_from_json(json_path: pathlib.Path, no_clean: bool = False, no_invert: bool = False) -> None
+.. py:function:: extract_from_json(json_path: pathlib.Path, no_clean: bool = False) -> None
 
    Extract all graphics defined in a <folio>.json file from the corresponding folio scan.
 
