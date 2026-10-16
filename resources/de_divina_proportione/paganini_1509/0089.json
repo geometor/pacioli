@@ -4,7 +4,6 @@
     {
       "id": "g1",
       "file": "0089.g1.png",
-      "inverted_file": "0089.g1.inverted.png",
       "bbox": [
         578,
         85,
@@ -17,7 +16,6 @@
     {
       "id": "g2",
       "file": "0089.g2.png",
-      "inverted_file": "0089.g2.inverted.png",
       "bbox": [
         578,
         379,
@@ -30,7 +28,6 @@
     {
       "id": "g3",
       "file": "0089.g3.png",
-      "inverted_file": "0089.g3.inverted.png",
       "bbox": [
         635,
         470,
@@ -43,7 +40,6 @@
     {
       "id": "g4",
       "file": "0089.g4.png",
-      "inverted_file": "0089.g4.inverted.png",
       "bbox": [
         606,
         831,

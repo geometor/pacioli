@@ -4,7 +4,6 @@
     {
       "id": "g1",
       "file": "0131.g1.png",
-      "inverted_file": "0131.g1.inverted.png",
       "bbox": [
         736,
         57,
@@ -17,7 +16,6 @@
     {
       "id": "g2",
       "file": "0131.g2.png",
-      "inverted_file": "0131.g2.inverted.png",
       "bbox": [
         578,
         387,
@@ -30,7 +28,6 @@
     {
       "id": "g3",
       "file": "0131.g3.png",
-      "inverted_file": "0131.g3.inverted.png",
       "bbox": [
         653,
         613,
@@ -43,7 +40,6 @@
     {
       "id": "g4",
       "file": "0131.g4.png",
-      "inverted_file": "0131.g4.inverted.png",
       "bbox": [
         700,
         833,
@@ -56,7 +52,6 @@
     {
       "id": "g5",
       "file": "0131.g5.png",
-      "inverted_file": "0131.g5.inverted.png",
       "bbox": [
         578,
         970,

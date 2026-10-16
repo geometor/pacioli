@@ -4,7 +4,6 @@
     {
       "id": "g1",
       "file": "0098.g1.png",
-      "inverted_file": "0098.g1.inverted.png",
       "bbox": [
         85,
         64,
@@ -17,7 +16,6 @@
     {
       "id": "g2",
       "file": "0098.g2.png",
-      "inverted_file": "0098.g2.inverted.png",
       "bbox": [
         87,
         689,

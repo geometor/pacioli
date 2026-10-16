@@ -4,7 +4,6 @@
     {
       "id": "g1",
       "file": "0122.g1.png",
-      "inverted_file": "0122.g1.inverted.png",
       "bbox": [
         398,
         83,
@@ -17,7 +16,6 @@
     {
       "id": "g2",
       "file": "0122.g2.png",
-      "inverted_file": "0122.g2.inverted.png",
       "bbox": [
         324,
         151,
@@ -30,7 +28,6 @@
     {
       "id": "g3",
       "file": "0122.g3.png",
-      "inverted_file": "0122.g3.inverted.png",
       "bbox": [
         398,
         338,
@@ -43,7 +40,6 @@
     {
       "id": "g4",
       "file": "0122.g4.png",
-      "inverted_file": "0122.g4.inverted.png",
       "bbox": [
         400,
         634,
@@ -56,7 +52,6 @@
     {
       "id": "g5",
       "file": "0122.g5.png",
-      "inverted_file": "0122.g5.inverted.png",
       "bbox": [
         401,
         745,
@@ -69,7 +64,6 @@
     {
       "id": "g6",
       "file": "0122.g6.png",
-      "inverted_file": "0122.g6.inverted.png",
       "bbox": [
         364,
         919,
@@ -82,7 +76,6 @@
     {
       "id": "g7",
       "file": "0122.g7.png",
-      "inverted_file": "0122.g7.inverted.png",
       "bbox": [
         403,
         1151,

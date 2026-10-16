@@ -9,7 +9,7 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
 import numpy as np
-from PIL import Image, ImageOps
+from PIL import Image
 
 try:
     import cv2
@@ -330,7 +330,6 @@ def detect_single_image(img_path: Path, save: bool = False, force: bool = False)
             {
                 "id": gid,
                 "file": f"{folio_stem}.{gid}.png",
-                "inverted_file": f"{folio_stem}.{gid}.inverted.png",
                 "bbox": [x, y, w, h],
                 "white_point": 226,
                 "caption": f"Folio {folio_stem} Figure {idx}",
@@ -348,7 +347,7 @@ def detect_single_image(img_path: Path, save: bool = False, force: bool = False)
         print(f"Saved {json_path} ({len(graphics)} graphic(s))")
 
 
-def extract_from_json(json_path: Path, no_clean: bool = False, no_invert: bool = False) -> None:
+def extract_from_json(json_path: Path, no_clean: bool = False) -> None:
     """Extract all graphics defined in a <folio>.json file from the corresponding folio scan."""
     if not json_path.exists():
         print(f"Error: JSON file not found at {json_path}", file=sys.stderr)
@@ -394,12 +393,6 @@ def extract_from_json(json_path: Path, no_clean: bool = False, no_invert: bool =
         out_path = json_path.parent / out_name
         cropped.save(out_path)
 
-        inv_name = g.get("inverted_file", f"{folio}.{gid}.inverted.png")
-        if not no_invert and inv_name:
-            inverted = ImageOps.invert(cropped.convert("RGB"))
-            inv_path = json_path.parent / inv_name
-            inverted.save(inv_path)
-
         print(f"  Extracted {folio}.{gid}: bbox={bbox} -> {out_name}")
 
 
@@ -418,7 +411,6 @@ def main() -> None:
     p_extract = subparsers.add_parser("extract", help="Extract graphics defined in <folio>.json")
     p_extract.add_argument("targets", nargs="+", help="JSON files, PNG files, or directories")
     p_extract.add_argument("--no-clean", action="store_true", help="Disable white-point cleaning")
-    p_extract.add_argument("--no-invert", action="store_true", help="Disable generating inverted PNGs")
 
     # set
     p_set = subparsers.add_parser("set", help="Set or update graphic metadata in <folio>.json")
@@ -447,13 +439,13 @@ def main() -> None:
             if target.is_dir():
                 for jf in sorted(target.glob("*.json")):
                     if jf.stem.isdigit():
-                        extract_from_json(jf, no_clean=args.no_clean, no_invert=args.no_invert)
+                        extract_from_json(jf, no_clean=args.no_clean)
             elif target.suffix == ".json":
-                extract_from_json(target, no_clean=args.no_clean, no_invert=args.no_invert)
+                extract_from_json(target, no_clean=args.no_clean)
             elif target.suffix == ".png":
                 jf = target.with_suffix(".json")
                 if jf.exists():
-                    extract_from_json(jf, no_clean=args.no_clean, no_invert=args.no_invert)
+                    extract_from_json(jf, no_clean=args.no_clean)
 
     elif args.subcommand == "set":
         target = Path(args.target)
@@ -471,7 +463,6 @@ def main() -> None:
         entry = {
             "id": args.id,
             "file": f"{folio}.{args.id}.png",
-            "inverted_file": f"{folio}.{args.id}.inverted.png",
             "bbox": list(args.bbox),
             "white_point": args.white_point,
             "caption": args.caption or f"Folio {folio} Figure {args.id.replace('g', '')}",
