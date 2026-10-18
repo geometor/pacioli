@@ -1,0 +1,30 @@
+:folio: 0015
+:page_num: 15
+:side: recto
+:original_folio: A6r
+:book: Front Matter and Dedications
+:chapters: None
+:graphics: 0015.g1.png, 0015.g2.png, 0015.c1.png
+
+Folio 0015 (A6r) — Tabula — Table of Contents (A6r)
+===================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0015.g1.png
+
+   **g1 (marginalia)**: Folio 0015 Marginalia 1
+
+.. picture:: 0015.g2.png
+
+   **g2 (diagram)**: Folio 0015 Diagram 2
+
+.. picture:: 0015.c1.png
+
+   **c1 (initial)**: Folio 0015 Initial Cap 1
+
+Testo Originale (Paganini 1509)
+-------------------------------
+
+e fia finito el caso seque el principio de laltra colonna

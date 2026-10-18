@@ -1,0 +1,39 @@
+:folio: 0040
+:page_num: 40
+:side: verso
+:original_folio: f. 12v
+:book: Part I: Compendio de Divina Proportione
+:chapters: compendio/cap_31 (Cap. XXXI), compendio/cap_32 (Cap. XXXII), compendio/cap_33 (Cap. XXXIII)
+:graphics: 0040.c1.png, 0040.c2.png
+
+Folio 0040 (f. 12v) — Cap. XXXI, Cap. XXXII, Cap. XXXIII (f. 12v) — A trouar li lati de tutti 5 corpi regulari.
+===============================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0040.c1.png
+
+   **c1 (initial)**: Folio 0040 Initial Cap 1
+
+.. picture:: 0040.c2.png
+
+   **c2 (initial)**: Folio 0040 Initial Cap 2
+
+Testo Italiano (Paganini 1509 / Winterberg 1889)
+------------------------------------------------
+
+Cap. XXXI: A trouar li lati de tutti 5 corpi regulari. (continuatio)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. magiore. de 4 basi triangulär! elo lato del cubo, Fia adonca ae. lato dela Pyramide magiore delilati de tutti li altri corpi. E dapoi lui fia fb. Lato del 8 basi, magiore delilati de tutti li altri corpi che dappolui sequitano. E nel 3 luogo sequita in grandezza eb. lato del cubo. E nel 4. luogo fia nb. lato del 20 basi, cioè ycocedron. Elo minimo de tutti fia pb. lato del duodecedron cioè del 12 basi pentagonali.
+
+Cap. XXXII: Dela proportione de dicti regulari fraloro elor dependenti.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Hauendo inteso lasuffìcientia deli dicti 5 corpi regulari e mostrata la impossibilata a esserne più de 5 col modo in loro dependente aprocedere in infinito seque douer dar modo alor proportioni fraluno elaltro elaltro eluno e quanto acapacita e continentia equanto a loro superficie. E poi dele inclusioni de luno in laltro e per conuerso e prima de la loro aria corporale. Le proportioni de luno alaltro sempre siranno irrational! per rispecto dela nostra proportione sopra aducta laquali in loro compositioni e formationi se interpone commo se detto excepto del tetracedron elo cubo eloctocedron per la precissione aponto de loro proportioni al dyametro dela spera nel laquale se inscriuano porrà aleuolte forse essere rationale ma quella delo ycocedron e quella del duodecedron aquali siuoglia comparati mai pò essere rationale per la cagione dieta. E pero qui non mi pare excelso. Duca altro douerne dire perche serebe crescere el volume de infinite irrationalita in le quali più presto lo intellecto seueria aconfundere che aprenderne piacer: alcui fine el nostro studio sempre fia intento equel tanto acio me pare douer esser bastante che in lo particular nostro tractato de dicti corpi composto nellopera nostra se detto al quale per la multitudine aluniuerso communicata facile fia el recorso. E medianti loro dimensioni in quel luogo poste secundo la peregrinezza deli ingegni sempre seneporra con lutilita reportarne grandilecto. E cosi similmente dico de tutti loro dependenti deli quali in quel luogo alquanti vene sonno posti. Vero e che per la io. del 14. la proportione del duodecedron alo ycocedron quando ambe doi sieno facti in la medesima spera se conclude essere aponto corno quella de tutte le sue superficie atutte le superficie di quello insiemi gionte. Eia i6. del dicto dici lo octocedron esser diuisibile in 2 piramidi de altezza equali che fia para al semidiametro dela spera doue fosse fabricato eie lor basi sonno quadrate. El qual quadrato superficiale fia sul duplo al quadrato del diametro dela spera. La qual notitia a noi per sua niesura asai gioua eraediante quella amuolte altre sepo deuenire.
+
+Cap. XXXIII: Dela proportione de tutte loro superficie lune alaltre.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Le lor superficie excelso Duca fralora simelmente possiamo dire al medesimo modo esser proportionali commo de lor massa corporea se dicto cioè irrationali per la malitia dela figura pentagona che in lo duodecedron se interpone. Ma delaltre possano aleuolte essere rationali commo quelle del tetracedron cubo octacedron per essere triangule equadrate e note in proportione conio diametro de laloro spera in la quale si formano commo seueduto disopra. Vero e che la 8. del 14. conclude tutte le superficie del 12 basi pentagonale a tutte le superficie di 20 basi triangule cioè del duodecedron aquelle del ycocedron essere commo quella dellato del cubo allato del triangulo del corpo de 20 basi quando tutti dicti corpi sienno aponto contenuti ouer circuniscripti da vna medesima spera. El perche non me pare consilentio dapassare lamirabile conuenientia fraloro nelle loro basi cioè che le basi del duodecedron equelle del vcocedron ognuna fia aponto circumscripta de vn medesimo cerchio comò mostra la 5. del dicto 14. laqual cosa fia de nota degna e questo quando in la medesima spera siranno fabricati. E dele superficie tutte del tetracedron ale superficie tutte deloctacedron fia la proportione nota per la 14. del dicto 14. conciosia che vna dele basi del tetracedron sia vn tanto e vn terzo de vna dele basi deloctocedron cioè in sexquiterza proportione che fia quando el magior contene el raenore vnauolta e vnterzo si commo 8. a 6. e quella de 12 a 9. Eia proportione de tutte le superficie del octocedron insiemi gionte a tutte quelle del tetracedron insiemi gionte fia sexqui altera cioè vntanto e mezzo commo se quelle deloctocedron fosser 6 equelle 4 che fia quando el magior contene el menor vnauolta e mezza quando sienno de vna medesima spera.

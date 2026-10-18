@@ -1,0 +1,34 @@
+:folio: 0115
+:page_num: 115
+:side: recto
+:original_folio: Libellus f. 16r
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0115.g1.png, 0115.g2.png, 0115.c1.png, 0115.c2.png
+
+Folio 0115 (Libellus f. 16r) — Libellus — Tractatus Tertius (Libellus f. 16r)
+=============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0115.g1.png
+
+   **g1 (diagram)**: Folio 0115 Diagram 1
+
+.. picture:: 0115.g2.png
+
+   **g2 (diagram)**: Folio 0115 Diagram 2
+
+.. picture:: 0115.c1.png
+
+   **c1 (initial)**: Folio 0115 Initial Cap 1
+
+.. picture:: 0115.c2.png
+
+   **c2 (initial)**: Folio 0115 Initial Cap 2
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Tertius (Libellus f. 16r)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela spera.

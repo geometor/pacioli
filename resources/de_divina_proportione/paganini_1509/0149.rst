@@ -1,0 +1,22 @@
+:folio: 0149
+:page_num: 149
+:side: recto
+:original_folio: Plate Folio 0149 (recto)
+:book: Appendix I: The Roman Geometric Alphabet
+:chapters: None
+:graphics: 0149.g1.png
+
+Folio 0149 (Plate Folio 0149 (recto)) — Roman Geometric Alphabet — Lettera F
+============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0149.g1.png
+
+   **g1 (plate)**: Roman Geometric Alphabet — Lettera F
+
+Testo Originale (Paganini 1509)
+-------------------------------
+
+Questa lettera F se forma a quel modo come la lettera E ne più ne mancho excepto che F si e senza la terza gamba: come denanci havesti diffusamente al luoco de ditto E cum tutte suo proportioni, pero qui quello te basti.

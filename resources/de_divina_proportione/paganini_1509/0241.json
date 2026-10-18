@@ -11,7 +11,19 @@
         1450
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 28 (Folio 0241): \u00c9inosaEtS^oc i-zH$iJ.ivor neper XXVI"
+      "caption": "Plate XXVI: Icosahedron Elevatum Vacuum (Εἰκοσάεδρον ἐπηρμένον κενόν) — Hollow Elevated Icosahedron",
+      "type": "plate",
+      "plate_number": 26,
+      "plate_roman": "XXVI",
+      "title_la": "Icosahedron Elevatum Vacuum",
+      "title_gr": "Εἰκοσάεδρον ἐπηρμένον κενόν",
+      "title_en": "Hollow Elevated Icosahedron"
     }
-  ]
+  ],
+  "page_num": 241,
+  "side": "recto",
+  "original_folio": "Plate Folio 0241 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XXVI — Icosahedron Elevatum Vacuum (Hollow Elevated Icosahedron)"
 }

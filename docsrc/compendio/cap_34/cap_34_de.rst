@@ -1,0 +1,17 @@
+:layout: book
+
+.. _compendio-cap_34-de:
+
+CAPITEL XXXIV (Deutsch — Winterberg 1889)
+=========================================
+
+.. rubric:: Von der gegenseitigen Umsciiliessung der fünf regelmässigen Körper, und wie viele Fälle es im Ganzen gebe und warum?
+
+.. container:: track-nav
+
+   :ref:`English <compendio-cap_34-en>` · :ref:`Italiano (1509) <compendio-cap_34-it>` · **Deutsch (1889)** · :ref:`Notes <compendio-cap_34-notes>` | :ref:`Conspectus <compendio-index>` · :ref:`← Prev <compendio-cap_33-de>` · :ref:`Next → <compendio-cap_35-de>`
+
+.. folio:: 0041 (f. 13r)
+   :initial: 0041.c1.png
+
+Es folgt nunmehr zu erklären, wie der eine von diesen fünf wesentlichen, d. h. regulären Körpern vom andern enthalten, und bei welchen dies der Fall, und bei welchen nicht ; und warum. Zuerst nun, vom Tetraeder zu reden, zeigt sich, dass es auf keine Art irgend einen andern Körper in sich aufnehmen könne, als das Oktaeder, d. h. den Körper von acht dreiseitigen Flächen und sechs Ecken; weil bei ihnen weder Seiten, noch Flächen, mit Winkeln vorhanden, in welche die Seiten des Kubus weder mit ihren Eckpunkten noch mit ihren Seitenflächen derart eingepasst werden könnten, dass sie gleichmässig berühren, wie es ihre wirkliche Einschreibung erfordert und wie es seine materielle Form uns dem Auge zeigt, und wie es durch wahre Wissenschaft in der ersten des fünfzehnten offenbar wird. Noch auch gilt dies für irgend einen der zwei andern, nämlich Ikosaeder und Dodekaeder. Wenn wir nun das genannte Oktaeder in den genannten Vierflächner oder Tetraeder einbeschreiben oder genau bilden wollten, werden wir es auf diese Art thun, nämlich: Zuerst werden wir das genannte Tetraeder, anfertigen wie wir vorher gelehrt haben. Und nachdem wir jenes so hergestellt, dann werden wir jede seiner Kanten halbiren, und die Mittelpunkte dieser sämmthch untereinander durch gerade Linien verbinden. Wenn dies geschehen, so haben wir unzweifelhaft den genannten Körper genau in jenen eingepasst derart, dass seine sechs Ecken von den Kanten des genannten Tetraeders in gleicher Weise gestützt werden. Dies wird die materielle Erfahrung zeigen, und die zweite des fünfzehnten bekundet es.

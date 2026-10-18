@@ -1,41 +1,82 @@
 {
   "folio": "0113",
+  "side": "recto",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "15",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0113.g1.png",
       "bbox": [
-        587,
-        135,
-        332,
-        260
+        645,
+        116,
+        290,
+        297
       ],
       "white_point": 226,
-      "caption": "Folio 0113 Figure 1"
+      "caption": "Folio 0113 Diagram 1",
+      "margin": "right"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0113.g2.png",
       "bbox": [
-        665,
-        530,
-        259,
-        256
+        648,
+        508,
+        291,
+        299
       ],
       "white_point": 226,
-      "caption": "Folio 0113 Figure 2"
+      "caption": "Folio 0113 Diagram 2",
+      "margin": "right"
     },
     {
       "id": "g3",
+      "type": "diagram",
       "file": "0113.g3.png",
       "bbox": [
-        650,
-        877,
-        295,
-        307
+        630,
+        862,
+        338,
+        342
       ],
       "white_point": 226,
-      "caption": "Folio 0113 Figure 3"
+      "caption": "Folio 0113 Diagram 3",
+      "margin": "right"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0113.c1.png",
+      "bbox": [
+        29,
+        694,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0113 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0113.c2.png",
+      "bbox": [
+        32,
+        1139,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0113 Initial Cap 2"
     }
-  ]
+  ],
+  "page_num": 113,
+  "original_folio": "Libellus f. 15r",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Tertius (Libellus f. 15r)"
 }

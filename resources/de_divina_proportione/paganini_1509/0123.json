@@ -1,17 +1,68 @@
 {
   "folio": "0123",
+  "side": "recto",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "TER. WS",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0123.g1.png",
       "bbox": [
-        578,
-        65,
-        370,
-        1057
+        660,
+        468,
+        293,
+        533
       ],
       "white_point": 226,
-      "caption": "Folio 0123 Figure 1"
+      "caption": "Folio 0123 Diagram 1",
+      "margin": "right"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0123.c1.png",
+      "bbox": [
+        40,
+        171,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0123 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0123.c2.png",
+      "bbox": [
+        29,
+        347,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0123 Initial Cap 2"
+    },
+    {
+      "id": "c3",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0123.c3.png",
+      "bbox": [
+        34,
+        766,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0123 Initial Cap 3"
     }
-  ]
+  ],
+  "page_num": 123,
+  "original_folio": "Libellus f. 20r",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Tertius (Libellus f. 20r)"
 }

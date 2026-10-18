@@ -26,9 +26,13 @@ Submodules
 
    /modules/api/geometor/pacioli/__main__/index
    /modules/api/geometor/pacioli/app/index
+   /modules/api/geometor/pacioli/extraction/index
+   /modules/api/geometor/pacioli/graphics/index
    /modules/api/geometor/pacioli/pacioli/index
+   /modules/api/geometor/pacioli/parse_winterberg/index
    /modules/api/geometor/pacioli/parser/index
    /modules/api/geometor/pacioli/run_parse/index
+   /modules/api/geometor/pacioli/run_winterberg_parse/index
 
 
 Classes
@@ -37,6 +41,20 @@ Classes
 .. autoapisummary::
 
    geometor.pacioli.PacioliParser
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.pacioli.extract_all
+   geometor.pacioli.build_graphics_index
+   geometor.pacioli.clean_image
+   geometor.pacioli.detect_graphics_cv
+   geometor.pacioli.detect_initials
+   geometor.pacioli.detect_margin_figures
+   geometor.pacioli.extract_from_json
 
 
 Package Contents
@@ -110,5 +128,51 @@ Package Contents
 
 
    .. py:method:: indent_text(text: str, indent: str = '   ') -> str
+
+
+.. py:function:: extract_all(pdf_path: pathlib.Path, output_dir: pathlib.Path, start_page: int = 1, end_page: int = 318, dpi: int = 150, max_workers: int = 6, force: bool = False) -> None
+
+   Extract page images and text for the entire volume in parallel.
+
+
+.. py:function:: build_graphics_index(directory: pathlib.Path) -> pathlib.Path
+
+   Compile all per-folio <folio>.json files into graphics_index.json.
+
+
+.. py:function:: clean_image(pil_image: PIL.Image.Image, white_point: int = 226) -> PIL.Image.Image
+
+   Applies a linear levels adjustment to the image, mapping white_point to pure white (255).
+
+   Effectively eliminates bleed-through, yellowed paper background, and scanning artifacts.
+
+
+.. py:function:: detect_graphics_cv(image_path: pathlib.Path) -> List[Dict[str, Any]]
+
+   Detect full-page plate graphics using OpenCV if available, falling back to SciPy.
+
+
+.. py:function:: detect_initials(image_path: pathlib.Path) -> List[Dict[str, Any]]
+
+   Detect woodcut illuminated initial caps by finding 2D ink-density centers along the text column edge.
+
+   Woodcut initials in the 1509 Paganini edition have consistent square dimensions:
+   - Standard chapter initials: 120x132 px (padded around the ~112x118 woodcut frame)
+   - Large treatise-opening initials (folios 0017 and 0085): 260x304 px
+   - Title-page red initial D (folio 0005): 184x188 px
+
+
+.. py:function:: detect_margin_figures(image_path: pathlib.Path, is_recto: bool) -> List[Dict[str, Any]]
+
+   Detect geometric diagrams and marginalia strictly in the outer margin of a text folio.
+
+   - Odd (recto) folios: right outer margin (to the right of the main text column).
+   - Even (verso) folios: left outer margin (to the left of the main text column).
+   Never falls back to full-page text blocks.
+
+
+.. py:function:: extract_from_json(json_path: pathlib.Path, no_clean: bool = False) -> None
+
+   Extract all margin graphics and illuminated initial caps defined in <folio>.json.
 
 

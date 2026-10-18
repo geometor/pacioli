@@ -1,17 +1,106 @@
 {
   "folio": "0028",
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PARS",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 16,
+      "roman": "XVI",
+      "slug": "cap_16",
+      "title_it": "Del septimo suo inextimabile effecto.",
+      "title_de": "Von ihrer siebenten unglaublichen Wirkung.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/016_cap_XVI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/016_cap_XVI.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 17,
+      "roman": "XVII",
+      "slug": "cap_17",
+      "title_it": "Del 8. effecto conuerso del precedente.",
+      "title_de": "Von der umgekehrten Wirkung der vorhergehenden.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/017_cap_XVII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/017_cap_XVII.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 18,
+      "roman": "XVIII",
+      "slug": "cap_18",
+      "title_it": "Del suo 9. effecto sopra glialtri excessiuo.",
+      "title_de": "Von ihrer neunten über die anderen hinausgehenden Wirkung.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/018_cap_XVIII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/018_cap_XVIII.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0028.g1.png",
       "bbox": [
-        72,
-        58,
-        387,
-        1242
+        51,
+        420,
+        324,
+        330
       ],
       "white_point": 226,
-      "caption": "Folio 0028 Figure 1"
+      "caption": "Folio 0028 Diagram 1",
+      "margin": "left"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0028.c1.png",
+      "bbox": [
+        393,
+        133,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0028 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0028.c2.png",
+      "bbox": [
+        394,
+        409,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0028 Initial Cap 2"
+    },
+    {
+      "id": "c3",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0028.c3.png",
+      "bbox": [
+        390,
+        686,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0028 Initial Cap 3"
     }
-  ]
+  ],
+  "page_num": 28,
+  "original_folio": "f. 6v",
+  "section_id": "compendio",
+  "title": "Cap. XVI, Cap. XVII, Cap. XVIII (f. 6v) — Del septimo suo inextimabile effecto."
 }

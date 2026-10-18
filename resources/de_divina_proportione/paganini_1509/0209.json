@@ -11,7 +11,19 @@
         931
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 12 (Folio 0209): ETFHjjUem K.\u00c9W xn"
+      "caption": "Plate XII: Exahedron Elevatum Vacuum (Ἑξάεδρον ἐπηρμένον κενόν) — Hollow Elevated Hexahedron",
+      "type": "plate",
+      "plate_number": 12,
+      "plate_roman": "XII",
+      "title_la": "Exahedron Elevatum Vacuum",
+      "title_gr": "Ἑξάεδρον ἐπηρμένον κενόν",
+      "title_en": "Hollow Elevated Hexahedron"
     }
-  ]
+  ],
+  "page_num": 209,
+  "side": "recto",
+  "original_folio": "Plate Folio 0209 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XII — Exahedron Elevatum Vacuum (Hollow Elevated Hexahedron)"
 }

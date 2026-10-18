@@ -11,7 +11,19 @@
         1029
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 7 (Folio 0199): tf \u00abt^ov ,h. ku>6o? t-ari-arfJ'fl\u00bb ari^iav VII"
+      "caption": "Plate VII: Exahedron sive Cubus Planum Solidum (Ἑξάεδρον ἢ κύβος ἐπίπεδον στερεόν) — Solid Regular Hexahedron (Cube)",
+      "type": "plate",
+      "plate_number": 7,
+      "plate_roman": "VII",
+      "title_la": "Exahedron sive Cubus Planum Solidum",
+      "title_gr": "Ἑξάεδρον ἢ κύβος ἐπίπεδον στερεόν",
+      "title_en": "Solid Regular Hexahedron (Cube)"
     }
-  ]
+  ],
+  "page_num": 199,
+  "side": "recto",
+  "original_folio": "Plate Folio 0199 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate VII — Exahedron sive Cubus Planum Solidum (Solid Regular Hexahedron (Cube))"
 }

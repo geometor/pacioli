@@ -11,7 +11,19 @@
         1515
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 19 (Folio 0223): CX.TettS'qiV' \u00ab\u25a0ffOT\u00ecTJUHJUECO^ 6ft$ttV XVTI"
+      "caption": "Plate XVII: Octahedron Abscisum Solidum (Ὀκτάεδρον ἀποτετμημένον στερεόν) — Solid Truncated Octahedron",
+      "type": "plate",
+      "plate_number": 17,
+      "plate_roman": "XVII",
+      "title_la": "Octahedron Abscisum Solidum",
+      "title_gr": "Ὀκτάεδρον ἀποτετμημένον στερεόν",
+      "title_en": "Solid Truncated Octahedron"
     }
-  ]
+  ],
+  "page_num": 223,
+  "side": "recto",
+  "original_folio": "Plate Folio 0223 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XVII — Octahedron Abscisum Solidum (Solid Truncated Octahedron)"
 }

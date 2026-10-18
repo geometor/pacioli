@@ -1,0 +1,29 @@
+:folio: 0066
+:page_num: 66
+:side: verso
+:original_folio: f. 25v
+:book: Part II: Tractato de l'Architectura
+:chapters: architectura/cap_01 (Cap. I)
+:graphics: 0066.g1.png, 0066.g2.png
+
+Folio 0066 (f. 25v) — Cap. I (f. 25v) — Dela mesura e proportioni del corpo humano. della testa
+===============================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0066.g1.png
+
+   **g1 (diagram)**: Folio 0066 Diagram 1
+
+.. picture:: 0066.g2.png
+
+   **g2 (diagram)**: Folio 0066 Diagram 2
+
+Testo Italiano (Paganini 1509 / Winterberg 1889)
+------------------------------------------------
+
+Cap. I: Dela mesura e proportioni del corpo humano. della testa e altri suoi membri simulacro delarchitectura. (continuatio)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Elaltro atorno circinando trouarasse aponto che equalmente toccara la summita del capo eie ponti deli deti medii dele mani e quelle deh deti grossi deh piedi che sonno condictioni requisite ala vera diffinitione del cerchio posta dal nostro Euclide nel principio del suo primo hbro. La quadrata ancora se hauera spansi similmente le braccia eie gambe e dale extremita deli deti grossi de piedi ale ponti deh deti medii deh mani tirando le linee recte in modo che tanto fia dala ponta del deto grosso deluno de piedi alaltra ponta delaltro pede quanto dalacima dele deti medii dele mani a diete ponti deli deti grossi deli piedi, e tanto ancora aponto dala cima deli dicti deti medii dele mani da luno a laltro tirando la linea quando adrito ben sieno le braccia spansi e tanto aponto fia laltezza ouer longhezze de tutto Ihomo siando ben formato e non monstruoso che cosi sempre se presupone comme dici el nostro Victruuio el suo nobilissimo membro exteriore cioè testa se ben se guarda se trouera formata in su la forma dela prima figura in le recte linee cioè triangula equilatera dieta ysopleuros posta per fondamento e principio de tutti li altri sequenti libri dal nostro Euclide nel primo luogo del suo primo libro. Quando dixe triangulum equilaterum supra datam lineam rectam collocare. La qual cosa qui lochio nella presente figura chiaro vel dimostra. Se ben li contorni de tutta dieta testa se considera. Comme vedete el triangulo amk. delati equali formato, i) E sopra ellato suo mk. fatto el tetragono longo kmsb. largo quanto el catheto a ala basa mk. qual per non ofuscare el naso conlettara lasciai. Equesto lato mk. qual fia tutto el frontespitio de dieta testa fia diuiso in tre parti nel ponto 1 termino dele nare del naso. In modo che tanto fia mi. quanto dal 1. ;a diete nare. E da diete nare al k. piano del mento che cadauna fia la terza parte del mk. Onde da linfimo dela fronte cauo del naso 1, al ceglio fin ale radici de capelli, m. cioè fin alacima dela fronte fia el terzo de dicto lato mk. siche lasua fronte fia aponto alta la terza parte de tutta la testa el naso similmente ne fia laltro terzo. E da diete nare fin al pian del mento houer k. ne fia vnaltro terzo. E questo vltimo terzo ancora se diuide in tre altre parti equali che luna ne fia dale nare ala bocca laltra dala bocca al cauo del mento la terza da dicto cauo al pian dei mento k. In modo che cadauna fia el nono de tutta mk. cioè el terzo de vn terzo benchel mento alquanto deuii del profilo dela facia mk. comme vedi desegnato in dieta figura la cui quantità a noi non e nota precise ma solo quella li egregii pictori lano dala natura reseruata ala gratia e albitrio de lochio. E questa fia vna specie dele proportionì irrationali qual per numero non e possibile anominare. El simile se dici dela distantia dala radici deli capelli ala fine de langalo m. quale ancora al quanto da quello se discosta comme vedi che altramente ') Vgl. die betr. Figur am Ende des Traclats. non hauerebe gratia alochio. Eia perpendiculare a. ouer catheto aponto fia directa ala tomba del naso e taglia el profilo mk. nel mezzo precise neli ben proportionati edebitamente disposti e non monstruosi. E queste parti narrate finora al suo profilo tutte vengano a essere rationali e a noi note. Ma doue interuene la irrationalita dele proportioni cioè che per alcun modo non se possono nominare per numero restano al degno arbitrio del prospectiuo qual con sua gratia le ha aterminare. Peroche larte imita la natura quanto li sia possibile. E se aponto larteficio facesse quello che la natura ha facto non se chiamaria arte ma vnaltra natura totahter ala prima simile che verebe a essere lamedesima. Questo dico acio non vi dobiàte marauegliare se tutte cose aponto non respondano ale mani delopefice peroche non e possibile. E di qua nasci che li sauii dicano le scientie e discipline mathematici essere abstracte e mai actualiter non e possibile ponerle in esse visibili. Onde el ponto linea superficie e ognaltra figura mai la mano la pò formare. E benché noi chiamamo ponto quel tal segno che con la ponta dela penna o altro stilo se facia non e quello pero ponto mathematico da lui diffinito comme nelle prime parolle deli suoi elementi el nostro Euclide diffinisci quando dice: Punctus est cujus pars non est. E cosi diciamo de tutti li altri principi! mathematici e figure douerse intenderle abstracte dala materia. E benché noi li diciamo punto linea etc. Lo faciamo perche non habiamo vocabuli più proprii a exprimer lor concepti et cetera.

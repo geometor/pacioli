@@ -1,53 +1,96 @@
 {
   "folio": "0089",
+  "side": "recto",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "PRIMVS",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0089.g1.png",
       "bbox": [
-        578,
-        85,
-        366,
-        267
+        629,
+        54,
+        325,
+        324
       ],
       "white_point": 226,
-      "caption": "Folio 0089 Figure 1"
+      "caption": "Folio 0089 Diagram 1",
+      "margin": "right"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0089.g2.png",
       "bbox": [
-        578,
-        379,
-        40,
-        66
+        628,
+        441,
+        315,
+        322
       ],
       "white_point": 226,
-      "caption": "Folio 0089 Figure 2"
+      "caption": "Folio 0089 Diagram 2",
+      "margin": "right"
     },
     {
       "id": "g3",
+      "type": "diagram",
       "file": "0089.g3.png",
       "bbox": [
-        635,
-        470,
-        305,
-        265
+        602,
+        805,
+        347,
+        346
       ],
       "white_point": 226,
-      "caption": "Folio 0089 Figure 3"
+      "caption": "Folio 0089 Diagram 3",
+      "margin": "right"
     },
     {
-      "id": "g4",
-      "file": "0089.g4.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0089.c1.png",
       "bbox": [
-        606,
-        831,
-        341,
-        291
+        26,
+        200,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0089 Figure 4"
+      "caption": "Folio 0089 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0089.c2.png",
+      "bbox": [
+        27,
+        474,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0089 Initial Cap 2"
+    },
+    {
+      "id": "c3",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0089.c3.png",
+      "bbox": [
+        24,
+        773,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0089 Initial Cap 3"
     }
-  ]
+  ],
+  "page_num": 89,
+  "original_folio": "Libellus f. 3r",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Primus (Libellus f. 3r)"
 }

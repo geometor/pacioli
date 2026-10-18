@@ -1,0 +1,43 @@
+:folio: 0079
+:page_num: 79
+:side: recto
+:original_folio: f. 32r
+:book: Part II: Tractato de l'Architectura
+:chapters: architectura/cap_15 (Cap. XV), architectura/cap_16 (Cap. XVI), architectura/cap_17 (Cap. XVII)
+:graphics: 0079.c1.png, 0079.c2.png, 0079.c3.png
+
+Folio 0079 (f. 32r) — Cap. XV, Cap. XVI, Cap. XVII (f. 32r) — Del zophoro nel epistilio.
+========================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0079.c1.png
+
+   **c1 (initial)**: Folio 0079 Initial Cap 1
+
+.. picture:: 0079.c2.png
+
+   **c2 (initial)**: Folio 0079 Initial Cap 2
+
+.. picture:: 0079.c3.png
+
+   **c3 (initial)**: Folio 0079 Initial Cap 3
+
+Testo Italiano (Paganini 1509 / Winterberg 1889)
+------------------------------------------------
+
+Cap. XV: Del zophoro nel epistilio.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il suo zophoro V. quale dali nostri fia dicto fregio deuesser largo el quarto del suo epistilio facendosi schietto senza ornamenti. E facendosi con adornamenti se fa el y^ più largo del suo epistilio acio ben responda sua venusta e che li dicti ornamenti se possine vedere comodamente dalontano e dapresso. cioè se dicto epistiho sia alto o ver largo 4. el zophoro volesserlargo 5. conli ornamenti o sieno foghami viticci o altri animali, comme fusari.
+
+Cap. XVI: Dela compositione del cornicione.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sopra dicto zophoro se compone vnaltro concio dali antichi dicto Gornice eda moderni Gornitione e aleuolte li antichi chiamauano tutto dicto composto dal zophoro fin a lultimo dicto cimatio dela cornice edali antichi Acrotherio eda nostri regolo soprano al zophoro. E la disposinone di questo composto deuesser in questo modo cioè prima imediate sopra dicto zophoro si pone vn regolo o ver grado altramente dicto gradetto per la sua paruita. e fia quadra oblonge asquadro con piethra in fore da ogni parte dopo sua larghezza cioè che esca fore del zophoro aponto quanto fia largo e chiamanse . ancora Tenie per li antichi Deli quali comunamente H sene pone 5. de medesima larghezza comme per diuisioni asimilitudine dele fasce in lo epistilio a suo ornamento più presto che afortezza comme in quello posto in principio del libro i) vedi vacanti senza alcun segno comme £l cimatio h. delo epistilio aponto sopra de questo si pone vna quadra comme fascia delo epistilio da Victruuio Denticoli dali moderni DenticeUi aleuolte Rastro per similitudine del rastrello facto adenti comme vedete in quella segnato. 1. e fra lui el cimatico del fragio detto k. si pone vnatenia. Sopra di questo si pone vnaltro comme bastone detto paternostri o vero fusaroli e sopra questo laltra quadra o ver tenia. Poi immediate li ') Am Ende des Tractats. se metre la corona m. dali antichi cosi dieta e dali moderni Gociolatoio. Poi laltra tenia. Poi laltro grado de pater nostri efusaroli. Oltra questo laltra quadretta epenultimo la sua Sima laquale li moderni la chiamo Gola dela cornice comme vedete el grado o. in lultimo comme fo dicto se pone el suo acrotherio cioè vnaltra quadretta o ver Tenia e cosi fia finito tutto dicto Cornicione inteso comme altreuolte se detto in lo stilobata e Architraue per tutti dicri gradi cadauno sporti in fore daluna elàltra parte dextra e sinistra quanto fia la loro larghezza acio nellaspecto tutto lo hedifitio responda venusto. E deraano in mano ben incatenato facendo mistiero con ferri, e piombi etc.
+
+Cap. XVII: Del sito deli tigraphi.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Poi sopra tutta questa compositione depistilio ecornice in lultimo apresso el tutto se pongano li tigraphi cioè certi pilastrelli con tre coste facti e doi canellati comme certe colonnette quadre distanti vno dalaltro doi loro larghezze aleuolte 3 etc. Aponto comme le colonne sopra le quali siranno situati aponto ma senza interuallo vacuo ma masiccio comme parapetti facti de boni lastroni e in quelli se costuma far ornamenti comme teste de capi de buoi de caualli grilande Bacili rosoni derelieuo etc. Seria asai da dire circa questo ma el tempo non me per ora concesso. Peroche de continuo di e nocte me conuiene in suli torcoli elor calcographi agouernar lopere nostre contutta diligentia comme se rechiede. Ma questo poco a vostra compiacenza ho voluto ponere qui comme per cenno a quello che speramo con più dilatatione de dieta architectura tractare. Ehauendoui posto la colonna elo epistilio con la sua corona e zophoro me parso congiognere tutto insiemi e farli mostrare suoi effecti e pero li ho acomodati qui in quella porta comme vedete dieta Speciosa doue tutte lor parti descorse oculata fide potete vedere, Giontoui sopra el frontespicio triangolare qual in simili compositioni de maiesta se costuma per tutti antichi e moderni. ') Siehe Zeichnung am Ende des Tractats.

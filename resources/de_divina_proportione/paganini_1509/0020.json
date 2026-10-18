@@ -1,53 +1,40 @@
 {
   "folio": "0020",
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "I",
   "graphics": [
     {
       "id": "g1",
+      "type": "marginalia",
       "file": "0020.g1.png",
       "bbox": [
-        372,
-        51,
-        87,
-        733
+        304,
+        843,
+        97,
+        41
       ],
       "white_point": 226,
-      "caption": "Folio 0020 Figure 1"
-    },
+      "caption": "Folio 0020 Marginalia 1",
+      "margin": "left"
+    }
+  ],
+  "page_num": 20,
+  "original_folio": "f. 2v",
+  "section_id": "compendio",
+  "title": "Cap. II (f. 2v) — Reuerendi Patris Magistri Luce pacioli de Burgo San Sep",
+  "chapters": [
     {
-      "id": "g2",
-      "file": "0020.g2.png",
-      "bbox": [
-        306,
-        825,
-        153,
-        126
-      ],
-      "white_point": 226,
-      "caption": "Folio 0020 Figure 2"
-    },
-    {
-      "id": "g3",
-      "file": "0020.g3.png",
-      "bbox": [
-        390,
-        972,
-        69,
-        86
-      ],
-      "white_point": 226,
-      "caption": "Folio 0020 Figure 3"
-    },
-    {
-      "id": "g4",
-      "file": "0020.g4.png",
-      "bbox": [
-        308,
-        1081,
-        151,
-        218
-      ],
-      "white_point": 226,
-      "caption": "Folio 0020 Figure 4"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 2,
+      "roman": "II",
+      "slug": "cap_02",
+      "title_it": "Reuerendi Patris Magistri Luce pacioli de Burgo San Sepulchro Ordinis Minorum. Et sacre theologie professoris in compendium de diuina proportione ex mathematicis disciplinis prefatio.",
+      "title_de": "Vorrede des Ehrwürdigen Pater Magister Luca Pacioli aus Borgo San Sepolchro vom Orden der Minoriten, und Professor der heihgen Theologie zum Compendium über die göttliche Proportion aus den mathematischen Wissenschaften.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/002_cap_II.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/002_cap_II.txt",
+      "starts_on_folio": false
     }
   ]
 }

@@ -1,17 +1,54 @@
 {
   "folio": "0017",
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PRIMA",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 1,
+      "roman": "I",
+      "slug": "cap_01",
+      "title_it": "Excellentissimo principi Ludouico mariae Sforza Angla Mediolanensium duci: pacis et belli ornamento fratris Lucae pacioli ex Burgo sancti Sepulchri ordinis Minorum: Sacrae theo- logiae professoris. De diuina proportione epistola.",
+      "title_de": "Ludwig Maria Sforza Anglo, Herzog von Mailand, Zierde des Friedens wie des Krieges, von Bruder Luca Pacioti aus Borgo San Sepolchro, vom Orden der Minoriten, Professor der heiligen Theologie.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/001_dedication.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/001_dedication.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0017.g1.png",
       "bbox": [
-        578,
-        62,
-        282,
-        1266
+        793,
+        53,
+        95,
+        1207
       ],
       "white_point": 226,
-      "caption": "Folio 0017 Figure 1"
+      "caption": "Folio 0017 Diagram 1",
+      "margin": "right"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "large",
+      "file": "0017.c1.png",
+      "bbox": [
+        68,
+        198,
+        264,
+        304
+      ],
+      "white_point": 226,
+      "caption": "Folio 0017 Initial Cap 1"
     }
-  ]
+  ],
+  "page_num": 17,
+  "original_folio": "f. 1r",
+  "section_id": "compendio",
+  "title": "Cap. I (f. 1r) — Excellentissimo principi Ludouico mariae Sforza Angla M"
 }

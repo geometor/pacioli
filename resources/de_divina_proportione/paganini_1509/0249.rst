@@ -1,0 +1,23 @@
+:folio: 0249
+:page_num: 249
+:side: recto
+:original_folio: Plate Folio 0249 (recto)
+:book: Appendix II: Polyhedra Plates by Leonardo da Vinci
+:chapters: None
+:graphics: 0249.g1.png
+
+Folio 0249 (Plate Folio 0249 (recto)) — Plate XXX — Dodecahedron Abscisum Vacuum (Hollow Truncated Dodecahedron (Icosidodecahedron))
+====================================================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0249.g1.png
+
+   **g1 (plate)**: Plate XXX: Dodecahedron Abscisum Vacuum (Δωδεκάεδρον ἀποτετμημένον κενόν) — Hollow Truncated Dodecahedron (Icosidodecahedron)
+
+Tabula XXX (No. 30)
+-------------------
+
+- **Titulus Latinus**: *Dodecahedron Abscisum Vacuum*
+- **Titulus Graecus**: Δωδεκάεδρον ἀποτετμημένον κενόν

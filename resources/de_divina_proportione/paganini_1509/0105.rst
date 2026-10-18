@@ -1,0 +1,66 @@
+:folio: 0105
+:page_num: 105
+:side: recto
+:original_folio: Libellus f. 11r
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0105.g1.png, 0105.g2.png, 0105.g3.png, 0105.g4.png, 0105.g5.png, 0105.g6.png, 0105.c1.png, 0105.c2.png, 0105.c3.png, 0105.c4.png, 0105.c5.png, 0105.c6.png
+
+Folio 0105 (Libellus f. 11r) — Libellus — Tractatus Secundus (Libellus f. 11r)
+==============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0105.g1.png
+
+   **g1 (diagram)**: Folio 0105 Diagram 1
+
+.. picture:: 0105.g2.png
+
+   **g2 (diagram)**: Folio 0105 Diagram 2
+
+.. picture:: 0105.g3.png
+
+   **g3 (diagram)**: Folio 0105 Diagram 3
+
+.. picture:: 0105.g4.png
+
+   **g4 (diagram)**: Folio 0105 Diagram 4
+
+.. picture:: 0105.g5.png
+
+   **g5 (diagram)**: Folio 0105 Diagram 5
+
+.. picture:: 0105.g6.png
+
+   **g6 (diagram)**: Folio 0105 Diagram 6
+
+.. picture:: 0105.c1.png
+
+   **c1 (initial)**: Folio 0105 Initial Cap 1
+
+.. picture:: 0105.c2.png
+
+   **c2 (initial)**: Folio 0105 Initial Cap 2
+
+.. picture:: 0105.c3.png
+
+   **c3 (initial)**: Folio 0105 Initial Cap 3
+
+.. picture:: 0105.c4.png
+
+   **c4 (initial)**: Folio 0105 Initial Cap 4
+
+.. picture:: 0105.c5.png
+
+   **c5 (initial)**: Folio 0105 Initial Cap 5
+
+.. picture:: 0105.c6.png
+
+   **c6 (initial)**: Folio 0105 Initial Cap 6
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Secundus (Libellus f. 11r)**: Casi geometrici e algebrici (*Casus*) de' corpi laterati regulari, le superficie e quadrature loro.

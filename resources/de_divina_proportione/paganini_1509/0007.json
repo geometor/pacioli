@@ -1,0 +1,40 @@
+{
+  "folio": "0007",
+  "side": "recto",
+  "section": "Front Matter and Dedications",
+  "header": "ITÉcccflStìifmò Rei pnblicS; Fiorentini principi perpetuo.D.",
+  "graphics": [
+    {
+      "id": "g1",
+      "type": "diagram",
+      "file": "0007.g1.png",
+      "bbox": [
+        653,
+        107,
+        173,
+        1087
+      ],
+      "white_point": 226,
+      "caption": "Folio 0007 Diagram 1",
+      "margin": "right"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0007.c1.png",
+      "bbox": [
+        105,
+        186,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0007 Initial Cap 1"
+    }
+  ],
+  "page_num": 7,
+  "original_folio": "A2r",
+  "section_id": "front_matter",
+  "title": "Epistola ad Petrum Soderinum (1509)"
+}

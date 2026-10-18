@@ -1,0 +1,38 @@
+:folio: 0120
+:page_num: 120
+:side: verso
+:original_folio: Libellus f. 18v
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0120.g1.png, 0120.g2.png, 0120.c1.png, 0120.c2.png, 0120.c3.png
+
+Folio 0120 (Libellus f. 18v) — Libellus — Tractatus Tertius (Libellus f. 18v)
+=============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0120.g1.png
+
+   **g1 (diagram)**: Folio 0120 Diagram 1
+
+.. picture:: 0120.g2.png
+
+   **g2 (diagram)**: Folio 0120 Diagram 2
+
+.. picture:: 0120.c1.png
+
+   **c1 (initial)**: Folio 0120 Initial Cap 1
+
+.. picture:: 0120.c2.png
+
+   **c2 (initial)**: Folio 0120 Initial Cap 2
+
+.. picture:: 0120.c3.png
+
+   **c3 (initial)**: Folio 0120 Initial Cap 3
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Tertius (Libellus f. 18v)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela spera.

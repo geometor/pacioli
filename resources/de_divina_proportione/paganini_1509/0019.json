@@ -1,41 +1,40 @@
 {
   "folio": "0019",
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PARS",
   "graphics": [
     {
       "id": "g1",
+      "type": "marginalia",
       "file": "0019.g1.png",
       "bbox": [
-        578,
-        70,
-        76,
-        563
-      ],
-      "white_point": 226,
-      "caption": "Folio 0019 Figure 1"
-    },
-    {
-      "id": "g2",
-      "file": "0019.g2.png",
-      "bbox": [
-        578,
-        677,
-        66,
-        279
-      ],
-      "white_point": 226,
-      "caption": "Folio 0019 Figure 2"
-    },
-    {
-      "id": "g3",
-      "file": "0019.g3.png",
-      "bbox": [
-        611,
+        620,
         1198,
-        111,
+        104,
         42
       ],
       "white_point": 226,
-      "caption": "Folio 0019 Figure 3"
+      "caption": "Folio 0019 Marginalia 1",
+      "margin": "right"
+    }
+  ],
+  "page_num": 19,
+  "original_folio": "f. 2r",
+  "section_id": "compendio",
+  "title": "Cap. II (f. 2r) — Reuerendi Patris Magistri Luce pacioli de Burgo San Sep",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 2,
+      "roman": "II",
+      "slug": "cap_02",
+      "title_it": "Reuerendi Patris Magistri Luce pacioli de Burgo San Sepulchro Ordinis Minorum. Et sacre theologie professoris in compendium de diuina proportione ex mathematicis disciplinis prefatio.",
+      "title_de": "Vorrede des Ehrwürdigen Pater Magister Luca Pacioli aus Borgo San Sepolchro vom Orden der Minoriten, und Professor der heihgen Theologie zum Compendium über die göttliche Proportion aus den mathematischen Wissenschaften.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/002_cap_II.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/002_cap_II.txt",
+      "starts_on_folio": false
     }
   ]
 }

@@ -1,17 +1,25 @@
 {
   "folio": "0060",
-  "graphics": [
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "■",
+  "graphics": [],
+  "page_num": 60,
+  "original_folio": "f. 22v",
+  "section_id": "compendio",
+  "title": "Cap. LXXI (f. 22v) — De quello se intenda per questi vocabuli fra le mathema",
+  "chapters": [
     {
-      "id": "g1",
-      "file": "0060.g1.png",
-      "bbox": [
-        411,
-        885,
-        48,
-        60
-      ],
-      "white_point": 226,
-      "caption": "Folio 0060 Figure 1"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 71,
+      "roman": "LXXI",
+      "slug": "cap_71",
+      "title_it": "De quello se intenda per questi vocabuli fra le mathematici vsitati cioè ypothesi ypothumissa corausto cono pyramidale corda pentagonica perpendiculare catheto dyametro paralelo- grammo dyagonale centro saetta.",
+      "title_de": "Ueber das was unter diesen in der Mathematik gebräuchlichen Ausdrücken verstanden wird, nämlich Hypothese, Hypothumisse, Carausto, Pyramiden-Konus, Pentagon- Sehne, Senkrechte, Kathete, Durchmesser, Parallelogramm, Diagonale, Centrum, Pfeil.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/071_cap_LXXI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/071_cap_LXXI.txt",
+      "starts_on_folio": false
     }
   ]
 }

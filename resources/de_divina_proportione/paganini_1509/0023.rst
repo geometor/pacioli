@@ -1,0 +1,39 @@
+:folio: 0023
+:page_num: 23
+:side: recto
+:original_folio: f. 4r
+:book: Part I: Compendio de Divina Proportione
+:chapters: compendio/cap_05 (Cap. V), compendio/cap_06 (Cap. VI), compendio/cap_07 (Cap. VII)
+:graphics: 0023.c1.png, 0023.c2.png
+
+Folio 0023 (f. 4r) — Cap. V, Cap. VI, Cap. VII (f. 4r) — Del condecente titulo del presente tractato.
+=====================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0023.c1.png
+
+   **c1 (initial)**: Folio 0023 Initial Cap 1
+
+.. picture:: 0023.c2.png
+
+   **c2 (initial)**: Folio 0023 Initial Cap 2
+
+Testo Italiano (Paganini 1509 / Winterberg 1889)
+------------------------------------------------
+
+Cap. V: Del condecente titulo del presente tractato. (continuatio)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Laquale vnita fia el supremo epiteto de epso idio secondo tutta la scuola theologica e anche philosophica. La seconda conuenientia e dela sancta trinità. Cioè si commo in diuinis vna medesima substantia fia fra tre persone padre figlio e spirito sancto. Cosi vna medesima proportione de questa sorte sempre conuen se troui fra tre termini, e mai ne in più ne in manco se pò retrouare. Commo se dira. La terza conuenientia e che si commo idio propriamente non se pò diffinire ne per paroUe a noi intendere, cosi questa nostra proportione non se pò mai per numero intendibile asegnare ne per quantità alcuna rationale esprimere : ma sempre fia occulta e secreta e dali Mathematici chiamata irrationale. La quarta conuenientia e che si commo idio mai non se pò mutare e fia tutto in tutto e tutto in ogni parte cosi la presente nostra proportione sempre in ogni quantità Continua e discreta: o sienno, grandi: o sienno piccole fia vna medesima e sempre inuariabile e per verun modo se pò mutare ne anco per intellecto altramente apprendere, commo el nostro processo demostrara. La quinta conuenientia se pò non immeritamente ale predicti at ogere cioè. Si commo idio lessere conferesci ala virtù celeste per altro nome detta quinta essentia e mediante quella ali altri quatro corpi sempiici, cioè ali quatro elementi . Terra . Aqua . Aire . E fuoco. E per questi lessere a cadauna altra cosa in natura. Cosi questa nostra sancta proportione lesser formale da (secondo lantico Platone in suo Timeo) a epso cielo atribuendoli la figura del corpo detto Duodecedron, altramente corpo de 12 pentagoni. El quale commo desotto se mostrara senza la nostra proportione non e possibile poterse formare. E similmente a ciascuno de li altri elementi sua propria forma asegna fra loro per niun modo coincidenti, cioè al fuoco la figura pyramidale detto Tetracedron. A latera la figura cubica delta exacedron. Alaire la figura detta octocedron. E alaqua quella detta ycocedron. E queste tal forme e figure dali sapienti tutti corpi regulari sonnonuncupate. Commo separatemente disotto de cadauno se dira. E poi medianti sti a infiniti altri corpi detti dependenti. Li quali 5 regulari non e possibile fra loro poterse proportionare ne dala spera poterse intendere circonscriptibili senza la nostra detta proportione. El che desotto tutto apparerà. Le quali conuenientie, benché altre assai sene potesse adure, queste ala condecente denorainatione del presente compendio sienno per sufficientia assegnate.
+
+Cap. VI: Dela sua degna commendatione.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Questa nostra proportione excelso Duca, ede tanta prerogatiua e de excellentia degna quanto dir mai se potesse per respecto dela sua infinita potentia. conciosia che senza sua notitia moltissime cose de admiratione dignissime ne in philosophia ne in alcuna altra scientia mai a luce poterieno peruenire. Elqualdono certamente dala inuariabile natura deli superiori principii. commo dici el gran philosopho Gampano nostro famosissimo mathematico sopra la decima del 1 4. glie concesso. Maxime vedendo lei esser quella che tante diuersita de solidi si de grandezza si de moltitudine de basi si ancora de figure e forme con certa irrationale simphonia fra loro acordi, commo nel nostro processo se intenderà ponendo li stupendi effecti quali (de vna linea secondo lei diuisa) non naturali ma diuini veramente sonno dappellare. Deli quali el primo a lor connumeratione fia questo.
+
+Cap. VII: Del primo effecto de vna linea diuisa secondo la nostra proportione.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Quando vna linea recta fia diuisa secondo la proportione hauente el mezzo e doi extremi (che cosi per altro nome dali sapienti fia nuncupata la nostra prelibata proportione) se ala sua magior parte se agionga la mita de tuta la linea cosi proportionalmente diuisa. Sequitara de necessita chel quadrato de lor congionto sempre sia quincuplo cioè 5 tanto del quadrato de dieta mita integrale.

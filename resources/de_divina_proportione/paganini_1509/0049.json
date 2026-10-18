@@ -1,29 +1,80 @@
 {
   "folio": "0049",
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PRIMA",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 55,
+      "roman": "LV",
+      "slug": "cap_55",
+      "title_it": "Del modo asaperne oltra li dicti più formare e commo lor forme in infinito procedano.",
+      "title_de": "Von dem Verfahren, um ausser den genannten Körpern deren mehr zu bilden und wie ihre Formen ins Unendliche fort- schreiten.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/055_cap_LV.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/055_cap_LV.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 56,
+      "roman": "LVI",
+      "slug": "cap_56",
+      "title_it": "Del corpo sperico la sua formatione.",
+      "title_de": "Vom sphärischen Körper und seiner Bildung.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/056_cap_LVI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/056_cap_LVI.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0049.g1.png",
       "bbox": [
-        605,
-        128,
-        342,
-        354
+        603,
+        126,
+        346,
+        358
       ],
       "white_point": 226,
-      "caption": "Folio 0049 Figure 1"
+      "caption": "Folio 0049 Diagram 1",
+      "margin": "right"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0049.g2.png",
       "bbox": [
-        764,
-        803,
-        173,
-        311
+        745,
+        775,
+        194,
+        371
       ],
       "white_point": 226,
-      "caption": "Folio 0049 Figure 2"
+      "caption": "Folio 0049 Diagram 2",
+      "margin": "right"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0049.c1.png",
+      "bbox": [
+        31,
+        892,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0049 Initial Cap 1"
     }
-  ]
+  ],
+  "page_num": 49,
+  "original_folio": "f. 17r",
+  "section_id": "compendio",
+  "title": "Cap. LV, Cap. LVI (f. 17r) — Del modo asaperne oltra li dicti più formare e commo lo"
 }

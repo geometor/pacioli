@@ -1,0 +1,29 @@
+:folio: 0135
+:page_num: 135
+:side: recto
+:original_folio: Libellus f. 26r
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0135.g1.png
+
+Folio 0135 (Libellus f. 26r) — Libellus — Tractatus Tertius (Libellus f. 26r)
+=============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0135.g1.png
+
+   **g1 (diagram)**: Folio 0135 Diagram 1
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Tertius (Libellus f. 26r)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela spera.
+
+Colophon (Kalen. Iunii M.D.VIIII)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+FINIS.
+
+Venetiis Impressum per probum virum Paganinum de Paganinis de Brixia. Decreto tamen publico ut nullus ibidem totique dominio annorum XV. curriculo imprimat vel imprimere faciat. Et alibi impressum sub quovis colore in publicum ducat sub poena in dicto privilegio contenta. Anno Redemptionis nostrae M.D.VIIII. Kalen. Iunii. Leonardo Lauretano Ve. Rem. Pu. Gubernante. Pontificatus Iulii II. Anno VI.

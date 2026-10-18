@@ -11,7 +11,19 @@
         1348
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 43 (Folio 0271): XLf 8IMV \u20222E-A\u00aby\u00a70(TH?T\u00a7HYi\u00ecVC? aTi^iCV"
+      "caption": "Plate XLI: Columna Laterata Triangula Solida (Κίων πλευρώδης τρίγωνος στερεός) — Solid Triangular Prism (Corpus Seratile)",
+      "type": "plate",
+      "plate_number": 41,
+      "plate_roman": "XLI",
+      "title_la": "Columna Laterata Triangula Solida",
+      "title_gr": "Κίων πλευρώδης τρίγωνος στερεός",
+      "title_en": "Solid Triangular Prism (Corpus Seratile)"
     }
-  ]
+  ],
+  "page_num": 271,
+  "side": "recto",
+  "original_folio": "Plate Folio 0271 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XLI — Columna Laterata Triangula Solida (Solid Triangular Prism (Corpus Seratile))"
 }

@@ -1,0 +1,28 @@
+:folio: 0311
+:page_num: 311
+:side: recto
+:original_folio: End Matter 0311 (recto)
+:book: End Matter and Colophon
+:chapters: None
+:graphics: 0311.g1.png
+
+Folio 0311 (End Matter 0311 (recto)) — Arbor Proportio et Proportionalitas
+==========================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0311.g1.png
+
+   **g1 (plate)**: Arbor Proportio et Proportionalitas
+
+Testo Originale (Paganini 1509)
+-------------------------------
+
+ARBOR PROPORTIO ET PROPORTIONALITAS.
+
+Maxime geometre interest de proportionibus totaliter disserere. Nam arithmeticus non invenit in omnibus numeris proportionis modum: infinite. n. sunt proportiones quas numerorum natura non patitur ut ex 5. elementorum E. clare habetur.
+
+Sicut numeri caput est unitas, ita proportionum aequalitatem esse principium. B. 2. musi. capi. 15. Amica. n. est similitudo.
+
+Et sic in infinitum in ultimis speciebus. Quae omnia et singula in Summa nostra arithmetice et geometrie theorice et pratice sigillatim declarata sunt distinctione 6. tractatu primo per totum. Ideo ibi recurras et contentaberis non immemor 5. Euclidis.

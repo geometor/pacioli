@@ -1,0 +1,23 @@
+:folio: 0259
+:page_num: 259
+:side: recto
+:original_folio: Plate Folio 0259 (recto)
+:book: Appendix II: Polyhedra Plates by Leonardo da Vinci
+:chapters: None
+:graphics: 0259.g1.png
+
+Folio 0259 (Plate Folio 0259 (recto)) — Plate XXXV — Vigintisex Basium Planum Solidum (Solid 26-Base Body (Rhombicuboctahedron))
+================================================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0259.g1.png
+
+   **g1 (plate)**: Plate XXXV: Vigintisex Basium Planum Solidum (Εἰκοσιεξάεδρον ἐπίπεδον στερεόν) — Solid 26-Base Body (Rhombicuboctahedron)
+
+Tabula XXXV (No. 35)
+--------------------
+
+- **Titulus Latinus**: *Vigintisex Basium Planum Solidum*
+- **Titulus Graecus**: Εἰκοσιεξάεδρον ἐπίπεδον στερεόν

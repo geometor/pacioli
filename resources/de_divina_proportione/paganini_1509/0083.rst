@@ -1,0 +1,15 @@
+:folio: 0083
+:page_num: 83
+:side: recto
+:original_folio: f. 34r
+:book: Part II: Tractato de l'Architectura
+:chapters: None
+:graphics: None
+
+Folio 0083 (f. 34r) — Blank Leaf (f. 34r)
+=========================================
+
+Folio Description
+-----------------
+
+Blank leaf / flyleaf (f. 34r) in the 1509 Venice witness (*Paganinus de Paganinis de Brixia*).

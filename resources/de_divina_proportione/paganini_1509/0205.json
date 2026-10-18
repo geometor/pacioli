@@ -11,7 +11,19 @@
         931
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 10 (Folio 0205): \u00ab\u25a03rOT\u00a3T/UHjUEfOV &Ti^iiV X"
+      "caption": "Plate X: Exahedron Abscisum Vacuum (Ἑξάεδρον ἀποτετμημένον κενόν) — Hollow Truncated Hexahedron (Cuboctahedron)",
+      "type": "plate",
+      "plate_number": 10,
+      "plate_roman": "X",
+      "title_la": "Exahedron Abscisum Vacuum",
+      "title_gr": "Ἑξάεδρον ἀποτετμημένον κενόν",
+      "title_en": "Hollow Truncated Hexahedron (Cuboctahedron)"
     }
-  ]
+  ],
+  "page_num": 205,
+  "side": "recto",
+  "original_folio": "Plate Folio 0205 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate X — Exahedron Abscisum Vacuum (Hollow Truncated Hexahedron (Cuboctahedron))"
 }

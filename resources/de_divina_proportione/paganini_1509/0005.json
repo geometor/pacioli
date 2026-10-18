@@ -1,0 +1,26 @@
+{
+  "folio": "0005",
+  "side": "recto",
+  "section": "Front Matter and Dedications",
+  "header": "1.",
+  "graphics": [
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "title",
+      "file": "0005.c1.png",
+      "bbox": [
+        213,
+        146,
+        184,
+        188
+      ],
+      "white_point": 226,
+      "caption": "Folio 0005 Initial Cap 1"
+    }
+  ],
+  "page_num": 5,
+  "original_folio": "A1r",
+  "section_id": "front_matter",
+  "title": "Title Page — Divina Proportione (1509)"
+}

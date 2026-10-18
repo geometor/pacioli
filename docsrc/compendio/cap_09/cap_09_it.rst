@@ -1,0 +1,25 @@
+:layout: book
+
+.. _compendio-cap_09-it:
+
+CAPITOLO IX (Italiano — 1509)
+=============================
+
+.. rubric:: Che cosa sia radici de numero e de altra quantità.
+
+.. container:: track-nav
+
+   :ref:`English <compendio-cap_09-en>` · **Italiano (1509)** · :ref:`Deutsch (1889) <compendio-cap_09-de>` · :ref:`Notes <compendio-cap_09-notes>` | :ref:`Conspectus <compendio-index>` · :ref:`← Prev <compendio-cap_08-it>` · :ref:`Next → <compendio-cap_10-it>`
+
+.. folio:: 0026 (f. 5v)
+   :initial: 0026.c1.png
+
+E perche nel nostro processo spesso acadera nominare Radici pero sucinte qui me par chiarire quello importi, auenga che diffusamente nellopera nostra ne sia dicto in tutti modi. Non dimeno dico la radice de vna quantità essere medesimamente vna quantità laquale multiplicata in se fa quella quantità delaquale ella fia detta esser Radice e quella tal multiplicatione facta in se se chiama quadrato de dieta radice. Commo diciamo la R. d. 9. esser 3. e de 16. esser 4. e de 25. esser 5 cosi neglialtri e 9. e 16. e 25 sonno detti quadrati. E per questo e da sapere che sono alcune quantità lequali non hano R. che per numero aponto se possa nominare. Commo io, non ha numero che in se multipHcato facia epso io. aponto. e cosi 11. 12. i3. e altri simih. E pero sonno e nascano de doi sorte R. luna detta discreta ,0 vogham dire rationale e fia che per numero aponto se pò asegnare corno de 9 la R. fia 3. E lai tra e detta sorda, e fia quella che per numero non se pò aponto dare. Commo habiam detto dela R. de io. e altri. E queste per altro nome son dette irrationali. impero che tutte quelle quantità che per numero aponto non se possano asegnare in larte sonno dette irrationali. e quelli che per numero se possano dare sonno dette rationah. E questo al proposito nostro dele R. basti.
+
+Marginal Woodcut Diagrams (Paganini 1509)
+-----------------------------------------
+
+.. figure:: 0026.g1.png
+   :align: center
+
+   Folio 0026 Marginalia 1

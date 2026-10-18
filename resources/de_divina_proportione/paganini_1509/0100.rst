@@ -1,0 +1,42 @@
+:folio: 0100
+:page_num: 100
+:side: verso
+:original_folio: Libellus f. 8v
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0100.g1.png, 0100.g2.png, 0100.g3.png, 0100.g4.png, 0100.c1.png, 0100.c2.png
+
+Folio 0100 (Libellus f. 8v) — Libellus — Tractatus Primus (Libellus f. 8v)
+==========================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0100.g1.png
+
+   **g1 (diagram)**: Folio 0100 Diagram 1
+
+.. picture:: 0100.g2.png
+
+   **g2 (diagram)**: Folio 0100 Diagram 2
+
+.. picture:: 0100.g3.png
+
+   **g3 (diagram)**: Folio 0100 Diagram 3
+
+.. picture:: 0100.g4.png
+
+   **g4 (diagram)**: Folio 0100 Diagram 4
+
+.. picture:: 0100.c1.png
+
+   **c1 (initial)**: Folio 0100 Initial Cap 1
+
+.. picture:: 0100.c2.png
+
+   **c2 (initial)**: Folio 0100 Initial Cap 2
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Primus (Libellus f. 8v)**: Casi geometrici e algebrici (*Casus*) de' lati, cateti, diagonali e superficie dele base triangulari, quadrate e pentagonali.

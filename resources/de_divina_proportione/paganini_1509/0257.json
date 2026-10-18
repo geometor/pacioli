@@ -11,7 +11,19 @@
         1515
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 36 (Folio 0257): dWataE^gfl\u00bb \u00abTyoTtTpHjuft'ev tTwqiJLdcv ruvev XXXI I Jl"
+      "caption": "Plate XXXIIII: Dodecahedron Abscisum Elevatum Vacuum (Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον κενόν) — Hollow Elevated Truncated Dodecahedron",
+      "type": "plate",
+      "plate_number": 34,
+      "plate_roman": "XXXIIII",
+      "title_la": "Dodecahedron Abscisum Elevatum Vacuum",
+      "title_gr": "Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον κενόν",
+      "title_en": "Hollow Elevated Truncated Dodecahedron"
     }
-  ]
+  ],
+  "page_num": 257,
+  "side": "recto",
+  "original_folio": "Plate Folio 0257 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XXXIIII — Dodecahedron Abscisum Elevatum Vacuum (Hollow Elevated Truncated Dodecahedron)"
 }

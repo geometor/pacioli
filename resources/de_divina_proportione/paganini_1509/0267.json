@@ -11,7 +11,19 @@
         1515
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 41 (Folio 0267): f<SJso/.tHKoyT\u00ab<fr9;iXE(r'<;of oti^\u00ecov XXXIX"
+      "caption": "Plate XXXIX: Septuaginta Duarum Basium Solidum (Ἑβδομηκονταδισσάεδρον στερεόν) — Solid 72-Base Body",
+      "type": "plate",
+      "plate_number": 39,
+      "plate_roman": "XXXIX",
+      "title_la": "Septuaginta Duarum Basium Solidum",
+      "title_gr": "Ἑβδομηκονταδισσάεδρον στερεόν",
+      "title_en": "Solid 72-Base Body"
     }
-  ]
+  ],
+  "page_num": 267,
+  "side": "recto",
+  "original_folio": "Plate Folio 0267 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XXXIX — Septuaginta Duarum Basium Solidum (Solid 72-Base Body)"
 }

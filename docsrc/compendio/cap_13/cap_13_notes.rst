@@ -1,0 +1,29 @@
+:layout: book
+
+.. _compendio-cap_13-notes:
+
+CHAPTER XIII — Critical Commentary & Notes
+==========================================
+
+.. rubric:: On Its Fourth Ineffable Effect
+
+.. container:: track-nav
+
+   :ref:`English <compendio-cap_13-en>` · :ref:`Italiano (1509) <compendio-cap_13-it>` · :ref:`Deutsch (1889) <compendio-cap_13-de>` · **Notes** | :ref:`Conspectus <compendio-index>` · :ref:`← Prev <compendio-cap_12-notes>` · :ref:`Next → <compendio-cap_14-notes>`
+
+Historical and Philological Commentary
+--------------------------------------
+
+1. **Campanus XIII.4 vs. Heiberg :just:`XIII.5` (Ordering Inversion in Book XIII)**: In Campanus of Novara's Latin edition of *Elements* Book XIII, Heiberg's Propositions 4 and 5 are transposed! Specifically:
+   - **Campanus XIII.4** (= Heiberg :just:`XIII.5`): If a straight line $AB$ is cut in extreme and mean ratio at $C$ (with greater segment $AC$), and $AD = AC$ is added to $AB$, then the whole $BD = AB + AC$ is cut in extreme and mean ratio at $A$, with greater segment $AB$.
+   - **Campanus XIII.5** (= Heiberg :just:`XIII.4`): If a straight line $AB$ is cut in extreme and mean ratio, the sum of the squares on the whole $AB$ and the lesser segment $BC$ is triple the square on the greater segment $AC$.
+   Pacioli follows Campanus's numbering strictly in Chapters XIII and XIV: Chapter XIII gives Heiberg :just:`XIII.5` (citing *la quarta del terzodecimo*), and Chapter XIV gives Heiberg :just:`XIII.4` (citing *la quinta del 13.*).
+2. **Difference of Squares Identity**: Notice how cleanly the product of the conjugate binomial and apotome evaluates: $(\sqrt{125} - 5)(\sqrt{125} + 5) = 125 - 25 = 100 = 10^2$.
+
+Philological and Folio Apparatus
+--------------------------------
+
+- **1509 Paganini Witness Folios**: 0027 (f. 6r–f. 6r)
+- **Winterberg 1889 Italian Source**: ``winterberg/01_divina_proportione_italian/013_cap_XIII.txt``
+- **Winterberg 1889 German Source**: ``winterberg/03_divina_proportione_german/013_cap_XIII.txt``
+- **Marginal Woodcut Diagrams**: 0 figure(s) extracted from the 1509 Venice witness.

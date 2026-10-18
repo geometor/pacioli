@@ -1,65 +1,26 @@
 {
   "folio": "0131",
+  "side": "recto",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "TERTiVS",
   "graphics": [
     {
-      "id": "g1",
-      "file": "0131.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0131.c1.png",
       "bbox": [
-        736,
-        57,
-        156,
-        88
+        23,
+        914,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0131 Figure 1"
-    },
-    {
-      "id": "g2",
-      "file": "0131.g2.png",
-      "bbox": [
-        578,
-        387,
-        219,
-        114
-      ],
-      "white_point": 226,
-      "caption": "Folio 0131 Figure 2"
-    },
-    {
-      "id": "g3",
-      "file": "0131.g3.png",
-      "bbox": [
-        653,
-        613,
-        256,
-        136
-      ],
-      "white_point": 226,
-      "caption": "Folio 0131 Figure 3"
-    },
-    {
-      "id": "g4",
-      "file": "0131.g4.png",
-      "bbox": [
-        700,
-        833,
-        149,
-        117
-      ],
-      "white_point": 226,
-      "caption": "Folio 0131 Figure 4"
-    },
-    {
-      "id": "g5",
-      "file": "0131.g5.png",
-      "bbox": [
-        578,
-        970,
-        38,
-        61
-      ],
-      "white_point": 226,
-      "caption": "Folio 0131 Figure 5"
+      "caption": "Folio 0131 Initial Cap 1"
     }
-  ]
+  ],
+  "page_num": 131,
+  "original_folio": "Libellus f. 24r",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Tertius (Libellus f. 24r)"
 }

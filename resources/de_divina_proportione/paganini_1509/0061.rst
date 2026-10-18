@@ -1,0 +1,34 @@
+:folio: 0061
+:page_num: 61
+:side: recto
+:original_folio: f. 23r
+:book: Part I: Compendio de Divina Proportione
+:chapters: compendio/cap_71 (Cap. LXXI), architectura/dedication (Prohemio)
+:graphics: 0061.c1.png, 0061.c2.png
+
+Folio 0061 (f. 23r) — Cap. LXXI, Prohemio (Architectura) (f. 23r) — De quello se intenda per questi vocabuli fra le mathema
+===========================================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0061.c1.png
+
+   **c1 (initial)**: Folio 0061 Initial Cap 1
+
+.. picture:: 0061.c2.png
+
+   **c2 (initial)**: Folio 0061 Initial Cap 2
+
+Testo Italiano (Paganini 1509 / Winterberg 1889)
+------------------------------------------------
+
+Cap. LXXI: De quello se intenda per questi vocabuli fra le mathematici vsitati cioè ypothesi ypothumissa corausto cono pyramidale corda pentagonica perpendiculare catheto dyametro paralelo- grammo dyagonale centro saetta. (continuatio)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+E qui nela inclita vostra magna cita de Milano non con mediocri affani e longhe vigilie sotto lombra de quella e del suo quanto figliuolo mio immeritamente peculiare e singulare patrone San Galeazzo Sforza Seuerino de Aragonia aniuno nele militari posponendo. E dele nostre discipline summo amatore, maxime ala giornata dela assidua sua lectione de quelle gustando sutilissimo e suaue fructo. E sia per conclusione del nostro processo la humil venia e debita reuerentia del perpetuo seruo de vostra celsitudine ala quale infinitamente in tutti modi se recomanda. Que iterum atque iterum ad vota felicissime valeat. Finis a di 14. decembre in Milano nel nostro almo conuento MCCCCXCVII. Sedente summo pontifice Alexandro VI. del suo pontificato anno VII. I) 1. da.
+
+Tractato de l'Architectura — Prohemio: Ali suoi carissimi discipuli e alieui Cesaro dal saxo. Cera del cera. Rainer Francesco de pippo. Bernardino e Marsilio da monte e Hieronymo del jecciarino e compagni de Borgo San Sepulchro degni lapicidi de scultura, e architectonica faculta solertissimi sectatori. Frate Luca paciuolo suo conteraneo ordinis Minorum et sacrae theologie professor. Si Placet Deo.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Essendo da voi più volte pregato che oltra la prathica de Arithmetica e Geometria datoui insiemi ancora con quelle dar viuolesse alcuna norma e modo a poter consequire el vostro disiato effecto delarchitectura non posso (quantunque occupatissimo per la commune vtilita deli presenti e futuri in la expeditione dele nostre opere e discipline Mathematici quali so con ogni solicitudine in procincto de loro impressione) che se non in tutto ma in parte non satisfacio ala vostra humana preghiera: maxime quanto cognoscero al proposito vostro necessario. Onde comprendo senza dubio (comme nel laltre commendabili parte sempre ve sete con ogni studio exercitandoue delectati) cosi in questa con più ardente desiderio siati disposti. Pero recusando ogni altra impresa mison messo tutto prontissimo volerue (commo e dicto) almanco in parte satisfarui. Non con intento al presente de simile arte: immo scientia a pieno traclare reseruandomi con laiuto delo altissimo a più commodi tempi e ocio che a tali discipline saspectano per esser materia da coturno e non da scioco. Si che vi prego che interim con questo operando non ve fìa tedio laspectare del qual (se pegio non aduiene) spero in breue sirete a pieno da me satisfacti. e anco con quella prometto darue piena notitia de prospectiua medianti li documenti del nostro conterraneo e contemporale di tal facoltà ali tempi nostri Monarca Maestro Petro de franceschi dela qual già feci dignissimo compendio, e per noi ben apreso. E del suo caro quanto fratello Maestro Lorenzo canozo da Lendenara: qual medesimamente in dieta faculta fo ali tempi suoi supremo chel dimostrano per tutto le sue famose opere si intarsia nel degno coro del Sancto a Padua e sua sacrestia, e in Vinezia ala Ca grande comme in la picture neli medemi luoghi e altroue asai. E ancora al presente del suo figliuolo 1. son. Giovanmarco mio caro conpare, el quale summamente patriza comme lopere sue in Roico el degno coro in nostro conuento Venegia e in la Mirandola de architectura la degna fortezza con tutta oportunita bene intesa e de continuo operando nel degno hedificio auite nel cauar canali in Vinegia se manifesta. Si che ciascuno di voi ne sira in tutto satisfacto : benché al presente ne sciate a sufficientia ben moniti etc. Bene valete e a voi tutti me recomando. Ex Venitiis kal. Maii MDIX. Per ordine del nostro desiderio tiro lo infra scripto modo videlicet. Prima diuideremo larchitectura in tre parti principali de li luophi publici che luna fìa deli templi sacri, laltra de quelli deputati ala salute e defensione dele piccole e grandi republiche e deli luoghi ancora priuati e particulari la terza de quelli ala propria oportunita necessarii deli proprii domicilii quali ci hanno dale cose contrarie e ali corpi nostri nociue sempre a defendere. Peroche in queste e circa queste dieta faculta sue forze extende etc. In lequali dilectissimi mei al presente volendo intrare troppo longo serebbe el processo reseruandomi comme e dicto.

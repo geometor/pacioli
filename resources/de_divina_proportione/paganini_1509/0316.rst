@@ -1,0 +1,15 @@
+:folio: 0316
+:page_num: 316
+:side: verso
+:original_folio: End Matter 0316 (verso)
+:book: End Matter and Colophon
+:chapters: None
+:graphics: None
+
+Folio 0316 (End Matter 0316 (verso)) — Endleaf (0316)
+=====================================================
+
+Folio Description
+-----------------
+
+Blank leaf / flyleaf (End Matter 0316 (verso)) in the 1509 Venice witness (*Paganinus de Paganinis de Brixia*).

@@ -1,89 +1,52 @@
 {
   "folio": "0048",
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PA*S",
   "graphics": [
     {
-      "id": "g1",
-      "file": "0048.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0048.c1.png",
       "bbox": [
-        396,
-        66,
-        63,
-        106
+        403,
+        735,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0048 Figure 1"
+      "caption": "Folio 0048 Initial Cap 1"
+    }
+  ],
+  "page_num": 48,
+  "original_folio": "f. 16v",
+  "section_id": "compendio",
+  "title": "Cap. LIV, Cap. LV (f. 16v) — Dal corpo de 72 basi piano solido euacuo.",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 54,
+      "roman": "LIV",
+      "slug": "cap_54",
+      "title_it": "Dal corpo de 72 basi piano solido euacuo.",
+      "title_de": "Vom ebenen, vollen oder hohlen Zweiundsiebzigflächner.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/054_cap_LIV.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/054_cap_LIV.txt",
+      "starts_on_folio": false
     },
     {
-      "id": "g2",
-      "file": "0048.g2.png",
-      "bbox": [
-        397,
-        255,
-        62,
-        62
-      ],
-      "white_point": 226,
-      "caption": "Folio 0048 Figure 2"
-    },
-    {
-      "id": "g3",
-      "file": "0048.g3.png",
-      "bbox": [
-        397,
-        622,
-        62,
-        41
-      ],
-      "white_point": 226,
-      "caption": "Folio 0048 Figure 3"
-    },
-    {
-      "id": "g4",
-      "file": "0048.g4.png",
-      "bbox": [
-        397,
-        727,
-        62,
-        169
-      ],
-      "white_point": 226,
-      "caption": "Folio 0048 Figure 4"
-    },
-    {
-      "id": "g5",
-      "file": "0048.g5.png",
-      "bbox": [
-        398,
-        1027,
-        41,
-        63
-      ],
-      "white_point": 226,
-      "caption": "Folio 0048 Figure 5"
-    },
-    {
-      "id": "g6",
-      "file": "0048.g6.png",
-      "bbox": [
-        399,
-        1198,
-        60,
-        42
-      ],
-      "white_point": 226,
-      "caption": "Folio 0048 Figure 6"
-    },
-    {
-      "id": "g7",
-      "file": "0048.g7.png",
-      "bbox": [
-        398,
-        1263,
-        61,
-        47
-      ],
-      "white_point": 226,
-      "caption": "Folio 0048 Figure 7"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 55,
+      "roman": "LV",
+      "slug": "cap_55",
+      "title_it": "Del modo asaperne oltra li dicti più formare e commo lor forme in infinito procedano.",
+      "title_de": "Von dem Verfahren, um ausser den genannten Körpern deren mehr zu bilden und wie ihre Formen ins Unendliche fort- schreiten.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/055_cap_LV.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/055_cap_LV.txt",
+      "starts_on_folio": true
     }
   ]
 }

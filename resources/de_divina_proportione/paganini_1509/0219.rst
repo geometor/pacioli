@@ -1,0 +1,23 @@
+:folio: 0219
+:page_num: 219
+:side: recto
+:original_folio: Plate Folio 0219 (recto)
+:book: Appendix II: Polyhedra Plates by Leonardo da Vinci
+:chapters: None
+:graphics: 0219.g1.png
+
+Folio 0219 (Plate Folio 0219 (recto)) — Plate XV — Octahedron Planum Solidum (Solid Regular Octahedron)
+=======================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0219.g1.png
+
+   **g1 (plate)**: Plate XV: Octahedron Planum Solidum (Ὀκτάεδρον ἐπίπεδον στερεόν) — Solid Regular Octahedron
+
+Tabula XV (No. 15)
+------------------
+
+- **Titulus Latinus**: *Octahedron Planum Solidum*
+- **Titulus Graecus**: Ὀκτάεδρον ἐπίπεδον στερεόν

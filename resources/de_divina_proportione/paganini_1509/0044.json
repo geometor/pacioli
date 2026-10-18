@@ -1,41 +1,78 @@
 {
   "folio": "0044",
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PARS",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 48,
+      "roman": "XLVIII",
+      "slug": "cap_48",
+      "title_it": "Dela forma edispositione del tetracedron piano solido o ver vacuo e del absciso solido piano o ver vacuo edelo eleuato solido o ver vacuo.",
+      "title_de": "Von der Gestalt und Anordnung des ebenen, vollen und hohlen und des abgestumpften vollen, ebenen oder hohlen, und des erhöhten vollen oder hohlen Tetraeders.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/048_cap_XLVIII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/048_cap_XLVIII.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 49,
+      "roman": "XLIX",
+      "slug": "cap_49",
+      "title_it": "Delo exacedron piano solido o ver vacuo absciso soHdo o ver vacuo eleuato piano e eleuato absciso.",
+      "title_de": "Vom ebenen vollen und leeren, abgeschnittenen vollen und leeren, erhabenen ebenen und erhabenen abgeschnittenen Hexaeder.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/049_cap_XLIX.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/049_cap_XLIX.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 50,
+      "roman": "L",
+      "slug": "cap_50",
+      "title_it": "Delo octocedron piano solido o ver vacuo e absciso solido o ver vacuo edelo eleuato solido o ver vacuo.",
+      "title_de": "Vom ebenen vollen oder hohlen, und abgeschnittenen vollen oder hohlen, und erhabenen vollen oder hohlen Oktaeder.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/050_cap_L.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/050_cap_L.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
-      "id": "g1",
-      "file": "0044.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0044.c1.png",
       "bbox": [
-        408,
-        324,
-        51,
-        148
+        416,
+        331,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0044 Figure 1"
+      "caption": "Folio 0044 Initial Cap 1"
     },
     {
-      "id": "g2",
-      "file": "0044.g2.png",
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0044.c2.png",
       "bbox": [
-        407,
-        562,
-        48,
-        61
+        413,
+        1036,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0044 Figure 2"
-    },
-    {
-      "id": "g3",
-      "file": "0044.g3.png",
-      "bbox": [
-        411,
-        1028,
-        48,
-        149
-      ],
-      "white_point": 226,
-      "caption": "Folio 0044 Figure 3"
+      "caption": "Folio 0044 Initial Cap 2"
     }
-  ]
+  ],
+  "page_num": 44,
+  "original_folio": "f. 14v",
+  "section_id": "compendio",
+  "title": "Cap. XLVIII, Cap. XLIX, Cap. L (f. 14v) — Dela forma edispositione del tetracedron piano solido o"
 }

@@ -11,7 +11,14 @@
         1404
       ],
       "white_point": 226,
-      "caption": "Folio 0137 Figure 1"
+      "caption": "Divina Proportio — Caput Humanum (Proportional Profile of the Human Head)",
+      "type": "plate"
     }
-  ]
+  ],
+  "page_num": 137,
+  "side": "recto",
+  "original_folio": "Plate Folio 0137 (recto)",
+  "section_id": "alphabet",
+  "section": "Appendix I: The Roman Geometric Alphabet",
+  "title": "Divina Proportio — Caput Humanum (Proportional Profile of the Human Head)"
 }

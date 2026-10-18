@@ -1,0 +1,26 @@
+{
+  "folio": "0012",
+  "side": "verso",
+  "section": "Front Matter and Dedications",
+  "header": "<",
+  "graphics": [
+    {
+      "id": "g1",
+      "type": "marginalia",
+      "file": "0012.g1.png",
+      "bbox": [
+        298,
+        298,
+        65,
+        66
+      ],
+      "white_point": 226,
+      "caption": "Folio 0012 Marginalia 1",
+      "margin": "left"
+    }
+  ],
+  "page_num": 12,
+  "original_folio": "A4v",
+  "section_id": "front_matter",
+  "title": "Tabula — Table of Contents (A4v)"
+}

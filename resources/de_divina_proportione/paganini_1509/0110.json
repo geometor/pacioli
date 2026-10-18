@@ -1,41 +1,54 @@
 {
   "folio": "0110",
+  "side": "verso",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "TRACTATVS",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0110.g1.png",
       "bbox": [
-        76,
-        120,
-        383,
-        318
+        74,
+        118,
+        279,
+        305
       ],
       "white_point": 226,
-      "caption": "Folio 0110 Figure 1"
+      "caption": "Folio 0110 Diagram 1",
+      "margin": "left"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0110.g2.png",
       "bbox": [
-        75,
-        523,
-        384,
-        346
+        73,
+        521,
+        280,
+        305
       ],
       "white_point": 226,
-      "caption": "Folio 0110 Figure 2"
+      "caption": "Folio 0110 Diagram 2",
+      "margin": "left"
     },
     {
       "id": "g3",
+      "type": "diagram",
       "file": "0110.g3.png",
       "bbox": [
-        83,
-        921,
-        305,
-        302
+        81,
+        919,
+        272,
+        306
       ],
       "white_point": 226,
-      "caption": "Folio 0110 Figure 3"
+      "caption": "Folio 0110 Diagram 3",
+      "margin": "left"
     }
-  ]
+  ],
+  "page_num": 110,
+  "original_folio": "Libellus f. 13v",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Secundus (Libellus f. 13v)"
 }

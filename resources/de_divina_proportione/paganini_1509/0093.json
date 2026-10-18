@@ -1,29 +1,82 @@
 {
   "folio": "0093",
+  "side": "recto",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "PRIMVS",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0093.g1.png",
       "bbox": [
-        622,
-        127,
-        321,
-        310
+        623,
+        100,
+        322,
+        367
       ],
       "white_point": 226,
-      "caption": "Folio 0093 Figure 1"
+      "caption": "Folio 0093 Diagram 1",
+      "margin": "right"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0093.g2.png",
       "bbox": [
-        633,
-        585,
-        316,
-        309
+        617,
+        552,
+        334,
+        377
       ],
       "white_point": 226,
-      "caption": "Folio 0093 Figure 2"
+      "caption": "Folio 0093 Diagram 2",
+      "margin": "right"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0093.c1.png",
+      "bbox": [
+        14,
+        291,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0093 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0093.c2.png",
+      "bbox": [
+        15,
+        548,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0093 Initial Cap 2"
+    },
+    {
+      "id": "c3",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0093.c3.png",
+      "bbox": [
+        14,
+        1041,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0093 Initial Cap 3"
     }
-  ]
+  ],
+  "page_num": 93,
+  "original_folio": "Libellus f. 5r",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Primus (Libellus f. 5r)"
 }

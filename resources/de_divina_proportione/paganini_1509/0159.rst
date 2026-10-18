@@ -1,0 +1,22 @@
+:folio: 0159
+:page_num: 159
+:side: recto
+:original_folio: Plate Folio 0159 (recto)
+:book: Appendix I: The Roman Geometric Alphabet
+:chapters: None
+:graphics: 0159.g1.png
+
+Folio 0159 (Plate Folio 0159 (recto)) — Roman Geometric Alphabet — Lettera L
+============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0159.g1.png
+
+   **g1 (plate)**: Roman Geometric Alphabet — Lettera L
+
+Testo Originale (Paganini 1509)
+-------------------------------
+
+Questa lettera L se cava del tondo e del suo quadro. La sua grosseza vol esser de le nove parti una de laltezza. La sua largheza mezo quadro cum questi tondi soprascripti. La gamba sutile de sotto vol esser per la mita de la grossa comme quella del E et del F.

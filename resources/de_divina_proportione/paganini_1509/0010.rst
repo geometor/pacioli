@@ -1,0 +1,142 @@
+:folio: 0010
+:page_num: 10
+:side: verso
+:original_folio: A3v
+:book: Front Matter and Dedications
+:chapters: None
+:graphics: 0010.g1.png, 0010.g2.png, 0010.g3.png
+
+Folio 0010 (A3v) — Nomina et Numerus Corporum (A3v)
+===================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0010.g1.png
+
+   **g1 (diagram)**: Folio 0010 Diagram 1
+
+.. picture:: 0010.g2.png
+
+   **g2 (diagram)**: Folio 0010 Diagram 2
+
+.. picture:: 0010.g3.png
+
+   **g3 (diagram)**: Folio 0010 Diagram 3
+
+Testo Originale (Paganini 1509)
+-------------------------------
+
+Dodecahedron.
+
+27. Planum solidarn
+
+28. Planum vacuum
+
+29. Abscisum solidum
+
+30. Abscisum vacuum
+3i. Eleuatum solidum
+
+32. Eleuatum vacuum
+
+33. Abscisum eleuatum solidum
+
+34. Abscisum eleuatum vacuum
+
+^(odsKasÖQOv.
+
+ETtlTCsdoV 6TEQE0V
+STlLTtsdoV KEVOV
+
+a7totst{irj^svov óxeqeov
+ajiorsr^rjlisvov %svov
+
+STirjQflSVOV GtEQSOV
+Enì]Q{lEVOV ÌCEVOV
+
+KTlOTEr^rjflEVOV ETtriQ^lEVOV 6tE-
+QEOV
+
+ajiotst^rjfiEvov ETcrjQ^Evov xevov.
+
+Vigintisex basium.
+
+35. Planum solidum
+
+36. Planum vacuum
+
+37. Abscisum eleuatum solidum
+
+38. Abscisum eleuatum vacuum
+3g. Septuaginta duarum basium
+
+solidum
+
+40. Septuaginta duarum basium
+vacuum
+
+41. Columna laterata triangula
+solida seu corpus seratile
+
+42. Columna laterata triangula
+vacua
+
+43. Pyramis laterata triangula
+solida
+
+44. Pyramis laterata triangula
+vacua
+
+45. Columna laterata quadran-
+gula solida
+
+46. Columna lacerata quadran-
+gula vacua
+
+47. Pyramis laterata quadran-
+gula solida
+
+48. Pyramis laterata quadran-
+gula vacua
+
+ELXOGiE^aEÖQOV.
+
+ETILTIEÒOV 6TEQE0V
+ETlLTtEdoV 7CSV0V
+
+anotEt^Tq^EVOV ETtrjQ^UEVOV 6tE-
+QEOV
+
+an or Et {.lì] UE vov etitjq^ievov kevov
+£ßooiiif]Kovta ÖLggasÖQOv Gxeqeov
+
+sßöo^irjJtovta diggaEÖQOv %evov
+
+TtLCJv TilEVQodrig axEQEog rj 6g}{icc
+-hXelGov
+
+%IC3V nlEVQCOOì]g TQLycovog TCEVOg
+
+TivQCifiLg 7ilEVQG)di]g TQiycovog
+
+0tEQSa
+
+7ivQcc{iig TtlsvQOÖrjg XQiycovog
+
+XEVÌ]
+
+Tiicov 7r2.EVQCo3ì]g XEXQayavog
+
+GXEQEOV
+
+%Lcov TckEVQcodrig xsxQaycovog
+
+xEì'og
+nvQt((xtg 7tXEVQ(od)]g XEXQuyavog
+
+GXEQECC
+
+TivQccfiig xlEVQCJÓììg XETQaycovog
+
+KEVr]

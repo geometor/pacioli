@@ -11,7 +11,19 @@
         963
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 18 (Folio 0221): \u25a0 Oh.T\u00ab\u00a3<Ss\u00a7\u00abV ETS-175-\u00c9^OV KIVO.V"
+      "caption": "Plate XVI: Octahedron Planum Vacuum (Ὀκτάεδρον ἐπίπεδον κενόν) — Hollow Regular Octahedron",
+      "type": "plate",
+      "plate_number": 16,
+      "plate_roman": "XVI",
+      "title_la": "Octahedron Planum Vacuum",
+      "title_gr": "Ὀκτάεδρον ἐπίπεδον κενόν",
+      "title_en": "Hollow Regular Octahedron"
     }
-  ]
+  ],
+  "page_num": 221,
+  "side": "recto",
+  "original_folio": "Plate Folio 0221 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XVI — Octahedron Planum Vacuum (Hollow Regular Octahedron)"
 }

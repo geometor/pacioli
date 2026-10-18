@@ -1,0 +1,23 @@
+:folio: 0201
+:page_num: 201
+:side: recto
+:original_folio: Plate Folio 0201 (recto)
+:book: Appendix II: Polyhedra Plates by Leonardo da Vinci
+:chapters: None
+:graphics: 0201.g1.png
+
+Folio 0201 (Plate Folio 0201 (recto)) — Plate VIII — Exahedron Planum Vacuum (Hollow Regular Hexahedron (Cube))
+===============================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0201.g1.png
+
+   **g1 (plate)**: Plate VIII: Exahedron Planum Vacuum (Ἑξάεδρον ἐπίπεδον κενόν) — Hollow Regular Hexahedron (Cube)
+
+Tabula VIII (No. 8)
+-------------------
+
+- **Titulus Latinus**: *Exahedron Planum Vacuum*
+- **Titulus Graecus**: Ἑξάεδρον ἐπίπεδον κενόν

@@ -11,7 +11,19 @@
         1088
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 1 (Folio 0187): TtT{\u00ab.iS*\u00a3M l'&ti'&iS'CV ftJ-egCO^ I"
+      "caption": "Plate I: Tetrahedron Planum Solidum (Τετράεδρον ἐπίπεδον στερεόν) — Solid Regular Tetrahedron",
+      "type": "plate",
+      "plate_number": 1,
+      "plate_roman": "I",
+      "title_la": "Tetrahedron Planum Solidum",
+      "title_gr": "Τετράεδρον ἐπίπεδον στερεόν",
+      "title_en": "Solid Regular Tetrahedron"
     }
-  ]
+  ],
+  "page_num": 187,
+  "side": "recto",
+  "original_folio": "Plate Folio 0187 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate I — Tetrahedron Planum Solidum (Solid Regular Tetrahedron)"
 }

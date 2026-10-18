@@ -11,7 +11,19 @@
         1515
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 27 (Folio 0239): XXV tULA^Bt^\u00e9lttffiqftSISt aTt^iW"
+      "caption": "Plate XXV: Icosahedron Elevatum Solidum (Εἰκοσάεδρον ἐπηρμένον στερεόν) — Solid Elevated Icosahedron",
+      "type": "plate",
+      "plate_number": 25,
+      "plate_roman": "XXV",
+      "title_la": "Icosahedron Elevatum Solidum",
+      "title_gr": "Εἰκοσάεδρον ἐπηρμένον στερεόν",
+      "title_en": "Solid Elevated Icosahedron"
     }
-  ]
+  ],
+  "page_num": 239,
+  "side": "recto",
+  "original_folio": "Plate Folio 0239 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XXV — Icosahedron Elevatum Solidum (Solid Elevated Icosahedron)"
 }

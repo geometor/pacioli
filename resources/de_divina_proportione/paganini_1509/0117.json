@@ -1,41 +1,96 @@
 {
   "folio": "0117",
+  "side": "recto",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "TERT1VS",
   "graphics": [
     {
-      "id": "g1",
-      "file": "0117.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0117.c1.png",
       "bbox": [
-        578,
-        74,
-        368,
-        955
+        39,
+        139,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0117 Figure 1"
+      "caption": "Folio 0117 Initial Cap 1"
     },
     {
-      "id": "g2",
-      "file": "0117.g2.png",
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0117.c2.png",
       "bbox": [
-        578,
-        1049,
         43,
-        175
+        292,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0117 Figure 2"
+      "caption": "Folio 0117 Initial Cap 2"
     },
     {
-      "id": "g3",
-      "file": "0117.g3.png",
+      "id": "c3",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0117.c3.png",
       "bbox": [
-        578,
-        1246,
-        46,
-        75
+        42,
+        493,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0117 Figure 3"
+      "caption": "Folio 0117 Initial Cap 3"
+    },
+    {
+      "id": "c4",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0117.c4.png",
+      "bbox": [
+        34,
+        725,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0117 Initial Cap 4"
+    },
+    {
+      "id": "c5",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0117.c5.png",
+      "bbox": [
+        36,
+        870,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0117 Initial Cap 5"
+    },
+    {
+      "id": "c6",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0117.c6.png",
+      "bbox": [
+        39,
+        1057,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0117 Initial Cap 6"
     }
-  ]
+  ],
+  "page_num": 117,
+  "original_folio": "Libellus f. 17r",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Tertius (Libellus f. 17r)"
 }

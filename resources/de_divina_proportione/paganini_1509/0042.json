@@ -1,65 +1,97 @@
 {
   "folio": "0042",
-  "graphics": [
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": ",PARS",
+  "chapters": [
     {
-      "id": "g1",
-      "file": "0042.g1.png",
-      "bbox": [
-        385,
-        147,
-        74,
-        44
-      ],
-      "white_point": 226,
-      "caption": "Folio 0042 Figure 1"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 38,
+      "roman": "XXXVIII",
+      "slug": "cap_38",
+      "title_it": "Dela inscriptione del tetracedron in loctocedron.",
+      "title_de": "Von der Einschreibung des Tetraeders ins Oktaeder.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/038_cap_XXXVIII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/038_cap_XXXVIII.txt",
+      "starts_on_folio": true
     },
     {
-      "id": "g2",
-      "file": "0042.g2.png",
-      "bbox": [
-        387,
-        447,
-        72,
-        103
-      ],
-      "white_point": 226,
-      "caption": "Folio 0042 Figure 2"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 39,
+      "roman": "XXXIX",
+      "slug": "cap_39",
+      "title_it": "Dela formatione del duodecedron nello ycocedron.",
+      "title_de": "Von der Bildung des Dodekaeders im Ikosaeder.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/039_cap_XXXIX.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/039_cap_XXXIX.txt",
+      "starts_on_folio": true
     },
     {
-      "id": "g3",
-      "file": "0042.g3.png",
-      "bbox": [
-        392,
-        896,
-        67,
-        64
-      ],
-      "white_point": 226,
-      "caption": "Folio 0042 Figure 3"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 40,
+      "roman": "XL",
+      "slug": "cap_40",
+      "title_it": "Della collocatione delo ycocedron nel duodecedron.",
+      "title_de": "Von der Einstellung des Ikosaeders ins Dodekaeder.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/040_cap_XL.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/040_cap_XL.txt",
+      "starts_on_folio": true
     },
     {
-      "id": "g4",
-      "file": "0042.g4.png",
-      "bbox": [
-        390,
-        1156,
-        69,
-        35
-      ],
-      "white_point": 226,
-      "caption": "Folio 0042 Figure 4"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 41,
+      "roman": "XLI",
+      "slug": "cap_41",
+      "title_it": "Dela situatione del cubo in lo duodecedron.",
+      "title_de": "Von der Einstellung des Kubus in's Dodekaeder.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/041_cap_XLI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/041_cap_XLI.txt",
+      "starts_on_folio": true
     },
     {
-      "id": "g5",
-      "file": "0042.g5.png",
-      "bbox": [
-        394,
-        1280,
-        65,
-        47
-      ],
-      "white_point": 226,
-      "caption": "Folio 0042 Figure 5"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 42,
+      "roman": "XLII",
+      "slug": "cap_42",
+      "title_it": "Del octocedron nel duodecedron commo se formi.",
+      "title_de": "Wie das Oktaeder im Dodekaeder gebildet werde.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/042_cap_XLII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/042_cap_XLII.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 43,
+      "roman": "XLIII",
+      "slug": "cap_43",
+      "title_it": "Dela inclusione del tetracedron in dicto duodecedron.",
+      "title_de": "Vom Einschluss des Tetraeders in besagtes Dodekaeder.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/043_cap_XLIII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/043_cap_XLIII.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 44,
+      "roman": "XLIV",
+      "slug": "cap_44",
+      "title_it": "Dela fabrica del cubo in lo ycocedron.",
+      "title_de": "K Der Kubus wird im Ikosaeder gebilder, wenn man in letz-",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/044_cap_XLIV.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/044_cap_XLIV.txt",
+      "starts_on_folio": true
     }
-  ]
+  ],
+  "graphics": [],
+  "page_num": 42,
+  "original_folio": "f. 13v",
+  "section_id": "compendio",
+  "title": "Cap. XXXVIII, Cap. XXXIX, Cap. XL, Cap. XLI, Cap. XLII, Cap. XLIII, Cap. XLIV (f. 13v) — Dela inscriptione del tetracedron in loctocedron."
 }

@@ -1,77 +1,78 @@
 {
   "folio": "0030",
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PRIMA",
   "graphics": [
     {
-      "id": "g1",
-      "file": "0030.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0030.c1.png",
       "bbox": [
-        383,
-        54,
-        64,
-        47
+        388,
+        444,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0030 Figure 1"
+      "caption": "Folio 0030 Initial Cap 1"
     },
     {
-      "id": "g2",
-      "file": "0030.g2.png",
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0030.c2.png",
       "bbox": [
-        384,
-        434,
-        75,
-        201
+        391,
+        1132,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0030 Figure 2"
+      "caption": "Folio 0030 Initial Cap 2"
+    }
+  ],
+  "page_num": 30,
+  "original_folio": "f. 7v",
+  "section_id": "compendio",
+  "title": "Cap. XXI, Cap. XXII, Cap. XXIII (f. 7v) — Del suo 12. quasi incomprehensibile effecto.",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 21,
+      "roman": "XXI",
+      "slug": "cap_21",
+      "title_it": "Del suo 12. quasi incomprehensibile effecto.",
+      "title_de": "Von ihrer zwölften fast unbegreiflichen Wirkung.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/021_cap_XXI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/021_cap_XXI.txt",
+      "starts_on_folio": false
     },
     {
-      "id": "g3",
-      "file": "0030.g3.png",
-      "bbox": [
-        397,
-        782,
-        62,
-        47
-      ],
-      "white_point": 226,
-      "caption": "Folio 0030 Figure 3"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 22,
+      "roman": "XXII",
+      "slug": "cap_22",
+      "title_it": "Del 13. suo dignissimo effecto.",
+      "title_de": "Von ihrer dreizehnten werthesten Wirkung.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/022_cap_XXII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/022_cap_XXII.txt",
+      "starts_on_folio": true
     },
     {
-      "id": "g4",
-      "file": "0030.g4.png",
-      "bbox": [
-        386,
-        874,
-        68,
-        41
-      ],
-      "white_point": 226,
-      "caption": "Folio 0030 Figure 4"
-    },
-    {
-      "id": "g5",
-      "file": "0030.g5.png",
-      "bbox": [
-        386,
-        938,
-        62,
-        38
-      ],
-      "white_point": 226,
-      "caption": "Folio 0030 Figure 5"
-    },
-    {
-      "id": "g6",
-      "file": "0030.g6.png",
-      "bbox": [
-        389,
-        1126,
-        70,
-        146
-      ],
-      "white_point": 226,
-      "caption": "Folio 0030 Figure 6"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 23,
+      "roman": "XXIII",
+      "slug": "cap_23",
+      "title_it": "Cüp. XXIII.",
+      "title_de": "Wie aus Ehrfurcht vor unserem Heile die genannten Wirkungen endigen.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/023_cap_XXIII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/023_cap_XXIII.txt",
+      "starts_on_folio": true
     }
   ]
 }

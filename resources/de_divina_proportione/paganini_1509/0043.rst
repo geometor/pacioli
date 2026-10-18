@@ -1,0 +1,40 @@
+:folio: 0043
+:page_num: 43
+:side: recto
+:original_folio: f. 14r
+:book: Part I: Compendio de Divina Proportione
+:chapters: compendio/cap_45 (Cap. XLV), compendio/cap_46 (Cap. XLVI), compendio/cap_47 (Cap. XLVII), compendio/cap_48 (Cap. XLVIII)
+:graphics: 0043.c1.png
+
+Folio 0043 (f. 14r) — Cap. XLV, Cap. XLVI, Cap. XLVII, Cap. XLVIII (f. 14r) — Del modo aformare el tetracedron nello ycocedron.
+===============================================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0043.c1.png
+
+   **c1 (initial)**: Folio 0043 Initial Cap 1
+
+Testo Italiano (Paganini 1509 / Winterberg 1889)
+------------------------------------------------
+
+Cap. XLV: Del modo aformare el tetracedron nello ycocedron.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Non e dubio se in lo dicto ycocedron si formi el cubo commo desopra insegnammo e poi in epso cubo se fabrichi el tetracedron de necessita quello ancora virra essere inscripto al dicto ycocedron. Peroche li anguli solidi dela pyramide 4 basi triangulär! toccano quelli solidi del cubo e quelH del cubo toccano quelli delo ycocedron sequita de primo ad vltimum quelli del tetracedron toccare parimente quelle dello ycocedron. E per consequente el proposito nostro concluso per la 12. del i5. E questo quanto ale lor proposte inclusioni se aspecta.
+
+Cap. XLVI: Perche diete inscriptioni non possano esser più.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Onde excelso Duca per le cose discorse se manifesta che siando 5 li corpi regulari se cadauno in cadauno debitamente commo se presupone se potesse formare sequitaria che ognuno ne receuesse 4. E per consequente fra tutti veriano a esser 20 inscriptioni. cioè 4 volte 5. Ma per che ognuno non receue ognuno commo se aducto non sonno se non 12 inscriptioni. Cioè vna sola de loctacedron nel tetracedron. E doi nel cubo cioè del tetracedron e del octocedron. Edoi ancora neloctocedron cioè vna del cubo. E vna del tetracedron. E tre sonno quelle delo ycocedron cioè vna del duodecedron e vna del cubo elaltra del tetracedron. E 4 sonno quelle dello duodecedron cioè vna delo ycocedron laltra del cubo laltra deloctocedron. Eia quarta del tetracedron. Quali fra tutte, sonno 12 per numero. Perche in la pyramide 4 basi non sonno lati ne anguli ne superficie in li quali se possino appogiare li anguli deli tre altri regulari se non deloctocedron. El cubo ancora in se pò riceuere. La pyramide eloctocedron. Eloctocedron solamente el cubo eia pyramide e niun de questi non e possibile collocare alcuno deli altri doi cioè ycocedron e duoedcedron, E auenga che lo ycochedron ali 3 dia recepto solo quello a loctocedron ha denegato e questo auene per respecto del glorioso segno che tutti li demonii fa tremare cioè dela sanctà croci el quale le 3 linee che fra loro se tagliano a squadro pertracte dà vnangulo allaltro dyametralmente non e luogo in epso che se possino debitamente ala dispositione del dicto tetracedron protrahere. Ma el duodecedron per esser fraglialtri de singulare prerogatiua doctato a niuno ha prohibito o vero vetato alogiamento commo de tutti receptaculo, E per questo ancora lantico piatone insiemi conlaltre aducte lo atribui a luniuerso.
+
+Cap. XLVII: Commo in ciascuno deli dicti regulari se formi la spera.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Desopra commo seuisto excelso Duca hauemo ciascuno deli dicti 5 corpi regulari demostrato essere nella proposta spera inscriptibile e da quella circumscriptibile resta ora conuenientemente mostrare commo ancora la dieta spera cadauno depsi si possa inscriuere. El che qui sequente aduremo con euidente chiarezza viceuersa la spera in cadauno de loro poterse inscriuere. La qual cosa cosi apare. Peroche dal centro dela spera la quale circumscriue cadauno de questi tali corpi a tutte quante le basi de cadauno depsi eschino ouer tirise le perpendiculari. Le quali denecissita caderanno dentro li centri deli cerchi quali circumscriuemo aponto diete basi. E conciosia che tutti li cerchi 1. e In niun, 1. el quale fanno le tre linee. quali aponto circundano diete basi sienno equali siranno queste perpendiculari equali. Onde se dopo la quantità de vna depse circurascriueremo el cerchio sopra el centro dela spera che li circumscriue elo suo semicirculo giraremo atorno fia tanto che torni alluogo donde commenzo amouerse. Perche fia necessario che lui passi per tutte le extremita de tutte le perpendiculari conuenceremo per lo correlarlo dela i5. del 3. la spera descripta pel moto de questo semicirculo contingere ouer aponto toccare tutte le basi del corpo asegnato nel concorso dele perpendiculari. Peroche laspera non pò più contingere dele basi del corpo chel semicirculo toccasse quando se mouiua. Onde fia manifesto noi hauere inscripto la spera alo segnato corpo sicommo era proposto fare.
+
+Cap. XLVIII: Dela forma edispositione del tetracedron piano solido o ver vacuo e del absciso solido piano o ver vacuo edelo eleuato solido o ver vacuo.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I. II. El tetracedron piano solido o ver vacuo fia formato da 6 linee equali quali contengano 12 anguli superficiali e 4 soHdi e fanno fraloro 4 basi triangulari equilatere e equiangule. III. IV. Del scapezzo o ver absciso.

@@ -11,7 +11,19 @@
         993
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 6 (Folio 0197): L^^fJLlVOV KiVOV. VI"
+      "caption": "Plate VI: Tetrahedron Elevatum Vacuum (Τετράεδρον ἐπηρμένον κενόν) — Hollow Stellated (Elevated) Tetrahedron",
+      "type": "plate",
+      "plate_number": 6,
+      "plate_roman": "VI",
+      "title_la": "Tetrahedron Elevatum Vacuum",
+      "title_gr": "Τετράεδρον ἐπηρμένον κενόν",
+      "title_en": "Hollow Stellated (Elevated) Tetrahedron"
     }
-  ]
+  ],
+  "page_num": 197,
+  "side": "recto",
+  "original_folio": "Plate Folio 0197 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate VI — Tetrahedron Elevatum Vacuum (Hollow Stellated (Elevated) Tetrahedron)"
 }

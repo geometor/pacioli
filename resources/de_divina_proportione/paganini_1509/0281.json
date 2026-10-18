@@ -11,7 +11,19 @@
         1407
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 48 (Folio 0281): XLVI KlOJf 7B,A\u00abU\u00a70^M?TST\u00a7\u00abY(DJ'0;"
+      "caption": "Plate XLVI: Columna Laterata Quadrangula Vacua (Κίων πλευρώδης τετράγωνος κενός) — Hollow Quadrangular Prism",
+      "type": "plate",
+      "plate_number": 46,
+      "plate_roman": "XLVI",
+      "title_la": "Columna Laterata Quadrangula Vacua",
+      "title_gr": "Κίων πλευρώδης τετράγωνος κενός",
+      "title_en": "Hollow Quadrangular Prism"
     }
-  ]
+  ],
+  "page_num": 281,
+  "side": "recto",
+  "original_folio": "Plate Folio 0281 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XLVI — Columna Laterata Quadrangula Vacua (Hollow Quadrangular Prism)"
 }

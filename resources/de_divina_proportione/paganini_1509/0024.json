@@ -1,29 +1,25 @@
 {
   "folio": "0024",
-  "graphics": [
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PARS",
+  "graphics": [],
+  "page_num": 24,
+  "original_folio": "f. 4v",
+  "section_id": "compendio",
+  "title": "Cap. VII (f. 4v) — Del primo effecto de vna linea diuisa secondo la nostra",
+  "chapters": [
     {
-      "id": "g1",
-      "file": "0024.g1.png",
-      "bbox": [
-        368,
-        54,
-        91,
-        254
-      ],
-      "white_point": 226,
-      "caption": "Folio 0024 Figure 1"
-    },
-    {
-      "id": "g2",
-      "file": "0024.g2.png",
-      "bbox": [
-        367,
-        331,
-        92,
-        961
-      ],
-      "white_point": 226,
-      "caption": "Folio 0024 Figure 2"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 7,
+      "roman": "VII",
+      "slug": "cap_07",
+      "title_it": "Del primo effecto de vna linea diuisa secondo la nostra proportione.",
+      "title_de": "Von der ersten Wirkung einer nach unserer Proportion getheilten Linie.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/007_cap_VII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/007_cap_VII.txt",
+      "starts_on_folio": false
     }
   ]
 }

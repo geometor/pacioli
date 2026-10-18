@@ -1,17 +1,52 @@
 {
   "folio": "0065",
+  "side": "recto",
+  "section": "Part II: Tractato de l'Architectura",
+  "header": "«orpo ben a fùol membri proportionato . E per qHef!o prima d",
   "graphics": [
     {
-      "id": "g1",
-      "file": "0065.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0065.c1.png",
       "bbox": [
-        20,
-        24,
-        370,
-        765
+        26,
+        645,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0065 Figure 1"
+      "caption": "Folio 0065 Initial Cap 1"
+    }
+  ],
+  "page_num": 65,
+  "original_folio": "f. 25r",
+  "section_id": "architectura",
+  "title": "Prohemio (Architectura), Cap. I (f. 25r) — Ali suoi carissimi discipuli e alieui Cesaro dal saxo. ",
+  "chapters": [
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 0,
+      "roman": "Prohemio",
+      "slug": "dedication",
+      "title_it": "Ali suoi carissimi discipuli e alieui Cesaro dal saxo. Cera del cera. Rainer Francesco de pippo. Bernardino e Marsilio da monte e Hieronymo del jecciarino e compagni de Borgo San Sepulchro degni lapicidi de scultura, e architectonica faculta solertissimi sectatori. Frate Luca paciuolo suo conteraneo ordinis Minorum et sacrae theologie professor. Si Placet Deo.",
+      "title_de": "Seinen theuersten Schülern und Zöglingen Cäsar dal Saxo, Gera del cera, Rainer Francesco de pippo, Bernardio und Mar- silio da monte und Hieronvmo de Jecciarino und Genossen von Borgo S. Sepulchro, würdigen Steinmetzen und emsigsten Ver- folgern des Sculptur- und architektonischen Faches, Fra Luca Paciuolo ihr Landsmann vom Orden der Minoriten und Pro- fessor der heiligen Theologie. So Gott will.",
+      "winterberg_it": "winterberg/02_architectura_italian/001_dedication.txt",
+      "winterberg_de": "winterberg/04_architectura_german/001_dedication.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 1,
+      "roman": "I",
+      "slug": "cap_01",
+      "title_it": "Dela mesura e proportioni del corpo humano. della testa e altri suoi membri simulacro delarchitectura.",
+      "title_de": "Von dem Maass und Verhältnissen des menschlichen Körpers, vom Kopf und seinen übrigen Gliedern, <ils Sinnbild der Architektur.",
+      "winterberg_it": "winterberg/02_architectura_italian/001_cap_I.txt",
+      "winterberg_de": "winterberg/04_architectura_german/001_cap_I.txt",
+      "starts_on_folio": true
     }
   ]
 }

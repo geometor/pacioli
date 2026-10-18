@@ -11,7 +11,19 @@
         1515
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 62 (Folio 0309): m \u00bb S<J)\u00ab|{flt afl^itt"
+      "caption": "Plate LIX (printed LXI): Sphera Solida (Σφαῖρα στερεά) — Solid Sphere",
+      "type": "plate",
+      "plate_number": 59,
+      "plate_roman": "LIX (printed LXI)",
+      "title_la": "Sphera Solida",
+      "title_gr": "Σφαῖρα στερεά",
+      "title_en": "Solid Sphere"
     }
-  ]
+  ],
+  "page_num": 309,
+  "side": "recto",
+  "original_folio": "Plate Folio 0309 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate LIX (printed LXI) — Sphera Solida (Solid Sphere)"
 }

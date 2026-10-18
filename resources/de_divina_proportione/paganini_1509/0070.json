@@ -1,4 +1,25 @@
 {
   "folio": "0070",
-  "graphics": []
+  "side": "verso",
+  "section": "Part II: Tractato de l'Architectura",
+  "header": "PARS",
+  "graphics": [],
+  "page_num": 70,
+  "original_folio": "f. 27v",
+  "section_id": "architectura",
+  "title": "Cap. IV (f. 27v) — Sequita dele colonne rotonde con sue basi e capitelli e",
+  "chapters": [
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 4,
+      "roman": "IV",
+      "slug": "cap_04",
+      "title_it": "Sequita dele colonne rotonde con sue basi e capitelli epilastrelli o vero stilobate.",
+      "title_de": "Es folgt von den runden Säulen mit ihren Basen und Capi- tellen und Pilastern oder Stilobaten.",
+      "winterberg_it": "winterberg/02_architectura_italian/004_cap_IV.txt",
+      "winterberg_de": "winterberg/04_architectura_german/004_cap_IV.txt",
+      "starts_on_folio": false
+    }
+  ]
 }

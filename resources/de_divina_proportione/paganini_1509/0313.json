@@ -13,5 +13,11 @@
       "white_point": 226,
       "caption": "Leonardo da Vinci Plate 64 (Folio 0313): 3> $ s"
     }
-  ]
+  ],
+  "page_num": 313,
+  "side": "recto",
+  "original_folio": "End Matter 0313 (recto)",
+  "section_id": "end_matter",
+  "section": "End Matter and Colophon",
+  "title": "Endleaf (0313)"
 }

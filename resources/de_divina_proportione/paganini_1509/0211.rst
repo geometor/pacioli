@@ -1,0 +1,23 @@
+:folio: 0211
+:page_num: 211
+:side: recto
+:original_folio: Plate Folio 0211 (recto)
+:book: Appendix II: Polyhedra Plates by Leonardo da Vinci
+:chapters: None
+:graphics: 0211.g1.png
+
+Folio 0211 (Plate Folio 0211 (recto)) — Plate XIII — Exahedron Abscisum Elevatum Solidum (Solid Elevated Truncated Hexahedron)
+==============================================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0211.g1.png
+
+   **g1 (plate)**: Plate XIII: Exahedron Abscisum Elevatum Solidum (Ἑξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν) — Solid Elevated Truncated Hexahedron
+
+Tabula XIII (No. 13)
+--------------------
+
+- **Titulus Latinus**: *Exahedron Abscisum Elevatum Solidum*
+- **Titulus Graecus**: Ἑξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν

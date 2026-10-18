@@ -11,7 +11,19 @@
         1340
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 45 (Folio 0275): \u2022zri^tfjutg \"sr-Uvgiy^HS ar\u00a3\u00a7?\u00ab XLrn"
+      "caption": "Plate XLIII: Pyramis Laterata Triangula Solida (Πυραμὶς πλευρώδης τρίγωνος στερεά) — Solid Triangular Pyramid",
+      "type": "plate",
+      "plate_number": 43,
+      "plate_roman": "XLIII",
+      "title_la": "Pyramis Laterata Triangula Solida",
+      "title_gr": "Πυραμὶς πλευρώδης τρίγωνος στερεά",
+      "title_en": "Solid Triangular Pyramid"
     }
-  ]
+  ],
+  "page_num": 275,
+  "side": "recto",
+  "original_folio": "Plate Folio 0275 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XLIII — Pyramis Laterata Triangula Solida (Solid Triangular Pyramid)"
 }

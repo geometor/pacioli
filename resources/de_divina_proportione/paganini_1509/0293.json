@@ -11,7 +11,19 @@
         1400
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 54 (Folio 0293): \u20225nr\u00abjui<; -srAoa/oo^w; -rsaiTotl '<\u00bb\u00bb OS arE\u00a7\u00a3\u00ab l r"
+      "caption": "Plate LI: Pyramis Laterata Penthagona Solida (Πυραμὶς πλευρώδης πεντάγωνος στερεά) — Solid Pentagonal Pyramid",
+      "type": "plate",
+      "plate_number": 51,
+      "plate_roman": "LI",
+      "title_la": "Pyramis Laterata Penthagona Solida",
+      "title_gr": "Πυραμὶς πλευρώδης πεντάγωνος στερεά",
+      "title_en": "Solid Pentagonal Pyramid"
     }
-  ]
+  ],
+  "page_num": 293,
+  "side": "recto",
+  "original_folio": "Plate Folio 0293 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate LI — Pyramis Laterata Penthagona Solida (Solid Pentagonal Pyramid)"
 }

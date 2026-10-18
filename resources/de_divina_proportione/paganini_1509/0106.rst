@@ -1,0 +1,42 @@
+:folio: 0106
+:page_num: 106
+:side: verso
+:original_folio: Libellus f. 11v
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0106.g1.png, 0106.g2.png, 0106.g3.png, 0106.c1.png, 0106.c2.png, 0106.c3.png
+
+Folio 0106 (Libellus f. 11v) — Libellus — Tractatus Secundus (Libellus f. 11v)
+==============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0106.g1.png
+
+   **g1 (diagram)**: Folio 0106 Diagram 1
+
+.. picture:: 0106.g2.png
+
+   **g2 (diagram)**: Folio 0106 Diagram 2
+
+.. picture:: 0106.g3.png
+
+   **g3 (diagram)**: Folio 0106 Diagram 3
+
+.. picture:: 0106.c1.png
+
+   **c1 (initial)**: Folio 0106 Initial Cap 1
+
+.. picture:: 0106.c2.png
+
+   **c2 (initial)**: Folio 0106 Initial Cap 2
+
+.. picture:: 0106.c3.png
+
+   **c3 (initial)**: Folio 0106 Initial Cap 3
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Secundus (Libellus f. 11v)**: Casi geometrici e algebrici (*Casus*) de' corpi laterati regulari, le superficie e quadrature loro.

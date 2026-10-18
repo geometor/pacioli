@@ -11,7 +11,19 @@
         1456
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 55 (Folio 0295): \u25a0ffujajuj? \u2022srAJvgu^H? TS-iVTetyovoq nefH LTI"
+      "caption": "Plate LII: Pyramis Laterata Penthagona Vacua (Πυραμὶς πλευρώδης πεντάγωνος κενή) — Hollow Pentagonal Pyramid",
+      "type": "plate",
+      "plate_number": 52,
+      "plate_roman": "LII",
+      "title_la": "Pyramis Laterata Penthagona Vacua",
+      "title_gr": "Πυραμὶς πλευρώδης πεντάγωνος κενή",
+      "title_en": "Hollow Pentagonal Pyramid"
     }
-  ]
+  ],
+  "page_num": 295,
+  "side": "recto",
+  "original_folio": "Plate Folio 0295 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate LII — Pyramis Laterata Penthagona Vacua (Hollow Pentagonal Pyramid)"
 }

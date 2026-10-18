@@ -1,0 +1,50 @@
+:folio: 0092
+:page_num: 92
+:side: verso
+:original_folio: Libellus f. 4v
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0092.g1.png, 0092.g2.png, 0092.g3.png, 0092.g4.png, 0092.c1.png, 0092.c2.png, 0092.c3.png, 0092.c4.png
+
+Folio 0092 (Libellus f. 4v) — Libellus — Tractatus Primus (Libellus f. 4v)
+==========================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0092.g1.png
+
+   **g1 (diagram)**: Folio 0092 Diagram 1
+
+.. picture:: 0092.g2.png
+
+   **g2 (diagram)**: Folio 0092 Diagram 2
+
+.. picture:: 0092.g3.png
+
+   **g3 (diagram)**: Folio 0092 Diagram 3
+
+.. picture:: 0092.g4.png
+
+   **g4 (diagram)**: Folio 0092 Diagram 4
+
+.. picture:: 0092.c1.png
+
+   **c1 (initial)**: Folio 0092 Initial Cap 1
+
+.. picture:: 0092.c2.png
+
+   **c2 (initial)**: Folio 0092 Initial Cap 2
+
+.. picture:: 0092.c3.png
+
+   **c3 (initial)**: Folio 0092 Initial Cap 3
+
+.. picture:: 0092.c4.png
+
+   **c4 (initial)**: Folio 0092 Initial Cap 4
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Primus (Libellus f. 4v)**: Casi geometrici e algebrici (*Casus*) de' lati, cateti, diagonali e superficie dele base triangulari, quadrate e pentagonali.

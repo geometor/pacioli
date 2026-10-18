@@ -1,0 +1,22 @@
+:folio: 0169
+:page_num: 169
+:side: recto
+:original_folio: Plate Folio 0169 (recto)
+:book: Appendix I: The Roman Geometric Alphabet
+:chapters: None
+:graphics: 0169.g1.png
+
+Folio 0169 (Plate Folio 0169 (recto)) — Roman Geometric Alphabet — Lettera P
+============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0169.g1.png
+
+   **g1 (plate)**: Roman Geometric Alphabet — Lettera P
+
+Testo Originale (Paganini 1509)
+-------------------------------
+
+Questa lettera P si cava del tondo e del suo quadro. La sua gamba grossa vol esser de le nove parti luna. La forma del tondo vol esser grande comme quella del B da basso, e la sua grosseza de la pancia vol esser tanto quanto la gamba grossa e si vol principiar ditta lettera da le crociere del tondo grande cioè da le intersecationi de li diametri et sic erit perfectissima.

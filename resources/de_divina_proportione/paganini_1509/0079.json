@@ -1,53 +1,92 @@
 {
   "folio": "0079",
+  "side": "recto",
+  "section": "Part II: Tractato de l'Architectura",
+  "header": "•PRBBA- 3\"",
   "graphics": [
     {
-      "id": "g1",
-      "file": "0079.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0079.c1.png",
       "bbox": [
-        578,
-        117,
-        37,
-        153
+        40,
+        115,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0079 Figure 1"
+      "caption": "Folio 0079 Initial Cap 1"
     },
     {
-      "id": "g2",
-      "file": "0079.g2.png",
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0079.c2.png",
       "bbox": [
-        578,
-        316,
-        32,
-        147
+        39,
+        274,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0079 Figure 2"
+      "caption": "Folio 0079 Initial Cap 2"
     },
     {
-      "id": "g3",
-      "file": "0079.g3.png",
+      "id": "c3",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0079.c3.png",
       "bbox": [
-        578,
-        546,
-        36,
-        65
+        39,
+        897,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0079 Figure 3"
+      "caption": "Folio 0079 Initial Cap 3"
+    }
+  ],
+  "page_num": 79,
+  "original_folio": "f. 32r",
+  "section_id": "architectura",
+  "title": "Cap. XV, Cap. XVI, Cap. XVII (f. 32r) — Del zophoro nel epistilio.",
+  "chapters": [
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 15,
+      "roman": "XV",
+      "slug": "cap_15",
+      "title_it": "Del zophoro nel epistilio.",
+      "title_de": "Vom Zophoros (Bilderfries) am Epistyl.",
+      "winterberg_it": "winterberg/02_architectura_italian/015_cap_XV.txt",
+      "winterberg_de": "winterberg/04_architectura_german/015_cap_XV.txt",
+      "starts_on_folio": true
     },
     {
-      "id": "g4",
-      "file": "0079.g4.png",
-      "bbox": [
-        578,
-        960,
-        29,
-        60
-      ],
-      "white_point": 226,
-      "caption": "Folio 0079 Figure 4"
+      "book": 2,
+      "part": "architectura",
+      "chapter": 16,
+      "roman": "XVI",
+      "slug": "cap_16",
+      "title_it": "Dela compositione del cornicione.",
+      "title_de": "Von der Composition des Gesimses.",
+      "winterberg_it": "winterberg/02_architectura_italian/016_cap_XVI.txt",
+      "winterberg_de": "winterberg/04_architectura_german/016_cap_XVI.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 17,
+      "roman": "XVII",
+      "slug": "cap_17",
+      "title_it": "Del sito deli tigraphi.",
+      "title_de": "Von der Lage der Tygraphen.",
+      "winterberg_it": "winterberg/02_architectura_italian/017_cap_XVII.txt",
+      "winterberg_de": "winterberg/04_architectura_german/017_cap_XVII.txt",
+      "starts_on_folio": true
     }
   ]
 }

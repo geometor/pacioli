@@ -1,53 +1,52 @@
 {
   "folio": "0036",
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PARS",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0036.g1.png",
       "bbox": [
-        394,
-        58,
-        65,
-        84
+        28,
+        196,
+        379,
+        564
       ],
       "white_point": 226,
-      "caption": "Folio 0036 Figure 1"
+      "caption": "Folio 0036 Diagram 1",
+      "margin": "left"
+    }
+  ],
+  "page_num": 36,
+  "original_folio": "f. 10v",
+  "section_id": "compendio",
+  "title": "Cap. XXIX, Cap. XXX (f. 10v) — De la fabrica e formatione del corpo detto ycocedron.",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 29,
+      "roman": "XXIX",
+      "slug": "cap_29",
+      "title_it": "De la fabrica e formatione del corpo detto ycocedron.",
+      "title_de": "Von der Anfertigung und Bildung des Ikosaeder genannten Körpers.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/029_cap_XXIX.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/029_cap_XXIX.txt",
+      "starts_on_folio": false
     },
     {
-      "id": "g2",
-      "file": "0036.g2.png",
-      "bbox": [
-        30,
-        198,
-        429,
-        557
-      ],
-      "white_point": 226,
-      "caption": "Folio 0036 Figure 2"
-    },
-    {
-      "id": "g3",
-      "file": "0036.g3.png",
-      "bbox": [
-        396,
-        903,
-        61,
-        41
-      ],
-      "white_point": 226,
-      "caption": "Folio 0036 Figure 3"
-    },
-    {
-      "id": "g4",
-      "file": "0036.g4.png",
-      "bbox": [
-        398,
-        1010,
-        61,
-        142
-      ],
-      "white_point": 226,
-      "caption": "Folio 0036 Figure 4"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 30,
+      "roman": "XXX",
+      "slug": "cap_30",
+      "title_it": "Saper fare el corpo de 12 basi pentagonali equilatere e equian- gule che de ponto la spera proposto lo circondi.",
+      "title_de": "Den Körper aus zwölf gleichseitigen und gleichwinkligen Fünf- ecken herstellen zu können, so dass die angenommene Kugel ihn genau einschliesse.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/030_cap_XXX.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/030_cap_XXX.txt",
+      "starts_on_folio": true
     }
   ]
 }

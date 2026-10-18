@@ -1,0 +1,54 @@
+{
+  "folio": "0015",
+  "side": "recto",
+  "section": "Front Matter and Dedications",
+  "header": "jTDeti corpi òblorigbi cioè più' tanghi ó ver atti che largh",
+  "graphics": [
+    {
+      "id": "g1",
+      "type": "marginalia",
+      "file": "0015.g1.png",
+      "bbox": [
+        695,
+        867,
+        89,
+        53
+      ],
+      "white_point": 226,
+      "caption": "Folio 0015 Marginalia 1",
+      "margin": "right"
+    },
+    {
+      "id": "g2",
+      "type": "diagram",
+      "file": "0015.g2.png",
+      "bbox": [
+        652,
+        1181,
+        279,
+        101
+      ],
+      "white_point": 226,
+      "caption": "Folio 0015 Diagram 2",
+      "margin": "right"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0015.c1.png",
+      "bbox": [
+        132,
+        170,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0015 Initial Cap 1"
+    }
+  ],
+  "page_num": 15,
+  "original_folio": "A6r",
+  "section_id": "front_matter",
+  "title": "Tabula — Table of Contents (A6r)"
+}

@@ -1,65 +1,52 @@
 {
   "folio": "0038",
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PARS",
   "graphics": [
     {
-      "id": "g1",
-      "file": "0038.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0038.c1.png",
       "bbox": [
         391,
-        243,
-        68,
-        147
+        505,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0038 Figure 1"
+      "caption": "Folio 0038 Initial Cap 1"
+    }
+  ],
+  "page_num": 38,
+  "original_folio": "f. 11v",
+  "section_id": "compendio",
+  "title": "Cap. XXX, Cap. XXXI (f. 11v) — Saper fare el corpo de 12 basi pentagonali equilatere e",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 30,
+      "roman": "XXX",
+      "slug": "cap_30",
+      "title_it": "Saper fare el corpo de 12 basi pentagonali equilatere e equian- gule che de ponto la spera proposto lo circondi.",
+      "title_de": "Den Körper aus zwölf gleichseitigen und gleichwinkligen Fünf- ecken herstellen zu können, so dass die angenommene Kugel ihn genau einschliesse.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/030_cap_XXX.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/030_cap_XXX.txt",
+      "starts_on_folio": false
     },
     {
-      "id": "g2",
-      "file": "0038.g2.png",
-      "bbox": [
-        389,
-        496,
-        70,
-        252
-      ],
-      "white_point": 226,
-      "caption": "Folio 0038 Figure 2"
-    },
-    {
-      "id": "g3",
-      "file": "0038.g3.png",
-      "bbox": [
-        392,
-        856,
-        67,
-        41
-      ],
-      "white_point": 226,
-      "caption": "Folio 0038 Figure 3"
-    },
-    {
-      "id": "g4",
-      "file": "0038.g4.png",
-      "bbox": [
-        392,
-        1075,
-        67,
-        121
-      ],
-      "white_point": 226,
-      "caption": "Folio 0038 Figure 4"
-    },
-    {
-      "id": "g5",
-      "file": "0038.g5.png",
-      "bbox": [
-        394,
-        1218,
-        65,
-        65
-      ],
-      "white_point": 226,
-      "caption": "Folio 0038 Figure 5"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 31,
+      "roman": "XXXI",
+      "slug": "cap_31",
+      "title_it": "A trouar li lati de tutti 5 corpi regulari.",
+      "title_de": "Die Seiten aller fünf regelmässigen Körper zu finden.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/031_cap_XXXI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/031_cap_XXXI.txt",
+      "starts_on_folio": true
     }
   ]
 }

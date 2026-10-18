@@ -1,0 +1,54 @@
+{
+  "folio": "0016",
+  "side": "verso",
+  "section": "Front Matter and Dedications",
+  "header": ". jf Tabula deftraffato.de farchìreffura guai (equità 1 medi",
+  "graphics": [
+    {
+      "id": "g1",
+      "type": "marginalia",
+      "file": "0016.g1.png",
+      "bbox": [
+        255,
+        73,
+        114,
+        172
+      ],
+      "white_point": 226,
+      "caption": "Folio 0016 Marginalia 1",
+      "margin": "left"
+    },
+    {
+      "id": "g2",
+      "type": "diagram",
+      "file": "0016.g2.png",
+      "bbox": [
+        5,
+        783,
+        364,
+        125
+      ],
+      "white_point": 226,
+      "caption": "Folio 0016 Diagram 2",
+      "margin": "left"
+    },
+    {
+      "id": "g3",
+      "type": "diagram",
+      "file": "0016.g3.png",
+      "bbox": [
+        196,
+        917,
+        86,
+        92
+      ],
+      "white_point": 226,
+      "caption": "Folio 0016 Diagram 3",
+      "margin": "left"
+    }
+  ],
+  "page_num": 16,
+  "original_folio": "A6v",
+  "section_id": "front_matter",
+  "title": "Tabula — Table of Contents (A6v)"
+}

@@ -1,17 +1,26 @@
 {
   "folio": "0135",
+  "side": "recto",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "TERTIVS",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0135.g1.png",
       "bbox": [
-        616,
-        286,
-        341,
-        306
+        602,
+        262,
+        366,
+        375
       ],
       "white_point": 226,
-      "caption": "Folio 0135 Figure 1"
+      "caption": "Folio 0135 Diagram 1",
+      "margin": "right"
     }
-  ]
+  ],
+  "page_num": 135,
+  "original_folio": "Libellus f. 26r",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Tertius (Libellus f. 26r)"
 }

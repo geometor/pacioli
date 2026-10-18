@@ -1,0 +1,38 @@
+:folio: 0113
+:page_num: 113
+:side: recto
+:original_folio: Libellus f. 15r
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0113.g1.png, 0113.g2.png, 0113.g3.png, 0113.c1.png, 0113.c2.png
+
+Folio 0113 (Libellus f. 15r) — Libellus — Tractatus Tertius (Libellus f. 15r)
+=============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0113.g1.png
+
+   **g1 (diagram)**: Folio 0113 Diagram 1
+
+.. picture:: 0113.g2.png
+
+   **g2 (diagram)**: Folio 0113 Diagram 2
+
+.. picture:: 0113.g3.png
+
+   **g3 (diagram)**: Folio 0113 Diagram 3
+
+.. picture:: 0113.c1.png
+
+   **c1 (initial)**: Folio 0113 Initial Cap 1
+
+.. picture:: 0113.c2.png
+
+   **c2 (initial)**: Folio 0113 Initial Cap 2
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Tertius (Libellus f. 15r)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela spera.

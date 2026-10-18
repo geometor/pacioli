@@ -1,29 +1,130 @@
 {
   "folio": "0041",
-  "graphics": [
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PRIMA",
+  "chapters": [
     {
-      "id": "g1",
-      "file": "0041.g1.png",
-      "bbox": [
-        578,
-        73,
-        45,
-        151
-      ],
-      "white_point": 226,
-      "caption": "Folio 0041 Figure 1"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 33,
+      "roman": "XXXIII",
+      "slug": "cap_33",
+      "title_it": "Dela proportione de tutte loro superficie lune alaltre.",
+      "title_de": "Von dem Verhältniss aller ihrer Oberflächen zu einander.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/033_cap_XXXIII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/033_cap_XXXIII.txt",
+      "starts_on_folio": false
     },
     {
-      "id": "g2",
-      "file": "0041.g2.png",
+      "book": 1,
+      "part": "compendio",
+      "chapter": 34,
+      "roman": "XXXIV",
+      "slug": "cap_34",
+      "title_it": "Dele inclusioni dele 5 regulari vno in laltro elaltro in luno equante sienno in tutto eperche.",
+      "title_de": "Von der gegenseitigen Umsciiliessung der fünf regelmässigen Körper, und wie viele Fälle es im Ganzen gebe und warum?",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/034_cap_XXXIV.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/034_cap_XXXIV.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 35,
+      "roman": "XXXV",
+      "slug": "cap_35",
+      "title_it": "Commo dicto tetracedron se formi e collochi nel cubo.",
+      "title_de": "Wie das genannte Tetraeder gebildet und in den Kubus ein- gestellt werde.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/035_cap_XXXV.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/035_cap_XXXV.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 36,
+      "roman": "XXXVI",
+      "slug": "cap_36",
+      "title_it": "Dela inclusione deloctocedron nel cubo.",
+      "title_de": "Vom Einschluss des Oktaeders in den Kubus.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/036_cap_XXXVI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/036_cap_XXXVI.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 37,
+      "roman": "XXXVII",
+      "slug": "cap_37",
+      "title_it": "La fabrica de lo exacedron nel octocedron.",
+      "title_de": "Die Einstellung des Hexaeders ins Oktaeder.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/037_cap_XXXVII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/037_cap_XXXVII.txt",
+      "starts_on_folio": true
+    }
+  ],
+  "graphics": [
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0041.c1.png",
       "bbox": [
-        578,
-        460,
-        46,
-        63
+        51,
+        343,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0041 Figure 2"
+      "caption": "Folio 0041 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0041.c2.png",
+      "bbox": [
+        52,
+        747,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0041 Initial Cap 2"
+    },
+    {
+      "id": "c3",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0041.c3.png",
+      "bbox": [
+        52,
+        964,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0041 Initial Cap 3"
+    },
+    {
+      "id": "c4",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0041.c4.png",
+      "bbox": [
+        54,
+        1156,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0041 Initial Cap 4"
     }
-  ]
+  ],
+  "page_num": 41,
+  "original_folio": "f. 13r",
+  "section_id": "compendio",
+  "title": "Cap. XXXIII, Cap. XXXIV, Cap. XXXV, Cap. XXXVI, Cap. XXXVII (f. 13r) — Dela proportione de tutte loro superficie lune alaltre."
 }

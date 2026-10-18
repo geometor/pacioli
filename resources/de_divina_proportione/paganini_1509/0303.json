@@ -11,7 +11,19 @@
         1515
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 59 (Folio 0303): \u2022srufls^Hg \u25a0o-Atv^M^H? Tyyur\u00bb$&vr,rff\\t\\.tyi$, K.eyn LVI"
+      "caption": "Plate LVI: Pyramis Laterata Triangula Inaequilatera Vacua (Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος κενή) — Hollow Scalene Triangular Pyramid",
+      "type": "plate",
+      "plate_number": 56,
+      "plate_roman": "LVI",
+      "title_la": "Pyramis Laterata Triangula Inaequilatera Vacua",
+      "title_gr": "Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος κενή",
+      "title_en": "Hollow Scalene Triangular Pyramid"
     }
-  ]
+  ],
+  "page_num": 303,
+  "side": "recto",
+  "original_folio": "Plate Folio 0303 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate LVI — Pyramis Laterata Triangula Inaequilatera Vacua (Hollow Scalene Triangular Pyramid)"
 }

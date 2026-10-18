@@ -1,0 +1,23 @@
+:folio: 0237
+:page_num: 237
+:side: recto
+:original_folio: Plate Folio 0237 (recto)
+:book: Appendix II: Polyhedra Plates by Leonardo da Vinci
+:chapters: None
+:graphics: 0237.g1.png
+
+Folio 0237 (Plate Folio 0237 (recto)) — Plate XXIIII — Icosahedron Abscisum Vacuum (Hollow Truncated Icosahedron)
+=================================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0237.g1.png
+
+   **g1 (plate)**: Plate XXIIII: Icosahedron Abscisum Vacuum (Εἰκοσάεδρον ἀποτετμημένον κενόν) — Hollow Truncated Icosahedron
+
+Tabula XXIIII (No. 24)
+----------------------
+
+- **Titulus Latinus**: *Icosahedron Abscisum Vacuum*
+- **Titulus Graecus**: Εἰκοσάεδρον ἀποτετμημένον κενόν

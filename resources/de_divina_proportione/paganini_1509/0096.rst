@@ -1,0 +1,34 @@
+:folio: 0096
+:page_num: 96
+:side: verso
+:original_folio: Libellus f. 6v
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0096.g1.png, 0096.g2.png, 0096.c1.png, 0096.c2.png
+
+Folio 0096 (Libellus f. 6v) — Libellus — Tractatus Primus (Libellus f. 6v)
+==========================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0096.g1.png
+
+   **g1 (diagram)**: Folio 0096 Diagram 1
+
+.. picture:: 0096.g2.png
+
+   **g2 (diagram)**: Folio 0096 Diagram 2
+
+.. picture:: 0096.c1.png
+
+   **c1 (initial)**: Folio 0096 Initial Cap 1
+
+.. picture:: 0096.c2.png
+
+   **c2 (initial)**: Folio 0096 Initial Cap 2
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Primus (Libellus f. 6v)**: Casi geometrici e algebrici (*Casus*) de' lati, cateti, diagonali e superficie dele base triangulari, quadrate e pentagonali.

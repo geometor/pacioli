@@ -1,0 +1,40 @@
+{
+  "folio": "0014",
+  "side": "verso",
+  "section": "Front Matter and Dedications",
+  "header": "C\"Cómo |éajépti Io exaee dron nellofEoecdrori.",
+  "graphics": [
+    {
+      "id": "g1",
+      "type": "marginalia",
+      "file": "0014.g1.png",
+      "bbox": [
+        314,
+        203,
+        51,
+        166
+      ],
+      "white_point": 226,
+      "caption": "Folio 0014 Marginalia 1",
+      "margin": "left"
+    },
+    {
+      "id": "g2",
+      "type": "marginalia",
+      "file": "0014.g2.png",
+      "bbox": [
+        244,
+        956,
+        65,
+        66
+      ],
+      "white_point": 226,
+      "caption": "Folio 0014 Marginalia 2",
+      "margin": "left"
+    }
+  ],
+  "page_num": 14,
+  "original_folio": "A5v",
+  "section_id": "front_matter",
+  "title": "Tabula — Table of Contents (A5v)"
+}

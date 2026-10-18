@@ -1,29 +1,54 @@
 {
   "folio": "0066",
+  "side": "verso",
+  "section": "Part II: Tractato de l'Architectura",
+  "header": "A",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0066.g1.png",
       "bbox": [
-        8,
-        52,
-        30,
-        78
+        5,
+        363,
+        379,
+        615
       ],
       "white_point": 226,
-      "caption": "Folio 0066 Figure 1"
+      "caption": "Folio 0066 Diagram 1",
+      "margin": "left"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0066.g2.png",
       "bbox": [
-        8,
-        392,
-        502,
-        693
+        5,
+        980,
+        379,
+        107
       ],
       "white_point": 226,
-      "caption": "Folio 0066 Figure 2"
+      "caption": "Folio 0066 Diagram 2",
+      "margin": "left"
+    }
+  ],
+  "page_num": 66,
+  "original_folio": "f. 25v",
+  "section_id": "architectura",
+  "title": "Cap. I (f. 25v) — Dela mesura e proportioni del corpo humano. della testa",
+  "chapters": [
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 1,
+      "roman": "I",
+      "slug": "cap_01",
+      "title_it": "Dela mesura e proportioni del corpo humano. della testa e altri suoi membri simulacro delarchitectura.",
+      "title_de": "Von dem Maass und Verhältnissen des menschlichen Körpers, vom Kopf und seinen übrigen Gliedern, <ils Sinnbild der Architektur.",
+      "winterberg_it": "winterberg/02_architectura_italian/001_cap_I.txt",
+      "winterberg_de": "winterberg/04_architectura_german/001_cap_I.txt",
+      "starts_on_folio": false
     }
   ]
 }

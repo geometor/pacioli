@@ -1,29 +1,52 @@
 {
   "folio": "0075",
-  "graphics": [
+  "side": "recto",
+  "section": "Part II: Tractato de l'Architectura",
+  "header": "-PRIMA—",
+  "chapters": [
     {
-      "id": "g1",
-      "file": "0075.g1.png",
-      "bbox": [
-        578,
-        180,
-        46,
-        85
-      ],
-      "white_point": 226,
-      "caption": "Folio 0075 Figure 1"
+      "book": 2,
+      "part": "architectura",
+      "chapter": 8,
+      "roman": "VIII",
+      "slug": "cap_08",
+      "title_it": "Doue ora se trouino colonne più debitamente facte per Italia dali antichi e ancor moderni.",
+      "title_de": "Wo sich jetzt normalmässiger construirte Säulen befinden, die in Italien von den Alten und auch den Modernen angefertigt.",
+      "winterberg_it": "winterberg/02_architectura_italian/008_cap_VILI.txt",
+      "winterberg_de": "winterberg/04_architectura_german/008_cap_VIII.txt",
+      "starts_on_folio": false
     },
     {
-      "id": "g2",
-      "file": "0075.g2.png",
+      "book": 2,
+      "part": "architectura",
+      "chapter": 9,
+      "roman": "IX",
+      "slug": "cap_09",
+      "title_it": "Dele colonne laterate.",
+      "title_de": "Von den kantigen Säulen.",
+      "winterberg_it": "winterberg/02_architectura_italian/009_cap_IX.txt",
+      "winterberg_de": "winterberg/04_architectura_german/009_cap_IX.txt",
+      "starts_on_folio": true
+    }
+  ],
+  "graphics": [
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0075.c1.png",
       "bbox": [
-        578,
-        353,
-        39,
-        110
+        42,
+        1093,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0075 Figure 2"
+      "caption": "Folio 0075 Initial Cap 1"
     }
-  ]
+  ],
+  "page_num": 75,
+  "original_folio": "f. 30r",
+  "section_id": "architectura",
+  "title": "Cap. VIII, Cap. IX (f. 30r) — Doue ora se trouino colonne più debitamente facte per I"
 }

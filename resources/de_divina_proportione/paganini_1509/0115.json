@@ -1,29 +1,68 @@
 {
   "folio": "0115",
+  "side": "recto",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "■ TERttVS",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0115.g1.png",
       "bbox": [
-        638,
-        166,
-        308,
-        304
+        615,
+        140,
+        350,
+        332
       ],
       "white_point": 226,
-      "caption": "Folio 0115 Figure 1"
+      "caption": "Folio 0115 Diagram 1",
+      "margin": "right"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0115.g2.png",
       "bbox": [
-        646,
-        723,
-        305,
-        309
+        629,
+        703,
+        324,
+        331
       ],
       "white_point": 226,
-      "caption": "Folio 0115 Figure 2"
+      "caption": "Folio 0115 Diagram 2",
+      "margin": "right"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0115.c1.png",
+      "bbox": [
+        29,
+        634,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0115 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0115.c2.png",
+      "bbox": [
+        29,
+        1133,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0115 Initial Cap 2"
     }
-  ]
+  ],
+  "page_num": 115,
+  "original_folio": "Libellus f. 16r",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Tertius (Libellus f. 16r)"
 }

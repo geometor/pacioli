@@ -11,7 +11,19 @@
         1262
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 49 (Folio 0283): \u25a0ari^ajUK \u2022aA\u00f3tv$\u00f2f'>a$TlT$#yiMS$ ars^'s* xLvir"
+      "caption": "Plate XLVII: Pyramis Laterata Quadrangula Solida (Πυραμὶς πλευρώδης τετράγωνος στερεά) — Solid Quadrangular Pyramid",
+      "type": "plate",
+      "plate_number": 47,
+      "plate_roman": "XLVII",
+      "title_la": "Pyramis Laterata Quadrangula Solida",
+      "title_gr": "Πυραμὶς πλευρώδης τετράγωνος στερεά",
+      "title_en": "Solid Quadrangular Pyramid"
     }
-  ]
+  ],
+  "page_num": 283,
+  "side": "recto",
+  "original_folio": "Plate Folio 0283 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XLVII — Pyramis Laterata Quadrangula Solida (Solid Quadrangular Pyramid)"
 }

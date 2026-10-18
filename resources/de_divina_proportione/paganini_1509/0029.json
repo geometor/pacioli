@@ -1,65 +1,120 @@
 {
   "folio": "0029",
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PRIMA",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0029.g1.png",
       "bbox": [
-        578,
-        69,
-        50,
-        84
+        638,
+        841,
+        340,
+        76
       ],
       "white_point": 226,
-      "caption": "Folio 0029 Figure 1"
+      "caption": "Folio 0029 Diagram 1",
+      "margin": "right"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0029.g2.png",
       "bbox": [
-        578,
-        284,
-        48,
-        68
-      ],
-      "white_point": 226,
-      "caption": "Folio 0029 Figure 2"
-    },
-    {
-      "id": "g3",
-      "file": "0029.g3.png",
-      "bbox": [
-        578,
-        482,
-        46,
-        119
-      ],
-      "white_point": 226,
-      "caption": "Folio 0029 Figure 3"
-    },
-    {
-      "id": "g4",
-      "file": "0029.g4.png",
-      "bbox": [
         640,
-        876,
-        336,
-        39
+        919,
+        339,
+        73
       ],
       "white_point": 226,
-      "caption": "Folio 0029 Figure 4"
+      "caption": "Folio 0029 Diagram 2",
+      "margin": "right"
     },
     {
-      "id": "g5",
-      "file": "0029.g5.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0029.c1.png",
       "bbox": [
-        642,
-        949,
-        329,
-        41
+        57,
+        78,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0029 Figure 5"
+      "caption": "Folio 0029 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0029.c2.png",
+      "bbox": [
+        52,
+        614,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0029 Initial Cap 2"
+    },
+    {
+      "id": "c3",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0029.c3.png",
+      "bbox": [
+        49,
+        935,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0029 Initial Cap 3"
+    }
+  ],
+  "page_num": 29,
+  "original_folio": "f. 7r",
+  "section_id": "compendio",
+  "title": "Cap. XIX, Cap. XX, Cap. XXI (f. 7r) — Del IO. suo supremo effecto.",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 19,
+      "roman": "XIX",
+      "slug": "cap_19",
+      "title_it": "Del IO. suo supremo effecto.",
+      "title_de": "Ueber ihre 10. höchste Wirkung.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/019_cap_XIX.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/019_cap_XIX.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 20,
+      "roman": "XX",
+      "slug": "cap_20",
+      "title_it": "Del suo II. excellentissimo effecto.",
+      "title_de": "Von ihrer 11. ausgezeichnetsten Wirkung.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/020_cap_XX.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/020_cap_XX.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 21,
+      "roman": "XXI",
+      "slug": "cap_21",
+      "title_it": "Del suo 12. quasi incomprehensibile effecto.",
+      "title_de": "Von ihrer zwölften fast unbegreiflichen Wirkung.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/021_cap_XXI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/021_cap_XXI.txt",
+      "starts_on_folio": true
     }
   ]
 }

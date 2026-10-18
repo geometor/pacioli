@@ -6,2228 +6,2864 @@
     {
       "page_num": 1,
       "folio": "0001",
+      "original_folio": "Flyleaf 1r",
       "section": "front_matter",
+      "title": "Flyleaf (Flyleaf 1r)",
       "image": "0001.png",
-      "text": "0001.txt"
+      "text": "0001.rst"
     },
     {
       "page_num": 2,
       "folio": "0002",
+      "original_folio": "Flyleaf 1v",
       "section": "front_matter",
+      "title": "Flyleaf (Flyleaf 1v)",
       "image": "0002.png",
-      "text": "0002.txt"
+      "text": "0002.rst"
     },
     {
       "page_num": 3,
       "folio": "0003",
+      "original_folio": "Flyleaf 2r",
       "section": "front_matter",
+      "title": "Flyleaf (Flyleaf 2r)",
       "image": "0003.png",
-      "text": "0003.txt"
+      "text": "0003.rst"
     },
     {
       "page_num": 4,
       "folio": "0004",
+      "original_folio": "Flyleaf 2v",
       "section": "front_matter",
+      "title": "Flyleaf (Flyleaf 2v)",
       "image": "0004.png",
-      "text": "0004.txt"
+      "text": "0004.rst"
     },
     {
       "page_num": 5,
       "folio": "0005",
+      "original_folio": "A1r",
       "section": "front_matter",
+      "title": "Title Page — Divina Proportione (1509)",
       "image": "0005.png",
-      "text": "0005.txt"
+      "text": "0005.rst"
     },
     {
       "page_num": 6,
       "folio": "0006",
+      "original_folio": "A1v",
       "section": "front_matter",
+      "title": "Epigrams and Author's Sonnet (Cinque corpi in natura son producti)",
       "image": "0006.png",
-      "text": "0006.txt"
+      "text": "0006.rst"
     },
     {
       "page_num": 7,
       "folio": "0007",
+      "original_folio": "A2r",
       "section": "front_matter",
+      "title": "Epistola ad Petrum Soderinum (1509)",
       "image": "0007.png",
-      "text": "0007.txt"
+      "text": "0007.rst"
     },
     {
       "page_num": 8,
       "folio": "0008",
+      "original_folio": "A2v",
       "section": "front_matter",
+      "title": "Danielis Caietani Epistolium ad Andream Mocenicum (1509)",
       "image": "0008.png",
-      "text": "0008.txt"
+      "text": "0008.rst"
     },
     {
       "page_num": 9,
       "folio": "0009",
+      "original_folio": "A3r",
       "section": "front_matter",
+      "title": "Nomina et Numerus Corporum (A3r)",
       "image": "0009.png",
-      "text": "0009.txt"
+      "text": "0009.rst"
     },
     {
       "page_num": 10,
       "folio": "0010",
+      "original_folio": "A3v",
       "section": "front_matter",
+      "title": "Nomina et Numerus Corporum (A3v)",
       "image": "0010.png",
-      "text": "0010.txt"
+      "text": "0010.rst"
     },
     {
       "page_num": 11,
       "folio": "0011",
+      "original_folio": "A4r",
       "section": "front_matter",
+      "title": "Tabula — Table of Contents (A4r)",
       "image": "0011.png",
-      "text": "0011.txt"
+      "text": "0011.rst"
     },
     {
       "page_num": 12,
       "folio": "0012",
+      "original_folio": "A4v",
       "section": "front_matter",
+      "title": "Tabula — Table of Contents (A4v)",
       "image": "0012.png",
-      "text": "0012.txt"
+      "text": "0012.rst"
     },
     {
       "page_num": 13,
       "folio": "0013",
+      "original_folio": "A5r",
       "section": "front_matter",
+      "title": "Tabula — Table of Contents (A5r)",
       "image": "0013.png",
-      "text": "0013.txt"
+      "text": "0013.rst"
     },
     {
       "page_num": 14,
       "folio": "0014",
+      "original_folio": "A5v",
       "section": "front_matter",
+      "title": "Tabula — Table of Contents (A5v)",
       "image": "0014.png",
-      "text": "0014.txt"
+      "text": "0014.rst"
     },
     {
       "page_num": 15,
       "folio": "0015",
+      "original_folio": "A6r",
       "section": "front_matter",
+      "title": "Tabula — Table of Contents (A6r)",
       "image": "0015.png",
-      "text": "0015.txt"
+      "text": "0015.rst"
     },
     {
       "page_num": 16,
       "folio": "0016",
+      "original_folio": "A6v",
       "section": "front_matter",
+      "title": "Tabula — Table of Contents (A6v)",
       "image": "0016.png",
-      "text": "0016.txt"
+      "text": "0016.rst"
     },
     {
       "page_num": 17,
       "folio": "0017",
+      "original_folio": "f. 1r",
       "section": "compendio",
+      "title": "Cap. I (f. 1r) — Excellentissimo principi Ludouico mariae Sforza Angla M",
       "image": "0017.png",
-      "text": "0017.txt"
+      "text": "0017.rst"
     },
     {
       "page_num": 18,
       "folio": "0018",
+      "original_folio": "f. 1v",
       "section": "compendio",
+      "title": "Cap. I, Cap. II (f. 1v) — Excellentissimo principi Ludouico mariae Sforza Angla M",
       "image": "0018.png",
-      "text": "0018.txt"
+      "text": "0018.rst"
     },
     {
       "page_num": 19,
       "folio": "0019",
+      "original_folio": "f. 2r",
       "section": "compendio",
+      "title": "Cap. II (f. 2r) — Reuerendi Patris Magistri Luce pacioli de Burgo San Sep",
       "image": "0019.png",
-      "text": "0019.txt"
+      "text": "0019.rst"
     },
     {
       "page_num": 20,
       "folio": "0020",
+      "original_folio": "f. 2v",
       "section": "compendio",
+      "title": "Cap. II (f. 2v) — Reuerendi Patris Magistri Luce pacioli de Burgo San Sep",
       "image": "0020.png",
-      "text": "0020.txt"
+      "text": "0020.rst"
     },
     {
       "page_num": 21,
       "folio": "0021",
+      "original_folio": "f. 3r",
       "section": "compendio",
+      "title": "Cap. II, Cap. III (f. 3r) — Reuerendi Patris Magistri Luce pacioli de Burgo San Sep",
       "image": "0021.png",
-      "text": "0021.txt"
+      "text": "0021.rst"
     },
     {
       "page_num": 22,
       "folio": "0022",
+      "original_folio": "f. 3v",
       "section": "compendio",
+      "title": "Cap. III, Cap. IV, Cap. V (f. 3v) — Finito el proheraio seguita chiarire quello che per que",
       "image": "0022.png",
-      "text": "0022.txt"
+      "text": "0022.rst"
     },
     {
       "page_num": 23,
       "folio": "0023",
+      "original_folio": "f. 4r",
       "section": "compendio",
+      "title": "Cap. V, Cap. VI, Cap. VII (f. 4r) — Del condecente titulo del presente tractato.",
       "image": "0023.png",
-      "text": "0023.txt"
+      "text": "0023.rst"
     },
     {
       "page_num": 24,
       "folio": "0024",
+      "original_folio": "f. 4v",
       "section": "compendio",
+      "title": "Cap. VII (f. 4v) — Del primo effecto de vna linea diuisa secondo la nostra",
       "image": "0024.png",
-      "text": "0024.txt"
+      "text": "0024.rst"
     },
     {
       "page_num": 25,
       "folio": "0025",
+      "original_folio": "f. 5r",
       "section": "compendio",
+      "title": "Cap. VII, Cap. VIII (f. 5r) — Del primo effecto de vna linea diuisa secondo la nostra",
       "image": "0025.png",
-      "text": "0025.txt"
+      "text": "0025.rst"
     },
     {
       "page_num": 26,
       "folio": "0026",
+      "original_folio": "f. 5v",
       "section": "compendio",
+      "title": "Cap. IX, Cap. X, Cap. XI (f. 5v) — Che cosa sia radici de numero e de altra quantità.",
       "image": "0026.png",
-      "text": "0026.txt"
+      "text": "0026.rst"
     },
     {
       "page_num": 27,
       "folio": "0027",
+      "original_folio": "f. 6r",
       "section": "compendio",
+      "title": "Cap. XII, Cap. XIII, Cap. XIV, Cap. XV (f. 6r) — Del terzo suo singulare effecto.",
       "image": "0027.png",
-      "text": "0027.txt"
+      "text": "0027.rst"
     },
     {
       "page_num": 28,
       "folio": "0028",
+      "original_folio": "f. 6v",
       "section": "compendio",
+      "title": "Cap. XVI, Cap. XVII, Cap. XVIII (f. 6v) — Del septimo suo inextimabile effecto.",
       "image": "0028.png",
-      "text": "0028.txt"
+      "text": "0028.rst"
     },
     {
       "page_num": 29,
       "folio": "0029",
+      "original_folio": "f. 7r",
       "section": "compendio",
+      "title": "Cap. XIX, Cap. XX, Cap. XXI (f. 7r) — Del IO. suo supremo effecto.",
       "image": "0029.png",
-      "text": "0029.txt"
+      "text": "0029.rst"
     },
     {
       "page_num": 30,
       "folio": "0030",
+      "original_folio": "f. 7v",
       "section": "compendio",
+      "title": "Cap. XXI, Cap. XXII, Cap. XXIII (f. 7v) — Del suo 12. quasi incomprehensibile effecto.",
       "image": "0030.png",
-      "text": "0030.txt"
+      "text": "0030.rst"
     },
     {
       "page_num": 31,
       "folio": "0031",
+      "original_folio": "f. 8r",
       "section": "compendio",
+      "title": "Cap. XXIII, Cap. XXIV, Cap. XXV (f. 8r) — Cüp. XXIII.",
       "image": "0031.png",
-      "text": "0031.txt"
+      "text": "0031.rst"
     },
     {
       "page_num": 32,
       "folio": "0032",
+      "original_folio": "f. 8v",
       "section": "compendio",
+      "title": "Cap. XXV, Cap. XXVI, Cap. XXVII (f. 8v) — Commo non possino essere più. 5. corpi regulari.",
       "image": "0032.png",
-      "text": "0032.txt"
+      "text": "0032.rst"
     },
     {
       "page_num": 33,
       "folio": "0033",
+      "original_folio": "f. 9r",
       "section": "compendio",
+      "title": "Cap. XXVII, Cap. XXVIII (f. 9r) — Dela fabrica del cubo e sua proportione ala spera.",
       "image": "0033.png",
-      "text": "0033.txt"
+      "text": "0033.rst"
     },
     {
       "page_num": 34,
       "folio": "0034",
+      "original_folio": "f. 9v",
       "section": "compendio",
+      "title": "Cap. XXVIII, Cap. XXIX (f. 9v) — Commo se formi lo octocedron in spera aponto collocabil",
       "image": "0034.png",
-      "text": "0034.txt"
+      "text": "0034.rst"
     },
     {
       "page_num": 35,
       "folio": "0035",
+      "original_folio": "f. 10r",
       "section": "compendio",
+      "title": "Cap. XXIX (f. 10r) — De la fabrica e formatione del corpo detto ycocedron.",
       "image": "0035.png",
-      "text": "0035.txt"
+      "text": "0035.rst"
     },
     {
       "page_num": 36,
       "folio": "0036",
+      "original_folio": "f. 10v",
       "section": "compendio",
+      "title": "Cap. XXIX, Cap. XXX (f. 10v) — De la fabrica e formatione del corpo detto ycocedron.",
       "image": "0036.png",
-      "text": "0036.txt"
+      "text": "0036.rst"
     },
     {
       "page_num": 37,
       "folio": "0037",
+      "original_folio": "f. 11r",
       "section": "compendio",
+      "title": "Cap. XXX (f. 11r) — Saper fare el corpo de 12 basi pentagonali equilatere e",
       "image": "0037.png",
-      "text": "0037.txt"
+      "text": "0037.rst"
     },
     {
       "page_num": 38,
       "folio": "0038",
+      "original_folio": "f. 11v",
       "section": "compendio",
+      "title": "Cap. XXX, Cap. XXXI (f. 11v) — Saper fare el corpo de 12 basi pentagonali equilatere e",
       "image": "0038.png",
-      "text": "0038.txt"
+      "text": "0038.rst"
     },
     {
       "page_num": 39,
       "folio": "0039",
+      "original_folio": "f. 12r",
       "section": "compendio",
+      "title": "Cap. XXXI (f. 12r) — A trouar li lati de tutti 5 corpi regulari.",
       "image": "0039.png",
-      "text": "0039.txt"
+      "text": "0039.rst"
     },
     {
       "page_num": 40,
       "folio": "0040",
+      "original_folio": "f. 12v",
       "section": "compendio",
+      "title": "Cap. XXXI, Cap. XXXII, Cap. XXXIII (f. 12v) — A trouar li lati de tutti 5 corpi regulari.",
       "image": "0040.png",
-      "text": "0040.txt"
+      "text": "0040.rst"
     },
     {
       "page_num": 41,
       "folio": "0041",
+      "original_folio": "f. 13r",
       "section": "compendio",
+      "title": "Cap. XXXIII, Cap. XXXIV, Cap. XXXV, Cap. XXXVI, Cap. XXXVII (f. 13r) — Dela proportione de tutte loro superficie lune alaltre.",
       "image": "0041.png",
-      "text": "0041.txt"
+      "text": "0041.rst"
     },
     {
       "page_num": 42,
       "folio": "0042",
+      "original_folio": "f. 13v",
       "section": "compendio",
+      "title": "Cap. XXXVIII, Cap. XXXIX, Cap. XL, Cap. XLI, Cap. XLII, Cap. XLIII, Cap. XLIV (f. 13v) — Dela inscriptione del tetracedron in loctocedron.",
       "image": "0042.png",
-      "text": "0042.txt"
+      "text": "0042.rst"
     },
     {
       "page_num": 43,
       "folio": "0043",
+      "original_folio": "f. 14r",
       "section": "compendio",
+      "title": "Cap. XLV, Cap. XLVI, Cap. XLVII, Cap. XLVIII (f. 14r) — Del modo aformare el tetracedron nello ycocedron.",
       "image": "0043.png",
-      "text": "0043.txt"
+      "text": "0043.rst"
     },
     {
       "page_num": 44,
       "folio": "0044",
+      "original_folio": "f. 14v",
       "section": "compendio",
+      "title": "Cap. XLVIII, Cap. XLIX, Cap. L (f. 14v) — Dela forma edispositione del tetracedron piano solido o",
       "image": "0044.png",
-      "text": "0044.txt"
+      "text": "0044.rst"
     },
     {
       "page_num": 45,
       "folio": "0045",
+      "original_folio": "f. 15r",
       "section": "compendio",
+      "title": "Cap. L, Cap. LI, Cap. LII (f. 15r) — Delo octocedron piano solido o ver vacuo e absciso soli",
       "image": "0045.png",
-      "text": "0045.txt"
+      "text": "0045.rst"
     },
     {
       "page_num": 46,
       "folio": "0046",
+      "original_folio": "f. 15v",
       "section": "compendio",
+      "title": "Cap. LII, Cap. LIII (f. 15v) — Del duodecedron piano solido o ver vacuo edelo absciso ",
       "image": "0046.png",
-      "text": "0046.txt"
+      "text": "0046.rst"
     },
     {
       "page_num": 47,
       "folio": "0047",
+      "original_folio": "f. 16r",
       "section": "compendio",
+      "title": "Cap. LIII, Cap. LIV (f. 16r) — Del corpo de 26 basi e suo origine piano solido ouer va",
       "image": "0047.png",
-      "text": "0047.txt"
+      "text": "0047.rst"
     },
     {
       "page_num": 48,
       "folio": "0048",
+      "original_folio": "f. 16v",
       "section": "compendio",
+      "title": "Cap. LIV, Cap. LV (f. 16v) — Dal corpo de 72 basi piano solido euacuo.",
       "image": "0048.png",
-      "text": "0048.txt"
+      "text": "0048.rst"
     },
     {
       "page_num": 49,
       "folio": "0049",
+      "original_folio": "f. 17r",
       "section": "compendio",
+      "title": "Cap. LV, Cap. LVI (f. 17r) — Del modo asaperne oltra li dicti più formare e commo lo",
       "image": "0049.png",
-      "text": "0049.txt"
+      "text": "0049.rst"
     },
     {
       "page_num": 50,
       "folio": "0050",
+      "original_folio": "f. 17v",
       "section": "compendio",
+      "title": "Cap. LVI, Cap. LVII (f. 17v) — Del corpo sperico la sua formatione.",
       "image": "0050.png",
-      "text": "0050.txt"
+      "text": "0050.rst"
     },
     {
       "page_num": 51,
       "folio": "0051",
+      "original_folio": "f. 18r",
       "section": "compendio",
+      "title": "Cap. LVII, Cap. LVIII (f. 18r) — Commo in la spera se collochino tutti li 5 corpi regula",
       "image": "0051.png",
-      "text": "0051.txt"
+      "text": "0051.rst"
     },
     {
       "page_num": 52,
       "folio": "0052",
+      "original_folio": "f. 18v",
       "section": "compendio",
+      "title": "Cap. LVIII, Cap. LIX, Cap. LX (f. 18v) — De li corpi oblunghi cioè più longhi ouer alti che larg",
       "image": "0052.png",
-      "text": "0052.txt"
+      "text": "0052.rst"
     },
     {
       "page_num": 53,
       "folio": "0053",
+      "original_folio": "f. 19r",
       "section": "compendio",
+      "title": "Cap. LX, Cap. LXI, Cap. LXII (f. 19r) — Dele colonne laterate quadrilatere.",
       "image": "0053.png",
-      "text": "0053.txt"
+      "text": "0053.rst"
     },
     {
       "page_num": 54,
       "folio": "0054",
+      "original_folio": "f. 19v",
       "section": "compendio",
+      "title": "Cap. LXII, Cap. LXIII (f. 19v) — Del modo a mesurare tutte sorte colonne e prima dele ro",
       "image": "0054.png",
-      "text": "0054.txt"
+      "text": "0054.rst"
     },
     {
       "page_num": 55,
       "folio": "0055",
+      "original_folio": "f. 20r",
       "section": "compendio",
+      "title": "Cap. LXIV, Cap. LXV (f. 20r) — Dele pyramidi e tutte lor differentie.",
       "image": "0055.png",
-      "text": "0055.txt"
+      "text": "0055.rst"
     },
     {
       "page_num": 56,
       "folio": "0056",
+      "original_folio": "f. 20v",
       "section": "compendio",
+      "title": "Cap. LXV, Cap. LXVI, Cap. LXVII (f. 20v) — Dele piramidi laterate e sue diuersita.",
       "image": "0056.png",
-      "text": "0056.txt"
+      "text": "0056.rst"
     },
     {
       "page_num": 57,
       "folio": "0057",
+      "original_folio": "f. 21r",
       "section": "compendio",
+      "title": "Cap. LXVII, Cap. LXVIII (f. 21r) — Commo dele laterate aperto se mostra ciascuna essere su",
       "image": "0057.png",
-      "text": "0057.txt"
+      "text": "0057.rst"
     },
     {
       "page_num": 58,
       "folio": "0058",
+      "original_folio": "f. 21v",
       "section": "compendio",
+      "title": "Cap. LXVIII, Cap. LXIX (f. 21v) — Commo se mesurino le pyramidi corte.",
       "image": "0058.png",
-      "text": "0058.txt"
+      "text": "0058.rst"
     },
     {
       "page_num": 59,
       "folio": "0059",
+      "original_folio": "f. 22r",
       "section": "compendio",
+      "title": "Cap. LXIX, Cap. LXX, Cap. LXXI (f. 22r) — Dela mesura de tutti li altri corpi regulari e dependen",
       "image": "0059.png",
-      "text": "0059.txt"
+      "text": "0059.rst"
     },
     {
       "page_num": 60,
       "folio": "0060",
+      "original_folio": "f. 22v",
       "section": "compendio",
+      "title": "Cap. LXXI (f. 22v) — De quello se intenda per questi vocabuli fra le mathema",
       "image": "0060.png",
-      "text": "0060.txt"
+      "text": "0060.rst"
     },
     {
       "page_num": 61,
       "folio": "0061",
+      "original_folio": "f. 23r",
       "section": "compendio",
+      "title": "Cap. LXXI, Prohemio (Architectura) (f. 23r) — De quello se intenda per questi vocabuli fra le mathema",
       "image": "0061.png",
-      "text": "0061.txt"
+      "text": "0061.rst"
     },
     {
       "page_num": 62,
       "folio": "0062",
-      "section": "compendio",
+      "original_folio": "f. 23v",
+      "section": "architectura",
+      "title": "Prohemio (Architectura) (f. 23v) — Ali suoi carissimi discipuli e alieui Cesaro dal saxo. ",
       "image": "0062.png",
-      "text": "0062.txt"
+      "text": "0062.rst"
     },
     {
       "page_num": 63,
       "folio": "0063",
-      "section": "compendio",
+      "original_folio": "f. 24r",
+      "section": "architectura",
+      "title": "Prohemio (Architectura) (f. 24r) — Ali suoi carissimi discipuli e alieui Cesaro dal saxo. ",
       "image": "0063.png",
-      "text": "0063.txt"
+      "text": "0063.rst"
     },
     {
       "page_num": 64,
       "folio": "0064",
-      "section": "compendio",
+      "original_folio": "f. 24v",
+      "section": "architectura",
+      "title": "Prohemio (Architectura) (f. 24v) — Ali suoi carissimi discipuli e alieui Cesaro dal saxo. ",
       "image": "0064.png",
-      "text": "0064.txt"
+      "text": "0064.rst"
     },
     {
       "page_num": 65,
       "folio": "0065",
-      "section": "compendio",
+      "original_folio": "f. 25r",
+      "section": "architectura",
+      "title": "Prohemio (Architectura), Cap. I (f. 25r) — Ali suoi carissimi discipuli e alieui Cesaro dal saxo. ",
       "image": "0065.png",
-      "text": "0065.txt"
+      "text": "0065.rst"
     },
     {
       "page_num": 66,
       "folio": "0066",
-      "section": "compendio",
+      "original_folio": "f. 25v",
+      "section": "architectura",
+      "title": "Cap. I (f. 25v) — Dela mesura e proportioni del corpo humano. della testa",
       "image": "0066.png",
-      "text": "0066.txt"
+      "text": "0066.rst"
     },
     {
       "page_num": 67,
       "folio": "0067",
-      "section": "compendio",
+      "original_folio": "f. 26r",
+      "section": "architectura",
+      "title": "Cap. I, Cap. II (f. 26r) — Dela mesura e proportioni del corpo humano. della testa",
       "image": "0067.png",
-      "text": "0067.txt"
+      "text": "0067.rst"
     },
     {
       "page_num": 68,
       "folio": "0068",
-      "section": "compendio",
+      "original_folio": "f. 26v",
+      "section": "architectura",
+      "title": "Cap. II, Cap. III (f. 26v) — Dela distantia del profilo al cotozzo de dieta testa ci",
       "image": "0068.png",
-      "text": "0068.txt"
+      "text": "0068.rst"
     },
     {
       "page_num": 69,
       "folio": "0069",
-      "section": "compendio",
+      "original_folio": "f. 27r",
+      "section": "architectura",
+      "title": "Cap. III, Cap. IV (f. 27r) — Dela proportione de tutto el corpo humano che sia ben d",
       "image": "0069.png",
-      "text": "0069.txt"
+      "text": "0069.rst"
     },
     {
       "page_num": 70,
       "folio": "0070",
-      "section": "compendio",
+      "original_folio": "f. 27v",
+      "section": "architectura",
+      "title": "Cap. IV (f. 27v) — Sequita dele colonne rotonde con sue basi e capitelli e",
       "image": "0070.png",
-      "text": "0070.txt"
+      "text": "0070.rst"
     },
     {
       "page_num": 71,
       "folio": "0071",
-      "section": "compendio",
+      "original_folio": "f. 28r",
+      "section": "architectura",
+      "title": "Cap. V, Cap. VI (f. 28r) — Sequita dir dela longhezzä e grosseza de dieta colonna.",
       "image": "0071.png",
-      "text": "0071.txt"
+      "text": "0071.rst"
     },
     {
       "page_num": 72,
       "folio": "0072",
-      "section": "compendio",
+      "original_folio": "f. 28v",
+      "section": "architectura",
+      "title": "Cap. VI (f. 28v) — Sequita lordine del stilobata ouer pilastro ouero basam",
       "image": "0072.png",
-      "text": "0072.txt"
+      "text": "0072.rst"
     },
     {
       "page_num": 73,
       "folio": "0073",
-      "section": "compendio",
+      "original_folio": "f. 29r",
+      "section": "architectura",
+      "title": "Cap. VII (f. 29r) — In quello sienno differenti le tre spetie de diete colo",
       "image": "0073.png",
-      "text": "0073.txt"
+      "text": "0073.rst"
     },
     {
       "page_num": 74,
       "folio": "0074",
-      "section": "compendio",
+      "original_folio": "f. 29v",
+      "section": "architectura",
+      "title": "Cap. VII, Cap. VIII (f. 29v) — In quello sienno differenti le tre spetie de diete colo",
       "image": "0074.png",
-      "text": "0074.txt"
+      "text": "0074.rst"
     },
     {
       "page_num": 75,
       "folio": "0075",
-      "section": "compendio",
+      "original_folio": "f. 30r",
+      "section": "architectura",
+      "title": "Cap. VIII, Cap. IX (f. 30r) — Doue ora se trouino colonne più debitamente facte per I",
       "image": "0075.png",
-      "text": "0075.txt"
+      "text": "0075.rst"
     },
     {
       "page_num": 76,
       "folio": "0076",
-      "section": "compendio",
+      "original_folio": "f. 30v",
+      "section": "architectura",
+      "title": "Cap. IX, Cap. X, Cap. XI (f. 30v) — Dele colonne laterate.",
       "image": "0076.png",
-      "text": "0076.txt"
+      "text": "0076.rst"
     },
     {
       "page_num": 77,
       "folio": "0077",
-      "section": "compendio",
+      "original_folio": "f. 31r",
+      "section": "architectura",
+      "title": "Cap. XII (f. 31r) — De lordini dele colonne rotonde comme se debino nelli h",
       "image": "0077.png",
-      "text": "0077.txt"
+      "text": "0077.rst"
     },
     {
       "page_num": 78,
       "folio": "0078",
-      "section": "compendio",
+      "original_folio": "f. 31v",
+      "section": "architectura",
+      "title": "Cap. XIII, Cap. XIV (f. 31v) — De linterualli fra lun tigrafo e laltro.",
       "image": "0078.png",
-      "text": "0078.txt"
+      "text": "0078.rst"
     },
     {
       "page_num": 79,
       "folio": "0079",
-      "section": "compendio",
+      "original_folio": "f. 32r",
+      "section": "architectura",
+      "title": "Cap. XV, Cap. XVI, Cap. XVII (f. 32r) — Del zophoro nel epistilio.",
       "image": "0079.png",
-      "text": "0079.txt"
+      "text": "0079.rst"
     },
     {
       "page_num": 80,
       "folio": "0080",
-      "section": "compendio",
+      "original_folio": "f. 32v",
+      "section": "architectura",
+      "title": "Cap. XVIII, Cap. XIX (f. 32v) — Comme lapicidi e altri scultori in dicti corpi sieno co",
       "image": "0080.png",
-      "text": "0080.txt"
+      "text": "0080.rst"
     },
     {
       "page_num": 81,
       "folio": "0081",
+      "original_folio": "f. 33r",
       "section": "architectura",
+      "title": "Cap. XIX, Cap. XX (f. 33r) — Comme nelli luoghi angusti lo architetto se habia arege",
       "image": "0081.png",
-      "text": "0081.txt"
+      "text": "0081.rst"
     },
     {
       "page_num": 82,
       "folio": "0082",
+      "original_folio": "f. 33v",
       "section": "architectura",
+      "title": "Cap. XX (f. 33v) — Dele colonne situate sopra altre coione nelli hedifitii",
       "image": "0082.png",
-      "text": "0082.txt"
+      "text": "0082.rst"
     },
     {
       "page_num": 83,
       "folio": "0083",
+      "original_folio": "f. 34r",
       "section": "architectura",
+      "title": "Blank Leaf (f. 34r)",
       "image": "0083.png",
-      "text": "0083.txt"
+      "text": "0083.rst"
     },
     {
       "page_num": 84,
       "folio": "0084",
+      "original_folio": "f. 34v",
       "section": "architectura",
+      "title": "Blank Leaf (f. 34v)",
       "image": "0084.png",
-      "text": "0084.txt"
+      "text": "0084.rst"
     },
     {
       "page_num": 85,
       "folio": "0085",
+      "original_folio": "Libellus f. 1r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Primus (Libellus f. 1r)",
       "image": "0085.png",
-      "text": "0085.txt"
+      "text": "0085.rst"
     },
     {
       "page_num": 86,
       "folio": "0086",
+      "original_folio": "Libellus f. 1v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Primus (Libellus f. 1v)",
       "image": "0086.png",
-      "text": "0086.txt"
+      "text": "0086.rst"
     },
     {
       "page_num": 87,
       "folio": "0087",
+      "original_folio": "Libellus f. 2r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Primus (Libellus f. 2r)",
       "image": "0087.png",
-      "text": "0087.txt"
+      "text": "0087.rst"
     },
     {
       "page_num": 88,
       "folio": "0088",
+      "original_folio": "Libellus f. 2v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Primus (Libellus f. 2v)",
       "image": "0088.png",
-      "text": "0088.txt"
+      "text": "0088.rst"
     },
     {
       "page_num": 89,
       "folio": "0089",
+      "original_folio": "Libellus f. 3r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Primus (Libellus f. 3r)",
       "image": "0089.png",
-      "text": "0089.txt"
+      "text": "0089.rst"
     },
     {
       "page_num": 90,
       "folio": "0090",
+      "original_folio": "Libellus f. 3v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Primus (Libellus f. 3v)",
       "image": "0090.png",
-      "text": "0090.txt"
+      "text": "0090.rst"
     },
     {
       "page_num": 91,
       "folio": "0091",
+      "original_folio": "Libellus f. 4r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Primus (Libellus f. 4r)",
       "image": "0091.png",
-      "text": "0091.txt"
+      "text": "0091.rst"
     },
     {
       "page_num": 92,
       "folio": "0092",
+      "original_folio": "Libellus f. 4v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Primus (Libellus f. 4v)",
       "image": "0092.png",
-      "text": "0092.txt"
+      "text": "0092.rst"
     },
     {
       "page_num": 93,
       "folio": "0093",
+      "original_folio": "Libellus f. 5r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Primus (Libellus f. 5r)",
       "image": "0093.png",
-      "text": "0093.txt"
+      "text": "0093.rst"
     },
     {
       "page_num": 94,
       "folio": "0094",
+      "original_folio": "Libellus f. 5v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Primus (Libellus f. 5v)",
       "image": "0094.png",
-      "text": "0094.txt"
+      "text": "0094.rst"
     },
     {
       "page_num": 95,
       "folio": "0095",
+      "original_folio": "Libellus f. 6r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Primus (Libellus f. 6r)",
       "image": "0095.png",
-      "text": "0095.txt"
+      "text": "0095.rst"
     },
     {
       "page_num": 96,
       "folio": "0096",
+      "original_folio": "Libellus f. 6v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Primus (Libellus f. 6v)",
       "image": "0096.png",
-      "text": "0096.txt"
+      "text": "0096.rst"
     },
     {
       "page_num": 97,
       "folio": "0097",
+      "original_folio": "Libellus f. 7r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Primus (Libellus f. 7r)",
       "image": "0097.png",
-      "text": "0097.txt"
+      "text": "0097.rst"
     },
     {
       "page_num": 98,
       "folio": "0098",
+      "original_folio": "Libellus f. 7v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Primus (Libellus f. 7v)",
       "image": "0098.png",
-      "text": "0098.txt"
+      "text": "0098.rst"
     },
     {
       "page_num": 99,
       "folio": "0099",
+      "original_folio": "Libellus f. 8r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Primus (Libellus f. 8r)",
       "image": "0099.png",
-      "text": "0099.txt"
+      "text": "0099.rst"
     },
     {
       "page_num": 100,
       "folio": "0100",
+      "original_folio": "Libellus f. 8v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Primus (Libellus f. 8v)",
       "image": "0100.png",
-      "text": "0100.txt"
+      "text": "0100.rst"
     },
     {
       "page_num": 101,
       "folio": "0101",
+      "original_folio": "Libellus f. 9r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Secundus (Libellus f. 9r)",
       "image": "0101.png",
-      "text": "0101.txt"
+      "text": "0101.rst"
     },
     {
       "page_num": 102,
       "folio": "0102",
+      "original_folio": "Libellus f. 9v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Secundus (Libellus f. 9v)",
       "image": "0102.png",
-      "text": "0102.txt"
+      "text": "0102.rst"
     },
     {
       "page_num": 103,
       "folio": "0103",
+      "original_folio": "Libellus f. 10r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Secundus (Libellus f. 10r)",
       "image": "0103.png",
-      "text": "0103.txt"
+      "text": "0103.rst"
     },
     {
       "page_num": 104,
       "folio": "0104",
+      "original_folio": "Libellus f. 10v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Secundus (Libellus f. 10v)",
       "image": "0104.png",
-      "text": "0104.txt"
+      "text": "0104.rst"
     },
     {
       "page_num": 105,
       "folio": "0105",
+      "original_folio": "Libellus f. 11r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Secundus (Libellus f. 11r)",
       "image": "0105.png",
-      "text": "0105.txt"
+      "text": "0105.rst"
     },
     {
       "page_num": 106,
       "folio": "0106",
+      "original_folio": "Libellus f. 11v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Secundus (Libellus f. 11v)",
       "image": "0106.png",
-      "text": "0106.txt"
+      "text": "0106.rst"
     },
     {
       "page_num": 107,
       "folio": "0107",
+      "original_folio": "Libellus f. 12r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Secundus (Libellus f. 12r)",
       "image": "0107.png",
-      "text": "0107.txt"
+      "text": "0107.rst"
     },
     {
       "page_num": 108,
       "folio": "0108",
+      "original_folio": "Libellus f. 12v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Secundus (Libellus f. 12v)",
       "image": "0108.png",
-      "text": "0108.txt"
+      "text": "0108.rst"
     },
     {
       "page_num": 109,
       "folio": "0109",
+      "original_folio": "Libellus f. 13r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Secundus (Libellus f. 13r)",
       "image": "0109.png",
-      "text": "0109.txt"
+      "text": "0109.rst"
     },
     {
       "page_num": 110,
       "folio": "0110",
+      "original_folio": "Libellus f. 13v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Secundus (Libellus f. 13v)",
       "image": "0110.png",
-      "text": "0110.txt"
+      "text": "0110.rst"
     },
     {
       "page_num": 111,
       "folio": "0111",
+      "original_folio": "Libellus f. 14r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Secundus (Libellus f. 14r)",
       "image": "0111.png",
-      "text": "0111.txt"
+      "text": "0111.rst"
     },
     {
       "page_num": 112,
       "folio": "0112",
+      "original_folio": "Libellus f. 14v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Secundus (Libellus f. 14v)",
       "image": "0112.png",
-      "text": "0112.txt"
+      "text": "0112.rst"
     },
     {
       "page_num": 113,
       "folio": "0113",
+      "original_folio": "Libellus f. 15r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 15r)",
       "image": "0113.png",
-      "text": "0113.txt"
+      "text": "0113.rst"
     },
     {
       "page_num": 114,
       "folio": "0114",
+      "original_folio": "Libellus f. 15v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 15v)",
       "image": "0114.png",
-      "text": "0114.txt"
+      "text": "0114.rst"
     },
     {
       "page_num": 115,
       "folio": "0115",
+      "original_folio": "Libellus f. 16r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 16r)",
       "image": "0115.png",
-      "text": "0115.txt"
+      "text": "0115.rst"
     },
     {
       "page_num": 116,
       "folio": "0116",
+      "original_folio": "Libellus f. 16v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 16v)",
       "image": "0116.png",
-      "text": "0116.txt"
+      "text": "0116.rst"
     },
     {
       "page_num": 117,
       "folio": "0117",
+      "original_folio": "Libellus f. 17r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 17r)",
       "image": "0117.png",
-      "text": "0117.txt"
+      "text": "0117.rst"
     },
     {
       "page_num": 118,
       "folio": "0118",
+      "original_folio": "Libellus f. 17v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 17v)",
       "image": "0118.png",
-      "text": "0118.txt"
+      "text": "0118.rst"
     },
     {
       "page_num": 119,
       "folio": "0119",
+      "original_folio": "Libellus f. 18r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 18r)",
       "image": "0119.png",
-      "text": "0119.txt"
+      "text": "0119.rst"
     },
     {
       "page_num": 120,
       "folio": "0120",
+      "original_folio": "Libellus f. 18v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 18v)",
       "image": "0120.png",
-      "text": "0120.txt"
+      "text": "0120.rst"
     },
     {
       "page_num": 121,
       "folio": "0121",
+      "original_folio": "Libellus f. 19r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 19r)",
       "image": "0121.png",
-      "text": "0121.txt"
+      "text": "0121.rst"
     },
     {
       "page_num": 122,
       "folio": "0122",
+      "original_folio": "Libellus f. 19v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 19v)",
       "image": "0122.png",
-      "text": "0122.txt"
+      "text": "0122.rst"
     },
     {
       "page_num": 123,
       "folio": "0123",
+      "original_folio": "Libellus f. 20r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 20r)",
       "image": "0123.png",
-      "text": "0123.txt"
+      "text": "0123.rst"
     },
     {
       "page_num": 124,
       "folio": "0124",
+      "original_folio": "Libellus f. 20v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 20v)",
       "image": "0124.png",
-      "text": "0124.txt"
+      "text": "0124.rst"
     },
     {
       "page_num": 125,
       "folio": "0125",
+      "original_folio": "Libellus f. 21r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 21r)",
       "image": "0125.png",
-      "text": "0125.txt"
+      "text": "0125.rst"
     },
     {
       "page_num": 126,
       "folio": "0126",
+      "original_folio": "Libellus f. 21v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 21v)",
       "image": "0126.png",
-      "text": "0126.txt"
+      "text": "0126.rst"
     },
     {
       "page_num": 127,
       "folio": "0127",
+      "original_folio": "Libellus f. 22r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 22r)",
       "image": "0127.png",
-      "text": "0127.txt"
+      "text": "0127.rst"
     },
     {
       "page_num": 128,
       "folio": "0128",
+      "original_folio": "Libellus f. 22v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 22v)",
       "image": "0128.png",
-      "text": "0128.txt"
+      "text": "0128.rst"
     },
     {
       "page_num": 129,
       "folio": "0129",
+      "original_folio": "Libellus f. 23r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 23r)",
       "image": "0129.png",
-      "text": "0129.txt"
+      "text": "0129.rst"
     },
     {
       "page_num": 130,
       "folio": "0130",
+      "original_folio": "Libellus f. 23v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 23v)",
       "image": "0130.png",
-      "text": "0130.txt"
+      "text": "0130.rst"
     },
     {
       "page_num": 131,
       "folio": "0131",
+      "original_folio": "Libellus f. 24r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 24r)",
       "image": "0131.png",
-      "text": "0131.txt"
+      "text": "0131.rst"
     },
     {
       "page_num": 132,
       "folio": "0132",
+      "original_folio": "Libellus f. 24v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 24v)",
       "image": "0132.png",
-      "text": "0132.txt"
+      "text": "0132.rst"
     },
     {
       "page_num": 133,
       "folio": "0133",
+      "original_folio": "Libellus f. 25r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 25r)",
       "image": "0133.png",
-      "text": "0133.txt"
+      "text": "0133.rst"
     },
     {
       "page_num": 134,
       "folio": "0134",
+      "original_folio": "Libellus f. 25v",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 25v)",
       "image": "0134.png",
-      "text": "0134.txt"
+      "text": "0134.rst"
     },
     {
       "page_num": 135,
       "folio": "0135",
+      "original_folio": "Libellus f. 26r",
       "section": "libellus",
+      "title": "Libellus — Tractatus Tertius (Libellus f. 26r)",
       "image": "0135.png",
-      "text": "0135.txt"
+      "text": "0135.rst"
     },
     {
       "page_num": 136,
       "folio": "0136",
-      "section": "alphabet",
+      "original_folio": "Libellus f. 26v",
+      "section": "libellus",
+      "title": "Libellus — Blank Verso (Libellus f. 26v)",
       "image": "0136.png",
-      "text": "0136.txt"
+      "text": "0136.rst"
     },
     {
       "page_num": 137,
       "folio": "0137",
+      "original_folio": "Plate Folio 0137 (recto)",
       "section": "alphabet",
+      "title": "Divina Proportio — Caput Humanum (Proportional Profile of the Human Head)",
       "image": "0137.png",
-      "text": "0137.txt"
+      "text": "0137.rst"
     },
     {
       "page_num": 138,
       "folio": "0138",
+      "original_folio": "Plate Folio 0138 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0138)",
       "image": "0138.png",
-      "text": "0138.txt"
+      "text": "0138.rst"
     },
     {
       "page_num": 139,
       "folio": "0139",
+      "original_folio": "Plate Folio 0139 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera A",
       "image": "0139.png",
-      "text": "0139.txt"
+      "text": "0139.rst"
     },
     {
       "page_num": 140,
       "folio": "0140",
+      "original_folio": "Plate Folio 0140 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0140)",
       "image": "0140.png",
-      "text": "0140.txt"
+      "text": "0140.rst"
     },
     {
       "page_num": 141,
       "folio": "0141",
+      "original_folio": "Plate Folio 0141 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera B",
       "image": "0141.png",
-      "text": "0141.txt"
+      "text": "0141.rst"
     },
     {
       "page_num": 142,
       "folio": "0142",
+      "original_folio": "Plate Folio 0142 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0142)",
       "image": "0142.png",
-      "text": "0142.txt"
+      "text": "0142.rst"
     },
     {
       "page_num": 143,
       "folio": "0143",
+      "original_folio": "Plate Folio 0143 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera C",
       "image": "0143.png",
-      "text": "0143.txt"
+      "text": "0143.rst"
     },
     {
       "page_num": 144,
       "folio": "0144",
+      "original_folio": "Plate Folio 0144 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0144)",
       "image": "0144.png",
-      "text": "0144.txt"
+      "text": "0144.rst"
     },
     {
       "page_num": 145,
       "folio": "0145",
+      "original_folio": "Plate Folio 0145 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera D",
       "image": "0145.png",
-      "text": "0145.txt"
+      "text": "0145.rst"
     },
     {
       "page_num": 146,
       "folio": "0146",
+      "original_folio": "Plate Folio 0146 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0146)",
       "image": "0146.png",
-      "text": "0146.txt"
+      "text": "0146.rst"
     },
     {
       "page_num": 147,
       "folio": "0147",
+      "original_folio": "Plate Folio 0147 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera E",
       "image": "0147.png",
-      "text": "0147.txt"
+      "text": "0147.rst"
     },
     {
       "page_num": 148,
       "folio": "0148",
+      "original_folio": "Plate Folio 0148 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0148)",
       "image": "0148.png",
-      "text": "0148.txt"
+      "text": "0148.rst"
     },
     {
       "page_num": 149,
       "folio": "0149",
+      "original_folio": "Plate Folio 0149 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera F",
       "image": "0149.png",
-      "text": "0149.txt"
+      "text": "0149.rst"
     },
     {
       "page_num": 150,
       "folio": "0150",
+      "original_folio": "Plate Folio 0150 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0150)",
       "image": "0150.png",
-      "text": "0150.txt"
+      "text": "0150.rst"
     },
     {
       "page_num": 151,
       "folio": "0151",
+      "original_folio": "Plate Folio 0151 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera G",
       "image": "0151.png",
-      "text": "0151.txt"
+      "text": "0151.rst"
     },
     {
       "page_num": 152,
       "folio": "0152",
+      "original_folio": "Plate Folio 0152 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0152)",
       "image": "0152.png",
-      "text": "0152.txt"
+      "text": "0152.rst"
     },
     {
       "page_num": 153,
       "folio": "0153",
+      "original_folio": "Plate Folio 0153 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera H",
       "image": "0153.png",
-      "text": "0153.txt"
+      "text": "0153.rst"
     },
     {
       "page_num": 154,
       "folio": "0154",
+      "original_folio": "Plate Folio 0154 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0154)",
       "image": "0154.png",
-      "text": "0154.txt"
+      "text": "0154.rst"
     },
     {
       "page_num": 155,
       "folio": "0155",
+      "original_folio": "Plate Folio 0155 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera I / J",
       "image": "0155.png",
-      "text": "0155.txt"
+      "text": "0155.rst"
     },
     {
       "page_num": 156,
       "folio": "0156",
+      "original_folio": "Plate Folio 0156 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0156)",
       "image": "0156.png",
-      "text": "0156.txt"
+      "text": "0156.rst"
     },
     {
       "page_num": 157,
       "folio": "0157",
+      "original_folio": "Plate Folio 0157 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera K",
       "image": "0157.png",
-      "text": "0157.txt"
+      "text": "0157.rst"
     },
     {
       "page_num": 158,
       "folio": "0158",
+      "original_folio": "Plate Folio 0158 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0158)",
       "image": "0158.png",
-      "text": "0158.txt"
+      "text": "0158.rst"
     },
     {
       "page_num": 159,
       "folio": "0159",
+      "original_folio": "Plate Folio 0159 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera L",
       "image": "0159.png",
-      "text": "0159.txt"
+      "text": "0159.rst"
     },
     {
       "page_num": 160,
       "folio": "0160",
+      "original_folio": "Plate Folio 0160 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0160)",
       "image": "0160.png",
-      "text": "0160.txt"
+      "text": "0160.rst"
     },
     {
       "page_num": 161,
       "folio": "0161",
+      "original_folio": "Plate Folio 0161 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera M",
       "image": "0161.png",
-      "text": "0161.txt"
+      "text": "0161.rst"
     },
     {
       "page_num": 162,
       "folio": "0162",
+      "original_folio": "Plate Folio 0162 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0162)",
       "image": "0162.png",
-      "text": "0162.txt"
+      "text": "0162.rst"
     },
     {
       "page_num": 163,
       "folio": "0163",
+      "original_folio": "Plate Folio 0163 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera N",
       "image": "0163.png",
-      "text": "0163.txt"
+      "text": "0163.rst"
     },
     {
       "page_num": 164,
       "folio": "0164",
+      "original_folio": "Plate Folio 0164 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0164)",
       "image": "0164.png",
-      "text": "0164.txt"
+      "text": "0164.rst"
     },
     {
       "page_num": 165,
       "folio": "0165",
+      "original_folio": "Plate Folio 0165 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera O (primo modo perfectissimo)",
       "image": "0165.png",
-      "text": "0165.txt"
+      "text": "0165.rst"
     },
     {
       "page_num": 166,
       "folio": "0166",
+      "original_folio": "Plate Folio 0166 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0166)",
       "image": "0166.png",
-      "text": "0166.txt"
+      "text": "0166.rst"
     },
     {
       "page_num": 167,
       "folio": "0167",
+      "original_folio": "Plate Folio 0167 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera O (secondo modo)",
       "image": "0167.png",
-      "text": "0167.txt"
+      "text": "0167.rst"
     },
     {
       "page_num": 168,
       "folio": "0168",
+      "original_folio": "Plate Folio 0168 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0168)",
       "image": "0168.png",
-      "text": "0168.txt"
+      "text": "0168.rst"
     },
     {
       "page_num": 169,
       "folio": "0169",
+      "original_folio": "Plate Folio 0169 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera P",
       "image": "0169.png",
-      "text": "0169.txt"
+      "text": "0169.rst"
     },
     {
       "page_num": 170,
       "folio": "0170",
+      "original_folio": "Plate Folio 0170 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0170)",
       "image": "0170.png",
-      "text": "0170.txt"
+      "text": "0170.rst"
     },
     {
       "page_num": 171,
       "folio": "0171",
+      "original_folio": "Plate Folio 0171 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera Q",
       "image": "0171.png",
-      "text": "0171.txt"
+      "text": "0171.rst"
     },
     {
       "page_num": 172,
       "folio": "0172",
+      "original_folio": "Plate Folio 0172 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0172)",
       "image": "0172.png",
-      "text": "0172.txt"
+      "text": "0172.rst"
     },
     {
       "page_num": 173,
       "folio": "0173",
+      "original_folio": "Plate Folio 0173 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera R",
       "image": "0173.png",
-      "text": "0173.txt"
+      "text": "0173.rst"
     },
     {
       "page_num": 174,
       "folio": "0174",
+      "original_folio": "Plate Folio 0174 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0174)",
       "image": "0174.png",
-      "text": "0174.txt"
+      "text": "0174.rst"
     },
     {
       "page_num": 175,
       "folio": "0175",
+      "original_folio": "Plate Folio 0175 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera S",
       "image": "0175.png",
-      "text": "0175.txt"
+      "text": "0175.rst"
     },
     {
       "page_num": 176,
       "folio": "0176",
+      "original_folio": "Plate Folio 0176 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0176)",
       "image": "0176.png",
-      "text": "0176.txt"
+      "text": "0176.rst"
     },
     {
       "page_num": 177,
       "folio": "0177",
+      "original_folio": "Plate Folio 0177 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera T",
       "image": "0177.png",
-      "text": "0177.txt"
+      "text": "0177.rst"
     },
     {
       "page_num": 178,
       "folio": "0178",
+      "original_folio": "Plate Folio 0178 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0178)",
       "image": "0178.png",
-      "text": "0178.txt"
+      "text": "0178.rst"
     },
     {
       "page_num": 179,
       "folio": "0179",
+      "original_folio": "Plate Folio 0179 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera V",
       "image": "0179.png",
-      "text": "0179.txt"
+      "text": "0179.rst"
     },
     {
       "page_num": 180,
       "folio": "0180",
+      "original_folio": "Plate Folio 0180 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0180)",
       "image": "0180.png",
-      "text": "0180.txt"
+      "text": "0180.rst"
     },
     {
       "page_num": 181,
       "folio": "0181",
+      "original_folio": "Plate Folio 0181 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera X",
       "image": "0181.png",
-      "text": "0181.txt"
+      "text": "0181.rst"
     },
     {
       "page_num": 182,
       "folio": "0182",
+      "original_folio": "Plate Folio 0182 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0182)",
       "image": "0182.png",
-      "text": "0182.txt"
+      "text": "0182.rst"
     },
     {
       "page_num": 183,
       "folio": "0183",
+      "original_folio": "Plate Folio 0183 (recto)",
       "section": "alphabet",
+      "title": "Roman Geometric Alphabet — Lettera Y",
       "image": "0183.png",
-      "text": "0183.txt"
+      "text": "0183.rst"
     },
     {
       "page_num": 184,
       "folio": "0184",
+      "original_folio": "Plate Folio 0184 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0184)",
       "image": "0184.png",
-      "text": "0184.txt"
+      "text": "0184.rst"
     },
     {
       "page_num": 185,
       "folio": "0185",
+      "original_folio": "Plate Folio 0185 (recto)",
       "section": "alphabet",
+      "title": "Porta Templi Domini Dicta Speciosa",
       "image": "0185.png",
-      "text": "0185.txt"
+      "text": "0185.rst"
     },
     {
       "page_num": 186,
       "folio": "0186",
+      "original_folio": "Plate Folio 0186 (verso)",
       "section": "alphabet",
+      "title": "Alphabet Plate Verso (0186)",
       "image": "0186.png",
-      "text": "0186.txt"
+      "text": "0186.rst"
     },
     {
       "page_num": 187,
       "folio": "0187",
+      "original_folio": "Plate Folio 0187 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate I — Tetrahedron Planum Solidum (Solid Regular Tetrahedron)",
       "image": "0187.png",
-      "text": "0187.txt"
+      "text": "0187.rst"
     },
     {
       "page_num": 188,
       "folio": "0188",
+      "original_folio": "Plate Folio 0188 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0188)",
       "image": "0188.png",
-      "text": "0188.txt"
+      "text": "0188.rst"
     },
     {
       "page_num": 189,
       "folio": "0189",
+      "original_folio": "Plate Folio 0189 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate II — Tetrahedron Planum Vacuum (Hollow Regular Tetrahedron)",
       "image": "0189.png",
-      "text": "0189.txt"
+      "text": "0189.rst"
     },
     {
       "page_num": 190,
       "folio": "0190",
+      "original_folio": "Plate Folio 0190 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0190)",
       "image": "0190.png",
-      "text": "0190.txt"
+      "text": "0190.rst"
     },
     {
       "page_num": 191,
       "folio": "0191",
+      "original_folio": "Plate Folio 0191 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate III — Tetrahedron Abscisum Solidum (Solid Truncated Tetrahedron)",
       "image": "0191.png",
-      "text": "0191.txt"
+      "text": "0191.rst"
     },
     {
       "page_num": 192,
       "folio": "0192",
+      "original_folio": "Plate Folio 0192 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0192)",
       "image": "0192.png",
-      "text": "0192.txt"
+      "text": "0192.rst"
     },
     {
       "page_num": 193,
       "folio": "0193",
+      "original_folio": "Plate Folio 0193 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate IIII — Tetrahedron Abscisum Vacuum (Hollow Truncated Tetrahedron)",
       "image": "0193.png",
-      "text": "0193.txt"
+      "text": "0193.rst"
     },
     {
       "page_num": 194,
       "folio": "0194",
+      "original_folio": "Plate Folio 0194 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0194)",
       "image": "0194.png",
-      "text": "0194.txt"
+      "text": "0194.rst"
     },
     {
       "page_num": 195,
       "folio": "0195",
+      "original_folio": "Plate Folio 0195 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate V — Tetrahedron Elevatum Solidum (Solid Stellated (Elevated) Tetrahedron)",
       "image": "0195.png",
-      "text": "0195.txt"
+      "text": "0195.rst"
     },
     {
       "page_num": 196,
       "folio": "0196",
+      "original_folio": "Plate Folio 0196 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0196)",
       "image": "0196.png",
-      "text": "0196.txt"
+      "text": "0196.rst"
     },
     {
       "page_num": 197,
       "folio": "0197",
+      "original_folio": "Plate Folio 0197 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate VI — Tetrahedron Elevatum Vacuum (Hollow Stellated (Elevated) Tetrahedron)",
       "image": "0197.png",
-      "text": "0197.txt"
+      "text": "0197.rst"
     },
     {
       "page_num": 198,
       "folio": "0198",
+      "original_folio": "Plate Folio 0198 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0198)",
       "image": "0198.png",
-      "text": "0198.txt"
+      "text": "0198.rst"
     },
     {
       "page_num": 199,
       "folio": "0199",
+      "original_folio": "Plate Folio 0199 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate VII — Exahedron sive Cubus Planum Solidum (Solid Regular Hexahedron (Cube))",
       "image": "0199.png",
-      "text": "0199.txt"
+      "text": "0199.rst"
     },
     {
       "page_num": 200,
       "folio": "0200",
+      "original_folio": "Plate Folio 0200 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0200)",
       "image": "0200.png",
-      "text": "0200.txt"
+      "text": "0200.rst"
     },
     {
       "page_num": 201,
       "folio": "0201",
+      "original_folio": "Plate Folio 0201 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate VIII — Exahedron Planum Vacuum (Hollow Regular Hexahedron (Cube))",
       "image": "0201.png",
-      "text": "0201.txt"
+      "text": "0201.rst"
     },
     {
       "page_num": 202,
       "folio": "0202",
+      "original_folio": "Plate Folio 0202 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0202)",
       "image": "0202.png",
-      "text": "0202.txt"
+      "text": "0202.rst"
     },
     {
       "page_num": 203,
       "folio": "0203",
+      "original_folio": "Plate Folio 0203 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate VIIII — Exahedron Abscisum Solidum (Solid Truncated Hexahedron (Cuboctahedron))",
       "image": "0203.png",
-      "text": "0203.txt"
+      "text": "0203.rst"
     },
     {
       "page_num": 204,
       "folio": "0204",
+      "original_folio": "Plate Folio 0204 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0204)",
       "image": "0204.png",
-      "text": "0204.txt"
+      "text": "0204.rst"
     },
     {
       "page_num": 205,
       "folio": "0205",
+      "original_folio": "Plate Folio 0205 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate X — Exahedron Abscisum Vacuum (Hollow Truncated Hexahedron (Cuboctahedron))",
       "image": "0205.png",
-      "text": "0205.txt"
+      "text": "0205.rst"
     },
     {
       "page_num": 206,
       "folio": "0206",
+      "original_folio": "Plate Folio 0206 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0206)",
       "image": "0206.png",
-      "text": "0206.txt"
+      "text": "0206.rst"
     },
     {
       "page_num": 207,
       "folio": "0207",
+      "original_folio": "Plate Folio 0207 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XI — Exahedron Elevatum Solidum (Solid Elevated Hexahedron)",
       "image": "0207.png",
-      "text": "0207.txt"
+      "text": "0207.rst"
     },
     {
       "page_num": 208,
       "folio": "0208",
+      "original_folio": "Plate Folio 0208 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0208)",
       "image": "0208.png",
-      "text": "0208.txt"
+      "text": "0208.rst"
     },
     {
       "page_num": 209,
       "folio": "0209",
+      "original_folio": "Plate Folio 0209 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XII — Exahedron Elevatum Vacuum (Hollow Elevated Hexahedron)",
       "image": "0209.png",
-      "text": "0209.txt"
+      "text": "0209.rst"
     },
     {
       "page_num": 210,
       "folio": "0210",
+      "original_folio": "Plate Folio 0210 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0210)",
       "image": "0210.png",
-      "text": "0210.txt"
+      "text": "0210.rst"
     },
     {
       "page_num": 211,
       "folio": "0211",
+      "original_folio": "Plate Folio 0211 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XIII — Exahedron Abscisum Elevatum Solidum (Solid Elevated Truncated Hexahedron)",
       "image": "0211.png",
-      "text": "0211.txt"
+      "text": "0211.rst"
     },
     {
       "page_num": 212,
       "folio": "0212",
+      "original_folio": "Plate Folio 0212 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0212)",
       "image": "0212.png",
-      "text": "0212.txt"
+      "text": "0212.rst"
     },
     {
       "page_num": 213,
       "folio": "0213",
+      "original_folio": "Plate Folio 0213 (recto)",
       "section": "polyhedra_plates",
+      "title": "Architectural Plate — Colonna Corinta, Jonica e Pulvinata con Stilobata e Steriobata",
       "image": "0213.png",
-      "text": "0213.txt"
+      "text": "0213.rst"
     },
     {
       "page_num": 214,
       "folio": "0214",
+      "original_folio": "Plate Folio 0214 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0214)",
       "image": "0214.png",
-      "text": "0214.txt"
+      "text": "0214.rst"
     },
     {
       "page_num": 215,
       "folio": "0215",
+      "original_folio": "Plate Folio 0215 (recto)",
       "section": "polyhedra_plates",
+      "title": "Architectural Plate — Epistilio (Architrave), Zophoro (Fregio) e Cornicione",
       "image": "0215.png",
-      "text": "0215.txt"
+      "text": "0215.rst"
     },
     {
       "page_num": 216,
       "folio": "0216",
+      "original_folio": "Plate Folio 0216 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0216)",
       "image": "0216.png",
-      "text": "0216.txt"
+      "text": "0216.rst"
     },
     {
       "page_num": 217,
       "folio": "0217",
+      "original_folio": "Plate Folio 0217 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XIIII — Exahedron Abscisum Elevatum Vacuum (Hollow Elevated Truncated Hexahedron)",
       "image": "0217.png",
-      "text": "0217.txt"
+      "text": "0217.rst"
     },
     {
       "page_num": 218,
       "folio": "0218",
+      "original_folio": "Plate Folio 0218 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0218)",
       "image": "0218.png",
-      "text": "0218.txt"
+      "text": "0218.rst"
     },
     {
       "page_num": 219,
       "folio": "0219",
+      "original_folio": "Plate Folio 0219 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XV — Octahedron Planum Solidum (Solid Regular Octahedron)",
       "image": "0219.png",
-      "text": "0219.txt"
+      "text": "0219.rst"
     },
     {
       "page_num": 220,
       "folio": "0220",
+      "original_folio": "Plate Folio 0220 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0220)",
       "image": "0220.png",
-      "text": "0220.txt"
+      "text": "0220.rst"
     },
     {
       "page_num": 221,
       "folio": "0221",
+      "original_folio": "Plate Folio 0221 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XVI — Octahedron Planum Vacuum (Hollow Regular Octahedron)",
       "image": "0221.png",
-      "text": "0221.txt"
+      "text": "0221.rst"
     },
     {
       "page_num": 222,
       "folio": "0222",
+      "original_folio": "Plate Folio 0222 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0222)",
       "image": "0222.png",
-      "text": "0222.txt"
+      "text": "0222.rst"
     },
     {
       "page_num": 223,
       "folio": "0223",
+      "original_folio": "Plate Folio 0223 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XVII — Octahedron Abscisum Solidum (Solid Truncated Octahedron)",
       "image": "0223.png",
-      "text": "0223.txt"
+      "text": "0223.rst"
     },
     {
       "page_num": 224,
       "folio": "0224",
+      "original_folio": "Plate Folio 0224 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0224)",
       "image": "0224.png",
-      "text": "0224.txt"
+      "text": "0224.rst"
     },
     {
       "page_num": 225,
       "folio": "0225",
+      "original_folio": "Plate Folio 0225 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XVIII — Octahedron Abscisum Vacuum (Hollow Truncated Octahedron)",
       "image": "0225.png",
-      "text": "0225.txt"
+      "text": "0225.rst"
     },
     {
       "page_num": 226,
       "folio": "0226",
+      "original_folio": "Plate Folio 0226 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0226)",
       "image": "0226.png",
-      "text": "0226.txt"
+      "text": "0226.rst"
     },
     {
       "page_num": 227,
       "folio": "0227",
+      "original_folio": "Plate Folio 0227 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XIX — Octahedron Elevatum Solidum (Solid Elevated Octahedron (Stella Octangula))",
       "image": "0227.png",
-      "text": "0227.txt"
+      "text": "0227.rst"
     },
     {
       "page_num": 228,
       "folio": "0228",
+      "original_folio": "Plate Folio 0228 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0228)",
       "image": "0228.png",
-      "text": "0228.txt"
+      "text": "0228.rst"
     },
     {
       "page_num": 229,
       "folio": "0229",
+      "original_folio": "Plate Folio 0229 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XX — Octahedron Elevatum Vacuum (Hollow Elevated Octahedron (Stella Octangula))",
       "image": "0229.png",
-      "text": "0229.txt"
+      "text": "0229.rst"
     },
     {
       "page_num": 230,
       "folio": "0230",
+      "original_folio": "Plate Folio 0230 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0230)",
       "image": "0230.png",
-      "text": "0230.txt"
+      "text": "0230.rst"
     },
     {
       "page_num": 231,
       "folio": "0231",
+      "original_folio": "Plate Folio 0231 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXI — Icosahedron Planum Solidum (Solid Regular Icosahedron)",
       "image": "0231.png",
-      "text": "0231.txt"
+      "text": "0231.rst"
     },
     {
       "page_num": 232,
       "folio": "0232",
+      "original_folio": "Plate Folio 0232 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0232)",
       "image": "0232.png",
-      "text": "0232.txt"
+      "text": "0232.rst"
     },
     {
       "page_num": 233,
       "folio": "0233",
+      "original_folio": "Plate Folio 0233 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXII — Icosahedron Planum Vacuum (Hollow Regular Icosahedron)",
       "image": "0233.png",
-      "text": "0233.txt"
+      "text": "0233.rst"
     },
     {
       "page_num": 234,
       "folio": "0234",
+      "original_folio": "Plate Folio 0234 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0234)",
       "image": "0234.png",
-      "text": "0234.txt"
+      "text": "0234.rst"
     },
     {
       "page_num": 235,
       "folio": "0235",
+      "original_folio": "Plate Folio 0235 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXIII — Icosahedron Abscisum Solidum (Solid Truncated Icosahedron)",
       "image": "0235.png",
-      "text": "0235.txt"
+      "text": "0235.rst"
     },
     {
       "page_num": 236,
       "folio": "0236",
+      "original_folio": "Plate Folio 0236 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0236)",
       "image": "0236.png",
-      "text": "0236.txt"
+      "text": "0236.rst"
     },
     {
       "page_num": 237,
       "folio": "0237",
+      "original_folio": "Plate Folio 0237 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXIIII — Icosahedron Abscisum Vacuum (Hollow Truncated Icosahedron)",
       "image": "0237.png",
-      "text": "0237.txt"
+      "text": "0237.rst"
     },
     {
       "page_num": 238,
       "folio": "0238",
+      "original_folio": "Plate Folio 0238 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0238)",
       "image": "0238.png",
-      "text": "0238.txt"
+      "text": "0238.rst"
     },
     {
       "page_num": 239,
       "folio": "0239",
+      "original_folio": "Plate Folio 0239 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXV — Icosahedron Elevatum Solidum (Solid Elevated Icosahedron)",
       "image": "0239.png",
-      "text": "0239.txt"
+      "text": "0239.rst"
     },
     {
       "page_num": 240,
       "folio": "0240",
+      "original_folio": "Plate Folio 0240 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0240)",
       "image": "0240.png",
-      "text": "0240.txt"
+      "text": "0240.rst"
     },
     {
       "page_num": 241,
       "folio": "0241",
+      "original_folio": "Plate Folio 0241 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXVI — Icosahedron Elevatum Vacuum (Hollow Elevated Icosahedron)",
       "image": "0241.png",
-      "text": "0241.txt"
+      "text": "0241.rst"
     },
     {
       "page_num": 242,
       "folio": "0242",
+      "original_folio": "Plate Folio 0242 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0242)",
       "image": "0242.png",
-      "text": "0242.txt"
+      "text": "0242.rst"
     },
     {
       "page_num": 243,
       "folio": "0243",
+      "original_folio": "Plate Folio 0243 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXVII — Dodecahedron Planum Solidum (Solid Regular Dodecahedron)",
       "image": "0243.png",
-      "text": "0243.txt"
+      "text": "0243.rst"
     },
     {
       "page_num": 244,
       "folio": "0244",
+      "original_folio": "Plate Folio 0244 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0244)",
       "image": "0244.png",
-      "text": "0244.txt"
+      "text": "0244.rst"
     },
     {
       "page_num": 245,
       "folio": "0245",
+      "original_folio": "Plate Folio 0245 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXVIII — Dodecahedron Planum Vacuum (Hollow Regular Dodecahedron)",
       "image": "0245.png",
-      "text": "0245.txt"
+      "text": "0245.rst"
     },
     {
       "page_num": 246,
       "folio": "0246",
+      "original_folio": "Plate Folio 0246 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0246)",
       "image": "0246.png",
-      "text": "0246.txt"
+      "text": "0246.rst"
     },
     {
       "page_num": 247,
       "folio": "0247",
+      "original_folio": "Plate Folio 0247 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXIX — Dodecahedron Abscisum Solidum (Solid Truncated Dodecahedron (Icosidodecahedron))",
       "image": "0247.png",
-      "text": "0247.txt"
+      "text": "0247.rst"
     },
     {
       "page_num": 248,
       "folio": "0248",
+      "original_folio": "Plate Folio 0248 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0248)",
       "image": "0248.png",
-      "text": "0248.txt"
+      "text": "0248.rst"
     },
     {
       "page_num": 249,
       "folio": "0249",
+      "original_folio": "Plate Folio 0249 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXX — Dodecahedron Abscisum Vacuum (Hollow Truncated Dodecahedron (Icosidodecahedron))",
       "image": "0249.png",
-      "text": "0249.txt"
+      "text": "0249.rst"
     },
     {
       "page_num": 250,
       "folio": "0250",
+      "original_folio": "Plate Folio 0250 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0250)",
       "image": "0250.png",
-      "text": "0250.txt"
+      "text": "0250.rst"
     },
     {
       "page_num": 251,
       "folio": "0251",
+      "original_folio": "Plate Folio 0251 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXXI — Dodecahedron Elevatum Solidum (Solid Elevated Dodecahedron)",
       "image": "0251.png",
-      "text": "0251.txt"
+      "text": "0251.rst"
     },
     {
       "page_num": 252,
       "folio": "0252",
+      "original_folio": "Plate Folio 0252 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0252)",
       "image": "0252.png",
-      "text": "0252.txt"
+      "text": "0252.rst"
     },
     {
       "page_num": 253,
       "folio": "0253",
+      "original_folio": "Plate Folio 0253 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXXII — Dodecahedron Elevatum Vacuum (Hollow Elevated Dodecahedron)",
       "image": "0253.png",
-      "text": "0253.txt"
+      "text": "0253.rst"
     },
     {
       "page_num": 254,
       "folio": "0254",
+      "original_folio": "Plate Folio 0254 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0254)",
       "image": "0254.png",
-      "text": "0254.txt"
+      "text": "0254.rst"
     },
     {
       "page_num": 255,
       "folio": "0255",
+      "original_folio": "Plate Folio 0255 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXXIII — Dodecahedron Abscisum Elevatum Solidum (Solid Elevated Truncated Dodecahedron)",
       "image": "0255.png",
-      "text": "0255.txt"
+      "text": "0255.rst"
     },
     {
       "page_num": 256,
       "folio": "0256",
+      "original_folio": "Plate Folio 0256 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0256)",
       "image": "0256.png",
-      "text": "0256.txt"
+      "text": "0256.rst"
     },
     {
       "page_num": 257,
       "folio": "0257",
+      "original_folio": "Plate Folio 0257 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXXIIII — Dodecahedron Abscisum Elevatum Vacuum (Hollow Elevated Truncated Dodecahedron)",
       "image": "0257.png",
-      "text": "0257.txt"
+      "text": "0257.rst"
     },
     {
       "page_num": 258,
       "folio": "0258",
+      "original_folio": "Plate Folio 0258 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0258)",
       "image": "0258.png",
-      "text": "0258.txt"
+      "text": "0258.rst"
     },
     {
       "page_num": 259,
       "folio": "0259",
+      "original_folio": "Plate Folio 0259 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXXV — Vigintisex Basium Planum Solidum (Solid 26-Base Body (Rhombicuboctahedron))",
       "image": "0259.png",
-      "text": "0259.txt"
+      "text": "0259.rst"
     },
     {
       "page_num": 260,
       "folio": "0260",
+      "original_folio": "Plate Folio 0260 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0260)",
       "image": "0260.png",
-      "text": "0260.txt"
+      "text": "0260.rst"
     },
     {
       "page_num": 261,
       "folio": "0261",
+      "original_folio": "Plate Folio 0261 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXXVI — Vigintisex Basium Planum Vacuum (Hollow 26-Base Body (Rhombicuboctahedron))",
       "image": "0261.png",
-      "text": "0261.txt"
+      "text": "0261.rst"
     },
     {
       "page_num": 262,
       "folio": "0262",
+      "original_folio": "Plate Folio 0262 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0262)",
       "image": "0262.png",
-      "text": "0262.txt"
+      "text": "0262.rst"
     },
     {
       "page_num": 263,
       "folio": "0263",
+      "original_folio": "Plate Folio 0263 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXXVII — Vigintisex Basium Abscisum Elevatum Solidum (Solid Elevated 26-Base Body)",
       "image": "0263.png",
-      "text": "0263.txt"
+      "text": "0263.rst"
     },
     {
       "page_num": 264,
       "folio": "0264",
+      "original_folio": "Plate Folio 0264 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0264)",
       "image": "0264.png",
-      "text": "0264.txt"
+      "text": "0264.rst"
     },
     {
       "page_num": 265,
       "folio": "0265",
+      "original_folio": "Plate Folio 0265 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXXVIII — Vigintisex Basium Abscisum Elevatum Vacuum (Hollow Elevated 26-Base Body)",
       "image": "0265.png",
-      "text": "0265.txt"
+      "text": "0265.rst"
     },
     {
       "page_num": 266,
       "folio": "0266",
+      "original_folio": "Plate Folio 0266 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0266)",
       "image": "0266.png",
-      "text": "0266.txt"
+      "text": "0266.rst"
     },
     {
       "page_num": 267,
       "folio": "0267",
+      "original_folio": "Plate Folio 0267 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XXXIX — Septuaginta Duarum Basium Solidum (Solid 72-Base Body)",
       "image": "0267.png",
-      "text": "0267.txt"
+      "text": "0267.rst"
     },
     {
       "page_num": 268,
       "folio": "0268",
+      "original_folio": "Plate Folio 0268 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0268)",
       "image": "0268.png",
-      "text": "0268.txt"
+      "text": "0268.rst"
     },
     {
       "page_num": 269,
       "folio": "0269",
+      "original_folio": "Plate Folio 0269 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XL — Septuaginta Duarum Basium Vacuum (Hollow 72-Base Body)",
       "image": "0269.png",
-      "text": "0269.txt"
+      "text": "0269.rst"
     },
     {
       "page_num": 270,
       "folio": "0270",
+      "original_folio": "Plate Folio 0270 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0270)",
       "image": "0270.png",
-      "text": "0270.txt"
+      "text": "0270.rst"
     },
     {
       "page_num": 271,
       "folio": "0271",
+      "original_folio": "Plate Folio 0271 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XLI — Columna Laterata Triangula Solida (Solid Triangular Prism (Corpus Seratile))",
       "image": "0271.png",
-      "text": "0271.txt"
+      "text": "0271.rst"
     },
     {
       "page_num": 272,
       "folio": "0272",
+      "original_folio": "Plate Folio 0272 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0272)",
       "image": "0272.png",
-      "text": "0272.txt"
+      "text": "0272.rst"
     },
     {
       "page_num": 273,
       "folio": "0273",
+      "original_folio": "Plate Folio 0273 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XLII — Columna Laterata Triangula Vacua (Hollow Triangular Prism)",
       "image": "0273.png",
-      "text": "0273.txt"
+      "text": "0273.rst"
     },
     {
       "page_num": 274,
       "folio": "0274",
+      "original_folio": "Plate Folio 0274 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0274)",
       "image": "0274.png",
-      "text": "0274.txt"
+      "text": "0274.rst"
     },
     {
       "page_num": 275,
       "folio": "0275",
+      "original_folio": "Plate Folio 0275 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XLIII — Pyramis Laterata Triangula Solida (Solid Triangular Pyramid)",
       "image": "0275.png",
-      "text": "0275.txt"
+      "text": "0275.rst"
     },
     {
       "page_num": 276,
       "folio": "0276",
+      "original_folio": "Plate Folio 0276 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0276)",
       "image": "0276.png",
-      "text": "0276.txt"
+      "text": "0276.rst"
     },
     {
       "page_num": 277,
       "folio": "0277",
+      "original_folio": "Plate Folio 0277 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XLIIII — Pyramis Laterata Triangula Vacua (Hollow Triangular Pyramid)",
       "image": "0277.png",
-      "text": "0277.txt"
+      "text": "0277.rst"
     },
     {
       "page_num": 278,
       "folio": "0278",
+      "original_folio": "Plate Folio 0278 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0278)",
       "image": "0278.png",
-      "text": "0278.txt"
+      "text": "0278.rst"
     },
     {
       "page_num": 279,
       "folio": "0279",
+      "original_folio": "Plate Folio 0279 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XLV — Columna Laterata Quadrangula Solida (Solid Quadrangular Prism)",
       "image": "0279.png",
-      "text": "0279.txt"
+      "text": "0279.rst"
     },
     {
       "page_num": 280,
       "folio": "0280",
+      "original_folio": "Plate Folio 0280 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0280)",
       "image": "0280.png",
-      "text": "0280.txt"
+      "text": "0280.rst"
     },
     {
       "page_num": 281,
       "folio": "0281",
+      "original_folio": "Plate Folio 0281 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XLVI — Columna Laterata Quadrangula Vacua (Hollow Quadrangular Prism)",
       "image": "0281.png",
-      "text": "0281.txt"
+      "text": "0281.rst"
     },
     {
       "page_num": 282,
       "folio": "0282",
+      "original_folio": "Plate Folio 0282 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0282)",
       "image": "0282.png",
-      "text": "0282.txt"
+      "text": "0282.rst"
     },
     {
       "page_num": 283,
       "folio": "0283",
+      "original_folio": "Plate Folio 0283 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XLVII — Pyramis Laterata Quadrangula Solida (Solid Quadrangular Pyramid)",
       "image": "0283.png",
-      "text": "0283.txt"
+      "text": "0283.rst"
     },
     {
       "page_num": 284,
       "folio": "0284",
+      "original_folio": "Plate Folio 0284 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0284)",
       "image": "0284.png",
-      "text": "0284.txt"
+      "text": "0284.rst"
     },
     {
       "page_num": 285,
       "folio": "0285",
+      "original_folio": "Plate Folio 0285 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XLVII-bis — Pyramis Laterata Quadrangula Solida (bis) (Solid Quadrangular Pyramid (Duplicate Scan in Witness))",
       "image": "0285.png",
-      "text": "0285.txt"
+      "text": "0285.rst"
     },
     {
       "page_num": 286,
       "folio": "0286",
+      "original_folio": "Plate Folio 0286 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0286)",
       "image": "0286.png",
-      "text": "0286.txt"
+      "text": "0286.rst"
     },
     {
       "page_num": 287,
       "folio": "0287",
+      "original_folio": "Plate Folio 0287 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XLVIII — Pyramis Laterata Quadrangula Vacua (Hollow Quadrangular Pyramid)",
       "image": "0287.png",
-      "text": "0287.txt"
+      "text": "0287.rst"
     },
     {
       "page_num": 288,
       "folio": "0288",
+      "original_folio": "Plate Folio 0288 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0288)",
       "image": "0288.png",
-      "text": "0288.txt"
+      "text": "0288.rst"
     },
     {
       "page_num": 289,
       "folio": "0289",
+      "original_folio": "Plate Folio 0289 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate XLIX — Columna Laterata Penthagona Solida (Solid Pentagonal Prism)",
       "image": "0289.png",
-      "text": "0289.txt"
+      "text": "0289.rst"
     },
     {
       "page_num": 290,
       "folio": "0290",
+      "original_folio": "Plate Folio 0290 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0290)",
       "image": "0290.png",
-      "text": "0290.txt"
+      "text": "0290.rst"
     },
     {
       "page_num": 291,
       "folio": "0291",
+      "original_folio": "Plate Folio 0291 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate L — Columna Laterata Penthagona Vacua (Hollow Pentagonal Prism)",
       "image": "0291.png",
-      "text": "0291.txt"
+      "text": "0291.rst"
     },
     {
       "page_num": 292,
       "folio": "0292",
+      "original_folio": "Plate Folio 0292 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0292)",
       "image": "0292.png",
-      "text": "0292.txt"
+      "text": "0292.rst"
     },
     {
       "page_num": 293,
       "folio": "0293",
+      "original_folio": "Plate Folio 0293 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate LI — Pyramis Laterata Penthagona Solida (Solid Pentagonal Pyramid)",
       "image": "0293.png",
-      "text": "0293.txt"
+      "text": "0293.rst"
     },
     {
       "page_num": 294,
       "folio": "0294",
+      "original_folio": "Plate Folio 0294 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0294)",
       "image": "0294.png",
-      "text": "0294.txt"
+      "text": "0294.rst"
     },
     {
       "page_num": 295,
       "folio": "0295",
+      "original_folio": "Plate Folio 0295 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate LII — Pyramis Laterata Penthagona Vacua (Hollow Pentagonal Pyramid)",
       "image": "0295.png",
-      "text": "0295.txt"
+      "text": "0295.rst"
     },
     {
       "page_num": 296,
       "folio": "0296",
+      "original_folio": "Plate Folio 0296 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0296)",
       "image": "0296.png",
-      "text": "0296.txt"
+      "text": "0296.rst"
     },
     {
       "page_num": 297,
       "folio": "0297",
+      "original_folio": "Plate Folio 0297 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate LIII — Columna Laterata Exagona Solida (Solid Hexagonal Prism)",
       "image": "0297.png",
-      "text": "0297.txt"
+      "text": "0297.rst"
     },
     {
       "page_num": 298,
       "folio": "0298",
+      "original_folio": "Plate Folio 0298 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0298)",
       "image": "0298.png",
-      "text": "0298.txt"
+      "text": "0298.rst"
     },
     {
       "page_num": 299,
       "folio": "0299",
+      "original_folio": "Plate Folio 0299 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate LIIII — Columna Laterata Exagona Vacua (Hollow Hexagonal Prism)",
       "image": "0299.png",
-      "text": "0299.txt"
+      "text": "0299.rst"
     },
     {
       "page_num": 300,
       "folio": "0300",
+      "original_folio": "Plate Folio 0300 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0300)",
       "image": "0300.png",
-      "text": "0300.txt"
+      "text": "0300.rst"
     },
     {
       "page_num": 301,
       "folio": "0301",
+      "original_folio": "Plate Folio 0301 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate LV — Pyramis Laterata Triangula Inaequilatera Solida (Solid Scalene Triangular Pyramid)",
       "image": "0301.png",
-      "text": "0301.txt"
+      "text": "0301.rst"
     },
     {
       "page_num": 302,
       "folio": "0302",
+      "original_folio": "Plate Folio 0302 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0302)",
       "image": "0302.png",
-      "text": "0302.txt"
+      "text": "0302.rst"
     },
     {
       "page_num": 303,
       "folio": "0303",
+      "original_folio": "Plate Folio 0303 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate LVI — Pyramis Laterata Triangula Inaequilatera Vacua (Hollow Scalene Triangular Pyramid)",
       "image": "0303.png",
-      "text": "0303.txt"
+      "text": "0303.rst"
     },
     {
       "page_num": 304,
       "folio": "0304",
+      "original_folio": "Plate Folio 0304 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0304)",
       "image": "0304.png",
-      "text": "0304.txt"
+      "text": "0304.rst"
     },
     {
       "page_num": 305,
       "folio": "0305",
+      "original_folio": "Plate Folio 0305 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate LVII — Columna Rotunda Solida (Solid Round Column (Cylinder))",
       "image": "0305.png",
-      "text": "0305.txt"
+      "text": "0305.rst"
     },
     {
       "page_num": 306,
       "folio": "0306",
+      "original_folio": "Plate Folio 0306 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0306)",
       "image": "0306.png",
-      "text": "0306.txt"
+      "text": "0306.rst"
     },
     {
       "page_num": 307,
       "folio": "0307",
+      "original_folio": "Plate Folio 0307 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate LVIII — Pyramis Rotunda Solida (Solid Round Pyramid (Cone))",
       "image": "0307.png",
-      "text": "0307.txt"
+      "text": "0307.rst"
     },
     {
       "page_num": 308,
       "folio": "0308",
+      "original_folio": "Plate Folio 0308 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0308)",
       "image": "0308.png",
-      "text": "0308.txt"
+      "text": "0308.rst"
     },
     {
       "page_num": 309,
       "folio": "0309",
+      "original_folio": "Plate Folio 0309 (recto)",
       "section": "polyhedra_plates",
+      "title": "Plate LIX (printed LXI) — Sphera Solida (Solid Sphere)",
       "image": "0309.png",
-      "text": "0309.txt"
+      "text": "0309.rst"
     },
     {
       "page_num": 310,
       "folio": "0310",
+      "original_folio": "Plate Folio 0310 (verso)",
       "section": "polyhedra_plates",
+      "title": "Polyhedra Plate Verso (0310)",
       "image": "0310.png",
-      "text": "0310.txt"
+      "text": "0310.rst"
     },
     {
       "page_num": 311,
       "folio": "0311",
-      "section": "polyhedra_plates",
+      "original_folio": "End Matter 0311 (recto)",
+      "section": "end_matter",
+      "title": "Arbor Proportio et Proportionalitas",
       "image": "0311.png",
-      "text": "0311.txt"
+      "text": "0311.rst"
     },
     {
       "page_num": 312,
       "folio": "0312",
-      "section": "polyhedra_plates",
+      "original_folio": "End Matter 0312 (verso)",
+      "section": "end_matter",
+      "title": "Endleaf (0312)",
       "image": "0312.png",
-      "text": "0312.txt"
+      "text": "0312.rst"
     },
     {
       "page_num": 313,
       "folio": "0313",
-      "section": "polyhedra_plates",
+      "original_folio": "End Matter 0313 (recto)",
+      "section": "end_matter",
+      "title": "Endleaf (0313)",
       "image": "0313.png",
-      "text": "0313.txt"
+      "text": "0313.rst"
     },
     {
       "page_num": 314,
       "folio": "0314",
-      "section": "polyhedra_plates",
+      "original_folio": "End Matter 0314 (verso)",
+      "section": "end_matter",
+      "title": "Endleaf (0314)",
       "image": "0314.png",
-      "text": "0314.txt"
+      "text": "0314.rst"
     },
     {
       "page_num": 315,
       "folio": "0315",
+      "original_folio": "End Matter 0315 (recto)",
       "section": "end_matter",
+      "title": "Endleaf (0315)",
       "image": "0315.png",
-      "text": "0315.txt"
+      "text": "0315.rst"
     },
     {
       "page_num": 316,
       "folio": "0316",
+      "original_folio": "End Matter 0316 (verso)",
       "section": "end_matter",
+      "title": "Endleaf (0316)",
       "image": "0316.png",
-      "text": "0316.txt"
+      "text": "0316.rst"
     },
     {
       "page_num": 317,
       "folio": "0317",
+      "original_folio": "End Matter 0317 (recto)",
       "section": "end_matter",
+      "title": "Endleaf (0317)",
       "image": "0317.png",
-      "text": "0317.txt"
+      "text": "0317.rst"
     },
     {
       "page_num": 318,
       "folio": "0318",
+      "original_folio": "End Matter 0318 (verso)",
       "section": "end_matter",
+      "title": "Endleaf (0318)",
       "image": "0318.png",
-      "text": "0318.txt"
+      "text": "0318.rst"
     }
   ]
 }

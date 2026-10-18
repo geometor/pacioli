@@ -1,41 +1,76 @@
 {
   "folio": "0043",
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PRIMA",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 45,
+      "roman": "XLV",
+      "slug": "cap_45",
+      "title_it": "Del modo aformare el tetracedron nello ycocedron.",
+      "title_de": "Von der Art und Weise, das Tetraeder im Ikosaeder zu bilden.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/045_cap_XLV.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/045_cap_XLV.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 46,
+      "roman": "XLVI",
+      "slug": "cap_46",
+      "title_it": "Perche diete inscriptioni non possano esser più.",
+      "title_de": "Warum der in Rede stehenden Einbeschreibungen nicht mehr sein können.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/046_cap_XLVI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/046_cap_XLVI.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 47,
+      "roman": "XLVII",
+      "slug": "cap_47",
+      "title_it": "Commo in ciascuno deli dicti regulari se formi la spera.",
+      "title_de": "Wie in jedem der genannten regulären Körper die Kugel gebildet werde.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/047_cap_XLVII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/047_cap_XLVII.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 48,
+      "roman": "XLVIII",
+      "slug": "cap_48",
+      "title_it": "Dela forma edispositione del tetracedron piano solido o ver vacuo e del absciso solido piano o ver vacuo edelo eleuato solido o ver vacuo.",
+      "title_de": "Von der Gestalt und Anordnung des ebenen, vollen und hohlen und des abgestumpften vollen, ebenen oder hohlen, und des erhöhten vollen oder hohlen Tetraeders.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/048_cap_XLVIII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/048_cap_XLVIII.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
-      "id": "g1",
-      "file": "0043.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0043.c1.png",
       "bbox": [
-        578,
-        154,
-        40,
-        81
+        51,
+        1192,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0043 Figure 1"
-    },
-    {
-      "id": "g2",
-      "file": "0043.g2.png",
-      "bbox": [
-        578,
-        321,
-        39,
-        155
-      ],
-      "white_point": 226,
-      "caption": "Folio 0043 Figure 2"
-    },
-    {
-      "id": "g3",
-      "file": "0043.g3.png",
-      "bbox": [
-        578,
-        563,
-        41,
-        80
-      ],
-      "white_point": 226,
-      "caption": "Folio 0043 Figure 3"
+      "caption": "Folio 0043 Initial Cap 1"
     }
-  ]
+  ],
+  "page_num": 43,
+  "original_folio": "f. 14r",
+  "section_id": "compendio",
+  "title": "Cap. XLV, Cap. XLVI, Cap. XLVII, Cap. XLVIII (f. 14r) — Del modo aformare el tetracedron nello ycocedron."
 }

@@ -1,29 +1,66 @@
 {
   "folio": "0071",
-  "graphics": [
+  "side": "recto",
+  "section": "Part II: Tractato de l'Architectura",
+  "header": "«HMrV~5",
+  "chapters": [
     {
-      "id": "g1",
-      "file": "0071.g1.png",
-      "bbox": [
-        578,
-        161,
-        38,
-        87
-      ],
-      "white_point": 226,
-      "caption": "Folio 0071 Figure 1"
+      "book": 2,
+      "part": "architectura",
+      "chapter": 5,
+      "roman": "V",
+      "slug": "cap_05",
+      "title_it": "Sequita dir dela longhezzä e grosseza de dieta colonna.",
+      "title_de": "Es folgt, von der Länge und Dicke besagter Säulen zu sprechen.",
+      "winterberg_it": "winterberg/02_architectura_italian/005_cap_V.txt",
+      "winterberg_de": "winterberg/04_architectura_german/005_cap_V.txt",
+      "starts_on_folio": true
     },
     {
-      "id": "g2",
-      "file": "0071.g2.png",
+      "book": 2,
+      "part": "architectura",
+      "chapter": 6,
+      "roman": "VI",
+      "slug": "cap_06",
+      "title_it": "Sequita lordine del stilobata ouer pilastro ouero basamento dela colonna corame si facia.",
+      "title_de": "Es folgt, wie die Anordnung des Stilobaten oder Pilaster, oder Basament der Säule getroffen werde.",
+      "winterberg_it": "winterberg/02_architectura_italian/006_cap_VI.txt",
+      "winterberg_de": "winterberg/04_architectura_german/006_cap_VI.txt",
+      "starts_on_folio": true
+    }
+  ],
+  "graphics": [
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0071.c1.png",
       "bbox": [
-        578,
-        1264,
-        30,
-        62
+        44,
+        130,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0071 Figure 2"
+      "caption": "Folio 0071 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0071.c2.png",
+      "bbox": [
+        38,
+        940,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0071 Initial Cap 2"
     }
-  ]
+  ],
+  "page_num": 71,
+  "original_folio": "f. 28r",
+  "section_id": "architectura",
+  "title": "Cap. V, Cap. VI (f. 28r) — Sequita dir dela longhezzä e grosseza de dieta colonna."
 }

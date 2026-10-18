@@ -1,0 +1,15 @@
+:folio: 0222
+:page_num: 222
+:side: verso
+:original_folio: Plate Folio 0222 (verso)
+:book: Appendix II: Polyhedra Plates by Leonardo da Vinci
+:chapters: None
+:graphics: None
+
+Folio 0222 (Plate Folio 0222 (verso)) — Polyhedra Plate Verso (0222)
+====================================================================
+
+Verso
+-----
+
+Carta bianca (verso della tavola 0221) nell'edizione Paganini 1509.

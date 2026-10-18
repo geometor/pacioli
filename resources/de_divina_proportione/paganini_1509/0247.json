@@ -11,7 +11,19 @@
         1515
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 31 (Folio 0247): $>ofrilLott$'$6t 0t7S,aTiT^^\"tV\u00f9t arl^iof xxrx"
+      "caption": "Plate XXIX: Dodecahedron Abscisum Solidum (Δωδεκάεδρον ἀποτετμημένον στερεόν) — Solid Truncated Dodecahedron (Icosidodecahedron)",
+      "type": "plate",
+      "plate_number": 29,
+      "plate_roman": "XXIX",
+      "title_la": "Dodecahedron Abscisum Solidum",
+      "title_gr": "Δωδεκάεδρον ἀποτετμημένον στερεόν",
+      "title_en": "Solid Truncated Dodecahedron (Icosidodecahedron)"
     }
-  ]
+  ],
+  "page_num": 247,
+  "side": "recto",
+  "original_folio": "Plate Folio 0247 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XXIX — Dodecahedron Abscisum Solidum (Solid Truncated Dodecahedron (Icosidodecahedron))"
 }

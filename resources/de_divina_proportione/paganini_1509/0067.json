@@ -1,17 +1,52 @@
 {
   "folio": "0067",
+  "side": "recto",
+  "section": "Part II: Tractato de l'Architectura",
+  "header": "cepti & cetera.E queffo baffi quanto alaproportionatediuifio",
   "graphics": [
     {
-      "id": "g1",
-      "file": "0067.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0067.c1.png",
       "bbox": [
-        48,
-        19,
-        446,
-        958
+        51,
+        316,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0067 Figure 1"
+      "caption": "Folio 0067 Initial Cap 1"
+    }
+  ],
+  "page_num": 67,
+  "original_folio": "f. 26r",
+  "section_id": "architectura",
+  "title": "Cap. I, Cap. II (f. 26r) — Dela mesura e proportioni del corpo humano. della testa",
+  "chapters": [
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 1,
+      "roman": "I",
+      "slug": "cap_01",
+      "title_it": "Dela mesura e proportioni del corpo humano. della testa e altri suoi membri simulacro delarchitectura.",
+      "title_de": "Von dem Maass und Verhältnissen des menschlichen Körpers, vom Kopf und seinen übrigen Gliedern, <ils Sinnbild der Architektur.",
+      "winterberg_it": "winterberg/02_architectura_italian/001_cap_I.txt",
+      "winterberg_de": "winterberg/04_architectura_german/001_cap_I.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 2,
+      "roman": "II",
+      "slug": "cap_02",
+      "title_it": "Dela distantia del profilo al cotozzo de dieta testa cioè al ponto a. qual chiamano cotozzo edele parti che in quella se interpongano ochio e oregia.",
+      "title_de": "Vom Abstand des Profils zum Hinterhauptbein besagten Kopfes, d. h. zum Punkte a, welchen man Hinterhauptbein nennt, und von den Theilen, welche dazwischen liegen, Auge und Ohr.",
+      "winterberg_it": "winterberg/02_architectura_italian/002_cap_II.txt",
+      "winterberg_de": "winterberg/04_architectura_german/002_cap_II.txt",
+      "starts_on_folio": true
     }
   ]
 }

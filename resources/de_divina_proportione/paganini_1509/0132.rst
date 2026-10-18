@@ -1,0 +1,34 @@
+:folio: 0132
+:page_num: 132
+:side: verso
+:original_folio: Libellus f. 24v
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0132.g1.png, 0132.g2.png, 0132.g3.png, 0132.c1.png
+
+Folio 0132 (Libellus f. 24v) — Libellus — Tractatus Tertius (Libellus f. 24v)
+=============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0132.g1.png
+
+   **g1 (diagram)**: Folio 0132 Diagram 1
+
+.. picture:: 0132.g2.png
+
+   **g2 (diagram)**: Folio 0132 Diagram 2
+
+.. picture:: 0132.g3.png
+
+   **g3 (diagram)**: Folio 0132 Diagram 3
+
+.. picture:: 0132.c1.png
+
+   **c1 (initial)**: Folio 0132 Initial Cap 1
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Tertius (Libellus f. 24v)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela spera.

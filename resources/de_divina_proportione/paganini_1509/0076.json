@@ -1,41 +1,78 @@
 {
   "folio": "0076",
+  "side": "verso",
+  "section": "Part II: Tractato de l'Architectura",
+  "header": "PARS",
+  "chapters": [
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 9,
+      "roman": "IX",
+      "slug": "cap_09",
+      "title_it": "Dele colonne laterate.",
+      "title_de": "Von den kantigen Säulen.",
+      "winterberg_it": "winterberg/02_architectura_italian/009_cap_IX.txt",
+      "winterberg_de": "winterberg/04_architectura_german/009_cap_IX.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 10,
+      "roman": "X",
+      "slug": "cap_10",
+      "title_it": "Dele pyramidi tonde e laterate.",
+      "title_de": "Von den runden und eckigen Pyramiden.",
+      "winterberg_it": "winterberg/02_architectura_italian/010_cap_X.txt",
+      "winterberg_de": "winterberg/04_architectura_german/010_cap_X.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 11,
+      "roman": "XI",
+      "slug": "cap_11",
+      "title_it": "De lorigine dele letere de ogni natione.",
+      "title_de": "Vom Ursprung der Buchstaben bei allen Nationen.",
+      "winterberg_it": "winterberg/02_architectura_italian/011_cap_XI.txt",
+      "winterberg_de": "winterberg/04_architectura_german/011_cap_XI.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
-      "id": "g1",
-      "file": "0076.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0076.c1.png",
       "bbox": [
-        8,
-        28,
-        34,
-        74
+        412,
+        334,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0076 Figure 1"
+      "caption": "Folio 0076 Initial Cap 1"
     },
     {
-      "id": "g2",
-      "file": "0076.g2.png",
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0076.c2.png",
       "bbox": [
-        406,
-        327,
-        53,
-        148
+        405,
+        591,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0076 Figure 2"
-    },
-    {
-      "id": "g3",
-      "file": "0076.g3.png",
-      "bbox": [
-        401,
-        585,
-        58,
-        146
-      ],
-      "white_point": 226,
-      "caption": "Folio 0076 Figure 3"
+      "caption": "Folio 0076 Initial Cap 2"
     }
-  ]
+  ],
+  "page_num": 76,
+  "original_folio": "f. 30v",
+  "section_id": "architectura",
+  "title": "Cap. IX, Cap. X, Cap. XI (f. 30v) — Dele colonne laterate."
 }

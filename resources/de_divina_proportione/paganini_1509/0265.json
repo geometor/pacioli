@@ -11,7 +11,19 @@
         1515
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 40 (Folio 0265): \u00a3lK.o;U*\u00abE^OY \u00ab\u25a0arOTETjUH/tECOV \u00a3-3TH\u00a7jUEVi)V K.EW XXX7III"
+      "caption": "Plate XXXVIII: Vigintisex Basium Abscisum Elevatum Vacuum (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον κενόν) — Hollow Elevated 26-Base Body",
+      "type": "plate",
+      "plate_number": 38,
+      "plate_roman": "XXXVIII",
+      "title_la": "Vigintisex Basium Abscisum Elevatum Vacuum",
+      "title_gr": "Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον κενόν",
+      "title_en": "Hollow Elevated 26-Base Body"
     }
-  ]
+  ],
+  "page_num": 265,
+  "side": "recto",
+  "original_folio": "Plate Folio 0265 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XXXVIII — Vigintisex Basium Abscisum Elevatum Vacuum (Hollow Elevated 26-Base Body)"
 }

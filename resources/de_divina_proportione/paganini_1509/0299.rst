@@ -1,0 +1,23 @@
+:folio: 0299
+:page_num: 299
+:side: recto
+:original_folio: Plate Folio 0299 (recto)
+:book: Appendix II: Polyhedra Plates by Leonardo da Vinci
+:chapters: None
+:graphics: 0299.g1.png
+
+Folio 0299 (Plate Folio 0299 (recto)) — Plate LIIII — Columna Laterata Exagona Vacua (Hollow Hexagonal Prism)
+=============================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0299.g1.png
+
+   **g1 (plate)**: Plate LIIII: Columna Laterata Exagona Vacua (Κίων πλευρώδης ἑξάγωνος κενός) — Hollow Hexagonal Prism
+
+Tabula LIIII (No. 54)
+---------------------
+
+- **Titulus Latinus**: *Columna Laterata Exagona Vacua*
+- **Titulus Graecus**: Κίων πλευρώδης ἑξάγωνος κενός

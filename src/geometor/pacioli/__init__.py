@@ -14,13 +14,23 @@ from __future__ import annotations
 
 from .parser import PacioliParser
 from .extraction import extract_all
-from .graphics import clean_image, detect_graphics_cv, extract_from_json
+from .graphics import (
+    build_graphics_index,
+    clean_image,
+    detect_graphics_cv,
+    detect_initials,
+    detect_margin_figures,
+    extract_from_json,
+)
 
 __all__ = [
     "PacioliParser",
     "extract_all",
+    "build_graphics_index",
     "clean_image",
     "detect_graphics_cv",
+    "detect_initials",
+    "detect_margin_figures",
     "extract_from_json",
 ]
 __version__ = "0.2.0"

@@ -1,0 +1,22 @@
+:folio: 0171
+:page_num: 171
+:side: recto
+:original_folio: Plate Folio 0171 (recto)
+:book: Appendix I: The Roman Geometric Alphabet
+:chapters: None
+:graphics: 0171.g1.png
+
+Folio 0171 (Plate Folio 0171 (recto)) — Roman Geometric Alphabet — Lettera Q
+============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0171.g1.png
+
+   **g1 (plate)**: Roman Geometric Alphabet — Lettera Q
+
+Testo Originale (Paganini 1509)
+-------------------------------
+
+Questa letera Q comme disopra dissi se cava del O, terminando sua gamba tre teste de sua altezza sotto el quadrato cioè de le nove parti le tre del suo quadrato overo diametro del suo tondo comme qui appare proportionata, guidando le pance grosse e sue sutili opposite a poncto comme del O fo dicto. E la sua gamba vol esser longa nove teste cioè quanto el suo quadrato a rectangulo, e la fine vol esser alta la poncta in su un nono de laltezza sequendo la curvita de la penna con la degradatione de la sua grosseza.

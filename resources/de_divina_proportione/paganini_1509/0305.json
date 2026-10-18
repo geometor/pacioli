@@ -11,7 +11,19 @@
         1489
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 60 (Folio 0305): fitaflf^tvy\u00eciA\u00e8i \u00abvre^\u00c9\u00bb? LVH"
+      "caption": "Plate LVII: Columna Rotunda Solida (Κίων στρογγύλος στερεός) — Solid Round Column (Cylinder)",
+      "type": "plate",
+      "plate_number": 57,
+      "plate_roman": "LVII",
+      "title_la": "Columna Rotunda Solida",
+      "title_gr": "Κίων στρογγύλος στερεός",
+      "title_en": "Solid Round Column (Cylinder)"
     }
-  ]
+  ],
+  "page_num": 305,
+  "side": "recto",
+  "original_folio": "Plate Folio 0305 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate LVII — Columna Rotunda Solida (Solid Round Column (Cylinder))"
 }

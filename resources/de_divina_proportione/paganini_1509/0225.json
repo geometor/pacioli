@@ -11,7 +11,19 @@
         1224
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 20 (Folio 0225): ORTa^gOf ct7S0TiT{J.HHlV 0V._X.lt Ot"
+      "caption": "Plate XVIII: Octahedron Abscisum Vacuum (Ὀκτάεδρον ἀποτετμημένον κενόν) — Hollow Truncated Octahedron",
+      "type": "plate",
+      "plate_number": 18,
+      "plate_roman": "XVIII",
+      "title_la": "Octahedron Abscisum Vacuum",
+      "title_gr": "Ὀκτάεδρον ἀποτετμημένον κενόν",
+      "title_en": "Hollow Truncated Octahedron"
     }
-  ]
+  ],
+  "page_num": 225,
+  "side": "recto",
+  "original_folio": "Plate Folio 0225 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XVIII — Octahedron Abscisum Vacuum (Hollow Truncated Octahedron)"
 }

@@ -1,0 +1,34 @@
+:folio: 0123
+:page_num: 123
+:side: recto
+:original_folio: Libellus f. 20r
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0123.g1.png, 0123.c1.png, 0123.c2.png, 0123.c3.png
+
+Folio 0123 (Libellus f. 20r) — Libellus — Tractatus Tertius (Libellus f. 20r)
+=============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0123.g1.png
+
+   **g1 (diagram)**: Folio 0123 Diagram 1
+
+.. picture:: 0123.c1.png
+
+   **c1 (initial)**: Folio 0123 Initial Cap 1
+
+.. picture:: 0123.c2.png
+
+   **c2 (initial)**: Folio 0123 Initial Cap 2
+
+.. picture:: 0123.c3.png
+
+   **c3 (initial)**: Folio 0123 Initial Cap 3
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Tertius (Libellus f. 20r)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela spera.

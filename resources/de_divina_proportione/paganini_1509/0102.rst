@@ -1,0 +1,46 @@
+:folio: 0102
+:page_num: 102
+:side: verso
+:original_folio: Libellus f. 9v
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0102.g1.png, 0102.g2.png, 0102.g3.png, 0102.g4.png, 0102.c1.png, 0102.c2.png, 0102.c3.png
+
+Folio 0102 (Libellus f. 9v) — Libellus — Tractatus Secundus (Libellus f. 9v)
+============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0102.g1.png
+
+   **g1 (diagram)**: Folio 0102 Diagram 1
+
+.. picture:: 0102.g2.png
+
+   **g2 (diagram)**: Folio 0102 Diagram 2
+
+.. picture:: 0102.g3.png
+
+   **g3 (diagram)**: Folio 0102 Diagram 3
+
+.. picture:: 0102.g4.png
+
+   **g4 (diagram)**: Folio 0102 Diagram 4
+
+.. picture:: 0102.c1.png
+
+   **c1 (initial)**: Folio 0102 Initial Cap 1
+
+.. picture:: 0102.c2.png
+
+   **c2 (initial)**: Folio 0102 Initial Cap 2
+
+.. picture:: 0102.c3.png
+
+   **c3 (initial)**: Folio 0102 Initial Cap 3
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Secundus (Libellus f. 9v)**: Casi geometrici e algebrici (*Casus*) de' corpi laterati regulari, le superficie e quadrature loro.

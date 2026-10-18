@@ -11,7 +11,19 @@
         1444
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 50 (Folio 0285): \u25a0sri^ajUJS wA\u00aby\u00a7ajy TSfgaiyiWS urtila XLvir"
+      "caption": "Plate XLVII-bis: Pyramis Laterata Quadrangula Solida (bis) (Πυραμὶς πλευρώδης τετράγωνος στερεά) — Solid Quadrangular Pyramid (Duplicate Scan in Witness)",
+      "type": "plate",
+      "plate_number": 47,
+      "plate_roman": "XLVII-bis",
+      "title_la": "Pyramis Laterata Quadrangula Solida (bis)",
+      "title_gr": "Πυραμὶς πλευρώδης τετράγωνος στερεά",
+      "title_en": "Solid Quadrangular Pyramid (Duplicate Scan in Witness)"
     }
-  ]
+  ],
+  "page_num": 285,
+  "side": "recto",
+  "original_folio": "Plate Folio 0285 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XLVII-bis — Pyramis Laterata Quadrangula Solida (bis) (Solid Quadrangular Pyramid (Duplicate Scan in Witness))"
 }

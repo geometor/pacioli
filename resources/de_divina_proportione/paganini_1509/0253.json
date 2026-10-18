@@ -11,7 +11,19 @@
         1079
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 34 (Folio 0253): JtXXII| .Mawtfgo'tf fffH^mt Mot"
+      "caption": "Plate XXXII: Dodecahedron Elevatum Vacuum (Δωδεκάεδρον ἐπηρμένον κενόν) — Hollow Elevated Dodecahedron",
+      "type": "plate",
+      "plate_number": 32,
+      "plate_roman": "XXXII",
+      "title_la": "Dodecahedron Elevatum Vacuum",
+      "title_gr": "Δωδεκάεδρον ἐπηρμένον κενόν",
+      "title_en": "Hollow Elevated Dodecahedron"
     }
-  ]
+  ],
+  "page_num": 253,
+  "side": "recto",
+  "original_folio": "Plate Folio 0253 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XXXII — Dodecahedron Elevatum Vacuum (Hollow Elevated Dodecahedron)"
 }

@@ -1,29 +1,80 @@
 {
   "folio": "0057",
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PRIMA",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 67,
+      "roman": "LXVII",
+      "slug": "cap_67",
+      "title_it": "Commo dele laterate aperto se mostra ciascuna essere subtripla ala sua colonna.",
+      "title_de": "Wie sich bei den kantigen offen zeigt, dass jede ein Drittel ihrer Säule sei.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/067_cap_LXVII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/067_cap_LXVII.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 68,
+      "roman": "LXVIII",
+      "slug": "cap_68",
+      "title_it": "Commo se mesurino le pyramidi corte.",
+      "title_de": "Wie die abgekürzten Pyramiden ausgemessen werden.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/068_cap_LXVIII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/068_cap_LXVIII.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0057.g1.png",
       "bbox": [
-        635,
-        357,
-        310,
-        309
+        653,
+        331,
+        299,
+        361
       ],
       "white_point": 226,
-      "caption": "Folio 0057 Figure 1"
+      "caption": "Folio 0057 Diagram 1",
+      "margin": "right"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0057.g2.png",
       "bbox": [
-        639,
-        908,
-        286,
-        268
+        653,
+        876,
+        274,
+        322
       ],
       "white_point": 226,
-      "caption": "Folio 0057 Figure 2"
+      "caption": "Folio 0057 Diagram 2",
+      "margin": "right"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0057.c1.png",
+      "bbox": [
+        37,
+        1137,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0057 Initial Cap 1"
     }
-  ]
+  ],
+  "page_num": 57,
+  "original_folio": "f. 21r",
+  "section_id": "compendio",
+  "title": "Cap. LXVII, Cap. LXVIII (f. 21r) — Commo dele laterate aperto se mostra ciascuna essere su"
 }

@@ -11,7 +11,19 @@
         1463
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 32 (Folio 0249): ^0^'\u00cc!J\u00abJ^OV \u00ab\u25a0SfaT\u00c9TjUHjUtt'OV \u00ecLit\u00e8V XXX"
+      "caption": "Plate XXX: Dodecahedron Abscisum Vacuum (Δωδεκάεδρον ἀποτετμημένον κενόν) — Hollow Truncated Dodecahedron (Icosidodecahedron)",
+      "type": "plate",
+      "plate_number": 30,
+      "plate_roman": "XXX",
+      "title_la": "Dodecahedron Abscisum Vacuum",
+      "title_gr": "Δωδεκάεδρον ἀποτετμημένον κενόν",
+      "title_en": "Hollow Truncated Dodecahedron (Icosidodecahedron)"
     }
-  ]
+  ],
+  "page_num": 249,
+  "side": "recto",
+  "original_folio": "Plate Folio 0249 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XXX — Dodecahedron Abscisum Vacuum (Hollow Truncated Dodecahedron (Icosidodecahedron))"
 }

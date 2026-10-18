@@ -11,7 +11,19 @@
         1013
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 51 (Folio 0287): \u25a0sruo\u00abjUi<; \u25a0S\"A#y9i^w;T?T?#YC-)P0$ %\u00ecvh XLvnr"
+      "caption": "Plate XLVIII: Pyramis Laterata Quadrangula Vacua (Πυραμὶς πλευρώδης τετράγωνος κενή) — Hollow Quadrangular Pyramid",
+      "type": "plate",
+      "plate_number": 48,
+      "plate_roman": "XLVIII",
+      "title_la": "Pyramis Laterata Quadrangula Vacua",
+      "title_gr": "Πυραμὶς πλευρώδης τετράγωνος κενή",
+      "title_en": "Hollow Quadrangular Pyramid"
     }
-  ]
+  ],
+  "page_num": 287,
+  "side": "recto",
+  "original_folio": "Plate Folio 0287 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XLVIII — Pyramis Laterata Quadrangula Vacua (Hollow Quadrangular Pyramid)"
 }

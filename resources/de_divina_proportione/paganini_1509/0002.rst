@@ -1,0 +1,15 @@
+:folio: 0002
+:page_num: 2
+:side: verso
+:original_folio: Flyleaf 1v
+:book: Front Matter and Dedications
+:chapters: None
+:graphics: None
+
+Folio 0002 (Flyleaf 1v) — Flyleaf (Flyleaf 1v)
+==============================================
+
+Folio Description
+-----------------
+
+Blank leaf / flyleaf (Flyleaf 1v) in the 1509 Venice witness (*Paganinus de Paganinis de Brixia*).

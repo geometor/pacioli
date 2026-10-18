@@ -1,0 +1,26 @@
+:folio: 0134
+:page_num: 134
+:side: verso
+:original_folio: Libellus f. 25v
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0134.c1.png, 0134.c2.png
+
+Folio 0134 (Libellus f. 25v) — Libellus — Tractatus Tertius (Libellus f. 25v)
+=============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0134.c1.png
+
+   **c1 (initial)**: Folio 0134 Initial Cap 1
+
+.. picture:: 0134.c2.png
+
+   **c2 (initial)**: Folio 0134 Initial Cap 2
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Tertius (Libellus f. 25v)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela spera.

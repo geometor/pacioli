@@ -1,0 +1,26 @@
+:folio: 0128
+:page_num: 128
+:side: verso
+:original_folio: Libellus f. 22v
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0128.g1.png, 0128.g2.png
+
+Folio 0128 (Libellus f. 22v) — Libellus — Tractatus Tertius (Libellus f. 22v)
+=============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0128.g1.png
+
+   **g1 (diagram)**: Folio 0128 Diagram 1
+
+.. picture:: 0128.g2.png
+
+   **g2 (diagram)**: Folio 0128 Diagram 2
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Tertius (Libellus f. 22v)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela spera.

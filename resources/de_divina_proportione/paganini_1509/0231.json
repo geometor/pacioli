@@ -11,7 +11,19 @@
         1515
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 23 (Folio 0231): \u00a3nto$\u00ab\u00a3<fv\u00a76i< e-sn-ar^ov \u00ab-\u00a3\u00a7e<u\u00bb xxi"
+      "caption": "Plate XXI: Icosahedron Planum Solidum (Εἰκοσάεδρον ἐπίπεδον στερεόν) — Solid Regular Icosahedron",
+      "type": "plate",
+      "plate_number": 21,
+      "plate_roman": "XXI",
+      "title_la": "Icosahedron Planum Solidum",
+      "title_gr": "Εἰκοσάεδρον ἐπίπεδον στερεόν",
+      "title_en": "Solid Regular Icosahedron"
     }
-  ]
+  ],
+  "page_num": 231,
+  "side": "recto",
+  "original_folio": "Plate Folio 0231 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XXI — Icosahedron Planum Solidum (Solid Regular Icosahedron)"
 }

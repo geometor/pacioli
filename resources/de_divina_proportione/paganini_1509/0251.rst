@@ -1,0 +1,23 @@
+:folio: 0251
+:page_num: 251
+:side: recto
+:original_folio: Plate Folio 0251 (recto)
+:book: Appendix II: Polyhedra Plates by Leonardo da Vinci
+:chapters: None
+:graphics: 0251.g1.png
+
+Folio 0251 (Plate Folio 0251 (recto)) — Plate XXXI — Dodecahedron Elevatum Solidum (Solid Elevated Dodecahedron)
+================================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0251.g1.png
+
+   **g1 (plate)**: Plate XXXI: Dodecahedron Elevatum Solidum (Δωδεκάεδρον ἐπηρμένον στερεόν) — Solid Elevated Dodecahedron
+
+Tabula XXXI (No. 31)
+--------------------
+
+- **Titulus Latinus**: *Dodecahedron Elevatum Solidum*
+- **Titulus Graecus**: Δωδεκάεδρον ἐπηρμένον στερεόν

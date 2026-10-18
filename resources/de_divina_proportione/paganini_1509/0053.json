@@ -1,41 +1,106 @@
 {
   "folio": "0053",
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PRIMA",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 60,
+      "roman": "LX",
+      "slug": "cap_60",
+      "title_it": "Dele colonne laterate quadrilatere.",
+      "title_de": "Von den vierseitigen kantigen Säulen.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/060_cap_LX.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/060_cap_LX.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 61,
+      "roman": "LXI",
+      "slug": "cap_61",
+      "title_it": "Dele colonne laterale pentagona.",
+      "title_de": "Von den kantigen fünfseitigen Säulen.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/061_cap_LXI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/061_cap_LXI.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 62,
+      "roman": "LXII",
+      "slug": "cap_62",
+      "title_it": "Del modo a mesurare tutte sorte colonne e prima dele rotonde.",
+      "title_de": "Von der Art, alle Sorten Säulen auszumessen, und zwar zuerst von den runden.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/062_cap_LXII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/062_cap_LXII.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0053.g1.png",
       "bbox": [
-        578,
-        150,
-        40,
-        301
+        681,
+        565,
+        224,
+        412
       ],
       "white_point": 226,
-      "caption": "Folio 0053 Figure 1"
+      "caption": "Folio 0053 Diagram 1",
+      "margin": "right"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0053.g2.png",
       "bbox": [
-        578,
-        521,
-        325,
-        454
+        699,
+        967,
+        212,
+        349
       ],
       "white_point": 226,
-      "caption": "Folio 0053 Figure 2"
+      "caption": "Folio 0053 Diagram 2",
+      "margin": "right"
     },
     {
-      "id": "g3",
-      "file": "0053.g3.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0053.c1.png",
       "bbox": [
-        708,
-        992,
-        196,
-        297
+        42,
+        334,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0053 Figure 3"
+      "caption": "Folio 0053 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0053.c2.png",
+      "bbox": [
+        47,
+        1082,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0053 Initial Cap 2"
     }
-  ]
+  ],
+  "page_num": 53,
+  "original_folio": "f. 19r",
+  "section_id": "compendio",
+  "title": "Cap. LX, Cap. LXI, Cap. LXII (f. 19r) — Dele colonne laterate quadrilatere."
 }

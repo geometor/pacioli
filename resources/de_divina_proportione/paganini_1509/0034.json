@@ -1,29 +1,80 @@
 {
   "folio": "0034",
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PARS",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0034.g1.png",
       "bbox": [
-        64,
-        173,
-        326,
-        175
+        59,
+        142,
+        333,
+        234
       ],
       "white_point": 226,
-      "caption": "Folio 0034 Figure 1"
+      "caption": "Folio 0034 Diagram 1",
+      "margin": "left"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0034.g2.png",
       "bbox": [
-        60,
-        446,
-        399,
-        610
+        59,
+        423,
+        333,
+        662
       ],
       "white_point": 226,
-      "caption": "Folio 0034 Figure 2"
+      "caption": "Folio 0034 Diagram 2",
+      "margin": "left"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0034.c1.png",
+      "bbox": [
+        399,
+        497,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0034 Initial Cap 1"
+    }
+  ],
+  "page_num": 34,
+  "original_folio": "f. 9v",
+  "section_id": "compendio",
+  "title": "Cap. XXVIII, Cap. XXIX (f. 9v) — Commo se formi lo octocedron in spera aponto collocabil",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 28,
+      "roman": "XXVIII",
+      "slug": "cap_28",
+      "title_it": "Commo se formi lo octocedron in spera aponto collocabile e sua proportione ala spera.",
+      "title_de": "Wie das Oktaeder gebildet wird, welches genau in die Kugel sich beschreiben lässt, und sein Verhältniss zur Kugel.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/028_cap_XXVIII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/028_cap_XXVIII.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 29,
+      "roman": "XXIX",
+      "slug": "cap_29",
+      "title_it": "De la fabrica e formatione del corpo detto ycocedron.",
+      "title_de": "Von der Anfertigung und Bildung des Ikosaeder genannten Körpers.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/029_cap_XXIX.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/029_cap_XXIX.txt",
+      "starts_on_folio": true
     }
   ]
 }

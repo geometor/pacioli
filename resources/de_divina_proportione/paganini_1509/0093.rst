@@ -1,0 +1,38 @@
+:folio: 0093
+:page_num: 93
+:side: recto
+:original_folio: Libellus f. 5r
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0093.g1.png, 0093.g2.png, 0093.c1.png, 0093.c2.png, 0093.c3.png
+
+Folio 0093 (Libellus f. 5r) — Libellus — Tractatus Primus (Libellus f. 5r)
+==========================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0093.g1.png
+
+   **g1 (diagram)**: Folio 0093 Diagram 1
+
+.. picture:: 0093.g2.png
+
+   **g2 (diagram)**: Folio 0093 Diagram 2
+
+.. picture:: 0093.c1.png
+
+   **c1 (initial)**: Folio 0093 Initial Cap 1
+
+.. picture:: 0093.c2.png
+
+   **c2 (initial)**: Folio 0093 Initial Cap 2
+
+.. picture:: 0093.c3.png
+
+   **c3 (initial)**: Folio 0093 Initial Cap 3
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Primus (Libellus f. 5r)**: Casi geometrici e algebrici (*Casus*) de' lati, cateti, diagonali e superficie dele base triangulari, quadrate e pentagonali.

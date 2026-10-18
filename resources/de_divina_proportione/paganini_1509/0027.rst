@@ -1,0 +1,52 @@
+:folio: 0027
+:page_num: 27
+:side: recto
+:original_folio: f. 6r
+:book: Part I: Compendio de Divina Proportione
+:chapters: compendio/cap_12 (Cap. XII), compendio/cap_13 (Cap. XIII), compendio/cap_14 (Cap. XIV), compendio/cap_15 (Cap. XV)
+:graphics: 0027.c1.png, 0027.c2.png, 0027.c3.png, 0027.c4.png
+
+Folio 0027 (f. 6r) — Cap. XII, Cap. XIII, Cap. XIV, Cap. XV (f. 6r) — Del terzo suo singulare effecto.
+======================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0027.c1.png
+
+   **c1 (initial)**: Folio 0027 Initial Cap 1
+
+.. picture:: 0027.c2.png
+
+   **c2 (initial)**: Folio 0027 Initial Cap 2
+
+.. picture:: 0027.c3.png
+
+   **c3 (initial)**: Folio 0027 Initial Cap 3
+
+.. picture:: 0027.c4.png
+
+   **c4 (initial)**: Folio 0027 Initial Cap 4
+
+Testo Italiano (Paganini 1509 / Winterberg 1889)
+------------------------------------------------
+
+Cap. XII: Del terzo suo singulare effecto.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Se vna quantità fia diuisa secondo la nostra proportione se ala menor sua parte se agionga la mita dela magiore sira poi el quadrato sempre del congionto quincuplo al quadrato dela mita de dieta màgiore. Verbi gratia. Sia 10. la quantità diuisa secondo la nostra diuina proportione che luna parte cioè la magiore sira R, i25. m. 5 eia menor i5. m. R. i25. Dico se sopra 1 5. m. R. i25. che e la menore sagionga la mita de R. 125 ni. 5. che e la magiore el congionto poi dela menore e de (lieta mita in se multiplieato sira 5 tanto del quadrato ') lies : seconda. dela mlta de dieta magìore e così apare. Pero che la mita de R. 125 m. 5. e R. 3 1 y^ m. 2^/2 gionta con i5. ra. R. i25 che e la menore fa 12V2 m. R. 3 1 y^. Onde multiplicando 1272 m. R. Biy^ via i2y2 m. R. 31 y^ fa i87y2 m. R. 1953174. E questo fìa dicto el quadrato del congiunto. Poi quadrise ancora la mita de dieta magiore cioè multiplica R. 317^ m. 2Y2 via R. 31V4 m. 72 farà SyYa m. R. 78 ly^. E questo fia detto el quadrato dela mita dela magiore quale aponto fia el '^/■^ del quadrato del congionto. E per consequente dicto quadrato del congionto e quincuplo al quadrato dela mita de dieta parte magiore de io. cosi diuiso. La qual forza molto con laltre fìa da stimare, coramo tutto geometrice si proua per la terza del 13. del nostro auctore.
+
+Cap. XIII: Del quarto suo ineffabile effecto.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Se vna quantità se diuide secondo la nostra diuina proportione se a tutta dieta quantità se agionga la sua magior parte sira poi dicto- congionto e dieta magior parte parti de vn altra quantità cosi diuisa. Eia magior parte de questa seconda quantità cosi diuisa sempre sira tutta la prima quantità. Verbi gratia. Sia la quantità secondo lunica nostra proportione diuisa io. che la magior sua parte sira R. i25m. 5, eia menore i5 m. R. i25. Onde se sopra io. prima quantità se ponga R. 125 m. 5. magior parte farà vna seconda cioè R, i25 più 5, E questa seconda quantità cioè R. ^25 più 5. dico esser similmente diuisa secondo la nostra proportione in le diete doi parti: cioè in R. i25 m. 5. magior dela prima e in io. qual fo la prima quantità e fìa la magior parte de questa seconda quantità, E questo apare cosi. Pero che el producto de 125 m. 5 (che era la magior parte dela prima e ora fia la menore de questa seconda) in tutta questa seconda, cioè in R. i25 più 5. fa quanto el quadrato dela media o vogliam dire magiore parte de questa seconda che e IO. che luno e laltro fanno aponto 100. eommo se richiede 1. 2Vj. 1. R. 125 m. 5. ala dieta proportione. La qual forza ancora ci manifesta georaetrice la quarta del terzodecimo.
+
+Cap. XIV: Del quinto suo mirabile effecto.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Se vna quantità sia diuisa secondo la nostra dieta proportione sempre el congionto del quadrato dela menor parte col quadrato de tutta la quantità integra sira triplo al quadrato dela magiore parte. Verbi grt.tia. Sia io. la quantità diuisa: commo habiam dicto che luna parte fia i5 m. R. i25. cioè la menore e laltra R. i25 ra. 5. cioè la magior. Dico chel quadrato de i5 m. R, 125. gionto con lo quadrato de io. tutta quantità e lor congionto sira triplo cioè tre tanto del quadrato dela magior parte cioè de R. i2 5. m. 5. Onde el quadrato de i5 m, R. i25. e 35o m. R. ii25oo. alo quadrato de io e loo. che gionto con 35o m. R. ii25oo fanno 45o m. R. ii25oo per dicto congionto. Elo quadrato de R. i25 m. 5. e i5o m. R. i25oo qual fia el Yg de dicto congionto commo apare. Pero che multiplicato 1 3o m. R. i2 5oo, per 3 farà aponto 45o m. R. ii25oo. Donca dicto congionto fia triplo al dicto quadrato si commo dicemmo. El quale effecto geometrice conclude la quinta del i3.
+
+Cap. XV: Del suo sexto innominabile effecto.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Niuna quantità rationale e possibile diuiderse secondo la nostra dieta proportione che sua cadauna parte non sia irrationaie chiamata residuo. Verbi gratia. Sia io. la quantità rationale qual se habia a diuidere dopo la proportione hauente el mezzo e dei extremi. Dico de necessita ciascuna dele parti douer essere residuo. Onde luna sira i5 m. R. i25. cioè la menore e laltra magior fia R. i25 m. 5. El perche apare cadauna essere residuo, che cosi se chiamano nellarte secondo la 79. del io. E ciuesto tale effecto habiamo dala sexta del i3.

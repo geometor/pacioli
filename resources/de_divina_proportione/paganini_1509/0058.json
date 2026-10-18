@@ -1,17 +1,52 @@
 {
   "folio": "0058",
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PARS",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 68,
+      "roman": "LXVIII",
+      "slug": "cap_68",
+      "title_it": "Commo se mesurino le pyramidi corte.",
+      "title_de": "Wie die abgekürzten Pyramiden ausgemessen werden.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/068_cap_LXVIII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/068_cap_LXVIII.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 69,
+      "roman": "LXIX",
+      "slug": "cap_69",
+      "title_it": "Dela mesura de tutti li altri corpi regulari e dependenti.",
+      "title_de": "Von der Messung aller andern regelmässigen und davon ab- hängigen Körper.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/069_cap_LXIX.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/069_cap_LXIX.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
-      "id": "g1",
-      "file": "0058.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0058.c1.png",
       "bbox": [
-        406,
-        171,
-        53,
-        148
+        412,
+        178,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0058 Figure 1"
+      "caption": "Folio 0058 Initial Cap 1"
     }
-  ]
+  ],
+  "page_num": 58,
+  "original_folio": "f. 21v",
+  "section_id": "compendio",
+  "title": "Cap. LXVIII, Cap. LXIX (f. 21v) — Commo se mesurino le pyramidi corte."
 }

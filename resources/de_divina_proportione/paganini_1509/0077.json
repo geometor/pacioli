@@ -1,29 +1,40 @@
 {
   "folio": "0077",
+  "side": "recto",
+  "section": "Part II: Tractato de l'Architectura",
+  "header": ", -PRIMA:",
   "graphics": [
     {
-      "id": "g1",
-      "file": "0077.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0077.c1.png",
       "bbox": [
-        578,
-        106,
-        34,
-        168
+        36,
+        131,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0077 Figure 1"
-    },
+      "caption": "Folio 0077 Initial Cap 1"
+    }
+  ],
+  "page_num": 77,
+  "original_folio": "f. 31r",
+  "section_id": "architectura",
+  "title": "Cap. XII (f. 31r) — De lordini dele colonne rotonde comme se debino nelli h",
+  "chapters": [
     {
-      "id": "g2",
-      "file": "0077.g2.png",
-      "bbox": [
-        578,
-        371,
-        28,
-        66
-      ],
-      "white_point": 226,
-      "caption": "Folio 0077 Figure 2"
+      "book": 2,
+      "part": "architectura",
+      "chapter": 12,
+      "roman": "XII",
+      "slug": "cap_12",
+      "title_it": "De lordini dele colonne rotonde comme se debino nelli hedi- fitii fermare con lor basi.",
+      "title_de": "Von der Anordnung der runden Säulen, wie sie bei den Ge- bäuden mit ihrer Basis festgestellt werden müssen.",
+      "winterberg_it": "winterberg/02_architectura_italian/012_cap_XII.txt",
+      "winterberg_de": "winterberg/04_architectura_german/012_cap_XII.txt",
+      "starts_on_folio": true
     }
   ]
 }

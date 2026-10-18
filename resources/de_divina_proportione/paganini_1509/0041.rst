@@ -1,0 +1,57 @@
+:folio: 0041
+:page_num: 41
+:side: recto
+:original_folio: f. 13r
+:book: Part I: Compendio de Divina Proportione
+:chapters: compendio/cap_33 (Cap. XXXIII), compendio/cap_34 (Cap. XXXIV), compendio/cap_35 (Cap. XXXV), compendio/cap_36 (Cap. XXXVI), compendio/cap_37 (Cap. XXXVII)
+:graphics: 0041.c1.png, 0041.c2.png, 0041.c3.png, 0041.c4.png
+
+Folio 0041 (f. 13r) — Cap. XXXIII, Cap. XXXIV, Cap. XXXV, Cap. XXXVI, Cap. XXXVII (f. 13r) — Dela proportione de tutte loro superficie lune alaltre.
+====================================================================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0041.c1.png
+
+   **c1 (initial)**: Folio 0041 Initial Cap 1
+
+.. picture:: 0041.c2.png
+
+   **c2 (initial)**: Folio 0041 Initial Cap 2
+
+.. picture:: 0041.c3.png
+
+   **c3 (initial)**: Folio 0041 Initial Cap 3
+
+.. picture:: 0041.c4.png
+
+   **c4 (initial)**: Folio 0041 Initial Cap 4
+
+Testo Italiano (Paganini 1509 / Winterberg 1889)
+------------------------------------------------
+
+Cap. XXXIII: Dela proportione de tutte loro superficie lune alaltre. (continuatio)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+E tutte quelle del tetracedron gionte con quelle deloctocedron compongano vna superficie detta mediale commo vole la i3. del dicto 14. E tutte le superficie delo exacedron cioè cubo se agualiano al duplo del quadrato del diametro dela spera che lo circumscriue e la perpendiculare che dal centro dela spera a ciascuna dele basi del dicto cubo se tira sempre fia equale ala mita dellalto de dicto cubo per lultima del 14. cioè se dicto diametro fosse 4 tutte diete superficie serebono 32 ese dieta perpendiculare fosse i ellato del cubo seria 2. Dele quali proportioni e superficie per hauerne apieno in lopera nostra tractato aquesto sieno suplemento con quelle dele dependenti in tutti modi con diligentia operando per algebra.
+
+Cap. XXXIV: Dele inclusioni dele 5 regulari vno in laltro elaltro in luno equante sienno in tutto eperche.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sequita ora chiarire commo luno de questi 5 corpi essentiali cioè regulari luno fia contenuto dalaltro equali si e quali non eperche. Onde prima d eltetracedron parlando se mostra lui non potere per alcun modo in se receuere altro che loctocedron cioè corpo de 8 basi triangule ede 6 anguli solide. Peroche in lui non sonno ne lati ne basi a anguli nelli quali se possino li lati del cubo ne de suoi anguli ne superficie apogiare in modo che tochino equalmente secondo che richiede la loro vera inscriptione commo la sua forma materiale alochio ci demostra e per scientia vera nella i. del i5. fia manifesto. Ne anco de niuno de li altri doi cioè ycocedron o duodecedron. Quando adonca voremmo el dicto octacedron in dicto 4 basi a vero tetracedron iscriuere onero formare in questo muodo lo faremo cioè. Prima fabricaremo dicto tetracedron commo de sopra habiamo insegnato. El quale cosi facto poi diuideremo cadauno suo lato per equali eli lor ponti medii tutti continuaremo con linee recte luno con laltro elaltro conluno. La qual cosa facta che sia senza dubio dicto corpo in quello aponto haremo situato in modo che li suoi 6 anguli solidi in suli 6 lati del dicto tetracedron siranno appogiati equalmentc. La qual cosa la experientia materiale renderà aperta e la 2. del i5. manifesta.
+
+Cap. XXXV: Commo dicto tetracedron se formi e collochi nel cubo.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il detto tetracedron nel cubo se collocara in questo modo cioè. Prima faremo el cubo secondo li modi sopra dati poscia in cadauna dele sue 6 superficie quadrate tiraremo la dyagonale o vero diametro e sira el proposito concluso commo la prima del i5. demostra peroche dicto tetracedron commo fo detto ha 6. lati correspondenti al numero dele 6 superficie del cubo e quelle vengano a essere le sue 6 dyagonali in sue superficie protraete. Eli 4 anguli de la pyramide siuengàno afermare in 4 deli 8 del dicto cubo. El che ancora la maestra de tutte le cose sancta experientia in lor materiali chiaro el rende.
+
+Cap. XXXVI: Dela inclusione deloctocedron nel cubo.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Euolendo locto basi cioè octocedron nelo exacedron formare. Prima bisogna nel cubo hauere la pyramide triangula equilatera fabricata li cui lati commo fo detto sonno li 6 diametri dele sue basi. Epero se cadauno de dicti diametri per equali diuideremo equeUi ponti medii con linee recte luno con laltro congiongneremo senza dubio nel proposto cubo fia aponto lo octocedron formato e ogni suo angulo solido aponto si fermerà nele basi de dicto cubo per la 3. del i5.
+
+Cap. XXXVII: La fabrica de lo exacedron nel octocedron.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Lo exacedron o ver cubo nelloctocedron si farà in questo modo cioè. Prima faremo dicto octocedron secondo li documenti dati disopra in questo. El qual cosi formato da ognuna dele sue basi triangulari per la 5. del 4. troua el centro. Li quali 8 centri poi congiongeremo vno colaltro medianti 12 linee recte. E hauermo lo intento concluso. E cadauno deli anguli solidi del cubo virra afermarse in su la basa del dicto octocedron comò la 4. del i5. dichiara.

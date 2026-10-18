@@ -1,0 +1,23 @@
+:folio: 0191
+:page_num: 191
+:side: recto
+:original_folio: Plate Folio 0191 (recto)
+:book: Appendix II: Polyhedra Plates by Leonardo da Vinci
+:chapters: None
+:graphics: 0191.g1.png
+
+Folio 0191 (Plate Folio 0191 (recto)) — Plate III — Tetrahedron Abscisum Solidum (Solid Truncated Tetrahedron)
+==============================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0191.g1.png
+
+   **g1 (plate)**: Plate III: Tetrahedron Abscisum Solidum (Τετράεδρον ἀποτετμημένον στερεόν) — Solid Truncated Tetrahedron
+
+Tabula III (No. 3)
+------------------
+
+- **Titulus Latinus**: *Tetrahedron Abscisum Solidum*
+- **Titulus Graecus**: Τετράεδρον ἀποτετμημένον στερεόν

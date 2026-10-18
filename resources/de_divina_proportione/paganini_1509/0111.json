@@ -1,41 +1,68 @@
 {
   "folio": "0111",
+  "side": "recto",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "SECVNDVS",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0111.g1.png",
       "bbox": [
-        578,
-        163,
-        376,
-        291
+        638,
+        132,
+        331,
+        314
       ],
       "white_point": 226,
-      "caption": "Folio 0111 Figure 1"
+      "caption": "Folio 0111 Diagram 1",
+      "margin": "right"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0111.g2.png",
       "bbox": [
-        654,
-        532,
-        308,
-        305
+        652,
+        530,
+        312,
+        309
       ],
       "white_point": 226,
-      "caption": "Folio 0111 Figure 2"
+      "caption": "Folio 0111 Diagram 2",
+      "margin": "right"
     },
     {
       "id": "g3",
+      "type": "diagram",
       "file": "0111.g3.png",
       "bbox": [
-        665,
-        903,
-        305,
-        317
+        639,
+        876,
+        345,
+        364
       ],
       "white_point": 226,
-      "caption": "Folio 0111 Figure 3"
+      "caption": "Folio 0111 Diagram 3",
+      "margin": "right"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0111.c1.png",
+      "bbox": [
+        40,
+        872,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0111 Initial Cap 1"
     }
-  ]
+  ],
+  "page_num": 111,
+  "original_folio": "Libellus f. 14r",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Secundus (Libellus f. 14r)"
 }

@@ -1,0 +1,30 @@
+:folio: 0016
+:page_num: 16
+:side: verso
+:original_folio: A6v
+:book: Front Matter and Dedications
+:chapters: None
+:graphics: 0016.g1.png, 0016.g2.png, 0016.g3.png
+
+Folio 0016 (A6v) — Tabula — Table of Contents (A6v)
+===================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0016.g1.png
+
+   **g1 (marginalia)**: Folio 0016 Marginalia 1
+
+.. picture:: 0016.g2.png
+
+   **g2 (diagram)**: Folio 0016 Diagram 2
+
+.. picture:: 0016.g3.png
+
+   **g3 (diagram)**: Folio 0016 Diagram 3
+
+Testo Originale (Paganini 1509)
+-------------------------------
+
+(Lectore et cetera).

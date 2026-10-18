@@ -11,7 +11,19 @@
         1301
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 8 (Folio 0201): fffi-i'm<f'ov k\u00abov VTH"
+      "caption": "Plate VIII: Exahedron Planum Vacuum (Ἑξάεδρον ἐπίπεδον κενόν) — Hollow Regular Hexahedron (Cube)",
+      "type": "plate",
+      "plate_number": 8,
+      "plate_roman": "VIII",
+      "title_la": "Exahedron Planum Vacuum",
+      "title_gr": "Ἑξάεδρον ἐπίπεδον κενόν",
+      "title_en": "Hollow Regular Hexahedron (Cube)"
     }
-  ]
+  ],
+  "page_num": 201,
+  "side": "recto",
+  "original_folio": "Plate Folio 0201 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate VIII — Exahedron Planum Vacuum (Hollow Regular Hexahedron (Cube))"
 }

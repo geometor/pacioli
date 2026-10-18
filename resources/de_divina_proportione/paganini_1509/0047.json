@@ -1,17 +1,52 @@
 {
   "folio": "0047",
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PRIMA;",
   "graphics": [
     {
-      "id": "g1",
-      "file": "0047.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0047.c1.png",
       "bbox": [
-        578,
-        65,
-        350,
-        162
+        41,
+        295,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0047 Figure 1"
+      "caption": "Folio 0047 Initial Cap 1"
+    }
+  ],
+  "page_num": 47,
+  "original_folio": "f. 16r",
+  "section_id": "compendio",
+  "title": "Cap. LIII, Cap. LIV (f. 16r) — Del corpo de 26 basi e suo origine piano solido ouer va",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 53,
+      "roman": "LIII",
+      "slug": "cap_53",
+      "title_it": "Del corpo de 26 basi e suo origine piano solido ouer vacuo edelo eleuato solido o ver vacuo.",
+      "title_de": "Vom ebenen vollen oder hohlen und dem erhabenen vollen oder hohlen 26flächigen Körper und seinem Ursprung).",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/053_cap_LIII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/053_cap_LIII.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 54,
+      "roman": "LIV",
+      "slug": "cap_54",
+      "title_it": "Dal corpo de 72 basi piano solido euacuo.",
+      "title_de": "Vom ebenen, vollen oder hohlen Zweiundsiebzigflächner.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/054_cap_LIV.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/054_cap_LIV.txt",
+      "starts_on_folio": true
     }
   ]
 }

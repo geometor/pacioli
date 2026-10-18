@@ -11,7 +11,14 @@
         1608
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 63 (Folio 0311): portionibuf totali \u00ecer dij\u00e8rere \u00bb Nam"
+      "caption": "Arbor Proportio et Proportionalitas",
+      "type": "plate"
     }
-  ]
+  ],
+  "page_num": 311,
+  "side": "recto",
+  "original_folio": "End Matter 0311 (recto)",
+  "section_id": "end_matter",
+  "section": "End Matter and Colophon",
+  "title": "Arbor Proportio et Proportionalitas"
 }

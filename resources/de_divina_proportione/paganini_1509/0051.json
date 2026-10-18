@@ -1,53 +1,52 @@
 {
   "folio": "0051",
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PRIMA",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 57,
+      "roman": "LVII",
+      "slug": "cap_57",
+      "title_it": "Commo in la spera se collochino tutti li 5 corpi regulari.",
+      "title_de": "Wie sich in die Kugel alle fünf regelmässigen Körper stellen lassen.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/057_cap_LVII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/057_cap_LVII.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 58,
+      "roman": "LVIII",
+      "slug": "cap_58",
+      "title_it": "De li corpi oblunghi cioè più longhi ouer alti che larghi.",
+      "title_de": "Von den oblongen Körpern, d. h. den mehr langen oder hohen als breiten.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/058_cap_LVIII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/058_cap_LVIII.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
-      "id": "g1",
-      "file": "0051.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0051.c1.png",
       "bbox": [
-        578,
-        141,
-        40,
-        127
+        37,
+        937,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0051 Figure 1"
-    },
-    {
-      "id": "g2",
-      "file": "0051.g2.png",
-      "bbox": [
-        578,
-        329,
-        40,
-        90
-      ],
-      "white_point": 226,
-      "caption": "Folio 0051 Figure 2"
-    },
-    {
-      "id": "g3",
-      "file": "0051.g3.png",
-      "bbox": [
-        578,
-        507,
-        35,
-        87
-      ],
-      "white_point": 226,
-      "caption": "Folio 0051 Figure 3"
-    },
-    {
-      "id": "g4",
-      "file": "0051.g4.png",
-      "bbox": [
-        578,
-        723,
-        34,
-        293
-      ],
-      "white_point": 226,
-      "caption": "Folio 0051 Figure 4"
+      "caption": "Folio 0051 Initial Cap 1"
     }
-  ]
+  ],
+  "page_num": 51,
+  "original_folio": "f. 18r",
+  "section_id": "compendio",
+  "title": "Cap. LVII, Cap. LVIII (f. 18r) — Commo in la spera se collochino tutti li 5 corpi regula"
 }

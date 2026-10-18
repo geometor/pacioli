@@ -1,0 +1,52 @@
+{
+  "folio": "0081",
+  "side": "recto",
+  "section": "Part II: Tractato de l'Architectura",
+  "header": "PRIMA- 3",
+  "chapters": [
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 19,
+      "roman": "XIX",
+      "slug": "cap_19",
+      "title_it": "Comme nelli luoghi angusti lo architetto se habia aregere in sua dispositione.",
+      "title_de": "Wie sich der Architekt an engen Orten bei seiner Anordnung zu verhalten habe.",
+      "winterberg_it": "winterberg/02_architectura_italian/019_cap_XIX.txt",
+      "winterberg_de": "winterberg/04_architectura_german/019_cap_XIX.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 20,
+      "roman": "XX",
+      "slug": "cap_20",
+      "title_it": "Dele colonne situate sopra altre coione nelli hedifitii.",
+      "title_de": "Von den über andern Säulen befindlichen Säulen an den Ge- bäuden.",
+      "winterberg_it": "winterberg/02_architectura_italian/020_cap_XX.txt",
+      "winterberg_de": "winterberg/04_architectura_german/020_cap_XX.txt",
+      "starts_on_folio": true
+    }
+  ],
+  "graphics": [
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0081.c1.png",
+      "bbox": [
+        27,
+        540,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0081 Initial Cap 1"
+    }
+  ],
+  "page_num": 81,
+  "original_folio": "f. 33r",
+  "section_id": "architectura",
+  "title": "Cap. XIX, Cap. XX (f. 33r) — Comme nelli luoghi angusti lo architetto se habia arege"
+}

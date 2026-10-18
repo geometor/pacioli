@@ -11,7 +11,19 @@
         1515
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 57 (Folio 0299): LUI! KI&39 ITA\u00c9Vg&xN? \u00a3;\u00abyO)V0(; K.6P0;"
+      "caption": "Plate LIIII: Columna Laterata Exagona Vacua (Κίων πλευρώδης ἑξάγωνος κενός) — Hollow Hexagonal Prism",
+      "type": "plate",
+      "plate_number": 54,
+      "plate_roman": "LIIII",
+      "title_la": "Columna Laterata Exagona Vacua",
+      "title_gr": "Κίων πλευρώδης ἑξάγωνος κενός",
+      "title_en": "Hollow Hexagonal Prism"
     }
-  ]
+  ],
+  "page_num": 299,
+  "side": "recto",
+  "original_folio": "Plate Folio 0299 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate LIIII — Columna Laterata Exagona Vacua (Hollow Hexagonal Prism)"
 }

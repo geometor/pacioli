@@ -1,17 +1,66 @@
 {
   "folio": "0061",
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "quanto figliuolo mìoimmeritameute peculiare efìngualrepatron",
   "graphics": [
     {
-      "id": "g1",
-      "file": "0061.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0061.c1.png",
       "bbox": [
-        38,
-        27,
-        368,
-        1210
+        47,
+        384,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0061 Figure 1"
+      "caption": "Folio 0061 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0061.c2.png",
+      "bbox": [
+        42,
+        1094,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0061 Initial Cap 2"
+    }
+  ],
+  "page_num": 61,
+  "original_folio": "f. 23r",
+  "section_id": "compendio",
+  "title": "Cap. LXXI, Prohemio (Architectura) (f. 23r) — De quello se intenda per questi vocabuli fra le mathema",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 71,
+      "roman": "LXXI",
+      "slug": "cap_71",
+      "title_it": "De quello se intenda per questi vocabuli fra le mathematici vsitati cioè ypothesi ypothumissa corausto cono pyramidale corda pentagonica perpendiculare catheto dyametro paralelo- grammo dyagonale centro saetta.",
+      "title_de": "Ueber das was unter diesen in der Mathematik gebräuchlichen Ausdrücken verstanden wird, nämlich Hypothese, Hypothumisse, Carausto, Pyramiden-Konus, Pentagon- Sehne, Senkrechte, Kathete, Durchmesser, Parallelogramm, Diagonale, Centrum, Pfeil.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/071_cap_LXXI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/071_cap_LXXI.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 0,
+      "roman": "Prohemio",
+      "slug": "dedication",
+      "title_it": "Ali suoi carissimi discipuli e alieui Cesaro dal saxo. Cera del cera. Rainer Francesco de pippo. Bernardino e Marsilio da monte e Hieronymo del jecciarino e compagni de Borgo San Sepulchro degni lapicidi de scultura, e architectonica faculta solertissimi sectatori. Frate Luca paciuolo suo conteraneo ordinis Minorum et sacrae theologie professor. Si Placet Deo.",
+      "title_de": "Seinen theuersten Schülern und Zöglingen Cäsar dal Saxo, Gera del cera, Rainer Francesco de pippo, Bernardio und Mar- silio da monte und Hieronvmo de Jecciarino und Genossen von Borgo S. Sepulchro, würdigen Steinmetzen und emsigsten Ver- folgern des Sculptur- und architektonischen Faches, Fra Luca Paciuolo ihr Landsmann vom Orden der Minoriten und Pro- fessor der heiligen Theologie. So Gott will.",
+      "winterberg_it": "winterberg/02_architectura_italian/001_dedication.txt",
+      "winterberg_de": "winterberg/04_architectura_german/001_dedication.txt",
+      "starts_on_folio": true
     }
   ]
 }

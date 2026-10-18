@@ -1,41 +1,40 @@
 {
   "folio": "0134",
+  "side": "verso",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "TPACTATVS",
   "graphics": [
     {
-      "id": "g1",
-      "file": "0134.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0134.c1.png",
       "bbox": [
-        432,
-        468,
-        27,
-        151
+        433,
+        477,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0134 Figure 1"
+      "caption": "Folio 0134 Initial Cap 1"
     },
     {
-      "id": "g2",
-      "file": "0134.g2.png",
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0134.c2.png",
       "bbox": [
-        426,
-        836,
-        33,
-        148
+        430,
+        845,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0134 Figure 2"
-    },
-    {
-      "id": "g3",
-      "file": "0134.g3.png",
-      "bbox": [
-        426,
-        1246,
-        33,
-        63
-      ],
-      "white_point": 226,
-      "caption": "Folio 0134 Figure 3"
+      "caption": "Folio 0134 Initial Cap 2"
     }
-  ]
+  ],
+  "page_num": 134,
+  "original_folio": "Libellus f. 25v",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Tertius (Libellus f. 25v)"
 }

@@ -1,65 +1,68 @@
 {
   "folio": "0126",
+  "side": "verso",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "TRACTATVS",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0126.g1.png",
       "bbox": [
-        398,
-        88,
-        61,
-        44
+        45,
+        196,
+        311,
+        362
       ],
       "white_point": 226,
-      "caption": "Folio 0126 Figure 1"
+      "caption": "Folio 0126 Diagram 1",
+      "margin": "left"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0126.g2.png",
       "bbox": [
-        47,
-        222,
-        412,
-        386
+        42,
+        853,
+        314,
+        420
       ],
       "white_point": 226,
-      "caption": "Folio 0126 Figure 2"
+      "caption": "Folio 0126 Diagram 2",
+      "margin": "left"
     },
     {
-      "id": "g3",
-      "file": "0126.g3.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0126.c1.png",
       "bbox": [
-        397,
-        654,
-        60,
-        41
+        404,
+        467,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0126 Figure 3"
+      "caption": "Folio 0126 Initial Cap 1"
     },
     {
-      "id": "g4",
-      "file": "0126.g4.png",
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0126.c2.png",
       "bbox": [
-        399,
-        713,
-        60,
-        42
+        409,
+        1091,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0126 Figure 4"
-    },
-    {
-      "id": "g5",
-      "file": "0126.g5.png",
-      "bbox": [
-        44,
-        779,
-        415,
-        492
-      ],
-      "white_point": 226,
-      "caption": "Folio 0126 Figure 5"
+      "caption": "Folio 0126 Initial Cap 2"
     }
-  ]
+  ],
+  "page_num": 126,
+  "original_folio": "Libellus f. 21v",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Tertius (Libellus f. 21v)"
 }

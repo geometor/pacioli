@@ -1,17 +1,52 @@
 {
   "folio": "0021",
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PRIMA",
   "graphics": [
     {
-      "id": "g1",
-      "file": "0021.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0021.c1.png",
       "bbox": [
-        578,
-        70,
-        121,
-        1265
+        74,
+        588,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0021 Figure 1"
+      "caption": "Folio 0021 Initial Cap 1"
+    }
+  ],
+  "page_num": 21,
+  "original_folio": "f. 3r",
+  "section_id": "compendio",
+  "title": "Cap. II, Cap. III (f. 3r) — Reuerendi Patris Magistri Luce pacioli de Burgo San Sep",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 2,
+      "roman": "II",
+      "slug": "cap_02",
+      "title_it": "Reuerendi Patris Magistri Luce pacioli de Burgo San Sepulchro Ordinis Minorum. Et sacre theologie professoris in compendium de diuina proportione ex mathematicis disciplinis prefatio.",
+      "title_de": "Vorrede des Ehrwürdigen Pater Magister Luca Pacioli aus Borgo San Sepolchro vom Orden der Minoriten, und Professor der heihgen Theologie zum Compendium über die göttliche Proportion aus den mathematischen Wissenschaften.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/002_cap_II.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/002_cap_II.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 3,
+      "roman": "III",
+      "slug": "cap_03",
+      "title_it": "Finito el proheraio seguita chiarire quello che per questo nome Mathematico sabia intendere.",
+      "title_de": "Nachdem die Vorrede beendet, wird zunächst erklärt, was man unter diesem Worte „Mathematik\" zu verstehen habe.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/003_cap_III.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/003_cap_III.txt",
+      "starts_on_folio": true
     }
   ]
 }

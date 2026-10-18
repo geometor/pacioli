@@ -1,17 +1,52 @@
 {
   "folio": "0050",
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PARS",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 56,
+      "roman": "LVI",
+      "slug": "cap_56",
+      "title_it": "Del corpo sperico la sua formatione.",
+      "title_de": "Vom sphärischen Körper und seiner Bildung.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/056_cap_LVI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/056_cap_LVI.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 57,
+      "roman": "LVII",
+      "slug": "cap_57",
+      "title_it": "Commo in la spera se collochino tutti li 5 corpi regulari.",
+      "title_de": "Wie sich in die Kugel alle fünf regelmässigen Körper stellen lassen.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/057_cap_LVII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/057_cap_LVII.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
-      "id": "g1",
-      "file": "0050.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0050.c1.png",
       "bbox": [
-        416,
-        236,
-        43,
-        143
+        420,
+        242,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0050 Figure 1"
+      "caption": "Folio 0050 Initial Cap 1"
     }
-  ]
+  ],
+  "page_num": 50,
+  "original_folio": "f. 17v",
+  "section_id": "compendio",
+  "title": "Cap. LVI, Cap. LVII (f. 17v) — Del corpo sperico la sua formatione."
 }

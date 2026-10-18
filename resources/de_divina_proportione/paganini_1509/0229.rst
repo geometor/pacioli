@@ -1,0 +1,23 @@
+:folio: 0229
+:page_num: 229
+:side: recto
+:original_folio: Plate Folio 0229 (recto)
+:book: Appendix II: Polyhedra Plates by Leonardo da Vinci
+:chapters: None
+:graphics: 0229.g1.png
+
+Folio 0229 (Plate Folio 0229 (recto)) — Plate XX — Octahedron Elevatum Vacuum (Hollow Elevated Octahedron (Stella Octangula))
+=============================================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0229.g1.png
+
+   **g1 (plate)**: Plate XX: Octahedron Elevatum Vacuum (Ὀκτάεδρον ἐπηρμένον κενόν) — Hollow Elevated Octahedron (Stella Octangula)
+
+Tabula XX (No. 20)
+------------------
+
+- **Titulus Latinus**: *Octahedron Elevatum Vacuum*
+- **Titulus Graecus**: Ὀκτάεδρον ἐπηρμένον κενόν

@@ -11,7 +11,19 @@
         1321
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 5 (Folio 0195): Ttr$\u00abi\u00a3-%iv vm^mv artici Tecr^dron Ekuarum Soliduw"
+      "caption": "Plate V: Tetrahedron Elevatum Solidum (Τετράεδρον ἐπηρμένον στερεόν) — Solid Stellated (Elevated) Tetrahedron",
+      "type": "plate",
+      "plate_number": 5,
+      "plate_roman": "V",
+      "title_la": "Tetrahedron Elevatum Solidum",
+      "title_gr": "Τετράεδρον ἐπηρμένον στερεόν",
+      "title_en": "Solid Stellated (Elevated) Tetrahedron"
     }
-  ]
+  ],
+  "page_num": 195,
+  "side": "recto",
+  "original_folio": "Plate Folio 0195 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate V — Tetrahedron Elevatum Solidum (Solid Stellated (Elevated) Tetrahedron)"
 }

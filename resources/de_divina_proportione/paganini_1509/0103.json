@@ -1,17 +1,124 @@
 {
   "folio": "0103",
+  "side": "recto",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "SEGVNDVS",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0103.g1.png",
       "bbox": [
-        578,
-        36,
-        407,
-        1216
+        686,
+        34,
+        301,
+        299
       ],
       "white_point": 226,
-      "caption": "Folio 0103 Figure 1"
+      "caption": "Folio 0103 Diagram 1",
+      "margin": "right"
+    },
+    {
+      "id": "g2",
+      "type": "diagram",
+      "file": "0103.g2.png",
+      "bbox": [
+        676,
+        329,
+        299,
+        317
+      ],
+      "white_point": 226,
+      "caption": "Folio 0103 Diagram 2",
+      "margin": "right"
+    },
+    {
+      "id": "g3",
+      "type": "diagram",
+      "file": "0103.g3.png",
+      "bbox": [
+        677,
+        640,
+        301,
+        315
+      ],
+      "white_point": 226,
+      "caption": "Folio 0103 Diagram 3",
+      "margin": "right"
+    },
+    {
+      "id": "g4",
+      "type": "diagram",
+      "file": "0103.g4.png",
+      "bbox": [
+        670,
+        937,
+        299,
+        317
+      ],
+      "white_point": 226,
+      "caption": "Folio 0103 Diagram 4",
+      "margin": "right"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0103.c1.png",
+      "bbox": [
+        59,
+        77,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0103 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0103.c2.png",
+      "bbox": [
+        59,
+        354,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0103 Initial Cap 2"
+    },
+    {
+      "id": "c3",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0103.c3.png",
+      "bbox": [
+        58,
+        949,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0103 Initial Cap 3"
+    },
+    {
+      "id": "c4",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0103.c4.png",
+      "bbox": [
+        55,
+        1157,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0103 Initial Cap 4"
     }
-  ]
+  ],
+  "page_num": 103,
+  "original_folio": "Libellus f. 10r",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Secundus (Libellus f. 10r)"
 }

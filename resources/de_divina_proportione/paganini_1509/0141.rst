@@ -1,0 +1,22 @@
+:folio: 0141
+:page_num: 141
+:side: recto
+:original_folio: Plate Folio 0141 (recto)
+:book: Appendix I: The Roman Geometric Alphabet
+:chapters: None
+:graphics: 0141.g1.png
+
+Folio 0141 (Plate Folio 0141 (recto)) — Roman Geometric Alphabet — Lettera B
+============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0141.g1.png
+
+   **g1 (plate)**: Roman Geometric Alphabet — Lettera B
+
+Testo Originale (Paganini 1509)
+-------------------------------
+
+Questa letera B si compone de doi tondi e quello desotto sie lo più grando de li nove parti luna cioè vol esser li cinque noni de la sua alteza per diametro. E quella desopra vol esser li quatro noni medesimamente per diametro comme qui desopra proportionatamente negliochi te sapresenta.

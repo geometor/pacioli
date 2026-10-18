@@ -1,53 +1,138 @@
 {
   "folio": "0090",
+  "side": "verso",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "TRACTATVS",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0090.g1.png",
       "bbox": [
-        84,
-        51,
-        375,
-        265
+        82,
+        49,
+        269,
+        268
       ],
       "white_point": 226,
-      "caption": "Folio 0090 Figure 1"
+      "caption": "Folio 0090 Diagram 1",
+      "margin": "left"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0090.g2.png",
       "bbox": [
-        77,
-        360,
-        382,
-        264
+        57,
+        333,
+        315,
+        328
       ],
       "white_point": 226,
-      "caption": "Folio 0090 Figure 2"
+      "caption": "Folio 0090 Diagram 2",
+      "margin": "left"
     },
     {
       "id": "g3",
+      "type": "diagram",
       "file": "0090.g3.png",
       "bbox": [
-        73,
-        660,
-        386,
-        263
+        71,
+        658,
+        279,
+        291
       ],
       "white_point": 226,
-      "caption": "Folio 0090 Figure 3"
+      "caption": "Folio 0090 Diagram 3",
+      "margin": "left"
     },
     {
       "id": "g4",
+      "type": "diagram",
       "file": "0090.g4.png",
       "bbox": [
-        73,
-        949,
-        386,
-        361
+        58,
+        950,
+        302,
+        318
       ],
       "white_point": 226,
-      "caption": "Folio 0090 Figure 4"
+      "caption": "Folio 0090 Diagram 4",
+      "margin": "left"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0090.c1.png",
+      "bbox": [
+        399,
+        145,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0090 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0090.c2.png",
+      "bbox": [
+        397,
+        458,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0090 Initial Cap 2"
+    },
+    {
+      "id": "c3",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0090.c3.png",
+      "bbox": [
+        393,
+        682,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0090 Initial Cap 3"
+    },
+    {
+      "id": "c4",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0090.c4.png",
+      "bbox": [
+        390,
+        957,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0090 Initial Cap 4"
+    },
+    {
+      "id": "c5",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0090.c5.png",
+      "bbox": [
+        392,
+        1169,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0090 Initial Cap 5"
     }
-  ]
+  ],
+  "page_num": 90,
+  "original_folio": "Libellus f. 3v",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Primus (Libellus f. 3v)"
 }

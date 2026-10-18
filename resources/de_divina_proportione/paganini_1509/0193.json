@@ -11,7 +11,19 @@
         991
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 4 (Folio 0193): T\u20acT\u00a3a\u00a3<f\"\u00a7Of \u00ab\u2022aroTETjUNjuEfov k W un"
+      "caption": "Plate IIII: Tetrahedron Abscisum Vacuum (Τετράεδρον ἀποτετμημένον κενόν) — Hollow Truncated Tetrahedron",
+      "type": "plate",
+      "plate_number": 4,
+      "plate_roman": "IIII",
+      "title_la": "Tetrahedron Abscisum Vacuum",
+      "title_gr": "Τετράεδρον ἀποτετμημένον κενόν",
+      "title_en": "Hollow Truncated Tetrahedron"
     }
-  ]
+  ],
+  "page_num": 193,
+  "side": "recto",
+  "original_folio": "Plate Folio 0193 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate IIII — Tetrahedron Abscisum Vacuum (Hollow Truncated Tetrahedron)"
 }

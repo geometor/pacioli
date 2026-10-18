@@ -1,0 +1,129 @@
+:folio: 0009
+:page_num: 9
+:side: recto
+:original_folio: A3r
+:book: Front Matter and Dedications
+:chapters: None
+:graphics: 0009.g1.png, 0009.g2.png
+
+Folio 0009 (A3r) — Nomina et Numerus Corporum (A3r)
+===================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0009.g1.png
+
+   **g1 (diagram)**: Folio 0009 Diagram 1
+
+.. picture:: 0009.g2.png
+
+   **g2 (diagram)**: Folio 0009 Diagram 2
+
+Testo Originale (Paganini 1509)
+-------------------------------
+
+Nomina et numerus corporum.
+
+Tetrahedron.
+
+1. Planum solidum
+
+2. Planum vacuum
+
+3. Abscisum solidum
+
+4. Abscisum vacuum
+
+5. Eleuatum solidum
+
+6. Eleuatum vacuum
+
+TsxQasdov.
+
+sniTtadov GtsQSov
+sjtLTCsdov xsvov
+anoTBtinqiiEvov ötsqsov
+anoTsx^riliEvov ksvov
+
+STtìJQ^EVOV GtSQSOV
+S7lì]Q^SV0V %EVOV.
+
+Exahedron siue Cubus.
+
+7. Planum solidum
+
+8. Planum vacuum
+
+9. Abscisum solidum
+
+10. Abscisum vacuum
+
+1 1 . Eleuatum solidum
+
+1 2. Eleuatum vacuum
+
+13. Abscisum eleuatum solidum
+
+14. Abscisum eleuatum vacuum
+
+E^ccEÒQov ì] >cvßog.
+
+ETimsdoV ÖXEQSOV
+67tL7tsd0V TiEVOV
+
+cc7torsz{irì(iEvov gxeqeov
+anotEtfiri^Evov kevov
+
+ETlrjQ^EVOV 6TEQE0V
+ETtriQ^EVOV %EVOV
+
+anotEX^iq^Evov aniqQ^Evov gxe-
+qeov
+anoxEXfirj^Evov STtrjQiiEvov zevov.
+
+Octahedron.
+
+o. Planum solidum
+
+16. Planum vacuum
+
+17. Abscisum solidum
+
+18. Abscisum vacuum
+ig. Eleuatum solidum
+20. Eleuatum vacuum
+
+OTiXaEÖQOV.
+
+ETtiTlEÒOV 6XEQE0V
+STtlTtsdoV 7CEV0V
+
+anoTEXiiij^Evov Gxeqeov
+anoxEx^imiEvov kevov
+
+ETlYjQ^EVOV GXEQEOV
+ETlìJQ^EVOV %EVOV.
+
+Icosahedron.
+
+21. Planum solidum
+
+22. Planum vacuum
+
+23. Abscisum solidum
+
+24. Abscisum vacuum
+2 5. Eleuatum solidum
+26. Eleuatum vacuum
+
+Ei%OGaEdQOV.
+
+871Ì71EÒ0V GXEQEOV
+ETtLTtEÖOV XEVOV
+
+anoxEx^ì]liEvov gxeqeov
+anoxExitmiEvov xevov
+
+EltriQ^lEVOV GXEQEOV
+ETtìjQ^LEVOV y.EVOV.

@@ -1,17 +1,106 @@
 {
   "folio": "0026",
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PARS",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 9,
+      "roman": "IX",
+      "slug": "cap_09",
+      "title_it": "Che cosa sia radici de numero e de altra quantità.",
+      "title_de": "Was die Wurzel einer Zahl und sonstigen Grösse sei.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/009_cap_IX.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/009_cap_IX.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 10,
+      "roman": "X",
+      "slug": "cap_10",
+      "title_it": "Sequela del primo proposto effecto.",
+      "title_de": "Folgerung aus der ersten vorgeführten Wirkung.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/010_cap_X.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/010_cap_X.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 11,
+      "roman": "XI",
+      "slug": "cap_11",
+      "title_it": "Del suo secondo essentiale effecto.",
+      "title_de": "Von ihrer zweiten wesentlichen Wirkung.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/011_cap_XI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/011_cap_XI.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
       "id": "g1",
+      "type": "marginalia",
       "file": "0026.g1.png",
       "bbox": [
-        331,
-        56,
-        128,
-        1248
+        329,
+        72,
+        65,
+        137
       ],
       "white_point": 226,
-      "caption": "Folio 0026 Figure 1"
+      "caption": "Folio 0026 Marginalia 1",
+      "margin": "left"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0026.c1.png",
+      "bbox": [
+        396,
+        88,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0026 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0026.c2.png",
+      "bbox": [
+        395,
+        518,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0026 Initial Cap 2"
+    },
+    {
+      "id": "c3",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0026.c3.png",
+      "bbox": [
+        392,
+        939,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0026 Initial Cap 3"
     }
-  ]
+  ],
+  "page_num": 26,
+  "original_folio": "f. 5v",
+  "section_id": "compendio",
+  "title": "Cap. IX, Cap. X, Cap. XI (f. 5v) — Che cosa sia radici de numero e de altra quantità."
 }

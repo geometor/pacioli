@@ -1,0 +1,58 @@
+:folio: 0099
+:page_num: 99
+:side: recto
+:original_folio: Libellus f. 8r
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0099.g1.png, 0099.g2.png, 0099.g3.png, 0099.g4.png, 0099.g5.png, 0099.g6.png, 0099.g7.png, 0099.c1.png, 0099.c2.png, 0099.c3.png
+
+Folio 0099 (Libellus f. 8r) — Libellus — Tractatus Primus (Libellus f. 8r)
+==========================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0099.g1.png
+
+   **g1 (diagram)**: Folio 0099 Diagram 1
+
+.. picture:: 0099.g2.png
+
+   **g2 (diagram)**: Folio 0099 Diagram 2
+
+.. picture:: 0099.g3.png
+
+   **g3 (diagram)**: Folio 0099 Diagram 3
+
+.. picture:: 0099.g4.png
+
+   **g4 (diagram)**: Folio 0099 Diagram 4
+
+.. picture:: 0099.g5.png
+
+   **g5 (diagram)**: Folio 0099 Diagram 5
+
+.. picture:: 0099.g6.png
+
+   **g6 (diagram)**: Folio 0099 Diagram 6
+
+.. picture:: 0099.g7.png
+
+   **g7 (diagram)**: Folio 0099 Diagram 7
+
+.. picture:: 0099.c1.png
+
+   **c1 (initial)**: Folio 0099 Initial Cap 1
+
+.. picture:: 0099.c2.png
+
+   **c2 (initial)**: Folio 0099 Initial Cap 2
+
+.. picture:: 0099.c3.png
+
+   **c3 (initial)**: Folio 0099 Initial Cap 3
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Primus (Libellus f. 8r)**: Casi geometrici e algebrici (*Casus*) de' lati, cateti, diagonali e superficie dele base triangulari, quadrate e pentagonali.

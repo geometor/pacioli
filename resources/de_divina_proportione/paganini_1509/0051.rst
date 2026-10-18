@@ -1,0 +1,30 @@
+:folio: 0051
+:page_num: 51
+:side: recto
+:original_folio: f. 18r
+:book: Part I: Compendio de Divina Proportione
+:chapters: compendio/cap_57 (Cap. LVII), compendio/cap_58 (Cap. LVIII)
+:graphics: 0051.c1.png
+
+Folio 0051 (f. 18r) — Cap. LVII, Cap. LVIII (f. 18r) — Commo in la spera se collochino tutti li 5 corpi regula
+==============================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0051.c1.png
+
+   **c1 (initial)**: Folio 0051 Initial Cap 1
+
+Testo Italiano (Paganini 1509 / Winterberg 1889)
+------------------------------------------------
+
+Cap. LVII: Commo in la spera se collochino tutti li 5 corpi regulari. (continuatio)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+cioè cosi. T. in nanze aii occhi suoi, ora vna ora laltra più longa giudicaua. E altri assai simili capassonii. Commo de questi tali al tempo dela fabrica del palazzo dela bona memoria del conte Girolymo in Roma in sua presenza confabulando commo acade discorrendo la fabrica siandoui molti degni in sua comitiua de diuers.e facoltà fraglialtri a quel tempo nominato pletore Melozzo da F"rulli per dar piacere ala speculationc c.\- 1. quiUe. hortamo Melozzo e io el conte chel facesse fare vno certo capitello in vna de queste forme non chiarando noi al Conte la difficulta ma solo che seria degna cosa. E a questo asentando el Conto chiamo a se el maestro e disselile *) se lui lo sapesse fare, quel rispose questo esser piccola facenda e che nauia fatte più volte. Diche el Conte dubito non fosse cosa degna commo li commendauamo. Noi pur affermando el medesimo giognendoui apertamente che non lo farebbe per la impossibilita sopra aducta. E rechiamando a se dicto lapicida (che a quel tempo anco eran denominati) lo redomando se lo facesse. Alora quasi sbeffando surise breuiter al si e al non sempre fia ponto lo impegnare. El Conte li disse se tu noi fai che votu perdere? E quello acorto respose non male Signore quel tanto più cha V. illustrissima Signoria pare de quel chio posso guadagnare e rimasero contenti asegnatoli termene 20 di e lui chiedendo quatro. Acade che guasta molti marmi e feci vn o più abaco, finaliter el Conte non lobligo se non al danno dele pietre e rimase scornato. Ma non cesso mai che volse sapere lorigine dela proposta. E seppe essere el frate in modo che non poco rancore dapoi me porto e trouandome me dixe raeser meser io non vi perdono, dela iniuria facta se non me insegnate el muodo a farla e io meli offersi quanto valeuo e per più giorni stando in Roma non li fui vilano. e aprieli de queste e daltre cose a lui pertinenti. E quel cortese volse che vna degna cappa a suo nome mene protasse. Cosi dico che ale volte simili a Vostra celsitudine sonno cagione fare acorti altri de loro errore e non con tante millantarle venirli alor conspecto quasi ognaltro spregiando. Cosi già feci Hierone con Simonide poeta, commo recita Cicerone in quel de natura deorum. El qual Simonide temerariamente se obligo in termene de vno diale spacio saperli dire aponto che cosa era dio e diceua non esser quella difficulta chaltri dici asaperlo. Al quale Hierone finito el dicto termene domando se lauesse trouato quel disse ancora non e che li concedesse alquanto più spacio. Doppo el quale similmente li aduienne e breuiter più termini interposti, quel contesso manco intenderne che prima e rimase confuso con sua temerità. E questo quanto in la spera a loro locatione. 1} 1. disseli.
+
+Cap. LVIII: De li corpi oblunghi cioè più longhi ouer alti che larghi.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sequita excelso Duca apiena notitia di questo nostro tractato douerse alcuna cosa dire alor notitia deli corpi oblonghi cioè de quelli che sonno più longhi ouero alti che larghi. Si commo sonno colonne e lor pyramidi. Dele quali più sorte delune elaltre se trouano. E pero prima diremo dele colonne e suoi origine, poscia dele loro pyramidi. Le colonne sonno de doi facte cioè rotonde e laterate. si commo le figure piane altre sonno curuilinee. e sonno quelle che da linee curue ouer torte sonno contenute. E altre sonno dette rectilinee. e sonno quelle che da linee recte sonno contente. La colonna rotonda e vn corpo contenuto fra doi basi circulari equali e sonno fra loro equidistanti la quale dal nostro philosopho nel vndecimo cosi fia diffinita cioè la figura rotonda corporea, delaqual le basi sonno doi cerchi piani in la extremita e crassitudine cioè altezza equali fia el uestigio del parallelogrammo rectangolo fermato el lato che contene langol recto. Eia dieta superficie circunducta fin tanto che la torni al luogo suo. E chiamase questa figura colonna rotonda.

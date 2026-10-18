@@ -1,0 +1,34 @@
+:folio: 0069
+:page_num: 69
+:side: recto
+:original_folio: f. 27r
+:book: Part II: Tractato de l'Architectura
+:chapters: architectura/cap_03 (Cap. III), architectura/cap_04 (Cap. IV)
+:graphics: 0069.g1.png, 0069.c1.png
+
+Folio 0069 (f. 27r) — Cap. III, Cap. IV (f. 27r) — Dela proportione de tutto el corpo humano che sia ben d
+==========================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0069.g1.png
+
+   **g1 (diagram)**: Folio 0069 Diagram 1
+
+.. picture:: 0069.c1.png
+
+   **c1 (initial)**: Folio 0069 Initial Cap 1
+
+Testo Italiano (Paganini 1509 / Winterberg 1889)
+------------------------------------------------
+
+Cap. III: Dela proportione de tutto el corpo humano che sia ben disposto ala sua testa e altri membri secondo sua longhezza e larghezza. (continuatio)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Quelli che in dieci parti diuidano dieta altezza lachiamauano esser diuisa secondo el numero perfecto dicendo perfecto el numero denario per le ragioni in lopera nostra grande aducte in la distinctione prima tractato secondo quoniam numero denario omnes philosophi sunt contenti cioè del numero deli X. predicamenti in li quali tutti conuengano al qual li greci dicano. Theleon peroche videro che la natura in le mani e in li piedi ha facto X deta e per questo comme dici Victruuio nostro ancora piaque. Al diuin phylosopho Platone nato dale cosi singulari quali apresso li greci sonno diete. Monades cioè amuodo nostro vnita. E questo secondo li naturali. Mali matheniatici chiamano numero perfecto. el senario primo, el i8 el econdo etc. Comme in dieta nostra opera dicemmo e per le conditioni che nellultima propositione del g. libro el nostro Euclide dici in questo modo. Cum coaptati fuerint numeri ab vnitate continue dupli qui iniuncti faciant numerum primum extremus eorum in agregatum ex eis ductus producit numerum perfectum. Onde per questa consideratione gionseno in siemi el X. el 6. che fanno i6. cioè el perfecto philosophico el perfecto mathematico 6. di tal coniunctione ne resulta un terzo numero cioè \6. e questo comme dici Victruuio lochiamano perfectissimo per chel sia composto e facto deli doi predicti perfecta La qual denominatione |Jo non ardesco biasimare ma bene secondo noi vnaltra causa mathematice procedendo li aduco cioè se pò dire perfectissimo ratione quadrature perche epso fìa el quadrato del primo quadrato qual e 4 che fìa censo primo seclusa la regina de tutti li numeri vnita. E lo 16. fia suo quadrato cioè censo de censo che apresso le loro non fìa absurda etc. E acio meglio diete parti ne sieno amente qui dalato in margine me parso non inutile ponere linea per tutta la debita statura humana diuisa in tutti quelli modi che dali an- tichi e moderni se prosupone. La qual diciamo sia la linea ab. Duisa in io equali parti in li ponti e. d. e. f. g. h. k. 1. m. E. in quelle quali da voi più aponto li porretenon siando. Da questa subito a vnaprir de sexto Potrete proportionar quello vi parrà prosuponendo comme dicto habiamo in tutti modi li ossi scussi. E dequi arete el pede peroche la prima altezza comme dici Victruuio fo secondo eluestigio del pede humano la testa e cubito etc. Secondo regia dette proportioni. porrete in lopere vostre proporne vnaltra magior e menore la qual ben diuisa in suoi gradi respondera ala sua altezza siando gigante e ancor nanino e ciiiamaranse debitamente degradate. E asimil maniera se reggano li cosmographi in lor mappamondi e altre carti nauiganti ponendo lor gradi da parte con li quali proportionano tutto el mondo et cetera. Seria circa ciò da dir molte altre parti nell homo poste conciosia che dali sapienti lui sia chiamato mondo piccolo non dimeno per che qui non intendo de dieta architectura comme disopra dicemmo apieno tractare reseruandoci apiu ocio legia dette voglio al proposito vostro delia scultura sieno bastanti. Esequendo viremo alo intento proposto cioè ala dispositione dele colonne rotonde e suoi pilastri basi e capitelli comme vo promesso proportionandole ala statura humana donde prima deriuamo comme intenderete dal nostro Victruuio e noi in quella parte lo adurremo ponendo le sue paroUe formaliter si che starete atenti e condiligentia le notarete.
+
+Cap. IV: Sequita dele colonne rotonde con sue basi e capitelli epilastrelli o vero stilobate.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Volendone combreuita darue el bisogno dele colonne tonde questa parte diuidero in doi principali in la primu diro dela colonna e sua basa e capitello in laseconda del suo stilobata o vero pilastrello o ver basamento dopo alcuni. Dico comme disopra douerse propor- i3q tionare ogni membro de cadauno hedifìtio a tutto dicto hedifitio comma cadaun membro de Ihomo a tutto Ihomo fu facto el qual la natura negliochi per exemplo ciaposto. E acio li vocabuli strani! comme denanze per Victruuio e dicto non vi generi nella mente obscurita aleuolte chiamando le Joniche aleuolte le Doriche e Gorinthe.

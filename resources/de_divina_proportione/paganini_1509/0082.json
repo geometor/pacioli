@@ -1,0 +1,25 @@
+{
+  "folio": "0082",
+  "side": "verso",
+  "section": "Part II: Tractato de l'Architectura",
+  "header": "PARS",
+  "graphics": [],
+  "page_num": 82,
+  "original_folio": "f. 33v",
+  "section_id": "architectura",
+  "title": "Cap. XX (f. 33v) — Dele colonne situate sopra altre coione nelli hedifitii",
+  "chapters": [
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 20,
+      "roman": "XX",
+      "slug": "cap_20",
+      "title_it": "Dele colonne situate sopra altre coione nelli hedifitii.",
+      "title_de": "Von den über andern Säulen befindlichen Säulen an den Ge- bäuden.",
+      "winterberg_it": "winterberg/02_architectura_italian/020_cap_XX.txt",
+      "winterberg_de": "winterberg/04_architectura_german/020_cap_XX.txt",
+      "starts_on_folio": false
+    }
+  ]
+}

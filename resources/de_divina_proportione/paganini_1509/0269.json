@@ -11,7 +11,19 @@
         1515
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 42 (Folio 0269): f\u00a3(fkojuMLOt'T\u00abiiN;!;aEif'\u00a3Op u.ivtv CL"
+      "caption": "Plate XL: Septuaginta Duarum Basium Vacuum (Ἑβδομηκονταδισσάεδρον κενόν) — Hollow 72-Base Body",
+      "type": "plate",
+      "plate_number": 40,
+      "plate_roman": "XL",
+      "title_la": "Septuaginta Duarum Basium Vacuum",
+      "title_gr": "Ἑβδομηκονταδισσάεδρον κενόν",
+      "title_en": "Hollow 72-Base Body"
     }
-  ]
+  ],
+  "page_num": 269,
+  "side": "recto",
+  "original_folio": "Plate Folio 0269 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XL — Septuaginta Duarum Basium Vacuum (Hollow 72-Base Body)"
 }

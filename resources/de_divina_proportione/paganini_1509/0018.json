@@ -1,29 +1,52 @@
 {
   "folio": "0018",
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "»",
   "graphics": [
     {
-      "id": "g1",
-      "file": "0018.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0018.c1.png",
       "bbox": [
-        375,
-        56,
-        84,
-        604
+        390,
+        985,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0018 Figure 1"
+      "caption": "Folio 0018 Initial Cap 1"
+    }
+  ],
+  "page_num": 18,
+  "original_folio": "f. 1v",
+  "section_id": "compendio",
+  "title": "Cap. I, Cap. II (f. 1v) — Excellentissimo principi Ludouico mariae Sforza Angla M",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 1,
+      "roman": "I",
+      "slug": "cap_01",
+      "title_it": "Excellentissimo principi Ludouico mariae Sforza Angla Mediolanensium duci: pacis et belli ornamento fratris Lucae pacioli ex Burgo sancti Sepulchri ordinis Minorum: Sacrae theo- logiae professoris. De diuina proportione epistola.",
+      "title_de": "Ludwig Maria Sforza Anglo, Herzog von Mailand, Zierde des Friedens wie des Krieges, von Bruder Luca Pacioti aus Borgo San Sepolchro, vom Orden der Minoriten, Professor der heiligen Theologie.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/001_dedication.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/001_dedication.txt",
+      "starts_on_folio": false
     },
     {
-      "id": "g2",
-      "file": "0018.g2.png",
-      "bbox": [
-        378,
-        684,
-        81,
-        619
-      ],
-      "white_point": 226,
-      "caption": "Folio 0018 Figure 2"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 2,
+      "roman": "II",
+      "slug": "cap_02",
+      "title_it": "Reuerendi Patris Magistri Luce pacioli de Burgo San Sepulchro Ordinis Minorum. Et sacre theologie professoris in compendium de diuina proportione ex mathematicis disciplinis prefatio.",
+      "title_de": "Vorrede des Ehrwürdigen Pater Magister Luca Pacioli aus Borgo San Sepolchro vom Orden der Minoriten, und Professor der heihgen Theologie zum Compendium über die göttliche Proportion aus den mathematischen Wissenschaften.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/002_cap_II.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/002_cap_II.txt",
+      "starts_on_folio": true
     }
   ]
 }

@@ -1,0 +1,22 @@
+:folio: 0147
+:page_num: 147
+:side: recto
+:original_folio: Plate Folio 0147 (recto)
+:book: Appendix I: The Roman Geometric Alphabet
+:chapters: None
+:graphics: 0147.g1.png
+
+Folio 0147 (Plate Folio 0147 (recto)) — Roman Geometric Alphabet — Lettera E
+============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0147.g1.png
+
+   **g1 (plate)**: Roman Geometric Alphabet — Lettera E
+
+Testo Originale (Paganini 1509)
+-------------------------------
+
+Questa lettera E se cava del tondo e del suo quadro. La gamba grossa vol esser de le nove parti luna. La gamba desopra vol esser per la mita de la gamba grossa, quella de sotto per simile. Quella de mezo per terza parte de la gamba grossa comme quella de mezo del A, e la detta lettera vol esser larga meza del suo quadro et sic erit perfectissima.

@@ -1,53 +1,106 @@
 {
   "folio": "0032",
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PARS",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 25,
+      "roman": "XXV",
+      "slug": "cap_25",
+      "title_it": "Commo non possino essere più. 5. corpi regulari.",
+      "title_de": "Warum es nicht mehr als fünf regelmässige Körper geben kann.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/025_cap_XXV.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/025_cap_XXV.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 26,
+      "roman": "XXVI",
+      "slug": "cap_26",
+      "title_it": "De fabrica seu formatione eorum 5 regularium et deproportione cujusque ad diametruni spere et primo de tetracedron).",
+      "title_de": "Von der Anfertigung oder Bildung jener fünf regelmässigen Körper und dem Verhältnisse eines jeden zum Durchmesser der Kugel,\"-) und zwar zuerst vom Tetraeder.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/026_cap_XXVI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/026_cap_XXVI.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 27,
+      "roman": "XXVII",
+      "slug": "cap_27",
+      "title_it": "Dela fabrica del cubo e sua proportione ala spera.",
+      "title_de": "Von der Anfertigung des Würfels und seinem Verhältniss zur Kugel.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/027_cap_XXVII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/027_cap_XXVII.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0032.g1.png",
       "bbox": [
-        74,
-        151,
-        312,
-        177
+        66,
+        123,
+        327,
+        233
       ],
       "white_point": 226,
-      "caption": "Folio 0032 Figure 1"
+      "caption": "Folio 0032 Diagram 1",
+      "margin": "left"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0032.g2.png",
       "bbox": [
-        50,
-        378,
-        332,
-        48
+        40,
+        376,
+        345,
+        80
       ],
       "white_point": 226,
-      "caption": "Folio 0032 Figure 2"
+      "caption": "Folio 0032 Diagram 2",
+      "margin": "left"
     },
     {
       "id": "g3",
+      "type": "diagram",
       "file": "0032.g3.png",
       "bbox": [
-        54,
-        579,
-        405,
-        318
+        48,
+        549,
+        328,
+        350
       ],
       "white_point": 226,
-      "caption": "Folio 0032 Figure 3"
+      "caption": "Folio 0032 Diagram 3",
+      "margin": "left"
     },
     {
-      "id": "g4",
-      "file": "0032.g4.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0032.c1.png",
       "bbox": [
-        401,
-        1198,
-        58,
-        109
+        399,
+        607,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0032 Figure 4"
+      "caption": "Folio 0032 Initial Cap 1"
     }
-  ]
+  ],
+  "page_num": 32,
+  "original_folio": "f. 8v",
+  "section_id": "compendio",
+  "title": "Cap. XXV, Cap. XXVI, Cap. XXVII (f. 8v) — Commo non possino essere più. 5. corpi regulari."
 }

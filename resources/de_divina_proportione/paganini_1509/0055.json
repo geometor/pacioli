@@ -1,29 +1,108 @@
 {
   "folio": "0055",
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "20",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 64,
+      "roman": "LXIV",
+      "slug": "cap_64",
+      "title_it": "Dele pyramidi e tutte lor differentie.",
+      "title_de": "Von den Pyramiden und allen ihren Verschiedenheiten.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/064_cap_LXIV.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/064_cap_LXIV.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 65,
+      "roman": "LXV",
+      "slug": "cap_65",
+      "title_it": "Dele piramidi laterate e sue diuersita.",
+      "title_de": "Von den kantigen Pyramiden und ihren Verschiedenheiten.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/065_cap_LXV.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/065_cap_LXV.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0055.g1.png",
       "bbox": [
-        578,
-        28,
-        377,
-        852
+        671,
+        32,
+        251,
+        535
       ],
       "white_point": 226,
-      "caption": "Folio 0055 Figure 1"
+      "caption": "Folio 0055 Diagram 1",
+      "margin": "right"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0055.g2.png",
       "bbox": [
-        643,
-        900,
-        310,
-        304
+        642,
+        561,
+        308,
+        317
       ],
       "white_point": 226,
-      "caption": "Folio 0055 Figure 2"
+      "caption": "Folio 0055 Diagram 2",
+      "margin": "right"
+    },
+    {
+      "id": "g3",
+      "type": "diagram",
+      "file": "0055.g3.png",
+      "bbox": [
+        642,
+        871,
+        318,
+        359
+      ],
+      "white_point": 226,
+      "caption": "Folio 0055 Diagram 3",
+      "margin": "right"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0055.c1.png",
+      "bbox": [
+        49,
+        74,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0055 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0055.c2.png",
+      "bbox": [
+        39,
+        869,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0055 Initial Cap 2"
     }
-  ]
+  ],
+  "page_num": 55,
+  "original_folio": "f. 20r",
+  "section_id": "compendio",
+  "title": "Cap. LXIV, Cap. LXV (f. 20r) — Dele pyramidi e tutte lor differentie."
 }

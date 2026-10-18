@@ -1,65 +1,52 @@
 {
   "folio": "0074",
+  "side": "verso",
+  "section": "Part II: Tractato de l'Architectura",
+  "header": "PARS",
   "graphics": [
     {
-      "id": "g1",
-      "file": "0074.g1.png",
-      "bbox": [
-        399,
-        391,
-        60,
-        63
-      ],
-      "white_point": 226,
-      "caption": "Folio 0074 Figure 1"
-    },
-    {
-      "id": "g2",
-      "file": "0074.g2.png",
-      "bbox": [
-        399,
-        610,
-        60,
-        41
-      ],
-      "white_point": 226,
-      "caption": "Folio 0074 Figure 2"
-    },
-    {
-      "id": "g3",
-      "file": "0074.g3.png",
-      "bbox": [
-        399,
-        675,
-        53,
-        61
-      ],
-      "white_point": 226,
-      "caption": "Folio 0074 Figure 3"
-    },
-    {
-      "id": "g4",
-      "file": "0074.g4.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0074.c1.png",
       "bbox": [
         402,
-        821,
-        57,
-        147
+        827,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0074 Figure 4"
+      "caption": "Folio 0074 Initial Cap 1"
+    }
+  ],
+  "page_num": 74,
+  "original_folio": "f. 29v",
+  "section_id": "architectura",
+  "title": "Cap. VII, Cap. VIII (f. 29v) — In quello sienno differenti le tre spetie de diete colo",
+  "chapters": [
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 7,
+      "roman": "VII",
+      "slug": "cap_07",
+      "title_it": "In quello sienno differenti le tre spetie de diete colonne fra loro.",
+      "title_de": "Worin sich die drei Arten besagter Säulen von einander unter- scheiden.",
+      "winterberg_it": "winterberg/02_architectura_italian/007_cap_VII.txt",
+      "winterberg_de": "winterberg/04_architectura_german/007_cap_VII.txt",
+      "starts_on_folio": false
     },
     {
-      "id": "g5",
-      "file": "0074.g5.png",
-      "bbox": [
-        399,
-        1055,
-        56,
-        62
-      ],
-      "white_point": 226,
-      "caption": "Folio 0074 Figure 5"
+      "book": 2,
+      "part": "architectura",
+      "chapter": 8,
+      "roman": "VIII",
+      "slug": "cap_08",
+      "title_it": "Doue ora se trouino colonne più debitamente facte per Italia dali antichi e ancor moderni.",
+      "title_de": "Wo sich jetzt normalmässiger construirte Säulen befinden, die in Italien von den Alten und auch den Modernen angefertigt.",
+      "winterberg_it": "winterberg/02_architectura_italian/008_cap_VILI.txt",
+      "winterberg_de": "winterberg/04_architectura_german/008_cap_VIII.txt",
+      "starts_on_folio": true
     }
   ]
 }

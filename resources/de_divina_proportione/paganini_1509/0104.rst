@@ -1,0 +1,46 @@
+:folio: 0104
+:page_num: 104
+:side: verso
+:original_folio: Libellus f. 10v
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0104.g1.png, 0104.g2.png, 0104.g3.png, 0104.g4.png, 0104.c1.png, 0104.c2.png, 0104.c3.png
+
+Folio 0104 (Libellus f. 10v) — Libellus — Tractatus Secundus (Libellus f. 10v)
+==============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0104.g1.png
+
+   **g1 (diagram)**: Folio 0104 Diagram 1
+
+.. picture:: 0104.g2.png
+
+   **g2 (diagram)**: Folio 0104 Diagram 2
+
+.. picture:: 0104.g3.png
+
+   **g3 (diagram)**: Folio 0104 Diagram 3
+
+.. picture:: 0104.g4.png
+
+   **g4 (diagram)**: Folio 0104 Diagram 4
+
+.. picture:: 0104.c1.png
+
+   **c1 (initial)**: Folio 0104 Initial Cap 1
+
+.. picture:: 0104.c2.png
+
+   **c2 (initial)**: Folio 0104 Initial Cap 2
+
+.. picture:: 0104.c3.png
+
+   **c3 (initial)**: Folio 0104 Initial Cap 3
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Secundus (Libellus f. 10v)**: Casi geometrici e algebrici (*Casus*) de' corpi laterati regulari, le superficie e quadrature loro.

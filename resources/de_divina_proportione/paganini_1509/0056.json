@@ -1,41 +1,176 @@
 {
   "folio": "0056",
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PARS",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0056.g1.png",
       "bbox": [
-        154,
-        55,
-        147,
-        219
+        153,
+        32,
+        150,
+        243
       ],
       "white_point": 226,
-      "caption": "Folio 0056 Figure 1"
+      "caption": "Folio 0056 Diagram 1",
+      "margin": "left"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0056.g2.png",
       "bbox": [
-        58,
-        291,
-        401,
-        572
+        63,
+        268,
+        155,
+        365
       ],
       "white_point": 226,
-      "caption": "Folio 0056 Figure 2"
+      "caption": "Folio 0056 Diagram 2",
+      "margin": "left"
     },
     {
       "id": "g3",
+      "type": "diagram",
       "file": "0056.g3.png",
       "bbox": [
-        120,
-        884,
-        339,
-        429
+        220,
+        269,
+        173,
+        249
       ],
       "white_point": 226,
-      "caption": "Folio 0056 Figure 3"
+      "caption": "Folio 0056 Diagram 3",
+      "margin": "left"
+    },
+    {
+      "id": "g4",
+      "type": "diagram",
+      "file": "0056.g4.png",
+      "bbox": [
+        234,
+        518,
+        150,
+        161
+      ],
+      "white_point": 226,
+      "caption": "Folio 0056 Diagram 4",
+      "margin": "left"
+    },
+    {
+      "id": "g5",
+      "type": "diagram",
+      "file": "0056.g5.png",
+      "bbox": [
+        243,
+        690,
+        154,
+        175
+      ],
+      "white_point": 226,
+      "caption": "Folio 0056 Diagram 5",
+      "margin": "left"
+    },
+    {
+      "id": "g6",
+      "type": "diagram",
+      "file": "0056.g6.png",
+      "bbox": [
+        56,
+        708,
+        158,
+        157
+      ],
+      "white_point": 226,
+      "caption": "Folio 0056 Diagram 6",
+      "margin": "left"
+    },
+    {
+      "id": "g7",
+      "type": "diagram",
+      "file": "0056.g7.png",
+      "bbox": [
+        102,
+        866,
+        246,
+        354
+      ],
+      "white_point": 226,
+      "caption": "Folio 0056 Diagram 7",
+      "margin": "left"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0056.c1.png",
+      "bbox": [
+        413,
+        487,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0056 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0056.c2.png",
+      "bbox": [
+        417,
+        1170,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0056 Initial Cap 2"
+    }
+  ],
+  "page_num": 56,
+  "original_folio": "f. 20v",
+  "section_id": "compendio",
+  "title": "Cap. LXV, Cap. LXVI, Cap. LXVII (f. 20v) — Dele piramidi laterate e sue diuersita.",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 65,
+      "roman": "LXV",
+      "slug": "cap_65",
+      "title_it": "Dele piramidi laterate e sue diuersita.",
+      "title_de": "Von den kantigen Pyramiden und ihren Verschiedenheiten.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/065_cap_LXV.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/065_cap_LXV.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 66,
+      "roman": "LXVI",
+      "slug": "cap_66",
+      "title_it": "Del modo e via a saper mesurare ogni pyramide.",
+      "title_de": "Von der Art und dem Verfahren, jede Pyramide ausmessen zu können.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/066_cap_LXVI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/066_cap_LXVI.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 67,
+      "roman": "LXVII",
+      "slug": "cap_67",
+      "title_it": "Commo dele laterate aperto se mostra ciascuna essere subtripla ala sua colonna.",
+      "title_de": "Wie sich bei den kantigen offen zeigt, dass jede ein Drittel ihrer Säule sei.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/067_cap_LXVII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/067_cap_LXVII.txt",
+      "starts_on_folio": true
     }
   ]
 }

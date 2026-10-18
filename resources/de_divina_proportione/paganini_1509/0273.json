@@ -11,7 +11,19 @@
         1350
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 44 (Folio 0273): kicjv \u25a0srAav\u00a7o<N<;,n>HY&>vo<; k.\u00a3vhs XLII"
+      "caption": "Plate XLII: Columna Laterata Triangula Vacua (Κίων πλευρώδης τρίγωνος κενός) — Hollow Triangular Prism",
+      "type": "plate",
+      "plate_number": 42,
+      "plate_roman": "XLII",
+      "title_la": "Columna Laterata Triangula Vacua",
+      "title_gr": "Κίων πλευρώδης τρίγωνος κενός",
+      "title_en": "Hollow Triangular Prism"
     }
-  ]
+  ],
+  "page_num": 273,
+  "side": "recto",
+  "original_folio": "Plate Folio 0273 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XLII — Columna Laterata Triangula Vacua (Hollow Triangular Prism)"
 }

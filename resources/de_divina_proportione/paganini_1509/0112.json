@@ -1,29 +1,82 @@
 {
   "folio": "0112",
+  "side": "verso",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "TRACATATVS",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0112.g1.png",
       "bbox": [
-        74,
-        198,
-        385,
-        383
+        52,
+        190,
+        299,
+        358
       ],
       "white_point": 226,
-      "caption": "Folio 0112 Figure 1"
+      "caption": "Folio 0112 Diagram 1",
+      "margin": "left"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0112.g2.png",
       "bbox": [
-        66,
-        670,
-        393,
-        326
+        51,
+        673,
+        300,
+        349
       ],
       "white_point": 226,
-      "caption": "Folio 0112 Figure 2"
+      "caption": "Folio 0112 Diagram 2",
+      "margin": "left"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0112.c1.png",
+      "bbox": [
+        399,
+        208,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0112 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0112.c2.png",
+      "bbox": [
+        404,
+        437,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0112 Initial Cap 2"
+    },
+    {
+      "id": "c3",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0112.c3.png",
+      "bbox": [
+        400,
+        676,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0112 Initial Cap 3"
     }
-  ]
+  ],
+  "page_num": 112,
+  "original_folio": "Libellus f. 14v",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Secundus (Libellus f. 14v)"
 }

@@ -11,7 +11,19 @@
         1321
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 56 (Folio 0297): Kl(\u00f9t \u25a0KtevPwfrui; tla.yovoq arl^ot; LI IT"
+      "caption": "Plate LIII: Columna Laterata Exagona Solida (Κίων πλευρώδης ἑξάγωνος στερεός) — Solid Hexagonal Prism",
+      "type": "plate",
+      "plate_number": 53,
+      "plate_roman": "LIII",
+      "title_la": "Columna Laterata Exagona Solida",
+      "title_gr": "Κίων πλευρώδης ἑξάγωνος στερεός",
+      "title_en": "Solid Hexagonal Prism"
     }
-  ]
+  ],
+  "page_num": 297,
+  "side": "recto",
+  "original_folio": "Plate Folio 0297 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate LIII — Columna Laterata Exagona Solida (Solid Hexagonal Prism)"
 }

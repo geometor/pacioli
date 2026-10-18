@@ -11,7 +11,14 @@
         1370
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 14 (Folio 0213): Pertafportantia e variet\u00e0 di queffi nomi ala tauola ord\u00ec'"
+      "caption": "Colonna Corinta, Jonica e Pulvinata con Stilobata e Steriobata",
+      "type": "plate"
     }
-  ]
+  ],
+  "page_num": 213,
+  "side": "recto",
+  "original_folio": "Plate Folio 0213 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Architectural Plate — Colonna Corinta, Jonica e Pulvinata con Stilobata e Steriobata"
 }

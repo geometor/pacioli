@@ -1,41 +1,66 @@
 {
   "folio": "0080",
+  "side": "verso",
+  "section": "Part II: Tractato de l'Architectura",
+  "header": "PARS",
   "graphics": [
     {
-      "id": "g1",
-      "file": "0080.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0080.c1.png",
       "bbox": [
-        408,
-        119,
-        51,
-        169
+        411,
+        126,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0080 Figure 1"
+      "caption": "Folio 0080 Initial Cap 1"
     },
     {
-      "id": "g2",
-      "file": "0080.g2.png",
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0080.c2.png",
       "bbox": [
-        405,
-        610,
-        54,
-        149
+        407,
+        618,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0080 Figure 2"
+      "caption": "Folio 0080 Initial Cap 2"
+    }
+  ],
+  "page_num": 80,
+  "original_folio": "f. 32v",
+  "section_id": "architectura",
+  "title": "Cap. XVIII, Cap. XIX (f. 32v) — Comme lapicidi e altri scultori in dicti corpi sieno co",
+  "chapters": [
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 18,
+      "roman": "XVIII",
+      "slug": "cap_18",
+      "title_it": "Comme lapicidi e altri scultori in dicti corpi sieno commendati.",
+      "title_de": "Wie Steinmetzen und andern Sculptoren besagte Körper empfohlen werden.",
+      "winterberg_it": "winterberg/02_architectura_italian/018_cap_XVIII.txt",
+      "winterberg_de": "winterberg/04_architectura_german/018_cap_XVIII.txt",
+      "starts_on_folio": true
     },
     {
-      "id": "g3",
-      "file": "0080.g3.png",
-      "bbox": [
-        403,
-        892,
-        56,
-        63
-      ],
-      "white_point": 226,
-      "caption": "Folio 0080 Figure 3"
+      "book": 2,
+      "part": "architectura",
+      "chapter": 19,
+      "roman": "XIX",
+      "slug": "cap_19",
+      "title_it": "Comme nelli luoghi angusti lo architetto se habia aregere in sua dispositione.",
+      "title_de": "Wie sich der Architekt an engen Orten bei seiner Anordnung zu verhalten habe.",
+      "winterberg_it": "winterberg/02_architectura_italian/019_cap_XIX.txt",
+      "winterberg_de": "winterberg/04_architectura_german/019_cap_XIX.txt",
+      "starts_on_folio": true
     }
   ]
 }

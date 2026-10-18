@@ -11,7 +11,19 @@
         1268
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 39 (Folio 0263): \u00abltOSI\u00a3?0\u00a3\u00a3(^OVa-zrOTtT^HjUEl>OV i-^h^ivov we\u00a7\u00a3oy ."
+      "caption": "Plate XXXVII: Vigintisex Basium Abscisum Elevatum Solidum (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν) — Solid Elevated 26-Base Body",
+      "type": "plate",
+      "plate_number": 37,
+      "plate_roman": "XXXVII",
+      "title_la": "Vigintisex Basium Abscisum Elevatum Solidum",
+      "title_gr": "Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν",
+      "title_en": "Solid Elevated 26-Base Body"
     }
-  ]
+  ],
+  "page_num": 263,
+  "side": "recto",
+  "original_folio": "Plate Folio 0263 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XXXVII — Vigintisex Basium Abscisum Elevatum Solidum (Solid Elevated 26-Base Body)"
 }

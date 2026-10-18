@@ -1,0 +1,22 @@
+:folio: 0179
+:page_num: 179
+:side: recto
+:original_folio: Plate Folio 0179 (recto)
+:book: Appendix I: The Roman Geometric Alphabet
+:chapters: None
+:graphics: 0179.g1.png
+
+Folio 0179 (Plate Folio 0179 (recto)) — Roman Geometric Alphabet — Lettera V
+============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0179.g1.png
+
+   **g1 (plate)**: Roman Geometric Alphabet — Lettera V
+
+Testo Originale (Paganini 1509)
+-------------------------------
+
+Questa lettera V se cava del suo quadro tutto intero. La gamba senistra vol esser grossa el nono del suo quadro presa diametraliter comme la dextra del A e traversa del N. La dextra la mita de la grossa pur diametraliter presa comme la senistra del A e termina poncto nella basa del quadro in fin del diametro del tondo.

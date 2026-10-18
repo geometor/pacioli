@@ -11,7 +11,19 @@
         1400
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 61 (Folio 0307): - > \u25a0Brvgotjui? orgoifyuAi \u00ab-\u00a3\u00a7\u00a3\u00ab"
+      "caption": "Plate LVIII: Pyramis Rotunda Solida (Πυραμὶς στρογγύλη στερεά) — Solid Round Pyramid (Cone)",
+      "type": "plate",
+      "plate_number": 58,
+      "plate_roman": "LVIII",
+      "title_la": "Pyramis Rotunda Solida",
+      "title_gr": "Πυραμὶς στρογγύλη στερεά",
+      "title_en": "Solid Round Pyramid (Cone)"
     }
-  ]
+  ],
+  "page_num": 307,
+  "side": "recto",
+  "original_folio": "Plate Folio 0307 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate LVIII — Pyramis Rotunda Solida (Solid Round Pyramid (Cone))"
 }

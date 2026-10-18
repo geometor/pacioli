@@ -1,29 +1,52 @@
 {
   "folio": "0078",
-  "graphics": [
+  "side": "verso",
+  "section": "Part II: Tractato de l'Architectura",
+  "header": "PARS",
+  "chapters": [
     {
-      "id": "g1",
-      "file": "0078.g1.png",
-      "bbox": [
-        417,
-        100,
-        42,
-        143
-      ],
-      "white_point": 226,
-      "caption": "Folio 0078 Figure 1"
+      "book": 2,
+      "part": "architectura",
+      "chapter": 13,
+      "roman": "XIII",
+      "slug": "cap_13",
+      "title_it": "De linterualli fra lun tigrafo e laltro.",
+      "title_de": "Vom Intervall zwischen einem Tygraphen und dem andern.",
+      "winterberg_it": "winterberg/02_architectura_italian/013_cap_XIII.txt",
+      "winterberg_de": "winterberg/04_architectura_german/013_cap_XIII.txt",
+      "starts_on_folio": true
     },
     {
-      "id": "g2",
-      "file": "0078.g2.png",
+      "book": 2,
+      "part": "architectura",
+      "chapter": 14,
+      "roman": "XIV",
+      "slug": "cap_14",
+      "title_it": "Delo epistilio onero architraue secondo li moderni e suo zophoro. E corona ouero cornicione per li moderni.",
+      "title_de": "Vom Epistyl oder Architrav nach den Modernen und seinem Zophoros, und Krönung oder Karnies, nach den Modernen.",
+      "winterberg_it": "winterberg/02_architectura_italian/014_cap_XIV.txt",
+      "winterberg_de": "winterberg/04_architectura_german/014_cap_XIV.txt",
+      "starts_on_folio": true
+    }
+  ],
+  "graphics": [
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0078.c1.png",
       "bbox": [
-        424,
-        311,
-        35,
-        147
+        425,
+        318,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0078 Figure 2"
+      "caption": "Folio 0078 Initial Cap 1"
     }
-  ]
+  ],
+  "page_num": 78,
+  "original_folio": "f. 31v",
+  "section_id": "architectura",
+  "title": "Cap. XIII, Cap. XIV (f. 31v) — De linterualli fra lun tigrafo e laltro."
 }

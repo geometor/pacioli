@@ -1,41 +1,78 @@
 {
   "folio": "0040",
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PARS",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 31,
+      "roman": "XXXI",
+      "slug": "cap_31",
+      "title_it": "A trouar li lati de tutti 5 corpi regulari.",
+      "title_de": "Die Seiten aller fünf regelmässigen Körper zu finden.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/031_cap_XXXI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/031_cap_XXXI.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 32,
+      "roman": "XXXII",
+      "slug": "cap_32",
+      "title_it": "Dela proportione de dicti regulari fraloro elor dependenti.",
+      "title_de": "Von dem Verhältnisse genannter Körper unter einander und zu den von ihnen abhängigen.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/032_cap_XXXII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/032_cap_XXXII.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 33,
+      "roman": "XXXIII",
+      "slug": "cap_33",
+      "title_it": "Dela proportione de tutte loro superficie lune alaltre.",
+      "title_de": "Von dem Verhältniss aller ihrer Oberflächen zu einander.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/033_cap_XXXIII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/033_cap_XXXIII.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
-      "id": "g1",
-      "file": "0040.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0040.c1.png",
       "bbox": [
-        393,
-        213,
-        66,
-        148
+        394,
+        221,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0040 Figure 1"
+      "caption": "Folio 0040 Initial Cap 1"
     },
     {
-      "id": "g2",
-      "file": "0040.g2.png",
-      "bbox": [
-        390,
-        831,
-        69,
-        150
-      ],
-      "white_point": 226,
-      "caption": "Folio 0040 Figure 2"
-    },
-    {
-      "id": "g3",
-      "file": "0040.g3.png",
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0040.c2.png",
       "bbox": [
         393,
-        1154,
-        66,
-        37
+        838,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0040 Figure 3"
+      "caption": "Folio 0040 Initial Cap 2"
     }
-  ]
+  ],
+  "page_num": 40,
+  "original_folio": "f. 12v",
+  "section_id": "compendio",
+  "title": "Cap. XXXI, Cap. XXXII, Cap. XXXIII (f. 12v) — A trouar li lati de tutti 5 corpi regulari."
 }

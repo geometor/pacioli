@@ -1,0 +1,54 @@
+{
+  "folio": "0010",
+  "side": "verso",
+  "section": "Front Matter and Dedications",
+  "header": "jo Coluna latfratapétbagona vacua.",
+  "graphics": [
+    {
+      "id": "g1",
+      "type": "diagram",
+      "file": "0010.g1.png",
+      "bbox": [
+        64,
+        77,
+        324,
+        221
+      ],
+      "white_point": 226,
+      "caption": "Folio 0010 Diagram 1",
+      "margin": "left"
+    },
+    {
+      "id": "g2",
+      "type": "diagram",
+      "file": "0010.g2.png",
+      "bbox": [
+        63,
+        271,
+        312,
+        140
+      ],
+      "white_point": 226,
+      "caption": "Folio 0010 Diagram 2",
+      "margin": "left"
+    },
+    {
+      "id": "g3",
+      "type": "diagram",
+      "file": "0010.g3.png",
+      "bbox": [
+        63,
+        464,
+        331,
+        183
+      ],
+      "white_point": 226,
+      "caption": "Folio 0010 Diagram 3",
+      "margin": "left"
+    }
+  ],
+  "page_num": 10,
+  "original_folio": "A3v",
+  "section_id": "front_matter",
+  "title": "Nomina et Numerus Corporum (A3v)"
+}

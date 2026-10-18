@@ -1,29 +1,102 @@
 {
   "folio": "0107",
+  "side": "recto",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "SECVNDVS",
+  "chapters": [
+    {
+      "book": 3,
+      "casus": "2"
+    }
+  ],
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0107.g1.png",
       "bbox": [
-        578,
-        55,
-        401,
-        408
+        687,
+        109,
+        294,
+        293
       ],
       "white_point": 226,
-      "caption": "Folio 0107 Figure 1"
+      "caption": "Folio 0107 Diagram 1",
+      "margin": "right"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0107.g2.png",
       "bbox": [
-        578,
-        507,
-        407,
-        713
+        691,
+        544,
+        296,
+        295
       ],
       "white_point": 226,
-      "caption": "Folio 0107 Figure 2"
+      "caption": "Folio 0107 Diagram 2",
+      "margin": "right"
+    },
+    {
+      "id": "g3",
+      "type": "diagram",
+      "file": "0107.g3.png",
+      "bbox": [
+        683,
+        927,
+        302,
+        295
+      ],
+      "white_point": 226,
+      "caption": "Folio 0107 Diagram 3",
+      "margin": "right"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0107.c1.png",
+      "bbox": [
+        69,
+        58,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0107 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0107.c2.png",
+      "bbox": [
+        68,
+        407,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0107 Initial Cap 2"
+    },
+    {
+      "id": "c3",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0107.c3.png",
+      "bbox": [
+        63,
+        902,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0107 Initial Cap 3"
     }
-  ]
+  ],
+  "page_num": 107,
+  "original_folio": "Libellus f. 12r",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Secundus (Libellus f. 12r)"
 }

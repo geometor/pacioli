@@ -1,0 +1,15 @@
+:folio: 0317
+:page_num: 317
+:side: recto
+:original_folio: End Matter 0317 (recto)
+:book: End Matter and Colophon
+:chapters: None
+:graphics: None
+
+Folio 0317 (End Matter 0317 (recto)) — Endleaf (0317)
+=====================================================
+
+Folio Description
+-----------------
+
+Blank leaf / flyleaf (End Matter 0317 (recto)) in the 1509 Venice witness (*Paganinus de Paganinis de Brixia*).

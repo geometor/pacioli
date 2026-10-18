@@ -11,7 +11,19 @@
         1237
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 11 (Folio 0207): tTZH%tHlVM \u00f9Tt^tW XI"
+      "caption": "Plate XI: Exahedron Elevatum Solidum (Ἑξάεδρον ἐπηρμένον στερεόν) — Solid Elevated Hexahedron",
+      "type": "plate",
+      "plate_number": 11,
+      "plate_roman": "XI",
+      "title_la": "Exahedron Elevatum Solidum",
+      "title_gr": "Ἑξάεδρον ἐπηρμένον στερεόν",
+      "title_en": "Solid Elevated Hexahedron"
     }
-  ]
+  ],
+  "page_num": 207,
+  "side": "recto",
+  "original_folio": "Plate Folio 0207 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XI — Exahedron Elevatum Solidum (Solid Elevated Hexahedron)"
 }

@@ -11,7 +11,19 @@
         1491
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 24 (Folio 0233): tijto?\u00abj^flir wstfov jtevov XXH"
+      "caption": "Plate XXII: Icosahedron Planum Vacuum (Εἰκοσάεδρον ἐπίπεδον κενόν) — Hollow Regular Icosahedron",
+      "type": "plate",
+      "plate_number": 22,
+      "plate_roman": "XXII",
+      "title_la": "Icosahedron Planum Vacuum",
+      "title_gr": "Εἰκοσάεδρον ἐπίπεδον κενόν",
+      "title_en": "Hollow Regular Icosahedron"
     }
-  ]
+  ],
+  "page_num": 233,
+  "side": "recto",
+  "original_folio": "Plate Folio 0233 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XXII — Icosahedron Planum Vacuum (Hollow Regular Icosahedron)"
 }

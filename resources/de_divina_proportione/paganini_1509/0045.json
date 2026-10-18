@@ -1,17 +1,78 @@
 {
   "folio": "0045",
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PRIMA",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 50,
+      "roman": "L",
+      "slug": "cap_50",
+      "title_it": "Delo octocedron piano solido o ver vacuo e absciso solido o ver vacuo edelo eleuato solido o ver vacuo.",
+      "title_de": "Vom ebenen vollen oder hohlen, und abgeschnittenen vollen oder hohlen, und erhabenen vollen oder hohlen Oktaeder.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/050_cap_L.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/050_cap_L.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 51,
+      "roman": "LI",
+      "slug": "cap_51",
+      "title_it": "Delo ycocedron piano solido o ver vacuo e delo absciso solido o ver vacuo e delo eleuato solido o ver vacuo.",
+      "title_de": "Vom ebenen vollen oder hohlen und vom abgeschnittenen vollen oder hohlen, und erhabenen vollen oder hohlen Ikosaeder.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/051_cap_LI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/051_cap_LI.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 52,
+      "roman": "LII",
+      "slug": "cap_52",
+      "title_it": "Del duodecedron piano solido o ver vacuo edelo absciso solido o ver vacuo edelo eleuato solido ouer vacuo edelo absciso ele- uato solido o ver vacuo e sua origine o ver dependentia.",
+      "title_de": "Vom ebenen vollen oder hohlen, und vom abgeschnittenen vollen oder hohlen, und vom erhöhten vollen oder hohlen und abgeschnittenen erhöhten vollen oder hohlen Dodekaeder, und seiner Erzeugung oder Abhängigkeit.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/052_cap_LII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/052_cap_LII.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
-      "id": "g1",
-      "file": "0045.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0045.c1.png",
       "bbox": [
-        29,
-        288,
-        151,
-        862
+        42,
+        300,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0045 Figure 1"
+      "caption": "Folio 0045 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0045.c2.png",
+      "bbox": [
+        33,
+        1007,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0045 Initial Cap 2"
     }
-  ]
+  ],
+  "page_num": 45,
+  "original_folio": "f. 15r",
+  "section_id": "compendio",
+  "title": "Cap. L, Cap. LI, Cap. LII (f. 15r) — Delo octocedron piano solido o ver vacuo e absciso soli"
 }

@@ -1,0 +1,43 @@
+:folio: 0052
+:page_num: 52
+:side: verso
+:original_folio: f. 18v
+:book: Part I: Compendio de Divina Proportione
+:chapters: compendio/cap_58 (Cap. LVIII), compendio/cap_59 (Cap. LIX), compendio/cap_60 (Cap. LX)
+:graphics: 0052.g1.png, 0052.c1.png, 0052.c2.png
+
+Folio 0052 (f. 18v) — Cap. LVIII, Cap. LIX, Cap. LX (f. 18v) — De li corpi oblunghi cioè più longhi ouer alti che larg
+======================================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0052.g1.png
+
+   **g1 (diagram)**: Folio 0052 Diagram 1
+
+.. picture:: 0052.c1.png
+
+   **c1 (initial)**: Folio 0052 Initial Cap 1
+
+.. picture:: 0052.c2.png
+
+   **c2 (initial)**: Folio 0052 Initial Cap 2
+
+Testo Italiano (Paganini 1509 / Winterberg 1889)
+------------------------------------------------
+
+Cap. LVIII: De li corpi oblunghi cioè più longhi ouer alti che larghi. (continuatio)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Onde dela colonna rotonda e de la spera edel cerchio fia vn medesimo centro. Verbi gratia. Sia el parallelogrammo abcd, cioè superficie quadrangola de lati equidistanti ede angoli recti. E fermise el lato ab. el quale cosi fermato tutto el paralelogrammo se meni atorno fin tanto che retorni al suo luogo onde comenzo amouerse la figura adonca corporea dal moto de questo paralelogrammo descripta se chiama colonna rotonda, dela quale le basi sonno doi cerchi elo centro fia el ponto b. e laltro e quella che fa la linea da. nel suo moto ouer girare, e lo suo centro fia el ponto a. e laxe de questa colonna e dieta la linea ab. laqual sta ferma nel mouiraento del paralelogrammo. E se noi ymaginaremmo el paralelogrammo abcd. quando el prouenza col suo girare al sito abef. cosi congionga al sito donde comenzo a raouerse secondo la continuatione de la superficie piana: cioè che tutto sia vn paralelogramo. dcef. e che habiamo menato in epso el dyametro. de. ') I. sorte. -) Vgl. hierzu die Figuren auf S. loü. el quäl dyametro ancora de. sira dyametro dela colonna. Quello che si dici dela colonna e dela spera e del cerchio essere vn medesimo centro: se deue intendere quando de questi sia vno medesimo diametro: verbi gratia: hauemo dicto che de. fia dyametro de questa colonna. Adonca la spera e lo cerchio deli quali el dyametro e la linea de. fia necessario che habino vn medesimo centro con lo centro dela proposta colonna. Sia adonca che la linea de. diuida la linea ab. nel ponto g. e sira g. centro dela colonna. Pero chel diuide laxe dela colonna per equali e ancora el diametro dela colonna per equali che se proua per la 26. del primo, per che li angoli che sonno al g. sonno equali per la i5. del primo. Eli angoli che sonno al a. e al b. sonno recti perla ypothesi. Eia linea ad. fia ancora equale ala linea bc. Ondedg. fia equale al eg. E cosi ag equali al gb. E conciosia che li angoli e. e f. sonno recti se sopra al ponto g. secondo el spacio dge. ancora sopra la linea de. se facia vn cerchio epso passara per la conuersa dela prima parte dela trigesima del terzo per li ponti e. e f. Onde el ponto g. fia centro del cerchio del quale el dyametro e dyametro dela colonna. E pero ancora e dela spera. E per questo se manifesto' che a ogni paralelogrammo rectangolo el cerchio: e a ogni colonna la spera se pò circumscriuere. E cosi fia chiaro quello che ha voluto proponere a noi questo theorema del nostro philosopho in dieta diffinitione dela colonna rotonda Dela quale fin qua sia sufficiente e sequendo diremo dele laterate commo fo promesso.
+
+Cap. LIX: Dele colonne laterate e prima dele trilatere.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+XLVI. XLVII. Vnaltra specie ouer sorte de colonne sonno dette laterate dele quali la prima e triangula dela quale le sue basi cioè suprema e inferiore: sonno doi trianguli equidistanti tra loro secondo laltezza dela colonna commo la qui figurata. Dela quale la basa suprema fia el triangulo abc. eia inferiore el triangulo def. E questa sirail figura dici el nostro auctore esser dieta corpo seratile e fia simile al colmo de vn tecto de vna casa che habia 4 facce ouer pareti che solo da doi canti el suo tecto pioua: commo lochio demonstra e possano essere le basi equilatere e non equilatere. E de simil colonne le 3 face sonno sempre paralelogramme cioè de 4 lati e rectangole: si che dicto corpo seratile fìa contenuto da 5 superficie dele quali 3 sonno quadrangule eie doi sonno
+
+Cap. LX: Dele colonne laterate quadrilatere.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+XLllI. XLVI. Dele laterate la seconda sorte sonno quadrilatere e sonno quelle che hano le doi basi aniodo dicto quadrangule e quatro altre superficie che la circundano sonno pur quadrilatere equidistanti fra loro secondo loro oppositione. e queste similmente sonno ale volte equilatere aleuolte inequilatere secondo la dispositione dele lor basi, peroche dele figure piane quadrilatere rectilinee sasegnano 4 sorti: luna detta quadrato, e fia quella che li lati tutti ha equali, e li angoli recti commo qui dacanto la figura. A.') Laltra detta tetragon longo e fia quella che ha li lati oppositi equali e li angoli sinielmente recti: ma e più longa che larga, commo qui dacanto la figura B.

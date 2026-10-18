@@ -11,7 +11,19 @@
         1515
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 46 (Folio 0277): XLHII \u25a0ZS-UgofJLU? \u20223rAEV\u00a7GJ\u00bbVH? T\u00a7iy SJVOi; K.EFH"
+      "caption": "Plate XLIIII: Pyramis Laterata Triangula Vacua (Πυραμὶς πλευρώδης τρίγωνος κενή) — Hollow Triangular Pyramid",
+      "type": "plate",
+      "plate_number": 44,
+      "plate_roman": "XLIIII",
+      "title_la": "Pyramis Laterata Triangula Vacua",
+      "title_gr": "Πυραμὶς πλευρώδης τρίγωνος κενή",
+      "title_en": "Hollow Triangular Pyramid"
     }
-  ]
+  ],
+  "page_num": 277,
+  "side": "recto",
+  "original_folio": "Plate Folio 0277 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XLIIII — Pyramis Laterata Triangula Vacua (Hollow Triangular Pyramid)"
 }

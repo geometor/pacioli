@@ -1,0 +1,29 @@
+:folio: 0017
+:page_num: 17
+:side: recto
+:original_folio: f. 1r
+:book: Part I: Compendio de Divina Proportione
+:chapters: compendio/cap_01 (Cap. I)
+:graphics: 0017.g1.png, 0017.c1.png
+
+Folio 0017 (f. 1r) — Cap. I (f. 1r) — Excellentissimo principi Ludouico mariae Sforza Angla M
+=============================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0017.g1.png
+
+   **g1 (diagram)**: Folio 0017 Diagram 1
+
+.. picture:: 0017.c1.png
+
+   **c1 (initial)**: Folio 0017 Initial Cap 1
+
+Testo Italiano (Paganini 1509 / Winterberg 1889)
+------------------------------------------------
+
+Cap. I: Excellentissimo principi Ludouico mariae Sforza Angla Mediolanensium duci: pacis et belli ornamento fratris Lucae pacioli ex Burgo sancti Sepulchri ordinis Minorum: Sacrae theo- logiae professoris. De diuina proportione epistola.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Correndo glianni de nostra salute excelso Duca 1498 a di 9 de Febrario. Essendo nellinspugnabil arce delinclita vostra cita de milano dignissimo luogo de sua solita residentia ala presentia di quella constituto in lo laudabile e scientifico duella da molti de ogni grado celeberrimi sapientissimi aeompagnata si religiosi commo seculari: deli quali assidue la sua magnifica corte habunda. Del cui numero oltra le reuerendissime signorie de Vescoui Protonotarii e abbati fuoron del nostro sacro seraphica ordine el reuerendo padre e sublime theologo Maestro Gometio dignissimo della sacra scriptura precone frate Domenico per cognomento ponzone: el reuerendissimo Padre Maestro Francesco busti. Al presente nel degno conuento nostro de Milano regente deputato. E de seculari prima el mio peculiar patrone Illustre Signore Galeazzo Sforza VI. San Seuerino fortissimo e generale de vostra Ducal celsitudine capitano nellarmi ogi a niun secondo e de nostri discipline solerlo imitatore. E de clarissime potentie egregii oratori: e dela medicina e astronomia supremi el clarissimo e acutissimo de Serapione e Auicenna e de li corpi superiori indagatore e de le cose future interprete Ambrogio rosa el doctissimo de tutti mali curatore Aluisi Marliano e solertissimo dela medicina in ogni parte obseruatore Gabriel pirouano. E dali prefati molto in tutti premesse admirato e venerato Nicolo Cusano col peritissimo de medesime professioni Andrea nouarese. E altri exiraii consultissimì vtriusque iuris doctori e de vostro ornatissimo magistrato conseglieri secretarii e cancelieri in compagnia deli perspicacissimi architecti e ingegnieri e di cose none assidui inuentori Leonardo da venci nostro compatriota Fiorentino qual de scultura getto e pictura con ciascuno al cognome verifica. Commo ladmiranda e stupenda equestre statua. La cui altezza dala cerulee a piana terra sonno braccia 1 2 cioè Sy^/j tanti dela qui presente linea ab. e tutta la sua ennea massa alire circa 200000 ascende che di ciascuna loncia communa fia el duodecimo ala felicissima inuicta vostra paterna memoria dicata da linuidia di quelle defidia e Prasitele in monte cauallo altutto aliena. CoUigiadro de lardante desiderio de nostra salute simulacro nel degno e denoto luogo de corporale e spirituale refectione del sacro tempio dele gratie de sua mano penolegiato. Al quale oggi de Apelle Mirone Policreto e glialtri conuiene che cedino chiaro el rendano. E non de queste satio alopera inextimabile del moto locale dele percussioni e pesi e dele forze tutte cioè pesi accidentali (hauendo già con tutta diligentia al degno libro de pictura e mouimenti humani posto fine) quella con ogni studio al debito fine attende de condure. E suo quarto fratello lacomo Andrea da Ferara de lopere de Victruuio acuratissimo sectatore. Non pero dela singulare industria militare in alcuna cosa diminuto. Quella con suoi auree e melliflue paroUe disse essere de grandissima commendatione degno apresso dio el mondo colui che dalcuna virtù dotato volentieri aglialtri la comunica. Diche nel proximo carità e a lui laude e honore ne resulta imittando el sacro dicto: quod ne sine figmento didici et sine inuidia libenter communico. Dele quali suauissime parolle se fermo nella mente el senso apresi che mai più saldo in marmo non se scripse. E benché prima quasi da natura innato mi fosse el simile con ciascuno vsitare maxime de quelle faculta dellequali fra glialtri alaltissimo per sua immensa benignità piacque doctarme cioè dele necessarie scientie e dignissime discipline matheraatici.

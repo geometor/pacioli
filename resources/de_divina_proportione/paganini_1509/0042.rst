@@ -1,0 +1,48 @@
+:folio: 0042
+:page_num: 42
+:side: verso
+:original_folio: f. 13v
+:book: Part I: Compendio de Divina Proportione
+:chapters: compendio/cap_38 (Cap. XXXVIII), compendio/cap_39 (Cap. XXXIX), compendio/cap_40 (Cap. XL), compendio/cap_41 (Cap. XLI), compendio/cap_42 (Cap. XLII), compendio/cap_43 (Cap. XLIII), compendio/cap_44 (Cap. XLIV)
+:graphics: None
+
+Folio 0042 (f. 13v) — Cap. XXXVIII, Cap. XXXIX, Cap. XL, Cap. XLI, Cap. XLII, Cap. XLIII, Cap. XLIV (f. 13v) — Dela inscriptione del tetracedron in loctocedron.
+================================================================================================================================================================
+
+Testo Italiano (Paganini 1509 / Winterberg 1889)
+------------------------------------------------
+
+Cap. XXXVIII: Dela inscriptione del tetracedron in loctocedron.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Farai in quello el cubo comme disopra e nel cubo el 4 base comme dicto e fìa facto.
+
+Cap. XXXIX: Dela formatione del duodecedron nello ycocedron.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Lo ycocedron commo se detto ha 1 2 anguli solidi cadauno contenuto da 5 anguli superficiali de li 5 suoi trianguli. Epero auolere in epso far el duodecedron conuinse prima secondo hauemo in questo insegnato fare dicto ycocedron e quando cosi debitamente sia disposto de cadauna sua basa trianguläre se troui el centro per la 5. del 4. e quelli poi continuaremo per 3o linee recte tutti fraloro in modo che si formano de necessita 1 2 pentagoni ognuno opposito a vnangulo solido del dicto ycocedron. E ognuno deli lati de dicti pentagoni fia opposito in croci a cadauno deli lali de dicto ycocedron. E si commo nel dicto ycocedron sonno 1 2 anguli solidi cosi nel duodecedron sonno 12 pentagoni. E si comme in epso sonno 20 basi triangule cosi in dicto duodecedron sonno 20 anguli solidi causati in diete basi medianti diete linee. E si comme in epso sonno 3o lati cosi in lo duodecedron sonno 3o lati a quelli oppositi in croci commo e dicto che tutto la forma loro materiale manifesta commo anco la 6. del i5. conclude.
+
+Cap. XL: Della collocatione delo ycocedron nel duodecedron.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Quando se vorrà nel duodecedron lo ycocedron formare prima quello fabricaremo secondo el documento sopra in questo dato. E de li suoi 1 2 pentagoni che lo contengano el centro troueremo dopo insegna la 14. del 4. E quelli fraloro con 3o linee congiogneremo in modo che in epso se causaranno 20 trianguli e 12 anguli solidi ognuno contenuto da 5 anguli superficiali de dicti trianguli. Deli quali le lor puncte siranno neli 12 centri deli suoi 12 pentagoni. E similmente queste suoi 3o linee se oppongano in croci ale 3o del duodecedron si commo quelle a queste fo detto e anco per la 7. del dicto i 5. apare.
+
+Cap. XLI: Dela situatione del cubo in lo duodecedron.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+El cubo ancora faremo in dicto duodecedron facilmente ateso che lui si formi in suli 12 lati del cubo commo in la 17. del i3. se contene. Peroche se acadauno deli suoi 12 pentagoni dopo laexigentia del dicto se tiri 12 corde senza dubio se formeranno 6 superfìcie quadrangule equilatere e cadauna de quelli siranno oppositi doi anguli solidi de dicto duodecedron e in 8 suoi siranno formati 8 del cubo inscripto in modo che in su ciascuna basa del cubo vene aremanere la forma quasi del corpo seratile cho tutto fia chiaro per la 8 del i 5.
+
+Cap. XLII: Del octocedron nel duodecedron commo se formi.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Se nel duodecedron prima el cubo se disponga commo in la precedente se dicto facilmente in lo dicto duodecedron si formara loctocedron. Peroche noi diuideremo li 6 lati opositi del duodecedron ale 6 superficie del cubo per equali cioè queUi lati che quasi fanno colmo al seratile quali aponto sonno 6. E quelli lor 6 ponti medii continuaremo per 12 linee recte tutti fraloro in modo che viranno acausare 6 anguli solidi contenuto ciascuno da 4 anguli superficiali deli 4 trianguli de loctocedron. E cadauno tocca vno deli dicti 6 lati del duodecedron e per consequente se manifesta essere el quesito concluso si commo in la 9. del 1 5 secontene.
+
+Cap. XLIII: Dela inclusione del tetracedron in dicto duodecedron.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+El tetracedron ancora nel medesimo duodecedron se collocara se prima in lui se formi el cubo commo se dicto e poi nel dicto cubo se collochi el tetracedron commo ancora se mostro. Le quali cose facto che sienno chiaro apparerà essere el nostro proposito concluso in questo modo cioè. Conciosia che li anguli solidi del cubo se posino nelli anguli solidi del duodecedron. E li anguH solidi del tetracedron si fermino in quelH del cubo sequita el dicto tetracedron debitamente al proposto duodecedron essere incluso che la nostro experientia in li materiali per noi composti e alemani de v. celsitudine oblati el fa manifesto conia scientifica demostratione dela io. del dicto i5.
+
+Cap. XLIV: Dela fabrica del cubo in lo ycocedron.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Formase el cubo nello ycocedron se prima in quello se faccia el duodecedron commo dinanze dicemmo e poi in epso duodecedron se facci el cubo al modo dato. Le quali cose facto aparera lo intento essere expedito per le cose de nanze dette. Pero che li anguli solidi del duodecedron tutti Cagiano nel centro dele basi delo ycocedron. E li anguli solidi del cubo Cagiano in li dicti solidi del duodecedron e per consequente lo intento fia expedicto. che anco dala ii. del i5 cifia dechiarato.

@@ -1,17 +1,25 @@
 {
   "folio": "0063",
-  "graphics": [
+  "side": "recto",
+  "section": "Part II: Tractato de l'Architectura",
+  "header": "-PRIMA- ^-",
+  "graphics": [],
+  "page_num": 63,
+  "original_folio": "f. 24r",
+  "section_id": "architectura",
+  "title": "Prohemio (Architectura) (f. 24r) — Ali suoi carissimi discipuli e alieui Cesaro dal saxo. ",
+  "chapters": [
     {
-      "id": "g1",
-      "file": "0063.g1.png",
-      "bbox": [
-        303,
-        21,
-        108,
-        52
-      ],
-      "white_point": 226,
-      "caption": "Folio 0063 Figure 1"
+      "book": 2,
+      "part": "architectura",
+      "chapter": 0,
+      "roman": "Prohemio",
+      "slug": "dedication",
+      "title_it": "Ali suoi carissimi discipuli e alieui Cesaro dal saxo. Cera del cera. Rainer Francesco de pippo. Bernardino e Marsilio da monte e Hieronymo del jecciarino e compagni de Borgo San Sepulchro degni lapicidi de scultura, e architectonica faculta solertissimi sectatori. Frate Luca paciuolo suo conteraneo ordinis Minorum et sacrae theologie professor. Si Placet Deo.",
+      "title_de": "Seinen theuersten Schülern und Zöglingen Cäsar dal Saxo, Gera del cera, Rainer Francesco de pippo, Bernardio und Mar- silio da monte und Hieronvmo de Jecciarino und Genossen von Borgo S. Sepulchro, würdigen Steinmetzen und emsigsten Ver- folgern des Sculptur- und architektonischen Faches, Fra Luca Paciuolo ihr Landsmann vom Orden der Minoriten und Pro- fessor der heiligen Theologie. So Gott will.",
+      "winterberg_it": "winterberg/02_architectura_italian/001_dedication.txt",
+      "winterberg_de": "winterberg/04_architectura_german/001_dedication.txt",
+      "starts_on_folio": false
     }
   ]
 }

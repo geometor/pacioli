@@ -11,7 +11,19 @@
         923
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 13 (Folio 0211): XJIJ \u00ab\u2022S-OTtTjUHjUtVOI/ \u00c9-Bn^/UffO? eTi^ldV"
+      "caption": "Plate XIII: Exahedron Abscisum Elevatum Solidum (Ἑξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν) — Solid Elevated Truncated Hexahedron",
+      "type": "plate",
+      "plate_number": 13,
+      "plate_roman": "XIII",
+      "title_la": "Exahedron Abscisum Elevatum Solidum",
+      "title_gr": "Ἑξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν",
+      "title_en": "Solid Elevated Truncated Hexahedron"
     }
-  ]
+  ],
+  "page_num": 211,
+  "side": "recto",
+  "original_folio": "Plate Folio 0211 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XIII — Exahedron Abscisum Elevatum Solidum (Solid Elevated Truncated Hexahedron)"
 }

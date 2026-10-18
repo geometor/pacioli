@@ -1,29 +1,78 @@
 {
   "folio": "0031",
-  "graphics": [
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PARS",
+  "chapters": [
     {
-      "id": "g1",
-      "file": "0031.g1.png",
-      "bbox": [
-        578,
-        127,
-        46,
-        65
-      ],
-      "white_point": 226,
-      "caption": "Folio 0031 Figure 1"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 23,
+      "roman": "XXIII",
+      "slug": "cap_23",
+      "title_it": "Cüp. XXIII.",
+      "title_de": "Wie aus Ehrfurcht vor unserem Heile die genannten Wirkungen endigen.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/023_cap_XXIII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/023_cap_XXIII.txt",
+      "starts_on_folio": false
     },
     {
-      "id": "g2",
-      "file": "0031.g2.png",
+      "book": 1,
+      "part": "compendio",
+      "chapter": 24,
+      "roman": "XXIV",
+      "slug": "cap_24",
+      "title_it": "Commo li dicti effecti concorrino ala compositione de tutti li corpi regulari e loro dependenti.",
+      "title_de": "Wie die genannten Wirkungen zur Zusammensetzung aller regelmässigen Körper und der von ihnen abhängigen beitragen.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/024_cap_XXIV.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/024_cap_XXIV.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 25,
+      "roman": "XXV",
+      "slug": "cap_25",
+      "title_it": "Commo non possino essere più. 5. corpi regulari.",
+      "title_de": "Warum es nicht mehr als fünf regelmässige Körper geben kann.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/025_cap_XXV.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/025_cap_XXV.txt",
+      "starts_on_folio": true
+    }
+  ],
+  "graphics": [
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0031.c1.png",
       "bbox": [
-        578,
-        538,
-        57,
-        67
+        65,
+        294,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0031 Figure 2"
+      "caption": "Folio 0031 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0031.c2.png",
+      "bbox": [
+        65,
+        781,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0031 Initial Cap 2"
     }
-  ]
+  ],
+  "page_num": 31,
+  "original_folio": "f. 8r",
+  "section_id": "compendio",
+  "title": "Cap. XXIII, Cap. XXIV, Cap. XXV (f. 8r) — Cüp. XXIII."
 }

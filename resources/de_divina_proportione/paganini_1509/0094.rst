@@ -1,0 +1,42 @@
+:folio: 0094
+:page_num: 94
+:side: verso
+:original_folio: Libellus f. 5v
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0094.g1.png, 0094.g2.png, 0094.g3.png, 0094.c1.png, 0094.c2.png, 0094.c3.png
+
+Folio 0094 (Libellus f. 5v) — Libellus — Tractatus Primus (Libellus f. 5v)
+==========================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0094.g1.png
+
+   **g1 (diagram)**: Folio 0094 Diagram 1
+
+.. picture:: 0094.g2.png
+
+   **g2 (diagram)**: Folio 0094 Diagram 2
+
+.. picture:: 0094.g3.png
+
+   **g3 (diagram)**: Folio 0094 Diagram 3
+
+.. picture:: 0094.c1.png
+
+   **c1 (initial)**: Folio 0094 Initial Cap 1
+
+.. picture:: 0094.c2.png
+
+   **c2 (initial)**: Folio 0094 Initial Cap 2
+
+.. picture:: 0094.c3.png
+
+   **c3 (initial)**: Folio 0094 Initial Cap 3
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Primus (Libellus f. 5v)**: Casi geometrici e algebrici (*Casus*) de' lati, cateti, diagonali e superficie dele base triangulari, quadrate e pentagonali.

@@ -11,7 +11,19 @@
         1327
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 33 (Folio 0251): ^o^eKfli\u00c9^or ivn^iAtii\u00e0v &s-tt>ut ?"
+      "caption": "Plate XXXI: Dodecahedron Elevatum Solidum (Δωδεκάεδρον ἐπηρμένον στερεόν) — Solid Elevated Dodecahedron",
+      "type": "plate",
+      "plate_number": 31,
+      "plate_roman": "XXXI",
+      "title_la": "Dodecahedron Elevatum Solidum",
+      "title_gr": "Δωδεκάεδρον ἐπηρμένον στερεόν",
+      "title_en": "Solid Elevated Dodecahedron"
     }
-  ]
+  ],
+  "page_num": 251,
+  "side": "recto",
+  "original_folio": "Plate Folio 0251 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XXXI — Dodecahedron Elevatum Solidum (Solid Elevated Dodecahedron)"
 }

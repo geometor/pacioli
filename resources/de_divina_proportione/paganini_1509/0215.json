@@ -11,7 +11,14 @@
         1130
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 15 (Folio 0215): \u25a0^n^>Ttft,>mij,i,l|inr,AWf<. Lianticbi aqjfo dicano Acrotberio Li mo.Regolo de la cornice"
+      "caption": "Epistilio (Architrave), Zophoro (Fregio) e Cornicione",
+      "type": "plate"
     }
-  ]
+  ],
+  "page_num": 215,
+  "side": "recto",
+  "original_folio": "Plate Folio 0215 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Architectural Plate — Epistilio (Architrave), Zophoro (Fregio) e Cornicione"
 }

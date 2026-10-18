@@ -1,0 +1,164 @@
+:folio: 0011
+:page_num: 11
+:side: recto
+:original_folio: A4r
+:book: Front Matter and Dedications
+:chapters: None
+:graphics: 0011.g1.png, 0011.g2.png, 0011.g3.png, 0011.g4.png, 0011.c1.png
+
+Folio 0011 (A4r) — Tabula — Table of Contents (A4r)
+===================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0011.g1.png
+
+   **g1 (diagram)**: Folio 0011 Diagram 1
+
+.. picture:: 0011.g2.png
+
+   **g2 (marginalia)**: Folio 0011 Marginalia 2
+
+.. picture:: 0011.g3.png
+
+   **g3 (diagram)**: Folio 0011 Diagram 3
+
+.. picture:: 0011.g4.png
+
+   **g4 (diagram)**: Folio 0011 Diagram 4
+
+.. picture:: 0011.c1.png
+
+   **c1 (initial)**: Folio 0011 Initial Cap 1
+
+Testo Originale (Paganini 1509)
+-------------------------------
+
+49- Columna laterata pentha-
+
+gona solida
+
+5o.
+
+Columna laterata pentha-
+
+gona vacua
+
+5i.
+
+Pyramis laterata penthagona
+
+solida
+
+5 2.
+
+Pyramis laterata penthagona
+
+vacua
+
+53.
+
+Columna laterata exagona
+
+solida
+
+54.
+
+Columna laterata exagona
+
+vacua
+
+55.
+
+Pyramis laterata triangula
+
+inaequilatera solida
+
+56.
+
+Pyramis laterata triangula
+
+inaequilatera vacua
+
+57.
+
+Columna rotunda solida
+
+58.
+
+Pyramis rotunda solida
+
+59.
+
+Spera solida
+
+60.
+
+Pyramis laterata exagona
+
+solida
+
+61.
+
+Pyramis laterata exagona
+
+vacua
+
+xicov TtlsvQcaörjg nsvraycovos
+
+GXEQEOg
+
+Tcicjv 7t?.svQC0Öi]g nsvtavcovos
+
+xsvog
+
+TivQafitg jilEVQOöijg TCSvTayovog
+
+ötSQsa
+
+TCVQauig nlEVQCoörig Ttsvtaycovog
+
+zicov TilsvQoòrig s^aycovog 6X8-
+
+Qeog
+
+xicov TtlsvQcod'Yig sè,aycovog Ksvog
+
+TtvQafiig TtlsvQCodrig XQiycovog
+
+aviGoTiXsvQog öxsqsu
+
+TtvQaiiig 7t7^8VQcodi]g XQiycovog
+
+KViffOTtlsVQOg 'KSVi]
+
+%ic3v GXQoyyvlog GxsQeog
+
+TtvQaixig öxQoyyvh] GxsQsa
+
+6(pSQia 6XSQSCC
+
+TtvQa^ig nlsvQcodrig s^aycjvog
+
+6XSQSCÌ
+
+7inQcc{.ug 7t?^svQcodrjg s^ayavog
+
+Lettore le sequenti parole porrai formaliter nel Cap.
+
+L Al fin
+
+della colonna doue dici absciso fo detto non e sequitano queste:
+
+possibile che causino angulo solido e formase dal precedente
+
+nella terza parte de ciascun suo lato uniforme tagliato etc.
+
+XIX, XX.
+
+Loctocedron eleuato solido etc.
+
+Poi sequita el
+
+principio della sequente colonna videlicet solido ouer vacuo fo

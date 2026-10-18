@@ -1,0 +1,34 @@
+:folio: 0126
+:page_num: 126
+:side: verso
+:original_folio: Libellus f. 21v
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0126.g1.png, 0126.g2.png, 0126.c1.png, 0126.c2.png
+
+Folio 0126 (Libellus f. 21v) — Libellus — Tractatus Tertius (Libellus f. 21v)
+=============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0126.g1.png
+
+   **g1 (diagram)**: Folio 0126 Diagram 1
+
+.. picture:: 0126.g2.png
+
+   **g2 (diagram)**: Folio 0126 Diagram 2
+
+.. picture:: 0126.c1.png
+
+   **c1 (initial)**: Folio 0126 Initial Cap 1
+
+.. picture:: 0126.c2.png
+
+   **c2 (initial)**: Folio 0126 Initial Cap 2
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Tertius (Libellus f. 21v)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela spera.

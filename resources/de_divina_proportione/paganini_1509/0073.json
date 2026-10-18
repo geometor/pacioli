@@ -1,29 +1,40 @@
 {
   "folio": "0073",
+  "side": "recto",
+  "section": "Part II: Tractato de l'Architectura",
+  "header": "-PRIMA- 3",
+  "chapters": [
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 7,
+      "roman": "VII",
+      "slug": "cap_07",
+      "title_it": "In quello sienno differenti le tre spetie de diete colonne fra loro.",
+      "title_de": "Worin sich die drei Arten besagter Säulen von einander unter- scheiden.",
+      "winterberg_it": "winterberg/02_architectura_italian/007_cap_VII.txt",
+      "winterberg_de": "winterberg/04_architectura_german/007_cap_VII.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
-      "id": "g1",
-      "file": "0073.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0073.c1.png",
       "bbox": [
-        578,
-        158,
-        40,
-        80
+        46,
+        98,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0073 Figure 1"
-    },
-    {
-      "id": "g2",
-      "file": "0073.g2.png",
-      "bbox": [
-        578,
-        805,
-        38,
-        100
-      ],
-      "white_point": 226,
-      "caption": "Folio 0073 Figure 2"
+      "caption": "Folio 0073 Initial Cap 1"
     }
-  ]
+  ],
+  "page_num": 73,
+  "original_folio": "f. 29r",
+  "section_id": "architectura",
+  "title": "Cap. VII (f. 29r) — In quello sienno differenti le tre spetie de diete colo"
 }

@@ -1,0 +1,23 @@
+:folio: 0303
+:page_num: 303
+:side: recto
+:original_folio: Plate Folio 0303 (recto)
+:book: Appendix II: Polyhedra Plates by Leonardo da Vinci
+:chapters: None
+:graphics: 0303.g1.png
+
+Folio 0303 (Plate Folio 0303 (recto)) — Plate LVI — Pyramis Laterata Triangula Inaequilatera Vacua (Hollow Scalene Triangular Pyramid)
+======================================================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0303.g1.png
+
+   **g1 (plate)**: Plate LVI: Pyramis Laterata Triangula Inaequilatera Vacua (Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος κενή) — Hollow Scalene Triangular Pyramid
+
+Tabula LVI (No. 56)
+-------------------
+
+- **Titulus Latinus**: *Pyramis Laterata Triangula Inaequilatera Vacua*
+- **Titulus Graecus**: Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος κενή

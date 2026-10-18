@@ -11,7 +11,19 @@
         1211
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 37 (Folio 0259): XXXV tlKWil<Xlfr$M ZHTSiS'M OTi^lOV"
+      "caption": "Plate XXXV: Vigintisex Basium Planum Solidum (Εἰκοσιεξάεδρον ἐπίπεδον στερεόν) — Solid 26-Base Body (Rhombicuboctahedron)",
+      "type": "plate",
+      "plate_number": 35,
+      "plate_roman": "XXXV",
+      "title_la": "Vigintisex Basium Planum Solidum",
+      "title_gr": "Εἰκοσιεξάεδρον ἐπίπεδον στερεόν",
+      "title_en": "Solid 26-Base Body (Rhombicuboctahedron)"
     }
-  ]
+  ],
+  "page_num": 259,
+  "side": "recto",
+  "original_folio": "Plate Folio 0259 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XXXV — Vigintisex Basium Planum Solidum (Solid 26-Base Body (Rhombicuboctahedron))"
 }

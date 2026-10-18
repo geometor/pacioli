@@ -1,0 +1,22 @@
+:folio: 0145
+:page_num: 145
+:side: recto
+:original_folio: Plate Folio 0145 (recto)
+:book: Appendix I: The Roman Geometric Alphabet
+:chapters: None
+:graphics: 0145.g1.png
+
+Folio 0145 (Plate Folio 0145 (recto)) — Roman Geometric Alphabet — Lettera D
+============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0145.g1.png
+
+   **g1 (plate)**: Roman Geometric Alphabet — Lettera D
+
+Testo Originale (Paganini 1509)
+-------------------------------
+
+Questa letera D se cava del tondo e del quadro. La gamba derita vol esser de dentro le crosere grossa de nove parti luna; el corpo se ingrossa commo deli altri tondi. La apicatura desopra vol esser grossa el terzo de la gamba grossa et quella desotto el quarto over terzo.

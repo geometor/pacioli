@@ -11,7 +11,19 @@
         1414
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 26 (Folio 0237): XXTIII \u00ablk\u00f3?*6(^\u00a7W \u00ab,S,OT6TjUHJueyOf X.\u00a3M"
+      "caption": "Plate XXIIII: Icosahedron Abscisum Vacuum (Εἰκοσάεδρον ἀποτετμημένον κενόν) — Hollow Truncated Icosahedron",
+      "type": "plate",
+      "plate_number": 24,
+      "plate_roman": "XXIIII",
+      "title_la": "Icosahedron Abscisum Vacuum",
+      "title_gr": "Εἰκοσάεδρον ἀποτετμημένον κενόν",
+      "title_en": "Hollow Truncated Icosahedron"
     }
-  ]
+  ],
+  "page_num": 237,
+  "side": "recto",
+  "original_folio": "Plate Folio 0237 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XXIIII — Icosahedron Abscisum Vacuum (Hollow Truncated Icosahedron)"
 }

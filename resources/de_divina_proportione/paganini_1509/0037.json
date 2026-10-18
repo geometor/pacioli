@@ -1,17 +1,25 @@
 {
   "folio": "0037",
-  "graphics": [
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PRIMA",
+  "graphics": [],
+  "page_num": 37,
+  "original_folio": "f. 11r",
+  "section_id": "compendio",
+  "title": "Cap. XXX (f. 11r) — Saper fare el corpo de 12 basi pentagonali equilatere e",
+  "chapters": [
     {
-      "id": "g1",
-      "file": "0037.g1.png",
-      "bbox": [
-        583,
-        101,
-        39,
-        64
-      ],
-      "white_point": 226,
-      "caption": "Folio 0037 Figure 1"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 30,
+      "roman": "XXX",
+      "slug": "cap_30",
+      "title_it": "Saper fare el corpo de 12 basi pentagonali equilatere e equian- gule che de ponto la spera proposto lo circondi.",
+      "title_de": "Den Körper aus zwölf gleichseitigen und gleichwinkligen Fünf- ecken herstellen zu können, so dass die angenommene Kugel ihn genau einschliesse.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/030_cap_XXX.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/030_cap_XXX.txt",
+      "starts_on_folio": false
     }
   ]
 }

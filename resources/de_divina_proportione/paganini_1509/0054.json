@@ -1,29 +1,164 @@
 {
   "folio": "0054",
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PARS",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 62,
+      "roman": "LXII",
+      "slug": "cap_62",
+      "title_it": "Del modo a mesurare tutte sorte colonne e prima dele rotonde.",
+      "title_de": "Von der Art, alle Sorten Säulen auszumessen, und zwar zuerst von den runden.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/062_cap_LXII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/062_cap_LXII.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 63,
+      "roman": "LXIII",
+      "slug": "cap_63",
+      "title_it": "Del modo a saper mesurare tutte le co- lonne laterate.",
+      "title_de": "Von dem Verfahren, alle kantigen Säulen ausmessen zu können.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/063_cap_LXIII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/063_cap_LXIII.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0054.g1.png",
       "bbox": [
-        59,
-        78,
-        400,
-        478
+        97,
+        76,
+        216,
+        213
       ],
       "white_point": 226,
-      "caption": "Folio 0054 Figure 1"
+      "caption": "Folio 0054 Diagram 1",
+      "margin": "left"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0054.g2.png",
       "bbox": [
-        54,
-        577,
-        405,
-        696
+        76,
+        298,
+        270,
+        124
       ],
       "white_point": 226,
-      "caption": "Folio 0054 Figure 2"
+      "caption": "Folio 0054 Diagram 2",
+      "margin": "left"
+    },
+    {
+      "id": "g3",
+      "type": "diagram",
+      "file": "0054.g3.png",
+      "bbox": [
+        57,
+        432,
+        336,
+        126
+      ],
+      "white_point": 226,
+      "caption": "Folio 0054 Diagram 3",
+      "margin": "left"
+    },
+    {
+      "id": "g4",
+      "type": "diagram",
+      "file": "0054.g4.png",
+      "bbox": [
+        70,
+        575,
+        299,
+        130
+      ],
+      "white_point": 226,
+      "caption": "Folio 0054 Diagram 4",
+      "margin": "left"
+    },
+    {
+      "id": "g5",
+      "type": "diagram",
+      "file": "0054.g5.png",
+      "bbox": [
+        71,
+        712,
+        321,
+        122
+      ],
+      "white_point": 226,
+      "caption": "Folio 0054 Diagram 5",
+      "margin": "left"
+    },
+    {
+      "id": "g6",
+      "type": "diagram",
+      "file": "0054.g6.png",
+      "bbox": [
+        61,
+        827,
+        337,
+        178
+      ],
+      "white_point": 226,
+      "caption": "Folio 0054 Diagram 6",
+      "margin": "left"
+    },
+    {
+      "id": "g7",
+      "type": "diagram",
+      "file": "0054.g7.png",
+      "bbox": [
+        228,
+        980,
+        130,
+        324
+      ],
+      "white_point": 226,
+      "caption": "Folio 0054 Diagram 7",
+      "margin": "left"
+    },
+    {
+      "id": "g8",
+      "type": "diagram",
+      "file": "0054.g8.png",
+      "bbox": [
+        52,
+        982,
+        149,
+        342
+      ],
+      "white_point": 226,
+      "caption": "Folio 0054 Diagram 8",
+      "margin": "left"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0054.c1.png",
+      "bbox": [
+        406,
+        762,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0054 Initial Cap 1"
     }
-  ]
+  ],
+  "page_num": 54,
+  "original_folio": "f. 19v",
+  "section_id": "compendio",
+  "title": "Cap. LXII, Cap. LXIII (f. 19v) — Del modo a mesurare tutte sorte colonne e prima dele ro"
 }

@@ -11,7 +11,19 @@
         1515
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 29 (Folio 0243): SO\u00bb ^"
+      "caption": "Plate XXVII: Dodecahedron Planum Solidum (Δωδεκάεδρον ἐπίπεδον στερεόν) — Solid Regular Dodecahedron",
+      "type": "plate",
+      "plate_number": 27,
+      "plate_roman": "XXVII",
+      "title_la": "Dodecahedron Planum Solidum",
+      "title_gr": "Δωδεκάεδρον ἐπίπεδον στερεόν",
+      "title_en": "Solid Regular Dodecahedron"
     }
-  ]
+  ],
+  "page_num": 243,
+  "side": "recto",
+  "original_folio": "Plate Folio 0243 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XXVII — Dodecahedron Planum Solidum (Solid Regular Dodecahedron)"
 }

@@ -1,0 +1,34 @@
+:folio: 0215
+:page_num: 215
+:side: recto
+:original_folio: Plate Folio 0215 (recto)
+:book: Appendix II: Polyhedra Plates by Leonardo da Vinci
+:chapters: None
+:graphics: 0215.g1.png
+
+Folio 0215 (Plate Folio 0215 (recto)) — Architectural Plate — Epistilio (Architrave), Zophoro (Fregio) e Cornicione
+===================================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0215.g1.png
+
+   **g1 (plate)**: Epistilio (Architrave), Zophoro (Fregio) e Cornicione
+
+Testo Originale (Paganini 1509)
+-------------------------------
+
+Tutto el composto dal Zophoro in giù da li Antichi fia detto Epistilio e da li moderni Architrave, e tutto el composto sopra depso li Antichi cornice e moderni cornicione.
+
+- a = Fastigio over Fascia da li Antichi e moderni ut supra;
+- c = Fascia over Fastigio comme de sopra fo detto da cadauno;
+- e = Li antichi a questo dicano Fascia e a le volte Fastigio e cosi li moderni;
+- f = Questo da li antichi fia detto Echino e da li moderni Huovolo;
+- g = A questo li antichi dicano Scothia, li moderni gola de larchitrave;
+- k = Questo cadauno lo dice Cimacio del Fregio e Zophoro;
+- l = Li antichi li dicano Denticeli, li moderni denticelli e Rastro;
+- m = Li antichi li dicano Corona, li moderni la chiamano gociolatoro;
+- o = Li antichi a questo dicano Acrotherio, li moderni Regolo de la cornice.
+
+Quel che qui e posto de Colonna, Architrave e Cornicione solo acenno de lo intero exemplo fia facto perche apieno di loro non si po in breve dirne maxime per la gran varietà de proportioni e proportionalita che in sue debite dispositioni se ricercano. Il che tutto el rende chiaro el sublime volume del nostro degno Anticho Architecto Vitruvio Pollione. Dove ben monito de Arithmetica, Geometria e Quinto del perspicacissimo nostro Platonico e Megarense Phylosopho Euclide. Tal tutto Lectore te remetto senza la cui doctrina non e possibile in agibilibus Prathice e Theorice alcuna cosa bene exercitarse: cum omnia in numero, pondere et mensura disposuerit Altissimus et cetera.

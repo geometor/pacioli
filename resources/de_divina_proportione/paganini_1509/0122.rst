@@ -1,0 +1,22 @@
+:folio: 0122
+:page_num: 122
+:side: verso
+:original_folio: Libellus f. 19v
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0122.c1.png
+
+Folio 0122 (Libellus f. 19v) — Libellus — Tractatus Tertius (Libellus f. 19v)
+=============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0122.c1.png
+
+   **c1 (initial)**: Folio 0122 Initial Cap 1
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Tertius (Libellus f. 19v)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela spera.

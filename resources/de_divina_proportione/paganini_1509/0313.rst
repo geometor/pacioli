@@ -1,0 +1,22 @@
+:folio: 0313
+:page_num: 313
+:side: recto
+:original_folio: End Matter 0313 (recto)
+:book: End Matter and Colophon
+:chapters: None
+:graphics: 0313.g1.png
+
+Folio 0313 (End Matter 0313 (recto)) — Endleaf (0313)
+=====================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0313.g1.png
+
+   **g1 (diagram)**: Leonardo da Vinci Plate 64 (Folio 0313): 3> $ s
+
+Folio Description
+-----------------
+
+Blank leaf / flyleaf (End Matter 0313 (recto)) in the 1509 Venice witness (*Paganinus de Paganinis de Brixia*).

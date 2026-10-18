@@ -11,7 +11,19 @@
         1515
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 53 (Folio 0291): Rica* \u25a0srA\u00a3v\u00a7ca<JvH$ TgtVTotyovtsi; imo? \u2022ti"
+      "caption": "Plate L: Columna Laterata Penthagona Vacua (Κίων πλευρώδης πεντάγωνος κενός) — Hollow Pentagonal Prism",
+      "type": "plate",
+      "plate_number": 50,
+      "plate_roman": "L",
+      "title_la": "Columna Laterata Penthagona Vacua",
+      "title_gr": "Κίων πλευρώδης πεντάγωνος κενός",
+      "title_en": "Hollow Pentagonal Prism"
     }
-  ]
+  ],
+  "page_num": 291,
+  "side": "recto",
+  "original_folio": "Plate Folio 0291 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate L — Columna Laterata Penthagona Vacua (Hollow Pentagonal Prism)"
 }

@@ -1,0 +1,23 @@
+:folio: 0295
+:page_num: 295
+:side: recto
+:original_folio: Plate Folio 0295 (recto)
+:book: Appendix II: Polyhedra Plates by Leonardo da Vinci
+:chapters: None
+:graphics: 0295.g1.png
+
+Folio 0295 (Plate Folio 0295 (recto)) — Plate LII — Pyramis Laterata Penthagona Vacua (Hollow Pentagonal Pyramid)
+=================================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0295.g1.png
+
+   **g1 (plate)**: Plate LII: Pyramis Laterata Penthagona Vacua (Πυραμὶς πλευρώδης πεντάγωνος κενή) — Hollow Pentagonal Pyramid
+
+Tabula LII (No. 52)
+-------------------
+
+- **Titulus Latinus**: *Pyramis Laterata Penthagona Vacua*
+- **Titulus Graecus**: Πυραμὶς πλευρώδης πεντάγωνος κενή

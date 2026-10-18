@@ -1,0 +1,36 @@
+:folio: 0085
+:page_num: 85
+:side: recto
+:original_folio: Libellus f. 1r
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0085.g1.png, 0085.g2.png, 0085.c1.png, 0085.c2.png
+
+Folio 0085 (Libellus f. 1r) — Libellus — Tractatus Primus (Libellus f. 1r)
+==========================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0085.g1.png
+
+   **g1 (diagram)**: Folio 0085 Diagram 1
+
+.. picture:: 0085.g2.png
+
+   **g2 (diagram)**: Folio 0085 Diagram 2
+
+.. picture:: 0085.c1.png
+
+   **c1 (initial)**: Folio 0085 Initial Cap 1
+
+.. picture:: 0085.c2.png
+
+   **c2 (initial)**: Folio 0085 Initial Cap 2
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Incipit**: *Libellus in tres partiales tractatus divisus quinque corporum regularium et dependentium active perscrutationis, B. Petro Soderino principi perpetuo populi Florentini a M. Luca Paciolo Burgense Minoritano particulariter dicatus, feliciter incipit.*
+
+I corpi laterati assai se possono collocare nel corpo sperico, i quali tutti li anguli loro sono contingenti la superficie dela spera. Ma solo sono cinque li regulari, cioè che sono de tutti li lati e tutte le base equali: il primo è il quatro base triangulari; il secondo è il cubo che ha sei face quadrate; il terzo è l'octobase triangulari; il quarto è il dodeci base pentagonali; il quinto si è il vinti base triangulari; de' quali intendo mostrare con numeri e per radici e binomii le quantità e mesure loro. E perchè tali mesure e quantità non se possono avere senza de' lati dele loro base e superficie di quelle, però è necessario cominciare con le base loro... Dele quali cose farò 3 tractatelli: nel primo se dirà de' lati e superficie dele base; nel secondo de' corpi laterati, le superficie e quadrature loro; nel terzo de' detti corpi contenuti l'uno da l'altro e qualche cosa dela spera, se piacerà a Dio.

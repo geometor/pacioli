@@ -11,7 +11,19 @@
         1163
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 17 (Folio 0219): Ok.t\u00ab^\u00a7\u00bbv tr\u00e9ir&tS'M artqav a."
+      "caption": "Plate XV: Octahedron Planum Solidum (Ὀκτάεδρον ἐπίπεδον στερεόν) — Solid Regular Octahedron",
+      "type": "plate",
+      "plate_number": 15,
+      "plate_roman": "XV",
+      "title_la": "Octahedron Planum Solidum",
+      "title_gr": "Ὀκτάεδρον ἐπίπεδον στερεόν",
+      "title_en": "Solid Regular Octahedron"
     }
-  ]
+  ],
+  "page_num": 219,
+  "side": "recto",
+  "original_folio": "Plate Folio 0219 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XV — Octahedron Planum Solidum (Solid Regular Octahedron)"
 }

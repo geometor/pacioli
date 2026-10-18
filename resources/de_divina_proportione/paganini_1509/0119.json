@@ -1,17 +1,82 @@
 {
   "folio": "0119",
+  "side": "recto",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "TERTiVS",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0119.g1.png",
       "bbox": [
-        578,
-        115,
-        368,
-        978
+        638,
+        254,
+        310,
+        360
       ],
       "white_point": 226,
-      "caption": "Folio 0119 Figure 1"
+      "caption": "Folio 0119 Diagram 1",
+      "margin": "right"
+    },
+    {
+      "id": "g2",
+      "type": "diagram",
+      "file": "0119.g2.png",
+      "bbox": [
+        623,
+        744,
+        313,
+        358
+      ],
+      "white_point": 226,
+      "caption": "Folio 0119 Diagram 2",
+      "margin": "right"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0119.c1.png",
+      "bbox": [
+        42,
+        93,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0119 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0119.c2.png",
+      "bbox": [
+        43,
+        399,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0119 Initial Cap 2"
+    },
+    {
+      "id": "c3",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0119.c3.png",
+      "bbox": [
+        32,
+        828,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0119 Initial Cap 3"
     }
-  ]
+  ],
+  "page_num": 119,
+  "original_folio": "Libellus f. 18r",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Tertius (Libellus f. 18r)"
 }

@@ -1,0 +1,22 @@
+:folio: 0181
+:page_num: 181
+:side: recto
+:original_folio: Plate Folio 0181 (recto)
+:book: Appendix I: The Roman Geometric Alphabet
+:chapters: None
+:graphics: 0181.g1.png
+
+Folio 0181 (Plate Folio 0181 (recto)) — Roman Geometric Alphabet — Lettera X
+============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0181.g1.png
+
+   **g1 (plate)**: Roman Geometric Alphabet — Lettera X
+
+Testo Originale (Paganini 1509)
+-------------------------------
+
+Questa lettera X vol tutto el suo quadro incrociando sue gambe nella intersecatione de li diametri. E luna vol esser grossa la nona parte de laltezza. Laltra la mita prese diametraliter terminando sue gambe con debita gratia secondo la forza de li tondi piccoli.

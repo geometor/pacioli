@@ -11,7 +11,19 @@
         1164
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 38 (Folio 0261): eistei;it\u00a3*i<r\u00a7ov ?&nri5'tViLmi XXX7I"
+      "caption": "Plate XXXVI: Vigintisex Basium Planum Vacuum (Εἰκοσιεξάεδρον ἐπίπεδον κενόν) — Hollow 26-Base Body (Rhombicuboctahedron)",
+      "type": "plate",
+      "plate_number": 36,
+      "plate_roman": "XXXVI",
+      "title_la": "Vigintisex Basium Planum Vacuum",
+      "title_gr": "Εἰκοσιεξάεδρον ἐπίπεδον κενόν",
+      "title_en": "Hollow 26-Base Body (Rhombicuboctahedron)"
     }
-  ]
+  ],
+  "page_num": 261,
+  "side": "recto",
+  "original_folio": "Plate Folio 0261 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XXXVI — Vigintisex Basium Planum Vacuum (Hollow 26-Base Body (Rhombicuboctahedron))"
 }

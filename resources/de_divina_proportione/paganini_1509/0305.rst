@@ -1,0 +1,23 @@
+:folio: 0305
+:page_num: 305
+:side: recto
+:original_folio: Plate Folio 0305 (recto)
+:book: Appendix II: Polyhedra Plates by Leonardo da Vinci
+:chapters: None
+:graphics: 0305.g1.png
+
+Folio 0305 (Plate Folio 0305 (recto)) — Plate LVII — Columna Rotunda Solida (Solid Round Column (Cylinder))
+===========================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0305.g1.png
+
+   **g1 (plate)**: Plate LVII: Columna Rotunda Solida (Κίων στρογγύλος στερεός) — Solid Round Column (Cylinder)
+
+Tabula LVII (No. 57)
+--------------------
+
+- **Titulus Latinus**: *Columna Rotunda Solida*
+- **Titulus Graecus**: Κίων στρογγύλος στερεός

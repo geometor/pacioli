@@ -11,7 +11,19 @@
         1494
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 16 (Folio 0217): \u00abTS-OTETjUHjU^OV ttyt^jUEW V.\u00ccV6V XflII"
+      "caption": "Plate XIIII: Exahedron Abscisum Elevatum Vacuum (Ἑξάεδρον ἀποτετμημένον ἐπηρμένον κενόν) — Hollow Elevated Truncated Hexahedron",
+      "type": "plate",
+      "plate_number": 14,
+      "plate_roman": "XIIII",
+      "title_la": "Exahedron Abscisum Elevatum Vacuum",
+      "title_gr": "Ἑξάεδρον ἀποτετμημένον ἐπηρμένον κενόν",
+      "title_en": "Hollow Elevated Truncated Hexahedron"
     }
-  ]
+  ],
+  "page_num": 217,
+  "side": "recto",
+  "original_folio": "Plate Folio 0217 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XIIII — Exahedron Abscisum Elevatum Vacuum (Hollow Elevated Truncated Hexahedron)"
 }

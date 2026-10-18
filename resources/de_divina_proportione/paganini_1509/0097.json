@@ -1,41 +1,96 @@
 {
   "folio": "0097",
+  "side": "recto",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "PRIMVS",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0097.g1.png",
       "bbox": [
-        645,
-        73,
-        277,
-        271
+        634,
+        45,
+        299,
+        327
       ],
       "white_point": 226,
-      "caption": "Folio 0097 Figure 1"
+      "caption": "Folio 0097 Diagram 1",
+      "margin": "right"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0097.g2.png",
       "bbox": [
-        648,
-        491,
-        265,
-        260
+        628,
+        460,
+        302,
+        323
       ],
       "white_point": 226,
-      "caption": "Folio 0097 Figure 2"
+      "caption": "Folio 0097 Diagram 2",
+      "margin": "right"
     },
     {
       "id": "g3",
+      "type": "diagram",
       "file": "0097.g3.png",
       "bbox": [
-        629,
-        856,
-        270,
-        269
+        613,
+        831,
+        301,
+        320
       ],
       "white_point": 226,
-      "caption": "Folio 0097 Figure 3"
+      "caption": "Folio 0097 Diagram 3",
+      "margin": "right"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0097.c1.png",
+      "bbox": [
+        13,
+        361,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0097 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0097.c2.png",
+      "bbox": [
+        9,
+        797,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0097 Initial Cap 2"
+    },
+    {
+      "id": "c3",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0097.c3.png",
+      "bbox": [
+        10,
+        1187,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0097 Initial Cap 3"
     }
-  ]
+  ],
+  "page_num": 97,
+  "original_folio": "Libellus f. 7r",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Primus (Libellus f. 7r)"
 }

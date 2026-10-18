@@ -1,0 +1,50 @@
+:folio: 0095
+:page_num: 95
+:side: recto
+:original_folio: Libellus f. 6r
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0095.g1.png, 0095.g2.png, 0095.g3.png, 0095.g4.png, 0095.c1.png, 0095.c2.png, 0095.c3.png, 0095.c4.png
+
+Folio 0095 (Libellus f. 6r) — Libellus — Tractatus Primus (Libellus f. 6r)
+==========================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0095.g1.png
+
+   **g1 (diagram)**: Folio 0095 Diagram 1
+
+.. picture:: 0095.g2.png
+
+   **g2 (diagram)**: Folio 0095 Diagram 2
+
+.. picture:: 0095.g3.png
+
+   **g3 (diagram)**: Folio 0095 Diagram 3
+
+.. picture:: 0095.g4.png
+
+   **g4 (diagram)**: Folio 0095 Diagram 4
+
+.. picture:: 0095.c1.png
+
+   **c1 (initial)**: Folio 0095 Initial Cap 1
+
+.. picture:: 0095.c2.png
+
+   **c2 (initial)**: Folio 0095 Initial Cap 2
+
+.. picture:: 0095.c3.png
+
+   **c3 (initial)**: Folio 0095 Initial Cap 3
+
+.. picture:: 0095.c4.png
+
+   **c4 (initial)**: Folio 0095 Initial Cap 4
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Primus (Libellus f. 6r)**: Casi geometrici e algebrici (*Casus*) de' lati, cateti, diagonali e superficie dele base triangulari, quadrate e pentagonali.

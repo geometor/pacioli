@@ -11,7 +11,19 @@
         1109
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 2 (Folio 0189): II T\u00c9Tg\u00abe<f>$orE'aW\u00a3cfOK VX.W"
+      "caption": "Plate II: Tetrahedron Planum Vacuum (Τετράεδρον ἐπίπεδον κενόν) — Hollow Regular Tetrahedron",
+      "type": "plate",
+      "plate_number": 2,
+      "plate_roman": "II",
+      "title_la": "Tetrahedron Planum Vacuum",
+      "title_gr": "Τετράεδρον ἐπίπεδον κενόν",
+      "title_en": "Hollow Regular Tetrahedron"
     }
-  ]
+  ],
+  "page_num": 189,
+  "side": "recto",
+  "original_folio": "Plate Folio 0189 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate II — Tetrahedron Planum Vacuum (Hollow Regular Tetrahedron)"
 }

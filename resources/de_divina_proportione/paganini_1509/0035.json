@@ -1,41 +1,54 @@
 {
   "folio": "0035",
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PRIMA",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0035.g1.png",
       "bbox": [
-        578,
-        133,
-        384,
-        172
+        629,
+        137,
+        337,
+        195
       ],
       "white_point": 226,
-      "caption": "Folio 0035 Figure 1"
+      "caption": "Folio 0035 Diagram 1",
+      "margin": "right"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0035.g2.png",
       "bbox": [
-        578,
-        355,
-        42,
-        61
+        617,
+        629,
+        358,
+        442
       ],
       "white_point": 226,
-      "caption": "Folio 0035 Figure 2"
-    },
+      "caption": "Folio 0035 Diagram 2",
+      "margin": "right"
+    }
+  ],
+  "page_num": 35,
+  "original_folio": "f. 10r",
+  "section_id": "compendio",
+  "title": "Cap. XXIX (f. 10r) — De la fabrica e formatione del corpo detto ycocedron.",
+  "chapters": [
     {
-      "id": "g3",
-      "file": "0035.g3.png",
-      "bbox": [
-        578,
-        642,
-        394,
-        466
-      ],
-      "white_point": 226,
-      "caption": "Folio 0035 Figure 3"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 29,
+      "roman": "XXIX",
+      "slug": "cap_29",
+      "title_it": "De la fabrica e formatione del corpo detto ycocedron.",
+      "title_de": "Von der Anfertigung und Bildung des Ikosaeder genannten Körpers.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/029_cap_XXIX.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/029_cap_XXIX.txt",
+      "starts_on_folio": false
     }
   ]
 }

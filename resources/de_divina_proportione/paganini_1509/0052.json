@@ -1,29 +1,92 @@
 {
   "folio": "0052",
+  "side": "verso",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PARS",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 58,
+      "roman": "LVIII",
+      "slug": "cap_58",
+      "title_it": "De li corpi oblunghi cioè più longhi ouer alti che larghi.",
+      "title_de": "Von den oblongen Körpern, d. h. den mehr langen oder hohen als breiten.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/058_cap_LVIII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/058_cap_LVIII.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 59,
+      "roman": "LIX",
+      "slug": "cap_59",
+      "title_it": "Dele colonne laterate e prima dele trilatere.",
+      "title_de": "Von den eckigen, und zwar zuerst von den dreiseitigen Säulen.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/059_cap_LIX.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/059_cap_LIX.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 60,
+      "roman": "LX",
+      "slug": "cap_60",
+      "title_it": "Dele colonne laterate quadrilatere.",
+      "title_de": "Von den vierseitigen kantigen Säulen.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/060_cap_LX.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/060_cap_LX.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0052.g1.png",
       "bbox": [
-        117,
-        422,
-        342,
-        564
+        111,
+        393,
+        208,
+        520
       ],
       "white_point": 226,
-      "caption": "Folio 0052 Figure 1"
+      "caption": "Folio 0052 Diagram 1",
+      "margin": "left"
     },
     {
-      "id": "g2",
-      "file": "0052.g2.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0052.c1.png",
       "bbox": [
-        397,
-        1070,
-        62,
-        147
+        398,
+        801,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0052 Figure 2"
+      "caption": "Folio 0052 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0052.c2.png",
+      "bbox": [
+        399,
+        1075,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0052 Initial Cap 2"
     }
-  ]
+  ],
+  "page_num": 52,
+  "original_folio": "f. 18v",
+  "section_id": "compendio",
+  "title": "Cap. LVIII, Cap. LIX, Cap. LX (f. 18v) — De li corpi oblunghi cioè più longhi ouer alti che larg"
 }

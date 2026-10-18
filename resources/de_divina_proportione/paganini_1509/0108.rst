@@ -1,0 +1,34 @@
+:folio: 0108
+:page_num: 108
+:side: verso
+:original_folio: Libellus f. 12v
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0108.g1.png, 0108.g2.png, 0108.c1.png, 0108.c2.png
+
+Folio 0108 (Libellus f. 12v) — Libellus — Tractatus Secundus (Libellus f. 12v)
+==============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0108.g1.png
+
+   **g1 (diagram)**: Folio 0108 Diagram 1
+
+.. picture:: 0108.g2.png
+
+   **g2 (diagram)**: Folio 0108 Diagram 2
+
+.. picture:: 0108.c1.png
+
+   **c1 (initial)**: Folio 0108 Initial Cap 1
+
+.. picture:: 0108.c2.png
+
+   **c2 (initial)**: Folio 0108 Initial Cap 2
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Secundus (Libellus f. 12v)**: Casi geometrici e algebrici (*Casus*) de' corpi laterati regulari, le superficie e quadrature loro.

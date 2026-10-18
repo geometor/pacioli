@@ -1,0 +1,46 @@
+:folio: 0118
+:page_num: 118
+:side: verso
+:original_folio: Libellus f. 17v
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0118.g1.png, 0118.g2.png, 0118.g3.png, 0118.c1.png, 0118.c2.png, 0118.c3.png, 0118.c4.png
+
+Folio 0118 (Libellus f. 17v) — Libellus — Tractatus Tertius (Libellus f. 17v)
+=============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0118.g1.png
+
+   **g1 (diagram)**: Folio 0118 Diagram 1
+
+.. picture:: 0118.g2.png
+
+   **g2 (diagram)**: Folio 0118 Diagram 2
+
+.. picture:: 0118.g3.png
+
+   **g3 (diagram)**: Folio 0118 Diagram 3
+
+.. picture:: 0118.c1.png
+
+   **c1 (initial)**: Folio 0118 Initial Cap 1
+
+.. picture:: 0118.c2.png
+
+   **c2 (initial)**: Folio 0118 Initial Cap 2
+
+.. picture:: 0118.c3.png
+
+   **c3 (initial)**: Folio 0118 Initial Cap 3
+
+.. picture:: 0118.c4.png
+
+   **c4 (initial)**: Folio 0118 Initial Cap 4
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Tertius (Libellus f. 17v)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela spera.

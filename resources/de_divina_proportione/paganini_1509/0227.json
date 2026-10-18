@@ -11,7 +11,19 @@
         1208
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 21 (Folio 0227): OHTce.lfr$0V tt?H%lJM6V iTt^iOV xix"
+      "caption": "Plate XIX: Octahedron Elevatum Solidum (Ὀκτάεδρον ἐπηρμένον στερεόν) — Solid Elevated Octahedron (Stella Octangula)",
+      "type": "plate",
+      "plate_number": 19,
+      "plate_roman": "XIX",
+      "title_la": "Octahedron Elevatum Solidum",
+      "title_gr": "Ὀκτάεδρον ἐπηρμένον στερεόν",
+      "title_en": "Solid Elevated Octahedron (Stella Octangula)"
     }
-  ]
+  ],
+  "page_num": 227,
+  "side": "recto",
+  "original_folio": "Plate Folio 0227 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XIX — Octahedron Elevatum Solidum (Solid Elevated Octahedron (Stella Octangula))"
 }

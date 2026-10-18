@@ -22,49 +22,49 @@ EDITION_SECTIONS = [
         "title": "Front Matter and Dedications",
         "start_page": 1,
         "end_page": 16,
-        "description": "Title page, epigrams, dedication to Piero Soderini, and Table of Contents.",
+        "description": "Title page, epigrams, dedication to Piero Soderini, Daniel Caietanus epistle, list of 61 bodies, and Tabula.",
     },
     {
         "id": "compendio",
         "title": "Part I: Compendio de Divina Proportione",
         "start_page": 17,
-        "end_page": 80,
-        "description": "Chapters I to LXXI: The golden ratio, 13 effects, Platonic solids, and measurements.",
+        "end_page": 61,
+        "description": "Chapters I to LXXI: Dedication to Ludovico Sforza, 5 divine analogies, 13 miraculous effects of the golden ratio, Platonic & Archimedean solids, and measurements.",
     },
     {
         "id": "architectura",
         "title": "Part II: Tractato de l'Architectura",
-        "start_page": 81,
+        "start_page": 61,
         "end_page": 84,
-        "description": "Treatise on Vitruvian architecture, human proportion, columns, and capitals.",
+        "description": "Dedication to Pacioli's disciples in Sansepolcro and Chapters I to XX on Vitruvian human proportion, columns, capitals, entablatures, and architecture.",
     },
     {
         "id": "libellus",
         "title": "Part III: Libellus in tres partiales tractatus divisus",
         "start_page": 85,
-        "end_page": 135,
-        "description": "Treatise on the five regular bodies (Piero della Francesca translation).",
+        "end_page": 136,
+        "description": "Three mathematical treatises on the five regular bodies and dependent solids (vernacular translation of Piero della Francesca's Libellus).",
     },
     {
         "id": "alphabet",
         "title": "Appendix I: The Roman Geometric Alphabet",
-        "start_page": 136,
+        "start_page": 137,
         "end_page": 186,
-        "description": "Geometric construction and full-page woodcut plates of classical Roman capital letters (A-Z).",
+        "description": "Proportional profile of the human head (Divina Proportio), geometric construction plates of classical Roman capital letters (A-Y), and Porta Speciosa.",
     },
     {
         "id": "polyhedra_plates",
         "title": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
         "start_page": 187,
-        "end_page": 314,
-        "description": "Full-page woodcut illustrations designed by Leonardo da Vinci of regular, truncated, and stellated polyhedra (solid and hollow forms).",
+        "end_page": 310,
+        "description": "Full-page woodcut illustrations designed by Leonardo da Vinci of regular, truncated, and elevated polyhedra in solid (planum) and skeletal (vacuum) forms (Plates I-LIX), plus architectural plates.",
     },
     {
         "id": "end_matter",
-        "title": "End Matter and Colophon",
-        "start_page": 315,
+        "title": "End Matter and Arbor Proportionis",
+        "start_page": 311,
         "end_page": 318,
-        "description": "Concluding remarks, printer's mark, and colophon.",
+        "description": "Arbor Proportio et Proportionalitas (Tree of Ratios and Proportions) and closing flyleaves.",
     },
 ]
 
@@ -111,7 +111,7 @@ def extract_single_text(
     pdf_path: Path, page_num: int, output_dir: Path, force: bool = False
 ) -> Path:
     """Extract text from a single page of PDF."""
-    dest_path = output_dir / f"{page_num:04d}.txt"
+    dest_path = output_dir / f"{page_num:04d}.rst"
     if dest_path.exists() and not force and dest_path.stat().st_size > 0:
         return dest_path
 
@@ -165,22 +165,6 @@ def extract_all(
             if completed_img % 25 == 0 or completed_img == total:
                 print(f"  Images: {completed_img}/{total} complete ({completed_img*100//total}%)")
 
-    # Extract text in parallel
-    print("Extracting folio texts...")
-    completed_txt = 0
-    with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = {
-            executor.submit(
-                extract_single_text, pdf_path, p, output_dir, force=force
-            ): p
-            for p in pages
-        }
-        for future in as_completed(futures):
-            future.result()
-            completed_txt += 1
-            if completed_txt % 50 == 0 or completed_txt == total:
-                print(f"  Texts: {completed_txt}/{total} complete ({completed_txt*100//total}%)")
-
     # Generate manifest and section structure
     generate_manifest(output_dir, start_page, end_page)
     generate_sections_index(output_dir)
@@ -193,7 +177,7 @@ def generate_manifest(output_dir: Path, start_page: int, end_page: int) -> None:
     for p in range(start_page, end_page + 1):
         folio_str = f"{p:04d}"
         img_name = f"{folio_str}.png"
-        txt_name = f"{folio_str}.txt"
+        rst_name = f"{folio_str}.rst"
 
         # Determine section for page
         section_id = "unknown"
@@ -208,7 +192,7 @@ def generate_manifest(output_dir: Path, start_page: int, end_page: int) -> None:
                 "folio": folio_str,
                 "section": section_id,
                 "image": img_name,
-                "text": txt_name,
+                "text": rst_name,
             }
         )
 

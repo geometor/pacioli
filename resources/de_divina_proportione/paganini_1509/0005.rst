@@ -1,0 +1,70 @@
+:folio: 0005
+:page_num: 5
+:side: recto
+:original_folio: A1r
+:book: Front Matter and Dedications
+:chapters: None
+:graphics: 0005.c1.png
+
+Folio 0005 (A1r) — Title Page — Divina Proportione (1509)
+=========================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0005.c1.png
+
+   **c1 (initial)**: Folio 0005 Initial Cap 1
+
+Testo Originale (Paganini 1509)
+-------------------------------
+
+Divina proportione
+
+opera a tutti glingegni perspicaci e curiosi necessaria oue ciascun
+studioso di Philosophia, Perspectiua, Pictura, Sculptura, Archi-
+tectura, Musica e altre Mathematiche suauissima sottile e admi-
+rabile doctrina contegiura e delectarassi con uarie questione de
+secretissima scientia.
+
+M. Ant. Capella eruditiss. recensente.
+
+Venetiis impressum per probum virum
+
+Paganinum de Paganinis de Brescia
+
+i5og.
+
+Danielis Cajetani Cremonensis Epigramma.
+
+Natura omnipotens produxit corpora quinque
+
+Simplicia haec certo nomine dieta manent
+
+Composito in numerum Concurrunt addita cuique
+
+Atque Inter sese Consociata vigent
+
+Condita principio pura et sine labe fuere
+
+Nomina sunt aer Coelum. Aqua, fiamma et humus
+
+Foetibus innumeris. Voluit piato maximus illa
+
+Esse: vbi est primum sumpta figura: dare
+
+Sed quia naturae lex nil concedit inane
+
+(In coelo et Mundo dixit Aristoteles)
+
+Quodque vnum per se positum est. Caret atque figura
+
+Nulla subest oculi Supposito species.
+
+Propterea Euclidae sublimius atque Piatonis
+
+Ingenium excussit Sphaerica quinque alia
+
+Jocunda aspectu et multum irritantia Sensum
+
+Monstrauere bases vt latus omne docet.

@@ -1,53 +1,108 @@
 {
   "folio": "0033",
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PRIMA",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0033.g1.png",
       "bbox": [
-        578,
-        56,
-        403,
-        313
+        638,
+        32,
+        345,
+        348
       ],
       "white_point": 226,
-      "caption": "Folio 0033 Figure 1"
+      "caption": "Folio 0033 Diagram 1",
+      "margin": "right"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0033.g2.png",
       "bbox": [
-        578,
-        389,
-        386,
-        319
+        641,
+        396,
+        325,
+        217
       ],
       "white_point": 226,
-      "caption": "Folio 0033 Figure 2"
+      "caption": "Folio 0033 Diagram 2",
+      "margin": "right"
     },
     {
       "id": "g3",
+      "type": "diagram",
       "file": "0033.g3.png",
       "bbox": [
-        578,
-        763,
-        381,
-        174
+        644,
+        751,
+        317,
+        216
       ],
       "white_point": 226,
-      "caption": "Folio 0033 Figure 3"
+      "caption": "Folio 0033 Diagram 3",
+      "margin": "right"
     },
     {
       "id": "g4",
+      "type": "diagram",
       "file": "0033.g4.png",
       "bbox": [
-        578,
-        1006,
-        355,
-        281
+        618,
+        981,
+        329,
+        335
       ],
       "white_point": 226,
-      "caption": "Folio 0033 Figure 4"
+      "caption": "Folio 0033 Diagram 4",
+      "margin": "right"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0033.c1.png",
+      "bbox": [
+        50,
+        802,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0033 Initial Cap 1"
+    }
+  ],
+  "page_num": 33,
+  "original_folio": "f. 9r",
+  "section_id": "compendio",
+  "title": "Cap. XXVII, Cap. XXVIII (f. 9r) — Dela fabrica del cubo e sua proportione ala spera.",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 27,
+      "roman": "XXVII",
+      "slug": "cap_27",
+      "title_it": "Dela fabrica del cubo e sua proportione ala spera.",
+      "title_de": "Von der Anfertigung des Würfels und seinem Verhältniss zur Kugel.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/027_cap_XXVII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/027_cap_XXVII.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 28,
+      "roman": "XXVIII",
+      "slug": "cap_28",
+      "title_it": "Commo se formi lo octocedron in spera aponto collocabile e sua proportione ala spera.",
+      "title_de": "Wie das Oktaeder gebildet wird, welches genau in die Kugel sich beschreiben lässt, und sein Verhältniss zur Kugel.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/028_cap_XXVIII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/028_cap_XXVIII.txt",
+      "starts_on_folio": true
     }
   ]
 }

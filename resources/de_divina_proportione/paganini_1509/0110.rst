@@ -1,0 +1,30 @@
+:folio: 0110
+:page_num: 110
+:side: verso
+:original_folio: Libellus f. 13v
+:book: Part III: Libellus in tres partiales tractatus divisus
+:chapters: None
+:graphics: 0110.g1.png, 0110.g2.png, 0110.g3.png
+
+Folio 0110 (Libellus f. 13v) — Libellus — Tractatus Secundus (Libellus f. 13v)
+==============================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0110.g1.png
+
+   **g1 (diagram)**: Folio 0110 Diagram 1
+
+.. picture:: 0110.g2.png
+
+   **g2 (diagram)**: Folio 0110 Diagram 2
+
+.. picture:: 0110.g3.png
+
+   **g3 (diagram)**: Folio 0110 Diagram 3
+
+Pars Tertia: Libellus in tres partiales tractatus divisus
+---------------------------------------------------------
+
+**Tractatus Secundus (Libellus f. 13v)**: Casi geometrici e algebrici (*Casus*) de' corpi laterati regulari, le superficie e quadrature loro.

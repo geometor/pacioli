@@ -1,17 +1,25 @@
 {
   "folio": "0039",
-  "graphics": [
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PRIMA",
+  "graphics": [],
+  "page_num": 39,
+  "original_folio": "f. 12r",
+  "section_id": "compendio",
+  "title": "Cap. XXXI (f. 12r) — A trouar li lati de tutti 5 corpi regulari.",
+  "chapters": [
     {
-      "id": "g1",
-      "file": "0039.g1.png",
-      "bbox": [
-        578,
-        182,
-        53,
-        195
-      ],
-      "white_point": 226,
-      "caption": "Folio 0039 Figure 1"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 31,
+      "roman": "XXXI",
+      "slug": "cap_31",
+      "title_it": "A trouar li lati de tutti 5 corpi regulari.",
+      "title_de": "Die Seiten aller fünf regelmässigen Körper zu finden.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/031_cap_XXXI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/031_cap_XXXI.txt",
+      "starts_on_folio": false
     }
   ]
 }

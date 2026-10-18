@@ -1,0 +1,82 @@
+{
+  "folio": "0011",
+  "side": "recto",
+  "section": "Front Matter and Dedications",
+  "header": "Aula defa preferite opera e vtìlifjimo compendio detto",
+  "graphics": [
+    {
+      "id": "g1",
+      "type": "diagram",
+      "file": "0011.g1.png",
+      "bbox": [
+        654,
+        603,
+        226,
+        110
+      ],
+      "white_point": 226,
+      "caption": "Folio 0011 Diagram 1",
+      "margin": "right"
+    },
+    {
+      "id": "g2",
+      "type": "marginalia",
+      "file": "0011.g2.png",
+      "bbox": [
+        660,
+        771,
+        136,
+        72
+      ],
+      "white_point": 226,
+      "caption": "Folio 0011 Marginalia 2",
+      "margin": "right"
+    },
+    {
+      "id": "g3",
+      "type": "diagram",
+      "file": "0011.g3.png",
+      "bbox": [
+        653,
+        1063,
+        211,
+        67
+      ],
+      "white_point": 226,
+      "caption": "Folio 0011 Diagram 3",
+      "margin": "right"
+    },
+    {
+      "id": "g4",
+      "type": "diagram",
+      "file": "0011.g4.png",
+      "bbox": [
+        653,
+        1210,
+        279,
+        120
+      ],
+      "white_point": 226,
+      "caption": "Folio 0011 Diagram 4",
+      "margin": "right"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0011.c1.png",
+      "bbox": [
+        110,
+        98,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0011 Initial Cap 1"
+    }
+  ],
+  "page_num": 11,
+  "original_folio": "A4r",
+  "section_id": "front_matter",
+  "title": "Tabula — Table of Contents (A4r)"
+}

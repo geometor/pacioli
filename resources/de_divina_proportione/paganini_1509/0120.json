@@ -1,41 +1,92 @@
 {
   "folio": "0120",
+  "side": "verso",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "TRACTATVS",
+  "chapters": [
+    {
+      "book": 3,
+      "casus": "27"
+    },
+    {
+      "book": 3,
+      "casus": "29"
+    }
+  ],
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0120.g1.png",
       "bbox": [
-        87,
-        124,
-        372,
-        385
+        78,
+        191,
+        304,
+        350
       ],
       "white_point": 226,
-      "caption": "Folio 0120 Figure 1"
+      "caption": "Folio 0120 Diagram 1",
+      "margin": "left"
     },
     {
       "id": "g2",
+      "type": "diagram",
       "file": "0120.g2.png",
       "bbox": [
-        405,
-        544,
-        54,
-        62
+        63,
+        762,
+        336,
+        353
       ],
       "white_point": 226,
-      "caption": "Folio 0120 Figure 2"
+      "caption": "Folio 0120 Diagram 2",
+      "margin": "left"
     },
     {
-      "id": "g3",
-      "file": "0120.g3.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0120.c1.png",
       "bbox": [
-        79,
-        626,
-        380,
-        618
+        411,
+        135,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0120 Figure 3"
+      "caption": "Folio 0120 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0120.c2.png",
+      "bbox": [
+        412,
+        634,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0120 Initial Cap 2"
+    },
+    {
+      "id": "c3",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0120.c3.png",
+      "bbox": [
+        415,
+        1102,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0120 Initial Cap 3"
     }
-  ]
+  ],
+  "page_num": 120,
+  "original_folio": "Libellus f. 18v",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Tertius (Libellus f. 18v)"
 }

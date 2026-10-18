@@ -1,17 +1,66 @@
 {
   "folio": "0069",
+  "side": "recto",
+  "section": "Part II: Tractato de l'Architectura",
+  "header": "-PRftMr",
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0069.g1.png",
       "bbox": [
-        578,
-        89,
-        254,
-        1143
+        600,
+        58,
+        262,
+        1212
       ],
       "white_point": 226,
-      "caption": "Folio 0069 Figure 1"
+      "caption": "Folio 0069 Diagram 1",
+      "margin": "right"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0069.c1.png",
+      "bbox": [
+        38,
+        1119,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0069 Initial Cap 1"
+    }
+  ],
+  "page_num": 69,
+  "original_folio": "f. 27r",
+  "section_id": "architectura",
+  "title": "Cap. III, Cap. IV (f. 27r) — Dela proportione de tutto el corpo humano che sia ben d",
+  "chapters": [
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 3,
+      "roman": "III",
+      "slug": "cap_03",
+      "title_it": "Dela proportione de tutto el corpo humano che sia ben disposto ala sua testa e altri membri secondo sua longhezza e larghezza.",
+      "title_de": "Vom Verhältniss des ganzen menschlichen Körpers, der zu seinem Kopfe und andern Gliedern seiner Länge und Breite nach wohl geordnet sei.",
+      "winterberg_it": "winterberg/02_architectura_italian/003_cap_III.txt",
+      "winterberg_de": "winterberg/04_architectura_german/003_cap_III.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 4,
+      "roman": "IV",
+      "slug": "cap_04",
+      "title_it": "Sequita dele colonne rotonde con sue basi e capitelli epilastrelli o vero stilobate.",
+      "title_de": "Es folgt von den runden Säulen mit ihren Basen und Capi- tellen und Pilastern oder Stilobaten.",
+      "winterberg_it": "winterberg/02_architectura_italian/004_cap_IV.txt",
+      "winterberg_de": "winterberg/04_architectura_german/004_cap_IV.txt",
+      "starts_on_folio": true
     }
   ]
 }

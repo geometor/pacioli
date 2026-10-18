@@ -1,17 +1,106 @@
 {
   "folio": "0088",
+  "side": "verso",
+  "section": "Part III: Libellus in tres partiales tractatus divisus",
+  "header": "TRjACTATVS",
+  "chapters": [
+    {
+      "book": 3,
+      "casus": "8"
+    },
+    {
+      "book": 3,
+      "casus": "9"
+    }
+  ],
   "graphics": [
     {
       "id": "g1",
+      "type": "diagram",
       "file": "0088.g1.png",
       "bbox": [
-        57,
-        94,
-        402,
-        1030
+        53,
+        67,
+        331,
+        326
       ],
       "white_point": 226,
-      "caption": "Folio 0088 Figure 1"
+      "caption": "Folio 0088 Diagram 1",
+      "margin": "left"
+    },
+    {
+      "id": "g2",
+      "type": "diagram",
+      "file": "0088.g2.png",
+      "bbox": [
+        46,
+        450,
+        338,
+        325
+      ],
+      "white_point": 226,
+      "caption": "Folio 0088 Diagram 2",
+      "margin": "left"
+    },
+    {
+      "id": "g3",
+      "type": "diagram",
+      "file": "0088.g3.png",
+      "bbox": [
+        60,
+        812,
+        319,
+        341
+      ],
+      "white_point": 226,
+      "caption": "Folio 0088 Diagram 3",
+      "margin": "left"
+    },
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0088.c1.png",
+      "bbox": [
+        402,
+        380,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0088 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0088.c2.png",
+      "bbox": [
+        404,
+        700,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0088 Initial Cap 2"
+    },
+    {
+      "id": "c3",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0088.c3.png",
+      "bbox": [
+        407,
+        978,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0088 Initial Cap 3"
     }
-  ]
+  ],
+  "page_num": 88,
+  "original_folio": "Libellus f. 2v",
+  "section_id": "libellus",
+  "title": "Libellus — Tractatus Primus (Libellus f. 2v)"
 }

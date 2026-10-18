@@ -1,0 +1,27 @@
+:layout: book
+
+.. _compendio-cap_09-de:
+
+CAPITEL IX (Deutsch — Winterberg 1889)
+======================================
+
+.. rubric:: Was die Wurzel einer Zahl und sonstigen Grösse sei.
+
+.. container:: track-nav
+
+   :ref:`English <compendio-cap_09-en>` · :ref:`Italiano (1509) <compendio-cap_09-it>` · **Deutsch (1889)** · :ref:`Notes <compendio-cap_09-notes>` | :ref:`Conspectus <compendio-index>` · :ref:`← Prev <compendio-cap_08-de>` · :ref:`Next → <compendio-cap_10-de>`
+
+.. folio:: 0026 (f. 5v)
+   :initial: 0026.c1.png
+
+Und da es sich im Fortgange unseres Werkes oft ereignen wird, Wurzeln zu nennen, so scheint es mir hier am Platz, kurz zu erklären, was es bedeutet, obschon in unserem Werke weitläufig auf alle Art darüber gesprochen worden ist. Nichtsdestoweniger sage ich, die Wurzel einer Grösse sei selbst eine Grösse, die mit sich selbst multiplicirt diejenige Grösse ergibt, als deren Wurzel sie selber bezeichnet wurde. Wie wir sagen die Wurzel von neun sei drei, und von IG sei vier, und von 25 fünf und so bei den übrigen, und 9, 16, 25 werden Quadrate genannt. Und in Bezug hierauf ist zu wissen, dass es einige Grössen gibt, die keine Wurzeln derart haben, dass man
+
+sie durch eine Zahl bestimmt angeben könne. Wie für zehn keine Zahl existirt, die, mit sich selbst multiphcirt, genau zehn ergibt, und ebenso bezügHch 11, 12, 13, und anderer ähnlicher Zahlen. Und somit gibt es und entstehen Wurzeln von zweierlei Art, die eine discrete genannt, oder wir wollen rational sagen und ist diejenige, die durch eine bestimmte Zahl ausgedrückt werden kann, wie von neun die Wurzel drei ist. Und die andere wird taube genannt und ist die, welche durch eine Zahl nicht genau wiedergegeben werden kann, wie wir von der ]/^io und anderen gesagt haben. Und diese werden mit anderen Namen irrational genannt, insofern alle diejenigen Grössen, die sich durch eine bestimmte Zahl nicht ausdrücken lassen, in der Wissenschaft irrational genannt werden, und die, welche sich durch eine Zahl wiedergeben lassen, werden rationale genannt. Und dies sei zu unserem Satze bezüghch der Wurzel genug.
+
+Marginal Woodcut Diagrams (Paganini 1509)
+-----------------------------------------
+
+.. figure:: 0026.g1.png
+   :align: center
+
+   Folio 0026 Marginalia 1

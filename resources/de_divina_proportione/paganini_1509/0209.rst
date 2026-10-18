@@ -1,0 +1,23 @@
+:folio: 0209
+:page_num: 209
+:side: recto
+:original_folio: Plate Folio 0209 (recto)
+:book: Appendix II: Polyhedra Plates by Leonardo da Vinci
+:chapters: None
+:graphics: 0209.g1.png
+
+Folio 0209 (Plate Folio 0209 (recto)) — Plate XII — Exahedron Elevatum Vacuum (Hollow Elevated Hexahedron)
+==========================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0209.g1.png
+
+   **g1 (plate)**: Plate XII: Exahedron Elevatum Vacuum (Ἑξάεδρον ἐπηρμένον κενόν) — Hollow Elevated Hexahedron
+
+Tabula XII (No. 12)
+-------------------
+
+- **Titulus Latinus**: *Exahedron Elevatum Vacuum*
+- **Titulus Graecus**: Ἑξάεδρον ἐπηρμένον κενόν

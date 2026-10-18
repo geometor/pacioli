@@ -1,41 +1,78 @@
 {
   "folio": "0023",
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PRIMA",
+  "chapters": [
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 5,
+      "roman": "V",
+      "slug": "cap_05",
+      "title_it": "Del condecente titulo del presente tractato.",
+      "title_de": "Vom passenden Titel des vorliegenden Tractats.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/005_cap_V.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/005_cap_V.txt",
+      "starts_on_folio": false
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 6,
+      "roman": "VI",
+      "slug": "cap_06",
+      "title_it": "Dela sua degna commendatione.",
+      "title_de": "Von seiner würdigen Empfehlung.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/006_cap_VI.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/006_cap_VI.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 7,
+      "roman": "VII",
+      "slug": "cap_07",
+      "title_it": "Del primo effecto de vna linea diuisa secondo la nostra proportione.",
+      "title_de": "Von der ersten Wirkung einer nach unserer Proportion getheilten Linie.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/007_cap_VII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/007_cap_VII.txt",
+      "starts_on_folio": true
+    }
+  ],
   "graphics": [
     {
-      "id": "g1",
-      "file": "0023.g1.png",
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0023.c1.png",
       "bbox": [
-        578,
-        72,
-        79,
-        683
+        60,
+        828,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0023 Figure 1"
+      "caption": "Folio 0023 Initial Cap 1"
     },
     {
-      "id": "g2",
-      "file": "0023.g2.png",
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0023.c2.png",
       "bbox": [
-        578,
-        781,
-        65,
-        103
+        57,
+        1171,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0023 Figure 2"
-    },
-    {
-      "id": "g3",
-      "file": "0023.g3.png",
-      "bbox": [
-        578,
-        993,
-        55,
-        165
-      ],
-      "white_point": 226,
-      "caption": "Folio 0023 Figure 3"
+      "caption": "Folio 0023 Initial Cap 2"
     }
-  ]
+  ],
+  "page_num": 23,
+  "original_folio": "f. 4r",
+  "section_id": "compendio",
+  "title": "Cap. V, Cap. VI, Cap. VII (f. 4r) — Del condecente titulo del presente tractato."
 }

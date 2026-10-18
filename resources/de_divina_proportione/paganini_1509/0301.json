@@ -11,7 +11,19 @@
         1403
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 58 (Folio 0301): LV m>\u00a7\u00abjUH<; TsrA\u00a3u\u00a7<a^H5 TPjyuvo^ \u00abui^OTrAtugo? wtgtae"
+      "caption": "Plate LV: Pyramis Laterata Triangula Inaequilatera Solida (Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος στερεά) — Solid Scalene Triangular Pyramid",
+      "type": "plate",
+      "plate_number": 55,
+      "plate_roman": "LV",
+      "title_la": "Pyramis Laterata Triangula Inaequilatera Solida",
+      "title_gr": "Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος στερεά",
+      "title_en": "Solid Scalene Triangular Pyramid"
     }
-  ]
+  ],
+  "page_num": 301,
+  "side": "recto",
+  "original_folio": "Plate Folio 0301 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate LV — Pyramis Laterata Triangula Inaequilatera Solida (Solid Scalene Triangular Pyramid)"
 }

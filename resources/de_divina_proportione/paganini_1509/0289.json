@@ -11,7 +11,19 @@
         1299
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 52 (Folio 0289): Kltii TS\"A\u20acV\u00a7a^rt? TTiVTetytV^ art^W, XL1X"
+      "caption": "Plate XLIX: Columna Laterata Penthagona Solida (Κίων πλευρώδης πεντάγωνος στερεός) — Solid Pentagonal Prism",
+      "type": "plate",
+      "plate_number": 49,
+      "plate_roman": "XLIX",
+      "title_la": "Columna Laterata Penthagona Solida",
+      "title_gr": "Κίων πλευρώδης πεντάγωνος στερεός",
+      "title_en": "Solid Pentagonal Prism"
     }
-  ]
+  ],
+  "page_num": 289,
+  "side": "recto",
+  "original_folio": "Plate Folio 0289 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XLIX — Columna Laterata Penthagona Solida (Solid Pentagonal Prism)"
 }

@@ -1,0 +1,17 @@
+:layout: book
+
+.. _architectura-cap_15-it:
+
+CAPITOLO XV (Italiano — 1509)
+=============================
+
+.. rubric:: Del zophoro nel epistilio.
+
+.. container:: track-nav
+
+   :ref:`English <architectura-cap_15-en>` · **Italiano (1509)** · :ref:`Deutsch (1889) <architectura-cap_15-de>` · :ref:`Notes <architectura-cap_15-notes>` | :ref:`Conspectus <architectura-index>` · :ref:`← Prev <architectura-cap_14-it>` · :ref:`Next → <architectura-cap_16-it>`
+
+.. folio:: 0079 (f. 32r)
+   :initial: 0079.c1.png
+
+Il suo zophoro V. quale dali nostri fia dicto fregio deuesser largo el quarto del suo epistilio facendosi schietto senza ornamenti. E facendosi con adornamenti se fa el y^ più largo del suo epistilio acio ben responda sua venusta e che li dicti ornamenti se possine vedere comodamente dalontano e dapresso. cioè se dicto epistiho sia alto o ver largo 4. el zophoro volesserlargo 5. conli ornamenti o sieno foghami viticci o altri animali, comme fusari.

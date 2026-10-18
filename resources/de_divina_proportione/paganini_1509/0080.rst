@@ -1,0 +1,34 @@
+:folio: 0080
+:page_num: 80
+:side: verso
+:original_folio: f. 32v
+:book: Part II: Tractato de l'Architectura
+:chapters: architectura/cap_18 (Cap. XVIII), architectura/cap_19 (Cap. XIX)
+:graphics: 0080.c1.png, 0080.c2.png
+
+Folio 0080 (f. 32v) — Cap. XVIII, Cap. XIX (f. 32v) — Comme lapicidi e altri scultori in dicti corpi sieno co
+=============================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0080.c1.png
+
+   **c1 (initial)**: Folio 0080 Initial Cap 1
+
+.. picture:: 0080.c2.png
+
+   **c2 (initial)**: Folio 0080 Initial Cap 2
+
+Testo Italiano (Paganini 1509 / Winterberg 1889)
+------------------------------------------------
+
+Cap. XVIII: Comme lapicidi e altri scultori in dicti corpi sieno commendati.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Hauendo discorso abastanza el bisogno vostro oltra quello che in tutto dicto habiamo vericordo che non siranno da biasimare le vostre opere se aleuolte comrae meglio vi paresse vi poneste o per basa o capitelli qualcuno de quelli nostri corpi mathematici quali più volte materiali in propria forma ve ho mostrati auenga che di loro particularmente non ne facia raentione alcuna el nostro Victruuio. Anze siranno de dignissima commendatione del vostro opifitio perche non solo lo rendaranno adorno ma ancora ali docti e sapienti daranno da speculare conciosia che sempre sieno fabricati con quella scientia e diuina proportione hauente medium duoque extrema etc. Onde mericordo aroma in casa del mio miser Mario melini baron romano. Hauer lecto in certi annali romani comnie Fidias scultore supremo feci in cercio contrado de roma nel tempio de cerere vn certo lauoro nel quale vi pose el corpo dicto Icosaedro figura delacqua il che molti phylosophi sumamente commendauano e in "quello più se fermauano acontemplare che anullaltra parte delopera qual medesimamente era tutta excellentissima le cui forme de mia propria mano nauete in cancelaria aroma e infirenze e Vinegia asai. Gosi de noi in commendatione sira sempre dicto se qualche vno veneporrete facendoli al modo che Jo vi mostrai e ancora sequendo quel che disopra in questo de loro fia dicto.
+
+Cap. XIX: Comme nelli luoghi angusti lo architetto se habia aregere in sua dispositione.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Bisogna multo alarchitecto essere a corto in consegliare altri in hedifitii e in la puntatione de lor modelli acio non in dachino adispendio inviile el patrone. Peroche el nostro Victruuio quando ben ha insegnato li debiti modi deli hedifitii con loro Symmetrie de loro proportioni dice. Interuira aleuolte langustie stretezza del luogo non permettara fabricare con tutte quelle solennità che alauera. Architectura se aspectano per lo impedimento del luogo che non lo permettara. E per queste vesida tal recordo che non possendo exequere lopere vostre totaliter comme se donerebbe, dobiare sempre tenerne al quadro e al tondo comme ale doi principali forme deli doi linee recta e curua, E se non potrete in tutto farle a tutto quadrato ouer circolo prendarete di loro sempre qualche parte ouer parti nota o ver note comme adire la Y2 el Y3 li ^4 ^i Vs ^^ cetera o aloro circuito onero diametri e quelli proportionando sempre quanto più potrete in parti note che per numero se possano mostrare. Se non constretti dala irrationalita comme fra el diametro del quadro e sua costa. Aloro segnarete con vostra squadra e sexto lor termini in linee con vostro desegno, Peroche auenga che non sempre per numero se possino nominare ma mai fia impedito che per linea superficie non se possino asegnare. Conciosia che la proportione sia molto più ampia in la quantità continua che in la discreta. Peroche larithmetico non considera se non della rationalita el Geometra della rationalita e irrationalita comme apieno ne dixe el nostro Euclide nel suo quinto libro deli elementi e noi secondo lui in Theorica e pratica anostro amaestramento in lopera nostra grande dieta summa de Arithmetica . Geometria . proportioni e proportionalita in la 6. distinctione al primo tractato e primo articulo. Impressa in Venetia nel 1494. e al Magnanimo Duca de vrbino dicata doue al tutto per vostre occurenze verimetto. Auete ancora in questo comme vedici Lalphabeto degnissimo Antico secondo el quale potrete le vostre opere adornare e scriuere le volnnta deli patroni o sieno sepolchri o altri lauori. Quali certamente oltra el bisogno rendano venustissima lopera comme in molti luoghi per roma apare quelli già soliuano farle de metalli diuersi e quelle fermare in lor ponti che in capitoli© e al palazo de nerone leuestigie el manifestano.

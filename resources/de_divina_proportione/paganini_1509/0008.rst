@@ -1,0 +1,24 @@
+:folio: 0008
+:page_num: 8
+:side: verso
+:original_folio: A2v
+:book: Front Matter and Dedications
+:chapters: None
+:graphics: 0008.g1.png
+
+Folio 0008 (A2v) — Danielis Caietani Epistolium ad Andream Mocenicum (1509)
+===========================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0008.g1.png
+
+   **g1 (diagram)**: Folio 0008 Diagram 1
+
+Testo Latino (Paganini 1509)
+----------------------------
+
+Magnifico et Clarissimo Andreae Mocenico Veneto patricio Viro Magnifici et generosissimi D. Leonardi olim Serenissimi philosopho insigni atque in omni genere doctrinae spectatissimo Danielis Caietani Epistolium.
+
+Delectat me nimis fortuna saeculi hodierni, Magnifice Andrea, nuper edito libro de divina proportione inscripto per Magistrum Lucam paciolum a burgo Sancti Sepulchri maximum minoritanae sectae ornamentum quoi ambigo an quempiam deinceps in arithmetice parem conspicaturi simus. Ecce cum primum affui (nanque ut frequentissime soleo illum domi forte salutaveram) offendi Circa repetitionem libri occupatum rogo nunquid me velit. Contra ille nihil nisi ut me ames et divinam proportionem meam cognoscas quam chalcographi nunc premunt. Gavissus sum ilico mirum in modum quod tanti tamque rari atque incogniti arcani thensauro Seculum nostrum donetur. In quo fama quidem authoris sed Scientia non minus Crescit aliena: adeo fideliter Subtiliter acute res altas atque aliorum Captu longe Sepositas tractat enucleat: ut quod nullus in id genus professione ad hanc usque diem aut comprehendere potuit aut scivit: hic Solus sui altissimi intellectus indagine Conquirit atque investigat. Dicitposite magna acrimonia maxima disciplina ad hanc materiam: ut qui in ea diutissime versati sunt non eant inficias Lucam paciolum esse alterum nostrae aetatis Nicomachum qui numeri et mensurae disciplinam difusissime scripsit. Itaque ut primum potui per occupationum mearum sequestram remissionem deliberavi impetum incredibilis laetitiae tibi Andrea vir rarissimae probitatis et scientiae hoc epistolio meo relaxare: magis tua causa haud sat scio qui semper extitisti rerum optimarum sitientissimus lector et iudex indubitatus quam ipsius materiae quae rara est arguta Callida atque argumentosa. Sed hoc praeclarissimum opus de divina proportione solius lucae pacioli magistri in sacrae theologiae adytis exquisitissimi atque in numeraria disciplina mirandi temporibus nostris sub tuae conscientiae contemplatione tuaeque doctrinae censura acerrima laudatissimum exit in manus atque in vulgatur a qua nihil unquam probatum fuit nisi quod laudatissimum esset haec una vel sola vel maxima mihi fuit scribendi Causa qua te scilicet a profundo rerum publicarum extractum ad capessendae tantae doctrinae studium incitarem: quod eo facilius me impetraturum confido quia tibi aevi animique vigor obtigit integer ex quo patavium ad illum meracissimum scientiae fontem laudabili aviditate profectus cum ingenti totius gymnasii applausu titulum veri atque absolutissimi philosophi reportasti. In hoc autem evigilatissimo tractatu non solum reperturus es ipse quod discas sed et relaturus fortasse quod doceas. Multa audisti multa per te ipse Conquisivisti mathematico auspicatu optimo atque physionomorum quos doctores miro studio aemulatus es. Sed ad hanc materiam nullum facile iudices extitisse ad praesens usque doctorem qui huic in hoc genere conferendus sit (pace aliorum dixerim). Ad hoc est illud quod subiectum certe formidandum tanta facilitate prosequitur ut a promptae et planae disputationis comunione ne idiotarum quidem aut imperitorum suscitatio repudietur: quemadmodum in Euclide cernere est quem de rhomano Vernaculum fecit nihil ab opinione Castigatissima domini Campani declinans quem summopere probat et sequitur. Sed tandem Epistolae manus extrema imponatur in qua pauca haec de intimis delibavi. Tu vero Censor maxime lege ut primum legeris Competenti praeconio extollenda iudicabis. Vale ex patavio. VII. Idus maias. M.D.VIIII.

@@ -11,7 +11,19 @@
         1474
       ],
       "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 25 (Folio 0235): {litfl?\u00ab\u00a3^\u00a7(>\u00bb \u00abWOTSTJMHJUJyO? WtgtOff"
+      "caption": "Plate XXIII: Icosahedron Abscisum Solidum (Εἰκοσάεδρον ἀποτετμημένον στερεόν) — Solid Truncated Icosahedron",
+      "type": "plate",
+      "plate_number": 23,
+      "plate_roman": "XXIII",
+      "title_la": "Icosahedron Abscisum Solidum",
+      "title_gr": "Εἰκοσάεδρον ἀποτετμημένον στερεόν",
+      "title_en": "Solid Truncated Icosahedron"
     }
-  ]
+  ],
+  "page_num": 235,
+  "side": "recto",
+  "original_folio": "Plate Folio 0235 (recto)",
+  "section_id": "polyhedra_plates",
+  "section": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+  "title": "Plate XXIII — Icosahedron Abscisum Solidum (Solid Truncated Icosahedron)"
 }

@@ -1,4 +1,25 @@
 {
   "folio": "0072",
-  "graphics": []
+  "side": "verso",
+  "section": "Part II: Tractato de l'Architectura",
+  "header": "PARS",
+  "graphics": [],
+  "page_num": 72,
+  "original_folio": "f. 28v",
+  "section_id": "architectura",
+  "title": "Cap. VI (f. 28v) — Sequita lordine del stilobata ouer pilastro ouero basam",
+  "chapters": [
+    {
+      "book": 2,
+      "part": "architectura",
+      "chapter": 6,
+      "roman": "VI",
+      "slug": "cap_06",
+      "title_it": "Sequita lordine del stilobata ouer pilastro ouero basamento dela colonna corame si facia.",
+      "title_de": "Es folgt, wie die Anordnung des Stilobaten oder Pilaster, oder Basament der Säule getroffen werde.",
+      "winterberg_it": "winterberg/02_architectura_italian/006_cap_VI.txt",
+      "winterberg_de": "winterberg/04_architectura_german/006_cap_VI.txt",
+      "starts_on_folio": false
+    }
+  ]
 }

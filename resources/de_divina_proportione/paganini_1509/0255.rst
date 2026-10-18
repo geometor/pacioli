@@ -1,0 +1,23 @@
+:folio: 0255
+:page_num: 255
+:side: recto
+:original_folio: Plate Folio 0255 (recto)
+:book: Appendix II: Polyhedra Plates by Leonardo da Vinci
+:chapters: None
+:graphics: 0255.g1.png
+
+Folio 0255 (Plate Folio 0255 (recto)) — Plate XXXIII — Dodecahedron Abscisum Elevatum Solidum (Solid Elevated Truncated Dodecahedron)
+=====================================================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0255.g1.png
+
+   **g1 (plate)**: Plate XXXIII: Dodecahedron Abscisum Elevatum Solidum (Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον στερεόν) — Solid Elevated Truncated Dodecahedron
+
+Tabula XXXIII (No. 33)
+----------------------
+
+- **Titulus Latinus**: *Dodecahedron Abscisum Elevatum Solidum*
+- **Titulus Graecus**: Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον στερεόν

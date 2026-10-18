@@ -1,0 +1,23 @@
+:folio: 0247
+:page_num: 247
+:side: recto
+:original_folio: Plate Folio 0247 (recto)
+:book: Appendix II: Polyhedra Plates by Leonardo da Vinci
+:chapters: None
+:graphics: 0247.g1.png
+
+Folio 0247 (Plate Folio 0247 (recto)) — Plate XXIX — Dodecahedron Abscisum Solidum (Solid Truncated Dodecahedron (Icosidodecahedron))
+=====================================================================================================================================
+
+Woodcut Graphics & Illuminated Initials
+---------------------------------------
+
+.. picture:: 0247.g1.png
+
+   **g1 (plate)**: Plate XXIX: Dodecahedron Abscisum Solidum (Δωδεκάεδρον ἀποτετμημένον στερεόν) — Solid Truncated Dodecahedron (Icosidodecahedron)
+
+Tabula XXIX (No. 29)
+--------------------
+
+- **Titulus Latinus**: *Dodecahedron Abscisum Solidum*
+- **Titulus Graecus**: Δωδεκάεδρον ἀποτετμημένον στερεόν

@@ -1,29 +1,118 @@
 {
   "folio": "0027",
-  "graphics": [
+  "side": "recto",
+  "section": "Part I: Compendio de Divina Proportione",
+  "header": "PRIMA",
+  "chapters": [
     {
-      "id": "g1",
-      "file": "0027.g1.png",
-      "bbox": [
-        578,
-        73,
-        268,
-        1072
-      ],
-      "white_point": 226,
-      "caption": "Folio 0027 Figure 1"
+      "book": 1,
+      "part": "compendio",
+      "chapter": 12,
+      "roman": "XII",
+      "slug": "cap_12",
+      "title_it": "Del terzo suo singulare effecto.",
+      "title_de": "Ueber ihre dritte besondere Wirkung.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/012_cap_XII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/012_cap_XII.txt",
+      "starts_on_folio": true
     },
     {
-      "id": "g2",
-      "file": "0027.g2.png",
+      "book": 1,
+      "part": "compendio",
+      "chapter": 13,
+      "roman": "XIII",
+      "slug": "cap_13",
+      "title_it": "Del quarto suo ineffabile effecto.",
+      "title_de": "Von ihrer vierten unsagbaren Wirkung.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/013_cap_XIII.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/013_cap_XIII.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 14,
+      "roman": "XIV",
+      "slug": "cap_14",
+      "title_it": "Del quinto suo mirabile effecto.",
+      "title_de": "Von ihrer fünften wunderbaren Wirkung.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/014_cap_XIV.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/014_cap_XIV.txt",
+      "starts_on_folio": true
+    },
+    {
+      "book": 1,
+      "part": "compendio",
+      "chapter": 15,
+      "roman": "XV",
+      "slug": "cap_15",
+      "title_it": "Del suo sexto innominabile effecto.",
+      "title_de": "Von ihrer sechsten unnennbareö Wirkung.",
+      "winterberg_it": "winterberg/01_divina_proportione_italian/015_cap_XV.txt",
+      "winterberg_de": "winterberg/03_divina_proportione_german/015_cap_XV.txt",
+      "starts_on_folio": true
+    }
+  ],
+  "graphics": [
+    {
+      "id": "c1",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0027.c1.png",
       "bbox": [
-        578,
-        1181,
-        50,
-        86
+        75,
+        93,
+        124,
+        132
       ],
       "white_point": 226,
-      "caption": "Folio 0027 Figure 2"
+      "caption": "Folio 0027 Initial Cap 1"
+    },
+    {
+      "id": "c2",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0027.c2.png",
+      "bbox": [
+        72,
+        481,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0027 Initial Cap 2"
+    },
+    {
+      "id": "c3",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0027.c3.png",
+      "bbox": [
+        68,
+        843,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0027 Initial Cap 3"
+    },
+    {
+      "id": "c4",
+      "type": "initial",
+      "size_class": "standard",
+      "file": "0027.c4.png",
+      "bbox": [
+        65,
+        1145,
+        124,
+        132
+      ],
+      "white_point": 226,
+      "caption": "Folio 0027 Initial Cap 4"
     }
-  ]
+  ],
+  "page_num": 27,
+  "original_folio": "f. 6r",
+  "section_id": "compendio",
+  "title": "Cap. XII, Cap. XIII, Cap. XIV, Cap. XV (f. 6r) — Del terzo suo singulare effecto."
 }

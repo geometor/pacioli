@@ -1,0 +1,33 @@
+:layout: book
+
+.. _compendio-cap_52-notes:
+
+CHAPTER LII — Critical Commentary & Notes
+=========================================
+
+.. rubric:: On the Disposition of the Duodecedron: Regular (Plates XXV–XXVI), Truncated (Plates XXVII–XXVIII), Elevated (Plates XXIX–XXX), and the Elevated Truncated Bodies (Plates XXXI–XXXIV).
+
+.. container:: track-nav
+
+   :ref:`English <compendio-cap_52-en>` · :ref:`Italiano (1509) <compendio-cap_52-it>` · :ref:`Deutsch (1889) <compendio-cap_52-de>` · **Notes** | :ref:`Conspectus <compendio-index>` · :ref:`← Prev <compendio-cap_51-notes>` · :ref:`Next → <compendio-cap_53-notes>`
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Plates Referenced**:
+  - **Plate XXV** (``0241.rst``): *Duodecedron Planum Solidum* (Dodecahedron, solid).
+  - **Plate XXVI** (``0243.rst``): *Duodecedron Planum Vacuum* (Dodecahedron, skeletal).
+  - **Plate XXVII** (``0245.rst``): *Duodecedron Abscisum Solidum* (**Icosidodecahedron**, Archimedean solid :math:`(3.5)^2` of 12 pentagons and 20 triangles, solid).
+  - **Plate XXVIII** (``0247.rst``): *Duodecedron Abscisum Vacuum* (Icosidodecahedron, skeletal).
+  - **Plate XXIX** (``0249.rst``): *Duodecedron Elevatum Solidum* (Equilateral pentagonal cumulation of the dodecahedron, solid—visually identical in vertex/face topology to Kepler's **Small Stellated Dodecahedron**!).
+  - **Plate XXX** (``0251.rst``): *Duodecedron Elevatum Vacuum* (Elevated dodecahedron, skeletal).
+  - **Plate XXXI–XXXII** (``0253.rst``, ``0255.rst``): *Exacedron Abscisum Elevatum Solidum / Vacuum* (Cumulated cuboctahedron, 48 triangular faces).
+  - **Plate XXXIII–XXXIV** (``0257.rst``, ``0259.rst``): *Duodecedron Abscisum Elevatum Solidum / Vacuum* (Cumulated icosidodecahedron, 120 triangular faces).
+
+Philological and Folio Apparatus
+--------------------------------
+
+- **1509 Paganini Witness Folios**: 0045, 0046 (f. 15r–f. 15v)
+- **Winterberg 1889 Italian Source**: ``winterberg/01_divina_proportione_italian/052_cap_LII.txt``
+- **Winterberg 1889 German Source**: ``winterberg/03_divina_proportione_german/052_cap_LII.txt``
+- **Marginal Woodcut Diagrams**: 0 figure(s) extracted from the 1509 Venice witness.
