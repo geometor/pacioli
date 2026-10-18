@@ -1,0 +1,22 @@
+Folio 0146 (Plate Folio 0146 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0145.rst``): Folio Plate Folio 0145 (recto) (recto), Appendix I: The Roman Geometric Alphabet — Roman Geometric Alphabet — Lettera D
+- **Current Folio** (``0146.rst``): Folio Plate Folio 0146 (verso) (verso), Appendix I: The Roman Geometric Alphabet [``04_alphabet``] — Alphabet Plate Verso (0146)
+- **Following Folio** (``0147.rst``): Folio Plate Folio 0147 (recto) (recto), Appendix I: The Roman Geometric Alphabet — Roman Geometric Alphabet — Lettera E
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0146 (verso)`` (Scan page ``146``, *verso*)
+- **Book & Section Slug**: Appendix I: The Roman Geometric Alphabet (``04_alphabet``)
+- **Leaf Category**: Alphabet Plate Verso (0146)

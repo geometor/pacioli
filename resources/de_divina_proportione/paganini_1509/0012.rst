@@ -1,22 +1,16 @@
 :folio: 0012
+:page: A4v
 :page_num: 12
 :side: verso
-:original_folio: A4v
+:volume: I
 :book: Front Matter and Dedications
-:chapters: None
-:graphics: 0012.g1.png
+:section: 00_front_matter
+:title: Tabula — Tabula (A4v)
 
-Folio 0012 (A4v) — Tabula — Table of Contents (A4v)
-===================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0012 (A4v) — Tabula — Tabula (A4v)
+========================================
 
 .. picture:: 0012.g1.png
-
-   **g1 (marginalia)**: Folio 0012 Marginalia 1
-
-Testo Originale (Paganini 1509)
--------------------------------
+   :alt: Folio 0012 Tavola g1
 
 per errore scorso.

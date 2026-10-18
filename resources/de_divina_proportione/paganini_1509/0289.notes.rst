@@ -1,0 +1,24 @@
+Folio 0289 (Plate Folio 0289 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0288.rst``): Folio Plate Folio 0288 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0288)
+- **Current Folio** (``0289.rst``): Folio Plate Folio 0289 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XLIX — Columna Laterata Penthagona Solida (Solid Pentagonal Prism)
+- **Following Folio** (``0290.rst``): Folio Plate Folio 0290 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0290)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0289.png``:
+
+- **``g1``** (``0289.g1.png``): Type ``plate`` | Caption: *Plate XLIX: Columna Laterata Penthagona Solida (Κίων πλευρώδης πεντάγωνος στερεός) — Solid Pentagonal Prism* | Bounding Box ``[x=0, y=0, w=612, h=1299]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0289 (recto)`` (Scan page ``289``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XLIX`` (Plate No. ``49``) | Latin Cartouche: *Columna Laterata Penthagona Solida* | Greek Cartouche: Κίων πλευρώδης πεντάγωνος στερεός

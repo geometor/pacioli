@@ -1,15 +1,13 @@
 :folio: 0296
+:page: Plate Folio 0296 (verso)
 :page_num: 296
 :side: verso
-:original_folio: Plate Folio 0296 (verso)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: None
+:section: 05_polyhedra_plates
+:title: Verso bianco della tavola dei corpi (0296)
 
-Folio 0296 (Plate Folio 0296 (verso)) — Polyhedra Plate Verso (0296)
-====================================================================
+Folio 0296 (Plate Folio 0296 (verso)) — Verso bianco della tavola dei corpi (0296)
+==================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0295) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0295 nell'edizione Paganini 1509.]*

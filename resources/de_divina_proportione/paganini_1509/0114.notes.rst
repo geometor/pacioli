@@ -1,0 +1,27 @@
+Folio 0114 (Libellus f. 15v) — Transcription & Graphic Calibration Notes
+========================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0113.rst``): Folio Libellus f. 15r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 15r)
+- **Current Folio** (``0114.rst``): Folio Libellus f. 15v (verso), Part III: Libellus in tres partiales tractatus divisus [``03_libellus``] — Libellus — Tractatus Tertius (Libellus f. 15v)
+- **Following Folio** (``0115.rst``): Folio Libellus f. 16r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 16r)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **3** woodcut element(s) were extracted and calibrated from ``0114.png``:
+
+- **``g1``** (``0114.g1.png``): Type ``diagram`` | Caption: *Folio 0114 Diagram 1* | Bounding Box ``[x=72, y=126, w=325, h=358]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g2``** (``0114.g2.png``): Type ``diagram`` | Caption: *Folio 0114 Diagram 2* | Bounding Box ``[x=67, y=801, w=311, h=324]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``c1``** (``0114.c1.png``): Type ``initial`` | Caption: *Folio 0114 Initial Cap 1* | Bounding Box ``[x=414, y=455, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``TRACTATVS``
+- **Folio Signature / Numeration**: ``Libellus f. 15v`` (Scan page ``114``, *verso*)
+- **Book & Section Slug**: Part III: Libellus in tres partiales tractatus divisus (``03_libellus``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Prohemio (Dedication)** (``None/None``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``N/A``

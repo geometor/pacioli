@@ -1,20 +1,17 @@
 :folio: 0131
+:page: Libellus f. 24r
 :page_num: 131
 :side: recto
-:original_folio: Libellus f. 24r
+:volume: I
 :book: Part III: Libellus in tres partiales tractatus divisus
-:chapters: None
-:graphics: 0131.c1.png
+:section: 03_libellus
+:title: Libellus — Tractatus Tertius (Libellus f. 24r)
 
 Folio 0131 (Libellus f. 24r) — Libellus — Tractatus Tertius (Libellus f. 24r)
 =============================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0131.c1.png
-
-   **c1 (initial)**: Folio 0131 Initial Cap 1
+   :alt: Folio 0131 Capolettera c1
 
 Pars Tertia: Libellus in tres partiales tractatus divisus
 ---------------------------------------------------------

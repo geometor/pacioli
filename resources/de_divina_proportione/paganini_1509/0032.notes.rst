@@ -1,0 +1,30 @@
+Folio 0032 (f. 8v) — Transcription & Graphic Calibration Notes
+==============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0031.rst``): Folio f. 8r (recto), Part I: Compendio de Divina Proportione — Cap. XXIII, Cap. XXIV, Cap. XXV (f. 8r) — Cüp. XXIII.
+- **Current Folio** (``0032.rst``): Folio f. 8v (verso), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. XXV, Cap. XXVI, Cap. XXVII (f. 8v) — Commo non possino essere più. 5. corpi regulari.
+- **Following Folio** (``0033.rst``): Folio f. 9r (recto), Part I: Compendio de Divina Proportione — Cap. XXVII, Cap. XXVIII (f. 9r) — Dela fabrica del cubo e sua proportione ala spera.
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **4** woodcut element(s) were extracted and calibrated from ``0032.png``:
+
+- **``g1``** (``0032.g1.png``): Type ``diagram`` | Caption: *Folio 0032 Diagram 1* | Bounding Box ``[x=66, y=123, w=327, h=233]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g2``** (``0032.g2.png``): Type ``diagram`` | Caption: *Folio 0032 Diagram 2* | Bounding Box ``[x=40, y=376, w=345, h=80]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g3``** (``0032.g3.png``): Type ``diagram`` | Caption: *Folio 0032 Diagram 3* | Bounding Box ``[x=48, y=549, w=328, h=350]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``c1``** (``0032.c1.png``): Type ``initial`` | Caption: *Folio 0032 Initial Cap 1* | Bounding Box ``[x=399, y=607, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PARS``
+- **Folio Signature / Numeration**: ``f. 8v`` (Scan page ``32``, *verso*)
+- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. XXV** (``compendio/cap_25``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/025_cap_XXV.txt``
+  - **Cap. XXVI** (``compendio/cap_26``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/026_cap_XXVI.txt``
+  - **Cap. XXVII** (``compendio/cap_27``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/027_cap_XXVII.txt``

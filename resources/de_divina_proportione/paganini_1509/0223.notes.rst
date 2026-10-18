@@ -1,0 +1,24 @@
+Folio 0223 (Plate Folio 0223 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0222.rst``): Folio Plate Folio 0222 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0222)
+- **Current Folio** (``0223.rst``): Folio Plate Folio 0223 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XVII — Octahedron Abscisum Solidum (Solid Truncated Octahedron)
+- **Following Folio** (``0224.rst``): Folio Plate Folio 0224 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0224)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0223.png``:
+
+- **``g1``** (``0223.g1.png``): Type ``plate`` | Caption: *Plate XVII: Octahedron Abscisum Solidum (Ὀκτάεδρον ἀποτετμημένον στερεόν) — Solid Truncated Octahedron* | Bounding Box ``[x=0, y=0, w=822, h=1515]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0223 (recto)`` (Scan page ``223``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XVII`` (Plate No. ``17``) | Latin Cartouche: *Octahedron Abscisum Solidum* | Greek Cartouche: Ὀκτάεδρον ἀποτετμημένον στερεόν

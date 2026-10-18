@@ -1,20 +1,17 @@
 :folio: 0283
+:page: Plate Folio 0283 (recto)
 :page_num: 283
 :side: recto
-:original_folio: Plate Folio 0283 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0283.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula XLVII — Pyramis Laterata Quadrangula Solida (Πυραμὶς πλευρώδης τετράγωνος στερεά)
 
-Folio 0283 (Plate Folio 0283 (recto)) — Plate XLVII — Pyramis Laterata Quadrangula Solida (Solid Quadrangular Pyramid)
-======================================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0283 (Plate Folio 0283 (recto)) — Tabula XLVII — Pyramis Laterata Quadrangula Solida (Πυραμὶς πλευρώδης τετράγωνος στερεά)
+================================================================================================================================
 
 .. picture:: 0283.g1.png
-
-   **g1 (plate)**: Plate XLVII: Pyramis Laterata Quadrangula Solida (Πυραμὶς πλευρώδης τετράγωνος στερεά) — Solid Quadrangular Pyramid
+   :alt: Tabula XLVII: Pyramis Laterata Quadrangula Solida (Πυραμὶς πλευρώδης τετράγωνος στερεά)
 
 Tabula XLVII (No. 47)
 ---------------------

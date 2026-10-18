@@ -1,20 +1,17 @@
 :folio: 0271
+:page: Plate Folio 0271 (recto)
 :page_num: 271
 :side: recto
-:original_folio: Plate Folio 0271 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0271.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula XLI — Columna Laterata Triangula Solida (Κίων πλευρώδης τρίγωνος στερεός)
 
-Folio 0271 (Plate Folio 0271 (recto)) — Plate XLI — Columna Laterata Triangula Solida (Solid Triangular Prism (Corpus Seratile))
-================================================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0271 (Plate Folio 0271 (recto)) — Tabula XLI — Columna Laterata Triangula Solida (Κίων πλευρώδης τρίγωνος στερεός)
+========================================================================================================================
 
 .. picture:: 0271.g1.png
-
-   **g1 (plate)**: Plate XLI: Columna Laterata Triangula Solida (Κίων πλευρώδης τρίγωνος στερεός) — Solid Triangular Prism (Corpus Seratile)
+   :alt: Tabula XLI: Columna Laterata Triangula Solida (Κίων πλευρώδης τρίγωνος στερεός)
 
 Tabula XLI (No. 41)
 -------------------

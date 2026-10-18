@@ -1,0 +1,22 @@
+Folio 0252 (Plate Folio 0252 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0251.rst``): Folio Plate Folio 0251 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXXI — Dodecahedron Elevatum Solidum (Solid Elevated Dodecahedron)
+- **Current Folio** (``0252.rst``): Folio Plate Folio 0252 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0252)
+- **Following Folio** (``0253.rst``): Folio Plate Folio 0253 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXXII — Dodecahedron Elevatum Vacuum (Hollow Elevated Dodecahedron)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0252 (verso)`` (Scan page ``252``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0252)

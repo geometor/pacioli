@@ -1,0 +1,27 @@
+Folio 0130 (Libellus f. 23v) — Transcription & Graphic Calibration Notes
+========================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0129.rst``): Folio Libellus f. 23r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 23r)
+- **Current Folio** (``0130.rst``): Folio Libellus f. 23v (verso), Part III: Libellus in tres partiales tractatus divisus [``03_libellus``] — Libellus — Tractatus Tertius (Libellus f. 23v)
+- **Following Folio** (``0131.rst``): Folio Libellus f. 24r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 24r)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **4** woodcut element(s) were extracted and calibrated from ``0130.png``:
+
+- **``g1``** (``0130.g1.png``): Type ``diagram`` | Caption: *Folio 0130 Diagram 1* | Bounding Box ``[x=127, y=137, w=247, h=794]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g2``** (``0130.g2.png``): Type ``diagram`` | Caption: *Folio 0130 Diagram 2* | Bounding Box ``[x=52, y=909, w=342, h=281]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``c1``** (``0130.c1.png``): Type ``initial`` | Caption: *Folio 0130 Initial Cap 1* | Bounding Box ``[x=404, y=309, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0130.c2.png``): Type ``initial`` | Caption: *Folio 0130 Initial Cap 2* | Bounding Box ``[x=407, y=908, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``TRACTATVS``
+- **Folio Signature / Numeration**: ``Libellus f. 23v`` (Scan page ``130``, *verso*)
+- **Book & Section Slug**: Part III: Libellus in tres partiales tractatus divisus (``03_libellus``)
+- **Leaf Category**: Libellus — Tractatus Tertius (Libellus f. 23v)

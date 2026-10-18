@@ -1,38 +1,30 @@
 :folio: 0034
+:page: f. 9v
 :page_num: 34
 :side: verso
-:original_folio: f. 9v
+:volume: I
 :book: Part I: Compendio de Divina Proportione
-:chapters: compendio/cap_28 (Cap. XXVIII), compendio/cap_29 (Cap. XXIX)
-:graphics: 0034.g1.png, 0034.g2.png, 0034.c1.png
+:section: 01_compendio
+:title: Cap. XXVIII, Cap. XXIX (f. 9v) — Commo se formi lo octocedron in spera aponto collocabil
 
 Folio 0034 (f. 9v) — Cap. XXVIII, Cap. XXIX (f. 9v) — Commo se formi lo octocedron in spera aponto collocabil
 =============================================================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0034.g1.png
-
-   **g1 (diagram)**: Folio 0034 Diagram 1
+   :alt: Folio 0034 Figura g1
 
 .. picture:: 0034.g2.png
-
-   **g2 (diagram)**: Folio 0034 Diagram 2
+   :alt: Folio 0034 Figura g2
 
 .. picture:: 0034.c1.png
-
-   **c1 (initial)**: Folio 0034 Initial Cap 1
-
-Testo Italiano (Paganini 1509 / Winterberg 1889)
-------------------------------------------------
+   :alt: Folio 0034 Capolettera c1
 
 Cap. XXVIII: Commo se formi lo octocedron in spera aponto collocabile e sua proportione ala spera. (continuatio)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------------------------------------------------------------------
 
 E ancora equali ali lati del quadrato. Adonca finqua habiamo vna piramide de 4 basi triangulari de lati equali constituta sopra el dicto quadrato la qual piramide fia la mita del corpo de 8 basi quale intendemo. Dapoi sotto dicto quadrato faremo vnaltra piramide simile aquesta in questo modo cioè. Tiraremo la dieta linea Ik. forando epenetrando el dicto quadrato fin al ponto m in modo che la linea km. laqual sta sotto el quadrato sia equale ala linea Ik laqual sta desopra dicto quadrato. E da poi giognero el ponto m. con tutti li anguli del quadrato tirando 4 altre linee ypotumisali le quali sonno me.mf.mg.mh. Equeste ancora se prouano esser equali fraloro e ancora ali lati de ditto quadrato per la penultima del primo e laltre sopra aducte commo fo prouato de laltre ypotumisse sopra al quadrato. Ecosi sempre con diligentia obseruate le sopra diete cose sira finito el corpo de 8 basi triangulari de lati equali el quale apunto sira dala spera circumscripto. La proportione fra la spera el dicto corpo sie chel quadrato del diametro dela spera al quadrato dellato de dicto corpo fia dopio aponto cioè sei dicto diametro fosse 8 el lato del octobasi seria R. 32. lecui potentie fraloro sonno in dupla proportione cioè chel quadrato del diametro fia dopio al quadrato dellato del dicto corpo e cosi habiamo la fabrica eia proportione respecto la spera etc.
 
 Cap. XXIX: De la fabrica e formatione del corpo detto ycocedron.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------------------
 
 Saper fare el corpo de 20 basi triangulari equilateri che aponto da vna data spera che habia el diametro rationale sia circundato. E sira euidentemente ellato del dicto corpo vna linea irrationale cioè quella che fia dieta linea menore. Verbi gratia Sia ancora qui el diametro dela data spera ala qual se ponga esser rationale o in longhezza o solo in la potenza. E diuidase nel ponto e. In modo che ae. sia quadrupla del cb. e faciase. sopra lei el semieirculo adb. etirise ed. perpendiculare al ab. e tirise la linea db. Dapoi secondo la quantità de la linea db. se facia el cerchio efghk. sópra el centro 1 al quale se inscriua vn pentagono equilatero de le medesime anotato. Ali anguli del quale dal centro 1 semenino le linee le . If . Ig . Ih . Ik. E ancora nel medesimo cerchio se faria vndecagono equilatero. Dividinse adonca tutti li archi per equali de liquali le cordo sonno li lati del pentagono. E dali ponti medii al extremita de tutti li lati, de lo inscripto pentagono se dirizino le linee recte. E ancora sopra tutti li anguli del dicto pentagono se dirigi el cateto commo insegna la duodecima del vndecimo liquali cadauna ancora sia equale ala linea bd. E congionghinse le extremita de questi 5 cateti con 5 corausti. E siranno per la sexta del vndecimo li 5 cateti cosi derigati fraloro equidistanti. E conciosia che loro sienno equali siranno ancora per la tregesimaterza del primo li 5 corausti quali congiongano le loro extremita equali ali lati del pentagono. Lascia cadere adonca da cadauna sumita de tutti li cateti doi e doi ypotumise ali dai anguli circunstanti del decagono ^ inscripto. E le extremita de queste deci ypotomisse quali descendano dale 5 extremita de li cateti ali 5 ponti quali sonno cadauni anguli medii del decagono inscripto congiungi formando vnoaltro pentagono nel dicto cerchio. El quale ancora sira equilatero per la vigesimaterza del terzo. E quando arai facto questo ve 1. congiunti formano. derai che arai facto io trianguli de li quali li lati sonno le io ypotomise eli 5 corausti. eli 5 lati de questo pentagono inscripto. E che questi trianguli sienno equilateri cosi lo aprenderai. Conciosia che tanto el semidiametro del cerchio descripto quanto che cadauna de li cateti derizati sia equale ala linea bd. per la ypothesi sira per lo corelario de la i5. del 4 cadauno de li cateti equale allato delo exagono equilatero facto nel cerchio del quale el diametro i) fia equale ala linea bd. E perche per la penultima del primo cadauna dele io ypothemise tanto e più potente del cateto quanto pò ellato del decagono ancora per la decima del terzodecimo ellato del pentagono e tanto più potente del medesimo quanto pò el medesimo lato del decagono sira per la comuna scientia cadauna de queste ypotomise equale allato del pentagono.

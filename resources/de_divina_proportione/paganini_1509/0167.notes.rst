@@ -1,0 +1,24 @@
+Folio 0167 (Plate Folio 0167 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0166.rst``): Folio Plate Folio 0166 (verso) (verso), Appendix I: The Roman Geometric Alphabet — Alphabet Plate Verso (0166)
+- **Current Folio** (``0167.rst``): Folio Plate Folio 0167 (recto) (recto), Appendix I: The Roman Geometric Alphabet [``04_alphabet``] — Roman Geometric Alphabet — Lettera O (secondo modo)
+- **Following Folio** (``0168.rst``): Folio Plate Folio 0168 (verso) (verso), Appendix I: The Roman Geometric Alphabet — Alphabet Plate Verso (0168)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0167.png``:
+
+- **``g1``** (``0167.g1.png``): Type ``plate`` | Caption: *Roman Geometric Alphabet — Lettera O (secondo modo)* | Bounding Box ``[x=82, y=267, w=611, h=597]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0167 (recto)`` (Scan page ``167``, *recto*)
+- **Book & Section Slug**: Appendix I: The Roman Geometric Alphabet (``04_alphabet``)
+- **Leaf Category**: Roman Geometric Alphabet — Lettera O (secondo modo)

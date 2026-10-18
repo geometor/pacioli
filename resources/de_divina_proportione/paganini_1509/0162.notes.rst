@@ -1,0 +1,22 @@
+Folio 0162 (Plate Folio 0162 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0161.rst``): Folio Plate Folio 0161 (recto) (recto), Appendix I: The Roman Geometric Alphabet — Roman Geometric Alphabet — Lettera M
+- **Current Folio** (``0162.rst``): Folio Plate Folio 0162 (verso) (verso), Appendix I: The Roman Geometric Alphabet [``04_alphabet``] — Alphabet Plate Verso (0162)
+- **Following Folio** (``0163.rst``): Folio Plate Folio 0163 (recto) (recto), Appendix I: The Roman Geometric Alphabet — Roman Geometric Alphabet — Lettera N
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0162 (verso)`` (Scan page ``162``, *verso*)
+- **Book & Section Slug**: Appendix I: The Roman Geometric Alphabet (``04_alphabet``)
+- **Leaf Category**: Alphabet Plate Verso (0162)

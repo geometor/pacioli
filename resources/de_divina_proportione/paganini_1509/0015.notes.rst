@@ -1,0 +1,26 @@
+Folio 0015 (A6r) — Transcription & Graphic Calibration Notes
+============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0014.rst``): Folio A5v (verso), Front Matter and Dedications — Tabula — Table of Contents (A5v)
+- **Current Folio** (``0015.rst``): Folio A6r (recto), Front Matter and Dedications [``00_front_matter``] — Tabula — Table of Contents (A6r)
+- **Following Folio** (``0016.rst``): Folio A6v (verso), Front Matter and Dedications — Tabula — Table of Contents (A6v)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **3** woodcut element(s) were extracted and calibrated from ``0015.png``:
+
+- **``g1``** (``0015.g1.png``): Type ``marginalia`` | Caption: *Folio 0015 Marginalia 1* | Bounding Box ``[x=695, y=867, w=89, h=53]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``g2``** (``0015.g2.png``): Type ``diagram`` | Caption: *Folio 0015 Diagram 2* | Bounding Box ``[x=652, y=1181, w=279, h=101]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``c1``** (``0015.c1.png``): Type ``initial`` | Caption: *Folio 0015 Initial Cap 1* | Bounding Box ``[x=132, y=170, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``jTDeti corpi òblorigbi cioè più' tanghi ó ver atti che largh``
+- **Folio Signature / Numeration**: ``A6r`` (Scan page ``15``, *recto*)
+- **Book & Section Slug**: Front Matter and Dedications (``00_front_matter``)
+- **Leaf Category**: Tabula — Table of Contents (A6r)

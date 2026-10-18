@@ -1,20 +1,17 @@
 :folio: 0239
+:page: Plate Folio 0239 (recto)
 :page_num: 239
 :side: recto
-:original_folio: Plate Folio 0239 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0239.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula XXV — Icosahedron Elevatum Solidum (Εἰκοσάεδρον ἐπηρμένον στερεόν)
 
-Folio 0239 (Plate Folio 0239 (recto)) — Plate XXV — Icosahedron Elevatum Solidum (Solid Elevated Icosahedron)
-=============================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0239 (Plate Folio 0239 (recto)) — Tabula XXV — Icosahedron Elevatum Solidum (Εἰκοσάεδρον ἐπηρμένον στερεόν)
+=================================================================================================================
 
 .. picture:: 0239.g1.png
-
-   **g1 (plate)**: Plate XXV: Icosahedron Elevatum Solidum (Εἰκοσάεδρον ἐπηρμένον στερεόν) — Solid Elevated Icosahedron
+   :alt: Tabula XXV: Icosahedron Elevatum Solidum (Εἰκοσάεδρον ἐπηρμένον στερεόν)
 
 Tabula XXV (No. 25)
 -------------------

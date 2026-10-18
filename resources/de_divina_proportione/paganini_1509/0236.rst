@@ -1,15 +1,13 @@
 :folio: 0236
+:page: Plate Folio 0236 (verso)
 :page_num: 236
 :side: verso
-:original_folio: Plate Folio 0236 (verso)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: None
+:section: 05_polyhedra_plates
+:title: Verso bianco della tavola dei corpi (0236)
 
-Folio 0236 (Plate Folio 0236 (verso)) — Polyhedra Plate Verso (0236)
-====================================================================
+Folio 0236 (Plate Folio 0236 (verso)) — Verso bianco della tavola dei corpi (0236)
+==================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0235) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0235 nell'edizione Paganini 1509.]*

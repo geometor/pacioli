@@ -1,0 +1,22 @@
+Folio 0238 (Plate Folio 0238 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0237.rst``): Folio Plate Folio 0237 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXIIII — Icosahedron Abscisum Vacuum (Hollow Truncated Icosahedron)
+- **Current Folio** (``0238.rst``): Folio Plate Folio 0238 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0238)
+- **Following Folio** (``0239.rst``): Folio Plate Folio 0239 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXV — Icosahedron Elevatum Solidum (Solid Elevated Icosahedron)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0238 (verso)`` (Scan page ``238``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0238)

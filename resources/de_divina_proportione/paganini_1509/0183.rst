@@ -1,22 +1,16 @@
 :folio: 0183
+:page: Plate Folio 0183 (recto)
 :page_num: 183
 :side: recto
-:original_folio: Plate Folio 0183 (recto)
+:volume: I
 :book: Appendix I: The Roman Geometric Alphabet
-:chapters: None
-:graphics: 0183.g1.png
+:section: 04_alphabet
+:title: Roman Geometric Alphabet — Lettera Y
 
 Folio 0183 (Plate Folio 0183 (recto)) — Roman Geometric Alphabet — Lettera Y
 ============================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0183.g1.png
-
-   **g1 (plate)**: Roman Geometric Alphabet — Lettera Y
-
-Testo Originale (Paganini 1509)
--------------------------------
+   :alt: Folio 0183 Tavola g1
 
 Questa lettera Y vol tutto el quadro; le gambe dextra e senistra vogliano esser grosse comme la proportione de quelle del V, salvo che le terminano a poncto in su la intersecatione de li diametri, e da inde in giù si tira lor conjunctione ala basa del quadrato grossa el nono del quadrato; le teste de sopra finescano su li soi tondi comme vedi.

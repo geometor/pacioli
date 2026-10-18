@@ -1,0 +1,22 @@
+Folio 0318 (End Matter 0318 (verso)) — Transcription & Graphic Calibration Notes
+================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0317.rst``): Folio End Matter 0317 (recto) (recto), End Matter and Colophon — Endleaf (0317)
+- **Current Folio** (``0318.rst``): Folio End Matter 0318 (verso) (verso), End Matter and Colophon [``06_end_matter``] — Endleaf (0318)
+- **Following Folio**: None (Final scan of the 1509 Venice witness).
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``End Matter 0318 (verso)`` (Scan page ``318``, *verso*)
+- **Book & Section Slug**: End Matter and Colophon (``06_end_matter``)
+- **Leaf Category**: Endleaf (0318)

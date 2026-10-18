@@ -1,0 +1,24 @@
+Folio 0269 (Plate Folio 0269 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0268.rst``): Folio Plate Folio 0268 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0268)
+- **Current Folio** (``0269.rst``): Folio Plate Folio 0269 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XL — Septuaginta Duarum Basium Vacuum (Hollow 72-Base Body)
+- **Following Folio** (``0270.rst``): Folio Plate Folio 0270 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0270)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0269.png``:
+
+- **``g1``** (``0269.g1.png``): Type ``plate`` | Caption: *Plate XL: Septuaginta Duarum Basium Vacuum (Ἑβδομηκονταδισσάεδρον κενόν) — Hollow 72-Base Body* | Bounding Box ``[x=0, y=0, w=835, h=1515]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0269 (recto)`` (Scan page ``269``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XL`` (Plate No. ``40``) | Latin Cartouche: *Septuaginta Duarum Basium Vacuum* | Greek Cartouche: Ἑβδομηκονταδισσάεδρον κενόν

@@ -1,24 +1,20 @@
 :folio: 0134
+:page: Libellus f. 25v
 :page_num: 134
 :side: verso
-:original_folio: Libellus f. 25v
+:volume: I
 :book: Part III: Libellus in tres partiales tractatus divisus
-:chapters: None
-:graphics: 0134.c1.png, 0134.c2.png
+:section: 03_libellus
+:title: Libellus — Tractatus Tertius (Libellus f. 25v)
 
 Folio 0134 (Libellus f. 25v) — Libellus — Tractatus Tertius (Libellus f. 25v)
 =============================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0134.c1.png
-
-   **c1 (initial)**: Folio 0134 Initial Cap 1
+   :alt: Folio 0134 Capolettera c1
 
 .. picture:: 0134.c2.png
-
-   **c2 (initial)**: Folio 0134 Initial Cap 2
+   :alt: Folio 0134 Capolettera c2
 
 Pars Tertia: Libellus in tres partiales tractatus divisus
 ---------------------------------------------------------

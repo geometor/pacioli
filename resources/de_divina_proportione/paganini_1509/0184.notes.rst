@@ -1,0 +1,22 @@
+Folio 0184 (Plate Folio 0184 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0183.rst``): Folio Plate Folio 0183 (recto) (recto), Appendix I: The Roman Geometric Alphabet — Roman Geometric Alphabet — Lettera Y
+- **Current Folio** (``0184.rst``): Folio Plate Folio 0184 (verso) (verso), Appendix I: The Roman Geometric Alphabet [``04_alphabet``] — Alphabet Plate Verso (0184)
+- **Following Folio** (``0185.rst``): Folio Plate Folio 0185 (recto) (recto), Appendix I: The Roman Geometric Alphabet — Porta Templi Domini Dicta Speciosa
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0184 (verso)`` (Scan page ``184``, *verso*)
+- **Book & Section Slug**: Appendix I: The Roman Geometric Alphabet (``04_alphabet``)
+- **Leaf Category**: Alphabet Plate Verso (0184)

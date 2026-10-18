@@ -1,15 +1,13 @@
 :folio: 0004
+:page: Flyleaf 2v
 :page_num: 4
 :side: verso
-:original_folio: Flyleaf 2v
+:volume: I
 :book: Front Matter and Dedications
-:chapters: None
-:graphics: None
+:section: 00_front_matter
+:title: Flyleaf (Flyleaf 2v)
 
 Folio 0004 (Flyleaf 2v) — Flyleaf (Flyleaf 2v)
 ==============================================
 
-Folio Description
------------------
-
-Blank leaf / flyleaf (Flyleaf 2v) in the 1509 Venice witness (*Paganinus de Paganinis de Brixia*).
+*[Carta bianca / guardia (Flyleaf 2v) nell'edizione veneziana di Paganino de' Paganini, 1509.]*

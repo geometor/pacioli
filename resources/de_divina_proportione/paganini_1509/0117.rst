@@ -1,40 +1,32 @@
 :folio: 0117
+:page: Libellus f. 17r
 :page_num: 117
 :side: recto
-:original_folio: Libellus f. 17r
+:volume: I
 :book: Part III: Libellus in tres partiales tractatus divisus
-:chapters: None
-:graphics: 0117.c1.png, 0117.c2.png, 0117.c3.png, 0117.c4.png, 0117.c5.png, 0117.c6.png
+:section: 03_libellus
+:title: Libellus — Tractatus Tertius (Libellus f. 17r)
 
 Folio 0117 (Libellus f. 17r) — Libellus — Tractatus Tertius (Libellus f. 17r)
 =============================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0117.c1.png
-
-   **c1 (initial)**: Folio 0117 Initial Cap 1
+   :alt: Folio 0117 Capolettera c1
 
 .. picture:: 0117.c2.png
-
-   **c2 (initial)**: Folio 0117 Initial Cap 2
+   :alt: Folio 0117 Capolettera c2
 
 .. picture:: 0117.c3.png
-
-   **c3 (initial)**: Folio 0117 Initial Cap 3
+   :alt: Folio 0117 Capolettera c3
 
 .. picture:: 0117.c4.png
-
-   **c4 (initial)**: Folio 0117 Initial Cap 4
+   :alt: Folio 0117 Capolettera c4
 
 .. picture:: 0117.c5.png
-
-   **c5 (initial)**: Folio 0117 Initial Cap 5
+   :alt: Folio 0117 Capolettera c5
 
 .. picture:: 0117.c6.png
-
-   **c6 (initial)**: Folio 0117 Initial Cap 6
+   :alt: Folio 0117 Capolettera c6
 
 Pars Tertia: Libellus in tres partiales tractatus divisus
 ---------------------------------------------------------

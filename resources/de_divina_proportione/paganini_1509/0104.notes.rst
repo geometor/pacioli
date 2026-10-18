@@ -1,0 +1,32 @@
+Folio 0104 (Libellus f. 10v) — Transcription & Graphic Calibration Notes
+========================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0103.rst``): Folio Libellus f. 10r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Secundus (Libellus f. 10r)
+- **Current Folio** (``0104.rst``): Folio Libellus f. 10v (verso), Part III: Libellus in tres partiales tractatus divisus [``03_libellus``] — Libellus — Tractatus Secundus (Libellus f. 10v)
+- **Following Folio** (``0105.rst``): Folio Libellus f. 11r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Secundus (Libellus f. 11r)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **7** woodcut element(s) were extracted and calibrated from ``0104.png``:
+
+- **``g1``** (``0104.g1.png``): Type ``diagram`` | Caption: *Folio 0104 Diagram 1* | Bounding Box ``[x=83, y=32, w=301, h=321]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g2``** (``0104.g2.png``): Type ``diagram`` | Caption: *Folio 0104 Diagram 2* | Bounding Box ``[x=84, y=328, w=301, h=308]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g3``** (``0104.g3.png``): Type ``diagram`` | Caption: *Folio 0104 Diagram 3* | Bounding Box ``[x=117, y=611, w=251, h=441]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g4``** (``0104.g4.png``): Type ``diagram`` | Caption: *Folio 0104 Diagram 4* | Bounding Box ``[x=123, y=1028, w=238, h=238]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``c1``** (``0104.c1.png``): Type ``initial`` | Caption: *Folio 0104 Initial Cap 1* | Bounding Box ``[x=416, y=223, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0104.c2.png``): Type ``initial`` | Caption: *Folio 0104 Initial Cap 2* | Bounding Box ``[x=413, y=651, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c3``** (``0104.c3.png``): Type ``initial`` | Caption: *Folio 0104 Initial Cap 3* | Bounding Box ``[x=413, y=1051, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``TRACTATVS``
+- **Folio Signature / Numeration**: ``Libellus f. 10v`` (Scan page ``104``, *verso*)
+- **Book & Section Slug**: Part III: Libellus in tres partiales tractatus divisus (``03_libellus``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Prohemio (Dedication)** (``None/None``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``N/A``
+  - **Prohemio (Dedication)** (``None/None``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``N/A``

@@ -1,20 +1,17 @@
 :folio: 0187
+:page: Plate Folio 0187 (recto)
 :page_num: 187
 :side: recto
-:original_folio: Plate Folio 0187 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0187.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula I — Tetrahedron Planum Solidum (Τετράεδρον ἐπίπεδον στερεόν)
 
-Folio 0187 (Plate Folio 0187 (recto)) — Plate I — Tetrahedron Planum Solidum (Solid Regular Tetrahedron)
-========================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0187 (Plate Folio 0187 (recto)) — Tabula I — Tetrahedron Planum Solidum (Τετράεδρον ἐπίπεδον στερεόν)
+===========================================================================================================
 
 .. picture:: 0187.g1.png
-
-   **g1 (plate)**: Plate I: Tetrahedron Planum Solidum (Τετράεδρον ἐπίπεδον στερεόν) — Solid Regular Tetrahedron
+   :alt: Tabula I: Tetrahedron Planum Solidum (Τετράεδρον ἐπίπεδον στερεόν)
 
 Tabula I (No. 1)
 ----------------

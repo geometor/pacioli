@@ -1,20 +1,17 @@
 :folio: 0257
+:page: Plate Folio 0257 (recto)
 :page_num: 257
 :side: recto
-:original_folio: Plate Folio 0257 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0257.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula XXXIIII — Dodecahedron Abscisum Elevatum Vacuum (Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον κενόν)
 
-Folio 0257 (Plate Folio 0257 (recto)) — Plate XXXIIII — Dodecahedron Abscisum Elevatum Vacuum (Hollow Elevated Truncated Dodecahedron)
-======================================================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0257 (Plate Folio 0257 (recto)) — Tabula XXXIIII — Dodecahedron Abscisum Elevatum Vacuum (Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον κενόν)
+==========================================================================================================================================
 
 .. picture:: 0257.g1.png
-
-   **g1 (plate)**: Plate XXXIIII: Dodecahedron Abscisum Elevatum Vacuum (Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον κενόν) — Hollow Elevated Truncated Dodecahedron
+   :alt: Tabula XXXIIII: Dodecahedron Abscisum Elevatum Vacuum (Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον κενόν)
 
 Tabula XXXIIII (No. 34)
 -----------------------

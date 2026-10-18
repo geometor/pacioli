@@ -1,0 +1,24 @@
+Folio 0145 (Plate Folio 0145 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0144.rst``): Folio Plate Folio 0144 (verso) (verso), Appendix I: The Roman Geometric Alphabet — Alphabet Plate Verso (0144)
+- **Current Folio** (``0145.rst``): Folio Plate Folio 0145 (recto) (recto), Appendix I: The Roman Geometric Alphabet [``04_alphabet``] — Roman Geometric Alphabet — Lettera D
+- **Following Folio** (``0146.rst``): Folio Plate Folio 0146 (verso) (verso), Appendix I: The Roman Geometric Alphabet — Alphabet Plate Verso (0146)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0145.png``:
+
+- **``g1``** (``0145.g1.png``): Type ``plate`` | Caption: *Roman Geometric Alphabet — Lettera D* | Bounding Box ``[x=50, y=248, w=693, h=606]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0145 (recto)`` (Scan page ``145``, *recto*)
+- **Book & Section Slug**: Appendix I: The Roman Geometric Alphabet (``04_alphabet``)
+- **Leaf Category**: Roman Geometric Alphabet — Lettera D

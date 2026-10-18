@@ -1,0 +1,24 @@
+Folio 0207 (Plate Folio 0207 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0206.rst``): Folio Plate Folio 0206 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0206)
+- **Current Folio** (``0207.rst``): Folio Plate Folio 0207 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XI — Exahedron Elevatum Solidum (Solid Elevated Hexahedron)
+- **Following Folio** (``0208.rst``): Folio Plate Folio 0208 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0208)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0207.png``:
+
+- **``g1``** (``0207.g1.png``): Type ``plate`` | Caption: *Plate XI: Exahedron Elevatum Solidum (Ἑξάεδρον ἐπηρμένον στερεόν) — Solid Elevated Hexahedron* | Bounding Box ``[x=0, y=106, w=832, h=1237]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0207 (recto)`` (Scan page ``207``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XI`` (Plate No. ``11``) | Latin Cartouche: *Exahedron Elevatum Solidum* | Greek Cartouche: Ἑξάεδρον ἐπηρμένον στερεόν

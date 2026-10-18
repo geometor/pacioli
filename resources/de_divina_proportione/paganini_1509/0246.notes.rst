@@ -1,0 +1,22 @@
+Folio 0246 (Plate Folio 0246 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0245.rst``): Folio Plate Folio 0245 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXVIII — Dodecahedron Planum Vacuum (Hollow Regular Dodecahedron)
+- **Current Folio** (``0246.rst``): Folio Plate Folio 0246 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0246)
+- **Following Folio** (``0247.rst``): Folio Plate Folio 0247 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXIX — Dodecahedron Abscisum Solidum (Solid Truncated Dodecahedron (Icosidodecahedron))
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0246 (verso)`` (Scan page ``246``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0246)

@@ -1,0 +1,24 @@
+Folio 0163 (Plate Folio 0163 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0162.rst``): Folio Plate Folio 0162 (verso) (verso), Appendix I: The Roman Geometric Alphabet — Alphabet Plate Verso (0162)
+- **Current Folio** (``0163.rst``): Folio Plate Folio 0163 (recto) (recto), Appendix I: The Roman Geometric Alphabet [``04_alphabet``] — Roman Geometric Alphabet — Lettera N
+- **Following Folio** (``0164.rst``): Folio Plate Folio 0164 (verso) (verso), Appendix I: The Roman Geometric Alphabet — Alphabet Plate Verso (0164)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0163.png``:
+
+- **``g1``** (``0163.g1.png``): Type ``plate`` | Caption: *Roman Geometric Alphabet — Lettera N* | Bounding Box ``[x=18, y=260, w=757, h=599]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0163 (recto)`` (Scan page ``163``, *recto*)
+- **Book & Section Slug**: Appendix I: The Roman Geometric Alphabet (``04_alphabet``)
+- **Leaf Category**: Roman Geometric Alphabet — Lettera N

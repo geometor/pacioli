@@ -1,0 +1,29 @@
+Folio 0086 (Libellus f. 1v) — Transcription & Graphic Calibration Notes
+=======================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0085.rst``): Folio Libellus f. 1r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Primus (Libellus f. 1r)
+- **Current Folio** (``0086.rst``): Folio Libellus f. 1v (verso), Part III: Libellus in tres partiales tractatus divisus [``03_libellus``] — Libellus — Tractatus Primus (Libellus f. 1v)
+- **Following Folio** (``0087.rst``): Folio Libellus f. 2r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Primus (Libellus f. 2r)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **6** woodcut element(s) were extracted and calibrated from ``0086.png``:
+
+- **``g1``** (``0086.g1.png``): Type ``diagram`` | Caption: *Folio 0086 Diagram 1* | Bounding Box ``[x=67, y=84, w=327, h=315]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g2``** (``0086.g2.png``): Type ``diagram`` | Caption: *Folio 0086 Diagram 2* | Bounding Box ``[x=56, y=455, w=333, h=346]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g3``** (``0086.g3.png``): Type ``diagram`` | Caption: *Folio 0086 Diagram 3* | Bounding Box ``[x=52, y=938, w=348, h=224]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``c1``** (``0086.c1.png``): Type ``initial`` | Caption: *Folio 0086 Initial Cap 1* | Bounding Box ``[x=410, y=250, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0086.c2.png``): Type ``initial`` | Caption: *Folio 0086 Initial Cap 2* | Bounding Box ``[x=411, y=546, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c3``** (``0086.c3.png``): Type ``initial`` | Caption: *Folio 0086 Initial Cap 3* | Bounding Box ``[x=408, y=846, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``TRACTATVS``
+- **Folio Signature / Numeration**: ``Libellus f. 1v`` (Scan page ``86``, *verso*)
+- **Book & Section Slug**: Part III: Libellus in tres partiales tractatus divisus (``03_libellus``)
+- **Leaf Category**: Libellus — Tractatus Primus (Libellus f. 1v)

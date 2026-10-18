@@ -1,0 +1,30 @@
+Folio 0053 (f. 19r) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0052.rst``): Folio f. 18v (verso), Part I: Compendio de Divina Proportione — Cap. LVIII, Cap. LIX, Cap. LX (f. 18v) — De li corpi oblunghi cioè più longhi ouer alti che larg
+- **Current Folio** (``0053.rst``): Folio f. 19r (recto), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. LX, Cap. LXI, Cap. LXII (f. 19r) — Dele colonne laterate quadrilatere.
+- **Following Folio** (``0054.rst``): Folio f. 19v (verso), Part I: Compendio de Divina Proportione — Cap. LXII, Cap. LXIII (f. 19v) — Del modo a mesurare tutte sorte colonne e prima dele ro
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **4** woodcut element(s) were extracted and calibrated from ``0053.png``:
+
+- **``g1``** (``0053.g1.png``): Type ``diagram`` | Caption: *Folio 0053 Diagram 1* | Bounding Box ``[x=681, y=565, w=224, h=412]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``g2``** (``0053.g2.png``): Type ``diagram`` | Caption: *Folio 0053 Diagram 2* | Bounding Box ``[x=699, y=967, w=212, h=349]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``c1``** (``0053.c1.png``): Type ``initial`` | Caption: *Folio 0053 Initial Cap 1* | Bounding Box ``[x=42, y=334, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0053.c2.png``): Type ``initial`` | Caption: *Folio 0053 Initial Cap 2* | Bounding Box ``[x=47, y=1082, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PRIMA``
+- **Folio Signature / Numeration**: ``f. 19r`` (Scan page ``53``, *recto*)
+- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. LX** (``compendio/cap_60``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/060_cap_LX.txt``
+  - **Cap. LXI** (``compendio/cap_61``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/061_cap_LXI.txt``
+  - **Cap. LXII** (``compendio/cap_62``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/062_cap_LXII.txt``

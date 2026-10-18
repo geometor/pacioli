@@ -1,0 +1,31 @@
+Folio 0027 (f. 6r) — Transcription & Graphic Calibration Notes
+==============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0026.rst``): Folio f. 5v (verso), Part I: Compendio de Divina Proportione — Cap. IX, Cap. X, Cap. XI (f. 5v) — Che cosa sia radici de numero e de altra quantità.
+- **Current Folio** (``0027.rst``): Folio f. 6r (recto), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. XII, Cap. XIII, Cap. XIV, Cap. XV (f. 6r) — Del terzo suo singulare effecto.
+- **Following Folio** (``0028.rst``): Folio f. 6v (verso), Part I: Compendio de Divina Proportione — Cap. XVI, Cap. XVII, Cap. XVIII (f. 6v) — Del septimo suo inextimabile effecto.
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **4** woodcut element(s) were extracted and calibrated from ``0027.png``:
+
+- **``c1``** (``0027.c1.png``): Type ``initial`` | Caption: *Folio 0027 Initial Cap 1* | Bounding Box ``[x=75, y=93, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0027.c2.png``): Type ``initial`` | Caption: *Folio 0027 Initial Cap 2* | Bounding Box ``[x=72, y=481, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c3``** (``0027.c3.png``): Type ``initial`` | Caption: *Folio 0027 Initial Cap 3* | Bounding Box ``[x=68, y=843, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c4``** (``0027.c4.png``): Type ``initial`` | Caption: *Folio 0027 Initial Cap 4* | Bounding Box ``[x=65, y=1145, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PRIMA``
+- **Folio Signature / Numeration**: ``f. 6r`` (Scan page ``27``, *recto*)
+- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. XII** (``compendio/cap_12``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/012_cap_XII.txt``
+  - **Cap. XIII** (``compendio/cap_13``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/013_cap_XIII.txt``
+  - **Cap. XIV** (``compendio/cap_14``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/014_cap_XIV.txt``
+  - **Cap. XV** (``compendio/cap_15``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/015_cap_XV.txt``

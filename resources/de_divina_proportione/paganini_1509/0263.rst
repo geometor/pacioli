@@ -1,20 +1,17 @@
 :folio: 0263
+:page: Plate Folio 0263 (recto)
 :page_num: 263
 :side: recto
-:original_folio: Plate Folio 0263 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0263.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula XXXVII — Vigintisex Basium Abscisum Elevatum Solidum (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν)
 
-Folio 0263 (Plate Folio 0263 (recto)) — Plate XXXVII — Vigintisex Basium Abscisum Elevatum Solidum (Solid Elevated 26-Base Body)
-================================================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0263 (Plate Folio 0263 (recto)) — Tabula XXXVII — Vigintisex Basium Abscisum Elevatum Solidum (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν)
+====================================================================================================================================================
 
 .. picture:: 0263.g1.png
-
-   **g1 (plate)**: Plate XXXVII: Vigintisex Basium Abscisum Elevatum Solidum (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν) — Solid Elevated 26-Base Body
+   :alt: Tabula XXXVII: Vigintisex Basium Abscisum Elevatum Solidum (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν)
 
 Tabula XXXVII (No. 37)
 ----------------------

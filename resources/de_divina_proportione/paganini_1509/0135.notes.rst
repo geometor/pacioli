@@ -1,0 +1,24 @@
+Folio 0135 (Libellus f. 26r) — Transcription & Graphic Calibration Notes
+========================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0134.rst``): Folio Libellus f. 25v (verso), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 25v)
+- **Current Folio** (``0135.rst``): Folio Libellus f. 26r (recto), Part III: Libellus in tres partiales tractatus divisus [``03_libellus``] — Libellus — Tractatus Tertius (Libellus f. 26r)
+- **Following Folio** (``0136.rst``): Folio Libellus f. 26v (verso), Part III: Libellus in tres partiales tractatus divisus — Libellus — Blank Verso (Libellus f. 26v)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0135.png``:
+
+- **``g1``** (``0135.g1.png``): Type ``diagram`` | Caption: *Folio 0135 Diagram 1* | Bounding Box ``[x=602, y=262, w=366, h=375]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``TERTIVS``
+- **Folio Signature / Numeration**: ``Libellus f. 26r`` (Scan page ``135``, *recto*)
+- **Book & Section Slug**: Part III: Libellus in tres partiales tractatus divisus (``03_libellus``)
+- **Leaf Category**: Libellus — Tractatus Tertius (Libellus f. 26r)

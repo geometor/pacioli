@@ -1,0 +1,24 @@
+Folio 0005 (A1r) — Transcription & Graphic Calibration Notes
+============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0004.rst``): Folio Flyleaf 2v (verso), Front Matter and Dedications — Flyleaf (Flyleaf 2v)
+- **Current Folio** (``0005.rst``): Folio A1r (recto), Front Matter and Dedications [``00_front_matter``] — Title Page — Divina Proportione (1509)
+- **Following Folio** (``0006.rst``): Folio A1v (verso), Front Matter and Dedications — Epigrams and Author's Sonnet (Cinque corpi in natura son producti)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0005.png``:
+
+- **``c1``** (``0005.c1.png``): Type ``initial`` | Caption: *Folio 0005 Initial Cap 1* | Bounding Box ``[x=213, y=146, w=184, h=188]`` | Placement/Class: ``title`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``1.``
+- **Folio Signature / Numeration**: ``A1r`` (Scan page ``5``, *recto*)
+- **Book & Section Slug**: Front Matter and Dedications (``00_front_matter``)
+- **Leaf Category**: Title Page — Divina Proportione (1509)

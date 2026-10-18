@@ -1,39 +1,29 @@
 :folio: 0011
+:page: A4r
 :page_num: 11
 :side: recto
-:original_folio: A4r
+:volume: I
 :book: Front Matter and Dedications
-:chapters: None
-:graphics: 0011.g1.png, 0011.g2.png, 0011.g3.png, 0011.g4.png, 0011.c1.png
+:section: 00_front_matter
+:title: Tabula — Tabula (A4r)
 
-Folio 0011 (A4r) — Tabula — Table of Contents (A4r)
-===================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0011 (A4r) — Tabula — Tabula (A4r)
+========================================
 
 .. picture:: 0011.g1.png
-
-   **g1 (diagram)**: Folio 0011 Diagram 1
+   :alt: Folio 0011 Figura g1
 
 .. picture:: 0011.g2.png
-
-   **g2 (marginalia)**: Folio 0011 Marginalia 2
+   :alt: Folio 0011 Tavola g2
 
 .. picture:: 0011.g3.png
-
-   **g3 (diagram)**: Folio 0011 Diagram 3
+   :alt: Folio 0011 Figura g3
 
 .. picture:: 0011.g4.png
-
-   **g4 (diagram)**: Folio 0011 Diagram 4
+   :alt: Folio 0011 Figura g4
 
 .. picture:: 0011.c1.png
-
-   **c1 (initial)**: Folio 0011 Initial Cap 1
-
-Testo Originale (Paganini 1509)
--------------------------------
+   :alt: Folio 0011 Capolettera c1
 
 49- Columna laterata pentha-
 

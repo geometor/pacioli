@@ -1,0 +1,24 @@
+Folio 0205 (Plate Folio 0205 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0204.rst``): Folio Plate Folio 0204 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0204)
+- **Current Folio** (``0205.rst``): Folio Plate Folio 0205 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate X — Exahedron Abscisum Vacuum (Hollow Truncated Hexahedron (Cuboctahedron))
+- **Following Folio** (``0206.rst``): Folio Plate Folio 0206 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0206)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0205.png``:
+
+- **``g1``** (``0205.g1.png``): Type ``plate`` | Caption: *Plate X: Exahedron Abscisum Vacuum (Ἑξάεδρον ἀποτετμημένον κενόν) — Hollow Truncated Hexahedron (Cuboctahedron)* | Bounding Box ``[x=0, y=208, w=800, h=931]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0205 (recto)`` (Scan page ``205``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``X`` (Plate No. ``10``) | Latin Cartouche: *Exahedron Abscisum Vacuum* | Greek Cartouche: Ἑξάεδρον ἀποτετμημένον κενόν

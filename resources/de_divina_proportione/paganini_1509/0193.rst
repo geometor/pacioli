@@ -1,20 +1,17 @@
 :folio: 0193
+:page: Plate Folio 0193 (recto)
 :page_num: 193
 :side: recto
-:original_folio: Plate Folio 0193 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0193.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula IIII — Tetrahedron Abscisum Vacuum (Τετράεδρον ἀποτετμημένον κενόν)
 
-Folio 0193 (Plate Folio 0193 (recto)) — Plate IIII — Tetrahedron Abscisum Vacuum (Hollow Truncated Tetrahedron)
-===============================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0193 (Plate Folio 0193 (recto)) — Tabula IIII — Tetrahedron Abscisum Vacuum (Τετράεδρον ἀποτετμημένον κενόν)
+==================================================================================================================
 
 .. picture:: 0193.g1.png
-
-   **g1 (plate)**: Plate IIII: Tetrahedron Abscisum Vacuum (Τετράεδρον ἀποτετμημένον κενόν) — Hollow Truncated Tetrahedron
+   :alt: Tabula IIII: Tetrahedron Abscisum Vacuum (Τετράεδρον ἀποτετμημένον κενόν)
 
 Tabula IIII (No. 4)
 -------------------

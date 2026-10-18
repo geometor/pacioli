@@ -1,0 +1,22 @@
+Folio 0001 (Flyleaf 1r) — Transcription & Graphic Calibration Notes
+===================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio**: None (First scan of the 1509 Venice witness).
+- **Current Folio** (``0001.rst``): Folio Flyleaf 1r (recto), Front Matter and Dedications [``00_front_matter``] — Flyleaf (Flyleaf 1r)
+- **Following Folio** (``0002.rst``): Folio Flyleaf 1v (verso), Front Matter and Dedications — Flyleaf (Flyleaf 1v)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``I``
+- **Folio Signature / Numeration**: ``Flyleaf 1r`` (Scan page ``1``, *recto*)
+- **Book & Section Slug**: Front Matter and Dedications (``00_front_matter``)
+- **Leaf Category**: Flyleaf (Flyleaf 1r)

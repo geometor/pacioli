@@ -1,30 +1,24 @@
 :folio: 0081
+:page: f. 33r
 :page_num: 81
 :side: recto
-:original_folio: f. 33r
+:volume: I
 :book: Part II: Tractato de l'Architectura
-:chapters: architectura/cap_19 (Cap. XIX), architectura/cap_20 (Cap. XX)
-:graphics: 0081.c1.png
+:section: 02_architectura
+:title: Cap. XIX, Cap. XX (f. 33r) — Comme nelli luoghi angusti lo architetto se habia arege
 
 Folio 0081 (f. 33r) — Cap. XIX, Cap. XX (f. 33r) — Comme nelli luoghi angusti lo architetto se habia arege
 ==========================================================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0081.c1.png
-
-   **c1 (initial)**: Folio 0081 Initial Cap 1
-
-Testo Italiano (Paganini 1509 / Winterberg 1889)
-------------------------------------------------
+   :alt: Folio 0081 Capolettera c1
 
 Cap. XIX: Comme nelli luoghi angusti lo architetto se habia aregere in sua dispositione. (continuatio)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------------------------------------------------------------
 
-E non si lagnino li scriptori e li miniatori se tal necessita habia messa in pubhco lo facto solo per mostrare che ledoi linee essentiaU recta ecurua sempre sano^ì tucte cose che in ogibilibus-) se possano machinare e per questo negliochi loro senza lor Wohl fanno. -) Wahrscheinlich: „agibilibus" zu lesen. i6o penna epennello li ho posto el quadro etondo acio vechino molto bene che dale discipline mathematici tutto procede. Auenga che lor forme sieno apiaco e qui al nostro dire porremo fine pregandone instantemente che fra voi luno con laitro auso debon fratelli voliate conferirue apiu dilucidatione de tutto peroche facile fia lo arogere ale cose trouate comme son certo li vostri peregrini ingegni faranno si per loro honore comme de laterra nostra dela quale sempre in ogni faculta corame dali vostri antenati potete hauere inteso sonno vsciti degni homini benché il luogo sia angusto pur e populoso. E buoni ingeni. Si in militaribus comme disopra sucinte scorremo comme in altre discipline e scientie. Che dele mathematici lorende chiaro el monarcha ali di nostri della pictura e architectura. Maestro Pietro deli franceschi con suo penello mentre potè comme apare in vrbino bologna ferrara a rimino ancona e in laterra nostra in muro etaula aoglio e quazzo maxime in la cita darezzo la magna capella dela tribuna delaltar grande vna dele dignissime opere de Italia e da tutti commendata. E poi lo libro deprospectiua compose qual si troua in la dignissima bibliotheca delo Illustrissimo Duca de vrbino nostro. Si che ancora voi ingegniatiue el simile fare.
+E non si lagnino li scriptori e li miniatori se tal necessita habia messa in pubhco lo facto solo per mostrare che ledoi linee essentiaU recta ecurua sempre sano^ì tucte cose che in ogibilibus-) se possano machinare e per questo negliochi loro senza lor i6o penna epennello li ho posto el quadro etondo acio vechino molto bene che dale discipline mathematici tutto procede. Auenga che lor forme sieno apiaco e qui al nostro dire porremo fine pregandone instantemente che fra voi luno con laitro auso debon fratelli voliate conferirue apiu dilucidatione de tutto peroche facile fia lo arogere ale cose trouate comme son certo li vostri peregrini ingegni faranno si per loro honore comme de laterra nostra dela quale sempre in ogni faculta corame dali vostri antenati potete hauere inteso sonno vsciti degni homini benché il luogo sia angusto pur e populoso. E buoni ingeni. Si in militaribus comme disopra sucinte scorremo comme in altre discipline e scientie. Che dele mathematici lorende chiaro el monarcha ali di nostri della pictura e architectura. Maestro Pietro deli franceschi con suo penello mentre potè comme apare in vrbino bologna ferrara a rimino ancona e in laterra nostra in muro etaula aoglio e quazzo maxime in la cita darezzo la magna capella dela tribuna delaltar grande vna dele dignissime opere de Italia e da tutti commendata. E poi lo libro deprospectiua compose qual si troua in la dignissima bibliotheca delo Illustrissimo Duca de vrbino nostro. Si che ancora voi ingegniatiue el simile fare.
 
 Cap. XX: Dele colonne situate sopra altre coione nelli hedifitii.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------------------
 
 Perche fìnqua non fo dicto dele colonne rotonde che aleuolte se costumano ponere sopra laltre nelli hedificii comme in lo nostro conuento de sacra croci in firenze nel suo degno chiostro e altri luochi per Italia comme debano esser disposte acio e alpeso e alauenusta debitamente sieno situate. El che el nostro Victruuio cirende chiaro per la sequente auctorita nel suo 5. libro doue dici in questa forma videlicet, Columne superiora quarta parte minores quam inferiores sunt constituende. propterea quod oneri ferendo quae sunt inferiora firmiora debent esse quam superiora: non minus quam et nascentium oportet imitari naturami vt in arboribus teretibus . abiecte : cupresso: pinu : e quibus nulla enim crassior est ab radicibus. Deinde crescendo progreditur in altitudinem naturali contractura per equata nascens ad cacumen. Ergo si natura nascentium ita postular recte est constitutum et altitudinibus et crassitudinibus superiora inferiorum fieri contractiora. Basilicarum loca adiuncta. foris quam calidissimis partibus oportet constitui vt pro hyeme sine molestia tempestatum se conferre in eas negociatores possint. Earumque latitudines ne minus quam ex tertia parte ne plus ex dimidia longitudinis constituantur: nisi loci natura impedierit: et aliter coegerit symmetriam commutari. Sin autem locus erit amplior in longitudine etc. E vnpoco sotto replica cosi. Columne superiores minores quam inferiores vti supra scriptum est minores constituantur Pluteum quod Inter superiores et inferiores columnas item quarta parte minus quam superiores columne fuerunt oportere fieri videtur: vti supra basilice conglutinationem ambulantes abnegociatoribus ne conspìciantur. Epistilia zophora Corone: ex symmetriis columnarum vti in tertio libro scripsimus explicentur: non minus sumraara dignitatem et venustatem possunt habere compactiones basilicarum quo genere columne iulie fenestris collocaui curauique faciendas cuius proportiones ex symmetria sic sunt constitute. Mediana testudo etc. Questa dignissima auctorita dilectissimi miei acerti propositi nel domo de Milano nel 1498. siando nella sua inexpugnabile arce nella camera detta demoroni ala presentia delo excellentissimo Duca de quello Lodouico Maria Sforza con lo Reuerendissimo Cardinale Hipolyto da este suo cognato Illustre Signore Galeazzo San. Seuerino mio peculiar patrone e molti altri famosissimi comme acade in conspecto de simili. Fragli altri lo eximio V. J. doctore e conte ecaualiere Meser Onofrio de Paganini da Brescia detto de Ceueli. Il qualiui coram egregiamente exponendola tutti li ostanti a grandissima affectione dei nostro Victruuio in dusse nelle cui opere parla che acunabulis fosse instructo.

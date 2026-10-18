@@ -1,30 +1,24 @@
 :folio: 0068
+:page: f. 26v
 :page_num: 68
 :side: verso
-:original_folio: f. 26v
+:volume: I
 :book: Part II: Tractato de l'Architectura
-:chapters: architectura/cap_02 (Cap. II), architectura/cap_03 (Cap. III)
-:graphics: 0068.c1.png
+:section: 02_architectura
+:title: Cap. II, Cap. III (f. 26v) — Dela distantia del profilo al cotozzo de dieta testa ci
 
 Folio 0068 (f. 26v) — Cap. II, Cap. III (f. 26v) — Dela distantia del profilo al cotozzo de dieta testa ci
 ==========================================================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0068.c1.png
-
-   **c1 (initial)**: Folio 0068 Initial Cap 1
-
-Testo Italiano (Paganini 1509 / Winterberg 1889)
-------------------------------------------------
+   :alt: Folio 0068 Capolettera c1
 
 Cap. II: Dela distantia del profilo al cotozzo de dieta testa cioè al ponto a. qual chiamano cotozzo edele parti che in quella se interpongano ochio e oregia. (continuatio)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 con quella gratia e arbitrio che del mento e radise de cappelli fo detto secondo loro. Irrationali proportioni cioè innominabili per alcun numero e suoi parti integrali. E questo volio basti quanto a tutta testa o ver capo e sequendo diremo de dieta testa a tutto el corpo e suoi altri membri exteriori la sua debita proportione acio dopo quella possiate megho formare vostri lauori.
 
 Cap. III: Dela proportione de tutto el corpo humano che sia ben disposto ala sua testa e altri membri secondo sua longhezza e larghezza.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Discorso a sufficientia la proportione dela testa ale sue parti essentiali dela sua larghezza e profilo ora diremo depsa testa sua habitudine respecto a tutto suo corpo e altri membri exteriori acio più facilmente si possa proportionare li vostri lauori maxime dele colonne a sustentamento de lor pesi e venusta delor siti nelli hedifitii poste comme desotto de loro se dira abastanza delo intento auoi. E pero diciamo conli antichi maxime nostro Victruuio la larghezza tutta del homo cioè dale piante de piedi base depsa corporal massa. Esser comunamente dieci tanto che dalmento ala sumita dela fronte, cioè dala radici de capelli si che dicto teschio cioè losso depsa altezza fia la decima parte de sua altezza fine ala sumita de dieta fronte. E questa altezza comunamente dali pictori e statuari antichi se prende per vna testa in loro opere comme per statue e altre figure in roma la experienza sempre eia dimostrato ede continuo li nostri contutta diligentia el medesimo demostrano. Eie diete mesure acio non se equiuochi sempre se intendino del puro osso netto dale carni cosi del capo commo delaltre parti, altramente le comune regole serebono false peroche deli homini alcuni sonno corpulenti e ben pieni de carni altri macri emaciullenti comme si vede. E per questo li antiqui se sonno tutti alosso comme acosa più ferma e manco varyabile. Si che per testa comunamente nel nostro processo se habia a intendere aponto tutto el profilo mk. dinanze aducto. Altretanto aponto fia la palma dala mano dela giontura cioè fin del cubito ala extremita del detto medio qual fia vna testa e parte decima de tutta la statura amodo dicto. Laltezza de tutto el capo dal pian del mento fine aiacima dela testa cioè alponto p. fia loctaua parte de tutta sua altezza conputatoci la quantità dela radici di capelli fin al suo vertice supremo. Dala sumita del petto fine ala radici de suoi capelli cioè dal g. al ms. fia la sexta parte del tutto e dieta sumita de petto fin al vertice cioè al p. fia la quarta parte de tutta sua altezza. La sua bocca comme desopra fo dicto fia alta la terza dalmento alenare del naso. El naso altretanto. El spacio tutto dala fine del naso ala radici di capelli fia dicto fronte che fia alta el terzo de tutto suo profilo. 1"^ tutta la lunghezza del pede cioè dal calcagno ala ponta del deto grosso fia la sexta parte de tutto el corpo cioè quanto dala sumita del petto al vertice del capo. E tutto el petto fia la quarta parte. E questo tutto aiferma el nostro Victruuio doue dice de sacrarum edium compositione quando dici in questa guisa videlicet: Corpus enim hominis ita natura composuit uti OS capitis amento ad frontem summam et radices imas capilli esset decime partis. Item manus palma ab articulo ad extremum medium digitum tantundem. Caput amento ad summum verticem octaue cum ceruicibus imis. A summo pectore ad imas radices capillorum sexte ad summum verticem quarte ipsius autem oris altitudinis tertia est pars ab imo mento ad imas nares. Nasus ab imis naribus ad finem medium superciliorum tantundem. Ab ea fine ad imas radices capilli frons efficit, Item tertie partis. Pes vero altitudinis corporis sexte. Cubitusque quarte. Pectus item quarte. Reliqua quoque membra suos habent commensus '37 proportionis quibus etiam antiqui pictores et statuarii nobiles vsi magnas et infinitas laudes sunt assecuti. Sirailiter vero sacrorum edifitiorum membra ad vniuersam totius etiam magnitudinis summam ex partibus singulis conuenientissimum debent habere commensum responsum. Item coporis centrum medium naturaliter est vmbelicus etc. comme desopra dicemmo asegnando comme lui ancora in questa fa circulo equadrato in dicto corpo humano, etc.

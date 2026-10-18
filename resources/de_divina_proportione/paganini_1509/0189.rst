@@ -1,20 +1,17 @@
 :folio: 0189
+:page: Plate Folio 0189 (recto)
 :page_num: 189
 :side: recto
-:original_folio: Plate Folio 0189 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0189.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula II — Tetrahedron Planum Vacuum (Τετράεδρον ἐπίπεδον κενόν)
 
-Folio 0189 (Plate Folio 0189 (recto)) — Plate II — Tetrahedron Planum Vacuum (Hollow Regular Tetrahedron)
+Folio 0189 (Plate Folio 0189 (recto)) — Tabula II — Tetrahedron Planum Vacuum (Τετράεδρον ἐπίπεδον κενόν)
 =========================================================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0189.g1.png
-
-   **g1 (plate)**: Plate II: Tetrahedron Planum Vacuum (Τετράεδρον ἐπίπεδον κενόν) — Hollow Regular Tetrahedron
+   :alt: Tabula II: Tetrahedron Planum Vacuum (Τετράεδρον ἐπίπεδον κενόν)
 
 Tabula II (No. 2)
 -----------------

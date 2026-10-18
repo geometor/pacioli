@@ -1,0 +1,26 @@
+Folio 0051 (f. 18r) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0050.rst``): Folio f. 17v (verso), Part I: Compendio de Divina Proportione — Cap. LVI, Cap. LVII (f. 17v) — Del corpo sperico la sua formatione.
+- **Current Folio** (``0051.rst``): Folio f. 18r (recto), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. LVII, Cap. LVIII (f. 18r) — Commo in la spera se collochino tutti li 5 corpi regula
+- **Following Folio** (``0052.rst``): Folio f. 18v (verso), Part I: Compendio de Divina Proportione — Cap. LVIII, Cap. LIX, Cap. LX (f. 18v) — De li corpi oblunghi cioè più longhi ouer alti che larg
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0051.png``:
+
+- **``c1``** (``0051.c1.png``): Type ``initial`` | Caption: *Folio 0051 Initial Cap 1* | Bounding Box ``[x=37, y=937, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PRIMA``
+- **Folio Signature / Numeration**: ``f. 18r`` (Scan page ``51``, *recto*)
+- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. LVII** (``compendio/cap_57``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/057_cap_LVII.txt``
+  - **Cap. LVIII** (``compendio/cap_58``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/058_cap_LVIII.txt``

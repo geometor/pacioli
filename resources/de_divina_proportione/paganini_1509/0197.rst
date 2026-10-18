@@ -1,20 +1,17 @@
 :folio: 0197
+:page: Plate Folio 0197 (recto)
 :page_num: 197
 :side: recto
-:original_folio: Plate Folio 0197 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0197.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula VI — Tetrahedron Elevatum Vacuum (Τετράεδρον ἐπηρμένον κενόν)
 
-Folio 0197 (Plate Folio 0197 (recto)) — Plate VI — Tetrahedron Elevatum Vacuum (Hollow Stellated (Elevated) Tetrahedron)
-========================================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0197 (Plate Folio 0197 (recto)) — Tabula VI — Tetrahedron Elevatum Vacuum (Τετράεδρον ἐπηρμένον κενόν)
+============================================================================================================
 
 .. picture:: 0197.g1.png
-
-   **g1 (plate)**: Plate VI: Tetrahedron Elevatum Vacuum (Τετράεδρον ἐπηρμένον κενόν) — Hollow Stellated (Elevated) Tetrahedron
+   :alt: Tabula VI: Tetrahedron Elevatum Vacuum (Τετράεδρον ἐπηρμένον κενόν)
 
 Tabula VI (No. 6)
 -----------------

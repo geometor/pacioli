@@ -1,0 +1,27 @@
+Folio 0071 (f. 28r) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0070.rst``): Folio f. 27v (verso), Part II: Tractato de l'Architectura — Cap. IV (f. 27v) — Sequita dele colonne rotonde con sue basi e capitelli e
+- **Current Folio** (``0071.rst``): Folio f. 28r (recto), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. V, Cap. VI (f. 28r) — Sequita dir dela longhezzä e grosseza de dieta colonna.
+- **Following Folio** (``0072.rst``): Folio f. 28v (verso), Part II: Tractato de l'Architectura — Cap. VI (f. 28v) — Sequita lordine del stilobata ouer pilastro ouero basam
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **2** woodcut element(s) were extracted and calibrated from ``0071.png``:
+
+- **``c1``** (``0071.c1.png``): Type ``initial`` | Caption: *Folio 0071 Initial Cap 1* | Bounding Box ``[x=44, y=130, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0071.c2.png``): Type ``initial`` | Caption: *Folio 0071 Initial Cap 2* | Bounding Box ``[x=38, y=940, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``«HMrV~5``
+- **Folio Signature / Numeration**: ``f. 28r`` (Scan page ``71``, *recto*)
+- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. V** (``architectura/cap_05``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/005_cap_V.txt``
+  - **Cap. VI** (``architectura/cap_06``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/006_cap_VI.txt``

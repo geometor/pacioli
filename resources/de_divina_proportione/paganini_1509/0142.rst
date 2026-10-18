@@ -1,15 +1,13 @@
 :folio: 0142
+:page: Plate Folio 0142 (verso)
 :page_num: 142
 :side: verso
-:original_folio: Plate Folio 0142 (verso)
+:volume: I
 :book: Appendix I: The Roman Geometric Alphabet
-:chapters: None
-:graphics: None
+:section: 04_alphabet
+:title: Verso bianco della tavola d'alfabeto (0142)
 
-Folio 0142 (Plate Folio 0142 (verso)) — Alphabet Plate Verso (0142)
-===================================================================
+Folio 0142 (Plate Folio 0142 (verso)) — Verso bianco della tavola d'alfabeto (0142)
+===================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0141) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0141 nell'edizione Paganini 1509.]*

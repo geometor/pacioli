@@ -1,20 +1,17 @@
 :folio: 0245
+:page: Plate Folio 0245 (recto)
 :page_num: 245
 :side: recto
-:original_folio: Plate Folio 0245 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0245.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula XXVIII — Dodecahedron Planum Vacuum (Δωδεκάεδρον ἐπίπεδον κενόν)
 
-Folio 0245 (Plate Folio 0245 (recto)) — Plate XXVIII — Dodecahedron Planum Vacuum (Hollow Regular Dodecahedron)
+Folio 0245 (Plate Folio 0245 (recto)) — Tabula XXVIII — Dodecahedron Planum Vacuum (Δωδεκάεδρον ἐπίπεδον κενόν)
 ===============================================================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0245.g1.png
-
-   **g1 (plate)**: Plate XXVIII: Dodecahedron Planum Vacuum (Δωδεκάεδρον ἐπίπεδον κενόν) — Hollow Regular Dodecahedron
+   :alt: Tabula XXVIII: Dodecahedron Planum Vacuum (Δωδεκάεδρον ἐπίπεδον κενόν)
 
 Tabula XXVIII (No. 28)
 ----------------------

@@ -1,0 +1,24 @@
+Folio 0197 (Plate Folio 0197 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0196.rst``): Folio Plate Folio 0196 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0196)
+- **Current Folio** (``0197.rst``): Folio Plate Folio 0197 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate VI — Tetrahedron Elevatum Vacuum (Hollow Stellated (Elevated) Tetrahedron)
+- **Following Folio** (``0198.rst``): Folio Plate Folio 0198 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0198)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0197.png``:
+
+- **``g1``** (``0197.g1.png``): Type ``plate`` | Caption: *Plate VI: Tetrahedron Elevatum Vacuum (Τετράεδρον ἐπηρμένον κενόν) — Hollow Stellated (Elevated) Tetrahedron* | Bounding Box ``[x=0, y=195, w=990, h=993]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0197 (recto)`` (Scan page ``197``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``VI`` (Plate No. ``6``) | Latin Cartouche: *Tetrahedron Elevatum Vacuum* | Greek Cartouche: Τετράεδρον ἐπηρμένον κενόν

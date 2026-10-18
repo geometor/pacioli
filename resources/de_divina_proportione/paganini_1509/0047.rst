@@ -1,30 +1,24 @@
 :folio: 0047
+:page: f. 16r
 :page_num: 47
 :side: recto
-:original_folio: f. 16r
+:volume: I
 :book: Part I: Compendio de Divina Proportione
-:chapters: compendio/cap_53 (Cap. LIII), compendio/cap_54 (Cap. LIV)
-:graphics: 0047.c1.png
+:section: 01_compendio
+:title: Cap. LIII, Cap. LIV (f. 16r) — Del corpo de 26 basi e suo origine piano solido ouer va
 
 Folio 0047 (f. 16r) — Cap. LIII, Cap. LIV (f. 16r) — Del corpo de 26 basi e suo origine piano solido ouer va
 ============================================================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0047.c1.png
-
-   **c1 (initial)**: Folio 0047 Initial Cap 1
-
-Testo Italiano (Paganini 1509 / Winterberg 1889)
-------------------------------------------------
+   :alt: Folio 0047 Capolettera c1
 
 Cap. LIII: Del corpo de 26 basi e suo origine piano solido ouer vacuo edelo eleuato solido o ver vacuo. (continuatio)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------------------------------------------------------------------------
 
 E fia composto dicto corpo de 26 pyramidi laterate. Dele quali 1 8 sonno quadrangule e 8 triangule quali tutte di fore in torno se possano, dalochio discernere. E del precedente 26 basi solido piano intrinseco per yraaginatione solamente comperheso. E le sue 26 basi sonno parimente basi dele predicte 26 pyramide cioè. Le 18 quadrangule dele 1 8 pyramidi laterate quadrangule eie 8 triangule dele 8 pyramidi triangulari. E inqualunche modo questo se getti inspatio piano sempre in su 3 ponte ouer coni pyramidali si ferma che la experientia del suo materiale ancora alochio satisfarà.
 
 Cap. LIV: Dal corpo de 72 basi piano solido euacuo.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------
 
 XXXIX. XL. Tra questi condecentemente Excelso Duca fia da collocare el corpo detto dele 72 basi. Del quale el nostro megarense philosopho nella 14. del suo 12 apieno descriue. Questo benché habia sue basi piane laterate angulari e diformi non e da dire che dalcuno deli regulari habia dependentia ne deriuatione masolo siforma e crea secondo che in dicto luogo el nostro phylosopho demostra mediante la figura duodecagona cioè de 12 lati equali. E dele sue basi predicte 48 sonno quadrangule inequilatere e inequiangule. E solo hanno li duoi lati oppositi protracti verso luno e laltro polo o vogliam dir cono e quelli fraloro. i) E le altre suoi 24 basi sonno trianguläre in equilatere similmente. E di queste 12 ne stanno atorno. Luno diconi e 12 dalaltro. E cadauna depse ha doi lati equali cioè quelli che tendano al ponto del polo interiore e superiore. De questo ancora se porrà sempre formare el suo eleuato commo neglialtri se fecero ma per la diformita dele suoi basi sera difficile sua scientia quantunca alochio rendesse non mediocra vaghezza, E causariense in epso 72 pyramidi secondo el numero seil, equali dele suoi 72 basi dele quali pyraraidi le basi sirienno le medesime di quello. E lui dentro ymaginato la forma del quale eleuato non curai fra queste materialmente dedure per lasiare la parte sua ancora allectore del cui ingegno non me diffido. E questo 72 basi molto dali architetti fia frequentato in loro dispositioni de hedifitii per essere forma asai acomodata maxime doue occurrese fare tribune o altre volte o voliamo dire cieli. E auenga che non sempre aponto se prendino in detti hedifitii tante facce pure aquella similitudine seregano squartandolo sterzandolo in tutti modi secondo elluogo esito doue tal hedificio intendan porre. Alacui conuenientia asaissimi in diuerse parti setrouano disposti e fabricati. Commo delo inextimabile antico tempio pantheon. E oggi dacristiani nel capo del mondo. Larotonda chiamatro fiamanifesto. El qual contanta solerta industria e de proportioni obseruantia Jo disposto chel lume de vn solo ochietto nel suo fastigio aperto relieto tutto el rende splendido elurainoso. Lascio de molte altre famose e inclite cita commo fiorentia Vinegia padua neapoli e bologna. In |le quali asai hedifitii si sacri commo profani o piccoh o grandi che sienno al spechio de questo sonno facti. Ancora qui nel suo Milano nel degno sacello de san scetro lornata capella fia vna parte de questo spaccata e con reseruatione de alquanto conuexo al muro aplicata e in ciascuna sua basa giontoui vn rosone che adorna larende. E in lo deuoto e sacratissimo vostro tempio de le gratie la sua tribuna al primo altare e laterali già non se non vna parte asimil de questo pur in suoi basi apiu vaghezza giontoui quelli. E benché molti fabrichino e tirino le forme alor arbitrio non hauendo più de Victruuio che daltro architecto notitia non dimeno latte vsanno benché noi sapino si commo deli rozi rustizi dici aristotele che soligezant et nesciunt se solegizare. Cosi questi tali vtuntur arte et nesciunt se vti. Ancora el sarto e calzolaro vsano la geometria e non sanno che cosa sia. El si murari legnàoli fabri e ogni artefici vsano la mesura e la proportione e non sanno. Peroche commo altre volte e detto tutto consiste nel numero peso e mesura. Mache diremo deli moderni hedifitii in suo genere. Ordinati e disposti conuarii e diuersi modelli quali alochio perche alquanto rendino vaghezza per lor esser piccoli e poi nelle fabriche non regano el peso. E non che amillanni ariuano nanze al terzo ruinano. E per el lor malessere in tesi in refare piuche in formare fanno spendere.

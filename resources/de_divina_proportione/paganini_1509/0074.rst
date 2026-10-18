@@ -1,30 +1,24 @@
 :folio: 0074
+:page: f. 29v
 :page_num: 74
 :side: verso
-:original_folio: f. 29v
+:volume: I
 :book: Part II: Tractato de l'Architectura
-:chapters: architectura/cap_07 (Cap. VII), architectura/cap_08 (Cap. VIII)
-:graphics: 0074.c1.png
+:section: 02_architectura
+:title: Cap. VII, Cap. VIII (f. 29v) — In quello sienno differenti le tre spetie de diete colo
 
 Folio 0074 (f. 29v) — Cap. VII, Cap. VIII (f. 29v) — In quello sienno differenti le tre spetie de diete colo
 ============================================================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0074.c1.png
-
-   **c1 (initial)**: Folio 0074 Initial Cap 1
-
-Testo Italiano (Paganini 1509 / Winterberg 1889)
-------------------------------------------------
+   :alt: Folio 0074 Capolettera c1
 
 Cap. VII: In quello sienno differenti le tre spetie de diete colonne fra loro. (continuatio)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------------------------------------------------------
 
 Item postea Dianae constituere aedem quaerentes: noni generis speciem iisdem vestigiis ad muliebrem transtulerunt gracilitatera et fecerunt primo columnae crassitudinem octaua parte: vt haberent speciem excelsiorem: basi spiram apposuerunt pro calceo: capitulo volutas vti capillamento concrispatos circinos praependentes dextra ac siuistra coUocauerunt. et cimatiis et encarpis pro crinibis dispositis frontes ornauerunt. truncoque roto strias vti stolarum rugas matronali more demiserunt: ita duobus discriminibus columnarum inuentionem: vnam virili sine ornatu nudam speciem : alteram muliebri subtilitate et ornatu symmetriaque sunt uisitati. Posteri vero elegantia subtilitatequc iudiciorum progressi gracilioribus modulis delectati septem crasi situdinis dvametros in altitudinem columnae doricae: ionicac nouem conslituerunt. Id autem quod iones fecerunt primo ionicum est nominatum. Tertium vero : quod Corinthion dicitur virginalis habet gracilitatis imitationem: quod virgines propter aetatis teneritatem gracilioribus membris figuratae effectus recipiunt in ornatu venustiores. Eius autem capituli prima inuentio sie memoratur esse facta: Virgo ciuis corinthia iam matura nuptias implicata morbo decessiti post sepulturam eius quibus ea virgo poculis delectabatur nutrix collecta et composita in Calatho pertulit ad monumentum: et in summo collocauit: et vti ea permanerent diutius sub diuo tegula texit. Is calathus fortuito supra achanti radicem fuerat collocatus: interim pondere pressa radix achanti media folia et cauliculos circa vernum tempus profudit : cuius cauliculi secundum calathi latera crescentes: et ab angulis tegulae ponderis necessitate expressi : flexuras in extremas partes volutarum facere sunt coacti. tunc Callimachus qui propter elegantium et subtilitatem artis marmoreae ab Atheniensibus cathatecnos fuerat nominatus: praeteriens hoc monumentum animaduertit eum calathum: et circa foliorum nascentem temeritatem: delectatusque genere et formae nouitate ad id exemplar columnas apud corinthios fecit: svmmetriasque constituit: ex eo quod in operum perfectionibus corinthii generis distribuit rationes eius autem capituli symmetria sic est facienda: vti quanto fuerit crassitudo imae columnae etc.
 
 Cap. VIII: Doue ora se trouino colonne più debitamente facte per Italia dali antichi e ancor moderni.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------------------------------------------------------
 
 Non so pensare carissimi miei che el nostro compatriota Leonbatista deli alberti Fiorentino, con lo quale più e più mesi nel alma Roma altempo del pontifici Paulo Barbo da vinegia in proprio domicilio con lui a sue spesi sempre ben tractato. ho^ mo certamente de grandissima perspicacita e doctrina in humanita e rhetorica. comme apare pel suo alto dire nela sua opera de architectura. In la quale tanto ampiamente parlando non habia obseruato in epsa el morale documento: qual rende licito a cadauno douere per la patria combattere. E lui non che de facti sua de qualche parolla in dieta opera commendarla. Anzi più presto lonore che da altri li fia atribuito li la in gran parte spento in questo architectonica faculta. Peroche Victruuio in molti luochi del suo libro la magnifica si per le colonne, comme ancora de laltre parti dicendo aleuolte depse colonne ornate Toscanico more con sua maxima commendatione. e aleuolte dicendo, vt in tuscanicis apparet. le qual cose non dice senon in laude e commendatione. El nostro Leonbatista in quelli tali luoghi dici Italico more chiamandole Italiche, e per verummodo li dici Tuscane: che certo non fia senza grandissima admiratione. conciosia che sempre da quella lui e suoi semprene sono stati honorati. Pero diro con lapostolo. Laudo vos: sed in hoc non laudo etc. E pero me par conueniente qui dirne e di lei con lo nostro Victruuio e anche de laltre con verità, doue se trouino oggi in Italia colonne maxime rotonde che senon in tutto ma in gran parti seruano li antichi documenti:

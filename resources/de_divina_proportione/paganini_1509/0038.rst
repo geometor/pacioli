@@ -1,30 +1,24 @@
 :folio: 0038
+:page: f. 11v
 :page_num: 38
 :side: verso
-:original_folio: f. 11v
+:volume: I
 :book: Part I: Compendio de Divina Proportione
-:chapters: compendio/cap_30 (Cap. XXX), compendio/cap_31 (Cap. XXXI)
-:graphics: 0038.c1.png
+:section: 01_compendio
+:title: Cap. XXX, Cap. XXXI (f. 11v) — Saper fare el corpo de 12 basi pentagonali equilatere e
 
 Folio 0038 (f. 11v) — Cap. XXX, Cap. XXXI (f. 11v) — Saper fare el corpo de 12 basi pentagonali equilatere e
 ============================================================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0038.c1.png
-
-   **c1 (initial)**: Folio 0038 Initial Cap 1
-
-Testo Italiano (Paganini 1509 / Winterberg 1889)
-------------------------------------------------
+   :alt: Folio 0038 Capolettera c1
 
 Cap. XXX: Saper fare el corpo de 12 basi pentagonali equilatere e equian- gule che de ponto la spera proposto lo circondi. (continuatio)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Peroche loro sonno diametri del cubo per la 40. del 11. Ma el semidiametro del cubo fia commo al semidiametro dela spera che aponto el circonda si commo apare per lo ragionamento dela 14. del i3. Adonca tutte le linee menate dal ponto o. a tutti li anguli del duodecedron cioè del solido contenuto da 1 2 superfìcie pentagone equilatere e equiangule che cosi se chiama in greco sonno equali fraloro e al semidiametro dela spera. Onde sei semicirculo lineato sopra tutto el diametro dela spera oueramente del cubo sei se mena intorno passara per tutti li suoi anguli. Onde per la diffinitione epso fia circundato oponto dala spera asegnata. Dico ancora chel lato de questa figura fia linea irrationale cioè quella che se chiama residuo sei diametro dela spera che aponto lo circonda sia rationale in longhezza o vero in potentia che cosi apare. Conciosia chel diametro dela spera per la 14. del i3. sia triplo in potentia allato del cubo sira ellato del cubo rationale in potentia sei diametro dela spera sira rationale in longhezza o vero in potentia E perla 11. del 13. fia chiaro che la linea rp. diuide la linea ad. La quale e lato del cubo, secondo la proportione hauerte el mezzo e doi extremi. E che la sua magior parte fia equale allato del pentagono. Eperche la sua magior parte fìa residuo per la 6. del I 3. se manifesta ellato dela figura dieta duodecedron essere residuo la qual cosa habiam voluto demostrare.
 
 Cap. XXXI: A trouar li lati de tutti 5 corpi regulari.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------------
 
 Li lati deli 5 corpi antedicti circumscripti tutti aponto da vna medesima spera dela quale spera a noi el diametro solamente sia proposto e per dicto diametro sapere trouare. Verbi gratia. Sia ab el diametro de alcuna spera a noi proposto per lo quale a noi bisogni li lati deli 5 predicti corpi ritrouare quali tutti se intendino in vna medesima spera collocati deli quali tocando vno de li suoi anguli tochino tutti cioè che aponto dieta spera tutti li circundi. ') La qual cosa cosi faremo cioè. Diuidiamo adonca questo diametro nel puncto e. Immodo che ac. sia dopia al cb. E per equali nel ponto d. E faremo sopra epsa el semicirculo afb. alacircumferentia del quale se tirino doi linee perpendiculari ala linea ab. le quali sienno ce. e df. E giognemo e. con a. e con b. Eglie manifesto adonca per la demonstratione dela 13. del i3. che ac. fia lato dela figura de 4 basi triangule e equilatere, E per la demonstratione dela 14. del dicto che eb fìa lato del cubo. E perla demonstratione dela i5. che fb fìa lato dela figura de 8 basi triangulari e equilatere. E sia adonca dal ponto a la linea ag perpendiculare. al ab. e ancora equale alamedesima ab. E giongase g. con d. e sia h. el ponto nel quale gd. diuide la circumferentia del semicirculo. Emenise hk. perpendiculare al ab. E perche ga. fia dupla al ad. sira perla 4. del 6. hk, dopia al kd. Peroche sonno li doi trianguli gad e. hkd. equianguli per la trigesima secunda del primo. Imperoche langulo a del magiore fia equale alangulo k delmenore peroche cadauno e recto elangulo d. fia commune aluno elaltro. Adonca per la quarta del secundo hk. fia quadrupla in pontentia al kd. Adonca per la penultima del primo hd. fia in potentia quincupla al kd. E conciosiache db. sia equale al hd. (Peroche d. fia centro del semicirculo) sira ancora db. in potentia quincupla al kd. E conciosia che tutta ab. sia dopia a tutto bd. si commo ac. canata dela prima ab fia dupla al cb. tracta dela secunda bd. E sira perla decimanona del quinto bc. remanente dela prima dopia al ed residua dela secunda. Epero tutta bd. fia tripla al de. Adonca el quadrato bd. fia nonuplo cioè noue tanto del quadrato ed. Eperche epso era solamente quineuplo al quadrato kd. sira per la secunda parte dela decima del quinto el quadrato de. menore del quadrato kd e per questo de. menore del kd. Sia adonca dm. equale al kd. E vada mn. fin ala circumferentia Die Ergänzung der im Original fehlenden Figur isi nach dem Text so einfach, dass davon abstrahirt werden darf. la quäl sia perpendiculare al ab. e giongase n. con b. Conciosia adonca eh dk. e dm. sienno equali siranno per la diffìnitione de quello che alcuna linea dal centro esser equidistante le doi hnee hk. e mn. equalmente distanti dal centro.

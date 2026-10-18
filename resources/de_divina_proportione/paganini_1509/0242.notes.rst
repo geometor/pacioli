@@ -1,0 +1,22 @@
+Folio 0242 (Plate Folio 0242 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0241.rst``): Folio Plate Folio 0241 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXVI — Icosahedron Elevatum Vacuum (Hollow Elevated Icosahedron)
+- **Current Folio** (``0242.rst``): Folio Plate Folio 0242 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0242)
+- **Following Folio** (``0243.rst``): Folio Plate Folio 0243 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXVII — Dodecahedron Planum Solidum (Solid Regular Dodecahedron)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0242 (verso)`` (Scan page ``242``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0242)

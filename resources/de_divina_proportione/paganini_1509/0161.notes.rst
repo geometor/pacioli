@@ -1,0 +1,24 @@
+Folio 0161 (Plate Folio 0161 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0160.rst``): Folio Plate Folio 0160 (verso) (verso), Appendix I: The Roman Geometric Alphabet — Alphabet Plate Verso (0160)
+- **Current Folio** (``0161.rst``): Folio Plate Folio 0161 (recto) (recto), Appendix I: The Roman Geometric Alphabet [``04_alphabet``] — Roman Geometric Alphabet — Lettera M
+- **Following Folio** (``0162.rst``): Folio Plate Folio 0162 (verso) (verso), Appendix I: The Roman Geometric Alphabet — Alphabet Plate Verso (0162)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0161.png``:
+
+- **``g1``** (``0161.g1.png``): Type ``plate`` | Caption: *Roman Geometric Alphabet — Lettera M* | Bounding Box ``[x=0, y=243, w=811, h=606]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0161 (recto)`` (Scan page ``161``, *recto*)
+- **Book & Section Slug**: Appendix I: The Roman Geometric Alphabet (``04_alphabet``)
+- **Leaf Category**: Roman Geometric Alphabet — Lettera M

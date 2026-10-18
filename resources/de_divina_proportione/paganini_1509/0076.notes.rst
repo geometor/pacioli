@@ -1,0 +1,28 @@
+Folio 0076 (f. 30v) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0075.rst``): Folio f. 30r (recto), Part II: Tractato de l'Architectura — Cap. VIII, Cap. IX (f. 30r) — Doue ora se trouino colonne più debitamente facte per I
+- **Current Folio** (``0076.rst``): Folio f. 30v (verso), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. IX, Cap. X, Cap. XI (f. 30v) — Dele colonne laterate.
+- **Following Folio** (``0077.rst``): Folio f. 31r (recto), Part II: Tractato de l'Architectura — Cap. XII (f. 31r) — De lordini dele colonne rotonde comme se debino nelli h
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **2** woodcut element(s) were extracted and calibrated from ``0076.png``:
+
+- **``c1``** (``0076.c1.png``): Type ``initial`` | Caption: *Folio 0076 Initial Cap 1* | Bounding Box ``[x=412, y=334, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0076.c2.png``): Type ``initial`` | Caption: *Folio 0076 Initial Cap 2* | Bounding Box ``[x=405, y=591, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PARS``
+- **Folio Signature / Numeration**: ``f. 30v`` (Scan page ``76``, *verso*)
+- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. IX** (``architectura/cap_09``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/009_cap_IX.txt``
+  - **Cap. X** (``architectura/cap_10``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/010_cap_X.txt``
+  - **Cap. XI** (``architectura/cap_11``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/011_cap_XI.txt``

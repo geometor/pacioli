@@ -1,36 +1,29 @@
 :folio: 0120
+:page: Libellus f. 18v
 :page_num: 120
 :side: verso
-:original_folio: Libellus f. 18v
+:volume: I
 :book: Part III: Libellus in tres partiales tractatus divisus
-:chapters: None
-:graphics: 0120.g1.png, 0120.g2.png, 0120.c1.png, 0120.c2.png, 0120.c3.png
+:section: 03_libellus
+:title: Libellus — Tractatus Tertius (Libellus f. 18v)
 
 Folio 0120 (Libellus f. 18v) — Libellus — Tractatus Tertius (Libellus f. 18v)
 =============================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0120.g1.png
-
-   **g1 (diagram)**: Folio 0120 Diagram 1
+   :alt: Folio 0120 Figura g1
 
 .. picture:: 0120.g2.png
-
-   **g2 (diagram)**: Folio 0120 Diagram 2
+   :alt: Folio 0120 Figura g2
 
 .. picture:: 0120.c1.png
-
-   **c1 (initial)**: Folio 0120 Initial Cap 1
+   :alt: Folio 0120 Capolettera c1
 
 .. picture:: 0120.c2.png
-
-   **c2 (initial)**: Folio 0120 Initial Cap 2
+   :alt: Folio 0120 Capolettera c2
 
 .. picture:: 0120.c3.png
-
-   **c3 (initial)**: Folio 0120 Initial Cap 3
+   :alt: Folio 0120 Capolettera c3
 
 Pars Tertia: Libellus in tres partiales tractatus divisus
 ---------------------------------------------------------

@@ -1,0 +1,22 @@
+Folio 0284 (Plate Folio 0284 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0283.rst``): Folio Plate Folio 0283 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XLVII — Pyramis Laterata Quadrangula Solida (Solid Quadrangular Pyramid)
+- **Current Folio** (``0284.rst``): Folio Plate Folio 0284 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0284)
+- **Following Folio** (``0285.rst``): Folio Plate Folio 0285 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XLVII-bis — Pyramis Laterata Quadrangula Solida (bis) (Solid Quadrangular Pyramid (Duplicate Scan in Witness))
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0284 (verso)`` (Scan page ``284``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0284)

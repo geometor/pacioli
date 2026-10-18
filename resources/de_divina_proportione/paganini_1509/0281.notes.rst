@@ -1,0 +1,24 @@
+Folio 0281 (Plate Folio 0281 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0280.rst``): Folio Plate Folio 0280 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0280)
+- **Current Folio** (``0281.rst``): Folio Plate Folio 0281 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XLVI — Columna Laterata Quadrangula Vacua (Hollow Quadrangular Prism)
+- **Following Folio** (``0282.rst``): Folio Plate Folio 0282 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0282)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0281.png``:
+
+- **``g1``** (``0281.g1.png``): Type ``plate`` | Caption: *Plate XLVI: Columna Laterata Quadrangula Vacua (Κίων πλευρώδης τετράγωνος κενός) — Hollow Quadrangular Prism* | Bounding Box ``[x=0, y=0, w=656, h=1407]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0281 (recto)`` (Scan page ``281``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XLVI`` (Plate No. ``46``) | Latin Cartouche: *Columna Laterata Quadrangula Vacua* | Greek Cartouche: Κίων πλευρώδης τετράγωνος κενός

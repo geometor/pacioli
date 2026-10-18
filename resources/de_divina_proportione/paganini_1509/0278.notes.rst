@@ -1,0 +1,22 @@
+Folio 0278 (Plate Folio 0278 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0277.rst``): Folio Plate Folio 0277 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XLIIII — Pyramis Laterata Triangula Vacua (Hollow Triangular Pyramid)
+- **Current Folio** (``0278.rst``): Folio Plate Folio 0278 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0278)
+- **Following Folio** (``0279.rst``): Folio Plate Folio 0279 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XLV — Columna Laterata Quadrangula Solida (Solid Quadrangular Prism)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0278 (verso)`` (Scan page ``278``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0278)

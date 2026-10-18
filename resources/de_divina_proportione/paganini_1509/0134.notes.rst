@@ -1,0 +1,25 @@
+Folio 0134 (Libellus f. 25v) — Transcription & Graphic Calibration Notes
+========================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0133.rst``): Folio Libellus f. 25r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 25r)
+- **Current Folio** (``0134.rst``): Folio Libellus f. 25v (verso), Part III: Libellus in tres partiales tractatus divisus [``03_libellus``] — Libellus — Tractatus Tertius (Libellus f. 25v)
+- **Following Folio** (``0135.rst``): Folio Libellus f. 26r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 26r)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **2** woodcut element(s) were extracted and calibrated from ``0134.png``:
+
+- **``c1``** (``0134.c1.png``): Type ``initial`` | Caption: *Folio 0134 Initial Cap 1* | Bounding Box ``[x=433, y=477, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0134.c2.png``): Type ``initial`` | Caption: *Folio 0134 Initial Cap 2* | Bounding Box ``[x=430, y=845, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``TPACTATVS``
+- **Folio Signature / Numeration**: ``Libellus f. 25v`` (Scan page ``134``, *verso*)
+- **Book & Section Slug**: Part III: Libellus in tres partiales tractatus divisus (``03_libellus``)
+- **Leaf Category**: Libellus — Tractatus Tertius (Libellus f. 25v)

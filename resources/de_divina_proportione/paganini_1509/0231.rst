@@ -1,20 +1,17 @@
 :folio: 0231
+:page: Plate Folio 0231 (recto)
 :page_num: 231
 :side: recto
-:original_folio: Plate Folio 0231 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0231.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula XXI — Icosahedron Planum Solidum (Εἰκοσάεδρον ἐπίπεδον στερεόν)
 
-Folio 0231 (Plate Folio 0231 (recto)) — Plate XXI — Icosahedron Planum Solidum (Solid Regular Icosahedron)
-==========================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0231 (Plate Folio 0231 (recto)) — Tabula XXI — Icosahedron Planum Solidum (Εἰκοσάεδρον ἐπίπεδον στερεόν)
+==============================================================================================================
 
 .. picture:: 0231.g1.png
-
-   **g1 (plate)**: Plate XXI: Icosahedron Planum Solidum (Εἰκοσάεδρον ἐπίπεδον στερεόν) — Solid Regular Icosahedron
+   :alt: Tabula XXI: Icosahedron Planum Solidum (Εἰκοσάεδρον ἐπίπεδον στερεόν)
 
 Tabula XXI (No. 21)
 -------------------

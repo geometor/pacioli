@@ -1,0 +1,29 @@
+Folio 0042 (f. 13v) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0041.rst``): Folio f. 13r (recto), Part I: Compendio de Divina Proportione — Cap. XXXIII, Cap. XXXIV, Cap. XXXV, Cap. XXXVI, Cap. XXXVII (f. 13r) — Dela proportione de tutte loro superficie lune alaltre.
+- **Current Folio** (``0042.rst``): Folio f. 13v (verso), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. XXXVIII, Cap. XXXIX, Cap. XL, Cap. XLI, Cap. XLII, Cap. XLIII, Cap. XLIV (f. 13v) — Dela inscriptione del tetracedron in loctocedron.
+- **Following Folio** (``0043.rst``): Folio f. 14r (recto), Part I: Compendio de Divina Proportione — Cap. XLV, Cap. XLVI, Cap. XLVII, Cap. XLVIII (f. 14r) — Del modo aformare el tetracedron nello ycocedron.
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``,PARS``
+- **Folio Signature / Numeration**: ``f. 13v`` (Scan page ``42``, *verso*)
+- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. XXXVIII** (``compendio/cap_38``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/038_cap_XXXVIII.txt``
+  - **Cap. XXXIX** (``compendio/cap_39``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/039_cap_XXXIX.txt``
+  - **Cap. XL** (``compendio/cap_40``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/040_cap_XL.txt``
+  - **Cap. XLI** (``compendio/cap_41``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/041_cap_XLI.txt``
+  - **Cap. XLII** (``compendio/cap_42``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/042_cap_XLII.txt``
+  - **Cap. XLIII** (``compendio/cap_43``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/043_cap_XLIII.txt``
+  - **Cap. XLIV** (``compendio/cap_44``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/044_cap_XLIV.txt``

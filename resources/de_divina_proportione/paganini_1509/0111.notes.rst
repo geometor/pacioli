@@ -1,0 +1,27 @@
+Folio 0111 (Libellus f. 14r) — Transcription & Graphic Calibration Notes
+========================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0110.rst``): Folio Libellus f. 13v (verso), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Secundus (Libellus f. 13v)
+- **Current Folio** (``0111.rst``): Folio Libellus f. 14r (recto), Part III: Libellus in tres partiales tractatus divisus [``03_libellus``] — Libellus — Tractatus Secundus (Libellus f. 14r)
+- **Following Folio** (``0112.rst``): Folio Libellus f. 14v (verso), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Secundus (Libellus f. 14v)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **4** woodcut element(s) were extracted and calibrated from ``0111.png``:
+
+- **``g1``** (``0111.g1.png``): Type ``diagram`` | Caption: *Folio 0111 Diagram 1* | Bounding Box ``[x=638, y=132, w=331, h=314]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``g2``** (``0111.g2.png``): Type ``diagram`` | Caption: *Folio 0111 Diagram 2* | Bounding Box ``[x=652, y=530, w=312, h=309]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``g3``** (``0111.g3.png``): Type ``diagram`` | Caption: *Folio 0111 Diagram 3* | Bounding Box ``[x=639, y=876, w=345, h=364]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``c1``** (``0111.c1.png``): Type ``initial`` | Caption: *Folio 0111 Initial Cap 1* | Bounding Box ``[x=40, y=872, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``SECVNDVS``
+- **Folio Signature / Numeration**: ``Libellus f. 14r`` (Scan page ``111``, *recto*)
+- **Book & Section Slug**: Part III: Libellus in tres partiales tractatus divisus (``03_libellus``)
+- **Leaf Category**: Libellus — Tractatus Secundus (Libellus f. 14r)

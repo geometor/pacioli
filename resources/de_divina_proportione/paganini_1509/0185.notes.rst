@@ -1,0 +1,24 @@
+Folio 0185 (Plate Folio 0185 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0184.rst``): Folio Plate Folio 0184 (verso) (verso), Appendix I: The Roman Geometric Alphabet — Alphabet Plate Verso (0184)
+- **Current Folio** (``0185.rst``): Folio Plate Folio 0185 (recto) (recto), Appendix I: The Roman Geometric Alphabet [``04_alphabet``] — Porta Templi Domini Dicta Speciosa
+- **Following Folio** (``0186.rst``): Folio Plate Folio 0186 (verso) (verso), Appendix I: The Roman Geometric Alphabet — Alphabet Plate Verso (0186)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0185.png``:
+
+- **``g1``** (``0185.g1.png``): Type ``plate`` | Caption: *Porta Templi Domini Dicta Speciosa* | Bounding Box ``[x=0, y=0, w=1050, h=1444]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0185 (recto)`` (Scan page ``185``, *recto*)
+- **Book & Section Slug**: Appendix I: The Roman Geometric Alphabet (``04_alphabet``)
+- **Leaf Category**: Porta Templi Domini Dicta Speciosa

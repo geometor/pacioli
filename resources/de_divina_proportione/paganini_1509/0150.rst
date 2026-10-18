@@ -1,15 +1,13 @@
 :folio: 0150
+:page: Plate Folio 0150 (verso)
 :page_num: 150
 :side: verso
-:original_folio: Plate Folio 0150 (verso)
+:volume: I
 :book: Appendix I: The Roman Geometric Alphabet
-:chapters: None
-:graphics: None
+:section: 04_alphabet
+:title: Verso bianco della tavola d'alfabeto (0150)
 
-Folio 0150 (Plate Folio 0150 (verso)) — Alphabet Plate Verso (0150)
-===================================================================
+Folio 0150 (Plate Folio 0150 (verso)) — Verso bianco della tavola d'alfabeto (0150)
+===================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0149) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0149 nell'edizione Paganini 1509.]*

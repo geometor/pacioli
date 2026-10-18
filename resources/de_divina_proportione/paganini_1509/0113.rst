@@ -1,36 +1,29 @@
 :folio: 0113
+:page: Libellus f. 15r
 :page_num: 113
 :side: recto
-:original_folio: Libellus f. 15r
+:volume: I
 :book: Part III: Libellus in tres partiales tractatus divisus
-:chapters: None
-:graphics: 0113.g1.png, 0113.g2.png, 0113.g3.png, 0113.c1.png, 0113.c2.png
+:section: 03_libellus
+:title: Libellus — Tractatus Tertius (Libellus f. 15r)
 
 Folio 0113 (Libellus f. 15r) — Libellus — Tractatus Tertius (Libellus f. 15r)
 =============================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0113.g1.png
-
-   **g1 (diagram)**: Folio 0113 Diagram 1
+   :alt: Folio 0113 Figura g1
 
 .. picture:: 0113.g2.png
-
-   **g2 (diagram)**: Folio 0113 Diagram 2
+   :alt: Folio 0113 Figura g2
 
 .. picture:: 0113.g3.png
-
-   **g3 (diagram)**: Folio 0113 Diagram 3
+   :alt: Folio 0113 Figura g3
 
 .. picture:: 0113.c1.png
-
-   **c1 (initial)**: Folio 0113 Initial Cap 1
+   :alt: Folio 0113 Capolettera c1
 
 .. picture:: 0113.c2.png
-
-   **c2 (initial)**: Folio 0113 Initial Cap 2
+   :alt: Folio 0113 Capolettera c2
 
 Pars Tertia: Libellus in tres partiales tractatus divisus
 ---------------------------------------------------------

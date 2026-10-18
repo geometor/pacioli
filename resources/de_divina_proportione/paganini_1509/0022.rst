@@ -1,39 +1,32 @@
 :folio: 0022
+:page: f. 3v
 :page_num: 22
 :side: verso
-:original_folio: f. 3v
+:volume: I
 :book: Part I: Compendio de Divina Proportione
-:chapters: compendio/cap_03 (Cap. III), compendio/cap_04 (Cap. IV), compendio/cap_05 (Cap. V)
-:graphics: 0022.c1.png, 0022.c2.png
+:section: 01_compendio
+:title: Cap. III, Cap. IV, Cap. V (f. 3v) — Finito el proheraio seguita chiarire quello che per que
 
 Folio 0022 (f. 3v) — Cap. III, Cap. IV, Cap. V (f. 3v) — Finito el proheraio seguita chiarire quello che per que
 ================================================================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0022.c1.png
-
-   **c1 (initial)**: Folio 0022 Initial Cap 1
+   :alt: Folio 0022 Capolettera c1
 
 .. picture:: 0022.c2.png
-
-   **c2 (initial)**: Folio 0022 Initial Cap 2
-
-Testo Italiano (Paganini 1509 / Winterberg 1889)
-------------------------------------------------
+   :alt: Folio 0022 Capolettera c2
 
 Cap. III: Finito el proheraio seguita chiarire quello che per questo nome Mathematico sabia intendere. (continuatio)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------------------------------------------------------------------------------
 
 Commo de Zeuso e Parrasio se leggi in Plinio de picturis che siando a contrasto del medesimo exercitio con parrasio sfidandose de penello: quello feci vna cesta duna con suoi pampane inserta e posta in publieo, gliucelli vinse commo auera a se getarse. E laltro feci vn velo alora Zeuso disse a parrhasio auendolo ancor lui posto in publico e credendo fosse velo che coprisse lopera sua facta a contrasto leua via el velo e lascia vedere la tua a ognuno commo fo la mia e cosi rimase vincto. Perche se lui li vcelli animali irrationali e quello vno rationale e maestro ingannose forse el gran dilecto el summamore a quella (benché di lei ignaro) non minganna. E vniuersalraente non e gentil spirito achi la pictura non dilecta. Quando ancor luno e laltro animai rationale e irrationali a se alice. Onde con questo ancor mi staro saltro non vene che Je sien tre principali e laltre subalternate ouer cinque se quelli la musica connumerano e per niente mi pare la prospectiva da postergare conciosia chella non fia de men laude degna. E son certo per non essere articolo de fede me sira tolerato. E questo quanto al dicto nome aspeti.
 
 Cap. IV: De quelle cose chel lectore ala intelligentia de questo debia obseruare.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------------------------------------
 
 Apresso per men briga nel sequente e da notare quando se allegara aleuolte la prima del primo la quarta del secondo la decima del quinto la 20. del 6. e cosi scorrendo fin al quintodecimo sempre se debìa intendere per la prima cotatione el numero dele conclusioni. E per la secondo cotatione el numero deli libri del nostro philosopho Euclide quale al tutto immitamo commo archimandritta de queste faculta. Cioè dicendo per la quinta del primo voi dire per la quinta conclusione del suo primo libro: e cosi deglialtri libri partiali del suo libro totale deli elementi e primi principii de Arithmetica e Geometria. Ma quando lauctorita per noi aducta fosse daltra sua opera o ^daltro auctore quella tale e quel tale auctore nominaremo. Ancora per molti varii caratheri e abreuiature che in simili faculta se costumano vsitare. maxime per noi commo se rechiede etiamdio a ciascunaltra. Onde la medicina vsa li suoi per scropoli: once: dragme: e manipoli. Li argentieri e gioielieri per grani dinari e caratti. li suoi li astrologi per Jone Mercurio Saturno Sole Luna e glialtri similmente li loro. Eli mercanti per lire soldi grossi e denari parimente diuersi con breuita. E questo solo per euitare la prolixita del scriuere e anco del leggere che altramente facendo empirebono de inchiostro molta carta. A simili ancora noi in le mathematici per algebra c^oe practica speculatiua altre che dinotano cosa censo e cubo eglialtri termini commo in la predicta opera nostra se contene. Del numero deliquali ancora in questo alcuni ne vsaremo. e son quelli che dinanze in la tauola ponemmo. Similmente questi nomi, cioè multiplicatione producto rectangolo importano vna medesima cosa. E ancora questi cioè quadrato de vna quantità e potentia dalcuna quantità sonno vna medesima cosa: peroche la potentia dela linea fia respecto al suo quadrato per lultima del primo. E più che possa la linea fia el suo quadrato. E queste cose conuen sieno obseruate aleuolte nel nostro processo: acio non se equivochi nel senso delle paroUe.
 
 Cap. V: Del condecente titulo del presente tractato.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------
 
 Parme del nostro tractato excelso Duca el suo condecente titulo douer essere dela diuina proportione. E questo per molte simili conuenientie quali trono in la nostra proportione delaquale in questo nostro vtilissimo discorso intendemo a epso dio spectanti. Delequali fra laltre quatro ne prendaremo a sufficientia del nostro proposito. La prima e che lei fia vna sola e non più. e non e possibile di lei asegnare altre specie ne differentie.

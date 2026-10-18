@@ -1,0 +1,24 @@
+Folio 0012 (A4v) — Transcription & Graphic Calibration Notes
+============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0011.rst``): Folio A4r (recto), Front Matter and Dedications — Tabula — Table of Contents (A4r)
+- **Current Folio** (``0012.rst``): Folio A4v (verso), Front Matter and Dedications [``00_front_matter``] — Tabula — Table of Contents (A4v)
+- **Following Folio** (``0013.rst``): Folio A5r (recto), Front Matter and Dedications — Tabula — Table of Contents (A5r)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0012.png``:
+
+- **``g1``** (``0012.g1.png``): Type ``marginalia`` | Caption: *Folio 0012 Marginalia 1* | Bounding Box ``[x=298, y=298, w=65, h=66]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``<``
+- **Folio Signature / Numeration**: ``A4v`` (Scan page ``12``, *verso*)
+- **Book & Section Slug**: Front Matter and Dedications (``00_front_matter``)
+- **Leaf Category**: Tabula — Table of Contents (A4v)

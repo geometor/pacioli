@@ -1,0 +1,24 @@
+Folio 0239 (Plate Folio 0239 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0238.rst``): Folio Plate Folio 0238 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0238)
+- **Current Folio** (``0239.rst``): Folio Plate Folio 0239 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XXV — Icosahedron Elevatum Solidum (Solid Elevated Icosahedron)
+- **Following Folio** (``0240.rst``): Folio Plate Folio 0240 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0240)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0239.png``:
+
+- **``g1``** (``0239.g1.png``): Type ``plate`` | Caption: *Plate XXV: Icosahedron Elevatum Solidum (Εἰκοσάεδρον ἐπηρμένον στερεόν) — Solid Elevated Icosahedron* | Bounding Box ``[x=0, y=0, w=763, h=1515]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0239 (recto)`` (Scan page ``239``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XXV`` (Plate No. ``25``) | Latin Cartouche: *Icosahedron Elevatum Solidum* | Greek Cartouche: Εἰκοσάεδρον ἐπηρμένον στερεόν

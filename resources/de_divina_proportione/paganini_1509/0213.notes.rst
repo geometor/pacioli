@@ -1,0 +1,24 @@
+Folio 0213 (Plate Folio 0213 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0212.rst``): Folio Plate Folio 0212 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0212)
+- **Current Folio** (``0213.rst``): Folio Plate Folio 0213 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Architectural Plate — Colonna Corinta, Jonica e Pulvinata con Stilobata e Steriobata
+- **Following Folio** (``0214.rst``): Folio Plate Folio 0214 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0214)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0213.png``:
+
+- **``g1``** (``0213.g1.png``): Type ``plate`` | Caption: *Colonna Corinta, Jonica e Pulvinata con Stilobata e Steriobata* | Bounding Box ``[x=0, y=16, w=956, h=1370]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0213 (recto)`` (Scan page ``213``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Architectural Plate — Colonna Corinta, Jonica e Pulvinata con Stilobata e Steriobata

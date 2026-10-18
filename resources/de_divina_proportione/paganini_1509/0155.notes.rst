@@ -1,0 +1,24 @@
+Folio 0155 (Plate Folio 0155 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0154.rst``): Folio Plate Folio 0154 (verso) (verso), Appendix I: The Roman Geometric Alphabet — Alphabet Plate Verso (0154)
+- **Current Folio** (``0155.rst``): Folio Plate Folio 0155 (recto) (recto), Appendix I: The Roman Geometric Alphabet [``04_alphabet``] — Roman Geometric Alphabet — Lettera I / J
+- **Following Folio** (``0156.rst``): Folio Plate Folio 0156 (verso) (verso), Appendix I: The Roman Geometric Alphabet — Alphabet Plate Verso (0156)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0155.png``:
+
+- **``g1``** (``0155.g1.png``): Type ``plate`` | Caption: *Roman Geometric Alphabet — Lettera I / J* | Bounding Box ``[x=154, y=193, w=608, h=601]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0155 (recto)`` (Scan page ``155``, *recto*)
+- **Book & Section Slug**: Appendix I: The Roman Geometric Alphabet (``04_alphabet``)
+- **Leaf Category**: Roman Geometric Alphabet — Lettera I / J

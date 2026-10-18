@@ -1,15 +1,13 @@
 :folio: 0218
+:page: Plate Folio 0218 (verso)
 :page_num: 218
 :side: verso
-:original_folio: Plate Folio 0218 (verso)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: None
+:section: 05_polyhedra_plates
+:title: Verso bianco della tavola dei corpi (0218)
 
-Folio 0218 (Plate Folio 0218 (verso)) — Polyhedra Plate Verso (0218)
-====================================================================
+Folio 0218 (Plate Folio 0218 (verso)) — Verso bianco della tavola dei corpi (0218)
+==================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0217) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0217 nell'edizione Paganini 1509.]*

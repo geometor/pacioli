@@ -1,0 +1,28 @@
+Folio 0121 (Libellus f. 19r) — Transcription & Graphic Calibration Notes
+========================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0120.rst``): Folio Libellus f. 18v (verso), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 18v)
+- **Current Folio** (``0121.rst``): Folio Libellus f. 19r (recto), Part III: Libellus in tres partiales tractatus divisus [``03_libellus``] — Libellus — Tractatus Tertius (Libellus f. 19r)
+- **Following Folio** (``0122.rst``): Folio Libellus f. 19v (verso), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 19v)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **5** woodcut element(s) were extracted and calibrated from ``0121.png``:
+
+- **``g1``** (``0121.g1.png``): Type ``diagram`` | Caption: *Folio 0121 Diagram 1* | Bounding Box ``[x=642, y=35, w=326, h=330]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``g2``** (``0121.g2.png``): Type ``diagram`` | Caption: *Folio 0121 Diagram 2* | Bounding Box ``[x=656, y=380, w=287, h=306]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``g3``** (``0121.g3.png``): Type ``diagram`` | Caption: *Folio 0121 Diagram 3* | Bounding Box ``[x=617, y=783, w=351, h=395]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``c1``** (``0121.c1.png``): Type ``initial`` | Caption: *Folio 0121 Initial Cap 1* | Bounding Box ``[x=30, y=406, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0121.c2.png``): Type ``initial`` | Caption: *Folio 0121 Initial Cap 2* | Bounding Box ``[x=30, y=780, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``TERTIVS``
+- **Folio Signature / Numeration**: ``Libellus f. 19r`` (Scan page ``121``, *recto*)
+- **Book & Section Slug**: Part III: Libellus in tres partiales tractatus divisus (``03_libellus``)
+- **Leaf Category**: Libellus — Tractatus Tertius (Libellus f. 19r)

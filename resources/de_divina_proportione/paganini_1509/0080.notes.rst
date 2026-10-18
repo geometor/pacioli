@@ -1,0 +1,27 @@
+Folio 0080 (f. 32v) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0079.rst``): Folio f. 32r (recto), Part II: Tractato de l'Architectura — Cap. XV, Cap. XVI, Cap. XVII (f. 32r) — Del zophoro nel epistilio.
+- **Current Folio** (``0080.rst``): Folio f. 32v (verso), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. XVIII, Cap. XIX (f. 32v) — Comme lapicidi e altri scultori in dicti corpi sieno co
+- **Following Folio** (``0081.rst``): Folio f. 33r (recto), Part II: Tractato de l'Architectura — Cap. XIX, Cap. XX (f. 33r) — Comme nelli luoghi angusti lo architetto se habia arege
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **2** woodcut element(s) were extracted and calibrated from ``0080.png``:
+
+- **``c1``** (``0080.c1.png``): Type ``initial`` | Caption: *Folio 0080 Initial Cap 1* | Bounding Box ``[x=411, y=126, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0080.c2.png``): Type ``initial`` | Caption: *Folio 0080 Initial Cap 2* | Bounding Box ``[x=407, y=618, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PARS``
+- **Folio Signature / Numeration**: ``f. 32v`` (Scan page ``80``, *verso*)
+- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. XVIII** (``architectura/cap_18``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/018_cap_XVIII.txt``
+  - **Cap. XIX** (``architectura/cap_19``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/019_cap_XIX.txt``

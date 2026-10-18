@@ -1,0 +1,22 @@
+Folio 0154 (Plate Folio 0154 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0153.rst``): Folio Plate Folio 0153 (recto) (recto), Appendix I: The Roman Geometric Alphabet — Roman Geometric Alphabet — Lettera H
+- **Current Folio** (``0154.rst``): Folio Plate Folio 0154 (verso) (verso), Appendix I: The Roman Geometric Alphabet [``04_alphabet``] — Alphabet Plate Verso (0154)
+- **Following Folio** (``0155.rst``): Folio Plate Folio 0155 (recto) (recto), Appendix I: The Roman Geometric Alphabet — Roman Geometric Alphabet — Lettera I / J
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0154 (verso)`` (Scan page ``154``, *verso*)
+- **Book & Section Slug**: Appendix I: The Roman Geometric Alphabet (``04_alphabet``)
+- **Leaf Category**: Alphabet Plate Verso (0154)

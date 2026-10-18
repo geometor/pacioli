@@ -1,0 +1,24 @@
+Folio 0251 (Plate Folio 0251 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0250.rst``): Folio Plate Folio 0250 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0250)
+- **Current Folio** (``0251.rst``): Folio Plate Folio 0251 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XXXI — Dodecahedron Elevatum Solidum (Solid Elevated Dodecahedron)
+- **Following Folio** (``0252.rst``): Folio Plate Folio 0252 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0252)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0251.png``:
+
+- **``g1``** (``0251.g1.png``): Type ``plate`` | Caption: *Plate XXXI: Dodecahedron Elevatum Solidum (Δωδεκάεδρον ἐπηρμένον στερεόν) — Solid Elevated Dodecahedron* | Bounding Box ``[x=0, y=188, w=772, h=1327]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0251 (recto)`` (Scan page ``251``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XXXI`` (Plate No. ``31``) | Latin Cartouche: *Dodecahedron Elevatum Solidum* | Greek Cartouche: Δωδεκάεδρον ἐπηρμένον στερεόν

@@ -1,0 +1,27 @@
+Folio 0069 (f. 27r) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0068.rst``): Folio f. 26v (verso), Part II: Tractato de l'Architectura — Cap. II, Cap. III (f. 26v) — Dela distantia del profilo al cotozzo de dieta testa ci
+- **Current Folio** (``0069.rst``): Folio f. 27r (recto), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. III, Cap. IV (f. 27r) — Dela proportione de tutto el corpo humano che sia ben d
+- **Following Folio** (``0070.rst``): Folio f. 27v (verso), Part II: Tractato de l'Architectura — Cap. IV (f. 27v) — Sequita dele colonne rotonde con sue basi e capitelli e
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **2** woodcut element(s) were extracted and calibrated from ``0069.png``:
+
+- **``g1``** (``0069.g1.png``): Type ``diagram`` | Caption: *Folio 0069 Diagram 1* | Bounding Box ``[x=600, y=58, w=262, h=1212]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``c1``** (``0069.c1.png``): Type ``initial`` | Caption: *Folio 0069 Initial Cap 1* | Bounding Box ``[x=38, y=1119, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``-PRftMr``
+- **Folio Signature / Numeration**: ``f. 27r`` (Scan page ``69``, *recto*)
+- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. III** (``architectura/cap_03``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/003_cap_III.txt``
+  - **Cap. IV** (``architectura/cap_04``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/004_cap_IV.txt``

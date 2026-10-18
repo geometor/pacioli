@@ -1,20 +1,17 @@
 :folio: 0217
+:page: Plate Folio 0217 (recto)
 :page_num: 217
 :side: recto
-:original_folio: Plate Folio 0217 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0217.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula XIIII — Exahedron Abscisum Elevatum Vacuum (Ἑξάεδρον ἀποτετμημένον ἐπηρμένον κενόν)
 
-Folio 0217 (Plate Folio 0217 (recto)) — Plate XIIII — Exahedron Abscisum Elevatum Vacuum (Hollow Elevated Truncated Hexahedron)
-===============================================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0217 (Plate Folio 0217 (recto)) — Tabula XIIII — Exahedron Abscisum Elevatum Vacuum (Ἑξάεδρον ἀποτετμημένον ἐπηρμένον κενόν)
+==================================================================================================================================
 
 .. picture:: 0217.g1.png
-
-   **g1 (plate)**: Plate XIIII: Exahedron Abscisum Elevatum Vacuum (Ἑξάεδρον ἀποτετμημένον ἐπηρμένον κενόν) — Hollow Elevated Truncated Hexahedron
+   :alt: Tabula XIIII: Exahedron Abscisum Elevatum Vacuum (Ἑξάεδρον ἀποτετμημένον ἐπηρμένον κενόν)
 
 Tabula XIIII (No. 14)
 ---------------------

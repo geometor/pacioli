@@ -1,15 +1,13 @@
 :folio: 0314
+:page: End Matter 0314 (verso)
 :page_num: 314
 :side: verso
-:original_folio: End Matter 0314 (verso)
+:volume: I
 :book: End Matter and Colophon
-:chapters: None
-:graphics: None
+:section: 06_end_matter
+:title: Endleaf (0314)
 
 Folio 0314 (End Matter 0314 (verso)) — Endleaf (0314)
 =====================================================
 
-Folio Description
------------------
-
-Blank leaf / flyleaf (End Matter 0314 (verso)) in the 1509 Venice witness (*Paganinus de Paganinis de Brixia*).
+*[Carta bianca / guardia (End Matter 0314 (verso)) nell'edizione veneziana di Paganino de' Paganini, 1509.]*

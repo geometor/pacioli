@@ -1,15 +1,13 @@
 :folio: 0154
+:page: Plate Folio 0154 (verso)
 :page_num: 154
 :side: verso
-:original_folio: Plate Folio 0154 (verso)
+:volume: I
 :book: Appendix I: The Roman Geometric Alphabet
-:chapters: None
-:graphics: None
+:section: 04_alphabet
+:title: Verso bianco della tavola d'alfabeto (0154)
 
-Folio 0154 (Plate Folio 0154 (verso)) — Alphabet Plate Verso (0154)
-===================================================================
+Folio 0154 (Plate Folio 0154 (verso)) — Verso bianco della tavola d'alfabeto (0154)
+===================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0153) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0153 nell'edizione Paganini 1509.]*

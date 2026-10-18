@@ -1,47 +1,38 @@
 :folio: 0053
+:page: f. 19r
 :page_num: 53
 :side: recto
-:original_folio: f. 19r
+:volume: I
 :book: Part I: Compendio de Divina Proportione
-:chapters: compendio/cap_60 (Cap. LX), compendio/cap_61 (Cap. LXI), compendio/cap_62 (Cap. LXII)
-:graphics: 0053.g1.png, 0053.g2.png, 0053.c1.png, 0053.c2.png
+:section: 01_compendio
+:title: Cap. LX, Cap. LXI, Cap. LXII (f. 19r) — Dele colonne laterate quadrilatere.
 
 Folio 0053 (f. 19r) — Cap. LX, Cap. LXI, Cap. LXII (f. 19r) — Dele colonne laterate quadrilatere.
 =================================================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0053.g1.png
-
-   **g1 (diagram)**: Folio 0053 Diagram 1
+   :alt: Folio 0053 Figura g1
 
 .. picture:: 0053.g2.png
-
-   **g2 (diagram)**: Folio 0053 Diagram 2
+   :alt: Folio 0053 Figura g2
 
 .. picture:: 0053.c1.png
-
-   **c1 (initial)**: Folio 0053 Initial Cap 1
+   :alt: Folio 0053 Capolettera c1
 
 .. picture:: 0053.c2.png
-
-   **c2 (initial)**: Folio 0053 Initial Cap 2
-
-Testo Italiano (Paganini 1509 / Winterberg 1889)
-------------------------------------------------
+   :alt: Folio 0053 Capolettera c2
 
 Cap. LX: Dele colonne laterate quadrilatere. (continuatio)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------------
 
-La terza sorte fia detta elmuaym. la quale e figura equilatera ma non rectangola e per altro nome fia detto rombo commo qui la figura e. La quarta sorte fia della simile al elumaym ouer romboide per altro nome, dela quale li lati solo oppositi sonno equali e fra lore equidistanti e non ha angoli recti, commo apare la figura D. Tutte laltre figure da queste infore che sienno de 4 lati sonno dette elmuariffe. cioè irregulari. commo son le figure regnate E. Or secondo tutte queste diuersita de basi possano variarse diete colonne quadrilatere. Ma commo se voglia sempre la equidistantia fra le lor basi per altezza se deue intendere. E questi tali possiamo chiamar regulari a similitudine di lor basi, lüaltre regulari ouer elmuaritfe. ') Vgl. die F'iguren pag. 107 und die fünf ersten S. 108. '-') I. irregulari.
+La terza sorte fia detta elmuaym. la quale e figura equilatera ma non rectangola e per altro nome fia detto rombo commo qui la figura e. La quarta sorte fia della simile al elumaym ouer romboide per altro nome, dela quale li lati solo oppositi sonno equali e fra lore equidistanti e non ha angoli recti, commo apare la figura D. Tutte laltre figure da queste infore che sienno de 4 lati sonno dette elmuariffe. cioè irregulari. commo son le figure regnate E. Or secondo tutte queste diuersita de basi possano variarse diete colonne quadrilatere. Ma commo se voglia sempre la equidistantia fra le lor basi per altezza se deue intendere. E questi tali possiamo chiamar regulari a similitudine di lor basi, lüaltre regulari ouer elmuaritfe. 107 und die fünf ersten S. 108. '-') I. irregulari.
 
 Cap. LXI: Dele colonne laterale pentagona.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------
 
-XLIX. L. Nel terzo luogo sonno le colonne laterale pentagone cioè quelle de 5 facce commo qui la figura A. B. che ciascuna fia tetragona ouer quadrilatera. E le basi di queste simili colonne sempre sonno doi pentagoni cioè doi figure rectilinee de 5 lati ouer anguli. Peroche in tutte le figure rectilinee el numero deli angoli se aguaglia al numero deli suoi lati, e altramente non possano stare. E queste ancora hano a essere equilatere e inequilatere secondo chele lor basi permetteranno: si commo poco inanze dele laterale quadrilatere se diclo. Conciosia che alcuni pentagoni sienno equilateri e equianguli. e altri inequilateri e per consequente inequianguli. Ma ogni pentagono che habia 3 anguli fra loro equali sei sira equilatero de necessita sira ancora equiangulo. commo demo.stra la septima del 13. Questo se dici perche poteria el pentagono hauere lati equali con doi angoli fra loro equali, non pero serebe tutto equiangulo. E questi doi pentagoni cioè superiore e inferiore pur similmente con la equidistantia de loro altezza in dieta colonna se hano a intendere. O sienno le colonne equilatere o inequilatere commo se voglino. E perche excelso Duca le specie dele colonne laterale possano in infinito acrescere secondo la varietà dele figure rectilinee de più e manco lati. Peroche de ogni colonna laterata conuengano le suoi doi basi, cioè suprema e inferiore de necessita essere doi figure rectilinee simili, cioè che conuenghino nel numero de lati non fosse vna triangola e laltra tetragona, e ancora equilatere e equiangole fra loro ala vniformita dele colonne quantunca diuersamenle facino varietà in epse fermandole aleuolte equilatere e aleuolte inequilatere. Per la qual cosa non me pare in diete più olirà extenderme ma solo indure a memoria che la loro denominatione sempre deriua dele basi, cioè secondo scranno le basi cosi sonno dette, verbi gratia. se le basi sonno triangule commo fo disopra nel corpo seraiile se diranno triangule. E se siranno tetragone ouer quadrilatere siranno diete quadrangole. E se pentagone pentagone. E se de 6 lati scranno chiamate exagone et sic de singulis. Ma sienno Vgl. hierzu die letzte Figur S. 108. le basi di che qualità si veglino sempre le facce da ciascuna siranno tetragone rectangole. E de luna e de laltra fin qua le lor forme materiali alochio demostrano quello se dicto al numero per loro taula posto. E anco in questo disotto in figura piana in prospectiua al medesimo numero comnie porrà vostro celsitudine vedere, i) /"" ^ , 1^ \
+XLIX. L. Nel terzo luogo sonno le colonne laterale pentagone cioè quelle de 5 facce commo qui la figura A. B. che ciascuna fia tetragona ouer quadrilatera. E le basi di queste simili colonne sempre sonno doi pentagoni cioè doi figure rectilinee de 5 lati ouer anguli. Peroche in tutte le figure rectilinee el numero deli angoli se aguaglia al numero deli suoi lati, e altramente non possano stare. E queste ancora hano a essere equilatere e inequilatere secondo chele lor basi permetteranno: si commo poco inanze dele laterale quadrilatere se diclo. Conciosia che alcuni pentagoni sienno equilateri e equianguli. e altri inequilateri e per consequente inequianguli. Ma ogni pentagono che habia 3 anguli fra loro equali sei sira equilatero de necessita sira ancora equiangulo. commo demo.stra la septima del 13. Questo se dici perche poteria el pentagono hauere lati equali con doi angoli fra loro equali, non pero serebe tutto equiangulo. E questi doi pentagoni cioè superiore e inferiore pur similmente con la equidistantia de loro altezza in dieta colonna se hano a intendere. O sienno le colonne equilatere o inequilatere commo se voglino. E perche excelso Duca le specie dele colonne laterale possano in infinito acrescere secondo la varietà dele figure rectilinee de più e manco lati. Peroche de ogni colonna laterata conuengano le suoi doi basi, cioè suprema e inferiore de necessita essere doi figure rectilinee simili, cioè che conuenghino nel numero de lati non fosse vna triangola e laltra tetragona, e ancora equilatere e equiangole fra loro ala vniformita dele colonne quantunca diuersamenle facino varietà in epse fermandole aleuolte equilatere e aleuolte inequilatere. Per la qual cosa non me pare in diete più olirà extenderme ma solo indure a memoria che la loro denominatione sempre deriua dele basi, cioè secondo scranno le basi cosi sonno dette, verbi gratia. se le basi sonno triangule commo fo disopra nel corpo seraiile se diranno triangule. E se siranno tetragone ouer quadrilatere siranno diete quadrangole. E se pentagone pentagone. E se de 6 lati scranno chiamate exagone et sic de singulis. Ma sienno 108. le basi di che qualità si veglino sempre le facce da ciascuna siranno tetragone rectangole. E de luna e de laltra fin qua le lor forme materiali alochio demostrano quello se dicto al numero per loro taula posto. E anco in questo disotto in figura piana in prospectiua al medesimo numero comnie porrà vostro celsitudine vedere, i) /"" ^ , 1^ \
 
 Cap. LXII: Del modo a mesurare tutte sorte colonne e prima dele rotonde.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------------------------------
 
 Conuenientemente ormai el modo asapere mesurare tutte sorte colonne me par se ponga, auenga che apieno de ciò nelopera nostra grande nabiam tractato. pur succincte qui per vn cenno a vostra celsitudine lo induro e prima de tutte le tonde per le quali questa sie regola generale. Prima se mesuri vna dele suoi basi recandola a quadrata secondo el modo proximano dal nobile Geometra Archimede trouato posto nel suo volume sub rubrica de quadratura circuii, ein lopera nostra grande aducto con sua demostratione cioè cosi. Trouise el dyametro dela basa, e quello se multiplichi in se. del producto se prenda li ly^j cioè li vndici quatordicesimi ouer quatordecimi.

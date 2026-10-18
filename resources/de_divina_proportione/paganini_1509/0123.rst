@@ -1,32 +1,26 @@
 :folio: 0123
+:page: Libellus f. 20r
 :page_num: 123
 :side: recto
-:original_folio: Libellus f. 20r
+:volume: I
 :book: Part III: Libellus in tres partiales tractatus divisus
-:chapters: None
-:graphics: 0123.g1.png, 0123.c1.png, 0123.c2.png, 0123.c3.png
+:section: 03_libellus
+:title: Libellus — Tractatus Tertius (Libellus f. 20r)
 
 Folio 0123 (Libellus f. 20r) — Libellus — Tractatus Tertius (Libellus f. 20r)
 =============================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0123.g1.png
-
-   **g1 (diagram)**: Folio 0123 Diagram 1
+   :alt: Folio 0123 Figura g1
 
 .. picture:: 0123.c1.png
-
-   **c1 (initial)**: Folio 0123 Initial Cap 1
+   :alt: Folio 0123 Capolettera c1
 
 .. picture:: 0123.c2.png
-
-   **c2 (initial)**: Folio 0123 Initial Cap 2
+   :alt: Folio 0123 Capolettera c2
 
 .. picture:: 0123.c3.png
-
-   **c3 (initial)**: Folio 0123 Initial Cap 3
+   :alt: Folio 0123 Capolettera c3
 
 Pars Tertia: Libellus in tres partiales tractatus divisus
 ---------------------------------------------------------

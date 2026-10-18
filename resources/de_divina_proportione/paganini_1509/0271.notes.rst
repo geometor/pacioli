@@ -1,0 +1,24 @@
+Folio 0271 (Plate Folio 0271 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0270.rst``): Folio Plate Folio 0270 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0270)
+- **Current Folio** (``0271.rst``): Folio Plate Folio 0271 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XLI — Columna Laterata Triangula Solida (Solid Triangular Prism (Corpus Seratile))
+- **Following Folio** (``0272.rst``): Folio Plate Folio 0272 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0272)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0271.png``:
+
+- **``g1``** (``0271.g1.png``): Type ``plate`` | Caption: *Plate XLI: Columna Laterata Triangula Solida (Κίων πλευρώδης τρίγωνος στερεός) — Solid Triangular Prism (Corpus Seratile)* | Bounding Box ``[x=0, y=167, w=625, h=1348]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0271 (recto)`` (Scan page ``271``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XLI`` (Plate No. ``41``) | Latin Cartouche: *Columna Laterata Triangula Solida* | Greek Cartouche: Κίων πλευρώδης τρίγωνος στερεός

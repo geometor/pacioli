@@ -1,0 +1,24 @@
+Folio 0245 (Plate Folio 0245 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0244.rst``): Folio Plate Folio 0244 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0244)
+- **Current Folio** (``0245.rst``): Folio Plate Folio 0245 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XXVIII — Dodecahedron Planum Vacuum (Hollow Regular Dodecahedron)
+- **Following Folio** (``0246.rst``): Folio Plate Folio 0246 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0246)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0245.png``:
+
+- **``g1``** (``0245.g1.png``): Type ``plate`` | Caption: *Plate XXVIII: Dodecahedron Planum Vacuum (Δωδεκάεδρον ἐπίπεδον κενόν) — Hollow Regular Dodecahedron* | Bounding Box ``[x=0, y=83, w=760, h=1432]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0245 (recto)`` (Scan page ``245``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XXVIII`` (Plate No. ``28``) | Latin Cartouche: *Dodecahedron Planum Vacuum* | Greek Cartouche: Δωδεκάεδρον ἐπίπεδον κενόν

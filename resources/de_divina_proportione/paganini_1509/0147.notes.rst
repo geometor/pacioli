@@ -1,0 +1,24 @@
+Folio 0147 (Plate Folio 0147 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0146.rst``): Folio Plate Folio 0146 (verso) (verso), Appendix I: The Roman Geometric Alphabet — Alphabet Plate Verso (0146)
+- **Current Folio** (``0147.rst``): Folio Plate Folio 0147 (recto) (recto), Appendix I: The Roman Geometric Alphabet [``04_alphabet``] — Roman Geometric Alphabet — Lettera E
+- **Following Folio** (``0148.rst``): Folio Plate Folio 0148 (verso) (verso), Appendix I: The Roman Geometric Alphabet — Alphabet Plate Verso (0148)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0147.png``:
+
+- **``g1``** (``0147.g1.png``): Type ``plate`` | Caption: *Roman Geometric Alphabet — Lettera E* | Bounding Box ``[x=78, y=269, w=603, h=594]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0147 (recto)`` (Scan page ``147``, *recto*)
+- **Book & Section Slug**: Appendix I: The Roman Geometric Alphabet (``04_alphabet``)
+- **Leaf Category**: Roman Geometric Alphabet — Lettera E

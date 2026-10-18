@@ -1,0 +1,28 @@
+Folio 0112 (Libellus f. 14v) — Transcription & Graphic Calibration Notes
+========================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0111.rst``): Folio Libellus f. 14r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Secundus (Libellus f. 14r)
+- **Current Folio** (``0112.rst``): Folio Libellus f. 14v (verso), Part III: Libellus in tres partiales tractatus divisus [``03_libellus``] — Libellus — Tractatus Secundus (Libellus f. 14v)
+- **Following Folio** (``0113.rst``): Folio Libellus f. 15r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 15r)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **5** woodcut element(s) were extracted and calibrated from ``0112.png``:
+
+- **``g1``** (``0112.g1.png``): Type ``diagram`` | Caption: *Folio 0112 Diagram 1* | Bounding Box ``[x=52, y=190, w=299, h=358]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g2``** (``0112.g2.png``): Type ``diagram`` | Caption: *Folio 0112 Diagram 2* | Bounding Box ``[x=51, y=673, w=300, h=349]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``c1``** (``0112.c1.png``): Type ``initial`` | Caption: *Folio 0112 Initial Cap 1* | Bounding Box ``[x=399, y=208, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0112.c2.png``): Type ``initial`` | Caption: *Folio 0112 Initial Cap 2* | Bounding Box ``[x=404, y=437, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c3``** (``0112.c3.png``): Type ``initial`` | Caption: *Folio 0112 Initial Cap 3* | Bounding Box ``[x=400, y=676, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``TRACATATVS``
+- **Folio Signature / Numeration**: ``Libellus f. 14v`` (Scan page ``112``, *verso*)
+- **Book & Section Slug**: Part III: Libellus in tres partiales tractatus divisus (``03_libellus``)
+- **Leaf Category**: Libellus — Tractatus Secundus (Libellus f. 14v)

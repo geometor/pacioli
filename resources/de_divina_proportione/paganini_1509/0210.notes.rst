@@ -1,0 +1,22 @@
+Folio 0210 (Plate Folio 0210 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0209.rst``): Folio Plate Folio 0209 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XII — Exahedron Elevatum Vacuum (Hollow Elevated Hexahedron)
+- **Current Folio** (``0210.rst``): Folio Plate Folio 0210 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0210)
+- **Following Folio** (``0211.rst``): Folio Plate Folio 0211 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XIII — Exahedron Abscisum Elevatum Solidum (Solid Elevated Truncated Hexahedron)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0210 (verso)`` (Scan page ``210``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0210)

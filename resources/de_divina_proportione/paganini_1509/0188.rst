@@ -1,15 +1,13 @@
 :folio: 0188
+:page: Plate Folio 0188 (verso)
 :page_num: 188
 :side: verso
-:original_folio: Plate Folio 0188 (verso)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: None
+:section: 05_polyhedra_plates
+:title: Verso bianco della tavola dei corpi (0188)
 
-Folio 0188 (Plate Folio 0188 (verso)) — Polyhedra Plate Verso (0188)
-====================================================================
+Folio 0188 (Plate Folio 0188 (verso)) — Verso bianco della tavola dei corpi (0188)
+==================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0187) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0187 nell'edizione Paganini 1509.]*

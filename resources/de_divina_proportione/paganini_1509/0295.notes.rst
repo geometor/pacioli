@@ -1,0 +1,24 @@
+Folio 0295 (Plate Folio 0295 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0294.rst``): Folio Plate Folio 0294 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0294)
+- **Current Folio** (``0295.rst``): Folio Plate Folio 0295 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate LII — Pyramis Laterata Penthagona Vacua (Hollow Pentagonal Pyramid)
+- **Following Folio** (``0296.rst``): Folio Plate Folio 0296 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0296)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0295.png``:
+
+- **``g1``** (``0295.g1.png``): Type ``plate`` | Caption: *Plate LII: Pyramis Laterata Penthagona Vacua (Πυραμὶς πλευρώδης πεντάγωνος κενή) — Hollow Pentagonal Pyramid* | Bounding Box ``[x=0, y=0, w=659, h=1456]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0295 (recto)`` (Scan page ``295``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``LII`` (Plate No. ``52``) | Latin Cartouche: *Pyramis Laterata Penthagona Vacua* | Greek Cartouche: Πυραμὶς πλευρώδης πεντάγωνος κενή

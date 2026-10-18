@@ -1,0 +1,22 @@
+Folio 0220 (Plate Folio 0220 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0219.rst``): Folio Plate Folio 0219 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XV — Octahedron Planum Solidum (Solid Regular Octahedron)
+- **Current Folio** (``0220.rst``): Folio Plate Folio 0220 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0220)
+- **Following Folio** (``0221.rst``): Folio Plate Folio 0221 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XVI — Octahedron Planum Vacuum (Hollow Regular Octahedron)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0220 (verso)`` (Scan page ``220``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0220)

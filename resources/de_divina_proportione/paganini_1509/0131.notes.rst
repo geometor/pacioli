@@ -1,0 +1,24 @@
+Folio 0131 (Libellus f. 24r) — Transcription & Graphic Calibration Notes
+========================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0130.rst``): Folio Libellus f. 23v (verso), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 23v)
+- **Current Folio** (``0131.rst``): Folio Libellus f. 24r (recto), Part III: Libellus in tres partiales tractatus divisus [``03_libellus``] — Libellus — Tractatus Tertius (Libellus f. 24r)
+- **Following Folio** (``0132.rst``): Folio Libellus f. 24v (verso), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 24v)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0131.png``:
+
+- **``c1``** (``0131.c1.png``): Type ``initial`` | Caption: *Folio 0131 Initial Cap 1* | Bounding Box ``[x=23, y=914, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``TERTiVS``
+- **Folio Signature / Numeration**: ``Libellus f. 24r`` (Scan page ``131``, *recto*)
+- **Book & Section Slug**: Part III: Libellus in tres partiales tractatus divisus (``03_libellus``)
+- **Leaf Category**: Libellus — Tractatus Tertius (Libellus f. 24r)

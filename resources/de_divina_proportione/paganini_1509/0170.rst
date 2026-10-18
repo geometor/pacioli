@@ -1,15 +1,13 @@
 :folio: 0170
+:page: Plate Folio 0170 (verso)
 :page_num: 170
 :side: verso
-:original_folio: Plate Folio 0170 (verso)
+:volume: I
 :book: Appendix I: The Roman Geometric Alphabet
-:chapters: None
-:graphics: None
+:section: 04_alphabet
+:title: Verso bianco della tavola d'alfabeto (0170)
 
-Folio 0170 (Plate Folio 0170 (verso)) — Alphabet Plate Verso (0170)
-===================================================================
+Folio 0170 (Plate Folio 0170 (verso)) — Verso bianco della tavola d'alfabeto (0170)
+===================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0169) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0169 nell'edizione Paganini 1509.]*

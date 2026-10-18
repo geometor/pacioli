@@ -1,0 +1,35 @@
+Folio 0056 (f. 20v) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0055.rst``): Folio f. 20r (recto), Part I: Compendio de Divina Proportione — Cap. LXIV, Cap. LXV (f. 20r) — Dele pyramidi e tutte lor differentie.
+- **Current Folio** (``0056.rst``): Folio f. 20v (verso), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. LXV, Cap. LXVI, Cap. LXVII (f. 20v) — Dele piramidi laterate e sue diuersita.
+- **Following Folio** (``0057.rst``): Folio f. 21r (recto), Part I: Compendio de Divina Proportione — Cap. LXVII, Cap. LXVIII (f. 21r) — Commo dele laterate aperto se mostra ciascuna essere su
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **9** woodcut element(s) were extracted and calibrated from ``0056.png``:
+
+- **``g1``** (``0056.g1.png``): Type ``diagram`` | Caption: *Folio 0056 Diagram 1* | Bounding Box ``[x=153, y=32, w=150, h=243]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g2``** (``0056.g2.png``): Type ``diagram`` | Caption: *Folio 0056 Diagram 2* | Bounding Box ``[x=63, y=268, w=155, h=365]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g3``** (``0056.g3.png``): Type ``diagram`` | Caption: *Folio 0056 Diagram 3* | Bounding Box ``[x=220, y=269, w=173, h=249]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g4``** (``0056.g4.png``): Type ``diagram`` | Caption: *Folio 0056 Diagram 4* | Bounding Box ``[x=234, y=518, w=150, h=161]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g5``** (``0056.g5.png``): Type ``diagram`` | Caption: *Folio 0056 Diagram 5* | Bounding Box ``[x=243, y=690, w=154, h=175]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g6``** (``0056.g6.png``): Type ``diagram`` | Caption: *Folio 0056 Diagram 6* | Bounding Box ``[x=56, y=708, w=158, h=157]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g7``** (``0056.g7.png``): Type ``diagram`` | Caption: *Folio 0056 Diagram 7* | Bounding Box ``[x=102, y=866, w=246, h=354]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``c1``** (``0056.c1.png``): Type ``initial`` | Caption: *Folio 0056 Initial Cap 1* | Bounding Box ``[x=413, y=487, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0056.c2.png``): Type ``initial`` | Caption: *Folio 0056 Initial Cap 2* | Bounding Box ``[x=417, y=1170, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PARS``
+- **Folio Signature / Numeration**: ``f. 20v`` (Scan page ``56``, *verso*)
+- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. LXV** (``compendio/cap_65``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/065_cap_LXV.txt``
+  - **Cap. LXVI** (``compendio/cap_66``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/066_cap_LXVI.txt``
+  - **Cap. LXVII** (``compendio/cap_67``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/067_cap_LXVII.txt``

@@ -1,0 +1,26 @@
+Folio 0125 (Libellus f. 21r) — Transcription & Graphic Calibration Notes
+========================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0124.rst``): Folio Libellus f. 20v (verso), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 20v)
+- **Current Folio** (``0125.rst``): Folio Libellus f. 21r (recto), Part III: Libellus in tres partiales tractatus divisus [``03_libellus``] — Libellus — Tractatus Tertius (Libellus f. 21r)
+- **Following Folio** (``0126.rst``): Folio Libellus f. 21v (verso), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 21v)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **3** woodcut element(s) were extracted and calibrated from ``0125.png``:
+
+- **``g1``** (``0125.g1.png``): Type ``diagram`` | Caption: *Folio 0125 Diagram 1* | Bounding Box ``[x=653, y=248, w=321, h=374]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``g2``** (``0125.g2.png``): Type ``diagram`` | Caption: *Folio 0125 Diagram 2* | Bounding Box ``[x=653, y=665, w=312, h=381]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``c1``** (``0125.c1.png``): Type ``initial`` | Caption: *Folio 0125 Initial Cap 1* | Bounding Box ``[x=29, y=363, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``22``
+- **Folio Signature / Numeration**: ``Libellus f. 21r`` (Scan page ``125``, *recto*)
+- **Book & Section Slug**: Part III: Libellus in tres partiales tractatus divisus (``03_libellus``)
+- **Leaf Category**: Libellus — Tractatus Tertius (Libellus f. 21r)

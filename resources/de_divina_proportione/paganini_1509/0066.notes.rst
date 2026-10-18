@@ -1,0 +1,26 @@
+Folio 0066 (f. 25v) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0065.rst``): Folio f. 25r (recto), Part II: Tractato de l'Architectura — Prohemio (Architectura), Cap. I (f. 25r) — Ali suoi carissimi discipuli e alieui Cesaro dal saxo.
+- **Current Folio** (``0066.rst``): Folio f. 25v (verso), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. I (f. 25v) — Dela mesura e proportioni del corpo humano. della testa
+- **Following Folio** (``0067.rst``): Folio f. 26r (recto), Part II: Tractato de l'Architectura — Cap. I, Cap. II (f. 26r) — Dela mesura e proportioni del corpo humano. della testa
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **2** woodcut element(s) were extracted and calibrated from ``0066.png``:
+
+- **``g1``** (``0066.g1.png``): Type ``diagram`` | Caption: *Folio 0066 Diagram 1* | Bounding Box ``[x=5, y=363, w=379, h=615]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g2``** (``0066.g2.png``): Type ``diagram`` | Caption: *Folio 0066 Diagram 2* | Bounding Box ``[x=5, y=980, w=379, h=107]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``A``
+- **Folio Signature / Numeration**: ``f. 25v`` (Scan page ``66``, *verso*)
+- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. I** (``architectura/cap_01``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/001_cap_I.txt``

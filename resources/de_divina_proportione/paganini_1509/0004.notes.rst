@@ -1,0 +1,22 @@
+Folio 0004 (Flyleaf 2v) — Transcription & Graphic Calibration Notes
+===================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0003.rst``): Folio Flyleaf 2r (recto), Front Matter and Dedications — Flyleaf (Flyleaf 2r)
+- **Current Folio** (``0004.rst``): Folio Flyleaf 2v (verso), Front Matter and Dedications [``00_front_matter``] — Flyleaf (Flyleaf 2v)
+- **Following Folio** (``0005.rst``): Folio A1r (recto), Front Matter and Dedications — Title Page — Divina Proportione (1509)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``i``
+- **Folio Signature / Numeration**: ``Flyleaf 2v`` (Scan page ``4``, *verso*)
+- **Book & Section Slug**: Front Matter and Dedications (``00_front_matter``)
+- **Leaf Category**: Flyleaf (Flyleaf 2v)

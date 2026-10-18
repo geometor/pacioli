@@ -1,20 +1,17 @@
 :folio: 0122
+:page: Libellus f. 19v
 :page_num: 122
 :side: verso
-:original_folio: Libellus f. 19v
+:volume: I
 :book: Part III: Libellus in tres partiales tractatus divisus
-:chapters: None
-:graphics: 0122.c1.png
+:section: 03_libellus
+:title: Libellus — Tractatus Tertius (Libellus f. 19v)
 
 Folio 0122 (Libellus f. 19v) — Libellus — Tractatus Tertius (Libellus f. 19v)
 =============================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0122.c1.png
-
-   **c1 (initial)**: Folio 0122 Initial Cap 1
+   :alt: Folio 0122 Capolettera c1
 
 Pars Tertia: Libellus in tres partiales tractatus divisus
 ---------------------------------------------------------

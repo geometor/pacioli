@@ -1,22 +1,16 @@
 :folio: 0175
+:page: Plate Folio 0175 (recto)
 :page_num: 175
 :side: recto
-:original_folio: Plate Folio 0175 (recto)
+:volume: I
 :book: Appendix I: The Roman Geometric Alphabet
-:chapters: None
-:graphics: 0175.g1.png
+:section: 04_alphabet
+:title: Roman Geometric Alphabet — Lettera S
 
 Folio 0175 (Plate Folio 0175 (recto)) — Roman Geometric Alphabet — Lettera S
 ============================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0175.g1.png
-
-   **g1 (plate)**: Roman Geometric Alphabet — Lettera S
-
-Testo Originale (Paganini 1509)
--------------------------------
+   :alt: Folio 0175 Tavola g1
 
 Questa lettera S se cava de octo tondi et questa sie la sua ragione ut hic in exemplo apparet, li quali per le sue paralelle trovando lor centri troverai quelli de sotto esser magiori de li de sopra un terzo del nono del suo quadro. La pancia de mezzo vol esser grossa el nono aponto de lalteza. Le sutili un terzo de la grosseza terminando le teste con sua gratia.

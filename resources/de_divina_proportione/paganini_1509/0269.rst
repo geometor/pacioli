@@ -1,20 +1,17 @@
 :folio: 0269
+:page: Plate Folio 0269 (recto)
 :page_num: 269
 :side: recto
-:original_folio: Plate Folio 0269 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0269.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula XL — Septuaginta Duarum Basium Vacuum (Ἑβδομηκονταδισσάεδρον κενόν)
 
-Folio 0269 (Plate Folio 0269 (recto)) — Plate XL — Septuaginta Duarum Basium Vacuum (Hollow 72-Base Body)
-=========================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0269 (Plate Folio 0269 (recto)) — Tabula XL — Septuaginta Duarum Basium Vacuum (Ἑβδομηκονταδισσάεδρον κενόν)
+==================================================================================================================
 
 .. picture:: 0269.g1.png
-
-   **g1 (plate)**: Plate XL: Septuaginta Duarum Basium Vacuum (Ἑβδομηκονταδισσάεδρον κενόν) — Hollow 72-Base Body
+   :alt: Tabula XL: Septuaginta Duarum Basium Vacuum (Ἑβδομηκονταδισσάεδρον κενόν)
 
 Tabula XL (No. 40)
 ------------------

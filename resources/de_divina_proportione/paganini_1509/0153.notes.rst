@@ -1,0 +1,24 @@
+Folio 0153 (Plate Folio 0153 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0152.rst``): Folio Plate Folio 0152 (verso) (verso), Appendix I: The Roman Geometric Alphabet — Alphabet Plate Verso (0152)
+- **Current Folio** (``0153.rst``): Folio Plate Folio 0153 (recto) (recto), Appendix I: The Roman Geometric Alphabet [``04_alphabet``] — Roman Geometric Alphabet — Lettera H
+- **Following Folio** (``0154.rst``): Folio Plate Folio 0154 (verso) (verso), Appendix I: The Roman Geometric Alphabet — Alphabet Plate Verso (0154)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0153.png``:
+
+- **``g1``** (``0153.g1.png``): Type ``plate`` | Caption: *Roman Geometric Alphabet — Lettera H* | Bounding Box ``[x=133, y=237, w=605, h=596]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0153 (recto)`` (Scan page ``153``, *recto*)
+- **Book & Section Slug**: Appendix I: The Roman Geometric Alphabet (``04_alphabet``)
+- **Leaf Category**: Roman Geometric Alphabet — Lettera H

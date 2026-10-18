@@ -1,27 +1,20 @@
 :folio: 0007
+:page: A2r
 :page_num: 7
 :side: recto
-:original_folio: A2r
+:volume: I
 :book: Front Matter and Dedications
-:chapters: None
-:graphics: 0007.g1.png, 0007.c1.png
+:section: 00_front_matter
+:title: Epistola ad Petrum Soderinum (1509)
 
 Folio 0007 (A2r) — Epistola ad Petrum Soderinum (1509)
 ======================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0007.g1.png
-
-   **g1 (diagram)**: Folio 0007 Diagram 1
+   :alt: Folio 0007 Figura g1
 
 .. picture:: 0007.c1.png
-
-   **c1 (initial)**: Folio 0007 Initial Cap 1
-
-Testo Latino (Paganini 1509)
-----------------------------
+   :alt: Folio 0007 Capolettera c1
 
 Excellentissimo Reipublicae Florentinae principi perpetuo D. Petro Soderino. Frater Lucas Patiolus Burgensis Minoritanus et sacrae Theologiae professor. F. D.
 

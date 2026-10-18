@@ -1,22 +1,16 @@
 :folio: 0161
+:page: Plate Folio 0161 (recto)
 :page_num: 161
 :side: recto
-:original_folio: Plate Folio 0161 (recto)
+:volume: I
 :book: Appendix I: The Roman Geometric Alphabet
-:chapters: None
-:graphics: 0161.g1.png
+:section: 04_alphabet
+:title: Roman Geometric Alphabet — Lettera M
 
 Folio 0161 (Plate Folio 0161 (recto)) — Roman Geometric Alphabet — Lettera M
 ============================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0161.g1.png
-
-   **g1 (plate)**: Roman Geometric Alphabet — Lettera M
-
-Testo Originale (Paganini 1509)
--------------------------------
+   :alt: Folio 0161 Tavola g1
 
 Questa lettera M se cava del tondo e del suo quadro. Le gambe suttili vogliano esser per mezo de le grosse comme la senistra del A. Le extreme gambe vogliano esser alquanto dentro al quadro; le medie fra quelle e le intersecationi de li diametri; lor grosseze grosse e sutili se referiscano a quelle del A comme disopra in figura aperto poi comprendere.

@@ -1,26 +1,19 @@
 :folio: 0014
+:page: A5v
 :page_num: 14
 :side: verso
-:original_folio: A5v
+:volume: I
 :book: Front Matter and Dedications
-:chapters: None
-:graphics: 0014.g1.png, 0014.g2.png
+:section: 00_front_matter
+:title: Tabula — Tabula (A5v)
 
-Folio 0014 (A5v) — Tabula — Table of Contents (A5v)
-===================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0014 (A5v) — Tabula — Tabula (A5v)
+========================================
 
 .. picture:: 0014.g1.png
-
-   **g1 (marginalia)**: Folio 0014 Marginalia 1
+   :alt: Folio 0014 Tavola g1
 
 .. picture:: 0014.g2.png
-
-   **g2 (marginalia)**: Folio 0014 Marginalia 2
-
-Testo Originale (Paganini 1509)
--------------------------------
+   :alt: Folio 0014 Tavola g2
 
 e 24 etc.

@@ -1,15 +1,13 @@
 :folio: 0184
+:page: Plate Folio 0184 (verso)
 :page_num: 184
 :side: verso
-:original_folio: Plate Folio 0184 (verso)
+:volume: I
 :book: Appendix I: The Roman Geometric Alphabet
-:chapters: None
-:graphics: None
+:section: 04_alphabet
+:title: Verso bianco della tavola d'alfabeto (0184)
 
-Folio 0184 (Plate Folio 0184 (verso)) — Alphabet Plate Verso (0184)
-===================================================================
+Folio 0184 (Plate Folio 0184 (verso)) — Verso bianco della tavola d'alfabeto (0184)
+===================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0183) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0183 nell'edizione Paganini 1509.]*

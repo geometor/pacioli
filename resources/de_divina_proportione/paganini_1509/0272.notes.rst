@@ -1,0 +1,22 @@
+Folio 0272 (Plate Folio 0272 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0271.rst``): Folio Plate Folio 0271 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XLI — Columna Laterata Triangula Solida (Solid Triangular Prism (Corpus Seratile))
+- **Current Folio** (``0272.rst``): Folio Plate Folio 0272 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0272)
+- **Following Folio** (``0273.rst``): Folio Plate Folio 0273 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XLII — Columna Laterata Triangula Vacua (Hollow Triangular Prism)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0272 (verso)`` (Scan page ``272``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0272)

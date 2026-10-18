@@ -1,0 +1,25 @@
+Folio 0014 (A5v) — Transcription & Graphic Calibration Notes
+============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0013.rst``): Folio A5r (recto), Front Matter and Dedications — Tabula — Table of Contents (A5r)
+- **Current Folio** (``0014.rst``): Folio A5v (verso), Front Matter and Dedications [``00_front_matter``] — Tabula — Table of Contents (A5v)
+- **Following Folio** (``0015.rst``): Folio A6r (recto), Front Matter and Dedications — Tabula — Table of Contents (A6r)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **2** woodcut element(s) were extracted and calibrated from ``0014.png``:
+
+- **``g1``** (``0014.g1.png``): Type ``marginalia`` | Caption: *Folio 0014 Marginalia 1* | Bounding Box ``[x=314, y=203, w=51, h=166]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g2``** (``0014.g2.png``): Type ``marginalia`` | Caption: *Folio 0014 Marginalia 2* | Bounding Box ``[x=244, y=956, w=65, h=66]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``C"Cómo |éajépti Io exaee dron nellofEoecdrori.``
+- **Folio Signature / Numeration**: ``A5v`` (Scan page ``14``, *verso*)
+- **Book & Section Slug**: Front Matter and Dedications (``00_front_matter``)
+- **Leaf Category**: Tabula — Table of Contents (A5v)

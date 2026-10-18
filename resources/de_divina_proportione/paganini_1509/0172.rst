@@ -1,15 +1,13 @@
 :folio: 0172
+:page: Plate Folio 0172 (verso)
 :page_num: 172
 :side: verso
-:original_folio: Plate Folio 0172 (verso)
+:volume: I
 :book: Appendix I: The Roman Geometric Alphabet
-:chapters: None
-:graphics: None
+:section: 04_alphabet
+:title: Verso bianco della tavola d'alfabeto (0172)
 
-Folio 0172 (Plate Folio 0172 (verso)) — Alphabet Plate Verso (0172)
-===================================================================
+Folio 0172 (Plate Folio 0172 (verso)) — Verso bianco della tavola d'alfabeto (0172)
+===================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0171) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0171 nell'edizione Paganini 1509.]*

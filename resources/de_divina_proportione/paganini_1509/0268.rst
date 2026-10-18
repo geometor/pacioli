@@ -1,15 +1,13 @@
 :folio: 0268
+:page: Plate Folio 0268 (verso)
 :page_num: 268
 :side: verso
-:original_folio: Plate Folio 0268 (verso)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: None
+:section: 05_polyhedra_plates
+:title: Verso bianco della tavola dei corpi (0268)
 
-Folio 0268 (Plate Folio 0268 (verso)) — Polyhedra Plate Verso (0268)
-====================================================================
+Folio 0268 (Plate Folio 0268 (verso)) — Verso bianco della tavola dei corpi (0268)
+==================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0267) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0267 nell'edizione Paganini 1509.]*

@@ -1,0 +1,25 @@
+Folio 0007 (A2r) — Transcription & Graphic Calibration Notes
+============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0006.rst``): Folio A1v (verso), Front Matter and Dedications — Epigrams and Author's Sonnet (Cinque corpi in natura son producti)
+- **Current Folio** (``0007.rst``): Folio A2r (recto), Front Matter and Dedications [``00_front_matter``] — Epistola ad Petrum Soderinum (1509)
+- **Following Folio** (``0008.rst``): Folio A2v (verso), Front Matter and Dedications — Danielis Caietani Epistolium ad Andream Mocenicum (1509)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **2** woodcut element(s) were extracted and calibrated from ``0007.png``:
+
+- **``g1``** (``0007.g1.png``): Type ``diagram`` | Caption: *Folio 0007 Diagram 1* | Bounding Box ``[x=653, y=107, w=173, h=1087]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``c1``** (``0007.c1.png``): Type ``initial`` | Caption: *Folio 0007 Initial Cap 1* | Bounding Box ``[x=105, y=186, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``ITÉcccflStìifmò Rei pnblicS; Fiorentini principi perpetuo.D.``
+- **Folio Signature / Numeration**: ``A2r`` (Scan page ``7``, *recto*)
+- **Book & Section Slug**: Front Matter and Dedications (``00_front_matter``)
+- **Leaf Category**: Epistola ad Petrum Soderinum (1509)

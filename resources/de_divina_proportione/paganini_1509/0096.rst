@@ -1,32 +1,26 @@
 :folio: 0096
+:page: Libellus f. 6v
 :page_num: 96
 :side: verso
-:original_folio: Libellus f. 6v
+:volume: I
 :book: Part III: Libellus in tres partiales tractatus divisus
-:chapters: None
-:graphics: 0096.g1.png, 0096.g2.png, 0096.c1.png, 0096.c2.png
+:section: 03_libellus
+:title: Libellus — Tractatus Primus (Libellus f. 6v)
 
 Folio 0096 (Libellus f. 6v) — Libellus — Tractatus Primus (Libellus f. 6v)
 ==========================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0096.g1.png
-
-   **g1 (diagram)**: Folio 0096 Diagram 1
+   :alt: Folio 0096 Figura g1
 
 .. picture:: 0096.g2.png
-
-   **g2 (diagram)**: Folio 0096 Diagram 2
+   :alt: Folio 0096 Figura g2
 
 .. picture:: 0096.c1.png
-
-   **c1 (initial)**: Folio 0096 Initial Cap 1
+   :alt: Folio 0096 Capolettera c1
 
 .. picture:: 0096.c2.png
-
-   **c2 (initial)**: Folio 0096 Initial Cap 2
+   :alt: Folio 0096 Capolettera c2
 
 Pars Tertia: Libellus in tres partiales tractatus divisus
 ---------------------------------------------------------

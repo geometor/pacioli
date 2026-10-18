@@ -1,0 +1,28 @@
+Folio 0045 (f. 15r) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0044.rst``): Folio f. 14v (verso), Part I: Compendio de Divina Proportione — Cap. XLVIII, Cap. XLIX, Cap. L (f. 14v) — Dela forma edispositione del tetracedron piano solido o
+- **Current Folio** (``0045.rst``): Folio f. 15r (recto), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. L, Cap. LI, Cap. LII (f. 15r) — Delo octocedron piano solido o ver vacuo e absciso soli
+- **Following Folio** (``0046.rst``): Folio f. 15v (verso), Part I: Compendio de Divina Proportione — Cap. LII, Cap. LIII (f. 15v) — Del duodecedron piano solido o ver vacuo edelo absciso
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **2** woodcut element(s) were extracted and calibrated from ``0045.png``:
+
+- **``c1``** (``0045.c1.png``): Type ``initial`` | Caption: *Folio 0045 Initial Cap 1* | Bounding Box ``[x=42, y=300, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0045.c2.png``): Type ``initial`` | Caption: *Folio 0045 Initial Cap 2* | Bounding Box ``[x=33, y=1007, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PRIMA``
+- **Folio Signature / Numeration**: ``f. 15r`` (Scan page ``45``, *recto*)
+- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. L** (``compendio/cap_50``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/050_cap_L.txt``
+  - **Cap. LI** (``compendio/cap_51``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/051_cap_LI.txt``
+  - **Cap. LII** (``compendio/cap_52``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/052_cap_LII.txt``

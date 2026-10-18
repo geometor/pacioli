@@ -1,0 +1,26 @@
+Folio 0048 (f. 16v) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0047.rst``): Folio f. 16r (recto), Part I: Compendio de Divina Proportione — Cap. LIII, Cap. LIV (f. 16r) — Del corpo de 26 basi e suo origine piano solido ouer va
+- **Current Folio** (``0048.rst``): Folio f. 16v (verso), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. LIV, Cap. LV (f. 16v) — Dal corpo de 72 basi piano solido euacuo.
+- **Following Folio** (``0049.rst``): Folio f. 17r (recto), Part I: Compendio de Divina Proportione — Cap. LV, Cap. LVI (f. 17r) — Del modo asaperne oltra li dicti più formare e commo lo
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0048.png``:
+
+- **``c1``** (``0048.c1.png``): Type ``initial`` | Caption: *Folio 0048 Initial Cap 1* | Bounding Box ``[x=403, y=735, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PA*S``
+- **Folio Signature / Numeration**: ``f. 16v`` (Scan page ``48``, *verso*)
+- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. LIV** (``compendio/cap_54``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/054_cap_LIV.txt``
+  - **Cap. LV** (``compendio/cap_55``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/055_cap_LV.txt``

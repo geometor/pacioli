@@ -1,0 +1,24 @@
+Folio 0273 (Plate Folio 0273 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0272.rst``): Folio Plate Folio 0272 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0272)
+- **Current Folio** (``0273.rst``): Folio Plate Folio 0273 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XLII — Columna Laterata Triangula Vacua (Hollow Triangular Prism)
+- **Following Folio** (``0274.rst``): Folio Plate Folio 0274 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0274)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0273.png``:
+
+- **``g1``** (``0273.g1.png``): Type ``plate`` | Caption: *Plate XLII: Columna Laterata Triangula Vacua (Κίων πλευρώδης τρίγωνος κενός) — Hollow Triangular Prism* | Bounding Box ``[x=0, y=165, w=542, h=1350]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0273 (recto)`` (Scan page ``273``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XLII`` (Plate No. ``42``) | Latin Cartouche: *Columna Laterata Triangula Vacua* | Greek Cartouche: Κίων πλευρώδης τρίγωνος κενός

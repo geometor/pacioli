@@ -1,0 +1,22 @@
+Folio 0204 (Plate Folio 0204 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0203.rst``): Folio Plate Folio 0203 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate VIIII — Exahedron Abscisum Solidum (Solid Truncated Hexahedron (Cuboctahedron))
+- **Current Folio** (``0204.rst``): Folio Plate Folio 0204 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0204)
+- **Following Folio** (``0205.rst``): Folio Plate Folio 0205 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate X — Exahedron Abscisum Vacuum (Hollow Truncated Hexahedron (Cuboctahedron))
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0204 (verso)`` (Scan page ``204``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0204)

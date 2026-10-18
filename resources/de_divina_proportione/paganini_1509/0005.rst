@@ -1,23 +1,17 @@
 :folio: 0005
+:page: A1r
 :page_num: 5
 :side: recto
-:original_folio: A1r
+:volume: I
 :book: Front Matter and Dedications
-:chapters: None
-:graphics: 0005.c1.png
+:section: 00_front_matter
+:title: Title Page — Divina Proportione (1509)
 
 Folio 0005 (A1r) — Title Page — Divina Proportione (1509)
 =========================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0005.c1.png
-
-   **c1 (initial)**: Folio 0005 Initial Cap 1
-
-Testo Originale (Paganini 1509)
--------------------------------
+   :alt: Folio 0005 Capolettera c1
 
 Divina proportione
 

@@ -1,0 +1,26 @@
+Folio 0017 (f. 1r) — Transcription & Graphic Calibration Notes
+==============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0016.rst``): Folio A6v (verso), Front Matter and Dedications — Tabula — Table of Contents (A6v)
+- **Current Folio** (``0017.rst``): Folio f. 1r (recto), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. I (f. 1r) — Excellentissimo principi Ludouico mariae Sforza Angla M
+- **Following Folio** (``0018.rst``): Folio f. 1v (verso), Part I: Compendio de Divina Proportione — Cap. I, Cap. II (f. 1v) — Excellentissimo principi Ludouico mariae Sforza Angla M
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **2** woodcut element(s) were extracted and calibrated from ``0017.png``:
+
+- **``g1``** (``0017.g1.png``): Type ``diagram`` | Caption: *Folio 0017 Diagram 1* | Bounding Box ``[x=793, y=53, w=95, h=1207]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``c1``** (``0017.c1.png``): Type ``initial`` | Caption: *Folio 0017 Initial Cap 1* | Bounding Box ``[x=68, y=198, w=264, h=304]`` | Placement/Class: ``large`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PRIMA``
+- **Folio Signature / Numeration**: ``f. 1r`` (Scan page ``17``, *recto*)
+- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. I** (``compendio/cap_01``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/001_dedication.txt``

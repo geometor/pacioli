@@ -1,0 +1,28 @@
+Folio 0022 (f. 3v) — Transcription & Graphic Calibration Notes
+==============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0021.rst``): Folio f. 3r (recto), Part I: Compendio de Divina Proportione — Cap. II, Cap. III (f. 3r) — Reuerendi Patris Magistri Luce pacioli de Burgo San Sep
+- **Current Folio** (``0022.rst``): Folio f. 3v (verso), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. III, Cap. IV, Cap. V (f. 3v) — Finito el proheraio seguita chiarire quello che per que
+- **Following Folio** (``0023.rst``): Folio f. 4r (recto), Part I: Compendio de Divina Proportione — Cap. V, Cap. VI, Cap. VII (f. 4r) — Del condecente titulo del presente tractato.
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **2** woodcut element(s) were extracted and calibrated from ``0022.png``:
+
+- **``c1``** (``0022.c1.png``): Type ``initial`` | Caption: *Folio 0022 Initial Cap 1* | Bounding Box ``[x=379, y=449, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0022.c2.png``): Type ``initial`` | Caption: *Folio 0022 Initial Cap 2* | Bounding Box ``[x=381, y=1126, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PARS``
+- **Folio Signature / Numeration**: ``f. 3v`` (Scan page ``22``, *verso*)
+- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. III** (``compendio/cap_03``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/003_cap_III.txt``
+  - **Cap. IV** (``compendio/cap_04``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/004_cap_IV.txt``
+  - **Cap. V** (``compendio/cap_05``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/005_cap_V.txt``

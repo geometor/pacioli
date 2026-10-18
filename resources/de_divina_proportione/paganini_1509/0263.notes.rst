@@ -1,0 +1,24 @@
+Folio 0263 (Plate Folio 0263 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0262.rst``): Folio Plate Folio 0262 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0262)
+- **Current Folio** (``0263.rst``): Folio Plate Folio 0263 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XXXVII — Vigintisex Basium Abscisum Elevatum Solidum (Solid Elevated 26-Base Body)
+- **Following Folio** (``0264.rst``): Folio Plate Folio 0264 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0264)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0263.png``:
+
+- **``g1``** (``0263.g1.png``): Type ``plate`` | Caption: *Plate XXXVII: Vigintisex Basium Abscisum Elevatum Solidum (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν) — Solid Elevated 26-Base Body* | Bounding Box ``[x=0, y=247, w=740, h=1268]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0263 (recto)`` (Scan page ``263``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XXXVII`` (Plate No. ``37``) | Latin Cartouche: *Vigintisex Basium Abscisum Elevatum Solidum* | Greek Cartouche: Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν

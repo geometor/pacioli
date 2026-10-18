@@ -1,0 +1,24 @@
+Folio 0219 (Plate Folio 0219 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0218.rst``): Folio Plate Folio 0218 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0218)
+- **Current Folio** (``0219.rst``): Folio Plate Folio 0219 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XV — Octahedron Planum Solidum (Solid Regular Octahedron)
+- **Following Folio** (``0220.rst``): Folio Plate Folio 0220 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0220)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0219.png``:
+
+- **``g1``** (``0219.g1.png``): Type ``plate`` | Caption: *Plate XV: Octahedron Planum Solidum (Ὀκτάεδρον ἐπίπεδον στερεόν) — Solid Regular Octahedron* | Bounding Box ``[x=0, y=0, w=813, h=1163]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0219 (recto)`` (Scan page ``219``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XV`` (Plate No. ``15``) | Latin Cartouche: *Octahedron Planum Solidum* | Greek Cartouche: Ὀκτάεδρον ἐπίπεδον στερεόν

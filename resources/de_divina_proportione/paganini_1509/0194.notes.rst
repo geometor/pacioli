@@ -1,0 +1,22 @@
+Folio 0194 (Plate Folio 0194 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0193.rst``): Folio Plate Folio 0193 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate IIII — Tetrahedron Abscisum Vacuum (Hollow Truncated Tetrahedron)
+- **Current Folio** (``0194.rst``): Folio Plate Folio 0194 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0194)
+- **Following Folio** (``0195.rst``): Folio Plate Folio 0195 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate V — Tetrahedron Elevatum Solidum (Solid Stellated (Elevated) Tetrahedron)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0194 (verso)`` (Scan page ``194``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0194)

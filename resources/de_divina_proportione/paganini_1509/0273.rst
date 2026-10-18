@@ -1,20 +1,17 @@
 :folio: 0273
+:page: Plate Folio 0273 (recto)
 :page_num: 273
 :side: recto
-:original_folio: Plate Folio 0273 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0273.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula XLII — Columna Laterata Triangula Vacua (Κίων πλευρώδης τρίγωνος κενός)
 
-Folio 0273 (Plate Folio 0273 (recto)) — Plate XLII — Columna Laterata Triangula Vacua (Hollow Triangular Prism)
-===============================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0273 (Plate Folio 0273 (recto)) — Tabula XLII — Columna Laterata Triangula Vacua (Κίων πλευρώδης τρίγωνος κενός)
+======================================================================================================================
 
 .. picture:: 0273.g1.png
-
-   **g1 (plate)**: Plate XLII: Columna Laterata Triangula Vacua (Κίων πλευρώδης τρίγωνος κενός) — Hollow Triangular Prism
+   :alt: Tabula XLII: Columna Laterata Triangula Vacua (Κίων πλευρώδης τρίγωνος κενός)
 
 Tabula XLII (No. 42)
 --------------------

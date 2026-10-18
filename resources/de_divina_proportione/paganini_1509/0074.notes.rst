@@ -1,0 +1,26 @@
+Folio 0074 (f. 29v) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0073.rst``): Folio f. 29r (recto), Part II: Tractato de l'Architectura — Cap. VII (f. 29r) — In quello sienno differenti le tre spetie de diete colo
+- **Current Folio** (``0074.rst``): Folio f. 29v (verso), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. VII, Cap. VIII (f. 29v) — In quello sienno differenti le tre spetie de diete colo
+- **Following Folio** (``0075.rst``): Folio f. 30r (recto), Part II: Tractato de l'Architectura — Cap. VIII, Cap. IX (f. 30r) — Doue ora se trouino colonne più debitamente facte per I
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0074.png``:
+
+- **``c1``** (``0074.c1.png``): Type ``initial`` | Caption: *Folio 0074 Initial Cap 1* | Bounding Box ``[x=402, y=827, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PARS``
+- **Folio Signature / Numeration**: ``f. 29v`` (Scan page ``74``, *verso*)
+- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. VII** (``architectura/cap_07``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/007_cap_VII.txt``
+  - **Cap. VIII** (``architectura/cap_08``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/008_cap_VILI.txt``

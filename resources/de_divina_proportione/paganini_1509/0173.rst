@@ -1,22 +1,16 @@
 :folio: 0173
+:page: Plate Folio 0173 (recto)
 :page_num: 173
 :side: recto
-:original_folio: Plate Folio 0173 (recto)
+:volume: I
 :book: Appendix I: The Roman Geometric Alphabet
-:chapters: None
-:graphics: 0173.g1.png
+:section: 04_alphabet
+:title: Roman Geometric Alphabet — Lettera R
 
 Folio 0173 (Plate Folio 0173 (recto)) — Roman Geometric Alphabet — Lettera R
 ============================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0173.g1.png
-
-   **g1 (plate)**: Roman Geometric Alphabet — Lettera R
-
-Testo Originale (Paganini 1509)
--------------------------------
+   :alt: Folio 0173 Tavola g1
 
 Questa lettera R se cava de la lettera B; el suo tondo sie de sotto dal centro una meza gamba. Tutta questa lettera vol esser dentro de le croci excepto la gamba storta vol uscir for de le croci fin al fin del quadro. Dicta gamba storta vol esser grossa de le nove parti luna terminata sutile in ponta nellangulo del quadro a modo de curve linee ut hic in exemplo patet.

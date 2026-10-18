@@ -1,0 +1,22 @@
+Folio 0136 (Libellus f. 26v) — Transcription & Graphic Calibration Notes
+========================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0135.rst``): Folio Libellus f. 26r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 26r)
+- **Current Folio** (``0136.rst``): Folio Libellus f. 26v (verso), Part III: Libellus in tres partiales tractatus divisus [``03_libellus``] — Libellus — Blank Verso (Libellus f. 26v)
+- **Following Folio** (``0137.rst``): Folio Plate Folio 0137 (recto) (recto), Appendix I: The Roman Geometric Alphabet — Divina Proportio — Caput Humanum (Proportional Profile of the Human Head)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Libellus f. 26v`` (Scan page ``136``, *verso*)
+- **Book & Section Slug**: Part III: Libellus in tres partiales tractatus divisus (``03_libellus``)
+- **Leaf Category**: Libellus — Blank Verso (Libellus f. 26v)

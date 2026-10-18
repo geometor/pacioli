@@ -1,28 +1,23 @@
 :folio: 0127
+:page: Libellus f. 22r
 :page_num: 127
 :side: recto
-:original_folio: Libellus f. 22r
+:volume: I
 :book: Part III: Libellus in tres partiales tractatus divisus
-:chapters: None
-:graphics: 0127.g1.png, 0127.c1.png, 0127.c2.png
+:section: 03_libellus
+:title: Libellus — Tractatus Tertius (Libellus f. 22r)
 
 Folio 0127 (Libellus f. 22r) — Libellus — Tractatus Tertius (Libellus f. 22r)
 =============================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0127.g1.png
-
-   **g1 (diagram)**: Folio 0127 Diagram 1
+   :alt: Folio 0127 Figura g1
 
 .. picture:: 0127.c1.png
-
-   **c1 (initial)**: Folio 0127 Initial Cap 1
+   :alt: Folio 0127 Capolettera c1
 
 .. picture:: 0127.c2.png
-
-   **c2 (initial)**: Folio 0127 Initial Cap 2
+   :alt: Folio 0127 Capolettera c2
 
 Pars Tertia: Libellus in tres partiales tractatus divisus
 ---------------------------------------------------------

@@ -1,0 +1,22 @@
+Folio 0294 (Plate Folio 0294 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0293.rst``): Folio Plate Folio 0293 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate LI — Pyramis Laterata Penthagona Solida (Solid Pentagonal Pyramid)
+- **Current Folio** (``0294.rst``): Folio Plate Folio 0294 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0294)
+- **Following Folio** (``0295.rst``): Folio Plate Folio 0295 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate LII — Pyramis Laterata Penthagona Vacua (Hollow Pentagonal Pyramid)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0294 (verso)`` (Scan page ``294``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0294)

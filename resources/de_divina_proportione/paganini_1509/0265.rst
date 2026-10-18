@@ -1,20 +1,17 @@
 :folio: 0265
+:page: Plate Folio 0265 (recto)
 :page_num: 265
 :side: recto
-:original_folio: Plate Folio 0265 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0265.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula XXXVIII — Vigintisex Basium Abscisum Elevatum Vacuum (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον κενόν)
 
-Folio 0265 (Plate Folio 0265 (recto)) — Plate XXXVIII — Vigintisex Basium Abscisum Elevatum Vacuum (Hollow Elevated 26-Base Body)
-=================================================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0265 (Plate Folio 0265 (recto)) — Tabula XXXVIII — Vigintisex Basium Abscisum Elevatum Vacuum (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον κενόν)
+==================================================================================================================================================
 
 .. picture:: 0265.g1.png
-
-   **g1 (plate)**: Plate XXXVIII: Vigintisex Basium Abscisum Elevatum Vacuum (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον κενόν) — Hollow Elevated 26-Base Body
+   :alt: Tabula XXXVIII: Vigintisex Basium Abscisum Elevatum Vacuum (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον κενόν)
 
 Tabula XXXVIII (No. 38)
 -----------------------

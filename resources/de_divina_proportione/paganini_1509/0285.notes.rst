@@ -1,0 +1,24 @@
+Folio 0285 (Plate Folio 0285 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0284.rst``): Folio Plate Folio 0284 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0284)
+- **Current Folio** (``0285.rst``): Folio Plate Folio 0285 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XLVII-bis — Pyramis Laterata Quadrangula Solida (bis) (Solid Quadrangular Pyramid (Duplicate Scan in Witness))
+- **Following Folio** (``0286.rst``): Folio Plate Folio 0286 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0286)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0285.png``:
+
+- **``g1``** (``0285.g1.png``): Type ``plate`` | Caption: *Plate XLVII-bis: Pyramis Laterata Quadrangula Solida (bis) (Πυραμὶς πλευρώδης τετράγωνος στερεά) — Solid Quadrangular Pyramid (Duplicate Scan in Witness)* | Bounding Box ``[x=0, y=0, w=623, h=1444]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0285 (recto)`` (Scan page ``285``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XLVII-bis`` (Plate No. ``47``) | Latin Cartouche: *Pyramis Laterata Quadrangula Solida (bis)* | Greek Cartouche: Πυραμὶς πλευρώδης τετράγωνος στερεά

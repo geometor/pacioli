@@ -1,20 +1,17 @@
 :folio: 0279
+:page: Plate Folio 0279 (recto)
 :page_num: 279
 :side: recto
-:original_folio: Plate Folio 0279 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0279.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula XLV — Columna Laterata Quadrangula Solida (Κίων πλευρώδης τετράγωνος στερεός)
 
-Folio 0279 (Plate Folio 0279 (recto)) — Plate XLV — Columna Laterata Quadrangula Solida (Solid Quadrangular Prism)
-==================================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0279 (Plate Folio 0279 (recto)) — Tabula XLV — Columna Laterata Quadrangula Solida (Κίων πλευρώδης τετράγωνος στερεός)
+============================================================================================================================
 
 .. picture:: 0279.g1.png
-
-   **g1 (plate)**: Plate XLV: Columna Laterata Quadrangula Solida (Κίων πλευρώδης τετράγωνος στερεός) — Solid Quadrangular Prism
+   :alt: Tabula XLV: Columna Laterata Quadrangula Solida (Κίων πλευρώδης τετράγωνος στερεός)
 
 Tabula XLV (No. 45)
 -------------------

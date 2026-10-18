@@ -1,0 +1,26 @@
+Folio 0078 (f. 31v) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0077.rst``): Folio f. 31r (recto), Part II: Tractato de l'Architectura — Cap. XII (f. 31r) — De lordini dele colonne rotonde comme se debino nelli h
+- **Current Folio** (``0078.rst``): Folio f. 31v (verso), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. XIII, Cap. XIV (f. 31v) — De linterualli fra lun tigrafo e laltro.
+- **Following Folio** (``0079.rst``): Folio f. 32r (recto), Part II: Tractato de l'Architectura — Cap. XV, Cap. XVI, Cap. XVII (f. 32r) — Del zophoro nel epistilio.
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0078.png``:
+
+- **``c1``** (``0078.c1.png``): Type ``initial`` | Caption: *Folio 0078 Initial Cap 1* | Bounding Box ``[x=425, y=318, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PARS``
+- **Folio Signature / Numeration**: ``f. 31v`` (Scan page ``78``, *verso*)
+- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. XIII** (``architectura/cap_13``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/013_cap_XIII.txt``
+  - **Cap. XIV** (``architectura/cap_14``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/014_cap_XIV.txt``

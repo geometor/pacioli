@@ -1,0 +1,24 @@
+Folio 0227 (Plate Folio 0227 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0226.rst``): Folio Plate Folio 0226 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0226)
+- **Current Folio** (``0227.rst``): Folio Plate Folio 0227 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XIX — Octahedron Elevatum Solidum (Solid Elevated Octahedron (Stella Octangula))
+- **Following Folio** (``0228.rst``): Folio Plate Folio 0228 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0228)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0227.png``:
+
+- **``g1``** (``0227.g1.png``): Type ``plate`` | Caption: *Plate XIX: Octahedron Elevatum Solidum (Ὀκτάεδρον ἐπηρμένον στερεόν) — Solid Elevated Octahedron (Stella Octangula)* | Bounding Box ``[x=0, y=109, w=820, h=1208]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0227 (recto)`` (Scan page ``227``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XIX`` (Plate No. ``19``) | Latin Cartouche: *Octahedron Elevatum Solidum* | Greek Cartouche: Ὀκτάεδρον ἐπηρμένον στερεόν

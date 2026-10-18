@@ -1,15 +1,13 @@
 :folio: 0234
+:page: Plate Folio 0234 (verso)
 :page_num: 234
 :side: verso
-:original_folio: Plate Folio 0234 (verso)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: None
+:section: 05_polyhedra_plates
+:title: Verso bianco della tavola dei corpi (0234)
 
-Folio 0234 (Plate Folio 0234 (verso)) — Polyhedra Plate Verso (0234)
-====================================================================
+Folio 0234 (Plate Folio 0234 (verso)) — Verso bianco della tavola dei corpi (0234)
+==================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0233) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0233 nell'edizione Paganini 1509.]*

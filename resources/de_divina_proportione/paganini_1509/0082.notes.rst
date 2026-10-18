@@ -1,0 +1,23 @@
+Folio 0082 (f. 33v) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0081.rst``): Folio f. 33r (recto), Part II: Tractato de l'Architectura — Cap. XIX, Cap. XX (f. 33r) — Comme nelli luoghi angusti lo architetto se habia arege
+- **Current Folio** (``0082.rst``): Folio f. 33v (verso), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. XX (f. 33v) — Dele colonne situate sopra altre coione nelli hedifitii
+- **Following Folio** (``0083.rst``): Folio f. 34r (recto), Part II: Tractato de l'Architectura — Blank Leaf (f. 34r)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PARS``
+- **Folio Signature / Numeration**: ``f. 33v`` (Scan page ``82``, *verso*)
+- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. XX** (``architectura/cap_20``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/020_cap_XX.txt``

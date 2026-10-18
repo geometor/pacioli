@@ -1,0 +1,22 @@
+Folio 0276 (Plate Folio 0276 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0275.rst``): Folio Plate Folio 0275 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XLIII — Pyramis Laterata Triangula Solida (Solid Triangular Pyramid)
+- **Current Folio** (``0276.rst``): Folio Plate Folio 0276 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0276)
+- **Following Folio** (``0277.rst``): Folio Plate Folio 0277 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XLIIII — Pyramis Laterata Triangula Vacua (Hollow Triangular Pyramid)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0276 (verso)`` (Scan page ``276``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0276)

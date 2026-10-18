@@ -1,0 +1,24 @@
+Folio 0139 (Plate Folio 0139 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0138.rst``): Folio Plate Folio 0138 (verso) (verso), Appendix I: The Roman Geometric Alphabet — Alphabet Plate Verso (0138)
+- **Current Folio** (``0139.rst``): Folio Plate Folio 0139 (recto) (recto), Appendix I: The Roman Geometric Alphabet [``04_alphabet``] — Roman Geometric Alphabet — Lettera A
+- **Following Folio** (``0140.rst``): Folio Plate Folio 0140 (verso) (verso), Appendix I: The Roman Geometric Alphabet — Alphabet Plate Verso (0140)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0139.png``:
+
+- **``g1``** (``0139.g1.png``): Type ``plate`` | Caption: *Roman Geometric Alphabet — Lettera A* | Bounding Box ``[x=33, y=176, w=822, h=716]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0139 (recto)`` (Scan page ``139``, *recto*)
+- **Book & Section Slug**: Appendix I: The Roman Geometric Alphabet (``04_alphabet``)
+- **Leaf Category**: Roman Geometric Alphabet — Lettera A

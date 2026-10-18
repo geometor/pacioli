@@ -1,0 +1,26 @@
+Folio 0010 (A3v) — Transcription & Graphic Calibration Notes
+============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0009.rst``): Folio A3r (recto), Front Matter and Dedications — Nomina et Numerus Corporum (A3r)
+- **Current Folio** (``0010.rst``): Folio A3v (verso), Front Matter and Dedications [``00_front_matter``] — Nomina et Numerus Corporum (A3v)
+- **Following Folio** (``0011.rst``): Folio A4r (recto), Front Matter and Dedications — Tabula — Table of Contents (A4r)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **3** woodcut element(s) were extracted and calibrated from ``0010.png``:
+
+- **``g1``** (``0010.g1.png``): Type ``diagram`` | Caption: *Folio 0010 Diagram 1* | Bounding Box ``[x=64, y=77, w=324, h=221]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g2``** (``0010.g2.png``): Type ``diagram`` | Caption: *Folio 0010 Diagram 2* | Bounding Box ``[x=63, y=271, w=312, h=140]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g3``** (``0010.g3.png``): Type ``diagram`` | Caption: *Folio 0010 Diagram 3* | Bounding Box ``[x=63, y=464, w=331, h=183]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``jo Coluna latfratapétbagona vacua.``
+- **Folio Signature / Numeration**: ``A3v`` (Scan page ``10``, *verso*)
+- **Book & Section Slug**: Front Matter and Dedications (``00_front_matter``)
+- **Leaf Category**: Nomina et Numerus Corporum (A3v)

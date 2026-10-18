@@ -1,24 +1,20 @@
 :folio: 0128
+:page: Libellus f. 22v
 :page_num: 128
 :side: verso
-:original_folio: Libellus f. 22v
+:volume: I
 :book: Part III: Libellus in tres partiales tractatus divisus
-:chapters: None
-:graphics: 0128.g1.png, 0128.g2.png
+:section: 03_libellus
+:title: Libellus — Tractatus Tertius (Libellus f. 22v)
 
 Folio 0128 (Libellus f. 22v) — Libellus — Tractatus Tertius (Libellus f. 22v)
 =============================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0128.g1.png
-
-   **g1 (diagram)**: Folio 0128 Diagram 1
+   :alt: Folio 0128 Figura g1
 
 .. picture:: 0128.g2.png
-
-   **g2 (diagram)**: Folio 0128 Diagram 2
+   :alt: Folio 0128 Figura g2
 
 Pars Tertia: Libellus in tres partiales tractatus divisus
 ---------------------------------------------------------

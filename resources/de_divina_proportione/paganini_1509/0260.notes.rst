@@ -1,0 +1,22 @@
+Folio 0260 (Plate Folio 0260 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0259.rst``): Folio Plate Folio 0259 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXXV — Vigintisex Basium Planum Solidum (Solid 26-Base Body (Rhombicuboctahedron))
+- **Current Folio** (``0260.rst``): Folio Plate Folio 0260 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0260)
+- **Following Folio** (``0261.rst``): Folio Plate Folio 0261 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXXVI — Vigintisex Basium Planum Vacuum (Hollow 26-Base Body (Rhombicuboctahedron))
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0260 (verso)`` (Scan page ``260``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0260)

@@ -1,0 +1,22 @@
+Folio 0310 (Plate Folio 0310 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0309.rst``): Folio Plate Folio 0309 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate LIX (printed LXI) — Sphera Solida (Solid Sphere)
+- **Current Folio** (``0310.rst``): Folio Plate Folio 0310 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0310)
+- **Following Folio** (``0311.rst``): Folio End Matter 0311 (recto) (recto), End Matter and Colophon — Arbor Proportio et Proportionalitas
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0310 (verso)`` (Scan page ``310``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0310)

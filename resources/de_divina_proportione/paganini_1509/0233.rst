@@ -1,20 +1,17 @@
 :folio: 0233
+:page: Plate Folio 0233 (recto)
 :page_num: 233
 :side: recto
-:original_folio: Plate Folio 0233 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0233.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula XXII — Icosahedron Planum Vacuum (Εἰκοσάεδρον ἐπίπεδον κενόν)
 
-Folio 0233 (Plate Folio 0233 (recto)) — Plate XXII — Icosahedron Planum Vacuum (Hollow Regular Icosahedron)
-===========================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0233 (Plate Folio 0233 (recto)) — Tabula XXII — Icosahedron Planum Vacuum (Εἰκοσάεδρον ἐπίπεδον κενόν)
+============================================================================================================
 
 .. picture:: 0233.g1.png
-
-   **g1 (plate)**: Plate XXII: Icosahedron Planum Vacuum (Εἰκοσάεδρον ἐπίπεδον κενόν) — Hollow Regular Icosahedron
+   :alt: Tabula XXII: Icosahedron Planum Vacuum (Εἰκοσάεδρον ἐπίπεδον κενόν)
 
 Tabula XXII (No. 22)
 --------------------

@@ -1,0 +1,27 @@
+Folio 0096 (Libellus f. 6v) — Transcription & Graphic Calibration Notes
+=======================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0095.rst``): Folio Libellus f. 6r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Primus (Libellus f. 6r)
+- **Current Folio** (``0096.rst``): Folio Libellus f. 6v (verso), Part III: Libellus in tres partiales tractatus divisus [``03_libellus``] — Libellus — Tractatus Primus (Libellus f. 6v)
+- **Following Folio** (``0097.rst``): Folio Libellus f. 7r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Primus (Libellus f. 7r)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **4** woodcut element(s) were extracted and calibrated from ``0096.png``:
+
+- **``g1``** (``0096.g1.png``): Type ``diagram`` | Caption: *Folio 0096 Diagram 1* | Bounding Box ``[x=75, y=123, w=292, h=335]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g2``** (``0096.g2.png``): Type ``diagram`` | Caption: *Folio 0096 Diagram 2* | Bounding Box ``[x=53, y=603, w=319, h=363]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``c1``** (``0096.c1.png``): Type ``initial`` | Caption: *Folio 0096 Initial Cap 1* | Bounding Box ``[x=399, y=587, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0096.c2.png``): Type ``initial`` | Caption: *Folio 0096 Initial Cap 2* | Bounding Box ``[x=402, y=1161, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``TRACTATVS``
+- **Folio Signature / Numeration**: ``Libellus f. 6v`` (Scan page ``96``, *verso*)
+- **Book & Section Slug**: Part III: Libellus in tres partiales tractatus divisus (``03_libellus``)
+- **Leaf Category**: Libellus — Tractatus Primus (Libellus f. 6v)

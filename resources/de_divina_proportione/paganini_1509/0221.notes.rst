@@ -1,0 +1,24 @@
+Folio 0221 (Plate Folio 0221 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0220.rst``): Folio Plate Folio 0220 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0220)
+- **Current Folio** (``0221.rst``): Folio Plate Folio 0221 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XVI — Octahedron Planum Vacuum (Hollow Regular Octahedron)
+- **Following Folio** (``0222.rst``): Folio Plate Folio 0222 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0222)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0221.png``:
+
+- **``g1``** (``0221.g1.png``): Type ``plate`` | Caption: *Plate XVI: Octahedron Planum Vacuum (Ὀκτάεδρον ἐπίπεδον κενόν) — Hollow Regular Octahedron* | Bounding Box ``[x=0, y=0, w=809, h=963]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0221 (recto)`` (Scan page ``221``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XVI`` (Plate No. ``16``) | Latin Cartouche: *Octahedron Planum Vacuum* | Greek Cartouche: Ὀκτάεδρον ἐπίπεδον κενόν

@@ -1,0 +1,29 @@
+Folio 0079 (f. 32r) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0078.rst``): Folio f. 31v (verso), Part II: Tractato de l'Architectura — Cap. XIII, Cap. XIV (f. 31v) — De linterualli fra lun tigrafo e laltro.
+- **Current Folio** (``0079.rst``): Folio f. 32r (recto), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. XV, Cap. XVI, Cap. XVII (f. 32r) — Del zophoro nel epistilio.
+- **Following Folio** (``0080.rst``): Folio f. 32v (verso), Part II: Tractato de l'Architectura — Cap. XVIII, Cap. XIX (f. 32v) — Comme lapicidi e altri scultori in dicti corpi sieno co
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **3** woodcut element(s) were extracted and calibrated from ``0079.png``:
+
+- **``c1``** (``0079.c1.png``): Type ``initial`` | Caption: *Folio 0079 Initial Cap 1* | Bounding Box ``[x=40, y=115, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0079.c2.png``): Type ``initial`` | Caption: *Folio 0079 Initial Cap 2* | Bounding Box ``[x=39, y=274, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c3``** (``0079.c3.png``): Type ``initial`` | Caption: *Folio 0079 Initial Cap 3* | Bounding Box ``[x=39, y=897, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``•PRBBA- 3"``
+- **Folio Signature / Numeration**: ``f. 32r`` (Scan page ``79``, *recto*)
+- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. XV** (``architectura/cap_15``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/015_cap_XV.txt``
+  - **Cap. XVI** (``architectura/cap_16``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/016_cap_XVI.txt``
+  - **Cap. XVII** (``architectura/cap_17``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/017_cap_XVII.txt``

@@ -1,15 +1,13 @@
 :folio: 0176
+:page: Plate Folio 0176 (verso)
 :page_num: 176
 :side: verso
-:original_folio: Plate Folio 0176 (verso)
+:volume: I
 :book: Appendix I: The Roman Geometric Alphabet
-:chapters: None
-:graphics: None
+:section: 04_alphabet
+:title: Verso bianco della tavola d'alfabeto (0176)
 
-Folio 0176 (Plate Folio 0176 (verso)) — Alphabet Plate Verso (0176)
-===================================================================
+Folio 0176 (Plate Folio 0176 (verso)) — Verso bianco della tavola d'alfabeto (0176)
+===================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0175) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0175 nell'edizione Paganini 1509.]*

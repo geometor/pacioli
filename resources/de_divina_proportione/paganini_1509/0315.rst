@@ -1,15 +1,13 @@
 :folio: 0315
+:page: End Matter 0315 (recto)
 :page_num: 315
 :side: recto
-:original_folio: End Matter 0315 (recto)
+:volume: I
 :book: End Matter and Colophon
-:chapters: None
-:graphics: None
+:section: 06_end_matter
+:title: Endleaf (0315)
 
 Folio 0315 (End Matter 0315 (recto)) — Endleaf (0315)
 =====================================================
 
-Folio Description
------------------
-
-Blank leaf / flyleaf (End Matter 0315 (recto)) in the 1509 Venice witness (*Paganinus de Paganinis de Brixia*).
+*[Carta bianca / guardia (End Matter 0315 (recto)) nell'edizione veneziana di Paganino de' Paganini, 1509.]*

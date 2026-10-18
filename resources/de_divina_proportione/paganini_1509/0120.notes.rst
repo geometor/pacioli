@@ -1,0 +1,30 @@
+Folio 0120 (Libellus f. 18v) — Transcription & Graphic Calibration Notes
+========================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0119.rst``): Folio Libellus f. 18r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 18r)
+- **Current Folio** (``0120.rst``): Folio Libellus f. 18v (verso), Part III: Libellus in tres partiales tractatus divisus [``03_libellus``] — Libellus — Tractatus Tertius (Libellus f. 18v)
+- **Following Folio** (``0121.rst``): Folio Libellus f. 19r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 19r)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **5** woodcut element(s) were extracted and calibrated from ``0120.png``:
+
+- **``g1``** (``0120.g1.png``): Type ``diagram`` | Caption: *Folio 0120 Diagram 1* | Bounding Box ``[x=78, y=191, w=304, h=350]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g2``** (``0120.g2.png``): Type ``diagram`` | Caption: *Folio 0120 Diagram 2* | Bounding Box ``[x=63, y=762, w=336, h=353]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``c1``** (``0120.c1.png``): Type ``initial`` | Caption: *Folio 0120 Initial Cap 1* | Bounding Box ``[x=411, y=135, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0120.c2.png``): Type ``initial`` | Caption: *Folio 0120 Initial Cap 2* | Bounding Box ``[x=412, y=634, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c3``** (``0120.c3.png``): Type ``initial`` | Caption: *Folio 0120 Initial Cap 3* | Bounding Box ``[x=415, y=1102, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``TRACTATVS``
+- **Folio Signature / Numeration**: ``Libellus f. 18v`` (Scan page ``120``, *verso*)
+- **Book & Section Slug**: Part III: Libellus in tres partiales tractatus divisus (``03_libellus``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Prohemio (Dedication)** (``None/None``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``N/A``
+  - **Prohemio (Dedication)** (``None/None``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``N/A``

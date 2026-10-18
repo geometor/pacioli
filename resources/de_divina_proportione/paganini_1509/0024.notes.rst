@@ -1,0 +1,23 @@
+Folio 0024 (f. 4v) — Transcription & Graphic Calibration Notes
+==============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0023.rst``): Folio f. 4r (recto), Part I: Compendio de Divina Proportione — Cap. V, Cap. VI, Cap. VII (f. 4r) — Del condecente titulo del presente tractato.
+- **Current Folio** (``0024.rst``): Folio f. 4v (verso), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. VII (f. 4v) — Del primo effecto de vna linea diuisa secondo la nostra
+- **Following Folio** (``0025.rst``): Folio f. 5r (recto), Part I: Compendio de Divina Proportione — Cap. VII, Cap. VIII (f. 5r) — Del primo effecto de vna linea diuisa secondo la nostra
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PARS``
+- **Folio Signature / Numeration**: ``f. 4v`` (Scan page ``24``, *verso*)
+- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. VII** (``compendio/cap_07``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/007_cap_VII.txt``

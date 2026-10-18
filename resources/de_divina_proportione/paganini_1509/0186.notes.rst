@@ -1,0 +1,22 @@
+Folio 0186 (Plate Folio 0186 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0185.rst``): Folio Plate Folio 0185 (recto) (recto), Appendix I: The Roman Geometric Alphabet — Porta Templi Domini Dicta Speciosa
+- **Current Folio** (``0186.rst``): Folio Plate Folio 0186 (verso) (verso), Appendix I: The Roman Geometric Alphabet [``04_alphabet``] — Alphabet Plate Verso (0186)
+- **Following Folio** (``0187.rst``): Folio Plate Folio 0187 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate I — Tetrahedron Planum Solidum (Solid Regular Tetrahedron)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0186 (verso)`` (Scan page ``186``, *verso*)
+- **Book & Section Slug**: Appendix I: The Roman Geometric Alphabet (``04_alphabet``)
+- **Leaf Category**: Alphabet Plate Verso (0186)

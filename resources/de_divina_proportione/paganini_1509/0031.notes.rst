@@ -1,0 +1,28 @@
+Folio 0031 (f. 8r) — Transcription & Graphic Calibration Notes
+==============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0030.rst``): Folio f. 7v (verso), Part I: Compendio de Divina Proportione — Cap. XXI, Cap. XXII, Cap. XXIII (f. 7v) — Del suo 12. quasi incomprehensibile effecto.
+- **Current Folio** (``0031.rst``): Folio f. 8r (recto), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. XXIII, Cap. XXIV, Cap. XXV (f. 8r) — Cüp. XXIII.
+- **Following Folio** (``0032.rst``): Folio f. 8v (verso), Part I: Compendio de Divina Proportione — Cap. XXV, Cap. XXVI, Cap. XXVII (f. 8v) — Commo non possino essere più. 5. corpi regulari.
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **2** woodcut element(s) were extracted and calibrated from ``0031.png``:
+
+- **``c1``** (``0031.c1.png``): Type ``initial`` | Caption: *Folio 0031 Initial Cap 1* | Bounding Box ``[x=65, y=294, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0031.c2.png``): Type ``initial`` | Caption: *Folio 0031 Initial Cap 2* | Bounding Box ``[x=65, y=781, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PARS``
+- **Folio Signature / Numeration**: ``f. 8r`` (Scan page ``31``, *recto*)
+- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. XXIII** (``compendio/cap_23``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/023_cap_XXIII.txt``
+  - **Cap. XXIV** (``compendio/cap_24``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/024_cap_XXIV.txt``
+  - **Cap. XXV** (``compendio/cap_25``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/025_cap_XXV.txt``

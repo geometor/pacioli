@@ -1,0 +1,22 @@
+Folio 0308 (Plate Folio 0308 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0307.rst``): Folio Plate Folio 0307 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate LVIII — Pyramis Rotunda Solida (Solid Round Pyramid (Cone))
+- **Current Folio** (``0308.rst``): Folio Plate Folio 0308 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0308)
+- **Following Folio** (``0309.rst``): Folio Plate Folio 0309 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate LIX (printed LXI) — Sphera Solida (Solid Sphere)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0308 (verso)`` (Scan page ``308``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0308)

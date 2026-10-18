@@ -1,16 +1,14 @@
 :folio: 0006
+:page: A1v
 :page_num: 6
 :side: verso
-:original_folio: A1v
+:volume: I
 :book: Front Matter and Dedications
-:chapters: None
-:graphics: None
+:section: 00_front_matter
+:title: Epigrams and Author's Sonnet (Cinque corpi in natura son producti)
 
 Folio 0006 (A1v) — Epigrams and Author's Sonnet (Cinque corpi in natura son producti)
 =====================================================================================
-
-Testo Originale (Paganini 1509)
--------------------------------
 
 Sonetto del auctore.
 

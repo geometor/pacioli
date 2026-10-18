@@ -1,0 +1,30 @@
+Folio 0033 (f. 9r) — Transcription & Graphic Calibration Notes
+==============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0032.rst``): Folio f. 8v (verso), Part I: Compendio de Divina Proportione — Cap. XXV, Cap. XXVI, Cap. XXVII (f. 8v) — Commo non possino essere più. 5. corpi regulari.
+- **Current Folio** (``0033.rst``): Folio f. 9r (recto), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. XXVII, Cap. XXVIII (f. 9r) — Dela fabrica del cubo e sua proportione ala spera.
+- **Following Folio** (``0034.rst``): Folio f. 9v (verso), Part I: Compendio de Divina Proportione — Cap. XXVIII, Cap. XXIX (f. 9v) — Commo se formi lo octocedron in spera aponto collocabil
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **5** woodcut element(s) were extracted and calibrated from ``0033.png``:
+
+- **``g1``** (``0033.g1.png``): Type ``diagram`` | Caption: *Folio 0033 Diagram 1* | Bounding Box ``[x=638, y=32, w=345, h=348]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``g2``** (``0033.g2.png``): Type ``diagram`` | Caption: *Folio 0033 Diagram 2* | Bounding Box ``[x=641, y=396, w=325, h=217]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``g3``** (``0033.g3.png``): Type ``diagram`` | Caption: *Folio 0033 Diagram 3* | Bounding Box ``[x=644, y=751, w=317, h=216]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``g4``** (``0033.g4.png``): Type ``diagram`` | Caption: *Folio 0033 Diagram 4* | Bounding Box ``[x=618, y=981, w=329, h=335]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``c1``** (``0033.c1.png``): Type ``initial`` | Caption: *Folio 0033 Initial Cap 1* | Bounding Box ``[x=50, y=802, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PRIMA``
+- **Folio Signature / Numeration**: ``f. 9r`` (Scan page ``33``, *recto*)
+- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. XXVII** (``compendio/cap_27``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/027_cap_XXVII.txt``
+  - **Cap. XXVIII** (``compendio/cap_28``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/028_cap_XXVIII.txt``

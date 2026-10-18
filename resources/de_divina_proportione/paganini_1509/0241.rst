@@ -1,20 +1,17 @@
 :folio: 0241
+:page: Plate Folio 0241 (recto)
 :page_num: 241
 :side: recto
-:original_folio: Plate Folio 0241 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0241.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula XXVI — Icosahedron Elevatum Vacuum (Εἰκοσάεδρον ἐπηρμένον κενόν)
 
-Folio 0241 (Plate Folio 0241 (recto)) — Plate XXVI — Icosahedron Elevatum Vacuum (Hollow Elevated Icosahedron)
-==============================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0241 (Plate Folio 0241 (recto)) — Tabula XXVI — Icosahedron Elevatum Vacuum (Εἰκοσάεδρον ἐπηρμένον κενόν)
+===============================================================================================================
 
 .. picture:: 0241.g1.png
-
-   **g1 (plate)**: Plate XXVI: Icosahedron Elevatum Vacuum (Εἰκοσάεδρον ἐπηρμένον κενόν) — Hollow Elevated Icosahedron
+   :alt: Tabula XXVI: Icosahedron Elevatum Vacuum (Εἰκοσάεδρον ἐπηρμένον κενόν)
 
 Tabula XXVI (No. 26)
 --------------------

@@ -1,40 +1,32 @@
 :folio: 0100
+:page: Libellus f. 8v
 :page_num: 100
 :side: verso
-:original_folio: Libellus f. 8v
+:volume: I
 :book: Part III: Libellus in tres partiales tractatus divisus
-:chapters: None
-:graphics: 0100.g1.png, 0100.g2.png, 0100.g3.png, 0100.g4.png, 0100.c1.png, 0100.c2.png
+:section: 03_libellus
+:title: Libellus — Tractatus Primus (Libellus f. 8v)
 
 Folio 0100 (Libellus f. 8v) — Libellus — Tractatus Primus (Libellus f. 8v)
 ==========================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0100.g1.png
-
-   **g1 (diagram)**: Folio 0100 Diagram 1
+   :alt: Folio 0100 Figura g1
 
 .. picture:: 0100.g2.png
-
-   **g2 (diagram)**: Folio 0100 Diagram 2
+   :alt: Folio 0100 Figura g2
 
 .. picture:: 0100.g3.png
-
-   **g3 (diagram)**: Folio 0100 Diagram 3
+   :alt: Folio 0100 Figura g3
 
 .. picture:: 0100.g4.png
-
-   **g4 (diagram)**: Folio 0100 Diagram 4
+   :alt: Folio 0100 Figura g4
 
 .. picture:: 0100.c1.png
-
-   **c1 (initial)**: Folio 0100 Initial Cap 1
+   :alt: Folio 0100 Capolettera c1
 
 .. picture:: 0100.c2.png
-
-   **c2 (initial)**: Folio 0100 Initial Cap 2
+   :alt: Folio 0100 Capolettera c2
 
 Pars Tertia: Libellus in tres partiales tractatus divisus
 ---------------------------------------------------------

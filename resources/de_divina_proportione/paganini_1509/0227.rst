@@ -1,20 +1,17 @@
 :folio: 0227
+:page: Plate Folio 0227 (recto)
 :page_num: 227
 :side: recto
-:original_folio: Plate Folio 0227 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0227.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula XIX — Octahedron Elevatum Solidum (Ὀκτάεδρον ἐπηρμένον στερεόν)
 
-Folio 0227 (Plate Folio 0227 (recto)) — Plate XIX — Octahedron Elevatum Solidum (Solid Elevated Octahedron (Stella Octangula))
-==============================================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0227 (Plate Folio 0227 (recto)) — Tabula XIX — Octahedron Elevatum Solidum (Ὀκτάεδρον ἐπηρμένον στερεόν)
+==============================================================================================================
 
 .. picture:: 0227.g1.png
-
-   **g1 (plate)**: Plate XIX: Octahedron Elevatum Solidum (Ὀκτάεδρον ἐπηρμένον στερεόν) — Solid Elevated Octahedron (Stella Octangula)
+   :alt: Tabula XIX: Octahedron Elevatum Solidum (Ὀκτάεδρον ἐπηρμένον στερεόν)
 
 Tabula XIX (No. 19)
 -------------------

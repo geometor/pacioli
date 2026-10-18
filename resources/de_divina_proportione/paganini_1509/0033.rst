@@ -1,46 +1,36 @@
 :folio: 0033
+:page: f. 9r
 :page_num: 33
 :side: recto
-:original_folio: f. 9r
+:volume: I
 :book: Part I: Compendio de Divina Proportione
-:chapters: compendio/cap_27 (Cap. XXVII), compendio/cap_28 (Cap. XXVIII)
-:graphics: 0033.g1.png, 0033.g2.png, 0033.g3.png, 0033.g4.png, 0033.c1.png
+:section: 01_compendio
+:title: Cap. XXVII, Cap. XXVIII (f. 9r) — Dela fabrica del cubo e sua proportione ala spera.
 
 Folio 0033 (f. 9r) — Cap. XXVII, Cap. XXVIII (f. 9r) — Dela fabrica del cubo e sua proportione ala spera.
 =========================================================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0033.g1.png
-
-   **g1 (diagram)**: Folio 0033 Diagram 1
+   :alt: Folio 0033 Figura g1
 
 .. picture:: 0033.g2.png
-
-   **g2 (diagram)**: Folio 0033 Diagram 2
+   :alt: Folio 0033 Figura g2
 
 .. picture:: 0033.g3.png
-
-   **g3 (diagram)**: Folio 0033 Diagram 3
+   :alt: Folio 0033 Figura g3
 
 .. picture:: 0033.g4.png
-
-   **g4 (diagram)**: Folio 0033 Diagram 4
+   :alt: Folio 0033 Figura g4
 
 .. picture:: 0033.c1.png
-
-   **c1 (initial)**: Folio 0033 Initial Cap 1
-
-Testo Italiano (Paganini 1509 / Winterberg 1889)
-------------------------------------------------
+   :alt: Folio 0033 Capolettera c1
 
 Cap. XXVII: Dela fabrica del cubo e sua proportione ala spera. (continuatio)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------------------------------
 
 cosa dico dicto cubo do- - ^ . ^ ^ ^^£ b uerse cosi formare cioè. Prima se prenda el diametro dela spera. Nela quale intendiamo aponto collocarlo. E questo sia la linea ab. sopra la quale faro el semicirculo adb. Epoi diuidaro el diametro nel poncto e. si commo feci in la formatione dela piramide precedente. Cioè che la parte ac. sia dopia ala parte bc. Etirise la linea ed. perpendiculare ala hnea ab. Etirinse ancora le linee db. e da. Dapoi se facia vnquadrato del quale tutti li lati sienno equali ala linea bd. E sia quel tal quadrato efgh. E sopra li suoi 4 anguli seleuino 4 linee perpendiculari ala superficie del dicto quadrato commo insegna la duodecima del vndecimo. Equesti tali perpendiculari ognuna sia posta ancora equale ala linea bd. e sienno le ditte 4 perpendiculari ek . ti , gm . hn. E siranno queste 4 perpendiculari ognuna equidistante alaltra fraloro per la sexta del dicto vndecimo. E li anguli da quelle e dali lati del quadrato contenuti sonno recti per la diffinitione de la linea perpendiculare ala superficie. Dapoi congiunghinse le extremita di queste perpendiculari tirando le linee kl . Im . mn. nk. Le quali cose con diligentia a ponto seruate sira finito el cubo che circauamo de formare, da 6 superficie quadrate contenuto che seproua per la 34. 7 del primo le 4 superficie che lo circundano e sonno quelle dele quali li lati oppositi sonno le 4 perpendiculari sonno tutte quadrate. De la basa che la sia quadrata questo se manifesta per la nostra propositione. E ancora che la suprema superficie sia ancor lei quadrata cioè klmn. se demostra ancora per la dieta 34. del primo e per la decima de lo vndecimo. E cosi ancora per la quarta del ditto vndecimo se manifesta tutti li lati de dicto cubo stare orthogonalmente sopra le sue doi superficie opposite. E questo talei) aponto dala spera del proposto diametro sira circumscripto. Onde sempre dicto diametro sira triplo in potentia allato del ditto cubo cioè chel quadrato de ditto diametro sira tre tanto del quadrato dellato del cubo. Commo sei diametro fosse R. 300 ellato del cubo conueria essere io aponto. Lacui notitia a molti casi necessarii fia oportuna. etc. £- / / \ f, Y^ \ Kl
 
 Cap. XXVIII: Commo se formi lo octocedron in spera aponto collocabile e sua proportione ala spera.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------------------------------------------------------------
 
 Nel terzo luogo sucede in fabrica el corpo de 8 basi triangulari detto octocedron qual similmente da vna proposta sphera sia aponto circumdato dcia qual spera solo et diametro •) seil. cubo. anoi sia noto. E fasse in questo modo. Prendase el diametro dela sphera qual sia la linea ab. la quale se diuida per equali nel ponto e. E sopra tutta la linea se facia el semicirculo adb. e tirise ed. perpendiculare ala linea ab. edapoi se gionga el ponto d. con le extremita del ditto diametro cioè con a. e con b. Dapoi faciasse vn quadrato de qual tutti li lati sienno equali a la linea bd. E sia questo quadrato efgh. E in questo quadrato setiri doi diametri deli quali luno sia eg e laltro fh. Li quali fraloro se diuidino nel ponto k. Onde per la quarta del primo fia manifesto che cadauno de questi diametri equale ala linea ab. la quale fo posta diametro dela sphera conciosia che langulo d. sia recto per la prima parte dela trigesima del terzo. E ancora cadauno deli anguH e. f. g. h. fia recto per la diffinitione del quadrato. E ancora fia manifesto che quelli doi diametri eg. e 'fh. fra loro se diuidano per equali nel ponto k. E apare per la quinta e trigesima secunda e sexta del primo facilmente deducendo. Ora leuise sopra k la linea kl. perpendiculare alasuperficie del quadrato, la qual perpendiculare se ponga eqUale ala mita del diametro eg overo fh. E poi se lascino le ypotomisse le If. Ig. Ih. E tutte queste ypotomisse per le cose diete e prosuposte mediante la penultima del primo replicata quante volte fia bisogno fraloro siranno equali.

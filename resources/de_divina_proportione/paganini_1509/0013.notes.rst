@@ -1,0 +1,25 @@
+Folio 0013 (A5r) — Transcription & Graphic Calibration Notes
+============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0012.rst``): Folio A4v (verso), Front Matter and Dedications — Tabula — Table of Contents (A4v)
+- **Current Folio** (``0013.rst``): Folio A5r (recto), Front Matter and Dedications [``00_front_matter``] — Tabula — Table of Contents (A5r)
+- **Following Folio** (``0014.rst``): Folio A5v (verso), Front Matter and Dedications — Tabula — Table of Contents (A5v)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **2** woodcut element(s) were extracted and calibrated from ``0013.png``:
+
+- **``g1``** (``0013.g1.png``): Type ``diagram`` | Caption: *Folio 0013 Diagram 1* | Bounding Box ``[x=646, y=702, w=117, h=71]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``g2``** (``0013.g2.png``): Type ``diagram`` | Caption: *Folio 0013 Diagram 2* | Bounding Box ``[x=702, y=1004, w=91, h=118]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``jTpet lieorido eflentlalet ffetto de qttejfa proportionc. Ca``
+- **Folio Signature / Numeration**: ``A5r`` (Scan page ``13``, *recto*)
+- **Book & Section Slug**: Front Matter and Dedications (``00_front_matter``)
+- **Leaf Category**: Tabula — Table of Contents (A5r)

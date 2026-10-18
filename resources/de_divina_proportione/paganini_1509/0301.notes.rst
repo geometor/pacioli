@@ -1,0 +1,24 @@
+Folio 0301 (Plate Folio 0301 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0300.rst``): Folio Plate Folio 0300 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0300)
+- **Current Folio** (``0301.rst``): Folio Plate Folio 0301 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate LV — Pyramis Laterata Triangula Inaequilatera Solida (Solid Scalene Triangular Pyramid)
+- **Following Folio** (``0302.rst``): Folio Plate Folio 0302 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0302)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0301.png``:
+
+- **``g1``** (``0301.g1.png``): Type ``plate`` | Caption: *Plate LV: Pyramis Laterata Triangula Inaequilatera Solida (Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος στερεά) — Solid Scalene Triangular Pyramid* | Bounding Box ``[x=0, y=112, w=749, h=1403]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0301 (recto)`` (Scan page ``301``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``LV`` (Plate No. ``55``) | Latin Cartouche: *Pyramis Laterata Triangula Inaequilatera Solida* | Greek Cartouche: Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος στερεά

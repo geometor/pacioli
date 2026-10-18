@@ -1,0 +1,24 @@
+Folio 0303 (Plate Folio 0303 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0302.rst``): Folio Plate Folio 0302 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0302)
+- **Current Folio** (``0303.rst``): Folio Plate Folio 0303 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate LVI — Pyramis Laterata Triangula Inaequilatera Vacua (Hollow Scalene Triangular Pyramid)
+- **Following Folio** (``0304.rst``): Folio Plate Folio 0304 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0304)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0303.png``:
+
+- **``g1``** (``0303.g1.png``): Type ``plate`` | Caption: *Plate LVI: Pyramis Laterata Triangula Inaequilatera Vacua (Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος κενή) — Hollow Scalene Triangular Pyramid* | Bounding Box ``[x=0, y=0, w=825, h=1515]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0303 (recto)`` (Scan page ``303``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``LVI`` (Plate No. ``56``) | Latin Cartouche: *Pyramis Laterata Triangula Inaequilatera Vacua* | Greek Cartouche: Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος κενή

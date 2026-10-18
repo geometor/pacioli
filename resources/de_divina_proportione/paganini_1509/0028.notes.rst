@@ -1,0 +1,30 @@
+Folio 0028 (f. 6v) — Transcription & Graphic Calibration Notes
+==============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0027.rst``): Folio f. 6r (recto), Part I: Compendio de Divina Proportione — Cap. XII, Cap. XIII, Cap. XIV, Cap. XV (f. 6r) — Del terzo suo singulare effecto.
+- **Current Folio** (``0028.rst``): Folio f. 6v (verso), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. XVI, Cap. XVII, Cap. XVIII (f. 6v) — Del septimo suo inextimabile effecto.
+- **Following Folio** (``0029.rst``): Folio f. 7r (recto), Part I: Compendio de Divina Proportione — Cap. XIX, Cap. XX, Cap. XXI (f. 7r) — Del IO. suo supremo effecto.
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **4** woodcut element(s) were extracted and calibrated from ``0028.png``:
+
+- **``g1``** (``0028.g1.png``): Type ``diagram`` | Caption: *Folio 0028 Diagram 1* | Bounding Box ``[x=51, y=420, w=324, h=330]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``c1``** (``0028.c1.png``): Type ``initial`` | Caption: *Folio 0028 Initial Cap 1* | Bounding Box ``[x=393, y=133, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0028.c2.png``): Type ``initial`` | Caption: *Folio 0028 Initial Cap 2* | Bounding Box ``[x=394, y=409, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c3``** (``0028.c3.png``): Type ``initial`` | Caption: *Folio 0028 Initial Cap 3* | Bounding Box ``[x=390, y=686, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PARS``
+- **Folio Signature / Numeration**: ``f. 6v`` (Scan page ``28``, *verso*)
+- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. XVI** (``compendio/cap_16``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/016_cap_XVI.txt``
+  - **Cap. XVII** (``compendio/cap_17``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/017_cap_XVII.txt``
+  - **Cap. XVIII** (``compendio/cap_18``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/018_cap_XVIII.txt``

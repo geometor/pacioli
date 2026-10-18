@@ -1,15 +1,13 @@
 :folio: 0306
+:page: Plate Folio 0306 (verso)
 :page_num: 306
 :side: verso
-:original_folio: Plate Folio 0306 (verso)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: None
+:section: 05_polyhedra_plates
+:title: Verso bianco della tavola dei corpi (0306)
 
-Folio 0306 (Plate Folio 0306 (verso)) — Polyhedra Plate Verso (0306)
-====================================================================
+Folio 0306 (Plate Folio 0306 (verso)) — Verso bianco della tavola dei corpi (0306)
+==================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0305) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0305 nell'edizione Paganini 1509.]*

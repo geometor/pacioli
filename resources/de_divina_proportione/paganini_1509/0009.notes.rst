@@ -1,0 +1,25 @@
+Folio 0009 (A3r) — Transcription & Graphic Calibration Notes
+============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0008.rst``): Folio A2v (verso), Front Matter and Dedications — Danielis Caietani Epistolium ad Andream Mocenicum (1509)
+- **Current Folio** (``0009.rst``): Folio A3r (recto), Front Matter and Dedications [``00_front_matter``] — Nomina et Numerus Corporum (A3r)
+- **Following Folio** (``0010.rst``): Folio A3v (verso), Front Matter and Dedications — Nomina et Numerus Corporum (A3v)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **2** woodcut element(s) were extracted and calibrated from ``0009.png``:
+
+- **``g1``** (``0009.g1.png``): Type ``diagram`` | Caption: *Folio 0009 Diagram 1* | Bounding Box ``[x=649, y=55, w=411, h=559]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``g2``** (``0009.g2.png``): Type ``diagram`` | Caption: *Folio 0009 Diagram 2* | Bounding Box ``[x=649, y=588, w=398, h=789]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``NOMINA``
+- **Folio Signature / Numeration**: ``A3r`` (Scan page ``9``, *recto*)
+- **Book & Section Slug**: Front Matter and Dedications (``00_front_matter``)
+- **Leaf Category**: Nomina et Numerus Corporum (A3r)

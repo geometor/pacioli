@@ -1,0 +1,22 @@
+Folio 0198 (Plate Folio 0198 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0197.rst``): Folio Plate Folio 0197 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate VI — Tetrahedron Elevatum Vacuum (Hollow Stellated (Elevated) Tetrahedron)
+- **Current Folio** (``0198.rst``): Folio Plate Folio 0198 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0198)
+- **Following Folio** (``0199.rst``): Folio Plate Folio 0199 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate VII — Exahedron sive Cubus Planum Solidum (Solid Regular Hexahedron (Cube))
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0198 (verso)`` (Scan page ``198``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0198)

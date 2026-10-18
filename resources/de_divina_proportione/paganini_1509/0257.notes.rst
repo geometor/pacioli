@@ -1,0 +1,24 @@
+Folio 0257 (Plate Folio 0257 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0256.rst``): Folio Plate Folio 0256 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0256)
+- **Current Folio** (``0257.rst``): Folio Plate Folio 0257 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XXXIIII — Dodecahedron Abscisum Elevatum Vacuum (Hollow Elevated Truncated Dodecahedron)
+- **Following Folio** (``0258.rst``): Folio Plate Folio 0258 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0258)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0257.png``:
+
+- **``g1``** (``0257.g1.png``): Type ``plate`` | Caption: *Plate XXXIIII: Dodecahedron Abscisum Elevatum Vacuum (Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον κενόν) — Hollow Elevated Truncated Dodecahedron* | Bounding Box ``[x=0, y=0, w=903, h=1515]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0257 (recto)`` (Scan page ``257``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XXXIIII`` (Plate No. ``34``) | Latin Cartouche: *Dodecahedron Abscisum Elevatum Vacuum* | Greek Cartouche: Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον κενόν

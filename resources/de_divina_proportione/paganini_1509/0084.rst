@@ -1,15 +1,13 @@
 :folio: 0084
+:page: f. 34v
 :page_num: 84
 :side: verso
-:original_folio: f. 34v
+:volume: I
 :book: Part II: Tractato de l'Architectura
-:chapters: None
-:graphics: None
+:section: 02_architectura
+:title: Carta bianca (f. 34v)
 
-Folio 0084 (f. 34v) — Blank Leaf (f. 34v)
-=========================================
+Folio 0084 (f. 34v) — Carta bianca (f. 34v)
+===========================================
 
-Folio Description
------------------
-
-Blank leaf / flyleaf (f. 34v) in the 1509 Venice witness (*Paganinus de Paganinis de Brixia*).
+*[Carta bianca / guardia (f. 34v) nell'edizione veneziana di Paganino de' Paganini, 1509.]*

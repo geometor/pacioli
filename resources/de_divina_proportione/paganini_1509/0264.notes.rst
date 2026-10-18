@@ -1,0 +1,22 @@
+Folio 0264 (Plate Folio 0264 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0263.rst``): Folio Plate Folio 0263 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXXVII — Vigintisex Basium Abscisum Elevatum Solidum (Solid Elevated 26-Base Body)
+- **Current Folio** (``0264.rst``): Folio Plate Folio 0264 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0264)
+- **Following Folio** (``0265.rst``): Folio Plate Folio 0265 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXXVIII — Vigintisex Basium Abscisum Elevatum Vacuum (Hollow Elevated 26-Base Body)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0264 (verso)`` (Scan page ``264``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0264)

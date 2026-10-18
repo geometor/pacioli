@@ -1,20 +1,17 @@
 :folio: 0221
+:page: Plate Folio 0221 (recto)
 :page_num: 221
 :side: recto
-:original_folio: Plate Folio 0221 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0221.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula XVI — Octahedron Planum Vacuum (Ὀκτάεδρον ἐπίπεδον κενόν)
 
-Folio 0221 (Plate Folio 0221 (recto)) — Plate XVI — Octahedron Planum Vacuum (Hollow Regular Octahedron)
+Folio 0221 (Plate Folio 0221 (recto)) — Tabula XVI — Octahedron Planum Vacuum (Ὀκτάεδρον ἐπίπεδον κενόν)
 ========================================================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0221.g1.png
-
-   **g1 (plate)**: Plate XVI: Octahedron Planum Vacuum (Ὀκτάεδρον ἐπίπεδον κενόν) — Hollow Regular Octahedron
+   :alt: Tabula XVI: Octahedron Planum Vacuum (Ὀκτάεδρον ἐπίπεδον κενόν)
 
 Tabula XVI (No. 16)
 -------------------

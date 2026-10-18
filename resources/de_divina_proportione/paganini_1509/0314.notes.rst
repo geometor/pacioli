@@ -1,0 +1,22 @@
+Folio 0314 (End Matter 0314 (verso)) — Transcription & Graphic Calibration Notes
+================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0313.rst``): Folio End Matter 0313 (recto) (recto), End Matter and Colophon — Endleaf (0313)
+- **Current Folio** (``0314.rst``): Folio End Matter 0314 (verso) (verso), End Matter and Colophon [``06_end_matter``] — Endleaf (0314)
+- **Following Folio** (``0315.rst``): Folio End Matter 0315 (recto) (recto), End Matter and Colophon — Endleaf (0315)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``End Matter 0314 (verso)`` (Scan page ``314``, *verso*)
+- **Book & Section Slug**: End Matter and Colophon (``06_end_matter``)
+- **Leaf Category**: Endleaf (0314)

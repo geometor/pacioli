@@ -1,15 +1,13 @@
 :folio: 0300
+:page: Plate Folio 0300 (verso)
 :page_num: 300
 :side: verso
-:original_folio: Plate Folio 0300 (verso)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: None
+:section: 05_polyhedra_plates
+:title: Verso bianco della tavola dei corpi (0300)
 
-Folio 0300 (Plate Folio 0300 (verso)) — Polyhedra Plate Verso (0300)
-====================================================================
+Folio 0300 (Plate Folio 0300 (verso)) — Verso bianco della tavola dei corpi (0300)
+==================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0299) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0299 nell'edizione Paganini 1509.]*

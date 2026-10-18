@@ -1,15 +1,13 @@
 :folio: 0250
+:page: Plate Folio 0250 (verso)
 :page_num: 250
 :side: verso
-:original_folio: Plate Folio 0250 (verso)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: None
+:section: 05_polyhedra_plates
+:title: Verso bianco della tavola dei corpi (0250)
 
-Folio 0250 (Plate Folio 0250 (verso)) — Polyhedra Plate Verso (0250)
-====================================================================
+Folio 0250 (Plate Folio 0250 (verso)) — Verso bianco della tavola dei corpi (0250)
+==================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0249) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0249 nell'edizione Paganini 1509.]*

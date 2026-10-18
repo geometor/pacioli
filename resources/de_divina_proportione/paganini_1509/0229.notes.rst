@@ -1,0 +1,24 @@
+Folio 0229 (Plate Folio 0229 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0228.rst``): Folio Plate Folio 0228 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0228)
+- **Current Folio** (``0229.rst``): Folio Plate Folio 0229 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XX — Octahedron Elevatum Vacuum (Hollow Elevated Octahedron (Stella Octangula))
+- **Following Folio** (``0230.rst``): Folio Plate Folio 0230 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0230)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0229.png``:
+
+- **``g1``** (``0229.g1.png``): Type ``plate`` | Caption: *Plate XX: Octahedron Elevatum Vacuum (Ὀκτάεδρον ἐπηρμένον κενόν) — Hollow Elevated Octahedron (Stella Octangula)* | Bounding Box ``[x=0, y=174, w=752, h=1341]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0229 (recto)`` (Scan page ``229``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XX`` (Plate No. ``20``) | Latin Cartouche: *Octahedron Elevatum Vacuum* | Greek Cartouche: Ὀκτάεδρον ἐπηρμένον κενόν

@@ -1,0 +1,30 @@
+Folio 0026 (f. 5v) — Transcription & Graphic Calibration Notes
+==============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0025.rst``): Folio f. 5r (recto), Part I: Compendio de Divina Proportione — Cap. VII, Cap. VIII (f. 5r) — Del primo effecto de vna linea diuisa secondo la nostra
+- **Current Folio** (``0026.rst``): Folio f. 5v (verso), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. IX, Cap. X, Cap. XI (f. 5v) — Che cosa sia radici de numero e de altra quantità.
+- **Following Folio** (``0027.rst``): Folio f. 6r (recto), Part I: Compendio de Divina Proportione — Cap. XII, Cap. XIII, Cap. XIV, Cap. XV (f. 6r) — Del terzo suo singulare effecto.
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **4** woodcut element(s) were extracted and calibrated from ``0026.png``:
+
+- **``g1``** (``0026.g1.png``): Type ``marginalia`` | Caption: *Folio 0026 Marginalia 1* | Bounding Box ``[x=329, y=72, w=65, h=137]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``c1``** (``0026.c1.png``): Type ``initial`` | Caption: *Folio 0026 Initial Cap 1* | Bounding Box ``[x=396, y=88, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0026.c2.png``): Type ``initial`` | Caption: *Folio 0026 Initial Cap 2* | Bounding Box ``[x=395, y=518, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c3``** (``0026.c3.png``): Type ``initial`` | Caption: *Folio 0026 Initial Cap 3* | Bounding Box ``[x=392, y=939, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PARS``
+- **Folio Signature / Numeration**: ``f. 5v`` (Scan page ``26``, *verso*)
+- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. IX** (``compendio/cap_09``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/009_cap_IX.txt``
+  - **Cap. X** (``compendio/cap_10``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/010_cap_X.txt``
+  - **Cap. XI** (``compendio/cap_11``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/011_cap_XI.txt``

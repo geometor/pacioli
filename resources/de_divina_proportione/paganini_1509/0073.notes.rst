@@ -1,0 +1,25 @@
+Folio 0073 (f. 29r) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0072.rst``): Folio f. 28v (verso), Part II: Tractato de l'Architectura — Cap. VI (f. 28v) — Sequita lordine del stilobata ouer pilastro ouero basam
+- **Current Folio** (``0073.rst``): Folio f. 29r (recto), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. VII (f. 29r) — In quello sienno differenti le tre spetie de diete colo
+- **Following Folio** (``0074.rst``): Folio f. 29v (verso), Part II: Tractato de l'Architectura — Cap. VII, Cap. VIII (f. 29v) — In quello sienno differenti le tre spetie de diete colo
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0073.png``:
+
+- **``c1``** (``0073.c1.png``): Type ``initial`` | Caption: *Folio 0073 Initial Cap 1* | Bounding Box ``[x=46, y=98, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``-PRIMA- 3``
+- **Folio Signature / Numeration**: ``f. 29r`` (Scan page ``73``, *recto*)
+- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. VII** (``architectura/cap_07``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/007_cap_VII.txt``

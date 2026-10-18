@@ -1,0 +1,30 @@
+Folio 0055 (f. 20r) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0054.rst``): Folio f. 19v (verso), Part I: Compendio de Divina Proportione — Cap. LXII, Cap. LXIII (f. 19v) — Del modo a mesurare tutte sorte colonne e prima dele ro
+- **Current Folio** (``0055.rst``): Folio f. 20r (recto), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. LXIV, Cap. LXV (f. 20r) — Dele pyramidi e tutte lor differentie.
+- **Following Folio** (``0056.rst``): Folio f. 20v (verso), Part I: Compendio de Divina Proportione — Cap. LXV, Cap. LXVI, Cap. LXVII (f. 20v) — Dele piramidi laterate e sue diuersita.
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **5** woodcut element(s) were extracted and calibrated from ``0055.png``:
+
+- **``g1``** (``0055.g1.png``): Type ``diagram`` | Caption: *Folio 0055 Diagram 1* | Bounding Box ``[x=671, y=32, w=251, h=535]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``g2``** (``0055.g2.png``): Type ``diagram`` | Caption: *Folio 0055 Diagram 2* | Bounding Box ``[x=642, y=561, w=308, h=317]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``g3``** (``0055.g3.png``): Type ``diagram`` | Caption: *Folio 0055 Diagram 3* | Bounding Box ``[x=642, y=871, w=318, h=359]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``c1``** (``0055.c1.png``): Type ``initial`` | Caption: *Folio 0055 Initial Cap 1* | Bounding Box ``[x=49, y=74, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0055.c2.png``): Type ``initial`` | Caption: *Folio 0055 Initial Cap 2* | Bounding Box ``[x=39, y=869, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``20``
+- **Folio Signature / Numeration**: ``f. 20r`` (Scan page ``55``, *recto*)
+- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. LXIV** (``compendio/cap_64``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/064_cap_LXIV.txt``
+  - **Cap. LXV** (``compendio/cap_65``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/065_cap_LXV.txt``

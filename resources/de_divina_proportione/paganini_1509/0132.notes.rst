@@ -1,0 +1,27 @@
+Folio 0132 (Libellus f. 24v) — Transcription & Graphic Calibration Notes
+========================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0131.rst``): Folio Libellus f. 24r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 24r)
+- **Current Folio** (``0132.rst``): Folio Libellus f. 24v (verso), Part III: Libellus in tres partiales tractatus divisus [``03_libellus``] — Libellus — Tractatus Tertius (Libellus f. 24v)
+- **Following Folio** (``0133.rst``): Folio Libellus f. 25r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 25r)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **4** woodcut element(s) were extracted and calibrated from ``0132.png``:
+
+- **``g1``** (``0132.g1.png``): Type ``diagram`` | Caption: *Folio 0132 Diagram 1* | Bounding Box ``[x=119, y=32, w=232, h=209]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g2``** (``0132.g2.png``): Type ``diagram`` | Caption: *Folio 0132 Diagram 2* | Bounding Box ``[x=90, y=237, w=309, h=540]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g3``** (``0132.g3.png``): Type ``diagram`` | Caption: *Folio 0132 Diagram 3* | Bounding Box ``[x=83, y=755, w=326, h=430]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``c1``** (``0132.c1.png``): Type ``initial`` | Caption: *Folio 0132 Initial Cap 1* | Bounding Box ``[x=428, y=798, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``*``
+- **Folio Signature / Numeration**: ``Libellus f. 24v`` (Scan page ``132``, *verso*)
+- **Book & Section Slug**: Part III: Libellus in tres partiales tractatus divisus (``03_libellus``)
+- **Leaf Category**: Libellus — Tractatus Tertius (Libellus f. 24v)

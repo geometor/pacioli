@@ -1,38 +1,30 @@
 :folio: 0049
+:page: f. 17r
 :page_num: 49
 :side: recto
-:original_folio: f. 17r
+:volume: I
 :book: Part I: Compendio de Divina Proportione
-:chapters: compendio/cap_55 (Cap. LV), compendio/cap_56 (Cap. LVI)
-:graphics: 0049.g1.png, 0049.g2.png, 0049.c1.png
+:section: 01_compendio
+:title: Cap. LV, Cap. LVI (f. 17r) — Del modo asaperne oltra li dicti più formare e commo lo
 
 Folio 0049 (f. 17r) — Cap. LV, Cap. LVI (f. 17r) — Del modo asaperne oltra li dicti più formare e commo lo
 ==========================================================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0049.g1.png
-
-   **g1 (diagram)**: Folio 0049 Diagram 1
+   :alt: Folio 0049 Figura g1
 
 .. picture:: 0049.g2.png
-
-   **g2 (diagram)**: Folio 0049 Diagram 2
+   :alt: Folio 0049 Figura g2
 
 .. picture:: 0049.c1.png
-
-   **c1 (initial)**: Folio 0049 Initial Cap 1
-
-Testo Italiano (Paganini 1509 / Winterberg 1889)
-------------------------------------------------
+   :alt: Folio 0049 Capolettera c1
 
 Cap. LV: Del modo asaperne oltra li dicti più formare e commo lor forme in infinito procedano. (continuatio)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------------------------------------------------------------------
 
-li parse che la conuenisse in la spera più presto al moto dela cosa che spargendo scende: che de quella che ascende. Eia forma del 1 2 basi pentagone atribui al cielo si commo a quello che e receptaculo de tutte le cose, questo duodecedron el simile fia receptaculo e albergo de tutti glialtri 4 corpi regulari commo apare in le loro inscriptioni vno in laltro. E ancora commo dici Alcinouo sopra el Timeo de Platone, perche si commo nel cielo sonno 12 segni nel suo zodiaco e ognuno de quelli in 30 equali parti se diuide che tutta la sua annuale reuolutione fia 360. Cosi questo duodecedron ha in se 12 basi pentagone de lequali ognuna in 5 trianguli resoluta fermando el ponte in mezzo e ognuno de dicti triangoli in 6 scaleni: che in tutte basi son 3o triangulari per vna: che fra tutte sonno 360 commo dicto zodiaco. E queste tali forme da Calcidio celeberrimo philosopho exponendo el dicto Timeo molto sonno commendate. E cosi da Macrobio. Apuleio e moltissimi altri : perche in vero sonno de ogni commend,atione degni, per le ragioni che in loro fabriche se aducano mostrando la sufficientia de diete 5 forme si commo el numero de dicti simplici non si pò in natura accrescere, cosi queste 5 regulari non e possibile asegnarne più che de basi e de lati e de anguli sienno equali: e che in spera collocati toccando vnangolo tutti tocchino. Perche se in natura se potesse vn sexto corpo semplice asegnare el sumrao opefice verebbe a esser stato in le sue cose diminuto e senza prudenza da giudicarlo, non hauendo a principio tutto el bisogno oportuno a lei cognosciuto. E per questo certamente e non per altro mosso comprendo Platone queste tali commo e dicto a ciascuno deli dicti semplici altribuisse cosi argumentando: cioè commo buonissimo geometra e profondissimo mathematjco. vedendo le 5 varie forme de questi non poter per alcun modo alcunaltra che al sperico tenda de lati basi e angoli commo e dicto equali ymaginarse ne formare commo in la penultima del 13. se mostra e per noi aloportuno Wohl: de loctocedron zu ergänzen. -) Hierauf ist die Figur S. 96 zu beziehen. saduci non immeritamente argui le ditte aduenire ali 5 semplici. Eda quelli ognaltra forma dependere. E auenga che questi 5 sienno soli chiamati regulari non pero se exclude la spera che non sia sopra tutti regularissima: e ognaltro da quella deriuarse commo dala causa dele cause più sublime: e in lei non e varietà alcuna ma vniformita per tutto e in ogni luogo ha suo principio e fine e dextro e sinistro. La cui forma onde se causi qui sequente ponendo fine a dicti dependenti lo diremo: e successiuamente de tutti glialtri corpi oblonghi: cioè che più longhi che larghi sonno.
+li parse che la conuenisse in la spera più presto al moto dela cosa che spargendo scende: che de quella che ascende. Eia forma del 1 2 basi pentagone atribui al cielo si commo a quello che e receptaculo de tutte le cose, questo duodecedron el simile fia receptaculo e albergo de tutti glialtri 4 corpi regulari commo apare in le loro inscriptioni vno in laltro. E ancora commo dici Alcinouo sopra el Timeo de Platone, perche si commo nel cielo sonno 12 segni nel suo zodiaco e ognuno de quelli in 30 equali parti se diuide che tutta la sua annuale reuolutione fia 360. Cosi questo duodecedron ha in se 12 basi pentagone de lequali ognuna in 5 trianguli resoluta fermando el ponte in mezzo e ognuno de dicti triangoli in 6 scaleni: che in tutte basi son 3o triangulari per vna: che fra tutte sonno 360 commo dicto zodiaco. E queste tali forme da Calcidio celeberrimo philosopho exponendo el dicto Timeo molto sonno commendate. E cosi da Macrobio. Apuleio e moltissimi altri : perche in vero sonno de ogni commend,atione degni, per le ragioni che in loro fabriche se aducano mostrando la sufficientia de diete 5 forme si commo el numero de dicti simplici non si pò in natura accrescere, cosi queste 5 regulari non e possibile asegnarne più che de basi e de lati e de anguli sienno equali: e che in spera collocati toccando vnangolo tutti tocchino. Perche se in natura se potesse vn sexto corpo semplice asegnare el sumrao opefice verebbe a esser stato in le sue cose diminuto e senza prudenza da giudicarlo, non hauendo a principio tutto el bisogno oportuno a lei cognosciuto. E per questo certamente e non per altro mosso comprendo Platone queste tali commo e dicto a ciascuno deli dicti semplici altribuisse cosi argumentando: cioè commo buonissimo geometra e profondissimo mathematjco. vedendo le 5 varie forme de questi non poter per alcun modo alcunaltra che al sperico tenda de lati basi e angoli commo e dicto equali ymaginarse ne formare commo in la penultima del 13. se mostra e per noi aloportuno saduci non immeritamente argui le ditte aduenire ali 5 semplici. Eda quelli ognaltra forma dependere. E auenga che questi 5 sienno soli chiamati regulari non pero se exclude la spera che non sia sopra tutti regularissima: e ognaltro da quella deriuarse commo dala causa dele cause più sublime: e in lei non e varietà alcuna ma vniformita per tutto e in ogni luogo ha suo principio e fine e dextro e sinistro. La cui forma onde se causi qui sequente ponendo fine a dicti dependenti lo diremo: e successiuamente de tutti glialtri corpi oblonghi: cioè che più longhi che larghi sonno.
 
 Cap. LVI: Del corpo sperico la sua formatione.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------
 
 XL. Per molti la spera e stata diffinita che cosa la sia. maxime da Dionysio degno mathematico. Pure el nostro authore con summa breuita in lo suo 1 1 . la descriue : e quella tal descriptione da tutti posteriori se aduci: doue lui dici cosi: Spera fia quel che contene el vestigio delarco dela circumferentia del mezzo circhio ogni volta: e in qualunche modo se prenda el semicìrculo fermando la linea del dyametro se volti atorno el dicto arco, fin tanto che retorni al luogo donde se comenzo ^. a mouere. Cioè facto el semicirculo sopra qual voi linea fermando quella el dicto semicirculo se meni atorno con tutta suareuolutione quel tal corpo che cosi fia descripto si chiama spera. Del quale el centro fia el centro del dicto semicirculo cosi circonducto. Commo fia el semicirculo e. facto sopra la linea ab. facto centro el ponto e. e tutto larco suo sia la parte dela circumferentia adb. Dico che fermando la dieta linea ab. qual fia dyametro de dicto semicirculo e quello '/? sopra lei circumducendo. commenzando dal pontQ d. andando verso la parte inferiore e tornando verso la superiore con suo arco el ^ ) dicto ponto d. onde prima se mosse, ouer per lopposito. andando verso la supcriore e tornando verso la I. al. superiore pur con larco al dicto ponto d.

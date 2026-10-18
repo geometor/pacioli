@@ -1,15 +1,13 @@
 :folio: 0136
+:page: Libellus f. 26v
 :page_num: 136
 :side: verso
-:original_folio: Libellus f. 26v
+:volume: I
 :book: Part III: Libellus in tres partiales tractatus divisus
-:chapters: None
-:graphics: None
+:section: 03_libellus
+:title: Libellus — Blank Verso (Libellus f. 26v)
 
 Folio 0136 (Libellus f. 26v) — Libellus — Blank Verso (Libellus f. 26v)
 =======================================================================
 
-Folio Description
------------------
-
-Blank leaf / flyleaf (Libellus f. 26v) in the 1509 Venice witness (*Paganinus de Paganinis de Brixia*).
+*[Carta bianca / guardia (Libellus f. 26v) nell'edizione veneziana di Paganino de' Paganini, 1509.]*

@@ -1,23 +1,17 @@
 :folio: 0008
+:page: A2v
 :page_num: 8
 :side: verso
-:original_folio: A2v
+:volume: I
 :book: Front Matter and Dedications
-:chapters: None
-:graphics: 0008.g1.png
+:section: 00_front_matter
+:title: Danielis Caietani Epistolium ad Andream Mocenicum (1509)
 
 Folio 0008 (A2v) — Danielis Caietani Epistolium ad Andream Mocenicum (1509)
 ===========================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0008.g1.png
-
-   **g1 (diagram)**: Folio 0008 Diagram 1
-
-Testo Latino (Paganini 1509)
-----------------------------
+   :alt: Folio 0008 Figura g1
 
 Magnifico et Clarissimo Andreae Mocenico Veneto patricio Viro Magnifici et generosissimi D. Leonardi olim Serenissimi philosopho insigni atque in omni genere doctrinae spectatissimo Danielis Caietani Epistolium.
 

@@ -1,22 +1,16 @@
 :folio: 0137
+:page: Plate Folio 0137 (recto)
 :page_num: 137
 :side: recto
-:original_folio: Plate Folio 0137 (recto)
+:volume: I
 :book: Appendix I: The Roman Geometric Alphabet
-:chapters: None
-:graphics: 0137.g1.png
+:section: 04_alphabet
+:title: Divina Proportio — Caput Humanum (Proportional Profile of the Human Head)
 
 Folio 0137 (Plate Folio 0137 (recto)) — Divina Proportio — Caput Humanum (Proportional Profile of the Human Head)
 =================================================================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0137.g1.png
-
-   **g1 (plate)**: Divina Proportio — Caput Humanum (Proportional Profile of the Human Head)
-
-Testo Originale (Paganini 1509)
--------------------------------
+   :alt: Folio 0137 Tavola g1
 
 Divina Proportio. Figura del capo humano proportionato secondo il triangolo equilatero e il quadrato (Tractato de l'Architectura, Cap. I–II).

@@ -1,15 +1,13 @@
 :folio: 0226
+:page: Plate Folio 0226 (verso)
 :page_num: 226
 :side: verso
-:original_folio: Plate Folio 0226 (verso)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: None
+:section: 05_polyhedra_plates
+:title: Verso bianco della tavola dei corpi (0226)
 
-Folio 0226 (Plate Folio 0226 (verso)) — Polyhedra Plate Verso (0226)
-====================================================================
+Folio 0226 (Plate Folio 0226 (verso)) — Verso bianco della tavola dei corpi (0226)
+==================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0225) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0225 nell'edizione Paganini 1509.]*

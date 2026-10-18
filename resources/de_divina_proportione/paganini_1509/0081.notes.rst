@@ -1,0 +1,26 @@
+Folio 0081 (f. 33r) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0080.rst``): Folio f. 32v (verso), Part II: Tractato de l'Architectura — Cap. XVIII, Cap. XIX (f. 32v) — Comme lapicidi e altri scultori in dicti corpi sieno co
+- **Current Folio** (``0081.rst``): Folio f. 33r (recto), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. XIX, Cap. XX (f. 33r) — Comme nelli luoghi angusti lo architetto se habia arege
+- **Following Folio** (``0082.rst``): Folio f. 33v (verso), Part II: Tractato de l'Architectura — Cap. XX (f. 33v) — Dele colonne situate sopra altre coione nelli hedifitii
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0081.png``:
+
+- **``c1``** (``0081.c1.png``): Type ``initial`` | Caption: *Folio 0081 Initial Cap 1* | Bounding Box ``[x=27, y=540, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``PRIMA- 3``
+- **Folio Signature / Numeration**: ``f. 33r`` (Scan page ``81``, *recto*)
+- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Cap. XIX** (``architectura/cap_19``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/019_cap_XIX.txt``
+  - **Cap. XX** (``architectura/cap_20``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/020_cap_XX.txt``

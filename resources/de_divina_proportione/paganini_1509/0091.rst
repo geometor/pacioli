@@ -1,48 +1,38 @@
 :folio: 0091
+:page: Libellus f. 4r
 :page_num: 91
 :side: recto
-:original_folio: Libellus f. 4r
+:volume: I
 :book: Part III: Libellus in tres partiales tractatus divisus
-:chapters: None
-:graphics: 0091.g1.png, 0091.g2.png, 0091.g3.png, 0091.g4.png, 0091.c1.png, 0091.c2.png, 0091.c3.png, 0091.c4.png
+:section: 03_libellus
+:title: Libellus — Tractatus Primus (Libellus f. 4r)
 
 Folio 0091 (Libellus f. 4r) — Libellus — Tractatus Primus (Libellus f. 4r)
 ==========================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0091.g1.png
-
-   **g1 (diagram)**: Folio 0091 Diagram 1
+   :alt: Folio 0091 Figura g1
 
 .. picture:: 0091.g2.png
-
-   **g2 (diagram)**: Folio 0091 Diagram 2
+   :alt: Folio 0091 Figura g2
 
 .. picture:: 0091.g3.png
-
-   **g3 (diagram)**: Folio 0091 Diagram 3
+   :alt: Folio 0091 Figura g3
 
 .. picture:: 0091.g4.png
-
-   **g4 (diagram)**: Folio 0091 Diagram 4
+   :alt: Folio 0091 Figura g4
 
 .. picture:: 0091.c1.png
-
-   **c1 (initial)**: Folio 0091 Initial Cap 1
+   :alt: Folio 0091 Capolettera c1
 
 .. picture:: 0091.c2.png
-
-   **c2 (initial)**: Folio 0091 Initial Cap 2
+   :alt: Folio 0091 Capolettera c2
 
 .. picture:: 0091.c3.png
-
-   **c3 (initial)**: Folio 0091 Initial Cap 3
+   :alt: Folio 0091 Capolettera c3
 
 .. picture:: 0091.c4.png
-
-   **c4 (initial)**: Folio 0091 Initial Cap 4
+   :alt: Folio 0091 Capolettera c4
 
 Pars Tertia: Libellus in tres partiales tractatus divisus
 ---------------------------------------------------------

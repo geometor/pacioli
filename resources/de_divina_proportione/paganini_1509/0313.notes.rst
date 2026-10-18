@@ -1,0 +1,24 @@
+Folio 0313 (End Matter 0313 (recto)) — Transcription & Graphic Calibration Notes
+================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0312.rst``): Folio End Matter 0312 (verso) (verso), End Matter and Colophon — Endleaf (0312)
+- **Current Folio** (``0313.rst``): Folio End Matter 0313 (recto) (recto), End Matter and Colophon [``06_end_matter``] — Endleaf (0313)
+- **Following Folio** (``0314.rst``): Folio End Matter 0314 (verso) (verso), End Matter and Colophon — Endleaf (0314)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0313.png``:
+
+- **``g1``** (``0313.g1.png``): Type ``diagram`` | Caption: *Leonardo da Vinci Plate 64 (Folio 0313): 3> $ s* | Bounding Box ``[x=0, y=0, w=277, h=1515]`` | Placement/Class: ``inline`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``End Matter 0313 (recto)`` (Scan page ``313``, *recto*)
+- **Book & Section Slug**: End Matter and Colophon (``06_end_matter``)
+- **Leaf Category**: Endleaf (0313)

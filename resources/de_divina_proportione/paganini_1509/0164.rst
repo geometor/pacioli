@@ -1,15 +1,13 @@
 :folio: 0164
+:page: Plate Folio 0164 (verso)
 :page_num: 164
 :side: verso
-:original_folio: Plate Folio 0164 (verso)
+:volume: I
 :book: Appendix I: The Roman Geometric Alphabet
-:chapters: None
-:graphics: None
+:section: 04_alphabet
+:title: Verso bianco della tavola d'alfabeto (0164)
 
-Folio 0164 (Plate Folio 0164 (verso)) — Alphabet Plate Verso (0164)
-===================================================================
+Folio 0164 (Plate Folio 0164 (verso)) — Verso bianco della tavola d'alfabeto (0164)
+===================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0163) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0163 nell'edizione Paganini 1509.]*

@@ -1,0 +1,24 @@
+Folio 0237 (Plate Folio 0237 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0236.rst``): Folio Plate Folio 0236 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0236)
+- **Current Folio** (``0237.rst``): Folio Plate Folio 0237 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XXIIII — Icosahedron Abscisum Vacuum (Hollow Truncated Icosahedron)
+- **Following Folio** (``0238.rst``): Folio Plate Folio 0238 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0238)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0237.png``:
+
+- **``g1``** (``0237.g1.png``): Type ``plate`` | Caption: *Plate XXIIII: Icosahedron Abscisum Vacuum (Εἰκοσάεδρον ἀποτετμημένον κενόν) — Hollow Truncated Icosahedron* | Bounding Box ``[x=0, y=64, w=773, h=1414]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0237 (recto)`` (Scan page ``237``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XXIIII`` (Plate No. ``24``) | Latin Cartouche: *Icosahedron Abscisum Vacuum* | Greek Cartouche: Εἰκοσάεδρον ἀποτετμημένον κενόν

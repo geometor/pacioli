@@ -1,0 +1,22 @@
+Folio 0003 (Flyleaf 2r) — Transcription & Graphic Calibration Notes
+===================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0002.rst``): Folio Flyleaf 1v (verso), Front Matter and Dedications — Flyleaf (Flyleaf 1v)
+- **Current Folio** (``0003.rst``): Folio Flyleaf 2r (recto), Front Matter and Dedications [``00_front_matter``] — Flyleaf (Flyleaf 2r)
+- **Following Folio** (``0004.rst``): Folio Flyleaf 2v (verso), Front Matter and Dedications — Flyleaf (Flyleaf 2v)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``)``
+- **Folio Signature / Numeration**: ``Flyleaf 2r`` (Scan page ``3``, *recto*)
+- **Book & Section Slug**: Front Matter and Dedications (``00_front_matter``)
+- **Leaf Category**: Flyleaf (Flyleaf 2r)

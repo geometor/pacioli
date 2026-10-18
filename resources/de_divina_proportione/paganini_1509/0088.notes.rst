@@ -1,0 +1,31 @@
+Folio 0088 (Libellus f. 2v) — Transcription & Graphic Calibration Notes
+=======================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0087.rst``): Folio Libellus f. 2r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Primus (Libellus f. 2r)
+- **Current Folio** (``0088.rst``): Folio Libellus f. 2v (verso), Part III: Libellus in tres partiales tractatus divisus [``03_libellus``] — Libellus — Tractatus Primus (Libellus f. 2v)
+- **Following Folio** (``0089.rst``): Folio Libellus f. 3r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Primus (Libellus f. 3r)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **6** woodcut element(s) were extracted and calibrated from ``0088.png``:
+
+- **``g1``** (``0088.g1.png``): Type ``diagram`` | Caption: *Folio 0088 Diagram 1* | Bounding Box ``[x=53, y=67, w=331, h=326]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g2``** (``0088.g2.png``): Type ``diagram`` | Caption: *Folio 0088 Diagram 2* | Bounding Box ``[x=46, y=450, w=338, h=325]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g3``** (``0088.g3.png``): Type ``diagram`` | Caption: *Folio 0088 Diagram 3* | Bounding Box ``[x=60, y=812, w=319, h=341]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``c1``** (``0088.c1.png``): Type ``initial`` | Caption: *Folio 0088 Initial Cap 1* | Bounding Box ``[x=402, y=380, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c2``** (``0088.c2.png``): Type ``initial`` | Caption: *Folio 0088 Initial Cap 2* | Bounding Box ``[x=404, y=700, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+- **``c3``** (``0088.c3.png``): Type ``initial`` | Caption: *Folio 0088 Initial Cap 3* | Bounding Box ``[x=407, y=978, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``TRjACTATVS``
+- **Folio Signature / Numeration**: ``Libellus f. 2v`` (Scan page ``88``, *verso*)
+- **Book & Section Slug**: Part III: Libellus in tres partiales tractatus divisus (``03_libellus``)
+- **Chapter Boundaries & Winterberg 1889 Concordance**:
+  - **Prohemio (Dedication)** (``None/None``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``N/A``
+  - **Prohemio (Dedication)** (``None/None``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``N/A``

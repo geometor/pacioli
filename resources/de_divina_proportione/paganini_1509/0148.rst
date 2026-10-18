@@ -1,15 +1,13 @@
 :folio: 0148
+:page: Plate Folio 0148 (verso)
 :page_num: 148
 :side: verso
-:original_folio: Plate Folio 0148 (verso)
+:volume: I
 :book: Appendix I: The Roman Geometric Alphabet
-:chapters: None
-:graphics: None
+:section: 04_alphabet
+:title: Verso bianco della tavola d'alfabeto (0148)
 
-Folio 0148 (Plate Folio 0148 (verso)) — Alphabet Plate Verso (0148)
-===================================================================
+Folio 0148 (Plate Folio 0148 (verso)) — Verso bianco della tavola d'alfabeto (0148)
+===================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0147) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0147 nell'edizione Paganini 1509.]*

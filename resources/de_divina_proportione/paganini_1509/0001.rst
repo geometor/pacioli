@@ -1,15 +1,13 @@
 :folio: 0001
+:page: Flyleaf 1r
 :page_num: 1
 :side: recto
-:original_folio: Flyleaf 1r
+:volume: I
 :book: Front Matter and Dedications
-:chapters: None
-:graphics: None
+:section: 00_front_matter
+:title: Flyleaf (Flyleaf 1r)
 
 Folio 0001 (Flyleaf 1r) — Flyleaf (Flyleaf 1r)
 ==============================================
 
-Folio Description
------------------
-
-Blank leaf / flyleaf (Flyleaf 1r) in the 1509 Venice witness (*Paganinus de Paganinis de Brixia*).
+*[Carta bianca / guardia (Flyleaf 1r) nell'edizione veneziana di Paganino de' Paganini, 1509.]*

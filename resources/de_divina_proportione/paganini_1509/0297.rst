@@ -1,20 +1,17 @@
 :folio: 0297
+:page: Plate Folio 0297 (recto)
 :page_num: 297
 :side: recto
-:original_folio: Plate Folio 0297 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0297.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula LIII — Columna Laterata Exagona Solida (Κίων πλευρώδης ἑξάγωνος στερεός)
 
-Folio 0297 (Plate Folio 0297 (recto)) — Plate LIII — Columna Laterata Exagona Solida (Solid Hexagonal Prism)
-============================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0297 (Plate Folio 0297 (recto)) — Tabula LIII — Columna Laterata Exagona Solida (Κίων πλευρώδης ἑξάγωνος στερεός)
+=======================================================================================================================
 
 .. picture:: 0297.g1.png
-
-   **g1 (plate)**: Plate LIII: Columna Laterata Exagona Solida (Κίων πλευρώδης ἑξάγωνος στερεός) — Solid Hexagonal Prism
+   :alt: Tabula LIII: Columna Laterata Exagona Solida (Κίων πλευρώδης ἑξάγωνος στερεός)
 
 Tabula LIII (No. 53)
 --------------------

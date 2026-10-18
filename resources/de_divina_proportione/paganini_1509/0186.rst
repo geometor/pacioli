@@ -1,15 +1,13 @@
 :folio: 0186
+:page: Plate Folio 0186 (verso)
 :page_num: 186
 :side: verso
-:original_folio: Plate Folio 0186 (verso)
+:volume: I
 :book: Appendix I: The Roman Geometric Alphabet
-:chapters: None
-:graphics: None
+:section: 04_alphabet
+:title: Verso bianco della tavola d'alfabeto (0186)
 
-Folio 0186 (Plate Folio 0186 (verso)) — Alphabet Plate Verso (0186)
-===================================================================
+Folio 0186 (Plate Folio 0186 (verso)) — Verso bianco della tavola d'alfabeto (0186)
+===================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0185) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0185 nell'edizione Paganini 1509.]*

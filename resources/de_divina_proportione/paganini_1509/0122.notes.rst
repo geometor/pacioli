@@ -1,0 +1,24 @@
+Folio 0122 (Libellus f. 19v) — Transcription & Graphic Calibration Notes
+========================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0121.rst``): Folio Libellus f. 19r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 19r)
+- **Current Folio** (``0122.rst``): Folio Libellus f. 19v (verso), Part III: Libellus in tres partiales tractatus divisus [``03_libellus``] — Libellus — Tractatus Tertius (Libellus f. 19v)
+- **Following Folio** (``0123.rst``): Folio Libellus f. 20r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Tertius (Libellus f. 20r)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0122.png``:
+
+- **``c1``** (``0122.c1.png``): Type ``initial`` | Caption: *Folio 0122 Initial Cap 1* | Bounding Box ``[x=410, y=964, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``TRACTATVS``
+- **Folio Signature / Numeration**: ``Libellus f. 19v`` (Scan page ``122``, *verso*)
+- **Book & Section Slug**: Part III: Libellus in tres partiales tractatus divisus (``03_libellus``)
+- **Leaf Category**: Libellus — Tractatus Tertius (Libellus f. 19v)

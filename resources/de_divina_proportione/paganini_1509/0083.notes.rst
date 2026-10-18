@@ -1,0 +1,22 @@
+Folio 0083 (f. 34r) — Transcription & Graphic Calibration Notes
+===============================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0082.rst``): Folio f. 33v (verso), Part II: Tractato de l'Architectura — Cap. XX (f. 33v) — Dele colonne situate sopra altre coione nelli hedifitii
+- **Current Folio** (``0083.rst``): Folio f. 34r (recto), Part II: Tractato de l'Architectura [``02_architectura``] — Blank Leaf (f. 34r)
+- **Following Folio** (``0084.rst``): Folio f. 34v (verso), Part II: Tractato de l'Architectura — Blank Leaf (f. 34v)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``f. 34r`` (Scan page ``83``, *recto*)
+- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Leaf Category**: Blank Leaf (f. 34r)

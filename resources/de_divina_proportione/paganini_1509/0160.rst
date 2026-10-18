@@ -1,15 +1,13 @@
 :folio: 0160
+:page: Plate Folio 0160 (verso)
 :page_num: 160
 :side: verso
-:original_folio: Plate Folio 0160 (verso)
+:volume: I
 :book: Appendix I: The Roman Geometric Alphabet
-:chapters: None
-:graphics: None
+:section: 04_alphabet
+:title: Verso bianco della tavola d'alfabeto (0160)
 
-Folio 0160 (Plate Folio 0160 (verso)) — Alphabet Plate Verso (0160)
-===================================================================
+Folio 0160 (Plate Folio 0160 (verso)) — Verso bianco della tavola d'alfabeto (0160)
+===================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0159) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0159 nell'edizione Paganini 1509.]*

@@ -1,20 +1,17 @@
 :folio: 0243
+:page: Plate Folio 0243 (recto)
 :page_num: 243
 :side: recto
-:original_folio: Plate Folio 0243 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0243.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula XXVII — Dodecahedron Planum Solidum (Δωδεκάεδρον ἐπίπεδον στερεόν)
 
-Folio 0243 (Plate Folio 0243 (recto)) — Plate XXVII — Dodecahedron Planum Solidum (Solid Regular Dodecahedron)
-==============================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0243 (Plate Folio 0243 (recto)) — Tabula XXVII — Dodecahedron Planum Solidum (Δωδεκάεδρον ἐπίπεδον στερεόν)
+=================================================================================================================
 
 .. picture:: 0243.g1.png
-
-   **g1 (plate)**: Plate XXVII: Dodecahedron Planum Solidum (Δωδεκάεδρον ἐπίπεδον στερεόν) — Solid Regular Dodecahedron
+   :alt: Tabula XXVII: Dodecahedron Planum Solidum (Δωδεκάεδρον ἐπίπεδον στερεόν)
 
 Tabula XXVII (No. 27)
 ---------------------

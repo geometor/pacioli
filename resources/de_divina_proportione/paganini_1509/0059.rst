@@ -1,39 +1,32 @@
 :folio: 0059
+:page: f. 22r
 :page_num: 59
 :side: recto
-:original_folio: f. 22r
+:volume: I
 :book: Part I: Compendio de Divina Proportione
-:chapters: compendio/cap_69 (Cap. LXIX), compendio/cap_70 (Cap. LXX), compendio/cap_71 (Cap. LXXI)
-:graphics: 0059.g1.png, 0059.c1.png
+:section: 01_compendio
+:title: Cap. LXIX, Cap. LXX, Cap. LXXI (f. 22r) — Dela mesura de tutti li altri corpi regulari e dependen
 
 Folio 0059 (f. 22r) — Cap. LXIX, Cap. LXX, Cap. LXXI (f. 22r) — Dela mesura de tutti li altri corpi regulari e dependen
 =======================================================================================================================
 
-Woodcut Graphics & Illuminated Initials
----------------------------------------
-
 .. picture:: 0059.g1.png
-
-   **g1 (diagram)**: Folio 0059 Diagram 1
+   :alt: Folio 0059 Figura g1
 
 .. picture:: 0059.c1.png
-
-   **c1 (initial)**: Folio 0059 Initial Cap 1
-
-Testo Italiano (Paganini 1509 / Winterberg 1889)
-------------------------------------------------
+   :alt: Folio 0059 Capolettera c1
 
 Cap. LXIX: Dela mesura de tutti li altri corpi regulari e dependenti. (continuatio)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------------------------------------
 
 Pero non con manco conuenientia che Octauiano el suo tempio in Roma dela pace vniuersal si fesse quella el suo sacratissimo de gratie a memoria de tante in sua inclita cita de Milano ha constructo, E quello ala giornata in tutti modi adornarlo non se rende satia e a ogni sua oportuna indigentia suuenirlo. E questo sucinto discorso prego lectore che aladulatione non latribuesca. dala quale si per natura comrao per la professione so altutto alieno. Peroche saltro fessi non rnanco tu de inuidia e liuore a suo celsitudine che io de adulatione conuincto seresti non prendendo admiratione de tante sue excellentie e celesti doni, sed quod oculis vidimus testamur. e non solo a questo ma con tutta la mia sacratissima seraphica religione col suo precipuo e singular capo e pastore reuerendissimo nostro padre M. Francesco sansone da Brescia di quella dignissimo generale nel nostro general capitolo de lanno presente qui in sua inclita cita de Milano celebrato al quale grandissimo numero de famosissimi e celeberrimi in sacra theologia e altre scientie doctori e bacelieri de 1. son. "9 tutto luniuerso e de ogni natione que sub celo est. Nel qual assidue ogni de cathedrali e publiche disputationi foron facte con la presentia sempre dela imensa humanita e deuota ali suoi serui condescensione de sua Ducale celsitudine insiemi con la reuerendissima Signoria de monsignore suo cognato Hipolyto tituli sancte Lucie in Salice dyacono Cardinale Estense e moltaltra de suo ornatissimo magistrato comitiua. Lascio la vberta e laffluente habundantia in ogni cosa dale mane de Sua Ducale celsitudine ala sustentatione de tanta multitudine emanata laqual non che ali alora presenti ma ancora ali posteri per molti mesi fo bastante. Per la cui salute e felice stato tutta la turba minore alaltissimo sue preci congionte mani expande. E particularmente Jo indegno e miser peccatore che di continuo a vostra Ducal celsitudine se recommanda.
 
 Cap. LXX: Commo se habino aretrouare tutti li corpi ordinatamente commo sonno posti in questo facti in prospectiua e ancora le lor forme materiali secondo la lor taula particulare posta patente in publico.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Perche doue non e ordine sempre fia confusione pero per piena intelligentia de questo nostro compendio per saper retrouare tutte le proprie figure in prospectiuo aspecto in questo proposte e anco le materiali dopo lor publica taula la vostro celsitudine obseruara questo modo, cioè quando legiarete disopra in lor capitoli de lor creationi e formationi guardarete in quale luogo del libro il numero segnato per abaco, antico, cioè cosi comenzando dal i. al 48. capitolo dicendo. I. II. III. IV. V. e sequendo fine alor termine. E quel medesimo numero aponto farete de trouare denanze doue in questo dicti corpi sonno per ordine tutti figurati. El qual numero similmente in quel luogo sira posto, referendo I. a I e II. a II. e III. a IIL e cosi in tutti. E quella tal figura sira del dicto corpo facto in piano con tutta perfectione de prospectiua commo sa el nostro Lionardo vinci. E questi medesimi numeri ancora recercarete fra le forme materiali de dicti corpi pendenti con lor nome in greco e in latino posti in vn breue sopra ciascuno afixo nel suo cordiglio fra doi ambre negre, pur referendo ognuno commo e dicto al numero li posto doue di quel tal se tracta. e Vostra celsitudine, aluno e alaltro modo bara lor dispositioni. Lequali non de vii materia (comrao per inopia a me e stato forza) ma de pretioso metallo e fine gemme meritarieno essere ornati. Ma la vostra celsitudine considerara lo effecto e lanimo nel suo perpetuo seruo.
 
 Cap. LXXI: De quello se intenda per questi vocabuli fra le mathematici vsitati cioè ypothesi ypothumissa corausto cono pyramidale corda pentagonica perpendiculare catheto dyametro paralelo- grammo dyagonale centro saetta.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Sonno alcuni vocabuli excelso Duca inducti dali sapienti fra le mathematici discipline per intelligentia de lor parti acio in ninna se habia 'equiuocare li quali achi in epso non fosse molto experto darebono noia, e sopra in questo nostro compendio spesso inserti commo hauerete legendo trouato. E per non deuiare dali antichi li auemo obseruati. Deli quali non senza vtilita mi par qui sucinte al lectore dar notitia. E prima dela ypothesi. Per la ypothesi se deue intendere el presuposito amesso e concesso fra le parti auctore e aduersario mediante el quale se intende concludere, e negato non sequita conclusione. E pero non se costuma a meterlo sei non e possibile. Per la ypothumissa in tutte le figure rectilinee maxime se intende la linea che al magior angulo de quelle fia opposita.

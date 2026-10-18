@@ -1,0 +1,22 @@
+Folio 0226 (Plate Folio 0226 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0225.rst``): Folio Plate Folio 0225 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XVIII — Octahedron Abscisum Vacuum (Hollow Truncated Octahedron)
+- **Current Folio** (``0226.rst``): Folio Plate Folio 0226 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0226)
+- **Following Folio** (``0227.rst``): Folio Plate Folio 0227 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XIX — Octahedron Elevatum Solidum (Solid Elevated Octahedron (Stella Octangula))
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0226 (verso)`` (Scan page ``226``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0226)

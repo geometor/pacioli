@@ -1,0 +1,22 @@
+Folio 0298 (Plate Folio 0298 (verso)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0297.rst``): Folio Plate Folio 0297 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate LIII — Columna Laterata Exagona Solida (Solid Hexagonal Prism)
+- **Current Folio** (``0298.rst``): Folio Plate Folio 0298 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0298)
+- **Following Folio** (``0299.rst``): Folio Plate Folio 0299 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate LIIII — Columna Laterata Exagona Vacua (Hollow Hexagonal Prism)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+- No woodcut diagrams or illuminated initials are extracted on this folio.
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0298 (verso)`` (Scan page ``298``, *verso*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Leaf Category**: Polyhedra Plate Verso (0298)

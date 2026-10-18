@@ -1,15 +1,13 @@
 :folio: 0292
+:page: Plate Folio 0292 (verso)
 :page_num: 292
 :side: verso
-:original_folio: Plate Folio 0292 (verso)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: None
+:section: 05_polyhedra_plates
+:title: Verso bianco della tavola dei corpi (0292)
 
-Folio 0292 (Plate Folio 0292 (verso)) — Polyhedra Plate Verso (0292)
-====================================================================
+Folio 0292 (Plate Folio 0292 (verso)) — Verso bianco della tavola dei corpi (0292)
+==================================================================================
 
-Verso
------
-
-Carta bianca (verso della tavola 0291) nell'edizione Paganini 1509.
+*[Carta bianca — verso della tavola 0291 nell'edizione Paganini 1509.]*

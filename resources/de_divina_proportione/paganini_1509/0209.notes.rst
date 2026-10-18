@@ -1,0 +1,24 @@
+Folio 0209 (Plate Folio 0209 (recto)) — Transcription & Graphic Calibration Notes
+=================================================================================
+
+Summary & Folio Continuity
+--------------------------
+
+- **Preceding Folio** (``0208.rst``): Folio Plate Folio 0208 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0208)
+- **Current Folio** (``0209.rst``): Folio Plate Folio 0209 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XII — Exahedron Elevatum Vacuum (Hollow Elevated Hexahedron)
+- **Following Folio** (``0210.rst``): Folio Plate Folio 0210 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0210)
+
+Graphic Extraction & Calibration
+--------------------------------
+
+A total of **1** woodcut element(s) were extracted and calibrated from ``0209.png``:
+
+- **``g1``** (``0209.g1.png``): Type ``plate`` | Caption: *Plate XII: Exahedron Elevatum Vacuum (Ἑξάεδρον ἐπηρμένον κενόν) — Hollow Elevated Hexahedron* | Bounding Box ``[x=0, y=172, w=836, h=931]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+
+Diplomatic & Textual Observations
+---------------------------------
+
+- **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
+- **Folio Signature / Numeration**: ``Plate Folio 0209 (recto)`` (Scan page ``209``, *recto*)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XII`` (Plate No. ``12``) | Latin Cartouche: *Exahedron Elevatum Vacuum* | Greek Cartouche: Ἑξάεδρον ἐπηρμένον κενόν

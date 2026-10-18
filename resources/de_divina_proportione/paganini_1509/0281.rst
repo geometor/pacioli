@@ -1,20 +1,17 @@
 :folio: 0281
+:page: Plate Folio 0281 (recto)
 :page_num: 281
 :side: recto
-:original_folio: Plate Folio 0281 (recto)
+:volume: I
 :book: Appendix II: Polyhedra Plates by Leonardo da Vinci
-:chapters: None
-:graphics: 0281.g1.png
+:section: 05_polyhedra_plates
+:title: Tabula XLVI — Columna Laterata Quadrangula Vacua (Κίων πλευρώδης τετράγωνος κενός)
 
-Folio 0281 (Plate Folio 0281 (recto)) — Plate XLVI — Columna Laterata Quadrangula Vacua (Hollow Quadrangular Prism)
-===================================================================================================================
-
-Woodcut Graphics & Illuminated Initials
----------------------------------------
+Folio 0281 (Plate Folio 0281 (recto)) — Tabula XLVI — Columna Laterata Quadrangula Vacua (Κίων πλευρώδης τετράγωνος κενός)
+==========================================================================================================================
 
 .. picture:: 0281.g1.png
-
-   **g1 (plate)**: Plate XLVI: Columna Laterata Quadrangula Vacua (Κίων πλευρώδης τετράγωνος κενός) — Hollow Quadrangular Prism
+   :alt: Tabula XLVI: Columna Laterata Quadrangula Vacua (Κίων πλευρώδης τετράγωνος κενός)
 
 Tabula XLVI (No. 46)
 --------------------
