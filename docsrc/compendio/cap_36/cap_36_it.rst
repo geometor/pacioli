@@ -14,4 +14,4 @@ CAPITOLO XXXVI (Italiano — 1509)
 .. folio:: 0041 (f. 13r)
    :initial: 0041.c1.png
 
-Euolendo locto basi cioè octocedron nelo exacedron formare. Prima bisogna nel cubo hauere la pyramide triangula equilatera fabricata li cui lati commo fo detto sonno li 6 diametri dele sue basi. Epero se cadauno de dicti diametri per equali diuideremo equeUi ponti medii con linee recte luno con laltro congiongneremo senza dubio nel proposto cubo fia aponto lo octocedron formato e ogni suo angulo solido aponto si fermerà nele basi de dicto cubo per la 3. del i5.
+Euolendo locto basi cioè :term:`octocedron <octahedron>` nelo :term:`exacedron <exahedron>` formare. Prima bisogna nel cubo hauere la pyramide triangula equilatera fabricata li cui lati commo fo detto sonno li 6 diametri dele sue basi. Epero se cadauno de dicti diametri per equali diuideremo equeUi ponti medii con linee recte luno con laltro congiongneremo senza dubio nel proposto cubo fia aponto lo :term:`octocedron <octahedron>` formato e ogni suo :term:`angulo solido <angulo-solido>` aponto si fermerà nele basi de dicto cubo per la 3. del i5.

@@ -14,6 +14,4 @@ CAPITEL XXXVII (Deutsch — Winterberg 1889)
 .. folio:: 0041 (f. 13r)
    :initial: 0041.c1.png
 
-Das Hexaeder oder der Kubus wird auf folgende Art ins Oktaeder einbeschrieben werden. Zuerst werden wir auf Grund der vorher in diesem Tractat gegebenen Lehren das genannte Oktaeder bilden. Nachdem dies so hergestellt, so finde von jeder seiner Dreiecksflächen nach der fünften des vierten ihr Gentrum. Diese acht Mittelpunkte werden wir sodann mit einander durch zwölf gerade Linien verbinden, und erhalten so den beabsich-
-
-tigren Umschlossenen. Und jede körperliche Ecke des Kubus wird auf der Basis des genannten Oktaeders stehen, wie es die vierte des fünfzehnten erklärt.
+Das :term:`Hexaeder <exahedron>` oder der Kubus wird auf folgende Art ins :term:`Oktaeder <octahedron>` einbeschrieben werden. Zuerst werden wir auf Grund der vorher in diesem Tractat gegebenen Lehren das genannte :term:`Oktaeder <octahedron>` bilden. Nachdem dies so hergestellt, so finde von jeder seiner Dreiecksflächen nach der fünften des vierten ihr Centrum. Diese acht Mittelpunkte werden wir sodann mit einander durch zwölf gerade Linien verbinden, und erhalten so den beabsichtigren Umschlossenen. Und jede körperliche Ecke des Kubus wird auf der Basis des genannten :term:`Oktaeders <octahedron>` stehen, wie es die vierte des fünfzehnten erklärt.

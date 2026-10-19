@@ -13,4 +13,4 @@ Folio 0143 (Plate Folio 0143 (recto)) — Roman Geometric Alphabet — Lettera C
 .. picture:: 0143.g1.png
    :alt: Folio 0143 Tavola g1
 
-Questa lettera C se cava del tondo e del suo quadro ingrossando la quarta parte de fore e ancora de dentro. La testa desopra fenisci sopra la croci del diametro e circonferentia. Quella desotto passando la croci mezo nono apresso la costa del quadrato comme apare in la figura e cavasi comme uno O.
+Questa lettera C se cava del tondo e del suo quadro ingrossando la quarta parte de fore e ancora de dentro. La testa desopra fenisci sopra la croci del diametro e :term:`circonferentia <circonferentia>`. Quella desotto passando la croci mezo nono apresso la costa del quadrato comme apare in la figura e cavasi comme uno O.

@@ -14,7 +14,7 @@ CHAPTER XXXVII — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Duality of Cube and Octahedron**: Campanus XV.3 (``Cap. XXXVII``) and XV.4 (``Cap. XXXVIII``) establish the reciprocal duality between the cube (6 faces, 8 vertices, 12 edges) and the octahedron (8 faces, 6 vertices, 12 edges): the centers of the 6 faces of the cube are the 6 vertices of the inscribed octahedron, with :math:`s_{\text{octa}} = \frac{\sqrt{2}}{2} s_{\text{cube}}`.
+- **Duality of Cube and Octahedron**: :cite:`Campanus XV.3 <campanus:euclid:XV.3>` (``Cap. XXXVII``) and XV.4 (``Cap. XXXVIII``) establish the reciprocal duality between the cube (6 faces, 8 vertices, 12 edges) and the :term:`octahedron <octahedron>` (8 faces, 6 vertices, 12 edges): the centers of the 6 faces of the cube are the 6 vertices of the inscribed :term:`octahedron <octahedron>`, with :math:`s_{\text{octa}} = \frac{\sqrt{2}}{2} s_{\text{cube}}`.
 
 Philological and Folio Apparatus
 --------------------------------

@@ -5,8 +5,8 @@ Summary & Folio Continuity
 --------------------------
 
 - **Preceding Folio** (``0075.rst``): Folio f. 30r (recto), Part II: Tractato de l'Architectura — Cap. VIII, Cap. IX (f. 30r) — Doue ora se trouino colonne più debitamente facte per I
-- **Current Folio** (``0076.rst``): Folio f. 30v (verso), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. IX, Cap. X, Cap. XI (f. 30v) — Dele colonne laterate.
-- **Following Folio** (``0077.rst``): Folio f. 31r (recto), Part II: Tractato de l'Architectura — Cap. XII (f. 31r) — De lordini dele colonne rotonde comme se debino nelli h
+- **Current Folio** (``0076.rst``): Folio f. 30v (verso), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. IX, Cap. X, Cap. XI (f. 30v) — Dele :term:`colonne laterate <colonna-laterata>`.
+- **Following Folio** (``0077.rst``): Folio f. 31r (recto), Part II: Tractato de l'Architectura — Cap. XII (f. 31r) — De lordini dele :term:`colonne rotonde <colonna-rotonda>` comme se debino nelli h
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -23,6 +23,34 @@ Diplomatic & Textual Observations
 - **Folio Signature / Numeration**: ``f. 30v`` (Scan page ``76``, *verso*)
 - **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. IX** (``architectura/cap_09``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/009_cap_IX.txt``
-  - **Cap. X** (``architectura/cap_10``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/010_cap_X.txt``
-  - **Cap. XI** (``architectura/cap_11``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/011_cap_XI.txt``
+  - **Cap. IX** (``architectura/cap_09``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/009_cap_IX.txt``
+  - **Cap. X** (``architectura/cap_10``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/010_cap_X.txt``
+  - **Cap. XI** (``architectura/cap_11``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/011_cap_XI.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. IX — On Lateral (Prismatic) Columns in Architecture, and on the Quadrature of the Circle.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Aristotle on the Quadrature of the Circle (*Categories* 7b31)**: Pacioli quotes the classic Scholastic formulation of Aristotle, *Categories* 7 (7b30–33): *Quadratura circuli, si est scibilis, scientia quidem eius nondum est, ipsum vero scibile est* ("The squaring of the circle, if it is knowable, is an object of knowledge even though the knowledge of it does not yet exist"). Notice Pacioli's intriguing hint (*"Forse in questo dì è nato chi la darà"*, "Perhaps today the man has already been born who will give it")—likely an allusion to **Leonardo da Vinci's** intense researches on lunules and the quadrature of curved surfaces (*De ludo geometrico*), which Leonardo was pursuing during their years together!
+
+Cap. X — On Round and Lateral Pyramids in Architecture, and Praise of Leonardo da Vinci's Incomparable Drawings.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Weight (*Al Peso*) and Volume (*Ala Mesura*)**: Because the stonemasons of Sansepolcro needed to calculate the **dead weight** (*peso*) of stone spires, obelisks, and pyramidal roofs resting upon columns and walls, Pacioli points out that for homogeneous stone, Euclid's :math:`\frac{1}{3}` volume ratio (Euclid XII.7, Euclid XII.10) is simultaneously a **weight ratio**: a stone pyramid or cone weighs exactly one-third as much as a solid stone prism or cylinder of the same base and height!
+
+Cap. XI — On the Origin of the Letters of Every Nation, Egyptian Hieroglyphs on Roman Obelisks, the Anecdote on the Piazza San Marco in Venice, and Tribute to the Late Cardinal Galeotto Franciotti della Rovere.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Egyptian Hieroglyphs Before the Pantheon**: During the 15th and early 16th centuries, before Pope Clement VII and later Sixtus V moved them, the Piazza della Rotonda in front of the :term:`**Pantheon** <rotonda-pantheon>` contained an ancient Roman porphyry basin/sarcophagus (later reused by Clement XII as his tomb in the Lateran) flanked by **two Egyptian black granite lions of Pharaoh Nectanebo I** (now in the Museo Gregoriano Egizio at the Vatican) and a small **Egyptian obelisk of Ramesses II** (now at the Piazza della Rotonda fountain) covered in hieroglyphs! Pacioli's keen visual inventory of the hieroglyphic signs (*feathers, knives, animals, sandals, birds, ewers*) on Folio 0076 (``f. 30v``) reflects the intense Renaissance humanist fascination with Egyptian hieroglyphs (Horapollo's *Hieroglyphica*, printed by Aldus Manutius in Venice in 1505, and Francesco Colonna's *Hypnerotomachia Poliphili*, 1499).
+- **Cardinal Galeotto Franciotti della Rovere (1471–1507)**: Favorite nephew of **Pope Julius II**, appointed Cardinal Priest of San Pietro in Vincoli and Vice-Chancellor of the Roman Church in 1503–1505, and Bishop of Vicenza. His sudden death in Rome on **September 11, 1507** at age 35 deprived Pacioli of his chief curial patron just as Pacioli was preparing his 1508–1509 Venetian publications (the 1508 lecture on :person:`Euclid <euclid>` Book V at San Bartolomeo di Rialto, the 1509 Latin edition of :person:`Euclid <euclid>`'s *Elements*, and the 1509 *De Divina Proportione*).

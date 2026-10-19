@@ -14,8 +14,8 @@ CHAPTER XXXI — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Paganini 1509 Marginal Diagram**: Folio 0036 (``f. 10v``) contains the famous master diagram ``0036.g1.png`` of :just:`XIII.18`, displaying the semicircle with all five edges (:math:`ad` = tetrahedron, :math:`fb` = octahedron, :math:`db` = cube, :math:`ah` = icosahedron, :math:`dm` = dodecahedron).
-- **Pacioli's Observation on Campanus's Ordering ("Not Without Mystery")**: Pacioli astutely explains why Campanus of Novara placed the Cube (Campanus XIII.14) immediately after the Tetrahedron (XIII.13) and before the Octahedron (Campanus XIII.15): the single trisection point :math:`c` (:math:`ac = 2\,cb`) on diameter :math:`ab` gives the tetrahedron edge :math:`ad` as the longer chord and the cube edge :math:`db` as the shorter chord in the very same right triangle :math:`adb`!
+- **Paganini 1509 Marginal Diagram**: Folio 0036 (``f. 10v``) contains the famous master diagram ``0036.g1.png`` of :cite:`Euclid XIII.18 <euclid:elements:XIII.18>`, displaying the semicircle with all five edges (:math:`ad` = :term:`tetrahedron <tetrahedron>`, :math:`fb` = :term:`octahedron <octahedron>`, :math:`db` = cube, :math:`ah` = :term:`icosahedron <icosahedron>`, :math:`dm` = :term:`dodecahedron <dodecahedron>`).
+- **Pacioli's Observation on Campanus's Ordering ("Not Without Mystery")**: Pacioli astutely explains why :person:`Campanus of Novara <campanus>` placed the Cube (:cite:`Campanus XIII.14 <campanus:euclid:XIII.14>`) immediately after the :term:`Tetrahedron <tetrahedron>` (XIII.13) and before the :term:`Octahedron <octahedron>` (:cite:`Campanus XIII.15 <campanus:euclid:XIII.15>`): the single trisection point :math:`c` (:math:`ac = 2\,cb`) on diameter :math:`ab` gives the :term:`tetrahedron <tetrahedron>` edge :math:`ad` as the longer chord and the cube edge :math:`db` as the shorter chord in the very same right triangle :math:`adb`!
 
 Philological and Folio Apparatus
 --------------------------------

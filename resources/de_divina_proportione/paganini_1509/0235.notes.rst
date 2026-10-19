@@ -4,9 +4,9 @@ Folio 0235 (Plate Folio 0235 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0234.rst``): Folio Plate Folio 0234 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0234)
-- **Current Folio** (``0235.rst``): Folio Plate Folio 0235 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XXIII — Icosahedron Abscisum Solidum (Solid Truncated Icosahedron)
-- **Following Folio** (``0236.rst``): Folio Plate Folio 0236 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0236)
+- **Preceding Folio** (``0234.rst``): Folio Plate Folio 0234 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0234)
+- **Current Folio** (``0235.rst``): Folio Plate Folio 0235 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate XXIII — :term:`Icosahedron Abscisum <icosahedron-abscisum>` :term:`Solidum <solidum>` (Solid Truncated :term:`Icosahedron <icosahedron>`)
+- **Following Folio** (``0236.rst``): Folio Plate Folio 0236 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0236)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0235 (recto)`` (Scan page ``235``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``XXIII`` (Plate No. ``23``) | Latin Cartouche: *Icosahedron Abscisum Solidum* | Greek Cartouche: Εἰκοσάεδρον ἀποτετμημένον στερεόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XXIII`` (Plate No. ``23``) | Latin Cartouche: :term:`*Icosahedron Abscisum Solidum* <icosahedron-abscisum>` | Greek Cartouche: :term:`Εἰκοσάεδρον ἀποτετμημένον <icosahedron-abscisum>` :term:`στερεόν <solidum>`

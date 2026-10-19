@@ -14,7 +14,7 @@ CHAPTER LXVI — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Epistemological Clarity on :math:`\pi \approx \frac{22}{7}` vs. :math:`V_{\text{cone}} = \frac{1}{3}V_{\text{cylinder}}`**: Pacioli makes a remarkably sharp mathematical distinction on Folio 0056 (``f. 20v``): while the *numerical* area of the circular base (:math:`\frac{11}{14}d^{2}`) is an Archimedean approximation (*per la ignorantia dela quadratura del cerchio*), the *proportional* theorem that the cone is **exactly one-third** (:math:`\frac{1}{3}`) of the cylinder (:just:`XII.10`, proved by Eudoxus's method of exhaustion) is **exact without the slightest error**!
+- **Epistemological Clarity on :math:`\pi \approx \frac{22}{7}` vs. :math:`V_{\text{cone}} = \frac{1}{3}V_{\text{cylinder}}`**: Pacioli makes a remarkably sharp mathematical distinction on Folio 0056 (``f. 20v``): while the *numerical* area of the circular base (:math:`\frac{11}{14}d^{2}`) is an Archimedean approximation (*per la ignorantia dela quadratura del cerchio*), the *proportional* theorem that the cone is **exactly one-third** (:math:`\frac{1}{3}`) of the cylinder (:cite:`Euclid XII.10 <euclid:elements:XII.10>`, proved by Eudoxus's method of exhaustion) is **exact without the slightest error**!
 
 Philological and Folio Apparatus
 --------------------------------

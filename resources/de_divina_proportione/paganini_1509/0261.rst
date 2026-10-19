@@ -16,5 +16,5 @@ Folio 0261 (Plate Folio 0261 (recto)) — Tabula XXXVI — Vigintisex Basium Pla
 Tabula XXXVI (No. 36)
 ---------------------
 
-- **Titulus Latinus**: *Vigintisex Basium Planum Vacuum*
-- **Titulus Graecus**: Εἰκοσιεξάεδρον ἐπίπεδον κενόν
+- **Titulus Latinus**: :term:`*Vigintisex Basium Planum Vacuum* <vigintisex-basium>`
+- **Titulus Graecus**: :term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`

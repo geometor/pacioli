@@ -14,7 +14,7 @@ CHAPTER LX — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Arabic-Latin Geometric Terminology (*Elmuaym* and *Elmuariffe*)**: In Adelard of Bath's, Gerard of Cremona's, and Campanus's Latin editions of Euclid :just:`I.Def.22`, the Arabic terms *al-mu'ayyan* (rhombus) and *al-munharif* (trapezium / irregular quadrilateral) were transliterated as *helmuaym*, *simile helmuaym* (rhomboid), and *helmuariphe* (*elmuariffe*). Pacioli preserves both the Greek/Italian terms (*rombo*, *romboide*, *irregulari*) and the Campanian Arabic-Latin terms (*elmuaym*, *elmuariffe*), illustrating each with lettered marginal woodcuts ``A, B, C, D, E`` on Folios 0053–0054.
+- **Arabic-Latin Geometric Terminology (*Elmuaym* and *:term:`Elmuariffe <elmuariffe>`*)**: In Adelard of Bath's, Gerard of Cremona's, and Campanus's Latin editions of Euclid Euclid I.Def.22, the Arabic terms *al-mu'ayyan* (rhombus) and *al-munharif* (trapezium / irregular quadrilateral) were transliterated as *helmuaym*, *simile helmuaym* (rhomboid), and *helmuariphe* (*:term:`elmuariffe <elmuariffe>`*). Pacioli preserves both the Greek/Italian terms (*rombo*, *romboide*, *irregulari*) and the Campanian Arabic-Latin terms (*elmuaym*, *:term:`elmuariffe <elmuariffe>`*), illustrating each with lettered marginal woodcuts ``A, B, C, D, E`` on Folios 0053–0054.
 - **Paganini 1509 Plates Referenced**:
   - **Plate XLVII** (``0285.rst``, Quadrilateral Prism, solid) and **Plate XLVIII** (``0287.rst``, Quadrilateral Prism, skeletal).
 

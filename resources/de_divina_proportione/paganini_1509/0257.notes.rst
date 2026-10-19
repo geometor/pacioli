@@ -4,9 +4,9 @@ Folio 0257 (Plate Folio 0257 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0256.rst``): Folio Plate Folio 0256 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0256)
-- **Current Folio** (``0257.rst``): Folio Plate Folio 0257 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XXXIIII — Dodecahedron Abscisum Elevatum Vacuum (Hollow Elevated Truncated Dodecahedron)
-- **Following Folio** (``0258.rst``): Folio Plate Folio 0258 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0258)
+- **Preceding Folio** (``0256.rst``): Folio Plate Folio 0256 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0256)
+- **Current Folio** (``0257.rst``): Folio Plate Folio 0257 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate XXXIIII — :term:`Dodecahedron Abscisum Elevatum <dodecahedron-abscisum-elevatum>` :term:`Vacuum <vacuum>` (Hollow Elevated Truncated :term:`Dodecahedron <dodecahedron>`)
+- **Following Folio** (``0258.rst``): Folio Plate Folio 0258 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0258)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0257 (recto)`` (Scan page ``257``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``XXXIIII`` (Plate No. ``34``) | Latin Cartouche: *Dodecahedron Abscisum Elevatum Vacuum* | Greek Cartouche: Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον κενόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XXXIIII`` (Plate No. ``34``) | Latin Cartouche: :term:`*Dodecahedron Abscisum Elevatum Vacuum* <dodecahedron-abscisum-elevatum>` | Greek Cartouche: :term:`Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον <dodecahedron-abscisum-elevatum>` :term:`κενόν <vacuum>`

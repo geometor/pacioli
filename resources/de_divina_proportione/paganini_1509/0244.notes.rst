@@ -4,9 +4,9 @@ Folio 0244 (Plate Folio 0244 (verso)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0243.rst``): Folio Plate Folio 0243 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXVII — Dodecahedron Planum Solidum (Solid Regular Dodecahedron)
-- **Current Folio** (``0244.rst``): Folio Plate Folio 0244 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0244)
-- **Following Folio** (``0245.rst``): Folio Plate Folio 0245 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXVIII — Dodecahedron Planum Vacuum (Hollow Regular Dodecahedron)
+- **Preceding Folio** (``0243.rst``): Folio Plate Folio 0243 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate XXVII — :term:`Dodecahedron <dodecahedron>` :term:`Planum <planum>` :term:`Solidum <solidum>` (Solid Regular :term:`Dodecahedron <dodecahedron>`)
+- **Current Folio** (``0244.rst``): Folio Plate Folio 0244 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Polyhedra Plate Verso (0244)
+- **Following Folio** (``0245.rst``): Folio Plate Folio 0245 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate XXVIII — :term:`Dodecahedron <dodecahedron>` :term:`Planum <planum>` :term:`Vacuum <vacuum>` (Hollow Regular :term:`Dodecahedron <dodecahedron>`)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,5 +18,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0244 (verso)`` (Scan page ``244``, *verso*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
 - **Leaf Category**: Polyhedra Plate Verso (0244)

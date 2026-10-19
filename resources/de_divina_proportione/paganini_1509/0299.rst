@@ -16,5 +16,5 @@ Folio 0299 (Plate Folio 0299 (recto)) — Tabula LIIII — Columna Laterata Exag
 Tabula LIIII (No. 54)
 ---------------------
 
-- **Titulus Latinus**: *Columna Laterata Exagona Vacua*
-- **Titulus Graecus**: Κίων πλευρώδης ἑξάγωνος κενός
+- **Titulus Latinus**: :term:`*Columna Laterata Exagona Vacua* <colonna-exagona>`
+- **Titulus Graecus**: :term:`Κίων πλευρώδης ἑξάγωνος <colonna-exagona>` κενός

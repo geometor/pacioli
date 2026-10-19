@@ -17,4 +17,4 @@ Tabula XLIX (No. 49)
 --------------------
 
 - **Titulus Latinus**: *Columna Laterata Penthagona Solida*
-- **Titulus Graecus**: Κίων πλευρώδης πεντάγωνος στερεός
+- **Titulus Graecus**: :term:`Κίων πλευρώδης πεντάγωνος <colonna-pentagona>` στερεός

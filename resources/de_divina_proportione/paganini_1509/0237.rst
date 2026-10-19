@@ -16,5 +16,5 @@ Folio 0237 (Plate Folio 0237 (recto)) — Tabula XXIIII — Icosahedron Abscisum
 Tabula XXIIII (No. 24)
 ----------------------
 
-- **Titulus Latinus**: *Icosahedron Abscisum Vacuum*
-- **Titulus Graecus**: Εἰκοσάεδρον ἀποτετμημένον κενόν
+- **Titulus Latinus**: :term:`*Icosahedron Abscisum Vacuum* <icosahedron-abscisum>`
+- **Titulus Graecus**: :term:`Εἰκοσάεδρον ἀποτετμημένον <icosahedron-abscisum>` :term:`κενόν <vacuum>`

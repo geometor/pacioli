@@ -4,9 +4,9 @@ Folio 0205 (Plate Folio 0205 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0204.rst``): Folio Plate Folio 0204 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0204)
-- **Current Folio** (``0205.rst``): Folio Plate Folio 0205 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate X — Exahedron Abscisum Vacuum (Hollow Truncated Hexahedron (Cuboctahedron))
-- **Following Folio** (``0206.rst``): Folio Plate Folio 0206 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0206)
+- **Preceding Folio** (``0204.rst``): Folio Plate Folio 0204 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0204)
+- **Current Folio** (``0205.rst``): Folio Plate Folio 0205 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate X — :term:`Exahedron Abscisum <exahedron-abscisum>` :term:`Vacuum <vacuum>` (Hollow Truncated :term:`Hexahedron <exahedron>` (:term:`Cuboctahedron <exahedron-abscisum>`))
+- **Following Folio** (``0206.rst``): Folio Plate Folio 0206 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0206)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0205 (recto)`` (Scan page ``205``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``X`` (Plate No. ``10``) | Latin Cartouche: *Exahedron Abscisum Vacuum* | Greek Cartouche: Ἑξάεδρον ἀποτετμημένον κενόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``X`` (Plate No. ``10``) | Latin Cartouche: :term:`*Exahedron Abscisum Vacuum* <exahedron-abscisum>` | Greek Cartouche: :term:`Ἑξάεδρον ἀποτετμημένον <exahedron-abscisum>` :term:`κενόν <vacuum>`

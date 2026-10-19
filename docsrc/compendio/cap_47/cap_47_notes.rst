@@ -14,8 +14,8 @@ CHAPTER XLVII — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Paganini 1509 Marginal Diagram**: Folio 0042 (``f. 13v``) includes diagram ``0042.g1.png`` illustrating the insphere construction of Campanus XV.13.
-- **Completion of the Classical Corpus (Books I–XV)**: With ``Cap. XLVII`` (Campanus XV.13), Pacioli completes his exposition of the entire Euclidean-Campanian canon of the five regular solids (:just:`XIII.1`–:just:`XIII.18`, :just:`XIV.1`–:just:`XIV.10`, and Campanus XV.1–13). Chapters ``XLVIII``–``LV`` now transition directly to **Leonardo da Vinci's** woodcut plates (Plates I–XL) and the semi-regular and stellated **dependent bodies** (*corpi dependenti*).
+- **Paganini 1509 Marginal Diagram**: Folio 0042 (``f. 13v``) includes diagram ``0042.g1.png`` illustrating the insphere construction of :cite:`Campanus XV.13 <campanus:euclid:XV.13>`.
+- **Completion of the Classical Corpus (Books I–XV)**: With ``Cap. XLVII`` (:cite:`Campanus XV.13 <campanus:euclid:XV.13>`), Pacioli completes his exposition of the entire Euclidean-Campanian canon of the five regular solids (:cite:`Euclid XIII.1 <euclid:elements:XIII.1>`–:cite:`Euclid XIII.18 <euclid:elements:XIII.18>`, :cite:`Euclid XIV.1 <euclid:elements:XIV.1>`–:cite:`Euclid XIV.10 <euclid:elements:XIV.10>`, and :cite:`Campanus XV.1–13 <campanus:euclid:XV.1–13>`). Chapters ``XLVIII``–``LV`` now transition directly to **Leonardo da Vinci's** woodcut plates (Plates I–XL) and the semi-regular and stellated **dependent bodies** (:term:`*corpi dependenti* <corpi-dependenti>`).
 
 Philological and Folio Apparatus
 --------------------------------

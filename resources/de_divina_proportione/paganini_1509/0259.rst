@@ -16,5 +16,5 @@ Folio 0259 (Plate Folio 0259 (recto)) — Tabula XXXV — Vigintisex Basium Plan
 Tabula XXXV (No. 35)
 --------------------
 
-- **Titulus Latinus**: *Vigintisex Basium Planum Solidum*
-- **Titulus Graecus**: Εἰκοσιεξάεδρον ἐπίπεδον στερεόν
+- **Titulus Latinus**: :term:`*Vigintisex Basium Planum Solidum* <vigintisex-basium>`
+- **Titulus Graecus**: :term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`

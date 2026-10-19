@@ -27,6 +27,16 @@ import re
 from pathlib import Path
 from typing import Any, Dict, List
 
+from translations_1_23 import CHAPTERS_1_TO_23
+from translations_24_55 import CHAPTERS_24_TO_55
+from translations_56_71 import CHAPTERS_56_TO_71
+from translations_architectura import ARCHITECTURA_CHAPTERS
+
+COMPENDIO_TRANSLATIONS: Dict[int, Dict[str, str]] = {
+    **CHAPTERS_1_TO_23,
+    **CHAPTERS_24_TO_55,
+    **CHAPTERS_56_TO_71,
+}
 
 ROOT = Path(__file__).resolve().parent.parent
 RES_DIR = ROOT / "resources" / "de_divina_proportione"
@@ -363,6 +373,19 @@ def build_folio_notes_rst(
                 f"  - **{clabel}** (``{c.get('part')}/{c.get('slug')}``): {status} | "
                 f"Winterberg 1889 Italian file: ``{wit_it}``"
             )
+        lines.append("")
+        lines.append(make_heading("Critical & Historical Commentary", "-"))
+        for c in chapters:
+            cnum = c.get("chapter", 0)
+            part = c.get("part", "compendio")
+            tr_map = COMPENDIO_TRANSLATIONS if part == "compendio" else ARCHITECTURA_CHAPTERS
+            tr_entry = tr_map.get(cnum, {})
+            notes_body = tr_entry.get("notes", "").strip()
+            if notes_body:
+                clabel = f"Cap. {c.get('roman', '')} — {tr_entry.get('title_en', '')}" if cnum > 0 else f"Prohemio — {tr_entry.get('title_en', '')}"
+                lines.append(make_heading(clabel, "~"))
+                lines.append(notes_body)
+                lines.append("")
     elif "plate" in finfo:
         pl = finfo["plate"]
         lines.append(

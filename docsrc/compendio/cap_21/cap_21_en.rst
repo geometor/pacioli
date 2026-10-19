@@ -39,11 +39,11 @@ CHAPTER XXI (English)
 
    These roots of sums [nested radicals] are called in geometry **lines having power over the said sums** (*linee potenti sopra dicti congionti*): that is, $\sqrt{250 - \sqrt{12500}}$ means a line whose *power* or square is equal to that exact sum ($250 - \sqrt{12500}$); and similarly $\sqrt{450 - \sqrt{112500}}$ means a quantity whose power or square is equal to $450 - \sqrt{112500}$.
 
-   By practicing algebraists (*pratici*), such roots are called by another name **universal roots** (*radici universali*) or **bound roots** (*radici legate*), as appears in our aforesaid work [*Summa de Arithmetica*], in the Third Treatise of its Eighth Distinction, beginning at folio 120 of the said volume. These quantities belong to the most subtle investigation and pertain to speculative practice (*pratica speculativa*), as is shown at length in that volume; and, Most Exalted Prince, it is impossible to express them in any simpler or lower terms (*con più depresse denotationi*).
+   By practicing algebraists (*pratici*), such roots are called by another name **universal roots** (*radici universali*) or **bound roots** (*radici legate*), as appears in our aforesaid work [:cite:`*Summa de Arithmetica* <pacioli:summa>`], in the Third Treatise of its Eighth Distinction, beginning at folio 120 of the said volume. These quantities belong to the most subtle investigation and pertain to speculative practice (*pratica speculativa*), as is shown at length in that volume; and, Most Exalted Prince, it is impossible to express them in any simpler or lower terms (*con più depresse denotationi*).
 
 .. qed::
 
-   And this entire speculative effect is demonstrated geometrically by the ninth proposition of the Fourteenth Book (Campanus XIV.9), together with several others adduced in that place by Campanus.
+   And this entire speculative effect is demonstrated geometrically by the ninth proposition of the Fourteenth Book (:cite:`Campanus XIV.9 <campanus:euclid:XIV.9>`), together with several others adduced in that place by :person:`Campanus <campanus>`.
 
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------

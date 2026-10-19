@@ -14,7 +14,7 @@ CHAPTER II (English)
 .. folio:: 0067–0068 (f. 26r–f. 26v)
    :initial: 0067.c1.png
 
-Having explained the vertical divisions of the facial profile :math:`mk`, we now set forth the horizontal divisions across the width of the head from the front profile :math:`mk` to the nape (*cotozzo*) :math:`a`, the proportions of the **eye**, **ear**, **neck**, **occiput**, and **crown**, and the instrument called the **net** (*la rete*) used by painters.
+Having explained the vertical divisions of the facial profile :math:`mk`, we now set forth the horizontal divisions across the width of the head from the front profile :math:`mk` to the nape (:term:`*cotozzo* <cotozzo>`) :math:`a`, the proportions of the **eye**, **ear**, **neck**, **occiput**, and **crown**, and the instrument called the **net** (*la rete*) used by painters.
 
 .. assertion:: Horizontal Grid Subdivisions and the Painter's Perspective Net (*La Rete*)
 

@@ -16,7 +16,7 @@ CHAPTER XIV (English)
 
 .. enunciation::
 
-   If a quantity be divided according to our said proportion, the **sum of the square of the lesser part and the square of the entire undivided quantity** will always be **triple** the **square of the greater part** (:just:`XIII.4` [Campanus XIII.5]):
+   If a quantity be divided according to our said proportion, the **sum of the square of the lesser part and the square of the entire undivided quantity** will always be **triple** the **square of the greater part** (:just:`XIII.4` [:cite:`Campanus XIII.5 <campanus:euclid:XIII.5>`]):
 
    $$b^2 + (a + b)^2 = 3a^2$$
 
@@ -46,4 +46,4 @@ CHAPTER XIV (English)
 
 .. qed::
 
-   Therefore the said sum is **triple** the said square, just as we stated; which effect the fifth proposition of the Thirteenth Book (Campanus XIII.5 = Heiberg :just:`XIII.4`) concludes geometrically.
+   Therefore the said sum is **triple** the said square, just as we stated; which effect the fifth proposition of the Thirteenth Book (:cite:`Campanus XIII.5 <campanus:euclid:XIII.5>` = Heiberg :just:`XIII.4`) concludes geometrically.

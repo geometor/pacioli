@@ -16,7 +16,7 @@ Historical & Mathematical Commentary
 
 - **Paganini 1509 Plates Referenced**:
   - **Plate XLIX** (``0289.rst``, Pentagonal Prism, solid) and **Plate L** (``0291.rst``, Pentagonal Prism, skeletal).
-- **Invocation of :just:`XIII.7`**: Pacioli deftly reminds the reader why in :ref:`Chapter XXI <compendio-cap_21-en>` (:just:`XIII.7`) he proved that an equilateral pentagon requires *three* equal angles to force equiangularity (since a non-regular equilateral pentagon—such as a house-shaped pentagon—can have five equal sides and two right angles without being regular).
+- **Invocation of Euclid XIII.7**: Pacioli deftly reminds the reader why in :ref:`Chapter XXI <compendio-cap_21-en>` (:cite:`Euclid XIII.7 <euclid:elements:XIII.7>`) he proved that an equilateral pentagon requires *three* equal angles to force equiangularity (since a non-regular equilateral pentagon—such as a house-shaped pentagon—can have five equal sides and two right angles without being regular).
 
 Philological and Folio Apparatus
 --------------------------------

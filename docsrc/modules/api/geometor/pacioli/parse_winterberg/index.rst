@@ -26,7 +26,7 @@ Module Contents
 
 .. py:function:: parse_winterberg()
 
-   Parses the Winterberg text file into top-level sections.
+   Parses the :person:`Winterberg <winterberg>` text file into top-level sections.
 
 
 .. py:function:: split_intro(lines: List[str], output_dir: pathlib.Path)

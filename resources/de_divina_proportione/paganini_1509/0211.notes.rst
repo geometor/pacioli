@@ -4,9 +4,9 @@ Folio 0211 (Plate Folio 0211 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0210.rst``): Folio Plate Folio 0210 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0210)
-- **Current Folio** (``0211.rst``): Folio Plate Folio 0211 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XIII — Exahedron Abscisum Elevatum Solidum (Solid Elevated Truncated Hexahedron)
-- **Following Folio** (``0212.rst``): Folio Plate Folio 0212 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0212)
+- **Preceding Folio** (``0210.rst``): Folio Plate Folio 0210 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0210)
+- **Current Folio** (``0211.rst``): Folio Plate Folio 0211 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate XIII — :term:`Exahedron Abscisum Elevatum <exahedron-abscisum-elevatum>` :term:`Solidum <solidum>` (Solid Elevated Truncated :term:`Hexahedron <exahedron>`)
+- **Following Folio** (``0212.rst``): Folio Plate Folio 0212 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0212)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0211 (recto)`` (Scan page ``211``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``XIII`` (Plate No. ``13``) | Latin Cartouche: *Exahedron Abscisum Elevatum Solidum* | Greek Cartouche: Ἑξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XIII`` (Plate No. ``13``) | Latin Cartouche: :term:`*Exahedron Abscisum Elevatum Solidum* <exahedron-abscisum-elevatum>` | Greek Cartouche: :term:`Ἑξάεδρον ἀποτετμημένον ἐπηρμένον <exahedron-abscisum-elevatum>` :term:`στερεόν <solidum>`

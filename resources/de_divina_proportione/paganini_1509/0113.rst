@@ -28,4 +28,4 @@ Folio 0113 (Libellus f. 15r) — Libellus — Tractatus Tertius (Libellus f. 15r
 Pars Tertia: Libellus in tres partiales tractatus divisus
 ---------------------------------------------------------
 
-**Tractatus Tertius (Libellus f. 15r)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela spera.
+**Tractatus Tertius (Libellus f. 15r)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela :term:`spera <spera>`.

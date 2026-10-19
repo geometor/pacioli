@@ -10,42 +10,44 @@
 Folio 0006 (A1v) — Epigrams and Author's Sonnet (Cinque corpi in natura son producti)
 =====================================================================================
 
-Sonetto del auctore.
+Sonetto de l'Auctore (Fra Luca Pacioli)
+---------------------------------------
 
-Cinque corpi in natura son producti
-Da naturali semplici chiamati.
-Perche aciascun composito adunati
-Per ordine concorran fra lor tutti.
-Immixtì netti e puri fur constructi
-Quattro elementi e ciel cosi nomati.
-Quale Platone voi che figurati
-Lesser dien a infiniti fructi.
-Ma perche eluacuo la natura aborre
-Aristotil in quel de celo e mundo
-Per se non figurati volsse porre.
-Pero lingegno geometra profondo
-Di piato edeuclide piacque exporre
-Cinqualtri che in spera volgan tundo
-Regolari daspeto iocundo.
-Gomme vedi delati e basi pare.
-E vnaltro sexto mai sepo formare.
+| Cinque corpi in natura son producti,
+| Da' naturali semplici chiamati,
+| Perchè a ciascun composito adunati
+| Per ordine concorran fra lor tutti.
+| Immixti, netti e puri fur constructi,
+| Quattro elementi e ciel così nomati,
+| Quale :person:`Platone <plato>` vol che figurati
+| L'esser dien a infiniti fructi.
+| Ma perchè el vacuo la natura aborre,
+| :person:`Aristotil <aristotle>` in quel :cite:`*De Celo e Mundo* <aristotle:de-caelo:III.8>`
+| Per sè non figurati volse porre.
+| Però l'ingegno geometra profondo
+| Di :person:`Plato <plato>` e d':person:`Euclide <euclid>` piacque exporre
+| Cinqu'altri che in :term:`spera <spera>` volgan tundo,
+| Regolari d'aspecto iocundo,
+| Comme vedi de lati e basi pare,
+| E un altro sexto mai se pò formare.
 
-FINIS.
+Corpora ad Lectorem
+-------------------
 
-Corpora ad lectorem.
+| El dolce fructo vago e sì dilecto
+| Constrinse già i Philosophi cercare
+| Causa de noi, che pasci l'intellecto.
 
-El dolce fructo vago e si dilecto
-Gonstrinse già i Philosoph! cercare
-Causa de noi che pasci lintellecto.
+Distichon ad Idem
+-----------------
 
-Disticon ad idem.
+| Quaerere de nobis fructus dulcissimus egit
+| Philosophos causam, mens ubi laeta manet.
 
-Quaerere de nobis fructus dulcissimus egit
-Philosophos causam mens vbi laeta manet.
+Corpora Loquuntur
+-----------------
 
-Corpora loquuntur.
-
-Qui cupitis Rerum varias cognoscere causas
-Discite nos: Cunctis hac patet vna via.
+| Qui cupitis rerum varias cognoscere causas,
+| Discite nos: cunctis hac patet una via.
 
 FINIS.

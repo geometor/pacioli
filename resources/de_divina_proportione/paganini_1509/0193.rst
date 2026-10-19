@@ -16,5 +16,5 @@ Folio 0193 (Plate Folio 0193 (recto)) — Tabula IIII — Tetrahedron Abscisum V
 Tabula IIII (No. 4)
 -------------------
 
-- **Titulus Latinus**: *Tetrahedron Abscisum Vacuum*
-- **Titulus Graecus**: Τετράεδρον ἀποτετμημένον κενόν
+- **Titulus Latinus**: :term:`*Tetrahedron Abscisum Vacuum* <tetrahedron-abscisum>`
+- **Titulus Graecus**: :term:`Τετράεδρον ἀποτετμημένον <tetrahedron-abscisum>` :term:`κενόν <vacuum>`

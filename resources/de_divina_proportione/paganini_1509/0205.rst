@@ -16,5 +16,5 @@ Folio 0205 (Plate Folio 0205 (recto)) — Tabula X — Exahedron Abscisum Vacuum
 Tabula X (No. 10)
 -----------------
 
-- **Titulus Latinus**: *Exahedron Abscisum Vacuum*
-- **Titulus Graecus**: Ἑξάεδρον ἀποτετμημένον κενόν
+- **Titulus Latinus**: :term:`*Exahedron Abscisum Vacuum* <exahedron-abscisum>`
+- **Titulus Graecus**: :term:`Ἑξάεδρον ἀποτετμημένον <exahedron-abscisum>` :term:`κενόν <vacuum>`

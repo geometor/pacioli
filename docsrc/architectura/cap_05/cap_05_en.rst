@@ -14,14 +14,14 @@ CHAPTER V (English)
 .. folio:: 0071 (f. 28r)
    :initial: 0071.c1.png
 
-Continuing with the round column (:ref:`Plate 0213 <plates-architectural-en>`), we now set forth the proportions of its **shaft** (*fuso / tronco*) and of its **base** (*basa*, called *spira* by Vitruvius).
+Continuing with the round column (:ref:`Plate 0213 <plates-architectural-en>`), we now set forth the proportions of its **shaft** (*fuso / tronco*) and of its **base** (*basa*, called *spira* by :person:`Vitruvius <vitruvius>`).
 
 .. assertion:: Proportions of the Shaft, Entasis, and Attic/Ionic Base (:ref:`Plate 0213 <plates-architectural-en>`)
 
    1. **Slenderness Ratio and Upper vs. Lower Contraction (*Contractura*)**:
       - The height of the round column is divided into **6**, **7**, or **8 equal parts** (according to whether it is Doric, Ionic, or Corinthian, as explained below in :ref:`Chapter VII <architectura-cap_07-en>`), and **one** of those parts is taken as the **diameter of the lower necking** (*contractura inferiore*, marked :math:`ef` at the bottom of the shaft).
       - The lower necking :math:`ef` must exceed the upper necking :math:`kp` (at the top of the shaft beneath the capital) by the exact projection (*sporto*) of the upper collar/trochilus: that is, the lower shaft *without* its projecting fillet/torus must equal the upper shaft *with* its projecting collar, so that the column stands firmly to resist its load.
-      - **Entasis (Swelling in Imitation of the Human Body)**: From the lower necking :math:`ef` up to **one-third** (:math:`\frac{1}{3}`) of the shaft's height, the column swells slightly in imitation of the human body; through the **middle third** (:math:`\frac{1}{3}`) it maintains this fullness; and through the **upper third** (:math:`\frac{1}{3}`) it tapers (*se va degradando*) gracefully to the upper necking :math:`kp` (where the top astragal/collar beneath the capital is called the *scapo*, *trochilo*, or *toro superiore dela colonna*).
+      - **Entasis (Swelling in Imitation of the Human Body)**: From the lower necking :math:`ef` up to **one-third** (:math:`\frac{1}{3}`) of the shaft's height, the column swells slightly in imitation of the human body; through the **middle third** (:math:`\frac{1}{3}`) it maintains this fullness; and through the **upper third** (:math:`\frac{1}{3}`) it tapers (*se va degradando*) gracefully to the upper necking :math:`kp` (where the top astragal/collar beneath the capital is called the *scapo*, :term:`*trochilo* <scothia>`, or *toro superiore dela colonna*).
    2. **Total Height and Mouldings of the Column Base (*Basa / Spira*)**:
       - The **total height of the base** (including its square plinth) must be **half the thickness (diameter)** of the lower column shaft (:math:`\frac{1}{2}ef`).
       - Its lowest member :math:`ab` is a square slab called the **plinth** (*plinto*) by the Ancients and **latastro** by our modern masons:

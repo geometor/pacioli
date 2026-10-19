@@ -4,9 +4,9 @@ Folio 0241 (Plate Folio 0241 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0240.rst``): Folio Plate Folio 0240 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0240)
-- **Current Folio** (``0241.rst``): Folio Plate Folio 0241 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XXVI — Icosahedron Elevatum Vacuum (Hollow Elevated Icosahedron)
-- **Following Folio** (``0242.rst``): Folio Plate Folio 0242 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0242)
+- **Preceding Folio** (``0240.rst``): Folio Plate Folio 0240 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0240)
+- **Current Folio** (``0241.rst``): Folio Plate Folio 0241 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate XXVI — :term:`Icosahedron Elevatum <icosahedron-elevatum>` :term:`Vacuum <vacuum>` (Hollow Elevated :term:`Icosahedron <icosahedron>`)
+- **Following Folio** (``0242.rst``): Folio Plate Folio 0242 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0242)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0241 (recto)`` (Scan page ``241``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``XXVI`` (Plate No. ``26``) | Latin Cartouche: *Icosahedron Elevatum Vacuum* | Greek Cartouche: Εἰκοσάεδρον ἐπηρμένον κενόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XXVI`` (Plate No. ``26``) | Latin Cartouche: :term:`*Icosahedron Elevatum Vacuum* <icosahedron-elevatum>` | Greek Cartouche: :term:`Εἰκοσάεδρον ἐπηρμένον <icosahedron-elevatum>` :term:`κενόν <vacuum>`

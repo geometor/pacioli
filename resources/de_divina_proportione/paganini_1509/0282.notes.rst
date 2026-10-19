@@ -4,9 +4,9 @@ Folio 0282 (Plate Folio 0282 (verso)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0281.rst``): Folio Plate Folio 0281 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XLVI — Columna Laterata Quadrangula Vacua (Hollow Quadrangular Prism)
-- **Current Folio** (``0282.rst``): Folio Plate Folio 0282 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0282)
-- **Following Folio** (``0283.rst``): Folio Plate Folio 0283 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XLVII — Pyramis Laterata Quadrangula Solida (Solid Quadrangular Pyramid)
+- **Preceding Folio** (``0281.rst``): Folio Plate Folio 0281 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate XLVI — Columna Laterata Quadrangula Vacua (Hollow Quadrangular Prism)
+- **Current Folio** (``0282.rst``): Folio Plate Folio 0282 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Polyhedra Plate Verso (0282)
+- **Following Folio** (``0283.rst``): Folio Plate Folio 0283 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate XLVII — Pyramis Laterata Quadrangula Solida (Solid Quadrangular Pyramid)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,5 +18,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0282 (verso)`` (Scan page ``282``, *verso*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
 - **Leaf Category**: Polyhedra Plate Verso (0282)

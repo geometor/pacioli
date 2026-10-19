@@ -4,9 +4,9 @@ Folio 0060 (f. 22v) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0059.rst``): Folio f. 22r (recto), Part I: Compendio de Divina Proportione — Cap. LXIX, Cap. LXX, Cap. LXXI (f. 22r) — Dela mesura de tutti li altri corpi regulari e dependen
-- **Current Folio** (``0060.rst``): Folio f. 22v (verso), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. LXXI (f. 22v) — De quello se intenda per questi vocabuli fra le mathema
-- **Following Folio** (``0061.rst``): Folio f. 23r (recto), Part I: Compendio de Divina Proportione — Cap. LXXI, Prohemio (Architectura) (f. 23r) — De quello se intenda per questi vocabuli fra le mathema
+- **Preceding Folio** (``0059.rst``): Folio f. 22r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. LXIX, Cap. LXX, Cap. LXXI (f. 22r) — Dela mesura de tutti li altri :term:`corpi regulari <corpi-regulari>` e dependen
+- **Current Folio** (``0060.rst``): Folio f. 22v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. LXXI (f. 22v) — De quello se intenda per questi vocabuli fra le mathema
+- **Following Folio** (``0061.rst``): Folio f. 23r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. LXXI, Prohemio (Architectura) (f. 23r) — De quello se intenda per questi vocabuli fra le mathema
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,6 +18,18 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``■``
 - **Folio Signature / Numeration**: ``f. 22v`` (Scan page ``60``, *verso*)
-- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. LXXI** (``compendio/cap_71``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/071_cap_LXXI.txt``
+  - **Cap. LXXI** (``compendio/cap_71``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/071_cap_LXXI.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. LXXI — What Is Understood by the Mathematical Terms Used in This Compendium—Namely Hypothesis, Hypotenuse, Corausto, Pyramidal Cone, Pentagonal Chord, Perpendicular, Cathetus, Diameter, Parallelogram, Diagonal, Center, and Sagitta—and Conclusion of Part I (December 14, 1498).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Marginal Diagram**: Folio 0059 (``f. 22r``) contains diagram ``0059.g1.png`` illustrating the circular segment with its **arco** (arc/bow), **corda** (chord/bowstring), and :term:`**saetta** <saetta>` (:term:`sagitta <saetta>`/arrow).
+- **Dating of the Colophon (December 14, 1498)**: The colophon on Folio 0061 (``f. 23r``) reads *"Finis a di 14. decembre in Milano nel nostro almo convento MCCCCXCVII. Sedente summo pontifice Alexandro VI. del suo pontificato anno VII."* Because Pope Alexander VI (Rodrigo Borgia) was elected on August 11, 1492, his **seventh pontifical year** (*anno VII*) ran from August 11, 1498 to August 10, 1499—and ``Cap. LXIX`` explicitly refers to the Franciscan General Chapter held in Milan in May–June **1498** (*de l'anno presente*). Thus ``MCCCCXCVII`` in the 1509 print dropped a final ``I`` for ``MCCCCXCVIII`` (**December 14, 1498**), the exact date recorded in the presentation manuscripts (Geneva MS l.e. 210 and Milan Biblioteca Ambrosiana MS 170 sup.).

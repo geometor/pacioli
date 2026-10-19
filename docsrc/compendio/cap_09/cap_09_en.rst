@@ -28,7 +28,7 @@ Wherefore there arise two kinds of roots:
 - One is called **discrete** (*discreta*), or let us say **rational** (*rationale*), which is a root that can be assigned exactly by a number, just as the root of $9$ is $3$;
 - The other is called **surd** (*sorda*), which is one that cannot be given exactly by a number, as we have said of the root of $10$ and others.
 
-These latter are called by another name **irrational** (*irrationali*), because all quantities that cannot be assigned exactly by a number [or ratio of integers] are called irrational in the art, whereas those that can be given by a number are called **rational** (*rationali*). And let this suffice for our purpose concerning roots.
+These latter are called by another name **irrational** (:term:`*irrationali* <irrationale>`), because all quantities that cannot be assigned exactly by a number [or ratio of integers] are called irrational in the art, whereas those that can be given by a number are called **rational** (*rationali*). And let this suffice for our purpose concerning roots.
 
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------

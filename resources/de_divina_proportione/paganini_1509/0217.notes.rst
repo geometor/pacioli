@@ -4,9 +4,9 @@ Folio 0217 (Plate Folio 0217 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0216.rst``): Folio Plate Folio 0216 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0216)
-- **Current Folio** (``0217.rst``): Folio Plate Folio 0217 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XIIII — Exahedron Abscisum Elevatum Vacuum (Hollow Elevated Truncated Hexahedron)
-- **Following Folio** (``0218.rst``): Folio Plate Folio 0218 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0218)
+- **Preceding Folio** (``0216.rst``): Folio Plate Folio 0216 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0216)
+- **Current Folio** (``0217.rst``): Folio Plate Folio 0217 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate XIIII — :term:`Exahedron Abscisum Elevatum <exahedron-abscisum-elevatum>` :term:`Vacuum <vacuum>` (Hollow Elevated Truncated :term:`Hexahedron <exahedron>`)
+- **Following Folio** (``0218.rst``): Folio Plate Folio 0218 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0218)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0217 (recto)`` (Scan page ``217``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``XIIII`` (Plate No. ``14``) | Latin Cartouche: *Exahedron Abscisum Elevatum Vacuum* | Greek Cartouche: Ἑξάεδρον ἀποτετμημένον ἐπηρμένον κενόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XIIII`` (Plate No. ``14``) | Latin Cartouche: :term:`*Exahedron Abscisum Elevatum Vacuum* <exahedron-abscisum-elevatum>` | Greek Cartouche: :term:`Ἑξάεδρον ἀποτετμημένον ἐπηρμένον <exahedron-abscisum-elevatum>` :term:`κενόν <vacuum>`

@@ -14,8 +14,8 @@ CHAPTER VII — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Vitruvius *De architectura* IV.1.1–10**: Pacioli quotes the entire famous Latin passage of Vitruvius IV.1 on the anthropometric origins of the Doric (:math:`1:6` then :math:`1:7`), Ionic (:math:`1:8` then :math:`1:9`), and Corinthian orders, including the story of **Callimachus** (*katatexitechnos*) and the Corinthian maiden's tomb basket (*calathus*) covered by a square tile (*tegula*, which became the **abacus**) overgrown by an acanthus plant.
-- **Comparison with Earlier Draft Track**: In the earlier ``winterberg_en`` draft, the long Latin quotation from Vitruvius IV.1 was left untranslated or summarized in a sentence. Here both Pacioli's Italian commentary and the complete English translation of the Latin Vitruvian text on Folios ``0073.rst``–``0074.rst`` (``f. 29r``–``f. 29v``) are provided in full.
+- **Vitruvius *De architectura* IV.1.1–10**: Pacioli quotes the entire famous Latin passage of Vitruvius IV.1 on the anthropometric origins of the Doric (:math:`1:6` then :math:`1:7`), Ionic (:math:`1:8` then :math:`1:9`), and Corinthian orders, including the story of *:person:`*Callimachus* <callimachus>`* (*katatexitechnos*) and the Corinthian maiden's tomb basket (*calathus*) covered by a square tile (*tegula*, which became the **abacus**) overgrown by an acanthus plant.
+- **Comparison with Earlier Draft Track**: In the earlier ``winterberg_en`` draft, the long Latin quotation from :cite:`Vitruvius IV.1 <vitruvius:de-arch:IV.1>` was left untranslated or summarized in a sentence. Here both Pacioli's Italian commentary and the complete English translation of the Latin Vitruvian text on Folios ``0073.rst``–``0074.rst`` (``f. 29r``–``f. 29v``) are provided in full.
 
 Philological and Folio Apparatus
 --------------------------------

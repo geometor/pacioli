@@ -24,7 +24,7 @@ CHAPTER XVII (English)
 
 .. qed::
 
-   Of this converse **Ptolemy** makes great use in the ninth [tenth] chapter of the First Book (*prima dictione*) of his *Almagest* to demonstrate the lengths of the chords of circular arcs (*la quantità dele corde degli archi del cerchio*); and it is similarly demonstrated openly in the commentary upon the aforesaid ninth proposition of the Thirteenth Book (:just:`XIII.9`) geometrically.
+   Of this converse :person:`**Ptolemy** <ptolemy>` makes great use in the ninth [tenth] chapter of the First Book (*prima dictione*) of his :cite:`*Almagest* <ptolemy:almagest:I.9>` to demonstrate the lengths of the chords of circular arcs (*la quantità dele corde degli archi del cerchio*); and it is similarly demonstrated openly in the commentary upon the aforesaid ninth proposition of the Thirteenth Book (:just:`XIII.9`) geometrically.
 
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------

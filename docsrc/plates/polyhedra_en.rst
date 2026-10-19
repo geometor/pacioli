@@ -9,7 +9,7 @@ Appendix II: Polyhedra Plates by Leonardo da Vinci (English)
 
    **English** · :ref:`Latino / Graeco (1509) <plates-polyhedra-la>` | :ref:`← Plates Index <plates-index>`
 
-Sixty full-page woodcut plates of the Five Regular Platonic Solids and their Truncated (*abscisa*), Elevated/Stellated (*elevata*), and Prismatic/Pyramidal/Spherical Dependent Bodies in Solid (*planum/solidum*) and Skeletal (*vacuum*) perspective views, drawn by **Leonardo da Vinci**.
+Sixty full-page woodcut plates of the Five Regular Platonic Solids and their Truncated (*abscisa*), Elevated/Stellated (*elevata*), and Prismatic/Pyramidal/Spherical Dependent Bodies in Solid (*planum/solidum*) and Skeletal (:term:`*vacuum* <vacuum>`) perspective views, drawn by :person:`**Leonardo da Vinci** <leonardo>`.
 
 Plate I (Folio 0187) — Solid Regular Tetrahedron
 ------------------------------------------------
@@ -19,7 +19,7 @@ Plate I (Folio 0187) — Solid Regular Tetrahedron
 .. figure:: 0187.g1.png
    :align: center
 
-   **Solid Regular Tetrahedron** — *Tetrahedron Planum Solidum* (Τετράεδρον ἐπίπεδον στερεόν)
+   **Solid Regular Tetrahedron** — :term:`*Tetrahedron Planum Solidum* <tetrahedron>` (:term:`Τετράεδρον <tetrahedron>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`)
 
 Plate II (Folio 0189) — Hollow Regular Tetrahedron
 --------------------------------------------------
@@ -29,7 +29,7 @@ Plate II (Folio 0189) — Hollow Regular Tetrahedron
 .. figure:: 0189.g1.png
    :align: center
 
-   **Hollow Regular Tetrahedron** — *Tetrahedron Planum Vacuum* (Τετράεδρον ἐπίπεδον κενόν)
+   **Hollow Regular Tetrahedron** — :term:`*Tetrahedron Planum Vacuum* <tetrahedron>` (:term:`Τετράεδρον <tetrahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`)
 
 Plate III (Folio 0191) — Solid Truncated Tetrahedron
 ----------------------------------------------------
@@ -39,7 +39,7 @@ Plate III (Folio 0191) — Solid Truncated Tetrahedron
 .. figure:: 0191.g1.png
    :align: center
 
-   **Solid Truncated Tetrahedron** — *Tetrahedron Abscisum Solidum* (Τετράεδρον ἀποτετμημένον στερεόν)
+   **Solid Truncated Tetrahedron** — :term:`*Tetrahedron Abscisum Solidum* <tetrahedron-abscisum>` (:term:`Τετράεδρον ἀποτετμημένον <tetrahedron-abscisum>` :term:`στερεόν <solidum>`)
 
 Plate IIII (Folio 0193) — Hollow Truncated Tetrahedron
 ------------------------------------------------------
@@ -49,7 +49,7 @@ Plate IIII (Folio 0193) — Hollow Truncated Tetrahedron
 .. figure:: 0193.g1.png
    :align: center
 
-   **Hollow Truncated Tetrahedron** — *Tetrahedron Abscisum Vacuum* (Τετράεδρον ἀποτετμημένον κενόν)
+   **Hollow Truncated Tetrahedron** — :term:`*Tetrahedron Abscisum Vacuum* <tetrahedron-abscisum>` (:term:`Τετράεδρον ἀποτετμημένον <tetrahedron-abscisum>` :term:`κενόν <vacuum>`)
 
 Plate V (Folio 0195) — Solid Stellated (Elevated) Tetrahedron
 -------------------------------------------------------------
@@ -59,7 +59,7 @@ Plate V (Folio 0195) — Solid Stellated (Elevated) Tetrahedron
 .. figure:: 0195.g1.png
    :align: center
 
-   **Solid Stellated (Elevated) Tetrahedron** — *Tetrahedron Elevatum Solidum* (Τετράεδρον ἐπηρμένον στερεόν)
+   **Solid Stellated (Elevated) Tetrahedron** — :term:`*Tetrahedron Elevatum Solidum* <tetrahedron-elevatum>` (:term:`Τετράεδρον ἐπηρμένον <tetrahedron-elevatum>` :term:`στερεόν <solidum>`)
 
 Plate VI (Folio 0197) — Hollow Stellated (Elevated) Tetrahedron
 ---------------------------------------------------------------
@@ -69,7 +69,7 @@ Plate VI (Folio 0197) — Hollow Stellated (Elevated) Tetrahedron
 .. figure:: 0197.g1.png
    :align: center
 
-   **Hollow Stellated (Elevated) Tetrahedron** — *Tetrahedron Elevatum Vacuum* (Τετράεδρον ἐπηρμένον κενόν)
+   **Hollow Stellated (Elevated) Tetrahedron** — :term:`*Tetrahedron Elevatum Vacuum* <tetrahedron-elevatum>` (:term:`Τετράεδρον ἐπηρμένον <tetrahedron-elevatum>` :term:`κενόν <vacuum>`)
 
 Plate VII (Folio 0199) — Solid Regular Hexahedron (Cube)
 --------------------------------------------------------
@@ -79,7 +79,7 @@ Plate VII (Folio 0199) — Solid Regular Hexahedron (Cube)
 .. figure:: 0199.g1.png
    :align: center
 
-   **Solid Regular Hexahedron (Cube)** — *Exahedron sive Cubus Planum Solidum* (Ἑξάεδρον ἢ κύβος ἐπίπεδον στερεόν)
+   **Solid Regular Hexahedron (Cube)** — :term:`*Exahedron sive Cubus Planum Solidum* <exahedron>` (:term:`Ἑξάεδρον <exahedron>` ἢ κύβος :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`)
 
 Plate VIII (Folio 0201) — Hollow Regular Hexahedron (Cube)
 ----------------------------------------------------------
@@ -89,7 +89,7 @@ Plate VIII (Folio 0201) — Hollow Regular Hexahedron (Cube)
 .. figure:: 0201.g1.png
    :align: center
 
-   **Hollow Regular Hexahedron (Cube)** — *Exahedron Planum Vacuum* (Ἑξάεδρον ἐπίπεδον κενόν)
+   **Hollow Regular Hexahedron (Cube)** — :term:`*Exahedron Planum Vacuum* <exahedron>` (:term:`Ἑξάεδρον <exahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`)
 
 Plate VIIII (Folio 0203) — Solid Truncated Hexahedron (Cuboctahedron)
 ---------------------------------------------------------------------
@@ -99,7 +99,7 @@ Plate VIIII (Folio 0203) — Solid Truncated Hexahedron (Cuboctahedron)
 .. figure:: 0203.g1.png
    :align: center
 
-   **Solid Truncated Hexahedron (Cuboctahedron)** — *Exahedron Abscisum Solidum* (Ἑξάεδρον ἀποτετμημένον στερεόν)
+   **Solid Truncated Hexahedron (Cuboctahedron)** — :term:`*Exahedron Abscisum Solidum* <exahedron-abscisum>` (:term:`Ἑξάεδρον ἀποτετμημένον <exahedron-abscisum>` :term:`στερεόν <solidum>`)
 
 Plate X (Folio 0205) — Hollow Truncated Hexahedron (Cuboctahedron)
 ------------------------------------------------------------------
@@ -109,7 +109,7 @@ Plate X (Folio 0205) — Hollow Truncated Hexahedron (Cuboctahedron)
 .. figure:: 0205.g1.png
    :align: center
 
-   **Hollow Truncated Hexahedron (Cuboctahedron)** — *Exahedron Abscisum Vacuum* (Ἑξάεδρον ἀποτετμημένον κενόν)
+   **Hollow Truncated Hexahedron (Cuboctahedron)** — :term:`*Exahedron Abscisum Vacuum* <exahedron-abscisum>` (:term:`Ἑξάεδρον ἀποτετμημένον <exahedron-abscisum>` :term:`κενόν <vacuum>`)
 
 Plate XI (Folio 0207) — Solid Elevated Hexahedron
 -------------------------------------------------
@@ -119,7 +119,7 @@ Plate XI (Folio 0207) — Solid Elevated Hexahedron
 .. figure:: 0207.g1.png
    :align: center
 
-   **Solid Elevated Hexahedron** — *Exahedron Elevatum Solidum* (Ἑξάεδρον ἐπηρμένον στερεόν)
+   **Solid Elevated Hexahedron** — :term:`*Exahedron Elevatum Solidum* <exahedron-elevatum>` (:term:`Ἑξάεδρον ἐπηρμένον <exahedron-elevatum>` :term:`στερεόν <solidum>`)
 
 Plate XII (Folio 0209) — Hollow Elevated Hexahedron
 ---------------------------------------------------
@@ -129,7 +129,7 @@ Plate XII (Folio 0209) — Hollow Elevated Hexahedron
 .. figure:: 0209.g1.png
    :align: center
 
-   **Hollow Elevated Hexahedron** — *Exahedron Elevatum Vacuum* (Ἑξάεδρον ἐπηρμένον κενόν)
+   **Hollow Elevated Hexahedron** — :term:`*Exahedron Elevatum Vacuum* <exahedron-elevatum>` (:term:`Ἑξάεδρον ἐπηρμένον <exahedron-elevatum>` :term:`κενόν <vacuum>`)
 
 Plate XIII (Folio 0211) — Solid Elevated Truncated Hexahedron
 -------------------------------------------------------------
@@ -139,7 +139,7 @@ Plate XIII (Folio 0211) — Solid Elevated Truncated Hexahedron
 .. figure:: 0211.g1.png
    :align: center
 
-   **Solid Elevated Truncated Hexahedron** — *Exahedron Abscisum Elevatum Solidum* (Ἑξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν)
+   **Solid Elevated Truncated Hexahedron** — :term:`*Exahedron Abscisum Elevatum Solidum* <exahedron-abscisum-elevatum>` (:term:`Ἑξάεδρον ἀποτετμημένον ἐπηρμένον <exahedron-abscisum-elevatum>` :term:`στερεόν <solidum>`)
 
 Plate XIIII (Folio 0217) — Hollow Elevated Truncated Hexahedron
 ---------------------------------------------------------------
@@ -149,7 +149,7 @@ Plate XIIII (Folio 0217) — Hollow Elevated Truncated Hexahedron
 .. figure:: 0217.g1.png
    :align: center
 
-   **Hollow Elevated Truncated Hexahedron** — *Exahedron Abscisum Elevatum Vacuum* (Ἑξάεδρον ἀποτετμημένον ἐπηρμένον κενόν)
+   **Hollow Elevated Truncated Hexahedron** — :term:`*Exahedron Abscisum Elevatum Vacuum* <exahedron-abscisum-elevatum>` (:term:`Ἑξάεδρον ἀποτετμημένον ἐπηρμένον <exahedron-abscisum-elevatum>` :term:`κενόν <vacuum>`)
 
 Plate XV (Folio 0219) — Solid Regular Octahedron
 ------------------------------------------------
@@ -159,7 +159,7 @@ Plate XV (Folio 0219) — Solid Regular Octahedron
 .. figure:: 0219.g1.png
    :align: center
 
-   **Solid Regular Octahedron** — *Octahedron Planum Solidum* (Ὀκτάεδρον ἐπίπεδον στερεόν)
+   **Solid Regular Octahedron** — :term:`*Octahedron Planum Solidum* <octahedron>` (:term:`Ὀκτάεδρον <octahedron>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`)
 
 Plate XVI (Folio 0221) — Hollow Regular Octahedron
 --------------------------------------------------
@@ -169,7 +169,7 @@ Plate XVI (Folio 0221) — Hollow Regular Octahedron
 .. figure:: 0221.g1.png
    :align: center
 
-   **Hollow Regular Octahedron** — *Octahedron Planum Vacuum* (Ὀκτάεδρον ἐπίπεδον κενόν)
+   **Hollow Regular Octahedron** — :term:`*Octahedron Planum Vacuum* <octahedron>` (:term:`Ὀκτάεδρον <octahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`)
 
 Plate XVII (Folio 0223) — Solid Truncated Octahedron
 ----------------------------------------------------
@@ -179,7 +179,7 @@ Plate XVII (Folio 0223) — Solid Truncated Octahedron
 .. figure:: 0223.g1.png
    :align: center
 
-   **Solid Truncated Octahedron** — *Octahedron Abscisum Solidum* (Ὀκτάεδρον ἀποτετμημένον στερεόν)
+   **Solid Truncated Octahedron** — :term:`*Octahedron Abscisum Solidum* <octahedron-abscisum>` (:term:`Ὀκτάεδρον ἀποτετμημένον <octahedron-abscisum>` :term:`στερεόν <solidum>`)
 
 Plate XVIII (Folio 0225) — Hollow Truncated Octahedron
 ------------------------------------------------------
@@ -189,7 +189,7 @@ Plate XVIII (Folio 0225) — Hollow Truncated Octahedron
 .. figure:: 0225.g1.png
    :align: center
 
-   **Hollow Truncated Octahedron** — *Octahedron Abscisum Vacuum* (Ὀκτάεδρον ἀποτετμημένον κενόν)
+   **Hollow Truncated Octahedron** — :term:`*Octahedron Abscisum Vacuum* <octahedron-abscisum>` (:term:`Ὀκτάεδρον ἀποτετμημένον <octahedron-abscisum>` :term:`κενόν <vacuum>`)
 
 Plate XIX (Folio 0227) — Solid Elevated Octahedron (Stella Octangula)
 ---------------------------------------------------------------------
@@ -199,7 +199,7 @@ Plate XIX (Folio 0227) — Solid Elevated Octahedron (Stella Octangula)
 .. figure:: 0227.g1.png
    :align: center
 
-   **Solid Elevated Octahedron (Stella Octangula)** — *Octahedron Elevatum Solidum* (Ὀκτάεδρον ἐπηρμένον στερεόν)
+   **Solid Elevated Octahedron (Stella Octangula)** — :term:`*Octahedron Elevatum Solidum* <octahedron-elevatum>` (:term:`Ὀκτάεδρον ἐπηρμένον <octahedron-elevatum>` :term:`στερεόν <solidum>`)
 
 Plate XX (Folio 0229) — Hollow Elevated Octahedron (Stella Octangula)
 ---------------------------------------------------------------------
@@ -209,7 +209,7 @@ Plate XX (Folio 0229) — Hollow Elevated Octahedron (Stella Octangula)
 .. figure:: 0229.g1.png
    :align: center
 
-   **Hollow Elevated Octahedron (Stella Octangula)** — *Octahedron Elevatum Vacuum* (Ὀκτάεδρον ἐπηρμένον κενόν)
+   **Hollow Elevated Octahedron (Stella Octangula)** — :term:`*Octahedron Elevatum Vacuum* <octahedron-elevatum>` (:term:`Ὀκτάεδρον ἐπηρμένον <octahedron-elevatum>` :term:`κενόν <vacuum>`)
 
 Plate XXI (Folio 0231) — Solid Regular Icosahedron
 --------------------------------------------------
@@ -219,7 +219,7 @@ Plate XXI (Folio 0231) — Solid Regular Icosahedron
 .. figure:: 0231.g1.png
    :align: center
 
-   **Solid Regular Icosahedron** — *Icosahedron Planum Solidum* (Εἰκοσάεδρον ἐπίπεδον στερεόν)
+   **Solid Regular Icosahedron** — :term:`*Icosahedron Planum Solidum* <icosahedron>` (:term:`Εἰκοσάεδρον <icosahedron>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`)
 
 Plate XXII (Folio 0233) — Hollow Regular Icosahedron
 ----------------------------------------------------
@@ -229,7 +229,7 @@ Plate XXII (Folio 0233) — Hollow Regular Icosahedron
 .. figure:: 0233.g1.png
    :align: center
 
-   **Hollow Regular Icosahedron** — *Icosahedron Planum Vacuum* (Εἰκοσάεδρον ἐπίπεδον κενόν)
+   **Hollow Regular Icosahedron** — :term:`*Icosahedron Planum Vacuum* <icosahedron>` (:term:`Εἰκοσάεδρον <icosahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`)
 
 Plate XXIII (Folio 0235) — Solid Truncated Icosahedron
 ------------------------------------------------------
@@ -239,7 +239,7 @@ Plate XXIII (Folio 0235) — Solid Truncated Icosahedron
 .. figure:: 0235.g1.png
    :align: center
 
-   **Solid Truncated Icosahedron** — *Icosahedron Abscisum Solidum* (Εἰκοσάεδρον ἀποτετμημένον στερεόν)
+   **Solid Truncated Icosahedron** — :term:`*Icosahedron Abscisum Solidum* <icosahedron-abscisum>` (:term:`Εἰκοσάεδρον ἀποτετμημένον <icosahedron-abscisum>` :term:`στερεόν <solidum>`)
 
 Plate XXIIII (Folio 0237) — Hollow Truncated Icosahedron
 --------------------------------------------------------
@@ -249,7 +249,7 @@ Plate XXIIII (Folio 0237) — Hollow Truncated Icosahedron
 .. figure:: 0237.g1.png
    :align: center
 
-   **Hollow Truncated Icosahedron** — *Icosahedron Abscisum Vacuum* (Εἰκοσάεδρον ἀποτετμημένον κενόν)
+   **Hollow Truncated Icosahedron** — :term:`*Icosahedron Abscisum Vacuum* <icosahedron-abscisum>` (:term:`Εἰκοσάεδρον ἀποτετμημένον <icosahedron-abscisum>` :term:`κενόν <vacuum>`)
 
 Plate XXV (Folio 0239) — Solid Elevated Icosahedron
 ---------------------------------------------------
@@ -259,7 +259,7 @@ Plate XXV (Folio 0239) — Solid Elevated Icosahedron
 .. figure:: 0239.g1.png
    :align: center
 
-   **Solid Elevated Icosahedron** — *Icosahedron Elevatum Solidum* (Εἰκοσάεδρον ἐπηρμένον στερεόν)
+   **Solid Elevated Icosahedron** — :term:`*Icosahedron Elevatum Solidum* <icosahedron-elevatum>` (:term:`Εἰκοσάεδρον ἐπηρμένον <icosahedron-elevatum>` :term:`στερεόν <solidum>`)
 
 Plate XXVI (Folio 0241) — Hollow Elevated Icosahedron
 -----------------------------------------------------
@@ -269,7 +269,7 @@ Plate XXVI (Folio 0241) — Hollow Elevated Icosahedron
 .. figure:: 0241.g1.png
    :align: center
 
-   **Hollow Elevated Icosahedron** — *Icosahedron Elevatum Vacuum* (Εἰκοσάεδρον ἐπηρμένον κενόν)
+   **Hollow Elevated Icosahedron** — :term:`*Icosahedron Elevatum Vacuum* <icosahedron-elevatum>` (:term:`Εἰκοσάεδρον ἐπηρμένον <icosahedron-elevatum>` :term:`κενόν <vacuum>`)
 
 Plate XXVII (Folio 0243) — Solid Regular Dodecahedron
 -----------------------------------------------------
@@ -279,7 +279,7 @@ Plate XXVII (Folio 0243) — Solid Regular Dodecahedron
 .. figure:: 0243.g1.png
    :align: center
 
-   **Solid Regular Dodecahedron** — *Dodecahedron Planum Solidum* (Δωδεκάεδρον ἐπίπεδον στερεόν)
+   **Solid Regular Dodecahedron** — :term:`*Dodecahedron Planum Solidum* <dodecahedron>` (:term:`Δωδεκάεδρον <dodecahedron>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`)
 
 Plate XXVIII (Folio 0245) — Hollow Regular Dodecahedron
 -------------------------------------------------------
@@ -289,7 +289,7 @@ Plate XXVIII (Folio 0245) — Hollow Regular Dodecahedron
 .. figure:: 0245.g1.png
    :align: center
 
-   **Hollow Regular Dodecahedron** — *Dodecahedron Planum Vacuum* (Δωδεκάεδρον ἐπίπεδον κενόν)
+   **Hollow Regular Dodecahedron** — :term:`*Dodecahedron Planum Vacuum* <dodecahedron>` (:term:`Δωδεκάεδρον <dodecahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`)
 
 Plate XXIX (Folio 0247) — Solid Truncated Dodecahedron (Icosidodecahedron)
 --------------------------------------------------------------------------
@@ -299,7 +299,7 @@ Plate XXIX (Folio 0247) — Solid Truncated Dodecahedron (Icosidodecahedron)
 .. figure:: 0247.g1.png
    :align: center
 
-   **Solid Truncated Dodecahedron (Icosidodecahedron)** — *Dodecahedron Abscisum Solidum* (Δωδεκάεδρον ἀποτετμημένον στερεόν)
+   **Solid Truncated Dodecahedron (Icosidodecahedron)** — :term:`*Dodecahedron Abscisum Solidum* <dodecahedron-abscisum>` (:term:`Δωδεκάεδρον ἀποτετμημένον <dodecahedron-abscisum>` :term:`στερεόν <solidum>`)
 
 Plate XXX (Folio 0249) — Hollow Truncated Dodecahedron (Icosidodecahedron)
 --------------------------------------------------------------------------
@@ -309,7 +309,7 @@ Plate XXX (Folio 0249) — Hollow Truncated Dodecahedron (Icosidodecahedron)
 .. figure:: 0249.g1.png
    :align: center
 
-   **Hollow Truncated Dodecahedron (Icosidodecahedron)** — *Dodecahedron Abscisum Vacuum* (Δωδεκάεδρον ἀποτετμημένον κενόν)
+   **Hollow Truncated Dodecahedron (Icosidodecahedron)** — :term:`*Dodecahedron Abscisum Vacuum* <dodecahedron-abscisum>` (:term:`Δωδεκάεδρον ἀποτετμημένον <dodecahedron-abscisum>` :term:`κενόν <vacuum>`)
 
 Plate XXXI (Folio 0251) — Solid Elevated Dodecahedron
 -----------------------------------------------------
@@ -319,7 +319,7 @@ Plate XXXI (Folio 0251) — Solid Elevated Dodecahedron
 .. figure:: 0251.g1.png
    :align: center
 
-   **Solid Elevated Dodecahedron** — *Dodecahedron Elevatum Solidum* (Δωδεκάεδρον ἐπηρμένον στερεόν)
+   **Solid Elevated Dodecahedron** — :term:`*Dodecahedron Elevatum Solidum* <dodecahedron-elevatum>` (:term:`Δωδεκάεδρον ἐπηρμένον <dodecahedron-elevatum>` :term:`στερεόν <solidum>`)
 
 Plate XXXII (Folio 0253) — Hollow Elevated Dodecahedron
 -------------------------------------------------------
@@ -329,7 +329,7 @@ Plate XXXII (Folio 0253) — Hollow Elevated Dodecahedron
 .. figure:: 0253.g1.png
    :align: center
 
-   **Hollow Elevated Dodecahedron** — *Dodecahedron Elevatum Vacuum* (Δωδεκάεδρον ἐπηρμένον κενόν)
+   **Hollow Elevated Dodecahedron** — :term:`*Dodecahedron Elevatum Vacuum* <dodecahedron-elevatum>` (:term:`Δωδεκάεδρον ἐπηρμένον <dodecahedron-elevatum>` :term:`κενόν <vacuum>`)
 
 Plate XXXIII (Folio 0255) — Solid Elevated Truncated Dodecahedron
 -----------------------------------------------------------------
@@ -339,7 +339,7 @@ Plate XXXIII (Folio 0255) — Solid Elevated Truncated Dodecahedron
 .. figure:: 0255.g1.png
    :align: center
 
-   **Solid Elevated Truncated Dodecahedron** — *Dodecahedron Abscisum Elevatum Solidum* (Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον στερεόν)
+   **Solid Elevated Truncated Dodecahedron** — :term:`*Dodecahedron Abscisum Elevatum Solidum* <dodecahedron-abscisum-elevatum>` (:term:`Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον <dodecahedron-abscisum-elevatum>` :term:`στερεόν <solidum>`)
 
 Plate XXXIIII (Folio 0257) — Hollow Elevated Truncated Dodecahedron
 -------------------------------------------------------------------
@@ -349,7 +349,7 @@ Plate XXXIIII (Folio 0257) — Hollow Elevated Truncated Dodecahedron
 .. figure:: 0257.g1.png
    :align: center
 
-   **Hollow Elevated Truncated Dodecahedron** — *Dodecahedron Abscisum Elevatum Vacuum* (Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον κενόν)
+   **Hollow Elevated Truncated Dodecahedron** — :term:`*Dodecahedron Abscisum Elevatum Vacuum* <dodecahedron-abscisum-elevatum>` (:term:`Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον <dodecahedron-abscisum-elevatum>` :term:`κενόν <vacuum>`)
 
 Plate XXXV (Folio 0259) — Solid 26-Base Body (Rhombicuboctahedron)
 ------------------------------------------------------------------
@@ -359,7 +359,7 @@ Plate XXXV (Folio 0259) — Solid 26-Base Body (Rhombicuboctahedron)
 .. figure:: 0259.g1.png
    :align: center
 
-   **Solid 26-Base Body (Rhombicuboctahedron)** — *Vigintisex Basium Planum Solidum* (Εἰκοσιεξάεδρον ἐπίπεδον στερεόν)
+   **Solid 26-Base Body (Rhombicuboctahedron)** — :term:`*Vigintisex Basium Planum Solidum* <vigintisex-basium>` (:term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`)
 
 Plate XXXVI (Folio 0261) — Hollow 26-Base Body (Rhombicuboctahedron)
 --------------------------------------------------------------------
@@ -369,7 +369,7 @@ Plate XXXVI (Folio 0261) — Hollow 26-Base Body (Rhombicuboctahedron)
 .. figure:: 0261.g1.png
    :align: center
 
-   **Hollow 26-Base Body (Rhombicuboctahedron)** — *Vigintisex Basium Planum Vacuum* (Εἰκοσιεξάεδρον ἐπίπεδον κενόν)
+   **Hollow 26-Base Body (Rhombicuboctahedron)** — :term:`*Vigintisex Basium Planum Vacuum* <vigintisex-basium>` (:term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`)
 
 Plate XXXVII (Folio 0263) — Solid Elevated 26-Base Body
 -------------------------------------------------------
@@ -379,7 +379,7 @@ Plate XXXVII (Folio 0263) — Solid Elevated 26-Base Body
 .. figure:: 0263.g1.png
    :align: center
 
-   **Solid Elevated 26-Base Body** — *Vigintisex Basium Abscisum Elevatum Solidum* (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν)
+   **Solid Elevated 26-Base Body** — :term:`*Vigintisex Basium Abscisum Elevatum Solidum* <vigintisex-basium>` (:term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἀποτετμημένον <abscisum>` :term:`ἐπηρμένον <elevatum>` :term:`στερεόν <solidum>`)
 
 Plate XXXVIII (Folio 0265) — Hollow Elevated 26-Base Body
 ---------------------------------------------------------
@@ -389,7 +389,7 @@ Plate XXXVIII (Folio 0265) — Hollow Elevated 26-Base Body
 .. figure:: 0265.g1.png
    :align: center
 
-   **Hollow Elevated 26-Base Body** — *Vigintisex Basium Abscisum Elevatum Vacuum* (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον κενόν)
+   **Hollow Elevated 26-Base Body** — :term:`*Vigintisex Basium Abscisum Elevatum Vacuum* <vigintisex-basium>` (:term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἀποτετμημένον <abscisum>` :term:`ἐπηρμένον <elevatum>` :term:`κενόν <vacuum>`)
 
 Plate XXXIX (Folio 0267) — Solid 72-Base Body
 ---------------------------------------------
@@ -399,7 +399,7 @@ Plate XXXIX (Folio 0267) — Solid 72-Base Body
 .. figure:: 0267.g1.png
    :align: center
 
-   **Solid 72-Base Body** — *Septuaginta Duarum Basium Solidum* (Ἑβδομηκονταδισσάεδρον στερεόν)
+   **Solid 72-Base Body** — :term:`*Septuaginta Duarum Basium Solidum* <septuaginta-duarum-basium>` (:term:`Ἑβδομηκονταδισσάεδρον <septuaginta-duarum-basium>` :term:`στερεόν <solidum>`)
 
 Plate XL (Folio 0269) — Hollow 72-Base Body
 -------------------------------------------
@@ -409,7 +409,7 @@ Plate XL (Folio 0269) — Hollow 72-Base Body
 .. figure:: 0269.g1.png
    :align: center
 
-   **Hollow 72-Base Body** — *Septuaginta Duarum Basium Vacuum* (Ἑβδομηκονταδισσάεδρον κενόν)
+   **Hollow 72-Base Body** — :term:`*Septuaginta Duarum Basium Vacuum* <septuaginta-duarum-basium>` (:term:`Ἑβδομηκονταδισσάεδρον <septuaginta-duarum-basium>` :term:`κενόν <vacuum>`)
 
 Plate XLI (Folio 0271) — Solid Triangular Prism (Corpus Seratile)
 -----------------------------------------------------------------
@@ -419,7 +419,7 @@ Plate XLI (Folio 0271) — Solid Triangular Prism (Corpus Seratile)
 .. figure:: 0271.g1.png
    :align: center
 
-   **Solid Triangular Prism (Corpus Seratile)** — *Columna Laterata Triangula Solida* (Κίων πλευρώδης τρίγωνος στερεός)
+   **Solid Triangular Prism (Corpus Seratile)** — :term:`*Columna Laterata Triangula Solida* <corpo-seratile>` (:term:`Κίων πλευρώδης τρίγωνος <corpo-seratile>` στερεός)
 
 Plate XLII (Folio 0273) — Hollow Triangular Prism
 -------------------------------------------------
@@ -429,7 +429,7 @@ Plate XLII (Folio 0273) — Hollow Triangular Prism
 .. figure:: 0273.g1.png
    :align: center
 
-   **Hollow Triangular Prism** — *Columna Laterata Triangula Vacua* (Κίων πλευρώδης τρίγωνος κενός)
+   **Hollow Triangular Prism** — :term:`*Columna Laterata Triangula Vacua* <corpo-seratile>` (:term:`Κίων πλευρώδης τρίγωνος <corpo-seratile>` κενός)
 
 Plate XLIII (Folio 0275) — Solid Triangular Pyramid
 ---------------------------------------------------
@@ -439,7 +439,7 @@ Plate XLIII (Folio 0275) — Solid Triangular Pyramid
 .. figure:: 0275.g1.png
    :align: center
 
-   **Solid Triangular Pyramid** — *Pyramis Laterata Triangula Solida* (Πυραμὶς πλευρώδης τρίγωνος στερεά)
+   **Solid Triangular Pyramid** — :term:`*Pyramis Laterata Triangula Solida* <pyramide-triangula>` (:term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` στερεά)
 
 Plate XLIIII (Folio 0277) — Hollow Triangular Pyramid
 -----------------------------------------------------
@@ -449,7 +449,7 @@ Plate XLIIII (Folio 0277) — Hollow Triangular Pyramid
 .. figure:: 0277.g1.png
    :align: center
 
-   **Hollow Triangular Pyramid** — *Pyramis Laterata Triangula Vacua* (Πυραμὶς πλευρώδης τρίγωνος κενή)
+   **Hollow Triangular Pyramid** — :term:`*Pyramis Laterata Triangula Vacua* <pyramide-triangula>` (:term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` κενή)
 
 Plate XLV (Folio 0279) — Solid Quadrangular Prism
 -------------------------------------------------
@@ -509,7 +509,7 @@ Plate XLIX (Folio 0289) — Solid Pentagonal Prism
 .. figure:: 0289.g1.png
    :align: center
 
-   **Solid Pentagonal Prism** — *Columna Laterata Penthagona Solida* (Κίων πλευρώδης πεντάγωνος στερεός)
+   **Solid Pentagonal Prism** — *Columna Laterata Penthagona Solida* (:term:`Κίων πλευρώδης πεντάγωνος <colonna-pentagona>` στερεός)
 
 Plate L (Folio 0291) — Hollow Pentagonal Prism
 ----------------------------------------------
@@ -519,7 +519,7 @@ Plate L (Folio 0291) — Hollow Pentagonal Prism
 .. figure:: 0291.g1.png
    :align: center
 
-   **Hollow Pentagonal Prism** — *Columna Laterata Penthagona Vacua* (Κίων πλευρώδης πεντάγωνος κενός)
+   **Hollow Pentagonal Prism** — *Columna Laterata Penthagona Vacua* (:term:`Κίων πλευρώδης πεντάγωνος <colonna-pentagona>` κενός)
 
 Plate LI (Folio 0293) — Solid Pentagonal Pyramid
 ------------------------------------------------
@@ -529,7 +529,7 @@ Plate LI (Folio 0293) — Solid Pentagonal Pyramid
 .. figure:: 0293.g1.png
    :align: center
 
-   **Solid Pentagonal Pyramid** — *Pyramis Laterata Penthagona Solida* (Πυραμὶς πλευρώδης πεντάγωνος στερεά)
+   **Solid Pentagonal Pyramid** — *Pyramis Laterata Penthagona Solida* (:term:`Πυραμὶς πλευρώδης πεντάγωνος <pyramide-pentagona>` στερεά)
 
 Plate LII (Folio 0295) — Hollow Pentagonal Pyramid
 --------------------------------------------------
@@ -539,7 +539,7 @@ Plate LII (Folio 0295) — Hollow Pentagonal Pyramid
 .. figure:: 0295.g1.png
    :align: center
 
-   **Hollow Pentagonal Pyramid** — *Pyramis Laterata Penthagona Vacua* (Πυραμὶς πλευρώδης πεντάγωνος κενή)
+   **Hollow Pentagonal Pyramid** — *Pyramis Laterata Penthagona Vacua* (:term:`Πυραμὶς πλευρώδης πεντάγωνος <pyramide-pentagona>` κενή)
 
 Plate LIII (Folio 0297) — Solid Hexagonal Prism
 -----------------------------------------------
@@ -549,7 +549,7 @@ Plate LIII (Folio 0297) — Solid Hexagonal Prism
 .. figure:: 0297.g1.png
    :align: center
 
-   **Solid Hexagonal Prism** — *Columna Laterata Exagona Solida* (Κίων πλευρώδης ἑξάγωνος στερεός)
+   **Solid Hexagonal Prism** — :term:`*Columna Laterata Exagona Solida* <colonna-exagona>` (:term:`Κίων πλευρώδης ἑξάγωνος <colonna-exagona>` στερεός)
 
 Plate LIIII (Folio 0299) — Hollow Hexagonal Prism
 -------------------------------------------------
@@ -559,7 +559,7 @@ Plate LIIII (Folio 0299) — Hollow Hexagonal Prism
 .. figure:: 0299.g1.png
    :align: center
 
-   **Hollow Hexagonal Prism** — *Columna Laterata Exagona Vacua* (Κίων πλευρώδης ἑξάγωνος κενός)
+   **Hollow Hexagonal Prism** — :term:`*Columna Laterata Exagona Vacua* <colonna-exagona>` (:term:`Κίων πλευρώδης ἑξάγωνος <colonna-exagona>` κενός)
 
 Plate LV (Folio 0301) — Solid Scalene Triangular Pyramid
 --------------------------------------------------------
@@ -569,7 +569,7 @@ Plate LV (Folio 0301) — Solid Scalene Triangular Pyramid
 .. figure:: 0301.g1.png
    :align: center
 
-   **Solid Scalene Triangular Pyramid** — *Pyramis Laterata Triangula Inaequilatera Solida* (Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος στερεά)
+   **Solid Scalene Triangular Pyramid** — :term:`*Pyramis Laterata Triangula Inaequilatera Solida* <pyramide-triangula>` (:term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` ἀνισόπλευρος στερεά)
 
 Plate LVI (Folio 0303) — Hollow Scalene Triangular Pyramid
 ----------------------------------------------------------
@@ -579,7 +579,7 @@ Plate LVI (Folio 0303) — Hollow Scalene Triangular Pyramid
 .. figure:: 0303.g1.png
    :align: center
 
-   **Hollow Scalene Triangular Pyramid** — *Pyramis Laterata Triangula Inaequilatera Vacua* (Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος κενή)
+   **Hollow Scalene Triangular Pyramid** — :term:`*Pyramis Laterata Triangula Inaequilatera Vacua* <pyramide-triangula>` (:term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` ἀνισόπλευρος κενή)
 
 Plate LVII (Folio 0305) — Solid Round Column (Cylinder)
 -------------------------------------------------------
@@ -589,7 +589,7 @@ Plate LVII (Folio 0305) — Solid Round Column (Cylinder)
 .. figure:: 0305.g1.png
    :align: center
 
-   **Solid Round Column (Cylinder)** — *Columna Rotunda Solida* (Κίων στρογγύλος στερεός)
+   **Solid Round Column (Cylinder)** — :term:`*Columna Rotunda Solida* <colonna-rotonda>` (:term:`Κίων στρογγύλος <colonna-rotonda>` στερεός)
 
 Plate LVIII (Folio 0307) — Solid Round Pyramid (Cone)
 -----------------------------------------------------
@@ -599,7 +599,7 @@ Plate LVIII (Folio 0307) — Solid Round Pyramid (Cone)
 .. figure:: 0307.g1.png
    :align: center
 
-   **Solid Round Pyramid (Cone)** — *Pyramis Rotunda Solida* (Πυραμὶς στρογγύλη στερεά)
+   **Solid Round Pyramid (Cone)** — :term:`*Pyramis Rotunda Solida* <pyramide-rotonda>` (:term:`Πυραμὶς στρογγύλη <pyramide-rotonda>` στερεά)
 
 Plate LIX (printed LXI) (Folio 0309) — Solid Sphere
 ---------------------------------------------------
@@ -609,4 +609,4 @@ Plate LIX (printed LXI) (Folio 0309) — Solid Sphere
 .. figure:: 0309.g1.png
    :align: center
 
-   **Solid Sphere** — *Sphera Solida* (Σφαῖρα στερεά)
+   **Solid Sphere** — *Sphera Solida* (:term:`Σφαῖρα <spera>` στερεά)

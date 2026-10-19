@@ -4,9 +4,9 @@ Folio 0054 (f. 19v) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0053.rst``): Folio f. 19r (recto), Part I: Compendio de Divina Proportione — Cap. LX, Cap. LXI, Cap. LXII (f. 19r) — Dele colonne laterate quadrilatere.
-- **Current Folio** (``0054.rst``): Folio f. 19v (verso), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. LXII, Cap. LXIII (f. 19v) — Del modo a mesurare tutte sorte colonne e prima dele ro
-- **Following Folio** (``0055.rst``): Folio f. 20r (recto), Part I: Compendio de Divina Proportione — Cap. LXIV, Cap. LXV (f. 20r) — Dele pyramidi e tutte lor differentie.
+- **Preceding Folio** (``0053.rst``): Folio f. 19r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. LX, Cap. LXI, Cap. LXII (f. 19r) — Dele :term:`colonne laterate <colonna-laterata>` quadrilatere.
+- **Current Folio** (``0054.rst``): Folio f. 19v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. LXII, Cap. LXIII (f. 19v) — Del modo a mesurare tutte sorte colonne e prima dele ro
+- **Following Folio** (``0055.rst``): Folio f. 20r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. LXIV, Cap. LXV (f. 20r) — Dele pyramidi e tutte lor differentie.
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -28,7 +28,27 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PARS``
 - **Folio Signature / Numeration**: ``f. 19v`` (Scan page ``54``, *verso*)
-- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. LXII** (``compendio/cap_62``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/062_cap_LXII.txt``
-  - **Cap. LXIII** (``compendio/cap_63``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/063_cap_LXIII.txt``
+  - **Cap. LXII** (``compendio/cap_62``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/062_cap_LXII.txt``
+  - **Cap. LXIII** (``compendio/cap_63``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/063_cap_LXIII.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. LXII — On the Way to Measure All Kinds of Columns, and First the Round Columns (Cylinders).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Marginal Diagrams**: Folio 0054 (``f. 19v``) includes the unit cube diagram ``0054.g7.png`` and the circle inscribed in the square :math:`abcd` with diameter :math:`ef` and center :math:`g` (``0054.g8.png``), visually showing why the circle occupies :math:`\frac{11}{14}` of the circumscribed square and the four corner spandrels occupy :math:`\frac{3}{14}`.
+- **Archimedes' *Measurement of a Circle***: Proposition 3 of Archimedes' *:cite:`Dimensio Circuli <archimedes:dimensio-circuli>`* proves :math:`3\frac{10}{71} < \pi < 3\frac{1}{7}`, whence Proposition 2 states that the area of a circle to the square on its diameter is very nearly :math:`11 : 14`.
+
+Cap. LXIII — On the Way to Know How to Measure All Lateral (Prismatic) Columns.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Reference to the Print Run of the *Summa* (1494)**: Notice Pacioli's proud remark on Folio 0054 (``f. 19v``) that his *:cite:`Summa de Arithmetica <pacioli:summa>`, :term:`Geometria <geometria>`, Proportioni e Proportionalita* (printed at Venice by Paganino de' Paganini in November 1494) is easily accessible to all readers *"per la lor copiosa multitudine stampato e per l'universo ormai divulgata"* ("because of the copious multitude printed and now disseminated throughout the world").

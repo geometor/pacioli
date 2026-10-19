@@ -4,9 +4,9 @@ Folio 0267 (Plate Folio 0267 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0266.rst``): Folio Plate Folio 0266 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0266)
-- **Current Folio** (``0267.rst``): Folio Plate Folio 0267 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XXXIX — Septuaginta Duarum Basium Solidum (Solid 72-Base Body)
-- **Following Folio** (``0268.rst``): Folio Plate Folio 0268 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0268)
+- **Preceding Folio** (``0266.rst``): Folio Plate Folio 0266 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0266)
+- **Current Folio** (``0267.rst``): Folio Plate Folio 0267 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate XXXIX — :term:`Septuaginta Duarum Basium <septuaginta-duarum-basium>` :term:`Solidum <solidum>` (Solid 72-Base Body)
+- **Following Folio** (``0268.rst``): Folio Plate Folio 0268 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0268)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0267 (recto)`` (Scan page ``267``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``XXXIX`` (Plate No. ``39``) | Latin Cartouche: *Septuaginta Duarum Basium Solidum* | Greek Cartouche: Ἑβδομηκονταδισσάεδρον στερεόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XXXIX`` (Plate No. ``39``) | Latin Cartouche: :term:`*Septuaginta Duarum Basium Solidum* <septuaginta-duarum-basium>` | Greek Cartouche: :term:`Ἑβδομηκονταδισσάεδρον <septuaginta-duarum-basium>` :term:`στερεόν <solidum>`

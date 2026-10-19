@@ -16,14 +16,14 @@ CHAPTER XV (English)
 
 .. enunciation::
 
-   It is impossible for any **rational quantity** to be divided according to our said proportion without **each of its parts** being an **irrational line called an apotome** (*residuo*, :just:`XIII.6`).
+   It is impossible for any **rational quantity** to be divided according to our said proportion without **each of its parts** being an **irrational line called an apotome** (:term:`*residuo* <residuo>`, :just:`XIII.6`).
 
 .. assertion:: Numerical Demonstration
 
-   For example, let $10$ be the rational quantity that is to be divided according to the proportion having a mean and two extremes. I say that of necessity each of its parts must be an **apotome** (*residuo*):
+   For example, let $10$ be the rational quantity that is to be divided according to the proportion having a mean and two extremes. I say that of necessity each of its parts must be an :term:`**apotome** <residuo>` (:term:`*residuo* <residuo>`):
    - One part, namely the lesser, will be $15 - \sqrt{125}$;
    - The other, namely the greater, will be $\sqrt{125} - 5$.
 
 .. qed::
 
-   Wherefore it appears that each part is an apotome (*residuo*)—for so such lines are called in the art according to the seventy-ninth [seventy-third] proposition of the Tenth Book (:just:`X.73`). And this effect we have from the sixth proposition of the Thirteenth Book (:just:`XIII.6`).
+   Wherefore it appears that each part is an :term:`apotome <residuo>` (:term:`*residuo* <residuo>`)—for so such lines are called in the art according to the seventy-ninth [seventy-third] proposition of the Tenth Book (:just:`X.73`). And this effect we have from the sixth proposition of the Thirteenth Book (:just:`XIII.6`).

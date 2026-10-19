@@ -4,9 +4,9 @@ Folio 0270 (Plate Folio 0270 (verso)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0269.rst``): Folio Plate Folio 0269 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XL — Septuaginta Duarum Basium Vacuum (Hollow 72-Base Body)
-- **Current Folio** (``0270.rst``): Folio Plate Folio 0270 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0270)
-- **Following Folio** (``0271.rst``): Folio Plate Folio 0271 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XLI — Columna Laterata Triangula Solida (Solid Triangular Prism (Corpus Seratile))
+- **Preceding Folio** (``0269.rst``): Folio Plate Folio 0269 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate XL — :term:`Septuaginta Duarum Basium <septuaginta-duarum-basium>` :term:`Vacuum <vacuum>` (Hollow 72-Base Body)
+- **Current Folio** (``0270.rst``): Folio Plate Folio 0270 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Polyhedra Plate Verso (0270)
+- **Following Folio** (``0271.rst``): Folio Plate Folio 0271 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate XLI — :term:`Columna Laterata Triangula <corpo-seratile>` Solida (Solid Triangular Prism (Corpus Seratile))
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,5 +18,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0270 (verso)`` (Scan page ``270``, *verso*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
 - **Leaf Category**: Polyhedra Plate Verso (0270)

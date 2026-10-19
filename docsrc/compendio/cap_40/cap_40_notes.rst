@@ -14,7 +14,7 @@ CHAPTER XL — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Duality of Icosahedron and Dodecahedron**: Just as ``Cap. XXXVII``–``Cap. XXXVIII`` established the dual reciprocity between the cube (6 faces, 8 vertices) and the octahedron (8 faces, 6 vertices), ``Cap. XL`` (Campanus XV.6) and ``Cap. XLIII`` (Campanus XV.9) establish the dual reciprocity between the icosahedron (20 faces, 12 vertices) and the dodecahedron (12 faces, 20 vertices).
+- **Duality of Icosahedron and Dodecahedron**: Just as ``Cap. XXXVII``–``Cap. XXXVIII`` established the dual reciprocity between the cube (6 faces, 8 vertices) and the :term:`octahedron <octahedron>` (8 faces, 6 vertices), ``Cap. XL`` (:cite:`Campanus XV.6 <campanus:euclid:XV.6>`) and ``Cap. XLIII`` (:cite:`Campanus XV.9 <campanus:euclid:XV.9>`) establish the dual reciprocity between the :term:`icosahedron <icosahedron>` (20 faces, 12 vertices) and the :term:`dodecahedron <dodecahedron>` (12 faces, 20 vertices).
 
 Philological and Folio Apparatus
 --------------------------------

@@ -14,8 +14,8 @@ CHAPTER XXXVIII — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Paganini 1509 Marginal Diagram**: Folio 0039 (``f. 12r``) contains diagram ``0039.g1.png`` showing the octahedron and the cube whose 8 vertices sit at the centroids of the 8 triangular faces.
-- **Exact Ratio**: If the octahedron has edge :math:`s_{\text{octa}}`, its equatorial square has diagonal :math:`s_{\text{octa}}\sqrt{2}`. The centroids of two opposite faces lie at :math:`\frac{1}{3}` of the way from the equatorial midpoints toward the poles, so the face diagonal of the inscribed cube is :math:`\frac{2}{3}s_{\text{octa}}`, and the edge of the inscribed cube is :math:`s_{\text{cube}} = \frac{\sqrt{2}}{3}s_{\text{octa}}`, giving :math:`s_{\text{octa}}^{2} : s_{\text{cube}}^{2} = 9 : 2`.
+- **Paganini 1509 Marginal Diagram**: Folio 0039 (``f. 12r``) contains diagram ``0039.g1.png`` showing the :term:`octahedron <octahedron>` and the cube whose 8 vertices sit at the centroids of the 8 triangular faces.
+- **Exact Ratio**: If the :term:`octahedron <octahedron>` has edge :math:`s_{\text{octa}}`, its equatorial square has diagonal :math:`s_{\text{octa}}\sqrt{2}`. The centroids of two opposite faces lie at :math:`\frac{1}{3}` of the way from the equatorial midpoints toward the poles, so the face diagonal of the inscribed cube is :math:`\frac{2}{3}s_{\text{octa}}`, and the edge of the inscribed cube is :math:`s_{\text{cube}} = \frac{\sqrt{2}}{3}s_{\text{octa}}`, giving :math:`s_{\text{octa}}^{2} : s_{\text{cube}}^{2} = 9 : 2`.
 
 Philological and Folio Apparatus
 --------------------------------

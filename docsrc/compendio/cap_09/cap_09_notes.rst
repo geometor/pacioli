@@ -14,7 +14,7 @@ CHAPTER IX — Critical Commentary & Notes
 Historical and Philological Commentary
 --------------------------------------
 
-1. **Terminology of Roots (*Radix discreta* vs. *Radix surda*)**: Pacioli provides a concise glossary for courtly readers unfamiliar with abacus algebra. The Latin/Italian term *radice sorda* ("deaf" or "mute" root, rendering the Arabic *jadhr asamm*, which in turn translated the Greek $\alpha\lambda\omicron\gamma\omicron\varsigma$, "without ratio" or "inexpressible") denotes an irrational square root such as $\sqrt{10}$ or $\sqrt{125}$ (:just:`X.def.3`).
+1. **Terminology of Roots (*Radix discreta* vs. *Radix surda*)**: Pacioli provides a concise glossary for courtly readers unfamiliar with abacus algebra. The Latin/Italian term *radice sorda* ("deaf" or "mute" root, rendering the Arabic *jadhr asamm*, which in turn translated the Greek $\alpha\lambda\omicron\gamma\omicron\varsigma$, "without ratio" or "inexpressible") denotes an irrational square root such as $\sqrt{10}$ or $\sqrt{125}$ (:cite:`Euclid X.def.3 <euclid:elements:X.def.3>`).
 
 Philological and Folio Apparatus
 --------------------------------

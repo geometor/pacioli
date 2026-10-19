@@ -4,9 +4,9 @@ Folio 0301 (Plate Folio 0301 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0300.rst``): Folio Plate Folio 0300 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0300)
-- **Current Folio** (``0301.rst``): Folio Plate Folio 0301 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate LV — Pyramis Laterata Triangula Inaequilatera Solida (Solid Scalene Triangular Pyramid)
-- **Following Folio** (``0302.rst``): Folio Plate Folio 0302 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0302)
+- **Preceding Folio** (``0300.rst``): Folio Plate Folio 0300 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0300)
+- **Current Folio** (``0301.rst``): Folio Plate Folio 0301 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate LV — :term:`Pyramis Laterata Triangula <pyramide-triangula>` Inaequilatera Solida (Solid Scalene Triangular Pyramid)
+- **Following Folio** (``0302.rst``): Folio Plate Folio 0302 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0302)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0301 (recto)`` (Scan page ``301``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``LV`` (Plate No. ``55``) | Latin Cartouche: *Pyramis Laterata Triangula Inaequilatera Solida* | Greek Cartouche: Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος στερεά
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``LV`` (Plate No. ``55``) | Latin Cartouche: :term:`*Pyramis Laterata Triangula Inaequilatera Solida* <pyramide-triangula>` | Greek Cartouche: :term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` ἀνισόπλευρος στερεά

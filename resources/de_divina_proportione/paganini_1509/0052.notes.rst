@@ -4,9 +4,9 @@ Folio 0052 (f. 18v) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0051.rst``): Folio f. 18r (recto), Part I: Compendio de Divina Proportione — Cap. LVII, Cap. LVIII (f. 18r) — Commo in la spera se collochino tutti li 5 corpi regula
-- **Current Folio** (``0052.rst``): Folio f. 18v (verso), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. LVIII, Cap. LIX, Cap. LX (f. 18v) — De li corpi oblunghi cioè più longhi ouer alti che larg
-- **Following Folio** (``0053.rst``): Folio f. 19r (recto), Part I: Compendio de Divina Proportione — Cap. LX, Cap. LXI, Cap. LXII (f. 19r) — Dele colonne laterate quadrilatere.
+- **Preceding Folio** (``0051.rst``): Folio f. 18r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. LVII, Cap. LVIII (f. 18r) — Commo in la :term:`spera <spera>` se collochino tutti li 5 corpi regula
+- **Current Folio** (``0052.rst``): Folio f. 18v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. LVIII, Cap. LIX, Cap. LX (f. 18v) — De li corpi oblunghi cioè più longhi ouer alti che larg
+- **Following Folio** (``0053.rst``): Folio f. 19r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. LX, Cap. LXI, Cap. LXII (f. 19r) — Dele :term:`colonne laterate <colonna-laterata>` quadrilatere.
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -22,8 +22,42 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PARS``
 - **Folio Signature / Numeration**: ``f. 18v`` (Scan page ``52``, *verso*)
-- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. LVIII** (``compendio/cap_58``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/058_cap_LVIII.txt``
-  - **Cap. LIX** (``compendio/cap_59``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/059_cap_LIX.txt``
-  - **Cap. LX** (``compendio/cap_60``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/060_cap_LX.txt``
+  - **Cap. LVIII** (``compendio/cap_58``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/058_cap_LVIII.txt``
+  - **Cap. LIX** (``compendio/cap_59``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/059_cap_LIX.txt``
+  - **Cap. LX** (``compendio/cap_60``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/060_cap_LX.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. LVIII — On Oblong Bodies, That Is, Bodies Longer or Higher Than They Are Wide: And First on the Round Column (Cylinder, Plates XLIII–XLIV).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Marginal Diagram & Plates**:
+  - Folio 0052 (``f. 18v``) displays diagram ``0052.g1.png`` showing the axial rectangle :math:`dcef` of the cylinder with its axis :math:`ab` and diagonal :math:`de` intersecting at the center :math:`g`.
+  - **Plate XLIII** (``0277.rst``) and **Plate XLIV** (``0279.rst``): Note that in the 1509 plates, Plates XLIII–XLIV show the round cone (*Cono Solido / Vacuo*) while the marginal text numerals shifted slightly between prisms and cones; ``Cap. LXX`` explains how to match the Roman numerals in the margins.
+- **Comparison with Earlier Draft Track**: The earlier ``divina_en_2/58.txt`` draft omitted the entire Euclidean proof (:cite:`Euclid I.15 <euclid:elements:I.15>`, :cite:`Euclid I.26 <euclid:elements:I.26>`, :cite:`Euclid III.31 <euclid:elements:III.31>`) that the center :math:`g` bisects both the axis :math:`ab` and the diagonal :math:`de` so that every right cylinder is inscribable in a sphere.
+
+Cap. LIX — On Lateral (Faceted) Columns, and First on the Three-Sided (Triangular) Column, Called the Serratile Body (Plates XLV–XLVI).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Plates Referenced**:
+  - **Plate XLV** (``0281.rst``, *Laterato Solido* / Triangular Prism, solid) and **Plate XLVI** (``0283.rst``, *Laterato Vacuo* / Triangular Prism, skeletal).
+- **Etymology of *:term:`Corpo Seratile <corpo-seratile>`***: In the medieval Gerard of Cremona and Campanus translations of Euclid Books XI–XII, a triangular prism (:g:`prisma`) is rendered *corpus serratile* ("sawed body").
+
+Cap. LX — On Four-Sided (Quadrilateral) Lateral Columns and the Five Species of Quadrilaterals (Plates XLVII–XLVIII).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Arabic-Latin Geometric Terminology (*Elmuaym* and *:term:`Elmuariffe <elmuariffe>`*)**: In Adelard of Bath's, Gerard of Cremona's, and Campanus's Latin editions of Euclid Euclid I.Def.22, the Arabic terms *al-mu'ayyan* (rhombus) and *al-munharif* (trapezium / irregular quadrilateral) were transliterated as *helmuaym*, *simile helmuaym* (rhomboid), and *helmuariphe* (*:term:`elmuariffe <elmuariffe>`*). Pacioli preserves both the Greek/Italian terms (*rombo*, *romboide*, *irregulari*) and the Campanian Arabic-Latin terms (*elmuaym*, *:term:`elmuariffe <elmuariffe>`*), illustrating each with lettered marginal woodcuts ``A, B, C, D, E`` on Folios 0053–0054.
+- **Paganini 1509 Plates Referenced**:
+  - **Plate XLVII** (``0285.rst``, Quadrilateral Prism, solid) and **Plate XLVIII** (``0287.rst``, Quadrilateral Prism, skeletal).

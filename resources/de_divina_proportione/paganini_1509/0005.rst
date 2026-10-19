@@ -13,52 +13,26 @@ Folio 0005 (A1r) — Title Page — Divina Proportione (1509)
 .. picture:: 0005.c1.png
    :alt: Folio 0005 Capolettera c1
 
-Divina proportione
+:term:`Divina proportione <divina-proportione>`: opera a tutti gl'ingegni perspicaci e curiosi necessaria, ove ciascun studioso di Philosophia, :term:`Perspectiva <perspectiva>`, Pictura, Sculptura, Architectura, Musica e altre Mathematiche, suavissima, sottile e admirabile doctrina conseguirà; e delectarassi, con varie questione de secretissima scientia.
 
-opera a tutti glingegni perspicaci e curiosi necessaria oue ciascun
-studioso di Philosophia, Perspectiua, Pictura, Sculptura, Archi-
-tectura, Musica e altre Mathematiche suauissima sottile e admi-
-rabile doctrina contegiura e delectarassi con uarie questione de
-secretissima scientia.
+M. :person:`Antonio Capella <antonio-capella>` eruditissimo recensente: Venetiis impressum per probum virum :person:`Paganinum de Paganinis de Brixia <paganino-de-paganini>`, anno M.D.VIIII.
 
-M. Ant. Capella eruditiss. recensente.
+Danielis Caietani Cremonensis Epigramma
+---------------------------------------
 
-Venetiis impressum per probum virum
-
-Paganinum de Paganinis de Brescia
-
-i5og.
-
-Danielis Cajetani Cremonensis Epigramma.
-
-Natura omnipotens produxit corpora quinque
-
-Simplicia haec certo nomine dieta manent
-
-Composito in numerum Concurrunt addita cuique
-
-Atque Inter sese Consociata vigent
-
-Condita principio pura et sine labe fuere
-
-Nomina sunt aer Coelum. Aqua, fiamma et humus
-
-Foetibus innumeris. Voluit piato maximus illa
-
-Esse: vbi est primum sumpta figura: dare
-
-Sed quia naturae lex nil concedit inane
-
-(In coelo et Mundo dixit Aristoteles)
-
-Quodque vnum per se positum est. Caret atque figura
-
-Nulla subest oculi Supposito species.
-
-Propterea Euclidae sublimius atque Piatonis
-
-Ingenium excussit Sphaerica quinque alia
-
-Jocunda aspectu et multum irritantia Sensum
-
-Monstrauere bases vt latus omne docet.
+| Natura omnipotens produxit corpora quinque,
+| Simplicia haec certo nomine dicta manent.
+| Composito in numerum concurrunt addita cuique,
+| Atque inter sese consociata vigent.
+| Condita principio pura et sine labe fuere:
+| Nomina sunt aër, coelum, aqua, flamma et humus.
+| Foetibus innumeris voluit :person:`Plato <plato>` maximus illa
+| Esse, ubi est primum sumpta figura, dare.
+| Sed quia naturae lex nil concedit inane
+| (:cite:`*In Coelo et Mundo* <aristotle:de-caelo:III.8>` dixit :person:`Aristoteles <aristotle>`),
+| Quodque unum per se positum est, caret atque figura,
+| Nulla subest oculi supposito species:
+| Propterea :person:`Euclidae <euclid>` sublimius atque :person:`Platonis <plato>`
+| Ingenium excussit sphaerica quinque alia,
+| Iocunda aspectu et multum irritantia sensum,
+| Monstravere bases ut latus omne docet.

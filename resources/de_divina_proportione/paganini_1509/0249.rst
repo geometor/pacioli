@@ -16,5 +16,5 @@ Folio 0249 (Plate Folio 0249 (recto)) — Tabula XXX — Dodecahedron Abscisum V
 Tabula XXX (No. 30)
 -------------------
 
-- **Titulus Latinus**: *Dodecahedron Abscisum Vacuum*
-- **Titulus Graecus**: Δωδεκάεδρον ἀποτετμημένον κενόν
+- **Titulus Latinus**: :term:`*Dodecahedron Abscisum Vacuum* <dodecahedron-abscisum>`
+- **Titulus Graecus**: :term:`Δωδεκάεδρον ἀποτετμημένον <dodecahedron-abscisum>` :term:`κενόν <vacuum>`

@@ -14,7 +14,7 @@ CHAPTER XLII — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Chain of Three Inscriptions**: Notice the genealogical chain of reductions: Icosahedron :math:`\supset` Dodecahedron (XV.6, 20 vertices at face-centers) :math:`\supset` Cube (XV.7, 8 of those 20 vertices) :math:`\supset` Tetrahedron (XV.2/XV.8, 4 of those 8 vertices).
+- **Chain of Three Inscriptions**: Notice the genealogical chain of reductions: :term:`Icosahedron <icosahedron>` :math:`\supset` :term:`Dodecahedron <dodecahedron>` (XV.6, 20 vertices at face-centers) :math:`\supset` Cube (XV.7, 8 of those 20 vertices) :math:`\supset` :term:`Tetrahedron <tetrahedron>` (XV.2/XV.8, 4 of those 8 vertices).
 
 Philological and Folio Apparatus
 --------------------------------

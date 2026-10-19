@@ -6,7 +6,7 @@ Summary & Folio Continuity
 
 - **Preceding Folio** (``0003.rst``): Folio Flyleaf 2r (recto), Front Matter and Dedications — Flyleaf (Flyleaf 2r)
 - **Current Folio** (``0004.rst``): Folio Flyleaf 2v (verso), Front Matter and Dedications [``00_front_matter``] — Flyleaf (Flyleaf 2v)
-- **Following Folio** (``0005.rst``): Folio A1r (recto), Front Matter and Dedications — Title Page — Divina Proportione (1509)
+- **Following Folio** (``0005.rst``): Folio A1r (recto), Front Matter and Dedications — Title Page — :term:`Divina Proportione <divina-proportione>` (1509)
 
 Graphic Extraction & Calibration
 --------------------------------

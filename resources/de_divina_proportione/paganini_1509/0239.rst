@@ -16,5 +16,5 @@ Folio 0239 (Plate Folio 0239 (recto)) — Tabula XXV — Icosahedron Elevatum So
 Tabula XXV (No. 25)
 -------------------
 
-- **Titulus Latinus**: *Icosahedron Elevatum Solidum*
-- **Titulus Graecus**: Εἰκοσάεδρον ἐπηρμένον στερεόν
+- **Titulus Latinus**: :term:`*Icosahedron Elevatum Solidum* <icosahedron-elevatum>`
+- **Titulus Graecus**: :term:`Εἰκοσάεδρον ἐπηρμένον <icosahedron-elevatum>` :term:`στερεόν <solidum>`

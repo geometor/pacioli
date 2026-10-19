@@ -13,7 +13,7 @@ Folio 0311 (End Matter 0311 (recto)) — Arbor Proportio et Proportionalitas
 .. picture:: 0311.g1.png
    :alt: Folio 0311 Tavola g1
 
-ARBOR PROPORTIO ET PROPORTIONALITAS.
+:term:`ARBOR PROPORTIO ET PROPORTIONALITAS <arbor-proportionis>`.
 
 Maxime geometre interest de proportionibus totaliter disserere. Nam arithmeticus non invenit in omnibus numeris proportionis modum: infinite. n. sunt proportiones quas numerorum natura non patitur ut ex 5. elementorum E. clare habetur.
 

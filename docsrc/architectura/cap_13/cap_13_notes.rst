@@ -14,7 +14,7 @@ CHAPTER XIII — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Structural Continuity of Column and Triglyph**: In the classical orders (Vitruvius IV.2–3), triglyphs represent the ornamental ends of the ceiling beams resting upon the architrave directly above the columns; hence their spacing is locked to the intercolumniation below.
+- **Structural Continuity of Column and Triglyph**: In the classical orders (:cite:`Vitruvius IV.2–3 <vitruvius:de-arch:IV.2–3>`), :term:`triglyphs <tygraphi>` represent the ornamental ends of the ceiling beams resting upon the :term:`architrave <epistilio>` directly above the columns; hence their spacing is locked to the intercolumniation below.
 
 Philological and Folio Apparatus
 --------------------------------

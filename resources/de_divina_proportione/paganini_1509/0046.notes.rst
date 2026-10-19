@@ -4,9 +4,9 @@ Folio 0046 (f. 15v) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0045.rst``): Folio f. 15r (recto), Part I: Compendio de Divina Proportione — Cap. L, Cap. LI, Cap. LII (f. 15r) — Delo octocedron piano solido o ver vacuo e absciso soli
-- **Current Folio** (``0046.rst``): Folio f. 15v (verso), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. LII, Cap. LIII (f. 15v) — Del duodecedron piano solido o ver vacuo edelo absciso
-- **Following Folio** (``0047.rst``): Folio f. 16r (recto), Part I: Compendio de Divina Proportione — Cap. LIII, Cap. LIV (f. 16r) — Del corpo de 26 basi e suo origine piano solido ouer va
+- **Preceding Folio** (``0045.rst``): Folio f. 15r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. L, Cap. LI, Cap. LII (f. 15r) — Delo :term:`octocedron <octahedron>` piano solido o ver vacuo e absciso soli
+- **Current Folio** (``0046.rst``): Folio f. 15v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. LII, Cap. LIII (f. 15v) — Del :term:`duodecedron <dodecahedron>` piano solido o ver vacuo edelo absciso
+- **Following Folio** (``0047.rst``): Folio f. 16r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. LIII, Cap. LIV (f. 16r) — Del :term:`corpo de 26 basi <vigintisex-basium>` e suo origine piano solido ouer va
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,7 +20,39 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PARS``
 - **Folio Signature / Numeration**: ``f. 15v`` (Scan page ``46``, *verso*)
-- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. LII** (``compendio/cap_52``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/052_cap_LII.txt``
-  - **Cap. LIII** (``compendio/cap_53``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/053_cap_LIII.txt``
+  - **Cap. LII** (``compendio/cap_52``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/052_cap_LII.txt``
+  - **Cap. LIII** (``compendio/cap_53``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/053_cap_LIII.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. LII — On the Disposition of the Duodecedron: Regular (Plates XXV–XXVI), Truncated (Plates XXVII–XXVIII), Elevated (Plates XXIX–XXX), and the Elevated Truncated Bodies (Plates XXXI–XXXIV).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Plates Referenced**:
+  - **Plate XXV** (``0241.rst``): :term:`*Duodecedron Planum Solidum* <dodecahedron>` (:term:`Dodecahedron <dodecahedron>`, solid).
+  - **Plate XXVI** (``0243.rst``): :term:`*Duodecedron Planum Vacuum* <dodecahedron>` (:term:`Dodecahedron <dodecahedron>`, skeletal).
+  - **Plate XXVII** (``0245.rst``): :term:`*Duodecedron Abscisum Solidum* <dodecahedron>` (:term:`**Icosidodecahedron** <dodecahedron-abscisum>`, Archimedean solid :math:`(3.5)^2` of 12 pentagons and 20 triangles, solid).
+  - **Plate XXVIII** (``0247.rst``): :term:`*Duodecedron Abscisum Vacuum* <dodecahedron>` (:term:`Icosidodecahedron <dodecahedron-abscisum>`, skeletal).
+  - **Plate XXIX** (``0249.rst``): :term:`*Duodecedron Elevatum Solidum* <dodecahedron>` (Equilateral pentagonal cumulation of the :term:`dodecahedron <dodecahedron>`, solid—visually identical in vertex/face topology to Kepler's **Small Stellated Dodecahedron**!).
+  - **Plate XXX** (``0251.rst``): :term:`*Duodecedron Elevatum Vacuum* <dodecahedron>` (Elevated :term:`dodecahedron <dodecahedron>`, skeletal).
+  - **Plate XXXI–XXXII** (``0253.rst``, ``0255.rst``): :term:`*Exacedron Abscisum Elevatum Solidum / Vacuum* <exahedron>` (Cumulated :term:`cuboctahedron <exahedron-abscisum>`, 48 triangular faces).
+  - **Plate XXXIII–XXXIV** (``0257.rst``, ``0259.rst``): :term:`*Duodecedron Abscisum Elevatum Solidum / Vacuum* <dodecahedron>` (Cumulated :term:`icosidodecahedron <dodecahedron-abscisum>`, 120 triangular faces).
+
+Cap. LIII — On the Formation and Origin of the Body of Twenty-Six Bases: Eighteen Squares and Eight Equilateral Triangles (Plates XXXV–XXXVIII).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Plates Referenced**:
+  - **Plate XXXV** (``0261.rst``): :term:`*Vigintisex Basium Planum Solidum* <vigintisex-basium>` (:term:`**Rhombicuboctahedron** <vigintisex-basium>`, Archimedean solid :math:`(3.4^3)` of 18 squares and 8 equilateral triangles, solid).
+  - **Plate XXXVI** (``0263.rst``): :term:`*Vigintisex Basium Planum Vacuum* <vigintisex-basium>` (:term:`Rhombicuboctahedron <vigintisex-basium>`, skeletal).
+  - **Plate XXXVII** (``0265.rst``): :term:`*Vigintisex Basium Elevatum Solidum* <vigintisex-basium-elevatum>` (Cumulated :term:`rhombicuboctahedron <vigintisex-basium>`, 96 triangular faces, solid).
+  - **Plate XXXVIII** (``0267.rst``): :term:`*Vigintisex Basium Elevatum Vacuum* <vigintisex-basium-elevatum>` (Cumulated :term:`rhombicuboctahedron <vigintisex-basium>`, skeletal).
+- **Jacopo de' Barbari's 1495 Portrait of Pacioli**: The glass :term:`*Vigintisex Basium* <vigintisex-basium>` half-filled with water hanging from a thin cord in Jacopo de' Barbari's famous 1495 Capodimonte portrait of :person:`Fra Luca Pacioli <pacioli>` (and the wooden :term:`dodecahedron <dodecahedron>` resting on Pacioli's *Summa*) is this exact 26-base :term:`rhombicuboctahedron <vigintisex-basium>`!

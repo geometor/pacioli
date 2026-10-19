@@ -4,8 +4,8 @@ Folio 0311 (End Matter 0311 (recto)) — Transcription & Graphic Calibration Not
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0310.rst``): Folio Plate Folio 0310 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0310)
-- **Current Folio** (``0311.rst``): Folio End Matter 0311 (recto) (recto), End Matter and Colophon [``06_end_matter``] — Arbor Proportio et Proportionalitas
+- **Preceding Folio** (``0310.rst``): Folio Plate Folio 0310 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0310)
+- **Current Folio** (``0311.rst``): Folio End Matter 0311 (recto) (recto), End Matter and Colophon [``06_end_matter``] — :term:`Arbor Proportio et Proportionalitas <arbor-proportionis>`
 - **Following Folio** (``0312.rst``): Folio End Matter 0312 (verso) (verso), End Matter and Colophon — Endleaf (0312)
 
 Graphic Extraction & Calibration
@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0311.png``:
 
-- **``g1``** (``0311.g1.png``): Type ``plate`` | Caption: *Arbor Proportio et Proportionalitas* | Bounding Box ``[x=0, y=0, w=1167, h=1608]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0311.g1.png``): Type ``plate`` | Caption: :term:`*Arbor Proportio et Proportionalitas* <arbor-proportionis>` | Bounding Box ``[x=0, y=0, w=1167, h=1608]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------
@@ -21,4 +21,4 @@ Diplomatic & Textual Observations
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``End Matter 0311 (recto)`` (Scan page ``311``, *recto*)
 - **Book & Section Slug**: End Matter and Colophon (``06_end_matter``)
-- **Leaf Category**: Arbor Proportio et Proportionalitas
+- **Leaf Category**: :term:`Arbor Proportio et Proportionalitas <arbor-proportionis>`

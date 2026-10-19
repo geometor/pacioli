@@ -4,9 +4,9 @@ Folio 0213 (Plate Folio 0213 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0212.rst``): Folio Plate Folio 0212 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0212)
-- **Current Folio** (``0213.rst``): Folio Plate Folio 0213 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Architectural Plate — Colonna Corinta, Jonica e Pulvinata con Stilobata e Steriobata
-- **Following Folio** (``0214.rst``): Folio Plate Folio 0214 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0214)
+- **Preceding Folio** (``0212.rst``): Folio Plate Folio 0212 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0212)
+- **Current Folio** (``0213.rst``): Folio Plate Folio 0213 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Architectural Plate — Colonna Corinta, Jonica e :term:`Pulvinata <pulvinata>` con :term:`Stilobata <stilobata>` e :term:`Steriobata <steriobata>`
+- **Following Folio** (``0214.rst``): Folio Plate Folio 0214 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0214)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0213 (recto)`` (Scan page ``213``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Leaf Category**: Architectural Plate — Colonna Corinta, Jonica e Pulvinata con Stilobata e Steriobata
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Leaf Category**: Architectural Plate — Colonna Corinta, Jonica e :term:`Pulvinata <pulvinata>` con :term:`Stilobata <stilobata>` e :term:`Steriobata <steriobata>`

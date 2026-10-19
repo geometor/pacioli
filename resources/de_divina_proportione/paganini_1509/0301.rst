@@ -16,5 +16,5 @@ Folio 0301 (Plate Folio 0301 (recto)) — Tabula LV — Pyramis Laterata Triangu
 Tabula LV (No. 55)
 ------------------
 
-- **Titulus Latinus**: *Pyramis Laterata Triangula Inaequilatera Solida*
-- **Titulus Graecus**: Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος στερεά
+- **Titulus Latinus**: :term:`*Pyramis Laterata Triangula Inaequilatera Solida* <pyramide-triangula>`
+- **Titulus Graecus**: :term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` ἀνισόπλευρος στερεά

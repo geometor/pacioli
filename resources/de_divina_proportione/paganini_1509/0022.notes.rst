@@ -4,9 +4,9 @@ Folio 0022 (f. 3v) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0021.rst``): Folio f. 3r (recto), Part I: Compendio de Divina Proportione — Cap. II, Cap. III (f. 3r) — Reuerendi Patris Magistri Luce pacioli de Burgo San Sep
-- **Current Folio** (``0022.rst``): Folio f. 3v (verso), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. III, Cap. IV, Cap. V (f. 3v) — Finito el proheraio seguita chiarire quello che per que
-- **Following Folio** (``0023.rst``): Folio f. 4r (recto), Part I: Compendio de Divina Proportione — Cap. V, Cap. VI, Cap. VII (f. 4r) — Del condecente titulo del presente tractato.
+- **Preceding Folio** (``0021.rst``): Folio f. 3r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. II, Cap. III (f. 3r) — Reuerendi Patris Magistri Luce pacioli de Burgo San Sep
+- **Current Folio** (``0022.rst``): Folio f. 3v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. III, Cap. IV, Cap. V (f. 3v) — Finito el proheraio seguita chiarire quello che per que
+- **Following Folio** (``0023.rst``): Folio f. 4r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. V, Cap. VI, Cap. VII (f. 4r) — Del condecente titulo del presente tractato.
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -21,8 +21,47 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PARS``
 - **Folio Signature / Numeration**: ``f. 3v`` (Scan page ``22``, *verso*)
-- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. III** (``compendio/cap_03``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/003_cap_III.txt``
-  - **Cap. IV** (``compendio/cap_04``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/004_cap_IV.txt``
-  - **Cap. V** (``compendio/cap_05``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/005_cap_V.txt``
+  - **Cap. III** (``compendio/cap_03``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/003_cap_III.txt``
+  - **Cap. IV** (``compendio/cap_04``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/004_cap_IV.txt``
+  - **Cap. V** (``compendio/cap_05``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/005_cap_V.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. III — The Preface Being Ended, There Follows an Explanation of What Is Meant by This Name 'Mathematical'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical and Philological Commentary
+--------------------------------------
+
+1. **The Lacuna for the Greek Word in the 1509 Printing**: In the 1509 Paganini edition (Folio 0021r), the compositor left a blank space after *derivato da* for the Greek word $\mu\alpha\theta\eta\mu\alpha\tau\iota\kappa\acute{o}\varsigma$ (or $\mu\alpha\nu\theta\acute{\alpha}\nu\omega$ / $\mu\acute{\alpha}\theta\eta\mu\alpha$), which Pacioli regularly glosses in his *Summa* and his 1509 edition of :person:`Euclid <euclid>` as *disciplinabile*.
+2. **Reforming the Quadrivium — Perspective as a Liberal Art**: Chapter III is one of the defining documents of the Italian Renaissance elevation of the visual arts from *artes mechanicae* to *artes liberales*. Challenging :person:`Boethius <boethius>`'s canonical fourfold :term:`*Quadrivium* <quadrivio>` (Arithmetic, Music, Geometry, Astronomy), Pacioli argues on strictly parallel epistemological and mathematical grounds that :term:`*Prospectiva* <perspectiva>` (linear perspective and the science of visual rays, pioneered by :person:`Piero della Francesca <piero-della-francesca>`, :person:`Leon Battista Alberti <alberti>`, and :person:`Leonardo da Vinci <leonardo>`) stands on an equal footing with Music:
+   - **Sense Hierarchy**: Sight (*el vedere*, the *prima porta al intellecto*) is nobler than hearing (*l'udito*).
+   - **Mathematical Object**: Measure of the visual ray (*linea visuale*) and natural number vs. sonorous number (*numero sonoro*) and musical time (*tempo de sue prolationi*).
+   - **Proportional Scope**: Arithmetic and geometric proportions of foreshortening vs. harmonic proportions.
+3. **Second Ekphrasis of Leonardo's *:term:`Last Supper <simulacro>`***: Pacioli specifies the exact dramatic moment depicted by Leonardo in the refectory of Santa Maria delle Grazie: Christ's words *Unus vestrum me traditurus est* (Matthew 26:21), capturing the Apostles' *acti e gesti* ("actions and gestures", corresponding directly to Leonardo's theory of *moti mentali* expressed through bodily movements).
+
+Cap. IV — On Those Things Which the Reader Must Observe for the Understanding of This Treatise
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical and Philological Commentary
+--------------------------------------
+
+1. **Citation Convention (`la prima del primo`)**: Pacioli codifies the standard medieval and Renaissance citation formula for :person:`Euclid <euclid>`'s *Elements* (in the fifteen-book :person:`Campanus of Novara <campanus>` edition, where Book XIV is :person:`Hypsicles <hypsicles>`' treatise on the :term:`dodecahedron <dodecahedron>` and :term:`icosahedron <icosahedron>`, and Book XV is the late-antique treatise on inscribing the five Platonic solids in one another). Note that propositional numbering in the :person:`Campanus <campanus>` Latin edition occasionally differs by one or two from the modern Heiberg Greek text (notably in Books VI, X, XIII, and XIV); in our critical commentary we cross-reference both the :person:`Campanus <campanus>` number cited by Pacioli and the standard Heiberg/GEOMETOR G-Index identifier.
+2. **Algebraic Abbreviations (*Cosa, Censo, Cubo*)**: Pacioli connects the symbolic syncopation of Renaissance Italian abacus algebra (*R.* = *radice*, *p.* = *più*, *m.* = *meno*, *co.* = *cosa*, *ce.* = *censo*, *cu.* = *cubo*) to the professional notation systems of apothecaries, goldsmiths, astrologers, and merchants.
+3. **Geometric-Arithmetical Isomorphism**: Pacioli explicitly equates the arithmetical operations of *multiplicatione* / *producto* ($a \cdot b$) and *quadrato* ($a^2$) with their Euclidean Book II geometric counterparts: *rectangolo* (the rectangle contained by two segments) and :term:`*potentia* <potentia>` (the square on a segment, rendering the Greek $\delta\acute{\upsilon}\nu\alpha\mu\iota\varsigma$, as in the Pythagorean Theorem, :cite:`Euclid I.47 <euclid:elements:I.47>`, *l'ultima del primo*).
+
+Cap. V — On the Fitting Title of the Present Treatise
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical and Philological Commentary
+--------------------------------------
+
+1. **Coining the Name *:term:`Divina Proportione <divina-proportione>`***: Prior to Pacioli's treatise, Euclid's division of a line in extreme and mean ratio (Euclid VI.def.3, $\ddot{\alpha}\kappa\rho\omicron\varsigma \kappa\alpha\grave{\iota} \mu\acute{\epsilon}\sigma\omicron\varsigma \lambda\acute{\omicron}\gamma\omicron\varsigma$) was known in medieval Latin exclusively by Gerard of Cremona's and Campanus of Novara's rendering *proportio habens medium et duo extrema* ("proportion having a mean and two extremes"). Chapter V is the historic locus where Pacioli christens the ratio $\phi = \frac{1+\sqrt{5}}{2}$ the *:term:`*Divine Proportion* <divina-proportione>`* (*:term:`Divina Proportione <divina-proportione>`*), grounding the name in five Scholastic-Platonic analogies:
+   1. **Unicity**: Unlike :term:`multiplex <multiplex>` or superparticular ratios ($2:1, 3:1, 3:2, 4:3, \dots$), which form infinite families of species, :term:`extreme and mean ratio <extrema-et-media-ratio>` is unique (*una sola e non più*).
+   2. **Trinitarian Structure**: :term:`Continuous proportion <proportione-continua>` requires a minimum of three terms ($a+b : a :: a : b$), mirroring the *una substantia in tribus personis* of Trinitarian theology.
+   3. **Apophatic Ineffability**: The incommensurability of $\phi$ (:cite:`Euclid XIII.6 <euclid:elements:XIII.6>`) is compared to negative (apophatic) theology: just as God transcends finite verbal definition, $\phi$ transcends rational numerical expression (*occulta e secreta*).
+   4. **Self-Similarity and Invariance**: Echoing the Neoplatonic and Augustinian maxim that God is *totus in toto et totus in qualibet parte*, $\phi$ remains invariant across all scales and self-replicates upon subdivision or addition (:cite:`Euclid XIII.4 <euclid:elements:XIII.4>`, :cite:`Euclid XIV.2 <euclid:elements:XIV.2>`).
+   5. **Cosmological Formative Principle (Plato's *:cite:`Timaeus <plato:timaeus:53c-56c>`*)**: Combining Aristotle's *:cite:`De Caelo <aristotle:de-caelo:III.8>`* (the celestial *:term:`quinta essentia <quinta-essentia>`*) with Plato's *:cite:`Timaeus <plato:timaeus:53c-56c>`* 53c–56c (:term:`Tetrahedron <tetrahedron>` = Fire, Cube = Earth, :term:`Octahedron <octahedron>` = Air, :term:`Icosahedron <icosahedron>` = Water, :term:`Dodecahedron <dodecahedron>` = the Cosmos/Heaven), Pacioli argues that because the regular pentagon and :term:`dodecahedron <dodecahedron>`—and the mutual proportions of all five Platonic solids inscribed in a single sphere (:cite:`Euclid XIII.13 <euclid:elements:XIII.13>`–:cite:`Euclid XIII.18 <euclid:elements:XIII.18>`)—depend essentially on $\phi$, the :term:`Divine Proportion <divina-proportione>` is the formal geometric principle of cosmic order.

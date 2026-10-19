@@ -4,9 +4,9 @@ Folio 0306 (Plate Folio 0306 (verso)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0305.rst``): Folio Plate Folio 0305 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate LVII — Columna Rotunda Solida (Solid Round Column (Cylinder))
-- **Current Folio** (``0306.rst``): Folio Plate Folio 0306 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0306)
-- **Following Folio** (``0307.rst``): Folio Plate Folio 0307 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate LVIII — Pyramis Rotunda Solida (Solid Round Pyramid (Cone))
+- **Preceding Folio** (``0305.rst``): Folio Plate Folio 0305 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate LVII — :term:`Columna Rotunda <colonna-rotonda>` Solida (Solid Round Column (Cylinder))
+- **Current Folio** (``0306.rst``): Folio Plate Folio 0306 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Polyhedra Plate Verso (0306)
+- **Following Folio** (``0307.rst``): Folio Plate Folio 0307 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate LVIII — :term:`Pyramis Rotunda <pyramide-rotonda>` Solida (Solid Round Pyramid (Cone))
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,5 +18,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0306 (verso)`` (Scan page ``306``, *verso*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
 - **Leaf Category**: Polyhedra Plate Verso (0306)

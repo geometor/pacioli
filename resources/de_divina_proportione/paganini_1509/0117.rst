@@ -31,4 +31,4 @@ Folio 0117 (Libellus f. 17r) — Libellus — Tractatus Tertius (Libellus f. 17r
 Pars Tertia: Libellus in tres partiales tractatus divisus
 ---------------------------------------------------------
 
-**Tractatus Tertius (Libellus f. 17r)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela spera.
+**Tractatus Tertius (Libellus f. 17r)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela :term:`spera <spera>`.

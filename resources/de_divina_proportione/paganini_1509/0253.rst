@@ -16,5 +16,5 @@ Folio 0253 (Plate Folio 0253 (recto)) — Tabula XXXII — Dodecahedron Elevatum
 Tabula XXXII (No. 32)
 ---------------------
 
-- **Titulus Latinus**: *Dodecahedron Elevatum Vacuum*
-- **Titulus Graecus**: Δωδεκάεδρον ἐπηρμένον κενόν
+- **Titulus Latinus**: :term:`*Dodecahedron Elevatum Vacuum* <dodecahedron-elevatum>`
+- **Titulus Graecus**: :term:`Δωδεκάεδρον ἐπηρμένον <dodecahedron-elevatum>` :term:`κενόν <vacuum>`

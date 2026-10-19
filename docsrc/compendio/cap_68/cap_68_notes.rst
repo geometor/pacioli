@@ -14,7 +14,7 @@ CHAPTER LXVIII — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Subtraction of the *Pyramidella* vs. Heron's Mean-Base Formula**: In the *Summa de Arithmetica* (Part II, *Tractatus Geometriae*, Dist. VI), Pacioli gives both this geometric completion-and-subtraction method (:math:`V = \frac{1}{3}B_1 h_{\text{total}} - \frac{1}{3}B_2 h_{\text{top}}`) and the equivalent algebraic formula :math:`V = \frac{1}{3}h(B_1 + \sqrt{B_1 B_2} + B_2)`. Notice how the completion-and-subtraction method prepares the exact conceptual model for measuring **truncated (*abscisi*) polyhedra** in the very next chapter (``Cap. LXIX``)!
+- **Subtraction of the *Pyramidella* vs. Heron's Mean-Base Formula**: In the *:cite:`Summa de Arithmetica <pacioli:summa>`* (Part II, *Tractatus Geometriae*, Dist. VI), Pacioli gives both this geometric completion-and-subtraction method (:math:`V = \frac{1}{3}B_1 h_{\text{total}} - \frac{1}{3}B_2 h_{\text{top}}`) and the equivalent algebraic formula :math:`V = \frac{1}{3}h(B_1 + \sqrt{B_1 B_2} + B_2)`. Notice how the completion-and-subtraction method prepares the exact conceptual model for measuring **truncated (*:term:`abscisi <abscisum>`*) polyhedra** in the very next chapter (``Cap. LXIX``)!
 
 Philological and Folio Apparatus
 --------------------------------

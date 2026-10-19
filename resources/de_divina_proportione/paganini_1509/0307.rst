@@ -16,5 +16,5 @@ Folio 0307 (Plate Folio 0307 (recto)) — Tabula LVIII — Pyramis Rotunda Solid
 Tabula LVIII (No. 58)
 ---------------------
 
-- **Titulus Latinus**: *Pyramis Rotunda Solida*
-- **Titulus Graecus**: Πυραμὶς στρογγύλη στερεά
+- **Titulus Latinus**: :term:`*Pyramis Rotunda Solida* <pyramide-rotonda>`
+- **Titulus Graecus**: :term:`Πυραμὶς στρογγύλη <pyramide-rotonda>` στερεά

@@ -4,7 +4,7 @@ Folio 0006 (A1v) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0005.rst``): Folio A1r (recto), Front Matter and Dedications — Title Page — Divina Proportione (1509)
+- **Preceding Folio** (``0005.rst``): Folio A1r (recto), Front Matter and Dedications — Title Page — :term:`Divina Proportione <divina-proportione>` (1509)
 - **Current Folio** (``0006.rst``): Folio A1v (verso), Front Matter and Dedications [``00_front_matter``] — Epigrams and Author's Sonnet (Cinque corpi in natura son producti)
 - **Following Folio** (``0007.rst``): Folio A2r (recto), Front Matter and Dedications — Epistola ad Petrum Soderinum (1509)
 

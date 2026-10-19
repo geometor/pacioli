@@ -4,9 +4,9 @@ Folio 0296 (Plate Folio 0296 (verso)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0295.rst``): Folio Plate Folio 0295 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate LII — Pyramis Laterata Penthagona Vacua (Hollow Pentagonal Pyramid)
-- **Current Folio** (``0296.rst``): Folio Plate Folio 0296 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0296)
-- **Following Folio** (``0297.rst``): Folio Plate Folio 0297 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate LIII — Columna Laterata Exagona Solida (Solid Hexagonal Prism)
+- **Preceding Folio** (``0295.rst``): Folio Plate Folio 0295 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate LII — Pyramis Laterata Penthagona Vacua (Hollow Pentagonal Pyramid)
+- **Current Folio** (``0296.rst``): Folio Plate Folio 0296 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Polyhedra Plate Verso (0296)
+- **Following Folio** (``0297.rst``): Folio Plate Folio 0297 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate LIII — :term:`Columna Laterata Exagona <colonna-exagona>` Solida (Solid Hexagonal Prism)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,5 +18,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0296 (verso)`` (Scan page ``296``, *verso*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
 - **Leaf Category**: Polyhedra Plate Verso (0296)

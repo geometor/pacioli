@@ -16,5 +16,5 @@ Folio 0197 (Plate Folio 0197 (recto)) — Tabula VI — Tetrahedron Elevatum Vac
 Tabula VI (No. 6)
 -----------------
 
-- **Titulus Latinus**: *Tetrahedron Elevatum Vacuum*
-- **Titulus Graecus**: Τετράεδρον ἐπηρμένον κενόν
+- **Titulus Latinus**: :term:`*Tetrahedron Elevatum Vacuum* <tetrahedron-elevatum>`
+- **Titulus Graecus**: :term:`Τετράεδρον ἐπηρμένον <tetrahedron-elevatum>` :term:`κενόν <vacuum>`

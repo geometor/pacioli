@@ -4,9 +4,9 @@ Folio 0030 (f. 7v) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0029.rst``): Folio f. 7r (recto), Part I: Compendio de Divina Proportione — Cap. XIX, Cap. XX, Cap. XXI (f. 7r) — Del IO. suo supremo effecto.
-- **Current Folio** (``0030.rst``): Folio f. 7v (verso), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. XXI, Cap. XXII, Cap. XXIII (f. 7v) — Del suo 12. quasi incomprehensibile effecto.
-- **Following Folio** (``0031.rst``): Folio f. 8r (recto), Part I: Compendio de Divina Proportione — Cap. XXIII, Cap. XXIV, Cap. XXV (f. 8r) — Cüp. XXIII.
+- **Preceding Folio** (``0029.rst``): Folio f. 7r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XIX, Cap. XX, Cap. XXI (f. 7r) — Del IO. suo supremo effecto.
+- **Current Folio** (``0030.rst``): Folio f. 7v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. XXI, Cap. XXII, Cap. XXIII (f. 7v) — Del suo 12. quasi incomprehensibile effecto.
+- **Following Folio** (``0031.rst``): Folio f. 8r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XXIII, Cap. XXIV, Cap. XXV (f. 8r) — Cüp. XXIII.
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -21,8 +21,44 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PRIMA``
 - **Folio Signature / Numeration**: ``f. 7v`` (Scan page ``30``, *verso*)
-- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. XXI** (``compendio/cap_21``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/021_cap_XXI.txt``
-  - **Cap. XXII** (``compendio/cap_22``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/022_cap_XXII.txt``
-  - **Cap. XXIII** (``compendio/cap_23``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/023_cap_XXIII.txt``
+  - **Cap. XXI** (``compendio/cap_21``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/021_cap_XXI.txt``
+  - **Cap. XXII** (``compendio/cap_22``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/022_cap_XXII.txt``
+  - **Cap. XXIII** (``compendio/cap_23``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/023_cap_XXIII.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. XXI — On Its Twelfth Almost Incomprehensible Effect
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical and Philological Commentary
+--------------------------------------
+
+1. **Mathematical Verification of the Twelfth Effect (Campanus XIV.9)**:
+   - Let a sphere have diameter $D$. By :cite:`Euclid XIII.15 <euclid:elements:XIII.15>`, the edge of the inscribed cube satisfies $s_{\text{cube}}^2 = \frac{1}{3}D^2$.
+   - By :cite:`Euclid XIII.16 <euclid:elements:XIII.16>`.p and :cite:`Euclid XIII.18 <euclid:elements:XIII.18>`, the edge of the inscribed :term:`icosahedron <icosahedron>` satisfies $s_{\text{icosa}}^2 = \frac{5 - \sqrt{5}}{10}D^2$.
+   - Meanwhile, in Pacioli's formula with $a+b = 10$, $a = \sqrt{125}-5$, and $b = 15-\sqrt{125}$:
+     - $(a+b)^2 + a^2 = 250 - \sqrt{12500} = 250 - 50\sqrt{5} = 50(5 - \sqrt{5})$.
+     - By the Fifth Effect (Chapter XIV, :cite:`Euclid XIII.4 <euclid:elements:XIII.4>`), $(a+b)^2 + b^2 = 3a^2 = 450 - \sqrt{112500} = 3 \times 50(3 - \sqrt{5})$!
+     - Wait: notice that $\frac{\sqrt{(a+b)^2 + b^2}}{\sqrt{(a+b)^2 + a^2}} = \frac{\sqrt{3a^2}}{\sqrt{(a+b)^2 + a^2}} = \frac{\sqrt{3} \cdot a}{\sqrt{(a+b)^2 + a^2}}$. Since $(a+b)^2 + a^2$ is the square of the hypotenuse of a right triangle with legs $a+b$ (radius of the pentagon's/:term:`icosahedron <icosahedron>`'s defining circle) and $a$ (the decagon side), by :cite:`Euclid XIII.10 <euclid:elements:XIII.10>` ($s_5^2 = s_6^2 + s_{10}^2$), $\sqrt{(a+b)^2 + a^2}$ is the **side of the pentagon** ($s_{\text{icosa}}$) inscribed in the circle of radius $a+b$, while $a$ is the decagon side!
+   - In :person:`Campanus <campanus>`'s Latin text of Book XIV, Proposition 9 proves this exact relation between the cube edge and :term:`icosahedron <icosahedron>` edge via the segments of a line cut in :term:`extreme and mean ratio <extrema-et-media-ratio>`.
+2. **Universal / Bound Roots (*Radici Universali / Radici Legate*)**: Pacioli introduces the Renaissance algebraic term *:term:`radice universale <radice-universale>`* or *:term:`radice legata <radice-universale>`* (written *R.V.* in the *Summa*, Distinctio VIII, Tractatus 3, f. 120r), where the radical sign governs an entire binomial or :term:`apotome <residuo>` ($\sqrt{250 - \sqrt{12500}}$).
+
+Cap. XXII — On Its Thirteenth Most Worthy Effect
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical and Philological Commentary
+--------------------------------------
+
+1. **The Golden Triangle (Euclid IV.10) and the Pentagon (Euclid IV.11–Euclid IV.12)**: In :cite:`Euclid IV.10 <euclid:elements:IV.10>`, :person:`Euclid <euclid>` constructs the $72^\circ\text{–}72^\circ\text{–}36^\circ$ isosceles triangle by dividing the leg $AB$ at $C$ via :cite:`Euclid II.11 <euclid:elements:II.11>` so that $AB \cdot BC = AC^2$, and placing $BD = AC$ as the base. In :cite:`Euclid IV.11 <euclid:elements:IV.11>` he inscribes this golden triangle into a circle and bisects the two $72^\circ$ base angles to obtain the five vertices of the regular pentagon.
+2. **Pacioli's Insight into Euclid's Axiomatic Method**: Chapter XXII contains a remarkably lucid analysis of the architecture of :person:`Euclid <euclid>`'s *Elements*—one that directly anticipates modern historiography of Greek mathematics (and connects directly to the GEOMETOR G-Index dependency graph!). Pacioli explains why :person:`Euclid <euclid>` proves the golden section twice—first by geometric areas in :cite:`Euclid II.11 <euclid:elements:II.11>` ($AB \cdot BC = AC^2$) and again by proportions in :cite:`Euclid VI.30 <euclid:elements:VI.30>` ($AB : AC = AC : BC$): because :cite:`Euclid IV.10 <euclid:elements:IV.10>`–:cite:`Euclid IV.11 <euclid:elements:IV.11>` (the regular pentagon) stands in Book IV *prior* to Eudoxus's general theory of proportions in Book V, :person:`Euclid <euclid>` could not legally invoke ratios in Book IV without violating his strict deductive rule of using only *antecedenti* (previously proved propositions) and never *sequenti*!
+
+Cap. XXIII — How, Out of Reverence for Our Salvation, the Said Effects Conclude
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical and Philological Commentary
+--------------------------------------
+
+1. **Numerological Closure ($13 = 1 + 12$) and Leonardo's *:term:`Cenacolo <simulacro>`***: Pacioli brings Section 2 (Chapters VII–XXIII, the Thirteen Effects of the Divine Proportion) to a close by linking the number **13** to the 13 Articles of the Scholastic Apostles' Creed and to Christ surrounded by the Twelve Apostles ($1 + 12 = 13$). In a masterstroke of courtly rhetoric, he ties this theological-mathematical structure directly back to Ludovico Sforza's patronage of Leonardo da Vinci's *:term:`Last Supper <simulacro>`* in the refectory of :term:`Santa Maria delle Grazie <santa-maria-delle-grazie>` (already praised in Chapters I and III), where Christ and the twelve Apostles form a visible thirteenfold harmonic composition before the viewer's eyes.

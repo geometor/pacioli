@@ -22,5 +22,32 @@ Diplomatic & Textual Observations
 - **Folio Signature / Numeration**: ``f. 25r`` (Scan page ``65``, *recto*)
 - **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Prohemio (Dedication)** (``architectura/dedication``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/001_dedication.txt``
-  - **Cap. I** (``architectura/cap_01``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/001_cap_I.txt``
+  - **Prohemio (Dedication)** (``architectura/dedication``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/001_dedication.txt``
+  - **Cap. I** (``architectura/cap_01``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/001_cap_I.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Prohemio — Epistle Dedicatory to His Dearest Disciples and Pupils—Cesare dal Sasso, Cera del Cera, Rainer Francesco di Pippo, Bernardino and Marsilio da Monte, Girolamo del Fecciarino, and Companions of Borgo Sansepolcro, Worthy Stonemasons and Zealous Followers of the Sculptural and Architectural Art—by Fra Luca Pacioli, Their Fellow Countryman of the Order of Friars Minor and Professor of Sacred Theology.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Date and Context (Venice, May 1, 1509)**: While Part I (*Compendio de Divina Proportione*) was completed in Milan on December 14, 1498, this dedicatory epistle to Part II (*Tractato de l'Architectura*) is explicitly dated **Venice, Kalends of May 1509** (*Ex Venitiis Kal. Maii MDIX*), just one month before :person:`Paganino de' Paganini <paganino-de-paganini>` finished printing the entire volume on June 1, 1509.
+- **Autobiographical & Prosopographical Treasure**: This preface is one of the primary biographical sources for Pacioli's life and family:
+  - It names Pacioli's **two blood brothers** (*miei carnali fratelli*), both Franciscan friars: **Master Ginepro** (*M. Zinipero*) and **Fra Ambrogio**, and his nephew **Francesco Pacioli** (who died of dysentery at Ragusa/Dubrovnik with Captain Benedetto Baiardo).
+  - It records that Pacioli lectured on :person:`Euclid <euclid>`'s *Elements* for **three years** to the condottiere **Camillo Vitelli** (c. 1459–1496, brother of Niccolò and Paolo Vitelli of Città di Castello), and participated in discussions on fortification in Naples at the palace of Count Francesco Coppola of Sarno with the humanist **Giovanni Pontano** and the Florentine diplomat **Pier Vettori**, and in Milan with **Gian Giacomo Trivulzio**, :person:`**Galeazzo Sanseverino** <galeazzo-sanseverino>`, and :person:`**Ludovico Sforza** <ludovico-sforza>`.
+  - It documents Pacioli's closeness to :person:`**Piero della Francesca** <piero-della-francesca>` (*nostro conterraneo e contemporale... Monarca Maestro Petro de' Franceschi*), **Lorenzo Canozi da Lendinara** (1425–1477), and Lorenzo's son **Giovan Marco Canozi** (Pacioli's *compare*).
+- **Comparison with Earlier Draft Track**: The earlier ``winterberg_en`` draft compressed the three-folio roll of honor of the captains of :term:`Borgo Sansepolcro <san-sepolcro>`. Here every single name, battle, castle, and biographical detail from Folios ``0061.rst``–``0065.rst`` (``f. 23r``–``f. 25r``) is translated in full without abridgment.
+
+Cap. I — On the Measure and Proportions of the Human Body, of the Head, and of Its Other Members as the Model and Simulacrum of Architecture.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Marginal Diagrams & Full-Page Plate**:
+  - Folio 0066 (``f. 25v``) contains the two woodcut profile diagrams ``0066.g1.png`` and ``0066.g2.png``, and Folio 0137 (``0137.rst``) presents the large full-page woodcut of the human head inscribed in the equilateral triangle :math:`amk` and grid :math:`kmsb` labeled **DIVINA PROPORTIO**.
+- **Catalog of Fifteen-Century Artillery**: Notice Pacioli's remarkable list of 11 siege engines and gunpowder artillery weapons on Folio 0065 (``f. 25r``): *briccole, trabocchi, catapulte, baliste, bombarde, passavolanti, schioppetti, archibusi, cortaldi, basilischi*.
+- **Rational Canon vs. Irrational *Gratia***: Pacioli's aesthetic reflection on Folio 0066—that the primary structural divisions of the face (:math:`\frac{1}{3}`, :math:`\frac{1}{9}`) are **rational**, whereas the living curvature of the chin, brow, and nose-tip involves **irrational proportions** left to the *gratia e arbitrio del prospectivo*—is a foundational statement of High Renaissance art theory (anticipating Vasari's concept of *grazia* and *giudizio dell'occhio*).

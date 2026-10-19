@@ -15,8 +15,8 @@ Historical & Mathematical Commentary
 ------------------------------------
 
 - **Two Ways to Inscribe the Icosahedron in the Cube**:
-  1. **Edge-on-Face Inscription (Golden Rectangles)**: An icosahedron of edge :math:`a_{20}` has 12 vertices that form three mutually perpendicular golden rectangles of dimensions :math:`a_{20} \times \varphi\,a_{20}`. Placing these three golden rectangles inside a cube of side :math:`s_{\text{cube}} = \varphi\,a_{20}` puts 6 edges of the icosahedron (and all 12 of its vertices!) directly on the 6 square faces of the cube, with the cube edge and icosahedron edge in the **Divine Proportion** (:math:`s_{\text{cube}} : a_{20} = \varphi : 1`).
-  2. **Campanus XV.10 Inscription**: Campanus routes the construction through the octahedron inscribed in the cube (XV.3) and the circles of :just:`XIII.16`.
+  1. **Edge-on-Face Inscription (Golden Rectangles)**: An :term:`icosahedron <icosahedron>` of edge :math:`a_{20}` has 12 vertices that form three mutually perpendicular golden rectangles of dimensions :math:`a_{20} \times \varphi\,a_{20}`. Placing these three golden rectangles inside a cube of side :math:`s_{\text{cube}} = \varphi\,a_{20}` puts 6 edges of the :term:`icosahedron <icosahedron>` (and all 12 of its vertices!) directly on the 6 square faces of the cube, with the cube edge and :term:`icosahedron <icosahedron>` edge in the :term:`**Divine Proportion** <divina-proportione>` (:math:`s_{\text{cube}} : a_{20} = \varphi : 1`).
+  2. **Campanus XV.10 Inscription**: :person:`Campanus <campanus>` routes the construction through the :term:`octahedron <octahedron>` inscribed in the cube (XV.3) and the circles of :cite:`Euclid XIII.16 <euclid:elements:XIII.16>`.
 
 Philological and Folio Apparatus
 --------------------------------

@@ -15,12 +15,12 @@ Historical & Mathematical Commentary
 ------------------------------------
 
 - **Paganini 1509 Plates Referenced**:
-  - **Plate I** (``0187.rst``, ``0187.g1.png``): *Tetracedron Planum Solidum* (Tetrahedron, solid).
-  - **Plate II** (``0189.rst``, ``0189.g1.png``): *Tetracedron Planum Vacuum* (Tetrahedron, skeletal).
-  - **Plate III** (``0191.rst``, ``0191.g1.png``): *Tetracedron Abscisum Solidum* (Truncated tetrahedron, Archimedean solid :math:`(3.6^2)`, solid).
-  - **Plate IV** (``0193.rst``, ``0193.g1.png``): *Tetracedron Abscisum Vacuum* (Truncated tetrahedron, skeletal).
-  - **Plate V** (``0195.rst``, ``0195.g1.png``): *Tetracedron Elevatum Solidum* (Triakis-like equilateral cumulation of the tetrahedron, solid).
-  - **Plate VI** (``0197.rst``, ``0197.g1.png``): *Tetracedron Elevatum Vacuum* (Elevated tetrahedron, skeletal).
+  - **Plate I** (``0187.rst``, ``0187.g1.png``): :term:`*Tetracedron Planum Solidum* <tetrahedron>` (:term:`Tetrahedron <tetrahedron>`, solid).
+  - **Plate II** (``0189.rst``, ``0189.g1.png``): :term:`*Tetracedron Planum Vacuum* <tetrahedron>` (:term:`Tetrahedron <tetrahedron>`, skeletal).
+  - **Plate III** (``0191.rst``, ``0191.g1.png``): :term:`*Tetracedron Abscisum Solidum* <tetrahedron>` (Truncated :term:`tetrahedron <tetrahedron>`, Archimedean solid :math:`(3.6^2)`, solid).
+  - **Plate IV** (``0193.rst``, ``0193.g1.png``): :term:`*Tetracedron Abscisum Vacuum* <tetrahedron>` (Truncated :term:`tetrahedron <tetrahedron>`, skeletal).
+  - **Plate V** (``0195.rst``, ``0195.g1.png``): :term:`*Tetracedron Elevatum Solidum* <tetrahedron>` (Triakis-like equilateral cumulation of the :term:`tetrahedron <tetrahedron>`, solid).
+  - **Plate VI** (``0197.rst``, ``0197.g1.png``): :term:`*Tetracedron Elevatum Vacuum* <tetrahedron>` (Elevated :term:`tetrahedron <tetrahedron>`, skeletal).
 
 Philological and Folio Apparatus
 --------------------------------

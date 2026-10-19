@@ -14,11 +14,11 @@ CHAPTER XXVIII (English)
 .. folio:: 0033–0034 (f. 9r–f. 9v)
    :initial: 0033.c1.png
 
-Next we show how to form the third regular body, called the **octocedron**, which is bounded by eight equilateral triangles meeting four by four at six solid angles along twelve equal edges (:just:`XIII.14` [Campanus XIII.15]).
+Next we show how to form the third regular body, called the :term:`**octocedron** <octahedron>`, which is bounded by eight equilateral triangles meeting four by four at six :term:`solid angles <angulo-solido>` along twelve equal edges (:just:`XIII.14` [:cite:`Campanus XIII.15 <campanus:euclid:XIII.15>`]).
 
 .. enunciation:: Construction of the Regular Octahedron in a Given Sphere (:just:`XIII.14`)
 
-   Given the diameter of a sphere, to find the side of the regular body of eight equilateral triangular bases (*octocedron*) inscribed in it, and to show that the square on the diameter of the sphere is double (:math:`2 : 1`) the square on the side of the octocedron.
+   Given the diameter of a sphere, to find the side of the regular body of eight equilateral triangular bases (:term:`*octocedron* <octahedron>`) inscribed in it, and to show that the square on the diameter of the sphere is double (:math:`2 : 1`) the square on the side of the :term:`octocedron <octahedron>`.
 
 .. assertion:: Construction and Proof (:just:`XIII.14`, :just:`III.31`, :just:`I.47`, :just:`IV.6`)
 
@@ -37,7 +37,7 @@ Next we show how to form the third regular body, called the **octocedron**, whic
    8. Since :math:`kl` and :math:`km` are perpendicular to the plane :math:`efgh`, all eight triangles :math:`kle, klf, \dots, kmh` are right-angled at :math:`k` with legs equal to :math:`cb`; hence by :just:`I.47` each of the eight slant edges equals :math:`db`, matching the four edges :math:`ef, fg, gh, he` of the equatorial square.
    9. Thus all twelve edges are equal to :math:`db`, all eight faces are equilateral triangles, and since the six distances :math:`ke, kf, kg, kh, kl, km` from the center :math:`k` are all equal to the radius :math:`cb` of the sphere, the semicircle described on the axis :math:`lm` passes through all six vertices :math:`l, m, e, f, g, h` as it revolves.
 
-Therefore the octocedron is formed and inscribed in the sphere, and the square on the diameter of the sphere is **double** (:math:`2 : 1`) the square on the edge of the octocedron. In numbers, if the diameter of the sphere is :math:`6` (whose square is :math:`36`), the square on the edge of the octocedron is half of :math:`36`, namely :math:`18`, and its edge in length is :math:`\sqrt{18}` (*radice de 18*).
+Therefore the :term:`octocedron <octahedron>` is formed and inscribed in the sphere, and the square on the diameter of the sphere is **double** (:math:`2 : 1`) the square on the edge of the :term:`octocedron <octahedron>`. In numbers, if the diameter of the sphere is :math:`6` (whose square is :math:`36`), the square on the edge of the :term:`octocedron <octahedron>` is half of :math:`36`, namely :math:`18`, and its edge in length is :math:`\sqrt{18}` (*radice de 18*).
 
 .. qed::
 

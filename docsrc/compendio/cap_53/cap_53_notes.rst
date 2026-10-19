@@ -15,11 +15,11 @@ Historical & Mathematical Commentary
 ------------------------------------
 
 - **Paganini 1509 Plates Referenced**:
-  - **Plate XXXV** (``0261.rst``): *Vigintisex Basium Planum Solidum* (**Rhombicuboctahedron**, Archimedean solid :math:`(3.4^3)` of 18 squares and 8 equilateral triangles, solid).
-  - **Plate XXXVI** (``0263.rst``): *Vigintisex Basium Planum Vacuum* (Rhombicuboctahedron, skeletal).
-  - **Plate XXXVII** (``0265.rst``): *Vigintisex Basium Elevatum Solidum* (Cumulated rhombicuboctahedron, 96 triangular faces, solid).
-  - **Plate XXXVIII** (``0267.rst``): *Vigintisex Basium Elevatum Vacuum* (Cumulated rhombicuboctahedron, skeletal).
-- **Jacopo de' Barbari's 1495 Portrait of Pacioli**: The glass *Vigintisex Basium* half-filled with water hanging from a thin cord in Jacopo de' Barbari's famous 1495 Capodimonte portrait of Fra Luca Pacioli (and the wooden dodecahedron resting on Pacioli's *Summa*) is this exact 26-base rhombicuboctahedron!
+  - **Plate XXXV** (``0261.rst``): :term:`*Vigintisex Basium Planum Solidum* <vigintisex-basium>` (:term:`**Rhombicuboctahedron** <vigintisex-basium>`, Archimedean solid :math:`(3.4^3)` of 18 squares and 8 equilateral triangles, solid).
+  - **Plate XXXVI** (``0263.rst``): :term:`*Vigintisex Basium Planum Vacuum* <vigintisex-basium>` (:term:`Rhombicuboctahedron <vigintisex-basium>`, skeletal).
+  - **Plate XXXVII** (``0265.rst``): :term:`*Vigintisex Basium Elevatum Solidum* <vigintisex-basium-elevatum>` (Cumulated :term:`rhombicuboctahedron <vigintisex-basium>`, 96 triangular faces, solid).
+  - **Plate XXXVIII** (``0267.rst``): :term:`*Vigintisex Basium Elevatum Vacuum* <vigintisex-basium-elevatum>` (Cumulated :term:`rhombicuboctahedron <vigintisex-basium>`, skeletal).
+- **Jacopo de' Barbari's 1495 Portrait of Pacioli**: The glass :term:`*Vigintisex Basium* <vigintisex-basium>` half-filled with water hanging from a thin cord in Jacopo de' Barbari's famous 1495 Capodimonte portrait of :person:`Fra Luca Pacioli <pacioli>` (and the wooden :term:`dodecahedron <dodecahedron>` resting on Pacioli's *Summa*) is this exact 26-base :term:`rhombicuboctahedron <vigintisex-basium>`!
 
 Philological and Folio Apparatus
 --------------------------------

@@ -4,9 +4,9 @@ Folio 0224 (Plate Folio 0224 (verso)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0223.rst``): Folio Plate Folio 0223 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XVII — Octahedron Abscisum Solidum (Solid Truncated Octahedron)
-- **Current Folio** (``0224.rst``): Folio Plate Folio 0224 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0224)
-- **Following Folio** (``0225.rst``): Folio Plate Folio 0225 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XVIII — Octahedron Abscisum Vacuum (Hollow Truncated Octahedron)
+- **Preceding Folio** (``0223.rst``): Folio Plate Folio 0223 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate XVII — :term:`Octahedron Abscisum <octahedron-abscisum>` :term:`Solidum <solidum>` (Solid Truncated :term:`Octahedron <octahedron>`)
+- **Current Folio** (``0224.rst``): Folio Plate Folio 0224 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Polyhedra Plate Verso (0224)
+- **Following Folio** (``0225.rst``): Folio Plate Folio 0225 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate XVIII — :term:`Octahedron Abscisum <octahedron-abscisum>` :term:`Vacuum <vacuum>` (Hollow Truncated :term:`Octahedron <octahedron>`)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,5 +18,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0224 (verso)`` (Scan page ``224``, *verso*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
 - **Leaf Category**: Polyhedra Plate Verso (0224)

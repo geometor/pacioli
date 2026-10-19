@@ -14,11 +14,11 @@ CHAPTER XXIX (English)
 .. folio:: 0034–0036 (f. 9v–f. 10v)
    :initial: 0034.c1.png
 
-Having constructed the first three regular bodies—whose edges are either commensurable in square with the sphere's diameter—we now come to the fourth regular body, called the **ycocedron**, bounded by twenty equilateral triangles meeting five by five at twelve solid angles along thirty equal edges. As promised, its construction requires our **Divine Proportion** (:just:`XIII.16`).
+Having constructed the first three regular bodies—whose edges are either commensurable in square with the sphere's diameter—we now come to the fourth regular body, called the :term:`**ycocedron** <icosahedron>`, bounded by twenty equilateral triangles meeting five by five at twelve :term:`solid angles <angulo-solido>` along thirty equal edges. As promised, its construction requires our :term:`**Divine Proportion** <divina-proportione>` (:just:`XIII.16`).
 
 .. enunciation:: Construction of the Regular Icosahedron in a Given Sphere (:just:`XIII.16`)
 
-   Given the diameter of a sphere, to construct the regular body of twenty equilateral triangular bases (*ycocedron*) inscribed in that sphere, and to demonstrate that the side (edge) of the ycocedron is an irrational line of the fourth species of subtraction, called the **Minor** (*linea menore*, :just:`X.76`).
+   Given the diameter of a sphere, to construct the regular body of twenty equilateral triangular bases (:term:`*ycocedron* <icosahedron>`) inscribed in that sphere, and to demonstrate that the side (edge) of the :term:`ycocedron <icosahedron>` is an irrational line of the fourth species of subtraction, called the **Minor** (*linea menore*, :just:`X.76`).
 
 .. assertion:: Construction and Proof (:just:`XIII.16`, :just:`XIII.9`, :just:`XIII.10`, :just:`XIII.3`, :just:`X.16`, :just:`X.76`)
 
@@ -41,12 +41,12 @@ Having constructed the first three regular bodies—whose edges are either comme
 
          \text{Axis} = s_{6} + 2\,s_{10}
 
-      By the :just:`ninth of the thirteenth <XIII.9>`, :math:`s_{6} + s_{10}` is divided in the Divine Proportion with greater segment :math:`s_{6}`; hence by the :just:`third of the thirteenth <XIII.3>` (:ref:`Chapter XI <compendio-cap_11-en>`), the square on :math:`s_{6} + \frac{1}{2}s_{6}`? Nay, by the :just:`fourth` and :just:`eighth` of Book XIII, :math:`(s_{6} + 2\,s_{10})^{2} = 5\,s_{6}^{2} = 5\,db^{2} = ab^{2}`! Therefore the axis from pole to pole equals the sphere's diameter :math:`ab`, and all twelve vertices lie on the sphere.
-   9. **Irrationality of the Edge**: If the diameter :math:`ab` of the sphere is assumed rational, then since :math:`ab^{2} = 5\,db^{2}`, the radius :math:`db` (:math:`s_{6}`) is rational only in square (:just:`X.Def.3`), and by the :just:`eleventh of the thirteenth <XIII.11>` (:ref:`Chapter XXIII <compendio-cap_23-en>`), the side :math:`s_{5}` of the pentagon—which is the edge of the ycocedron—is an irrational line called the **Minor** (*linea menore*, :just:`X.76`).
+      By the :just:`ninth of the thirteenth <XIII.9>`, :math:`s_{6} + s_{10}` is divided in the :term:`Divine Proportion <divina-proportione>` with greater segment :math:`s_{6}`; hence by the :just:`third of the thirteenth <XIII.3>` (:ref:`Chapter XI <compendio-cap_11-en>`), the square on :math:`s_{6} + \frac{1}{2}s_{6}`? Nay, by the :just:`fourth` and :just:`eighth` of Book XIII, :math:`(s_{6} + 2\,s_{10})^{2} = 5\,s_{6}^{2} = 5\,db^{2} = ab^{2}`! Therefore the axis from pole to pole equals the sphere's diameter :math:`ab`, and all twelve vertices lie on the sphere.
+   9. **Irrationality of the Edge**: If the diameter :math:`ab` of the sphere is assumed rational, then since :math:`ab^{2} = 5\,db^{2}`, the radius :math:`db` (:math:`s_{6}`) is rational only in square (:just:`X.Def.3`), and by the :just:`eleventh of the thirteenth <XIII.11>` (:ref:`Chapter XXIII <compendio-cap_23-en>`), the side :math:`s_{5}` of the pentagon—which is the edge of the :term:`ycocedron <icosahedron>`—is an irrational line called the **Minor** (*linea menore*, :just:`X.76`).
 
 .. rubric:: Numerical Example
 
-If the diameter of the sphere is :math:`10` (so its square is :math:`100`), the square on the radius :math:`db` of the pentagon's circle is one-fifth of :math:`100`, namely :math:`20` (:math:`db = \sqrt{20}`). By :just:`XIII.11`, the edge of the ycocedron is the Minor :math:`\sqrt{50 - \sqrt{500}}` (*radice universale de 50 men radice de 500*).
+If the diameter of the sphere is :math:`10` (so its square is :math:`100`), the square on the radius :math:`db` of the pentagon's circle is one-fifth of :math:`100`, namely :math:`20` (:math:`db = \sqrt{20}`). By :just:`XIII.11`, the edge of the :term:`ycocedron <icosahedron>` is the Minor :math:`\sqrt{50 - \sqrt{500}}` (*radice universale de 50 men radice de 500*).
 
 .. qed::
 

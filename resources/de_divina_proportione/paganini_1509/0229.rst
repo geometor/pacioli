@@ -16,5 +16,5 @@ Folio 0229 (Plate Folio 0229 (recto)) — Tabula XX — Octahedron Elevatum Vacu
 Tabula XX (No. 20)
 ------------------
 
-- **Titulus Latinus**: *Octahedron Elevatum Vacuum*
-- **Titulus Graecus**: Ὀκτάεδρον ἐπηρμένον κενόν
+- **Titulus Latinus**: :term:`*Octahedron Elevatum Vacuum* <octahedron-elevatum>`
+- **Titulus Graecus**: :term:`Ὀκτάεδρον ἐπηρμένον <octahedron-elevatum>` :term:`κενόν <vacuum>`

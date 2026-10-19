@@ -16,5 +16,5 @@ Folio 0257 (Plate Folio 0257 (recto)) — Tabula XXXIIII — Dodecahedron Abscis
 Tabula XXXIIII (No. 34)
 -----------------------
 
-- **Titulus Latinus**: *Dodecahedron Abscisum Elevatum Vacuum*
-- **Titulus Graecus**: Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον κενόν
+- **Titulus Latinus**: :term:`*Dodecahedron Abscisum Elevatum Vacuum* <dodecahedron-abscisum-elevatum>`
+- **Titulus Graecus**: :term:`Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον <dodecahedron-abscisum-elevatum>` :term:`κενόν <vacuum>`

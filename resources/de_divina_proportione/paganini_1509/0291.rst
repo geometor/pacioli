@@ -17,4 +17,4 @@ Tabula L (No. 50)
 -----------------
 
 - **Titulus Latinus**: *Columna Laterata Penthagona Vacua*
-- **Titulus Graecus**: Κίων πλευρώδης πεντάγωνος κενός
+- **Titulus Graecus**: :term:`Κίων πλευρώδης πεντάγωνος <colonna-pentagona>` κενός

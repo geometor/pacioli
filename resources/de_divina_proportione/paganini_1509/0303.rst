@@ -16,5 +16,5 @@ Folio 0303 (Plate Folio 0303 (recto)) — Tabula LVI — Pyramis Laterata Triang
 Tabula LVI (No. 56)
 -------------------
 
-- **Titulus Latinus**: *Pyramis Laterata Triangula Inaequilatera Vacua*
-- **Titulus Graecus**: Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος κενή
+- **Titulus Latinus**: :term:`*Pyramis Laterata Triangula Inaequilatera Vacua* <pyramide-triangula>`
+- **Titulus Graecus**: :term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` ἀνισόπλευρος κενή

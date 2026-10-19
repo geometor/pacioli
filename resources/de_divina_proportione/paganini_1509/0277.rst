@@ -16,5 +16,5 @@ Folio 0277 (Plate Folio 0277 (recto)) — Tabula XLIIII — Pyramis Laterata Tri
 Tabula XLIIII (No. 44)
 ----------------------
 
-- **Titulus Latinus**: *Pyramis Laterata Triangula Vacua*
-- **Titulus Graecus**: Πυραμὶς πλευρώδης τρίγωνος κενή
+- **Titulus Latinus**: :term:`*Pyramis Laterata Triangula Vacua* <pyramide-triangula>`
+- **Titulus Graecus**: :term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` κενή

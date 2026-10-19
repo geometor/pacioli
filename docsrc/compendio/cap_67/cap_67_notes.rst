@@ -15,7 +15,7 @@ Historical & Mathematical Commentary
 ------------------------------------
 
 - **Paganini 1509 Marginal Diagrams**: Folio 0057 (``f. 21r``) displays two woodcut diagrams (``0057.g1.png`` and ``0057.g2.png``) showing the quadrilateral :math:`abcd` divided by diagonal :math:`bd` into 2 triangles (:math:`\triangle abd, \triangle bcd`) and the pentagon :math:`abcde` divided from vertex :math:`a` by chords :math:`ac, ad` into 3 triangles (:math:`\triangle abc, \triangle acd, \triangle ade`).
-- **Additivity of Ratios (:just:`V.12`)**: Notice how Pacioli uses :just:`V.12` (if :math:`A_1 : B_1 = A_2 : B_2 = A_3 : B_3 = 3 : 1`, then :math:`(A_1+A_2+A_3) : (B_1+B_2+B_3) = 3 : 1`) to extend the :math:`3:1` prism-to-pyramid volume theorem from the triangular prism (*corpo seratile*, :just:`XII.7`) to any :math:`n`-gonal prism decomposed into :math:`n-2` triangular prisms.
+- **Additivity of Ratios (Euclid V.12)**: Notice how Pacioli uses :cite:`Euclid V.12 <euclid:elements:V.12>` (if :math:`A_1 : B_1 = A_2 : B_2 = A_3 : B_3 = 3 : 1`, then :math:`(A_1+A_2+A_3) : (B_1+B_2+B_3) = 3 : 1`) to extend the :math:`3:1` prism-to-pyramid volume theorem from the triangular prism (:term:`*corpo seratile* <corpo-seratile>`, :cite:`Euclid XII.7 <euclid:elements:XII.7>`) to any :math:`n`-gonal prism decomposed into :math:`n-2` triangular prisms.
 
 Philological and Folio Apparatus
 --------------------------------

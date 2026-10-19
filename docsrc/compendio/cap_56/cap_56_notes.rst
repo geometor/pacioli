@@ -17,7 +17,7 @@ Historical & Mathematical Commentary
 - **Paganini 1509 Plates Referenced**:
   - **Plate XLI** (``0273.rst``): *Sperico Solido* (Solid Sphere, labeled ``XL`` in the marginal roman numeral on Folio 0049).
   - **Plate XLII** (``0275.rst``): *Sperico Vacuo* (Hollow/Armillary Sphere with meridian and parallel ribs).
-- **Euclid's Genetic Definition (:just:`XI.Def.14`) vs. Theodosius's Locus Definition**: Pacioli contrasts the static locus definition of the sphere (attributed in medieval Latin manuals to *Dionysius* or *Theodosius*, *Sphaerica* I.Def.1) with Euclid's kinematic definition (:just:`XI.Def.14`) by the revolution of a semicircle around its fixed diameter—the exact kinematic method Euclid uses throughout Books XI–XIII to circumscribe a sphere around each of the five Platonic solids.
+- **Euclid's Genetic Definition (Euclid XI.Def.14) vs. Theodosius's Locus Definition**: Pacioli contrasts the static locus definition of the sphere (attributed in medieval Latin manuals to :person:`*Dionysius* <dionysius>` or *Theodosius*, *Sphaerica* I.Def.1) with :person:`Euclid <euclid>`'s kinematic definition (:person:`Euclid <euclid>` XI.Def.14) by the revolution of a semicircle around its fixed diameter—the exact kinematic method :person:`Euclid <euclid>` uses throughout Books XI–XIII to circumscribe a sphere around each of the five Platonic solids.
 
 Philological and Folio Apparatus
 --------------------------------

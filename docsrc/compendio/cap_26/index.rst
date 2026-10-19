@@ -4,7 +4,7 @@ CHAPTER XXVI: How the First Regular Body, Called the Tetracedron or Pyramid of F
 ==============================================================================================
 
 - **Original Italian Title (1509)**: *De fabrica seu formatione eorum 5 regularium et deproportione cujusque ad diametruni spere et primo de tetracedron).*
-- **German Edition Title (1889)**: *Von der Anfertigung oder Bildung jener fünf regelmässigen Körper und dem Verhältnisse eines jeden zum Durchmesser der Kugel,"-) und zwar zuerst vom Tetraeder.*
+- **German Edition Title (1889)**: *Von der Anfertigung oder Bildung jener fünf regelmässigen Körper und dem Verhältnisse eines jeden zum Durchmesser der Kugel," und zwar zuerst vom Tetraeder.*
 - **1509 Paganini Folios**: 0032 (f. 8v–f. 8v)
 
 **Language Editions & Apparatus**:

@@ -4,9 +4,9 @@ Folio 0233 (Plate Folio 0233 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0232.rst``): Folio Plate Folio 0232 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0232)
-- **Current Folio** (``0233.rst``): Folio Plate Folio 0233 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XXII — Icosahedron Planum Vacuum (Hollow Regular Icosahedron)
-- **Following Folio** (``0234.rst``): Folio Plate Folio 0234 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0234)
+- **Preceding Folio** (``0232.rst``): Folio Plate Folio 0232 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0232)
+- **Current Folio** (``0233.rst``): Folio Plate Folio 0233 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate XXII — :term:`Icosahedron <icosahedron>` :term:`Planum <planum>` :term:`Vacuum <vacuum>` (Hollow Regular :term:`Icosahedron <icosahedron>`)
+- **Following Folio** (``0234.rst``): Folio Plate Folio 0234 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0234)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0233 (recto)`` (Scan page ``233``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``XXII`` (Plate No. ``22``) | Latin Cartouche: *Icosahedron Planum Vacuum* | Greek Cartouche: Εἰκοσάεδρον ἐπίπεδον κενόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XXII`` (Plate No. ``22``) | Latin Cartouche: :term:`*Icosahedron Planum Vacuum* <icosahedron>` | Greek Cartouche: :term:`Εἰκοσάεδρον <icosahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`

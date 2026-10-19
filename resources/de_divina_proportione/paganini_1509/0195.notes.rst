@@ -4,9 +4,9 @@ Folio 0195 (Plate Folio 0195 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0194.rst``): Folio Plate Folio 0194 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0194)
-- **Current Folio** (``0195.rst``): Folio Plate Folio 0195 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate V — Tetrahedron Elevatum Solidum (Solid Stellated (Elevated) Tetrahedron)
-- **Following Folio** (``0196.rst``): Folio Plate Folio 0196 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0196)
+- **Preceding Folio** (``0194.rst``): Folio Plate Folio 0194 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0194)
+- **Current Folio** (``0195.rst``): Folio Plate Folio 0195 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate V — :term:`Tetrahedron Elevatum <tetrahedron-elevatum>` :term:`Solidum <solidum>` (Solid Stellated (Elevated) :term:`Tetrahedron <tetrahedron>`)
+- **Following Folio** (``0196.rst``): Folio Plate Folio 0196 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0196)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0195 (recto)`` (Scan page ``195``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``V`` (Plate No. ``5``) | Latin Cartouche: *Tetrahedron Elevatum Solidum* | Greek Cartouche: Τετράεδρον ἐπηρμένον στερεόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``V`` (Plate No. ``5``) | Latin Cartouche: :term:`*Tetrahedron Elevatum Solidum* <tetrahedron-elevatum>` | Greek Cartouche: :term:`Τετράεδρον ἐπηρμένον <tetrahedron-elevatum>` :term:`στερεόν <solidum>`

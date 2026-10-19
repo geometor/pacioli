@@ -4,9 +4,9 @@ Folio 0186 (Plate Folio 0186 (verso)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0185.rst``): Folio Plate Folio 0185 (recto) (recto), Appendix I: The Roman Geometric Alphabet — Porta Templi Domini Dicta Speciosa
+- **Preceding Folio** (``0185.rst``): Folio Plate Folio 0185 (recto) (recto), Appendix I: The Roman Geometric Alphabet — :term:`Porta Templi Domini Dicta Speciosa <porta-speciosa>`
 - **Current Folio** (``0186.rst``): Folio Plate Folio 0186 (verso) (verso), Appendix I: The Roman Geometric Alphabet [``04_alphabet``] — Alphabet Plate Verso (0186)
-- **Following Folio** (``0187.rst``): Folio Plate Folio 0187 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate I — Tetrahedron Planum Solidum (Solid Regular Tetrahedron)
+- **Following Folio** (``0187.rst``): Folio Plate Folio 0187 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate I — :term:`Tetrahedron <tetrahedron>` :term:`Planum <planum>` :term:`Solidum <solidum>` (Solid Regular :term:`Tetrahedron <tetrahedron>`)
 
 Graphic Extraction & Calibration
 --------------------------------

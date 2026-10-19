@@ -4,9 +4,9 @@ Folio 0243 (Plate Folio 0243 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0242.rst``): Folio Plate Folio 0242 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0242)
-- **Current Folio** (``0243.rst``): Folio Plate Folio 0243 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XXVII — Dodecahedron Planum Solidum (Solid Regular Dodecahedron)
-- **Following Folio** (``0244.rst``): Folio Plate Folio 0244 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0244)
+- **Preceding Folio** (``0242.rst``): Folio Plate Folio 0242 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0242)
+- **Current Folio** (``0243.rst``): Folio Plate Folio 0243 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate XXVII — :term:`Dodecahedron <dodecahedron>` :term:`Planum <planum>` :term:`Solidum <solidum>` (Solid Regular :term:`Dodecahedron <dodecahedron>`)
+- **Following Folio** (``0244.rst``): Folio Plate Folio 0244 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0244)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0243 (recto)`` (Scan page ``243``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``XXVII`` (Plate No. ``27``) | Latin Cartouche: *Dodecahedron Planum Solidum* | Greek Cartouche: Δωδεκάεδρον ἐπίπεδον στερεόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XXVII`` (Plate No. ``27``) | Latin Cartouche: :term:`*Dodecahedron Planum Solidum* <dodecahedron>` | Greek Cartouche: :term:`Δωδεκάεδρον <dodecahedron>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`

@@ -9,7 +9,7 @@ Appendix II: Tabulae Corporum Regularium et Dependentium (Latino / Graeco — 15
 
    :ref:`English <plates-polyhedra-en>` · **Latino / Graeco (1509)** | :ref:`← Plates Index <plates-index>`
 
-Full-page woodcut plates designed by **Leonardo da Vinci** (*per mano del nostro Lionardo da Vinci Fiorentino*), carrying their original 1509 Latin and Greek cartouches.
+Full-page woodcut plates designed by :person:`**Leonardo da Vinci** <leonardo>` (*per mano del nostro Lionardo da Vinci Fiorentino*), carrying their original 1509 Latin and Greek cartouches.
 
 Tabula I (Folio 0187) — Tetrahedron Planum Solidum
 --------------------------------------------------
@@ -19,7 +19,7 @@ Tabula I (Folio 0187) — Tetrahedron Planum Solidum
 .. figure:: 0187.g1.png
    :align: center
 
-   *Tetrahedron Planum Solidum* (Τετράεδρον ἐπίπεδον στερεόν)
+   :term:`*Tetrahedron Planum Solidum* <tetrahedron>` (:term:`Τετράεδρον <tetrahedron>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`)
 
 Tabula II (Folio 0189) — Tetrahedron Planum Vacuum
 --------------------------------------------------
@@ -29,7 +29,7 @@ Tabula II (Folio 0189) — Tetrahedron Planum Vacuum
 .. figure:: 0189.g1.png
    :align: center
 
-   *Tetrahedron Planum Vacuum* (Τετράεδρον ἐπίπεδον κενόν)
+   :term:`*Tetrahedron Planum Vacuum* <tetrahedron>` (:term:`Τετράεδρον <tetrahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`)
 
 Tabula III (Folio 0191) — Tetrahedron Abscisum Solidum
 ------------------------------------------------------
@@ -39,7 +39,7 @@ Tabula III (Folio 0191) — Tetrahedron Abscisum Solidum
 .. figure:: 0191.g1.png
    :align: center
 
-   *Tetrahedron Abscisum Solidum* (Τετράεδρον ἀποτετμημένον στερεόν)
+   :term:`*Tetrahedron Abscisum Solidum* <tetrahedron-abscisum>` (:term:`Τετράεδρον ἀποτετμημένον <tetrahedron-abscisum>` :term:`στερεόν <solidum>`)
 
 Tabula IIII (Folio 0193) — Tetrahedron Abscisum Vacuum
 ------------------------------------------------------
@@ -49,7 +49,7 @@ Tabula IIII (Folio 0193) — Tetrahedron Abscisum Vacuum
 .. figure:: 0193.g1.png
    :align: center
 
-   *Tetrahedron Abscisum Vacuum* (Τετράεδρον ἀποτετμημένον κενόν)
+   :term:`*Tetrahedron Abscisum Vacuum* <tetrahedron-abscisum>` (:term:`Τετράεδρον ἀποτετμημένον <tetrahedron-abscisum>` :term:`κενόν <vacuum>`)
 
 Tabula V (Folio 0195) — Tetrahedron Elevatum Solidum
 ----------------------------------------------------
@@ -59,7 +59,7 @@ Tabula V (Folio 0195) — Tetrahedron Elevatum Solidum
 .. figure:: 0195.g1.png
    :align: center
 
-   *Tetrahedron Elevatum Solidum* (Τετράεδρον ἐπηρμένον στερεόν)
+   :term:`*Tetrahedron Elevatum Solidum* <tetrahedron-elevatum>` (:term:`Τετράεδρον ἐπηρμένον <tetrahedron-elevatum>` :term:`στερεόν <solidum>`)
 
 Tabula VI (Folio 0197) — Tetrahedron Elevatum Vacuum
 ----------------------------------------------------
@@ -69,7 +69,7 @@ Tabula VI (Folio 0197) — Tetrahedron Elevatum Vacuum
 .. figure:: 0197.g1.png
    :align: center
 
-   *Tetrahedron Elevatum Vacuum* (Τετράεδρον ἐπηρμένον κενόν)
+   :term:`*Tetrahedron Elevatum Vacuum* <tetrahedron-elevatum>` (:term:`Τετράεδρον ἐπηρμένον <tetrahedron-elevatum>` :term:`κενόν <vacuum>`)
 
 Tabula VII (Folio 0199) — Exahedron sive Cubus Planum Solidum
 -------------------------------------------------------------
@@ -79,7 +79,7 @@ Tabula VII (Folio 0199) — Exahedron sive Cubus Planum Solidum
 .. figure:: 0199.g1.png
    :align: center
 
-   *Exahedron sive Cubus Planum Solidum* (Ἑξάεδρον ἢ κύβος ἐπίπεδον στερεόν)
+   :term:`*Exahedron sive Cubus Planum Solidum* <exahedron>` (:term:`Ἑξάεδρον <exahedron>` ἢ κύβος :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`)
 
 Tabula VIII (Folio 0201) — Exahedron Planum Vacuum
 --------------------------------------------------
@@ -89,7 +89,7 @@ Tabula VIII (Folio 0201) — Exahedron Planum Vacuum
 .. figure:: 0201.g1.png
    :align: center
 
-   *Exahedron Planum Vacuum* (Ἑξάεδρον ἐπίπεδον κενόν)
+   :term:`*Exahedron Planum Vacuum* <exahedron>` (:term:`Ἑξάεδρον <exahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`)
 
 Tabula VIIII (Folio 0203) — Exahedron Abscisum Solidum
 ------------------------------------------------------
@@ -99,7 +99,7 @@ Tabula VIIII (Folio 0203) — Exahedron Abscisum Solidum
 .. figure:: 0203.g1.png
    :align: center
 
-   *Exahedron Abscisum Solidum* (Ἑξάεδρον ἀποτετμημένον στερεόν)
+   :term:`*Exahedron Abscisum Solidum* <exahedron-abscisum>` (:term:`Ἑξάεδρον ἀποτετμημένον <exahedron-abscisum>` :term:`στερεόν <solidum>`)
 
 Tabula X (Folio 0205) — Exahedron Abscisum Vacuum
 -------------------------------------------------
@@ -109,7 +109,7 @@ Tabula X (Folio 0205) — Exahedron Abscisum Vacuum
 .. figure:: 0205.g1.png
    :align: center
 
-   *Exahedron Abscisum Vacuum* (Ἑξάεδρον ἀποτετμημένον κενόν)
+   :term:`*Exahedron Abscisum Vacuum* <exahedron-abscisum>` (:term:`Ἑξάεδρον ἀποτετμημένον <exahedron-abscisum>` :term:`κενόν <vacuum>`)
 
 Tabula XI (Folio 0207) — Exahedron Elevatum Solidum
 ---------------------------------------------------
@@ -119,7 +119,7 @@ Tabula XI (Folio 0207) — Exahedron Elevatum Solidum
 .. figure:: 0207.g1.png
    :align: center
 
-   *Exahedron Elevatum Solidum* (Ἑξάεδρον ἐπηρμένον στερεόν)
+   :term:`*Exahedron Elevatum Solidum* <exahedron-elevatum>` (:term:`Ἑξάεδρον ἐπηρμένον <exahedron-elevatum>` :term:`στερεόν <solidum>`)
 
 Tabula XII (Folio 0209) — Exahedron Elevatum Vacuum
 ---------------------------------------------------
@@ -129,7 +129,7 @@ Tabula XII (Folio 0209) — Exahedron Elevatum Vacuum
 .. figure:: 0209.g1.png
    :align: center
 
-   *Exahedron Elevatum Vacuum* (Ἑξάεδρον ἐπηρμένον κενόν)
+   :term:`*Exahedron Elevatum Vacuum* <exahedron-elevatum>` (:term:`Ἑξάεδρον ἐπηρμένον <exahedron-elevatum>` :term:`κενόν <vacuum>`)
 
 Tabula XIII (Folio 0211) — Exahedron Abscisum Elevatum Solidum
 --------------------------------------------------------------
@@ -139,7 +139,7 @@ Tabula XIII (Folio 0211) — Exahedron Abscisum Elevatum Solidum
 .. figure:: 0211.g1.png
    :align: center
 
-   *Exahedron Abscisum Elevatum Solidum* (Ἑξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν)
+   :term:`*Exahedron Abscisum Elevatum Solidum* <exahedron-abscisum-elevatum>` (:term:`Ἑξάεδρον ἀποτετμημένον ἐπηρμένον <exahedron-abscisum-elevatum>` :term:`στερεόν <solidum>`)
 
 Tabula XIIII (Folio 0217) — Exahedron Abscisum Elevatum Vacuum
 --------------------------------------------------------------
@@ -149,7 +149,7 @@ Tabula XIIII (Folio 0217) — Exahedron Abscisum Elevatum Vacuum
 .. figure:: 0217.g1.png
    :align: center
 
-   *Exahedron Abscisum Elevatum Vacuum* (Ἑξάεδρον ἀποτετμημένον ἐπηρμένον κενόν)
+   :term:`*Exahedron Abscisum Elevatum Vacuum* <exahedron-abscisum-elevatum>` (:term:`Ἑξάεδρον ἀποτετμημένον ἐπηρμένον <exahedron-abscisum-elevatum>` :term:`κενόν <vacuum>`)
 
 Tabula XV (Folio 0219) — Octahedron Planum Solidum
 --------------------------------------------------
@@ -159,7 +159,7 @@ Tabula XV (Folio 0219) — Octahedron Planum Solidum
 .. figure:: 0219.g1.png
    :align: center
 
-   *Octahedron Planum Solidum* (Ὀκτάεδρον ἐπίπεδον στερεόν)
+   :term:`*Octahedron Planum Solidum* <octahedron>` (:term:`Ὀκτάεδρον <octahedron>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`)
 
 Tabula XVI (Folio 0221) — Octahedron Planum Vacuum
 --------------------------------------------------
@@ -169,7 +169,7 @@ Tabula XVI (Folio 0221) — Octahedron Planum Vacuum
 .. figure:: 0221.g1.png
    :align: center
 
-   *Octahedron Planum Vacuum* (Ὀκτάεδρον ἐπίπεδον κενόν)
+   :term:`*Octahedron Planum Vacuum* <octahedron>` (:term:`Ὀκτάεδρον <octahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`)
 
 Tabula XVII (Folio 0223) — Octahedron Abscisum Solidum
 ------------------------------------------------------
@@ -179,7 +179,7 @@ Tabula XVII (Folio 0223) — Octahedron Abscisum Solidum
 .. figure:: 0223.g1.png
    :align: center
 
-   *Octahedron Abscisum Solidum* (Ὀκτάεδρον ἀποτετμημένον στερεόν)
+   :term:`*Octahedron Abscisum Solidum* <octahedron-abscisum>` (:term:`Ὀκτάεδρον ἀποτετμημένον <octahedron-abscisum>` :term:`στερεόν <solidum>`)
 
 Tabula XVIII (Folio 0225) — Octahedron Abscisum Vacuum
 ------------------------------------------------------
@@ -189,7 +189,7 @@ Tabula XVIII (Folio 0225) — Octahedron Abscisum Vacuum
 .. figure:: 0225.g1.png
    :align: center
 
-   *Octahedron Abscisum Vacuum* (Ὀκτάεδρον ἀποτετμημένον κενόν)
+   :term:`*Octahedron Abscisum Vacuum* <octahedron-abscisum>` (:term:`Ὀκτάεδρον ἀποτετμημένον <octahedron-abscisum>` :term:`κενόν <vacuum>`)
 
 Tabula XIX (Folio 0227) — Octahedron Elevatum Solidum
 -----------------------------------------------------
@@ -199,7 +199,7 @@ Tabula XIX (Folio 0227) — Octahedron Elevatum Solidum
 .. figure:: 0227.g1.png
    :align: center
 
-   *Octahedron Elevatum Solidum* (Ὀκτάεδρον ἐπηρμένον στερεόν)
+   :term:`*Octahedron Elevatum Solidum* <octahedron-elevatum>` (:term:`Ὀκτάεδρον ἐπηρμένον <octahedron-elevatum>` :term:`στερεόν <solidum>`)
 
 Tabula XX (Folio 0229) — Octahedron Elevatum Vacuum
 ---------------------------------------------------
@@ -209,7 +209,7 @@ Tabula XX (Folio 0229) — Octahedron Elevatum Vacuum
 .. figure:: 0229.g1.png
    :align: center
 
-   *Octahedron Elevatum Vacuum* (Ὀκτάεδρον ἐπηρμένον κενόν)
+   :term:`*Octahedron Elevatum Vacuum* <octahedron-elevatum>` (:term:`Ὀκτάεδρον ἐπηρμένον <octahedron-elevatum>` :term:`κενόν <vacuum>`)
 
 Tabula XXI (Folio 0231) — Icosahedron Planum Solidum
 ----------------------------------------------------
@@ -219,7 +219,7 @@ Tabula XXI (Folio 0231) — Icosahedron Planum Solidum
 .. figure:: 0231.g1.png
    :align: center
 
-   *Icosahedron Planum Solidum* (Εἰκοσάεδρον ἐπίπεδον στερεόν)
+   :term:`*Icosahedron Planum Solidum* <icosahedron>` (:term:`Εἰκοσάεδρον <icosahedron>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`)
 
 Tabula XXII (Folio 0233) — Icosahedron Planum Vacuum
 ----------------------------------------------------
@@ -229,7 +229,7 @@ Tabula XXII (Folio 0233) — Icosahedron Planum Vacuum
 .. figure:: 0233.g1.png
    :align: center
 
-   *Icosahedron Planum Vacuum* (Εἰκοσάεδρον ἐπίπεδον κενόν)
+   :term:`*Icosahedron Planum Vacuum* <icosahedron>` (:term:`Εἰκοσάεδρον <icosahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`)
 
 Tabula XXIII (Folio 0235) — Icosahedron Abscisum Solidum
 --------------------------------------------------------
@@ -239,7 +239,7 @@ Tabula XXIII (Folio 0235) — Icosahedron Abscisum Solidum
 .. figure:: 0235.g1.png
    :align: center
 
-   *Icosahedron Abscisum Solidum* (Εἰκοσάεδρον ἀποτετμημένον στερεόν)
+   :term:`*Icosahedron Abscisum Solidum* <icosahedron-abscisum>` (:term:`Εἰκοσάεδρον ἀποτετμημένον <icosahedron-abscisum>` :term:`στερεόν <solidum>`)
 
 Tabula XXIIII (Folio 0237) — Icosahedron Abscisum Vacuum
 --------------------------------------------------------
@@ -249,7 +249,7 @@ Tabula XXIIII (Folio 0237) — Icosahedron Abscisum Vacuum
 .. figure:: 0237.g1.png
    :align: center
 
-   *Icosahedron Abscisum Vacuum* (Εἰκοσάεδρον ἀποτετμημένον κενόν)
+   :term:`*Icosahedron Abscisum Vacuum* <icosahedron-abscisum>` (:term:`Εἰκοσάεδρον ἀποτετμημένον <icosahedron-abscisum>` :term:`κενόν <vacuum>`)
 
 Tabula XXV (Folio 0239) — Icosahedron Elevatum Solidum
 ------------------------------------------------------
@@ -259,7 +259,7 @@ Tabula XXV (Folio 0239) — Icosahedron Elevatum Solidum
 .. figure:: 0239.g1.png
    :align: center
 
-   *Icosahedron Elevatum Solidum* (Εἰκοσάεδρον ἐπηρμένον στερεόν)
+   :term:`*Icosahedron Elevatum Solidum* <icosahedron-elevatum>` (:term:`Εἰκοσάεδρον ἐπηρμένον <icosahedron-elevatum>` :term:`στερεόν <solidum>`)
 
 Tabula XXVI (Folio 0241) — Icosahedron Elevatum Vacuum
 ------------------------------------------------------
@@ -269,7 +269,7 @@ Tabula XXVI (Folio 0241) — Icosahedron Elevatum Vacuum
 .. figure:: 0241.g1.png
    :align: center
 
-   *Icosahedron Elevatum Vacuum* (Εἰκοσάεδρον ἐπηρμένον κενόν)
+   :term:`*Icosahedron Elevatum Vacuum* <icosahedron-elevatum>` (:term:`Εἰκοσάεδρον ἐπηρμένον <icosahedron-elevatum>` :term:`κενόν <vacuum>`)
 
 Tabula XXVII (Folio 0243) — Dodecahedron Planum Solidum
 -------------------------------------------------------
@@ -279,7 +279,7 @@ Tabula XXVII (Folio 0243) — Dodecahedron Planum Solidum
 .. figure:: 0243.g1.png
    :align: center
 
-   *Dodecahedron Planum Solidum* (Δωδεκάεδρον ἐπίπεδον στερεόν)
+   :term:`*Dodecahedron Planum Solidum* <dodecahedron>` (:term:`Δωδεκάεδρον <dodecahedron>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`)
 
 Tabula XXVIII (Folio 0245) — Dodecahedron Planum Vacuum
 -------------------------------------------------------
@@ -289,7 +289,7 @@ Tabula XXVIII (Folio 0245) — Dodecahedron Planum Vacuum
 .. figure:: 0245.g1.png
    :align: center
 
-   *Dodecahedron Planum Vacuum* (Δωδεκάεδρον ἐπίπεδον κενόν)
+   :term:`*Dodecahedron Planum Vacuum* <dodecahedron>` (:term:`Δωδεκάεδρον <dodecahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`)
 
 Tabula XXIX (Folio 0247) — Dodecahedron Abscisum Solidum
 --------------------------------------------------------
@@ -299,7 +299,7 @@ Tabula XXIX (Folio 0247) — Dodecahedron Abscisum Solidum
 .. figure:: 0247.g1.png
    :align: center
 
-   *Dodecahedron Abscisum Solidum* (Δωδεκάεδρον ἀποτετμημένον στερεόν)
+   :term:`*Dodecahedron Abscisum Solidum* <dodecahedron-abscisum>` (:term:`Δωδεκάεδρον ἀποτετμημένον <dodecahedron-abscisum>` :term:`στερεόν <solidum>`)
 
 Tabula XXX (Folio 0249) — Dodecahedron Abscisum Vacuum
 ------------------------------------------------------
@@ -309,7 +309,7 @@ Tabula XXX (Folio 0249) — Dodecahedron Abscisum Vacuum
 .. figure:: 0249.g1.png
    :align: center
 
-   *Dodecahedron Abscisum Vacuum* (Δωδεκάεδρον ἀποτετμημένον κενόν)
+   :term:`*Dodecahedron Abscisum Vacuum* <dodecahedron-abscisum>` (:term:`Δωδεκάεδρον ἀποτετμημένον <dodecahedron-abscisum>` :term:`κενόν <vacuum>`)
 
 Tabula XXXI (Folio 0251) — Dodecahedron Elevatum Solidum
 --------------------------------------------------------
@@ -319,7 +319,7 @@ Tabula XXXI (Folio 0251) — Dodecahedron Elevatum Solidum
 .. figure:: 0251.g1.png
    :align: center
 
-   *Dodecahedron Elevatum Solidum* (Δωδεκάεδρον ἐπηρμένον στερεόν)
+   :term:`*Dodecahedron Elevatum Solidum* <dodecahedron-elevatum>` (:term:`Δωδεκάεδρον ἐπηρμένον <dodecahedron-elevatum>` :term:`στερεόν <solidum>`)
 
 Tabula XXXII (Folio 0253) — Dodecahedron Elevatum Vacuum
 --------------------------------------------------------
@@ -329,7 +329,7 @@ Tabula XXXII (Folio 0253) — Dodecahedron Elevatum Vacuum
 .. figure:: 0253.g1.png
    :align: center
 
-   *Dodecahedron Elevatum Vacuum* (Δωδεκάεδρον ἐπηρμένον κενόν)
+   :term:`*Dodecahedron Elevatum Vacuum* <dodecahedron-elevatum>` (:term:`Δωδεκάεδρον ἐπηρμένον <dodecahedron-elevatum>` :term:`κενόν <vacuum>`)
 
 Tabula XXXIII (Folio 0255) — Dodecahedron Abscisum Elevatum Solidum
 -------------------------------------------------------------------
@@ -339,7 +339,7 @@ Tabula XXXIII (Folio 0255) — Dodecahedron Abscisum Elevatum Solidum
 .. figure:: 0255.g1.png
    :align: center
 
-   *Dodecahedron Abscisum Elevatum Solidum* (Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον στερεόν)
+   :term:`*Dodecahedron Abscisum Elevatum Solidum* <dodecahedron-abscisum-elevatum>` (:term:`Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον <dodecahedron-abscisum-elevatum>` :term:`στερεόν <solidum>`)
 
 Tabula XXXIIII (Folio 0257) — Dodecahedron Abscisum Elevatum Vacuum
 -------------------------------------------------------------------
@@ -349,7 +349,7 @@ Tabula XXXIIII (Folio 0257) — Dodecahedron Abscisum Elevatum Vacuum
 .. figure:: 0257.g1.png
    :align: center
 
-   *Dodecahedron Abscisum Elevatum Vacuum* (Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον κενόν)
+   :term:`*Dodecahedron Abscisum Elevatum Vacuum* <dodecahedron-abscisum-elevatum>` (:term:`Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον <dodecahedron-abscisum-elevatum>` :term:`κενόν <vacuum>`)
 
 Tabula XXXV (Folio 0259) — Vigintisex Basium Planum Solidum
 -----------------------------------------------------------
@@ -359,7 +359,7 @@ Tabula XXXV (Folio 0259) — Vigintisex Basium Planum Solidum
 .. figure:: 0259.g1.png
    :align: center
 
-   *Vigintisex Basium Planum Solidum* (Εἰκοσιεξάεδρον ἐπίπεδον στερεόν)
+   :term:`*Vigintisex Basium Planum Solidum* <vigintisex-basium>` (:term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`)
 
 Tabula XXXVI (Folio 0261) — Vigintisex Basium Planum Vacuum
 -----------------------------------------------------------
@@ -369,7 +369,7 @@ Tabula XXXVI (Folio 0261) — Vigintisex Basium Planum Vacuum
 .. figure:: 0261.g1.png
    :align: center
 
-   *Vigintisex Basium Planum Vacuum* (Εἰκοσιεξάεδρον ἐπίπεδον κενόν)
+   :term:`*Vigintisex Basium Planum Vacuum* <vigintisex-basium>` (:term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`)
 
 Tabula XXXVII (Folio 0263) — Vigintisex Basium Abscisum Elevatum Solidum
 ------------------------------------------------------------------------
@@ -379,7 +379,7 @@ Tabula XXXVII (Folio 0263) — Vigintisex Basium Abscisum Elevatum Solidum
 .. figure:: 0263.g1.png
    :align: center
 
-   *Vigintisex Basium Abscisum Elevatum Solidum* (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν)
+   :term:`*Vigintisex Basium Abscisum Elevatum Solidum* <vigintisex-basium>` (:term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἀποτετμημένον <abscisum>` :term:`ἐπηρμένον <elevatum>` :term:`στερεόν <solidum>`)
 
 Tabula XXXVIII (Folio 0265) — Vigintisex Basium Abscisum Elevatum Vacuum
 ------------------------------------------------------------------------
@@ -389,7 +389,7 @@ Tabula XXXVIII (Folio 0265) — Vigintisex Basium Abscisum Elevatum Vacuum
 .. figure:: 0265.g1.png
    :align: center
 
-   *Vigintisex Basium Abscisum Elevatum Vacuum* (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον κενόν)
+   :term:`*Vigintisex Basium Abscisum Elevatum Vacuum* <vigintisex-basium>` (:term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἀποτετμημένον <abscisum>` :term:`ἐπηρμένον <elevatum>` :term:`κενόν <vacuum>`)
 
 Tabula XXXIX (Folio 0267) — Septuaginta Duarum Basium Solidum
 -------------------------------------------------------------
@@ -399,7 +399,7 @@ Tabula XXXIX (Folio 0267) — Septuaginta Duarum Basium Solidum
 .. figure:: 0267.g1.png
    :align: center
 
-   *Septuaginta Duarum Basium Solidum* (Ἑβδομηκονταδισσάεδρον στερεόν)
+   :term:`*Septuaginta Duarum Basium Solidum* <septuaginta-duarum-basium>` (:term:`Ἑβδομηκονταδισσάεδρον <septuaginta-duarum-basium>` :term:`στερεόν <solidum>`)
 
 Tabula XL (Folio 0269) — Septuaginta Duarum Basium Vacuum
 ---------------------------------------------------------
@@ -409,7 +409,7 @@ Tabula XL (Folio 0269) — Septuaginta Duarum Basium Vacuum
 .. figure:: 0269.g1.png
    :align: center
 
-   *Septuaginta Duarum Basium Vacuum* (Ἑβδομηκονταδισσάεδρον κενόν)
+   :term:`*Septuaginta Duarum Basium Vacuum* <septuaginta-duarum-basium>` (:term:`Ἑβδομηκονταδισσάεδρον <septuaginta-duarum-basium>` :term:`κενόν <vacuum>`)
 
 Tabula XLI (Folio 0271) — Columna Laterata Triangula Solida
 -----------------------------------------------------------
@@ -419,7 +419,7 @@ Tabula XLI (Folio 0271) — Columna Laterata Triangula Solida
 .. figure:: 0271.g1.png
    :align: center
 
-   *Columna Laterata Triangula Solida* (Κίων πλευρώδης τρίγωνος στερεός)
+   :term:`*Columna Laterata Triangula Solida* <corpo-seratile>` (:term:`Κίων πλευρώδης τρίγωνος <corpo-seratile>` στερεός)
 
 Tabula XLII (Folio 0273) — Columna Laterata Triangula Vacua
 -----------------------------------------------------------
@@ -429,7 +429,7 @@ Tabula XLII (Folio 0273) — Columna Laterata Triangula Vacua
 .. figure:: 0273.g1.png
    :align: center
 
-   *Columna Laterata Triangula Vacua* (Κίων πλευρώδης τρίγωνος κενός)
+   :term:`*Columna Laterata Triangula Vacua* <corpo-seratile>` (:term:`Κίων πλευρώδης τρίγωνος <corpo-seratile>` κενός)
 
 Tabula XLIII (Folio 0275) — Pyramis Laterata Triangula Solida
 -------------------------------------------------------------
@@ -439,7 +439,7 @@ Tabula XLIII (Folio 0275) — Pyramis Laterata Triangula Solida
 .. figure:: 0275.g1.png
    :align: center
 
-   *Pyramis Laterata Triangula Solida* (Πυραμὶς πλευρώδης τρίγωνος στερεά)
+   :term:`*Pyramis Laterata Triangula Solida* <pyramide-triangula>` (:term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` στερεά)
 
 Tabula XLIIII (Folio 0277) — Pyramis Laterata Triangula Vacua
 -------------------------------------------------------------
@@ -449,7 +449,7 @@ Tabula XLIIII (Folio 0277) — Pyramis Laterata Triangula Vacua
 .. figure:: 0277.g1.png
    :align: center
 
-   *Pyramis Laterata Triangula Vacua* (Πυραμὶς πλευρώδης τρίγωνος κενή)
+   :term:`*Pyramis Laterata Triangula Vacua* <pyramide-triangula>` (:term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` κενή)
 
 Tabula XLV (Folio 0279) — Columna Laterata Quadrangula Solida
 -------------------------------------------------------------
@@ -509,7 +509,7 @@ Tabula XLIX (Folio 0289) — Columna Laterata Penthagona Solida
 .. figure:: 0289.g1.png
    :align: center
 
-   *Columna Laterata Penthagona Solida* (Κίων πλευρώδης πεντάγωνος στερεός)
+   *Columna Laterata Penthagona Solida* (:term:`Κίων πλευρώδης πεντάγωνος <colonna-pentagona>` στερεός)
 
 Tabula L (Folio 0291) — Columna Laterata Penthagona Vacua
 ---------------------------------------------------------
@@ -519,7 +519,7 @@ Tabula L (Folio 0291) — Columna Laterata Penthagona Vacua
 .. figure:: 0291.g1.png
    :align: center
 
-   *Columna Laterata Penthagona Vacua* (Κίων πλευρώδης πεντάγωνος κενός)
+   *Columna Laterata Penthagona Vacua* (:term:`Κίων πλευρώδης πεντάγωνος <colonna-pentagona>` κενός)
 
 Tabula LI (Folio 0293) — Pyramis Laterata Penthagona Solida
 -----------------------------------------------------------
@@ -529,7 +529,7 @@ Tabula LI (Folio 0293) — Pyramis Laterata Penthagona Solida
 .. figure:: 0293.g1.png
    :align: center
 
-   *Pyramis Laterata Penthagona Solida* (Πυραμὶς πλευρώδης πεντάγωνος στερεά)
+   *Pyramis Laterata Penthagona Solida* (:term:`Πυραμὶς πλευρώδης πεντάγωνος <pyramide-pentagona>` στερεά)
 
 Tabula LII (Folio 0295) — Pyramis Laterata Penthagona Vacua
 -----------------------------------------------------------
@@ -539,7 +539,7 @@ Tabula LII (Folio 0295) — Pyramis Laterata Penthagona Vacua
 .. figure:: 0295.g1.png
    :align: center
 
-   *Pyramis Laterata Penthagona Vacua* (Πυραμὶς πλευρώδης πεντάγωνος κενή)
+   *Pyramis Laterata Penthagona Vacua* (:term:`Πυραμὶς πλευρώδης πεντάγωνος <pyramide-pentagona>` κενή)
 
 Tabula LIII (Folio 0297) — Columna Laterata Exagona Solida
 ----------------------------------------------------------
@@ -549,7 +549,7 @@ Tabula LIII (Folio 0297) — Columna Laterata Exagona Solida
 .. figure:: 0297.g1.png
    :align: center
 
-   *Columna Laterata Exagona Solida* (Κίων πλευρώδης ἑξάγωνος στερεός)
+   :term:`*Columna Laterata Exagona Solida* <colonna-exagona>` (:term:`Κίων πλευρώδης ἑξάγωνος <colonna-exagona>` στερεός)
 
 Tabula LIIII (Folio 0299) — Columna Laterata Exagona Vacua
 ----------------------------------------------------------
@@ -559,7 +559,7 @@ Tabula LIIII (Folio 0299) — Columna Laterata Exagona Vacua
 .. figure:: 0299.g1.png
    :align: center
 
-   *Columna Laterata Exagona Vacua* (Κίων πλευρώδης ἑξάγωνος κενός)
+   :term:`*Columna Laterata Exagona Vacua* <colonna-exagona>` (:term:`Κίων πλευρώδης ἑξάγωνος <colonna-exagona>` κενός)
 
 Tabula LV (Folio 0301) — Pyramis Laterata Triangula Inaequilatera Solida
 ------------------------------------------------------------------------
@@ -569,7 +569,7 @@ Tabula LV (Folio 0301) — Pyramis Laterata Triangula Inaequilatera Solida
 .. figure:: 0301.g1.png
    :align: center
 
-   *Pyramis Laterata Triangula Inaequilatera Solida* (Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος στερεά)
+   :term:`*Pyramis Laterata Triangula Inaequilatera Solida* <pyramide-triangula>` (:term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` ἀνισόπλευρος στερεά)
 
 Tabula LVI (Folio 0303) — Pyramis Laterata Triangula Inaequilatera Vacua
 ------------------------------------------------------------------------
@@ -579,7 +579,7 @@ Tabula LVI (Folio 0303) — Pyramis Laterata Triangula Inaequilatera Vacua
 .. figure:: 0303.g1.png
    :align: center
 
-   *Pyramis Laterata Triangula Inaequilatera Vacua* (Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος κενή)
+   :term:`*Pyramis Laterata Triangula Inaequilatera Vacua* <pyramide-triangula>` (:term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` ἀνισόπλευρος κενή)
 
 Tabula LVII (Folio 0305) — Columna Rotunda Solida
 -------------------------------------------------
@@ -589,7 +589,7 @@ Tabula LVII (Folio 0305) — Columna Rotunda Solida
 .. figure:: 0305.g1.png
    :align: center
 
-   *Columna Rotunda Solida* (Κίων στρογγύλος στερεός)
+   :term:`*Columna Rotunda Solida* <colonna-rotonda>` (:term:`Κίων στρογγύλος <colonna-rotonda>` στερεός)
 
 Tabula LVIII (Folio 0307) — Pyramis Rotunda Solida
 --------------------------------------------------
@@ -599,7 +599,7 @@ Tabula LVIII (Folio 0307) — Pyramis Rotunda Solida
 .. figure:: 0307.g1.png
    :align: center
 
-   *Pyramis Rotunda Solida* (Πυραμὶς στρογγύλη στερεά)
+   :term:`*Pyramis Rotunda Solida* <pyramide-rotonda>` (:term:`Πυραμὶς στρογγύλη <pyramide-rotonda>` στερεά)
 
 Tabula LIX (printed LXI) (Folio 0309) — Sphera Solida
 -----------------------------------------------------
@@ -609,4 +609,4 @@ Tabula LIX (printed LXI) (Folio 0309) — Sphera Solida
 .. figure:: 0309.g1.png
    :align: center
 
-   *Sphera Solida* (Σφαῖρα στερεά)
+   *Sphera Solida* (:term:`Σφαῖρα <spera>` στερεά)

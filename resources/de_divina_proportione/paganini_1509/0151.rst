@@ -13,4 +13,4 @@ Folio 0151 (Plate Folio 0151 (recto)) — Roman Geometric Alphabet — Lettera G
 .. picture:: 0151.g1.png
    :alt: Folio 0151 Tavola g1
 
-Questa letera G si forma commel C del suo tondo e quadro. La gamba deritta de sotto vol esser alta un terzo del suo quadro: e grossa de le nove parti luna de lalteza del suo quadrato.
+Questa letera G si forma commel C del suo :term:`tondo e quadro <tondo-e-quadro>`. La gamba deritta de sotto vol esser alta un terzo del suo quadro: e grossa de le nove parti luna de lalteza del suo quadrato.

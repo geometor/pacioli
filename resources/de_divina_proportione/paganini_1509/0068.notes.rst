@@ -5,7 +5,7 @@ Summary & Folio Continuity
 --------------------------
 
 - **Preceding Folio** (``0067.rst``): Folio f. 26r (recto), Part II: Tractato de l'Architectura — Cap. I, Cap. II (f. 26r) — Dela mesura e proportioni del corpo humano. della testa
-- **Current Folio** (``0068.rst``): Folio f. 26v (verso), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. II, Cap. III (f. 26v) — Dela distantia del profilo al cotozzo de dieta testa ci
+- **Current Folio** (``0068.rst``): Folio f. 26v (verso), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. II, Cap. III (f. 26v) — Dela distantia del profilo al :term:`cotozzo <cotozzo>` de dieta testa ci
 - **Following Folio** (``0069.rst``): Folio f. 27r (recto), Part II: Tractato de l'Architectura — Cap. III, Cap. IV (f. 27r) — Dela proportione de tutto el corpo humano che sia ben d
 
 Graphic Extraction & Calibration
@@ -22,5 +22,25 @@ Diplomatic & Textual Observations
 - **Folio Signature / Numeration**: ``f. 26v`` (Scan page ``68``, *verso*)
 - **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. II** (``architectura/cap_02``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/002_cap_II.txt``
-  - **Cap. III** (``architectura/cap_03``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/003_cap_III.txt``
+  - **Cap. II** (``architectura/cap_02``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/002_cap_II.txt``
+  - **Cap. III** (``architectura/cap_03``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/003_cap_III.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. II — On the Distance from the Profile to the Nape (*Cotozzo*) of the Said Head, on the Proportions of the Eye and Ear, and on the Painter's Perspective Net (*Rete*).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Alberti's *Velo*, Leonardo's *Pariete*, and Dürer's *Drahtgitter* (*La Rete*)**: Pacioli's detailed description on Folio 0067 (``f. 26r``) of the painter's **perspective net** (*rete*)—a wooden frame strung with lute-strings, silk threads, or sinews fixed between the artist's eye and the subject and matched to a squared drawing surface—links Leon Battista Alberti's *velo* (*De pictura*, II.31, 1435), Piero della Francesca's coordinate projections in *:cite:`De Prospectiva Pingendi <piero:prospectiva>`*, Leonardo da Vinci's *pariete di vetro* / net, and Albrecht Dürer's famous woodcuts of the draftsman's net in the *Underweysung der Messung* (1525, composed after Dürer's 1506–1507 visit to Venice and Bologna where he met Pacioli's circle!).
+
+Cap. III — On the Proportion of the Whole Well-Disposed Human Body to Its Head and Other Members According to Length and Breadth, and on the Perfect Numbers Six, Ten, and Sixteen.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Marginal Diagram**: Folio 0069 (``f. 27r``) includes the vertical graduated scale ``0069.g1.png`` marking the proportional divisions of the human body (:math:`\frac{1}{10}`, :math:`\frac{1}{8}`, :math:`\frac{1}{6}`, :math:`\frac{1}{4}`).
+- **Euclid Euclid IX.36 and Algebraic *:term:`Censo de Censo <censo-de-censo>`***: Pacioli weaves together Vitruvius III.1.5–8 (on the numbers 10, 6, and 16), Euclid's theorem on even perfect numbers (Euclid IX.36: :math:`2^{n-1}(2^n - 1)` when :math:`2^n - 1` is a Mersenne prime, e.g. :math:`2 \times 3 = 6`, :math:`4 \times 7 = 28`), and Cossic algebra (*censo primo* :math:`= x^2 = 4`, *:term:`censo de censo <censo-de-censo>`* :math:`= x^4 = 16`).

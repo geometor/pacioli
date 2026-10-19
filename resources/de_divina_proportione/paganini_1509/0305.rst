@@ -16,5 +16,5 @@ Folio 0305 (Plate Folio 0305 (recto)) — Tabula LVII — Columna Rotunda Solida
 Tabula LVII (No. 57)
 --------------------
 
-- **Titulus Latinus**: *Columna Rotunda Solida*
-- **Titulus Graecus**: Κίων στρογγύλος στερεός
+- **Titulus Latinus**: :term:`*Columna Rotunda Solida* <colonna-rotonda>`
+- **Titulus Graecus**: :term:`Κίων στρογγύλος <colonna-rotonda>` στερεός

@@ -14,7 +14,7 @@ CHAPTER XXV — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Source in Euclid and Campanus**: This famous classification proof comes from the concluding Scholium to :just:`XIII.18` (integrated into the proposition text in Campanus of Novara's Latin edition as XIII.18 corollary), resting on :just:`XI.21` (the sum of plane angles of any convex solid angle is less than :math:`4R`) and :just:`I.32` (the interior angle sum of an :math:`n`-gon is :math:`(n-2)\cdot 2R`).
+- **Source in Euclid and Campanus**: This famous classification proof comes from the concluding Scholium to :cite:`Euclid XIII.18 <euclid:elements:XIII.18>` (integrated into the proposition text in :person:`Campanus of Novara <campanus>`'s Latin edition as XIII.18 corollary), resting on :cite:`Euclid XI.21 <euclid:elements:XI.21>` (the sum of plane angles of any convex :term:`solid angle <angulo-solido>` is less than :math:`4R`) and :cite:`Euclid I.32 <euclid:elements:I.32>` (the interior angle sum of an :math:`n`-gon is :math:`(n-2)\cdot 2R`).
 - **Comparison with Earlier Draft Track**: In ``divina_en_2/25.txt``, the angle calculations in fractions of a right angle (:math:`\frac{2}{3}R`, :math:`2\frac{2}{3}R`, :math:`3\frac{1}{3}R`, :math:`1\frac{1}{5}R`, :math:`3\frac{3}{5}R`, :math:`1\frac{1}{3}R`) were condensed into a brief table. Here the complete rhetorical and deductive structure of Pacioli's 1509 text (``0031.rst``–``0032.rst``, ``f. 8r``–``f. 8v``) is translated in full.
 
 Philological and Folio Apparatus

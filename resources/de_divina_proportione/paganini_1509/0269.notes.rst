@@ -4,9 +4,9 @@ Folio 0269 (Plate Folio 0269 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0268.rst``): Folio Plate Folio 0268 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0268)
-- **Current Folio** (``0269.rst``): Folio Plate Folio 0269 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XL — Septuaginta Duarum Basium Vacuum (Hollow 72-Base Body)
-- **Following Folio** (``0270.rst``): Folio Plate Folio 0270 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0270)
+- **Preceding Folio** (``0268.rst``): Folio Plate Folio 0268 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0268)
+- **Current Folio** (``0269.rst``): Folio Plate Folio 0269 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate XL — :term:`Septuaginta Duarum Basium <septuaginta-duarum-basium>` :term:`Vacuum <vacuum>` (Hollow 72-Base Body)
+- **Following Folio** (``0270.rst``): Folio Plate Folio 0270 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0270)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0269 (recto)`` (Scan page ``269``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``XL`` (Plate No. ``40``) | Latin Cartouche: *Septuaginta Duarum Basium Vacuum* | Greek Cartouche: Ἑβδομηκονταδισσάεδρον κενόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XL`` (Plate No. ``40``) | Latin Cartouche: :term:`*Septuaginta Duarum Basium Vacuum* <septuaginta-duarum-basium>` | Greek Cartouche: :term:`Ἑβδομηκονταδισσάεδρον <septuaginta-duarum-basium>` :term:`κενόν <vacuum>`

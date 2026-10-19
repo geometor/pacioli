@@ -16,5 +16,5 @@ Folio 0255 (Plate Folio 0255 (recto)) — Tabula XXXIII — Dodecahedron Abscisu
 Tabula XXXIII (No. 33)
 ----------------------
 
-- **Titulus Latinus**: *Dodecahedron Abscisum Elevatum Solidum*
-- **Titulus Graecus**: Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον στερεόν
+- **Titulus Latinus**: :term:`*Dodecahedron Abscisum Elevatum Solidum* <dodecahedron-abscisum-elevatum>`
+- **Titulus Graecus**: :term:`Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον <dodecahedron-abscisum-elevatum>` :term:`στερεόν <solidum>`

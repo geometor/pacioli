@@ -13,4 +13,4 @@ Folio 0157 (Plate Folio 0157 (recto)) — Roman Geometric Alphabet — Lettera K
 .. picture:: 0157.g1.png
    :alt: Folio 0157 Tavola g1
 
-Questa lettera K se cava del tondo e del suo quadro tirando una linea per diametro del quadro; in questa linea se ferma e termina le due gambe per mezo la gamba grossa. La gamba de sotto vol esser grossa comme laltre gambe una parte de le nove. Quella de sopra la mita de la grossa comme la sinistra del A. Quella de sotto vol esser longa fin ala crociera over di fora. Quella de sopra dentro la crociera.
+Questa lettera K se cava del tondo e del suo quadro tirando una linea per diametro del quadro; in questa linea se ferma e termina le due gambe per mezo la :term:`gamba grossa <gamba-grossa>`. La gamba de sotto vol esser grossa comme laltre gambe una parte de le nove. Quella de sopra la mita de la grossa comme la sinistra del A. Quella de sotto vol esser longa fin ala crociera over di fora. Quella de sopra dentro la crociera.

@@ -16,5 +16,5 @@ Folio 0271 (Plate Folio 0271 (recto)) — Tabula XLI — Columna Laterata Triang
 Tabula XLI (No. 41)
 -------------------
 
-- **Titulus Latinus**: *Columna Laterata Triangula Solida*
-- **Titulus Graecus**: Κίων πλευρώδης τρίγωνος στερεός
+- **Titulus Latinus**: :term:`*Columna Laterata Triangula Solida* <corpo-seratile>`
+- **Titulus Graecus**: :term:`Κίων πλευρώδης τρίγωνος <corpo-seratile>` στερεός

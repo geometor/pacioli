@@ -4,9 +4,9 @@ Folio 0029 (f. 7r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0028.rst``): Folio f. 6v (verso), Part I: Compendio de Divina Proportione — Cap. XVI, Cap. XVII, Cap. XVIII (f. 6v) — Del septimo suo inextimabile effecto.
-- **Current Folio** (``0029.rst``): Folio f. 7r (recto), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. XIX, Cap. XX, Cap. XXI (f. 7r) — Del IO. suo supremo effecto.
-- **Following Folio** (``0030.rst``): Folio f. 7v (verso), Part I: Compendio de Divina Proportione — Cap. XXI, Cap. XXII, Cap. XXIII (f. 7v) — Del suo 12. quasi incomprehensibile effecto.
+- **Preceding Folio** (``0028.rst``): Folio f. 6v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XVI, Cap. XVII, Cap. XVIII (f. 6v) — Del septimo suo inextimabile effecto.
+- **Current Folio** (``0029.rst``): Folio f. 7r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. XIX, Cap. XX, Cap. XXI (f. 7r) — Del IO. suo supremo effecto.
+- **Following Folio** (``0030.rst``): Folio f. 7v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XXI, Cap. XXII, Cap. XXIII (f. 7v) — Del suo 12. quasi incomprehensibile effecto.
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -24,8 +24,50 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PRIMA``
 - **Folio Signature / Numeration**: ``f. 7r`` (Scan page ``29``, *recto*)
-- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. XIX** (``compendio/cap_19``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/019_cap_XIX.txt``
-  - **Cap. XX** (``compendio/cap_20``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/020_cap_XX.txt``
-  - **Cap. XXI** (``compendio/cap_21``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/021_cap_XXI.txt``
+  - **Cap. XIX** (``compendio/cap_19``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/019_cap_XIX.txt``
+  - **Cap. XX** (``compendio/cap_20``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/020_cap_XX.txt``
+  - **Cap. XXI** (``compendio/cap_21``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/021_cap_XXI.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. XIX — On Its Tenth Supreme Effect
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical and Philological Commentary
+--------------------------------------
+
+1. **Universal Similarity of Golden-Divided Lines (Campanus Lemma to Euclid XIV.2)**: In :person:`Hypsicles <hypsicles>`' *Book XIV* of the *Elements*, Proposition 2 proves that the same circle circumscribes both the pentagon of the :term:`dodecahedron <dodecahedron>` and the triangle of the :term:`icosahedron <icosahedron>` inscribed in the same sphere. In his commentary on XIV.2, :person:`Campanus of Novara <campanus>` inserted and proved a fundamental lemma (often cited in medieval and Renaissance mathematics simply as part of XIV.2): **if two straight lines are cut in extreme and mean ratio, they are cut similarly** ($AB : AC = DE : DF$ and $AC : CB = DF : FE$).
+2. **The Six Operations of Book V**: Pacioli enumerates the six canonical Scholastic operations on proportions from Book V of :person:`Euclid <euclid>`'s *Elements*:
+   - *Permutata* (*alternando*, :cite:`Euclid V.16 <euclid:elements:V.16>`): $a : b = c : d \implies a : c = b : d$
+   - *Conversa* (*invertendo*, :cite:`Euclid V.7 <euclid:elements:V.7>`.p): $a : b = c : d \implies b : a = d : c$
+   - *Congionta* (*componendo*, :cite:`Euclid V.18 <euclid:elements:V.18>`): $a : b = c : d \implies (a+b) : b = (c+d) : d$
+   - *Disgionta* (*dividendo*, :cite:`Euclid V.17 <euclid:elements:V.17>`): $a : b = c : d \implies (a-b) : b = (c-d) : d$
+   - *Eversa* (*convertendo*, :cite:`Euclid V.19 <euclid:elements:V.19>`.p): $a : b = c : d \implies a : (a-b) = c : (c-d)$
+   - *Equa proportionalita* (*ex aequali*, :cite:`Euclid V.22 <euclid:elements:V.22>`).
+
+Cap. XX — On Its Eleventh Most Excellent Effect
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical and Philological Commentary
+--------------------------------------
+
+1. **Direct Calculation of the Decagon from the Radius ($R = 10$)**: Whereas Chapters XVI and XVII took $s_6 + s_{10} = 10$ (so that the radius $R = s_6 = \sqrt{125} - 5$), Chapter XX takes the hexagon side (the circle's radius $R$) itself as $10$ (so the circle's diameter is $20$). Since $(s_6 + s_{10}) : s_6 = s_6 : s_{10}$ (:cite:`Euclid XIII.9 <euclid:elements:XIII.9>`), $s_6$ is divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` when a segment equal to $s_{10}$ is marked off from it: thus the side of the inscribed decagon is simply the major golden segment of the radius ($s_{10} = \sqrt{125} - 5$). Note that Pacioli uses *circumscripto dal medesimo cerchio* in the sense of "surrounded/encompassed by the same circle" (i.e., inscribed within the circle).
+
+Cap. XXI — On Its Twelfth Almost Incomprehensible Effect
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical and Philological Commentary
+--------------------------------------
+
+1. **Mathematical Verification of the Twelfth Effect (Campanus XIV.9)**:
+   - Let a sphere have diameter $D$. By :cite:`Euclid XIII.15 <euclid:elements:XIII.15>`, the edge of the inscribed cube satisfies $s_{\text{cube}}^2 = \frac{1}{3}D^2$.
+   - By :cite:`Euclid XIII.16 <euclid:elements:XIII.16>`.p and :cite:`Euclid XIII.18 <euclid:elements:XIII.18>`, the edge of the inscribed :term:`icosahedron <icosahedron>` satisfies $s_{\text{icosa}}^2 = \frac{5 - \sqrt{5}}{10}D^2$.
+   - Meanwhile, in Pacioli's formula with $a+b = 10$, $a = \sqrt{125}-5$, and $b = 15-\sqrt{125}$:
+     - $(a+b)^2 + a^2 = 250 - \sqrt{12500} = 250 - 50\sqrt{5} = 50(5 - \sqrt{5})$.
+     - By the Fifth Effect (Chapter XIV, :cite:`Euclid XIII.4 <euclid:elements:XIII.4>`), $(a+b)^2 + b^2 = 3a^2 = 450 - \sqrt{112500} = 3 \times 50(3 - \sqrt{5})$!
+     - Wait: notice that $\frac{\sqrt{(a+b)^2 + b^2}}{\sqrt{(a+b)^2 + a^2}} = \frac{\sqrt{3a^2}}{\sqrt{(a+b)^2 + a^2}} = \frac{\sqrt{3} \cdot a}{\sqrt{(a+b)^2 + a^2}}$. Since $(a+b)^2 + a^2$ is the square of the hypotenuse of a right triangle with legs $a+b$ (radius of the pentagon's/:term:`icosahedron <icosahedron>`'s defining circle) and $a$ (the decagon side), by :cite:`Euclid XIII.10 <euclid:elements:XIII.10>` ($s_5^2 = s_6^2 + s_{10}^2$), $\sqrt{(a+b)^2 + a^2}$ is the **side of the pentagon** ($s_{\text{icosa}}$) inscribed in the circle of radius $a+b$, while $a$ is the decagon side!
+   - In :person:`Campanus <campanus>`'s Latin text of Book XIV, Proposition 9 proves this exact relation between the cube edge and :term:`icosahedron <icosahedron>` edge via the segments of a line cut in :term:`extreme and mean ratio <extrema-et-media-ratio>`.
+2. **Universal / Bound Roots (*Radici Universali / Radici Legate*)**: Pacioli introduces the Renaissance algebraic term *:term:`radice universale <radice-universale>`* or *:term:`radice legata <radice-universale>`* (written *R.V.* in the *Summa*, Distinctio VIII, Tractatus 3, f. 120r), where the radical sign governs an entire binomial or :term:`apotome <residuo>` ($\sqrt{250 - \sqrt{12500}}$).

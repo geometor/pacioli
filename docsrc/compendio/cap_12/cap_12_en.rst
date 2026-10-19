@@ -20,7 +20,7 @@ CHAPTER XII (English)
 
 .. assertion:: Numerical Demonstration
 
-   For example, let $10$ be the quantity divided according to our Divine Proportion, so that one part—namely the greater ($a$)—is $\sqrt{125} - 5$, and the lesser ($b$) is $15 - \sqrt{125}$.
+   For example, let $10$ be the quantity divided according to our :term:`Divine Proportion <divina-proportione>`, so that one part—namely the greater ($a$)—is $\sqrt{125} - 5$, and the lesser ($b$) is $15 - \sqrt{125}$.
 
    I say that if to $15 - \sqrt{125}$, which is the lesser part, we add the half of $\sqrt{125} - 5$, which is the greater part, the sum of the lesser part and the said half, when multiplied by itself, will be **five times** the square of the half of the said greater part. And this appears as follows:
 

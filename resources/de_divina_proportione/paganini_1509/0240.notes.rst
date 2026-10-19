@@ -4,9 +4,9 @@ Folio 0240 (Plate Folio 0240 (verso)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0239.rst``): Folio Plate Folio 0239 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXV — Icosahedron Elevatum Solidum (Solid Elevated Icosahedron)
-- **Current Folio** (``0240.rst``): Folio Plate Folio 0240 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0240)
-- **Following Folio** (``0241.rst``): Folio Plate Folio 0241 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXVI — Icosahedron Elevatum Vacuum (Hollow Elevated Icosahedron)
+- **Preceding Folio** (``0239.rst``): Folio Plate Folio 0239 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate XXV — :term:`Icosahedron Elevatum <icosahedron-elevatum>` :term:`Solidum <solidum>` (Solid Elevated :term:`Icosahedron <icosahedron>`)
+- **Current Folio** (``0240.rst``): Folio Plate Folio 0240 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Polyhedra Plate Verso (0240)
+- **Following Folio** (``0241.rst``): Folio Plate Folio 0241 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate XXVI — :term:`Icosahedron Elevatum <icosahedron-elevatum>` :term:`Vacuum <vacuum>` (Hollow Elevated :term:`Icosahedron <icosahedron>`)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,5 +18,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0240 (verso)`` (Scan page ``240``, *verso*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
 - **Leaf Category**: Polyhedra Plate Verso (0240)

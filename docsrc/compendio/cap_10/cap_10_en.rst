@@ -14,7 +14,7 @@ CHAPTER X (English)
 .. folio:: 0026 (f. 5v)
    :initial: 0026.c1.png
 
-Once these things have been well noted, let us return to its **first proposed effect** [Chapter VII] and make it clear with evident examples. For its elucidation, let us resume the very same case of $10$ adduced above, without troubling ourselves with other laborious quantities, since the very same property that is stated here occurs invariably in every quantity whatever. And for the fuller understanding of Your Highness, we shall pursue all the remaining effects by way of Arithmetic, while presupposing throughout that the rigorous scientific proofs of everything contained in our treatise are assigned geometrically with all care by our philosopher Euclid in the propositions we shall cite, according to the requirements of the conclusions.
+Once these things have been well noted, let us return to its **first proposed effect** [Chapter VII] and make it clear with evident examples. For its elucidation, let us resume the very same case of $10$ adduced above, without troubling ourselves with other laborious quantities, since the very same property that is stated here occurs invariably in every quantity whatever. And for the fuller understanding of Your Highness, we shall pursue all the remaining effects by way of Arithmetic, while presupposing throughout that the rigorous scientific proofs of everything contained in our treatise are assigned geometrically with all care by our philosopher :person:`Euclid <euclid>` in the propositions we shall cite, according to the requirements of the conclusions.
 
 .. assertion:: Arithmetical Demonstration of the First Effect (:just:`XIII.1`)
 
@@ -30,7 +30,7 @@ Once these things have been well noted, let us return to its **first proposed ef
 
 .. qed::
 
-   And this effect holds good in every quantity of whatever nature it may be, as the first proposition of the Thirteenth Book (:just:`XIII.1`) of our guide [Euclid] openly demonstrates.
+   And this effect holds good in every quantity of whatever nature it may be, as the first proposition of the Thirteenth Book (:just:`XIII.1`) of our guide [:person:`Euclid <euclid>`] openly demonstrates.
 
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------

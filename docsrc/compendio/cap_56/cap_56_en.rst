@@ -18,7 +18,7 @@ CHAPTER LVI (English)
 
    The sphere is a solid figure described by the revolution of a semicircle when its diameter remains fixed and the semicircle is turned completely around until it returns to the place from which it began to move; and the center of the sphere is the same as the center of the semicircle (:just:`XI.Def.14`).
 
-The sphere has been defined in various ways by many authors—above all by the worthy mathematician **Dionysius** (and Theodosius in his *Sphaerica*, who defines it as a solid body bounded by a single surface, within which there is a point from which all straight lines drawn to the surface are equal). Yet our author **Euclid**, with supreme brevity, describes its genetic formation in the :just:`eleventh book <XI.Def.14>` in a definition adopted by all posterity (and depicted in perspective in :ref:`Plate XLI (Sperico Solido) and Plate XLII (Sperico Vacuo) <plates-polyhedra-en>`):
+The sphere has been defined in various ways by many authors—above all by the worthy mathematician :person:`**Dionysius** <dionysius>` (and Theodosius in his *Sphaerica*, who defines it as a solid body bounded by a single surface, within which there is a point from which all straight lines drawn to the surface are equal). Yet our author :person:`**Euclid** <euclid>`, with supreme brevity, describes its genetic formation in the :just:`eleventh book <XI.Def.14>` in a definition adopted by all posterity (and depicted in perspective in :ref:`Plate XLI (Sperico Solido) and Plate XLII (Sperico Vacuo) <plates-polyhedra-en>`):
 
 .. assertion:: Construction of the Sphere by Revolution (:just:`XI.Def.14`)
 

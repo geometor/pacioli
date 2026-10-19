@@ -14,11 +14,11 @@ CHAPTER XXXVI (English)
 .. folio:: 0041 (f. 13r)
    :initial: 0041.c1.png
 
-The second proposition of the fifteenth book (Campanus XV.2) teaches how to inscribe the **tetracedron** (4 triangular bases) inside the **exacedron** or **cube** (6 square bases).
+The second proposition of the fifteenth book (:cite:`Campanus XV.2 <campanus:euclid:XV.2>`) teaches how to inscribe the :term:`**tetracedron** <tetrahedron>` (4 triangular bases) inside the :term:`**exacedron** <exahedron>` or **cube** (6 square bases).
 
 .. enunciation:: Inscribing the Tetrahedron in the Cube (Campanus XV.2)
 
-   In a given cube (*exacedron*), to inscribe the regular pyramid of four equilateral triangular bases (*tetracedron*) so that the four vertices of the tetracedron stand at four non-adjacent vertices of the cube, and the six edges of the tetracedron are the six face diagonals of the six square faces of the cube.
+   In a given cube (:term:`*exacedron* <exahedron>`), to inscribe the regular pyramid of four equilateral triangular bases (:term:`*tetracedron* <tetrahedron>`) so that the four vertices of the :term:`tetracedron <tetrahedron>` stand at four non-adjacent vertices of the cube, and the six edges of the :term:`tetracedron <tetrahedron>` are the six face diagonals of the six square faces of the cube.
 
 .. assertion:: Construction and Proof (:just:`I.47`, :just:`I.8`)
 
@@ -27,6 +27,6 @@ The second proposition of the fifteenth book (Campanus XV.2) teaches how to insc
    3. Because all six faces of the cube are equal squares, by the :just:`penultimate of the first <I.47>` and the :just:`fourth of the first <I.4>` all six face diagonals :math:`ac, fh, af, fc, ch, ha` are mutually equal, each having its square **double** the square on the edge of the cube (:math:`s_{\text{tetra}}^{2} = 2\,s_{\text{cube}}^{2}`).
    4. These six equal diagonals bound four equilateral triangles (:math:`afc, fch, cha, haf`) meeting three by three at the four alternating cube corners :math:`a, c, f, h`.
 
-Therefore the regular tetracedron :math:`afch` is inscribed in the cube, and the square on the edge of the inscribed tetracedron is **double** (:math:`2 : 1`) the square on the edge of the containing cube—which agrees with what we saw in :ref:`Chapter XXVI <compendio-cap_26-en>` and :ref:`Chapter XXVII <compendio-cap_27-en>`, since the same sphere circumscribes both the cube and this tetracedron!
+Therefore the regular :term:`tetracedron <tetrahedron>` :math:`afch` is inscribed in the cube, and the square on the edge of the inscribed :term:`tetracedron <tetrahedron>` is **double** (:math:`2 : 1`) the square on the edge of the containing cube—which agrees with what we saw in :ref:`Chapter XXVI <compendio-cap_26-en>` and :ref:`Chapter XXVII <compendio-cap_27-en>`, since the same sphere circumscribes both the cube and this :term:`tetracedron <tetrahedron>`!
 
 .. qed::

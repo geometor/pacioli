@@ -17,4 +17,4 @@ Tabula LI (No. 51)
 ------------------
 
 - **Titulus Latinus**: *Pyramis Laterata Penthagona Solida*
-- **Titulus Graecus**: Πυραμὶς πλευρώδης πεντάγωνος στερεά
+- **Titulus Graecus**: :term:`Πυραμὶς πλευρώδης πεντάγωνος <pyramide-pentagona>` στερεά

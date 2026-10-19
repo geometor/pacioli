@@ -13,4 +13,4 @@ Folio 0177 (Plate Folio 0177 (recto)) — Roman Geometric Alphabet — Lettera T
 .. picture:: 0177.g1.png
    :alt: Folio 0177 Tavola g1
 
-Questa lettera T se cava del suo quadro e tondo. La gamba grossa vol esser a poncto comme del I fo detto. Quella traversa vol esser grossa per la mita de la grossa comme quelle disopra al E et F e vol terminare mezza testa per lato da le coste del suo quadro e fia ala vista gratissima.
+Questa lettera T se cava del suo quadro e tondo. La :term:`gamba grossa <gamba-grossa>` vol esser a poncto comme del I fo detto. Quella traversa vol esser grossa per la mita de la grossa comme quelle disopra al E et F e vol terminare mezza testa per lato da le coste del suo quadro e fia ala vista gratissima.

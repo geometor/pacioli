@@ -4,9 +4,9 @@ Folio 0208 (Plate Folio 0208 (verso)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0207.rst``): Folio Plate Folio 0207 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XI — Exahedron Elevatum Solidum (Solid Elevated Hexahedron)
-- **Current Folio** (``0208.rst``): Folio Plate Folio 0208 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0208)
-- **Following Folio** (``0209.rst``): Folio Plate Folio 0209 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XII — Exahedron Elevatum Vacuum (Hollow Elevated Hexahedron)
+- **Preceding Folio** (``0207.rst``): Folio Plate Folio 0207 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate XI — :term:`Exahedron Elevatum <exahedron-elevatum>` :term:`Solidum <solidum>` (Solid Elevated :term:`Hexahedron <exahedron>`)
+- **Current Folio** (``0208.rst``): Folio Plate Folio 0208 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Polyhedra Plate Verso (0208)
+- **Following Folio** (``0209.rst``): Folio Plate Folio 0209 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate XII — :term:`Exahedron Elevatum <exahedron-elevatum>` :term:`Vacuum <vacuum>` (Hollow Elevated :term:`Hexahedron <exahedron>`)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,5 +18,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0208 (verso)`` (Scan page ``208``, *verso*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
 - **Leaf Category**: Polyhedra Plate Verso (0208)

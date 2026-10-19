@@ -5,7 +5,7 @@ geometor.pacioli
 
 .. autoapi-nested-parse::
 
-   Tools for parsing and processing "De Divina Proportione" by Luca Pacioli.
+   Tools for parsing and processing "De :term:`Divina Proportione <divina-proportione>`" by :person:`Luca Pacioli <pacioli>`.
 
    Key Components:
    ---------------

@@ -4,9 +4,9 @@ Folio 0038 (f. 11v) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0037.rst``): Folio f. 11r (recto), Part I: Compendio de Divina Proportione — Cap. XXX (f. 11r) — Saper fare el corpo de 12 basi pentagonali equilatere e
-- **Current Folio** (``0038.rst``): Folio f. 11v (verso), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. XXX, Cap. XXXI (f. 11v) — Saper fare el corpo de 12 basi pentagonali equilatere e
-- **Following Folio** (``0039.rst``): Folio f. 12r (recto), Part I: Compendio de Divina Proportione — Cap. XXXI (f. 12r) — A trouar li lati de tutti 5 corpi regulari.
+- **Preceding Folio** (``0037.rst``): Folio f. 11r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XXX (f. 11r) — Saper fare el corpo de 12 basi pentagonali equilatere e
+- **Current Folio** (``0038.rst``): Folio f. 11v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. XXX, Cap. XXXI (f. 11v) — Saper fare el corpo de 12 basi pentagonali equilatere e
+- **Following Folio** (``0039.rst``): Folio f. 12r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XXXI (f. 12r) — A trouar li lati de tutti 5 :term:`corpi regulari <corpi-regulari>`.
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,7 +20,32 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PARS``
 - **Folio Signature / Numeration**: ``f. 11v`` (Scan page ``38``, *verso*)
-- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. XXX** (``compendio/cap_30``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/030_cap_XXX.txt``
-  - **Cap. XXXI** (``compendio/cap_31``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/031_cap_XXXI.txt``
+  - **Cap. XXX** (``compendio/cap_30``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/030_cap_XXX.txt``
+  - **Cap. XXXI** (``compendio/cap_31``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/031_cap_XXXI.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. XXX — How the Fifth and Most Noble Regular Body, Called the Duodecedron of Twelve Pentagonal Bases, Is Formed in the Sphere.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Marginal Diagram**: Folio 0035 (``f. 10r``) displays diagram ``0035.g1.png``, showing the unfolded squares of the cube with their bisected medians and the pentagonal face :math:`bvxcu` pitched like a hipped roof (*coperto / colmo*) over the cube edge :math:`bc`.
+- **Why Section 2 Proved Euclid XIII.4, Euclid XIII.6, and Euclid XIII.7**: Every step of :person:`Euclid <euclid>`'s construction of the :term:`dodecahedron <dodecahedron>` in :cite:`Euclid XIII.17 <euclid:elements:XIII.17>` calls upon a specific proposition from earlier in Book XIII:
+  - :cite:`Euclid XIII.4 <euclid:elements:XIII.4>` (:math:`L^{2} + b^{2} = 3a^{2}`) proves both that the roof edges equal the ridge :math:`2a` and that the twelve roof vertices lie at the same distance :math:`\sqrt{3}\cdot(\frac{1}{2}s_{\text{cube}})` from the center of the cube as the eight cube corners!
+  - :cite:`Euclid XIII.7 <euclid:elements:XIII.7>` proves that the pentagon :math:`bvxcu` is equiangular because three of its angles are subtended by equal chords (:math:`bc` and the two diagonals meeting at :math:`u`).
+  - :cite:`Euclid XIII.6 <euclid:elements:XIII.6>` proves that the edge :math:`a_{12} = \frac{\sqrt{5}-1}{2} s_{\text{cube}}` is an :term:`**Apotome** <residuo>` (:cite:`Euclid X.73 <euclid:elements:X.73>`).
+- **Verification of Pacioli's Numerical Example**: For :math:`D = 6`, :math:`s_{\text{cube}} = \sqrt{12}`. The greater segment of :math:`\sqrt{12}` cut in :term:`extreme and mean ratio <extrema-et-media-ratio>` is :math:`\frac{\sqrt{5}-1}{2}\sqrt{12} = \sqrt{3}(\sqrt{5}-1) = \sqrt{15} - \sqrt{3}`.
+
+Cap. XXXI — On the Rule and Way to Find the Sides of All Five Regular Bodies Placed in One and the Same Sphere, and Their Comparison with One Another.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Marginal Diagram**: Folio 0036 (``f. 10v``) contains the famous master diagram ``0036.g1.png`` of :cite:`Euclid XIII.18 <euclid:elements:XIII.18>`, displaying the semicircle with all five edges (:math:`ad` = :term:`tetrahedron <tetrahedron>`, :math:`fb` = :term:`octahedron <octahedron>`, :math:`db` = cube, :math:`ah` = :term:`icosahedron <icosahedron>`, :math:`dm` = :term:`dodecahedron <dodecahedron>`).
+- **Pacioli's Observation on Campanus's Ordering ("Not Without Mystery")**: Pacioli astutely explains why :person:`Campanus of Novara <campanus>` placed the Cube (:cite:`Campanus XIII.14 <campanus:euclid:XIII.14>`) immediately after the :term:`Tetrahedron <tetrahedron>` (XIII.13) and before the :term:`Octahedron <octahedron>` (:cite:`Campanus XIII.15 <campanus:euclid:XIII.15>`): the single trisection point :math:`c` (:math:`ac = 2\,cb`) on diameter :math:`ab` gives the :term:`tetrahedron <tetrahedron>` edge :math:`ad` as the longer chord and the cube edge :math:`db` as the shorter chord in the very same right triangle :math:`adb`!

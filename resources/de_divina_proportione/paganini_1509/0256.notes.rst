@@ -4,9 +4,9 @@ Folio 0256 (Plate Folio 0256 (verso)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0255.rst``): Folio Plate Folio 0255 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXXIII — Dodecahedron Abscisum Elevatum Solidum (Solid Elevated Truncated Dodecahedron)
-- **Current Folio** (``0256.rst``): Folio Plate Folio 0256 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0256)
-- **Following Folio** (``0257.rst``): Folio Plate Folio 0257 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXXIIII — Dodecahedron Abscisum Elevatum Vacuum (Hollow Elevated Truncated Dodecahedron)
+- **Preceding Folio** (``0255.rst``): Folio Plate Folio 0255 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate XXXIII — :term:`Dodecahedron Abscisum Elevatum <dodecahedron-abscisum-elevatum>` :term:`Solidum <solidum>` (Solid Elevated Truncated :term:`Dodecahedron <dodecahedron>`)
+- **Current Folio** (``0256.rst``): Folio Plate Folio 0256 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Polyhedra Plate Verso (0256)
+- **Following Folio** (``0257.rst``): Folio Plate Folio 0257 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate XXXIIII — :term:`Dodecahedron Abscisum Elevatum <dodecahedron-abscisum-elevatum>` :term:`Vacuum <vacuum>` (Hollow Elevated Truncated :term:`Dodecahedron <dodecahedron>`)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,5 +18,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0256 (verso)`` (Scan page ``256``, *verso*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
 - **Leaf Category**: Polyhedra Plate Verso (0256)

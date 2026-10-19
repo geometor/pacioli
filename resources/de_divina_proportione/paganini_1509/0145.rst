@@ -13,4 +13,4 @@ Folio 0145 (Plate Folio 0145 (recto)) — Roman Geometric Alphabet — Lettera D
 .. picture:: 0145.g1.png
    :alt: Folio 0145 Tavola g1
 
-Questa letera D se cava del tondo e del quadro. La gamba derita vol esser de dentro le crosere grossa de nove parti luna; el corpo se ingrossa commo deli altri tondi. La apicatura desopra vol esser grossa el terzo de la gamba grossa et quella desotto el quarto over terzo.
+Questa letera D se cava del tondo e del quadro. La gamba derita vol esser de dentro le crosere grossa de nove parti luna; el corpo se ingrossa commo deli altri tondi. La apicatura desopra vol esser grossa el terzo de la :term:`gamba grossa <gamba-grossa>` et quella desotto el quarto over terzo.

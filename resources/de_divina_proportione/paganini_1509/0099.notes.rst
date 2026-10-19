@@ -31,4 +31,7 @@ Diplomatic & Textual Observations
 - **Folio Signature / Numeration**: ``Libellus f. 8r`` (Scan page ``99``, *recto*)
 - **Book & Section Slug**: Part III: Libellus in tres partiales tractatus divisus (``03_libellus``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Prohemio (Dedication)** (``None/None``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``N/A``
+  - **Prohemio (Dedication)** (``None/None``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``N/A``
+
+Critical & Historical Commentary
+--------------------------------

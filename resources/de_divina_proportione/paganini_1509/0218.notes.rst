@@ -4,9 +4,9 @@ Folio 0218 (Plate Folio 0218 (verso)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0217.rst``): Folio Plate Folio 0217 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XIIII — Exahedron Abscisum Elevatum Vacuum (Hollow Elevated Truncated Hexahedron)
-- **Current Folio** (``0218.rst``): Folio Plate Folio 0218 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0218)
-- **Following Folio** (``0219.rst``): Folio Plate Folio 0219 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XV — Octahedron Planum Solidum (Solid Regular Octahedron)
+- **Preceding Folio** (``0217.rst``): Folio Plate Folio 0217 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate XIIII — :term:`Exahedron Abscisum Elevatum <exahedron-abscisum-elevatum>` :term:`Vacuum <vacuum>` (Hollow Elevated Truncated :term:`Hexahedron <exahedron>`)
+- **Current Folio** (``0218.rst``): Folio Plate Folio 0218 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Polyhedra Plate Verso (0218)
+- **Following Folio** (``0219.rst``): Folio Plate Folio 0219 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate XV — :term:`Octahedron <octahedron>` :term:`Planum <planum>` :term:`Solidum <solidum>` (Solid Regular :term:`Octahedron <octahedron>`)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,5 +18,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0218 (verso)`` (Scan page ``218``, *verso*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
 - **Leaf Category**: Polyhedra Plate Verso (0218)

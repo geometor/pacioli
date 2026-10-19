@@ -16,107 +16,54 @@ Folio 0009 (A3r) — Nomina et Numerus Corporum (A3r)
 .. picture:: 0009.g2.png
    :alt: Folio 0009 Figura g2
 
-Nomina et numerus corporum.
+Nomina et Numerus Corporum (I–XXXIV)
+------------------------------------
 
-Tetrahedron.
+:term:`**Tetrahedron (Τετράεδρον)** <tetrahedron>`
 
-1. Planum solidum
+1. :term:`*Tetrahedron planum solidum* <tetrahedron>` — :term:`Τετράεδρον <tetrahedron>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`
+2. :term:`*Tetrahedron planum vacuum* <tetrahedron>` — :term:`Τετράεδρον <tetrahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`
+3. :term:`*Tetrahedron abscisum solidum* <tetrahedron-abscisum>` — :term:`Τετράεδρον ἀποτετμημένον <tetrahedron-abscisum>` :term:`στερεόν <solidum>`
+4. :term:`*Tetrahedron abscisum vacuum* <tetrahedron-abscisum>` — :term:`Τετράεδρον ἀποτετμημένον <tetrahedron-abscisum>` :term:`κενόν <vacuum>`
+5. :term:`*Tetrahedron elevatum solidum* <tetrahedron-elevatum>` — :term:`Τετράεδρον ἐπηρμένον <tetrahedron-elevatum>` :term:`στερεόν <solidum>`
+6. :term:`*Tetrahedron elevatum vacuum* <tetrahedron-elevatum>` — :term:`Τετράεδρον ἐπηρμένον <tetrahedron-elevatum>` :term:`κενόν <vacuum>`
 
-2. Planum vacuum
+:term:`**Exahedron sive Cubus (Ἑξάεδρον ἢ κύβος)** <exahedron>`
 
-3. Abscisum solidum
+7. :term:`*Exahedron planum solidum* <exahedron>` — :term:`Ἑξάεδρον <exahedron>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`
+8. :term:`*Exahedron planum vacuum* <exahedron>` — :term:`Ἑξάεδρον <exahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`
+9. :term:`*Exahedron abscisum solidum* <exahedron-abscisum>` — :term:`Ἑξάεδρον ἀποτετμημένον <exahedron-abscisum>` :term:`στερεόν <solidum>`
+10. :term:`*Exahedron abscisum vacuum* <exahedron-abscisum>` — :term:`Ἑξάεδρον ἀποτετμημένον <exahedron-abscisum>` :term:`κενόν <vacuum>`
+11. :term:`*Exahedron elevatum solidum* <exahedron-elevatum>` — :term:`Ἑξάεδρον ἐπηρμένον <exahedron-elevatum>` :term:`στερεόν <solidum>`
+12. :term:`*Exahedron elevatum vacuum* <exahedron-elevatum>` — :term:`Ἑξάεδρον ἐπηρμένον <exahedron-elevatum>` :term:`κενόν <vacuum>`
+13. :term:`*Exahedron abscisum elevatum solidum* <exahedron-abscisum-elevatum>` — :term:`Ἑξάεδρον ἀποτετμημένον ἐπηρμένον <exahedron-abscisum-elevatum>` :term:`στερεόν <solidum>`
+14. :term:`*Exahedron abscisum elevatum vacuum* <exahedron-abscisum-elevatum>` — :term:`Ἑξάεδρον ἀποτετμημένον ἐπηρμένον <exahedron-abscisum-elevatum>` :term:`κενόν <vacuum>`
 
-4. Abscisum vacuum
+:term:`**Octahedron (Ὀκτάεδρον)** <octahedron>`
 
-5. Eleuatum solidum
+15. :term:`*Octahedron planum solidum* <octahedron>` — :term:`Ὀκτάεδρον <octahedron>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`
+16. :term:`*Octahedron planum vacuum* <octahedron>` — :term:`Ὀκτάεδρον <octahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`
+17. :term:`*Octahedron abscisum solidum* <octahedron-abscisum>` — :term:`Ὀκτάεδρον ἀποτετμημένον <octahedron-abscisum>` :term:`στερεόν <solidum>`
+18. :term:`*Octahedron abscisum vacuum* <octahedron-abscisum>` — :term:`Ὀκτάεδρον ἀποτετμημένον <octahedron-abscisum>` :term:`κενόν <vacuum>`
+19. :term:`*Octahedron elevatum solidum* <octahedron-elevatum>` — :term:`Ὀκτάεδρον ἐπηρμένον <octahedron-elevatum>` :term:`στερεόν <solidum>`
+20. :term:`*Octahedron elevatum vacuum* <octahedron-elevatum>` — :term:`Ὀκτάεδρον ἐπηρμένον <octahedron-elevatum>` :term:`κενόν <vacuum>`
 
-6. Eleuatum vacuum
+:term:`**Icosahedron (Εἰκοσάεδρον)** <icosahedron>`
 
-TsxQasdov.
+21. :term:`*Icosahedron planum solidum* <icosahedron>` — :term:`Εἰκοσάεδρον <icosahedron>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`
+22. :term:`*Icosahedron planum vacuum* <icosahedron>` — :term:`Εἰκοσάεδρον <icosahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`
+23. :term:`*Icosahedron abscisum solidum* <icosahedron-abscisum>` — :term:`Εἰκοσάεδρον ἀποτετμημένον <icosahedron-abscisum>` :term:`στερεόν <solidum>`
+24. :term:`*Icosahedron abscisum vacuum* <icosahedron-abscisum>` — :term:`Εἰκοσάεδρον ἀποτετμημένον <icosahedron-abscisum>` :term:`κενόν <vacuum>`
+25. :term:`*Icosahedron elevatum solidum* <icosahedron-elevatum>` — :term:`Εἰκοσάεδρον ἐπηρμένον <icosahedron-elevatum>` :term:`στερεόν <solidum>`
+26. :term:`*Icosahedron elevatum vacuum* <icosahedron-elevatum>` — :term:`Εἰκοσάεδρον ἐπηρμένον <icosahedron-elevatum>` :term:`κενόν <vacuum>`
 
-sniTtadov GtsQSov
-sjtLTCsdov xsvov
-anoTBtinqiiEvov ötsqsov
-anoTsx^riliEvov ksvov
+:term:`**Dodecahedron (Δωδεκάεδρον)** <dodecahedron>`
 
-STtìJQ^EVOV GtSQSOV
-S7lì]Q^SV0V %EVOV.
-
-Exahedron siue Cubus.
-
-7. Planum solidum
-
-8. Planum vacuum
-
-9. Abscisum solidum
-
-10. Abscisum vacuum
-
-1 1 . Eleuatum solidum
-
-1 2. Eleuatum vacuum
-
-13. Abscisum eleuatum solidum
-
-14. Abscisum eleuatum vacuum
-
-E^ccEÒQov ì] >cvßog.
-
-ETimsdoV ÖXEQSOV
-67tL7tsd0V TiEVOV
-
-cc7torsz{irì(iEvov gxeqeov
-anotEtfiri^Evov kevov
-
-ETlrjQ^EVOV 6TEQE0V
-ETtriQ^EVOV %EVOV
-
-anotEX^iq^Evov aniqQ^Evov gxe-
-qeov
-anoxEXfirj^Evov STtrjQiiEvov zevov.
-
-Octahedron.
-
-o. Planum solidum
-
-16. Planum vacuum
-
-17. Abscisum solidum
-
-18. Abscisum vacuum
-ig. Eleuatum solidum
-20. Eleuatum vacuum
-
-OTiXaEÖQOV.
-
-ETtiTlEÒOV 6XEQE0V
-STtlTtsdoV 7CEV0V
-
-anoTEXiiij^Evov Gxeqeov
-anoxEx^imiEvov kevov
-
-ETlYjQ^EVOV GXEQEOV
-ETlìJQ^EVOV %EVOV.
-
-Icosahedron.
-
-21. Planum solidum
-
-22. Planum vacuum
-
-23. Abscisum solidum
-
-24. Abscisum vacuum
-2 5. Eleuatum solidum
-26. Eleuatum vacuum
-
-Ei%OGaEdQOV.
-
-871Ì71EÒ0V GXEQEOV
-ETtLTtEÖOV XEVOV
-
-anoxEx^ì]liEvov gxeqeov
-anoxExitmiEvov xevov
-
-EltriQ^lEVOV GXEQEOV
-ETtìjQ^LEVOV y.EVOV.
+27. :term:`*Dodecahedron planum solidum* <dodecahedron>` — :term:`Δωδεκάεδρον <dodecahedron>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`
+28. :term:`*Dodecahedron planum vacuum* <dodecahedron>` — :term:`Δωδεκάεδρον <dodecahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`
+29. :term:`*Dodecahedron abscisum solidum* <dodecahedron-abscisum>` — :term:`Δωδεκάεδρον ἀποτετμημένον <dodecahedron-abscisum>` :term:`στερεόν <solidum>`
+30. :term:`*Dodecahedron abscisum vacuum* <dodecahedron-abscisum>` — :term:`Δωδεκάεδρον ἀποτετμημένον <dodecahedron-abscisum>` :term:`κενόν <vacuum>`
+31. :term:`*Dodecahedron elevatum solidum* <dodecahedron-elevatum>` — :term:`Δωδεκάεδρον ἐπηρμένον <dodecahedron-elevatum>` :term:`στερεόν <solidum>`
+32. :term:`*Dodecahedron elevatum vacuum* <dodecahedron-elevatum>` — :term:`Δωδεκάεδρον ἐπηρμένον <dodecahedron-elevatum>` :term:`κενόν <vacuum>`
+33. :term:`*Dodecahedron abscisum elevatum solidum* <dodecahedron-abscisum-elevatum>` — :term:`Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον <dodecahedron-abscisum-elevatum>` :term:`στερεόν <solidum>`
+34. :term:`*Dodecahedron abscisum elevatum vacuum* <dodecahedron-abscisum-elevatum>` — :term:`Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον <dodecahedron-abscisum-elevatum>` :term:`κενόν <vacuum>`

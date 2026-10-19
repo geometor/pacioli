@@ -16,5 +16,5 @@ Folio 0207 (Plate Folio 0207 (recto)) — Tabula XI — Exahedron Elevatum Solid
 Tabula XI (No. 11)
 ------------------
 
-- **Titulus Latinus**: *Exahedron Elevatum Solidum*
-- **Titulus Graecus**: Ἑξάεδρον ἐπηρμένον στερεόν
+- **Titulus Latinus**: :term:`*Exahedron Elevatum Solidum* <exahedron-elevatum>`
+- **Titulus Graecus**: :term:`Ἑξάεδρον ἐπηρμένον <exahedron-elevatum>` :term:`στερεόν <solidum>`

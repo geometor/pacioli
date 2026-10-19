@@ -4,9 +4,9 @@ Folio 0297 (Plate Folio 0297 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0296.rst``): Folio Plate Folio 0296 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0296)
-- **Current Folio** (``0297.rst``): Folio Plate Folio 0297 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate LIII — Columna Laterata Exagona Solida (Solid Hexagonal Prism)
-- **Following Folio** (``0298.rst``): Folio Plate Folio 0298 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0298)
+- **Preceding Folio** (``0296.rst``): Folio Plate Folio 0296 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0296)
+- **Current Folio** (``0297.rst``): Folio Plate Folio 0297 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate LIII — :term:`Columna Laterata Exagona <colonna-exagona>` Solida (Solid Hexagonal Prism)
+- **Following Folio** (``0298.rst``): Folio Plate Folio 0298 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0298)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0297 (recto)`` (Scan page ``297``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``LIII`` (Plate No. ``53``) | Latin Cartouche: *Columna Laterata Exagona Solida* | Greek Cartouche: Κίων πλευρώδης ἑξάγωνος στερεός
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``LIII`` (Plate No. ``53``) | Latin Cartouche: :term:`*Columna Laterata Exagona Solida* <colonna-exagona>` | Greek Cartouche: :term:`Κίων πλευρώδης ἑξάγωνος <colonna-exagona>` στερεός

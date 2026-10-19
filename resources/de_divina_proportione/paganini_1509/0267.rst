@@ -16,5 +16,5 @@ Folio 0267 (Plate Folio 0267 (recto)) — Tabula XXXIX — Septuaginta Duarum Ba
 Tabula XXXIX (No. 39)
 ---------------------
 
-- **Titulus Latinus**: *Septuaginta Duarum Basium Solidum*
-- **Titulus Graecus**: Ἑβδομηκονταδισσάεδρον στερεόν
+- **Titulus Latinus**: :term:`*Septuaginta Duarum Basium Solidum* <septuaginta-duarum-basium>`
+- **Titulus Graecus**: :term:`Ἑβδομηκονταδισσάεδρον <septuaginta-duarum-basium>` :term:`στερεόν <solidum>`

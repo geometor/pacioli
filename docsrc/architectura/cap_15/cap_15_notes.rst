@@ -14,7 +14,7 @@ CHAPTER XV — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Vitruvius III.5.10 on the Zophorus**: Vitruvius specifies that if the *zophorus* (frieze) is left plain, it should be :math:`\frac{1}{4}` *less* than the epistyle (:math:`3:4`), whereas if it is carved with reliefs (*si scalpantur*), it should be :math:`\frac{1}{4}` *taller* than the epistyle (:math:`5:4`), so that the sculptures have noble stature and visibility from the ground.
+- **Vitruvius III.5.10 on the Zophorus**: :person:`Vitruvius <vitruvius>` specifies that if the *zophorus* (frieze) is left plain, it should be :math:`\frac{1}{4}` *less* than the epistyle (:math:`3:4`), whereas if it is carved with reliefs (*si scalpantur*), it should be :math:`\frac{1}{4}` *taller* than the epistyle (:math:`5:4`), so that the sculptures have noble stature and visibility from the ground.
 
 Philological and Folio Apparatus
 --------------------------------

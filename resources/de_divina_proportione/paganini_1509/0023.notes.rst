@@ -4,9 +4,9 @@ Folio 0023 (f. 4r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0022.rst``): Folio f. 3v (verso), Part I: Compendio de Divina Proportione — Cap. III, Cap. IV, Cap. V (f. 3v) — Finito el proheraio seguita chiarire quello che per que
-- **Current Folio** (``0023.rst``): Folio f. 4r (recto), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. V, Cap. VI, Cap. VII (f. 4r) — Del condecente titulo del presente tractato.
-- **Following Folio** (``0024.rst``): Folio f. 4v (verso), Part I: Compendio de Divina Proportione — Cap. VII (f. 4v) — Del primo effecto de vna linea diuisa secondo la nostra
+- **Preceding Folio** (``0022.rst``): Folio f. 3v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. III, Cap. IV, Cap. V (f. 3v) — Finito el proheraio seguita chiarire quello che per que
+- **Current Folio** (``0023.rst``): Folio f. 4r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. V, Cap. VI, Cap. VII (f. 4r) — Del condecente titulo del presente tractato.
+- **Following Folio** (``0024.rst``): Folio f. 4v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. VII (f. 4v) — Del primo effecto de vna linea diuisa secondo la nostra
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -21,8 +21,45 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PRIMA``
 - **Folio Signature / Numeration**: ``f. 4r`` (Scan page ``23``, *recto*)
-- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. V** (``compendio/cap_05``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/005_cap_V.txt``
-  - **Cap. VI** (``compendio/cap_06``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/006_cap_VI.txt``
-  - **Cap. VII** (``compendio/cap_07``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/007_cap_VII.txt``
+  - **Cap. V** (``compendio/cap_05``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/005_cap_V.txt``
+  - **Cap. VI** (``compendio/cap_06``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/006_cap_VI.txt``
+  - **Cap. VII** (``compendio/cap_07``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/007_cap_VII.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. V — On the Fitting Title of the Present Treatise
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical and Philological Commentary
+--------------------------------------
+
+1. **Coining the Name *:term:`Divina Proportione <divina-proportione>`***: Prior to Pacioli's treatise, Euclid's division of a line in extreme and mean ratio (Euclid VI.def.3, $\ddot{\alpha}\kappa\rho\omicron\varsigma \kappa\alpha\grave{\iota} \mu\acute{\epsilon}\sigma\omicron\varsigma \lambda\acute{\omicron}\gamma\omicron\varsigma$) was known in medieval Latin exclusively by Gerard of Cremona's and Campanus of Novara's rendering *proportio habens medium et duo extrema* ("proportion having a mean and two extremes"). Chapter V is the historic locus where Pacioli christens the ratio $\phi = \frac{1+\sqrt{5}}{2}$ the *:term:`*Divine Proportion* <divina-proportione>`* (*:term:`Divina Proportione <divina-proportione>`*), grounding the name in five Scholastic-Platonic analogies:
+   1. **Unicity**: Unlike :term:`multiplex <multiplex>` or superparticular ratios ($2:1, 3:1, 3:2, 4:3, \dots$), which form infinite families of species, :term:`extreme and mean ratio <extrema-et-media-ratio>` is unique (*una sola e non più*).
+   2. **Trinitarian Structure**: :term:`Continuous proportion <proportione-continua>` requires a minimum of three terms ($a+b : a :: a : b$), mirroring the *una substantia in tribus personis* of Trinitarian theology.
+   3. **Apophatic Ineffability**: The incommensurability of $\phi$ (:cite:`Euclid XIII.6 <euclid:elements:XIII.6>`) is compared to negative (apophatic) theology: just as God transcends finite verbal definition, $\phi$ transcends rational numerical expression (*occulta e secreta*).
+   4. **Self-Similarity and Invariance**: Echoing the Neoplatonic and Augustinian maxim that God is *totus in toto et totus in qualibet parte*, $\phi$ remains invariant across all scales and self-replicates upon subdivision or addition (:cite:`Euclid XIII.4 <euclid:elements:XIII.4>`, :cite:`Euclid XIV.2 <euclid:elements:XIV.2>`).
+   5. **Cosmological Formative Principle (Plato's *:cite:`Timaeus <plato:timaeus:53c-56c>`*)**: Combining Aristotle's *:cite:`De Caelo <aristotle:de-caelo:III.8>`* (the celestial *:term:`quinta essentia <quinta-essentia>`*) with Plato's *:cite:`Timaeus <plato:timaeus:53c-56c>`* 53c–56c (:term:`Tetrahedron <tetrahedron>` = Fire, Cube = Earth, :term:`Octahedron <octahedron>` = Air, :term:`Icosahedron <icosahedron>` = Water, :term:`Dodecahedron <dodecahedron>` = the Cosmos/Heaven), Pacioli argues that because the regular pentagon and :term:`dodecahedron <dodecahedron>`—and the mutual proportions of all five Platonic solids inscribed in a single sphere (:cite:`Euclid XIII.13 <euclid:elements:XIII.13>`–:cite:`Euclid XIII.18 <euclid:elements:XIII.18>`)—depend essentially on $\phi$, the :term:`Divine Proportion <divina-proportione>` is the formal geometric principle of cosmic order.
+
+Cap. VI — On Its Worthy Commendation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical and Philological Commentary
+--------------------------------------
+
+1. **Campanus of Novara on Book XIV, Proposition 10 (*:term:`Irrationale <irrationale>` Simphonia*)**: Pacioli translates and adapts a celebrated passage from Campanus of Novara's 13th-century commentary on Book XIV, Proposition 10 of Euclid's *Elements* (a corollary added by Campanus to Hypsicles' *Book XIV* comparing the dodecahedron and icosahedron inscribed in the same sphere). Campanus marveled at the *mirabilis :term:`potentia <potentia>` lineae secundum proportionem habentem medium duoque extrema divisae*, writing: *"Cui cum plurima admiranda conveniant, hoc praecipue... ex invariabili natura superiorum principiorum sibi adest, ut tam diversa solida, tum magnitudine, tum basium numero, tum etiam figura, :term:`irrationali <irrationale>` quadam symphonia rationabiliter conciliet"* ("To which, though very many admirable properties belong, this above all is present to it from the invariable nature of higher principles: that it rationally reconciles solids so diverse in magnitude, in number of bases, and in figure, by a certain irrational symphony").
+
+Cap. VII — On the First Effect of a Line Divided According to Our Proportion
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical and Philological Commentary
+--------------------------------------
+
+1. **Proposition Citations in Chapter VII**:
+   - **First Effect (Euclid XIII.1)**: If a line $AB = a+b$ is cut in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $C$ with greater segment $AC = a$, and $AD = \frac{1}{2}AB$ is added to $AC$, then $CD^2 = 5 \cdot AD^2$, i.e., $(a + \frac{a+b}{2})^2 = 5(\frac{a+b}{2})^2$.
+   - **Campanus VI.19 = Heiberg Euclid VI.30**: Pacioli cites *la 19. del 6.* ("the 19th of the 6th"), which is the numbering of *Elements* VI.30 ("To cut a given finite straight line in :term:`extreme and mean ratio <extrema-et-media-ratio>`") in the medieval Latin edition of :person:`Campanus of Novara <campanus>`, preceded by :cite:`Euclid VI.def.3 <euclid:elements:VI.def.3>`.
+   - :cite:`**Euclid II.11** <euclid:elements:II.11>`: :person:`Euclid <euclid>`'s geometric construction in Book II ("To cut a given straight line so that the rectangle contained by the whole and one of the segments is equal to the square on the remaining segment"), which constructs the golden section by areas prior to the theory of proportions in Book V.
+   - **Campanus Euclid IX.16**: In :person:`Campanus <campanus>`'s commentary on *Elements* IX.16 ("If two numbers be prime to one another, the second will not be to any other number as the first is to the second"), :person:`Campanus <campanus>` proves as a corollary that no three integers can stand in :term:`extreme and mean ratio <extrema-et-media-ratio>` (since if $a+b : a = a : b$ in lowest terms, $a$ and $b$ would be coprime, yet $a+b$ and $a$ would also be coprime, contradicting IX.16).
+2. **Christological and Boethian Analogies**: Pacioli extends the theological analogies of Chapter V with a Christological comparison (Christ fulfilling the Mosaic Law, Matthew 5:17, and submitting to Mary and Joseph, Luke 2:51) and quotes the famous Neoplatonic hymn *O qui perpetua mundum ratione gubernas* from :person:`Boethius <boethius>`'s *Consolation of Philosophy* (Book III, metrum 9, line 3): *stabilisque manens dat cuncta moveri* ("remaining unmoved, He gives all things to move").

@@ -16,5 +16,5 @@ Folio 0189 (Plate Folio 0189 (recto)) — Tabula II — Tetrahedron Planum Vacuu
 Tabula II (No. 2)
 -----------------
 
-- **Titulus Latinus**: *Tetrahedron Planum Vacuum*
-- **Titulus Graecus**: Τετράεδρον ἐπίπεδον κενόν
+- **Titulus Latinus**: :term:`*Tetrahedron Planum Vacuum* <tetrahedron>`
+- **Titulus Graecus**: :term:`Τετράεδρον <tetrahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`

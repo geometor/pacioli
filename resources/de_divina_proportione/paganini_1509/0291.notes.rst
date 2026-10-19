@@ -4,9 +4,9 @@ Folio 0291 (Plate Folio 0291 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0290.rst``): Folio Plate Folio 0290 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0290)
-- **Current Folio** (``0291.rst``): Folio Plate Folio 0291 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate L — Columna Laterata Penthagona Vacua (Hollow Pentagonal Prism)
-- **Following Folio** (``0292.rst``): Folio Plate Folio 0292 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0292)
+- **Preceding Folio** (``0290.rst``): Folio Plate Folio 0290 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0290)
+- **Current Folio** (``0291.rst``): Folio Plate Folio 0291 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate L — Columna Laterata Penthagona Vacua (Hollow Pentagonal Prism)
+- **Following Folio** (``0292.rst``): Folio Plate Folio 0292 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0292)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0291 (recto)`` (Scan page ``291``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``L`` (Plate No. ``50``) | Latin Cartouche: *Columna Laterata Penthagona Vacua* | Greek Cartouche: Κίων πλευρώδης πεντάγωνος κενός
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``L`` (Plate No. ``50``) | Latin Cartouche: *Columna Laterata Penthagona Vacua* | Greek Cartouche: :term:`Κίων πλευρώδης πεντάγωνος <colonna-pentagona>` κενός

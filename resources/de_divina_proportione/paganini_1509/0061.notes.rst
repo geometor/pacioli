@@ -4,8 +4,8 @@ Folio 0061 (f. 23r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0060.rst``): Folio f. 22v (verso), Part I: Compendio de Divina Proportione — Cap. LXXI (f. 22v) — De quello se intenda per questi vocabuli fra le mathema
-- **Current Folio** (``0061.rst``): Folio f. 23r (recto), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. LXXI, Prohemio (Architectura) (f. 23r) — De quello se intenda per questi vocabuli fra le mathema
+- **Preceding Folio** (``0060.rst``): Folio f. 22v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. LXXI (f. 22v) — De quello se intenda per questi vocabuli fra le mathema
+- **Current Folio** (``0061.rst``): Folio f. 23r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. LXXI, Prohemio (Architectura) (f. 23r) — De quello se intenda per questi vocabuli fra le mathema
 - **Following Folio** (``0062.rst``): Folio f. 23v (verso), Part II: Tractato de l'Architectura — Prohemio (Architectura) (f. 23v) — Ali suoi carissimi discipuli e alieui Cesaro dal saxo.
 
 Graphic Extraction & Calibration
@@ -21,7 +21,32 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``quanto figliuolo mìoimmeritameute peculiare efìngualrepatron``
 - **Folio Signature / Numeration**: ``f. 23r`` (Scan page ``61``, *recto*)
-- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. LXXI** (``compendio/cap_71``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/071_cap_LXXI.txt``
-  - **Prohemio (Dedication)** (``architectura/dedication``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/001_dedication.txt``
+  - **Cap. LXXI** (``compendio/cap_71``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/071_cap_LXXI.txt``
+  - **Prohemio (Dedication)** (``architectura/dedication``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/001_dedication.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. LXXI — What Is Understood by the Mathematical Terms Used in This Compendium—Namely Hypothesis, Hypotenuse, Corausto, Pyramidal Cone, Pentagonal Chord, Perpendicular, Cathetus, Diameter, Parallelogram, Diagonal, Center, and Sagitta—and Conclusion of Part I (December 14, 1498).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Marginal Diagram**: Folio 0059 (``f. 22r``) contains diagram ``0059.g1.png`` illustrating the circular segment with its **arco** (arc/bow), **corda** (chord/bowstring), and :term:`**saetta** <saetta>` (:term:`sagitta <saetta>`/arrow).
+- **Dating of the Colophon (December 14, 1498)**: The colophon on Folio 0061 (``f. 23r``) reads *"Finis a di 14. decembre in Milano nel nostro almo convento MCCCCXCVII. Sedente summo pontifice Alexandro VI. del suo pontificato anno VII."* Because Pope Alexander VI (Rodrigo Borgia) was elected on August 11, 1492, his **seventh pontifical year** (*anno VII*) ran from August 11, 1498 to August 10, 1499—and ``Cap. LXIX`` explicitly refers to the Franciscan General Chapter held in Milan in May–June **1498** (*de l'anno presente*). Thus ``MCCCCXCVII`` in the 1509 print dropped a final ``I`` for ``MCCCCXCVIII`` (**December 14, 1498**), the exact date recorded in the presentation manuscripts (Geneva MS l.e. 210 and Milan Biblioteca Ambrosiana MS 170 sup.).
+
+Prohemio — Epistle Dedicatory to His Dearest Disciples and Pupils—Cesare dal Sasso, Cera del Cera, Rainer Francesco di Pippo, Bernardino and Marsilio da Monte, Girolamo del Fecciarino, and Companions of Borgo Sansepolcro, Worthy Stonemasons and Zealous Followers of the Sculptural and Architectural Art—by Fra Luca Pacioli, Their Fellow Countryman of the Order of Friars Minor and Professor of Sacred Theology.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Date and Context (Venice, May 1, 1509)**: While Part I (*Compendio de Divina Proportione*) was completed in Milan on December 14, 1498, this dedicatory epistle to Part II (*Tractato de l'Architectura*) is explicitly dated **Venice, Kalends of May 1509** (*Ex Venitiis Kal. Maii MDIX*), just one month before :person:`Paganino de' Paganini <paganino-de-paganini>` finished printing the entire volume on June 1, 1509.
+- **Autobiographical & Prosopographical Treasure**: This preface is one of the primary biographical sources for Pacioli's life and family:
+  - It names Pacioli's **two blood brothers** (*miei carnali fratelli*), both Franciscan friars: **Master Ginepro** (*M. Zinipero*) and **Fra Ambrogio**, and his nephew **Francesco Pacioli** (who died of dysentery at Ragusa/Dubrovnik with Captain Benedetto Baiardo).
+  - It records that Pacioli lectured on :person:`Euclid <euclid>`'s *Elements* for **three years** to the condottiere **Camillo Vitelli** (c. 1459–1496, brother of Niccolò and Paolo Vitelli of Città di Castello), and participated in discussions on fortification in Naples at the palace of Count Francesco Coppola of Sarno with the humanist **Giovanni Pontano** and the Florentine diplomat **Pier Vettori**, and in Milan with **Gian Giacomo Trivulzio**, :person:`**Galeazzo Sanseverino** <galeazzo-sanseverino>`, and :person:`**Ludovico Sforza** <ludovico-sforza>`.
+  - It documents Pacioli's closeness to :person:`**Piero della Francesca** <piero-della-francesca>` (*nostro conterraneo e contemporale... Monarca Maestro Petro de' Franceschi*), **Lorenzo Canozi da Lendinara** (1425–1477), and Lorenzo's son **Giovan Marco Canozi** (Pacioli's *compare*).
+- **Comparison with Earlier Draft Track**: The earlier ``winterberg_en`` draft compressed the three-folio roll of honor of the captains of :term:`Borgo Sansepolcro <san-sepolcro>`. Here every single name, battle, castle, and biographical detail from Folios ``0061.rst``–``0065.rst`` (``f. 23r``–``f. 25r``) is translated in full without abridgment.

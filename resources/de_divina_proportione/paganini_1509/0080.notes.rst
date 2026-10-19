@@ -4,7 +4,7 @@ Folio 0080 (f. 32v) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0079.rst``): Folio f. 32r (recto), Part II: Tractato de l'Architectura — Cap. XV, Cap. XVI, Cap. XVII (f. 32r) — Del zophoro nel epistilio.
+- **Preceding Folio** (``0079.rst``): Folio f. 32r (recto), Part II: Tractato de l'Architectura — Cap. XV, Cap. XVI, Cap. XVII (f. 32r) — Del :term:`zophoro <zophoro>` nel :term:`epistilio <epistilio>`.
 - **Current Folio** (``0080.rst``): Folio f. 32v (verso), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. XVIII, Cap. XIX (f. 32v) — Comme lapicidi e altri scultori in dicti corpi sieno co
 - **Following Folio** (``0081.rst``): Folio f. 33r (recto), Part II: Tractato de l'Architectura — Cap. XIX, Cap. XX (f. 33r) — Comme nelli luoghi angusti lo architetto se habia arege
 
@@ -23,5 +23,28 @@ Diplomatic & Textual Observations
 - **Folio Signature / Numeration**: ``f. 32v`` (Scan page ``80``, *verso*)
 - **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. XVIII** (``architectura/cap_18``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/018_cap_XVIII.txt``
-  - **Cap. XIX** (``architectura/cap_19``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/019_cap_XIX.txt``
+  - **Cap. XVIII** (``architectura/cap_18``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/018_cap_XVIII.txt``
+  - **Cap. XIX** (``architectura/cap_19``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/019_cap_XIX.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. XVIII — How Stonemasons and Sculptors Are Highly Commended for Placing the Regular and Dependent Polyhedra in Their Works, and How Phidias Placed the Icosahedron in the Temple of Ceres in Rome.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Architectural Legacy of Pacioli's Polyhedra**: Pacioli's advice in ``Cap. XVIII`` to sculptors, stonemasons, and *intarsiatori* to place the Platonic and Archimedean solids (solid and skeletal) atop capitals, pedestals, finials, and perspective panels had an immediate and lasting impact across Europe:
+  - **Fra Giovanni da Verona** carved Leonardo/Pacioli's skeletal polyhedra into the famous intarsia panels of **Santa Maria in Organo** in Verona (c. 1519) and Monte Oliveto Maggiore;
+  - **Wenzel Jamnitzer** (*Perspectiva Corporum Regularium*, Nuremberg, 1568), **Lorenz Stoer** (*Geometria et Perspectiva*, 1567), and **Jean Cousin** placed these exact polyhedra atop classical columns, pedestals, and architectural ruins;
+  - Tomb monuments and church finials throughout 16th- and 17th-century Italy (including Hawksmoor's and Wren's later obelisks and finials) adopted the regular and stellated polyhedra as crowning architectural ornaments.
+- **Baron Mario Mellini and the Palazzo della Cancelleria in Rome**: :person:`**Mario Mellini** <mario-mellini>` (1456–1503, nephew of Cardinal Giambattista Mellini, resident at the Torre dei Mellini near Piazza Navona, where a famous collection of antiquities and manuscripts was kept) and Cardinal **Raffaele Riario** / Cardinal :person:`**Galeotto Franciotti della Rovere** <galeotto-della-rovere>` at the **Palazzo della Cancelleria** were Pacioli's hosts in Rome (where Pacioli deposited a fourth set of his polyhedra models!).
+
+Cap. XIX — How the Architect Must Govern Himself in Cramped and Irregular Sites, Why Continuous Geometric Proportion Is Wider Than Discrete Numerical Proportion, and Praise of Master Piero della Francesca.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Piero della Francesca's *Legend of the True Cross* at Arezzo and *:cite:`De Prospectiva Pingendi <piero:prospectiva>`* at Urbino**: This passage on Folio 0081 (``f. 33r``) is one of the earliest and most authoritative Renaissance tributes to *:person:`*Piero della Francesca* <piero-della-francesca>`* (c. 1415–1492), listing every major city where Piero worked (**Urbino, Bologna, Ferrara, Rimini, Ancona, Sansepolcro, and Arezzo**), noting his mastery of both **oil and tempera/gouache on wall and panel** (*in muro e taula a oglio e guazzo*), singling out the **Cappella Maggiore of San Francesco in Arezzo** (*la magna capella dela tribuna del'altar grande*) as *"vna dele dignissime opere de Italia e da tutti commendata"*, and citing Piero's manuscript treatise *:cite:`De Prospectiva Pingendi <piero:prospectiva>`* in the Ducal Library of Urbino!

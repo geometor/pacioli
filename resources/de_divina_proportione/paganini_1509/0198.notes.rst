@@ -4,9 +4,9 @@ Folio 0198 (Plate Folio 0198 (verso)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0197.rst``): Folio Plate Folio 0197 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate VI — Tetrahedron Elevatum Vacuum (Hollow Stellated (Elevated) Tetrahedron)
-- **Current Folio** (``0198.rst``): Folio Plate Folio 0198 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0198)
-- **Following Folio** (``0199.rst``): Folio Plate Folio 0199 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate VII — Exahedron sive Cubus Planum Solidum (Solid Regular Hexahedron (Cube))
+- **Preceding Folio** (``0197.rst``): Folio Plate Folio 0197 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate VI — :term:`Tetrahedron Elevatum <tetrahedron-elevatum>` :term:`Vacuum <vacuum>` (Hollow Stellated (Elevated) :term:`Tetrahedron <tetrahedron>`)
+- **Current Folio** (``0198.rst``): Folio Plate Folio 0198 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Polyhedra Plate Verso (0198)
+- **Following Folio** (``0199.rst``): Folio Plate Folio 0199 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate VII — :term:`Exahedron <exahedron>` sive Cubus :term:`Planum <planum>` :term:`Solidum <solidum>` (Solid Regular :term:`Hexahedron <exahedron>` (Cube))
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,5 +18,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0198 (verso)`` (Scan page ``198``, *verso*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
 - **Leaf Category**: Polyhedra Plate Verso (0198)

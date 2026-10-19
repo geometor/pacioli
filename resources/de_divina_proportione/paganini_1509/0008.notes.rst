@@ -5,7 +5,7 @@ Summary & Folio Continuity
 --------------------------
 
 - **Preceding Folio** (``0007.rst``): Folio A2r (recto), Front Matter and Dedications — Epistola ad Petrum Soderinum (1509)
-- **Current Folio** (``0008.rst``): Folio A2v (verso), Front Matter and Dedications [``00_front_matter``] — Danielis Caietani Epistolium ad Andream Mocenicum (1509)
+- **Current Folio** (``0008.rst``): Folio A2v (verso), Front Matter and Dedications [``00_front_matter``] — :person:`Danielis Caietani <daniele-gaetani>` Epistolium ad Andream Mocenicum (1509)
 - **Following Folio** (``0009.rst``): Folio A3r (recto), Front Matter and Dedications — Nomina et Numerus Corporum (A3r)
 
 Graphic Extraction & Calibration
@@ -21,4 +21,4 @@ Diplomatic & Textual Observations
 - **1509 Paganini Running Header**: ``^Magnifico f C lariflimo Andrea Mocénico Veneto patricìo Vir``
 - **Folio Signature / Numeration**: ``A2v`` (Scan page ``8``, *verso*)
 - **Book & Section Slug**: Front Matter and Dedications (``00_front_matter``)
-- **Leaf Category**: Danielis Caietani Epistolium ad Andream Mocenicum (1509)
+- **Leaf Category**: :person:`Danielis Caietani <daniele-gaetani>` Epistolium ad Andream Mocenicum (1509)

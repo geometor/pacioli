@@ -13,4 +13,4 @@ Folio 0153 (Plate Folio 0153 (recto)) — Roman Geometric Alphabet — Lettera H
 .. picture:: 0153.g1.png
    :alt: Folio 0153 Tavola g1
 
-Questa lettera H si cava del tondo e del suo quadro. Le sue gambe grosse si fanno per mezo le crosiere cioè dove se intersecano li diametri del tondo e suo quadro. La grosseza de ditte gambe vol esser de le nove parti una de lalteza. E quella de mezo se fa per mezo el diametro: la sua grosseza vol esser la terza parte de la gamba grossa commel traverso del A.
+Questa lettera H si cava del tondo e del suo quadro. Le sue gambe grosse si fanno per mezo le crosiere cioè dove se intersecano li diametri del tondo e suo quadro. La grosseza de ditte gambe vol esser de le nove parti una de lalteza. E quella de mezo se fa per mezo el diametro: la sua grosseza vol esser la terza parte de la :term:`gamba grossa <gamba-grossa>` commel traverso del A.

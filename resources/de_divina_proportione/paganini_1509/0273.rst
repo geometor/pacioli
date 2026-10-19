@@ -16,5 +16,5 @@ Folio 0273 (Plate Folio 0273 (recto)) — Tabula XLII — Columna Laterata Trian
 Tabula XLII (No. 42)
 --------------------
 
-- **Titulus Latinus**: *Columna Laterata Triangula Vacua*
-- **Titulus Graecus**: Κίων πλευρώδης τρίγωνος κενός
+- **Titulus Latinus**: :term:`*Columna Laterata Triangula Vacua* <corpo-seratile>`
+- **Titulus Graecus**: :term:`Κίων πλευρώδης τρίγωνος <corpo-seratile>` κενός

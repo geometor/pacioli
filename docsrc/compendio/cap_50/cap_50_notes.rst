@@ -15,13 +15,13 @@ Historical & Mathematical Commentary
 ------------------------------------
 
 - **Paganini 1509 Plates Referenced**:
-  - **Plate XIII** (``0217.rst``): *Octocedron Planum Solidum* (Octahedron, solid).
-  - **Plate XIV** (``0219.rst``): *Octocedron Planum Vacuum* (Octahedron, skeletal).
-  - **Plate XV** (``0221.rst``): *Octocedron Abscisum Solidum* (Truncated/rectified octahedron, solid).
-  - **Plate XVI** (``0223.rst``): *Octocedron Abscisum Vacuum* (Truncated/rectified octahedron, skeletal).
-  - **Plate XVII** (``0225.rst``): *Octocedron Elevatum Solidum* (**Stella Octangula**, compound of two dual tetrahedra, solid).
-  - **Plate XVIII** (``0227.rst``): *Octocedron Elevatum Vacuum* (Stella Octangula, skeletal).
-- **First Depiction of the *Stella Octangula***: Plates XVII and XVIII (drawn by Leonardo da Vinci in 1497 and printed in 1509) are the earliest known perspective depictions of the **stellated octahedron** (later rediscovered by Johannes Kepler in *Harmonices Mundi*, 1619, who named it the *Stella Octangula*). Because the dihedral angle of an octahedron (:math:`\arccos(-\frac{1}{3}) \approx 109.47^{\circ}`) and the dihedral angle of a regular tetrahedron (:math:`\arccos(\frac{1}{3}) \approx 70.53^{\circ}`) are **supplementary** (:math:`109.47^{\circ} + 70.53^{\circ} = 180^{\circ}`), erecting regular tetrahedra on the 8 faces of a regular octahedron makes the faces coplanar across the octahedral edges, forming two interpenetrating large regular tetrahedra of double the edge length!
+  - **Plate XIII** (``0217.rst``): :term:`*Octocedron Planum Solidum* <octahedron>` (:term:`Octahedron <octahedron>`, solid).
+  - **Plate XIV** (``0219.rst``): :term:`*Octocedron Planum Vacuum* <octahedron>` (:term:`Octahedron <octahedron>`, skeletal).
+  - **Plate XV** (``0221.rst``): :term:`*Octocedron Abscisum Solidum* <octahedron>` (Truncated/rectified :term:`octahedron <octahedron>`, solid).
+  - **Plate XVI** (``0223.rst``): :term:`*Octocedron Abscisum Vacuum* <octahedron>` (Truncated/rectified :term:`octahedron <octahedron>`, skeletal).
+  - **Plate XVII** (``0225.rst``): :term:`*Octocedron Elevatum Solidum* <octahedron>` (:term:`**Stella Octangula** <octahedron-elevatum>`, compound of two dual tetrahedra, solid).
+  - **Plate XVIII** (``0227.rst``): :term:`*Octocedron Elevatum Vacuum* <octahedron>` (:term:`Stella Octangula <octahedron-elevatum>`, skeletal).
+- **First Depiction of the *:term:`Stella Octangula <octahedron-elevatum>`***: Plates XVII and XVIII (drawn by Leonardo da Vinci in 1497 and printed in 1509) are the earliest known perspective depictions of the **stellated :term:`octahedron <octahedron>`** (later rediscovered by Johannes Kepler in *Harmonices Mundi*, 1619, who named it the *:term:`Stella Octangula <octahedron-elevatum>`*). Because the dihedral angle of an octahedron (:math:`\arccos(-\frac{1}{3}) \approx 109.47^{\circ}`) and the dihedral angle of a regular tetrahedron (:math:`\arccos(\frac{1}{3}) \approx 70.53^{\circ}`) are **supplementary** (:math:`109.47^{\circ} + 70.53^{\circ} = 180^{\circ}`), erecting regular tetrahedra on the 8 faces of a regular :term:`octahedron <octahedron>` makes the faces coplanar across the octahedral edges, forming two interpenetrating large regular tetrahedra of double the edge length!
 
 Philological and Folio Apparatus
 --------------------------------

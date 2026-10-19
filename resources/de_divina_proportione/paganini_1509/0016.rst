@@ -19,4 +19,14 @@ Folio 0016 (A6v) — Tabula — Tabula (A6v)
 .. picture:: 0016.g3.png
    :alt: Folio 0016 Figura g3
 
-(Lectore et cetera).
+Tabula del tractato de larchitectura quäl sequita immediate doppo tutto el compendio dela diuina proportione distincto per capitoli dicendo Capitolo primo. Cap. 2, Cap. 3 etc. Diuisione de larchitectura in tre parti principali deli luochi publici parte prima.
+
+Cap. I. Dela mesura e proportioni del corpo humano. Dela testa a altri suoi membri :term:`simulacro <simulacro>` de larchitectura.
+
+Cap. II. Dela distantia del profilo alcotozzo de dicta testa cioè al ponto a. qual chiamano :term:`cotozzo <cotozzo>` ede le parti che in quello se interpongano. Ochio e orechia.
+
+Cap. III. Dela proportione de tutto el corpo humano che sia ben disposto ala sua testa e altri membri secondo sua longhezza e larghezza.
+
+Cap. IV. Dele :term:`colonne rotonde <colonna-rotonda>` con sue basi capitelli epilastrelli overostilobate.
+
+Cap. V. Dela longhezza e grossezza dele colonne tonde.

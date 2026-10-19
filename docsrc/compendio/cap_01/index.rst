@@ -3,7 +3,7 @@
 CHAPTER I: Epistle on the Divine Proportion to the Most Excellent Prince Ludovico Maria Sfo
 ===========================================================================================
 
-- **Original Italian Title (1509)**: *Excellentissimo principi Ludouico mariae Sforza Angla Mediolanensium duci: pacis et belli ornamento fratris Lucae pacioli ex Burgo sancti Sepulchri ordinis Minorum: Sacrae theo- logiae professoris. De diuina proportione epistola.*
+- **Original Italian Title (1509)**: *Excellentissimo principi Ludouico mariae Sforza Angla Mediolanensium duci: pacis et belli ornamento fratris Lucae pacioli ex Burgo sancti Sepulchri ordinis Minorum: Sacrae theologiae professoris. De diuina proportione epistola.*
 - **German Edition Title (1889)**: *Ludwig Maria Sforza Anglo, Herzog von Mailand, Zierde des Friedens wie des Krieges, von Bruder Luca Pacioti aus Borgo San Sepolchro, vom Orden der Minoriten, Professor der heiligen Theologie.*
 - **1509 Paganini Folios**: 0017, 0018 (f. 1r–f. 1v)
 

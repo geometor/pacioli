@@ -14,7 +14,7 @@ CHAPTER XXXVI — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Johannes Kepler's *Stella Octangula* and the Volume Ratio**: Slicing away the four right-angled corner pyramids (:math:`abcf`, :math:`acdh`, :math:`aefh`, :math:`cfgh`) from the cube of side :math:`s` leaves the regular tetrahedron :math:`afch` of edge :math:`s\sqrt{2}`. Since each corner pyramid has three mutually perpendicular legs of length :math:`s` and therefore volume :math:`\frac{1}{6}s^{3}`, the four corner pyramids have total volume :math:`4 \times \frac{1}{6}s^{3} = \frac{2}{3}s^{3}`, leaving **one-third** of the cube's volume (:math:`\frac{1}{3}s^{3}`) for the inscribed tetrahedron!
+- **Johannes Kepler's *:term:`Stella Octangula <octahedron-elevatum>`* and the Volume Ratio**: Slicing away the four right-angled corner pyramids (:math:`abcf`, :math:`acdh`, :math:`aefh`, :math:`cfgh`) from the cube of side :math:`s` leaves the regular tetrahedron :math:`afch` of edge :math:`s\sqrt{2}`. Since each corner pyramid has three mutually perpendicular legs of length :math:`s` and therefore volume :math:`\frac{1}{6}s^{3}`, the four corner pyramids have total volume :math:`4 \times \frac{1}{6}s^{3} = \frac{2}{3}s^{3}`, leaving **one-third** of the cube's volume (:math:`\frac{1}{3}s^{3}`) for the inscribed :term:`tetrahedron <tetrahedron>`!
 
 Philological and Folio Apparatus
 --------------------------------

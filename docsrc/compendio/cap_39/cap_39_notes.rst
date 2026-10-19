@@ -14,7 +14,7 @@ CHAPTER XXXIX — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Commensurability in Length (:math:`2:3`)**: Notice the remarkable rational consequence of composing Campanus XV.4 (:math:`s_{\text{cube}} = \frac{\sqrt{2}}{3}s_{\text{octa}}`) with Campanus XV.2 (:math:`s_{\text{tetra}} = \sqrt{2}\,s_{\text{cube}}`): the :math:`\sqrt{2}` factors cancel completely, leaving :math:`s_{\text{tetra}} = \frac{2}{3}s_{\text{octa}}`!
+- **Commensurability in Length (:math:`2:3`)**: Notice the remarkable rational consequence of composing :cite:`Campanus XV.4 <campanus:euclid:XV.4>` (:math:`s_{\text{cube}} = \frac{\sqrt{2}}{3}s_{\text{octa}}`) with :cite:`Campanus XV.2 <campanus:euclid:XV.2>` (:math:`s_{\text{tetra}} = \sqrt{2}\,s_{\text{cube}}`): the :math:`\sqrt{2}` factors cancel completely, leaving :math:`s_{\text{tetra}} = \frac{2}{3}s_{\text{octa}}`!
 
 Philological and Folio Apparatus
 --------------------------------

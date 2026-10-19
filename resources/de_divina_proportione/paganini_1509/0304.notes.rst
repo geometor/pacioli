@@ -4,9 +4,9 @@ Folio 0304 (Plate Folio 0304 (verso)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0303.rst``): Folio Plate Folio 0303 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate LVI — Pyramis Laterata Triangula Inaequilatera Vacua (Hollow Scalene Triangular Pyramid)
-- **Current Folio** (``0304.rst``): Folio Plate Folio 0304 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0304)
-- **Following Folio** (``0305.rst``): Folio Plate Folio 0305 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate LVII — Columna Rotunda Solida (Solid Round Column (Cylinder))
+- **Preceding Folio** (``0303.rst``): Folio Plate Folio 0303 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate LVI — :term:`Pyramis Laterata Triangula <pyramide-triangula>` Inaequilatera Vacua (Hollow Scalene Triangular Pyramid)
+- **Current Folio** (``0304.rst``): Folio Plate Folio 0304 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Polyhedra Plate Verso (0304)
+- **Following Folio** (``0305.rst``): Folio Plate Folio 0305 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate LVII — :term:`Columna Rotunda <colonna-rotonda>` Solida (Solid Round Column (Cylinder))
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,5 +18,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0304 (verso)`` (Scan page ``304``, *verso*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
 - **Leaf Category**: Polyhedra Plate Verso (0304)

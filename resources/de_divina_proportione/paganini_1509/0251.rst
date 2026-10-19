@@ -16,5 +16,5 @@ Folio 0251 (Plate Folio 0251 (recto)) — Tabula XXXI — Dodecahedron Elevatum 
 Tabula XXXI (No. 31)
 --------------------
 
-- **Titulus Latinus**: *Dodecahedron Elevatum Solidum*
-- **Titulus Graecus**: Δωδεκάεδρον ἐπηρμένον στερεόν
+- **Titulus Latinus**: :term:`*Dodecahedron Elevatum Solidum* <dodecahedron-elevatum>`
+- **Titulus Graecus**: :term:`Δωδεκάεδρον ἐπηρμένον <dodecahedron-elevatum>` :term:`στερεόν <solidum>`

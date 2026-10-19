@@ -4,9 +4,9 @@ Folio 0021 (f. 3r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0020.rst``): Folio f. 2v (verso), Part I: Compendio de Divina Proportione — Cap. II (f. 2v) — Reuerendi Patris Magistri Luce pacioli de Burgo San Sep
-- **Current Folio** (``0021.rst``): Folio f. 3r (recto), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. II, Cap. III (f. 3r) — Reuerendi Patris Magistri Luce pacioli de Burgo San Sep
-- **Following Folio** (``0022.rst``): Folio f. 3v (verso), Part I: Compendio de Divina Proportione — Cap. III, Cap. IV, Cap. V (f. 3v) — Finito el proheraio seguita chiarire quello che per que
+- **Preceding Folio** (``0020.rst``): Folio f. 2v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. II (f. 2v) — Reuerendi Patris Magistri Luce pacioli de Burgo San Sep
+- **Current Folio** (``0021.rst``): Folio f. 3r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. II, Cap. III (f. 3r) — Reuerendi Patris Magistri Luce pacioli de Burgo San Sep
+- **Following Folio** (``0022.rst``): Folio f. 3v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. III, Cap. IV, Cap. V (f. 3v) — Finito el proheraio seguita chiarire quello che per que
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,7 +20,40 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PRIMA``
 - **Folio Signature / Numeration**: ``f. 3r`` (Scan page ``21``, *recto*)
-- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. II** (``compendio/cap_02``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/002_cap_II.txt``
-  - **Cap. III** (``compendio/cap_03``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/003_cap_III.txt``
+  - **Cap. II** (``compendio/cap_02``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/002_cap_II.txt``
+  - **Cap. III** (``compendio/cap_03``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/003_cap_III.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. II — Preface of the Reverend Father Magister Luca Pacioli of Borgo Sansepolcro, of the Order of Minorites and Professor of Sacred Theology, to the Compendium on the Divine Proportion drawn from the Mathematical Disciplines
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical and Philological Commentary
+--------------------------------------
+
+1. **Dantean and Petrarchan Echoes**: Pacioli weaves vernacular literary classics directly into his Scholastic Latin-Italian prose:
+   - *el maistro de color ch'sano* ("the Master of those who know", :person:`Aristotle <aristotle>`) is a direct quotation of Dante, *Inferno* IV.131.
+   - *l'uno pensier da l'altro scoppia* ("one thought bursts forth from another") quotes Dante, *Inferno* XXIII.10.
+   - *la gola, sonno e otiose piume* ("gluttony, sleep, and idle feather-beds") quotes the opening line of Petrarch's famous sonnet *La gola e 'l sonno e l'oziose piume Hanno del mondo ogni vertù sbandita* (*Rerum vulgarium fragmenta* VII).
+2. **Material Models of the Polyhedra**: Pacioli explicitly states that he fashioned with his own hands (*de mia propria mano materialmente*) three-dimensional models of the regular and dependent polyhedra to accompany the treatise in the Ducal Library at Pavia/Milan. In May 1506, the Venetian Republic recorded Pacioli's presentation of three sets of sixty polyhedra fashioned in lightweight wood.
+3. **Roberto Valturio and the Urbino Frieze**: Pacioli links classical military engineering (:person:`Archimedes <archimedes>` at Syracuse, Caesar's Rhine bridge, :person:`Vegetius <vegetius>`, :person:`Frontinus <frontinus>`) to :person:`Roberto Valturio <roberto-valturio>`'s *De re militari* (written c. 1455 for Sigismondo Pandolfo Malatesta of Rimini, printed at Verona in 1472) and the celebrated stone bas-reliefs (*Formelle dell'Arte della Guerra*, carved by Ambrogio Barocci after designs by Francesco di Giorgio Martini) that adorned the bench-frieze around the facade of :person:`Federico da Montefeltro <federico-da-montefeltro>`'s Ducal Palace in Urbino.
+4. **Duns Scotus, Bartolus of Sassoferrato, and Euclid**:
+   - **John Duns Scotus** (*Ordinatio* / *Opus Oxoniense* II, dist. 2, p. 2, q. 5–6) used geometric arguments on the divisibility of the continuum from :person:`Euclid <euclid>`'s *Elements* to analyze angelic location (*ubi angelicum*) and motion.
+   - :person:`**Bartolus of Sassoferrato** <bartolus>` (1313–1357) composed his treatise *De fluminibus seu Tyberiadis* (1355) while watching the bends of the Tiber near Perugia; as :person:`Bartolus <bartolus>` himself records in his prologue, he was assisted in the geometric division of alluvial islands and riverbeds by the Franciscan theologian and mathematician **Guido da Perpignano / Guido de Perusio**, citing :person:`Euclid <euclid>`'s *Elements*.
+5. **Pacioli's Public Chair of Mathematics in Milan**: Appointed by :person:`Ludovico Sforza <ludovico-sforza>` in 1496, Pacioli notes at the end of Chapter II that he has just completed lecturing publicly through Books I–X of :person:`Euclid <euclid>`'s *Elements* (incorporating practical algebra and arithmetic alongside :person:`Campanus <campanus>`'s theoretical propositions) and is now devoting the remainder of his term to Books XI–XV and *De Divina Proportione*.
+
+Cap. III — The Preface Being Ended, There Follows an Explanation of What Is Meant by This Name 'Mathematical'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical and Philological Commentary
+--------------------------------------
+
+1. **The Lacuna for the Greek Word in the 1509 Printing**: In the 1509 Paganini edition (Folio 0021r), the compositor left a blank space after *derivato da* for the Greek word $\mu\alpha\theta\eta\mu\alpha\tau\iota\kappa\acute{o}\varsigma$ (or $\mu\alpha\nu\theta\acute{\alpha}\nu\omega$ / $\mu\acute{\alpha}\theta\eta\mu\alpha$), which Pacioli regularly glosses in his *Summa* and his 1509 edition of :person:`Euclid <euclid>` as *disciplinabile*.
+2. **Reforming the Quadrivium — Perspective as a Liberal Art**: Chapter III is one of the defining documents of the Italian Renaissance elevation of the visual arts from *artes mechanicae* to *artes liberales*. Challenging :person:`Boethius <boethius>`'s canonical fourfold :term:`*Quadrivium* <quadrivio>` (Arithmetic, Music, Geometry, Astronomy), Pacioli argues on strictly parallel epistemological and mathematical grounds that :term:`*Prospectiva* <perspectiva>` (linear perspective and the science of visual rays, pioneered by :person:`Piero della Francesca <piero-della-francesca>`, :person:`Leon Battista Alberti <alberti>`, and :person:`Leonardo da Vinci <leonardo>`) stands on an equal footing with Music:
+   - **Sense Hierarchy**: Sight (*el vedere*, the *prima porta al intellecto*) is nobler than hearing (*l'udito*).
+   - **Mathematical Object**: Measure of the visual ray (*linea visuale*) and natural number vs. sonorous number (*numero sonoro*) and musical time (*tempo de sue prolationi*).
+   - **Proportional Scope**: Arithmetic and geometric proportions of foreshortening vs. harmonic proportions.
+3. **Second Ekphrasis of Leonardo's *:term:`Last Supper <simulacro>`***: Pacioli specifies the exact dramatic moment depicted by Leonardo in the refectory of Santa Maria delle Grazie: Christ's words *Unus vestrum me traditurus est* (Matthew 26:21), capturing the Apostles' *acti e gesti* ("actions and gestures", corresponding directly to Leonardo's theory of *moti mentali* expressed through bodily movements).

@@ -16,7 +16,7 @@ Historical & Mathematical Commentary
 
 - **Paganini 1509 Plates Referenced**:
   - **Plate XLV** (``0281.rst``, *Laterato Solido* / Triangular Prism, solid) and **Plate XLVI** (``0283.rst``, *Laterato Vacuo* / Triangular Prism, skeletal).
-- **Etymology of *Corpo Seratile***: In the medieval Gerard of Cremona and Campanus translations of Euclid Books XI–XII, a triangular prism (:g:`prisma`) is rendered *corpus serratile* ("sawed body").
+- **Etymology of *:term:`Corpo Seratile <corpo-seratile>`***: In the medieval Gerard of Cremona and Campanus translations of Euclid Books XI–XII, a triangular prism (:g:`prisma`) is rendered *corpus serratile* ("sawed body").
 
 Philological and Folio Apparatus
 --------------------------------

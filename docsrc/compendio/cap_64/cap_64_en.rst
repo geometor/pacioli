@@ -14,7 +14,7 @@ CHAPTER LXIV (English)
 .. folio:: 0055 (f. 20r)
    :initial: 0055.c1.png
 
-It now follows in order, most lofty Duke, to treat of **pyramids** and their varieties—first those called **round pyramids** (*pyramidi rotonde*, cones, :ref:`Plates XLIII–XLIV <plates-polyhedra-en>`), and then all the **lateral pyramids** (*pyramidi laterate*).
+It now follows in order, most lofty Duke, to treat of **pyramids** and their varieties—first those called **round pyramids** (:term:`*pyramidi rotonde* <pyramide-rotonda>`, cones, :ref:`Plates XLIII–XLIV <plates-polyhedra-en>`), and then all the **lateral pyramids** (:term:`*pyramidi laterate* <pyramide-laterata>`).
 
 .. enunciation:: Definition and Three Species of the Round Pyramid (Cone, :just:`XI.Def.18`)
 

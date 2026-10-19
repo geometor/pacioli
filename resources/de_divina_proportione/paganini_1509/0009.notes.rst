@@ -4,7 +4,7 @@ Folio 0009 (A3r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0008.rst``): Folio A2v (verso), Front Matter and Dedications — Danielis Caietani Epistolium ad Andream Mocenicum (1509)
+- **Preceding Folio** (``0008.rst``): Folio A2v (verso), Front Matter and Dedications — :person:`Danielis Caietani <daniele-gaetani>` Epistolium ad Andream Mocenicum (1509)
 - **Current Folio** (``0009.rst``): Folio A3r (recto), Front Matter and Dedications [``00_front_matter``] — Nomina et Numerus Corporum (A3r)
 - **Following Folio** (``0010.rst``): Folio A3v (verso), Front Matter and Dedications — Nomina et Numerus Corporum (A3v)
 

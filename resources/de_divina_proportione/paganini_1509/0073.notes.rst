@@ -4,7 +4,7 @@ Folio 0073 (f. 29r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0072.rst``): Folio f. 28v (verso), Part II: Tractato de l'Architectura — Cap. VI (f. 28v) — Sequita lordine del stilobata ouer pilastro ouero basam
+- **Preceding Folio** (``0072.rst``): Folio f. 28v (verso), Part II: Tractato de l'Architectura — Cap. VI (f. 28v) — Sequita lordine del :term:`stilobata <stilobata>` ouer :term:`pilastro <pilastro>` ouero basam
 - **Current Folio** (``0073.rst``): Folio f. 29r (recto), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. VII (f. 29r) — In quello sienno differenti le tre spetie de diete colo
 - **Following Folio** (``0074.rst``): Folio f. 29v (verso), Part II: Tractato de l'Architectura — Cap. VII, Cap. VIII (f. 29v) — In quello sienno differenti le tre spetie de diete colo
 
@@ -22,4 +22,16 @@ Diplomatic & Textual Observations
 - **Folio Signature / Numeration**: ``f. 29r`` (Scan page ``73``, *recto*)
 - **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. VII** (``architectura/cap_07``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/007_cap_VII.txt``
+  - **Cap. VII** (``architectura/cap_07``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/007_cap_VII.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. VII — Wherein the Three Species of Columns—Ionic, Doric, and Corinthian—Differ from One Another, and Vitruvius's Account of Their Origin and of Callimachus's Invention of the Corinthian Capital.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Vitruvius *De architectura* IV.1.1–10**: Pacioli quotes the entire famous Latin passage of Vitruvius IV.1 on the anthropometric origins of the Doric (:math:`1:6` then :math:`1:7`), Ionic (:math:`1:8` then :math:`1:9`), and Corinthian orders, including the story of *:person:`*Callimachus* <callimachus>`* (*katatexitechnos*) and the Corinthian maiden's tomb basket (*calathus*) covered by a square tile (*tegula*, which became the **abacus**) overgrown by an acanthus plant.
+- **Comparison with Earlier Draft Track**: In the earlier ``winterberg_en`` draft, the long Latin quotation from :cite:`Vitruvius IV.1 <vitruvius:de-arch:IV.1>` was left untranslated or summarized in a sentence. Here both Pacioli's Italian commentary and the complete English translation of the Latin Vitruvian text on Folios ``0073.rst``–``0074.rst`` (``f. 29r``–``f. 29v``) are provided in full.

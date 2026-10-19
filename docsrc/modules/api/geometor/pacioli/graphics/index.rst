@@ -100,7 +100,7 @@ Module Contents
 
 .. py:function:: load_winterberg_chapters(resources_root: pathlib.Path) -> Dict[Tuple[int, int], Dict[str, Any]]
 
-   Load clean Italian, German, and English chapter titles and file links from Winterberg resources.
+   Load clean Italian, German, and English chapter titles and file links from :person:`Winterberg <winterberg>` resources.
 
 
 .. py:function:: extract_folio_content_info(folio_num: int, folio_dir: pathlib.Path, wb_map: Optional[Dict[Tuple[int, int], Dict[str, Any]]] = None) -> Dict[str, Any]

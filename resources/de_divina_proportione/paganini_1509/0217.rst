@@ -16,5 +16,5 @@ Folio 0217 (Plate Folio 0217 (recto)) — Tabula XIIII — Exahedron Abscisum El
 Tabula XIIII (No. 14)
 ---------------------
 
-- **Titulus Latinus**: *Exahedron Abscisum Elevatum Vacuum*
-- **Titulus Graecus**: Ἑξάεδρον ἀποτετμημένον ἐπηρμένον κενόν
+- **Titulus Latinus**: :term:`*Exahedron Abscisum Elevatum Vacuum* <exahedron-abscisum-elevatum>`
+- **Titulus Graecus**: :term:`Ἑξάεδρον ἀποτετμημένον ἐπηρμένον <exahedron-abscisum-elevatum>` :term:`κενόν <vacuum>`

@@ -16,5 +16,5 @@ Folio 0219 (Plate Folio 0219 (recto)) — Tabula XV — Octahedron Planum Solidu
 Tabula XV (No. 15)
 ------------------
 
-- **Titulus Latinus**: *Octahedron Planum Solidum*
-- **Titulus Graecus**: Ὀκτάεδρον ἐπίπεδον στερεόν
+- **Titulus Latinus**: :term:`*Octahedron Planum Solidum* <octahedron>`
+- **Titulus Graecus**: :term:`Ὀκτάεδρον <octahedron>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`

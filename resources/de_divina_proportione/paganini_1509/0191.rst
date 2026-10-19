@@ -16,5 +16,5 @@ Folio 0191 (Plate Folio 0191 (recto)) — Tabula III — Tetrahedron Abscisum So
 Tabula III (No. 3)
 ------------------
 
-- **Titulus Latinus**: *Tetrahedron Abscisum Solidum*
-- **Titulus Graecus**: Τετράεδρον ἀποτετμημένον στερεόν
+- **Titulus Latinus**: :term:`*Tetrahedron Abscisum Solidum* <tetrahedron-abscisum>`
+- **Titulus Graecus**: :term:`Τετράεδρον ἀποτετμημένον <tetrahedron-abscisum>` :term:`στερεόν <solidum>`

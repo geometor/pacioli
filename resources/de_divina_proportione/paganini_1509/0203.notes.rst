@@ -4,9 +4,9 @@ Folio 0203 (Plate Folio 0203 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0202.rst``): Folio Plate Folio 0202 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0202)
-- **Current Folio** (``0203.rst``): Folio Plate Folio 0203 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate VIIII — Exahedron Abscisum Solidum (Solid Truncated Hexahedron (Cuboctahedron))
-- **Following Folio** (``0204.rst``): Folio Plate Folio 0204 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0204)
+- **Preceding Folio** (``0202.rst``): Folio Plate Folio 0202 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0202)
+- **Current Folio** (``0203.rst``): Folio Plate Folio 0203 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate VIIII — :term:`Exahedron Abscisum <exahedron-abscisum>` :term:`Solidum <solidum>` (Solid Truncated :term:`Hexahedron <exahedron>` (:term:`Cuboctahedron <exahedron-abscisum>`))
+- **Following Folio** (``0204.rst``): Folio Plate Folio 0204 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0204)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0203 (recto)`` (Scan page ``203``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``VIIII`` (Plate No. ``9``) | Latin Cartouche: *Exahedron Abscisum Solidum* | Greek Cartouche: Ἑξάεδρον ἀποτετμημένον στερεόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``VIIII`` (Plate No. ``9``) | Latin Cartouche: :term:`*Exahedron Abscisum Solidum* <exahedron-abscisum>` | Greek Cartouche: :term:`Ἑξάεδρον ἀποτετμημένον <exahedron-abscisum>` :term:`στερεόν <solidum>`

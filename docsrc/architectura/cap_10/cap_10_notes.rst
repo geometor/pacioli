@@ -14,7 +14,7 @@ CHAPTER X — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Weight (*Al Peso*) and Volume (*Ala Mesura*)**: Because the stonemasons of Sansepolcro needed to calculate the **dead weight** (*peso*) of stone spires, obelisks, and pyramidal roofs resting upon columns and walls, Pacioli points out that for homogeneous stone, Euclid's :math:`\frac{1}{3}` volume ratio (:just:`XII.7`, :just:`XII.10`) is simultaneously a **weight ratio**: a stone pyramid or cone weighs exactly one-third as much as a solid stone prism or cylinder of the same base and height!
+- **Weight (*Al Peso*) and Volume (*Ala Mesura*)**: Because the stonemasons of Sansepolcro needed to calculate the **dead weight** (*peso*) of stone spires, obelisks, and pyramidal roofs resting upon columns and walls, Pacioli points out that for homogeneous stone, Euclid's :math:`\frac{1}{3}` volume ratio (Euclid XII.7, Euclid XII.10) is simultaneously a **weight ratio**: a stone pyramid or cone weighs exactly one-third as much as a solid stone prism or cylinder of the same base and height!
 
 Philological and Folio Apparatus
 --------------------------------

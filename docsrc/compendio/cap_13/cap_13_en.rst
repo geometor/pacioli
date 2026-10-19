@@ -16,7 +16,7 @@ CHAPTER XIII (English)
 
 .. enunciation::
 
-   If a quantity is divided according to our Divine Proportion, and to the **whole of the said quantity** be added its **greater part**, then the **said sum** and the **said greater part** will be the parts of another [second] quantity similarly divided; and the **greater part of this second divided quantity** will always be the **entire first quantity** (cf. :just:`XIII.5` [Campanus XIII.4]).
+   If a quantity is divided according to our :term:`Divine Proportion <divina-proportione>`, and to the **whole of the said quantity** be added its **greater part**, then the **said sum** and the **said greater part** will be the parts of another [second] quantity similarly divided; and the **greater part of this second divided quantity** will always be the **entire first quantity** (cf. :just:`XIII.5` [:cite:`Campanus XIII.4 <campanus:euclid:XIII.4>`]).
 
 .. assertion:: Numerical Demonstration
 
@@ -34,4 +34,4 @@ CHAPTER XIII (English)
 
 .. qed::
 
-   Which power the fourth proposition of the Thirteenth Book (Campanus XIII.4 = Heiberg :just:`XIII.5`) likewise manifests to us geometrically.
+   Which power the fourth proposition of the Thirteenth Book (:cite:`Campanus XIII.4 <campanus:euclid:XIII.4>` = Heiberg :just:`XIII.5`) likewise manifests to us geometrically.

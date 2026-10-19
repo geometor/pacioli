@@ -4,9 +4,9 @@ Folio 0307 (Plate Folio 0307 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0306.rst``): Folio Plate Folio 0306 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0306)
-- **Current Folio** (``0307.rst``): Folio Plate Folio 0307 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate LVIII — Pyramis Rotunda Solida (Solid Round Pyramid (Cone))
-- **Following Folio** (``0308.rst``): Folio Plate Folio 0308 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0308)
+- **Preceding Folio** (``0306.rst``): Folio Plate Folio 0306 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0306)
+- **Current Folio** (``0307.rst``): Folio Plate Folio 0307 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate LVIII — :term:`Pyramis Rotunda <pyramide-rotonda>` Solida (Solid Round Pyramid (Cone))
+- **Following Folio** (``0308.rst``): Folio Plate Folio 0308 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0308)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0307 (recto)`` (Scan page ``307``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``LVIII`` (Plate No. ``58``) | Latin Cartouche: *Pyramis Rotunda Solida* | Greek Cartouche: Πυραμὶς στρογγύλη στερεά
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``LVIII`` (Plate No. ``58``) | Latin Cartouche: :term:`*Pyramis Rotunda Solida* <pyramide-rotonda>` | Greek Cartouche: :term:`Πυραμὶς στρογγύλη <pyramide-rotonda>` στερεά

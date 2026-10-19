@@ -4,9 +4,9 @@ Folio 0300 (Plate Folio 0300 (verso)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0299.rst``): Folio Plate Folio 0299 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate LIIII — Columna Laterata Exagona Vacua (Hollow Hexagonal Prism)
-- **Current Folio** (``0300.rst``): Folio Plate Folio 0300 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0300)
-- **Following Folio** (``0301.rst``): Folio Plate Folio 0301 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate LV — Pyramis Laterata Triangula Inaequilatera Solida (Solid Scalene Triangular Pyramid)
+- **Preceding Folio** (``0299.rst``): Folio Plate Folio 0299 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate LIIII — :term:`Columna Laterata Exagona <colonna-exagona>` Vacua (Hollow Hexagonal Prism)
+- **Current Folio** (``0300.rst``): Folio Plate Folio 0300 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Polyhedra Plate Verso (0300)
+- **Following Folio** (``0301.rst``): Folio Plate Folio 0301 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate LV — :term:`Pyramis Laterata Triangula <pyramide-triangula>` Inaequilatera Solida (Solid Scalene Triangular Pyramid)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,5 +18,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0300 (verso)`` (Scan page ``300``, *verso*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
 - **Leaf Category**: Polyhedra Plate Verso (0300)

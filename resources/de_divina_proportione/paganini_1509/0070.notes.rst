@@ -5,7 +5,7 @@ Summary & Folio Continuity
 --------------------------
 
 - **Preceding Folio** (``0069.rst``): Folio f. 27r (recto), Part II: Tractato de l'Architectura — Cap. III, Cap. IV (f. 27r) — Dela proportione de tutto el corpo humano che sia ben d
-- **Current Folio** (``0070.rst``): Folio f. 27v (verso), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. IV (f. 27v) — Sequita dele colonne rotonde con sue basi e capitelli e
+- **Current Folio** (``0070.rst``): Folio f. 27v (verso), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. IV (f. 27v) — Sequita dele :term:`colonne rotonde <colonna-rotonda>` con sue basi e capitelli e
 - **Following Folio** (``0071.rst``): Folio f. 28r (recto), Part II: Tractato de l'Architectura — Cap. V, Cap. VI (f. 28r) — Sequita dir dela longhezzä e grosseza de dieta colonna.
 
 Graphic Extraction & Calibration
@@ -20,4 +20,16 @@ Diplomatic & Textual Observations
 - **Folio Signature / Numeration**: ``f. 27v`` (Scan page ``70``, *verso*)
 - **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. IV** (``architectura/cap_04``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/004_cap_IV.txt``
+  - **Cap. IV** (``architectura/cap_04``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/004_cap_IV.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. IV — On Round Columns with Their Bases, Capitals, and Pedestals or Stylobates, and How the Corinthian Capital and Its Four Tetrants Are Constructed.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Plate Referenced**: Folio 0213 (``0213.rst``, ``0213.g1.png``) shows the complete Corinthian/Ionic column on its :term:`stylobate <stilobata>` and :term:`stereobate <steriobata>` with all the reference letters (:math:`a, b, c, d, e, f, g, h, k, l, m, n, o, p`) cited in ``Cap. IV``–``Cap. VI``.
+- **Exact Arithmetic of :math:`\frac{1}{8} - \frac{1}{10} = \frac{1}{40}`**: Notice how Pacioli expresses the thickness of the abacus as the difference between the two Vitruvian human head ratios from ``Cap. III``—the **whole head** (:math:`\frac{1}{8}`) minus the **face** (:math:`\frac{1}{10}`), which equals :math:`\frac{1}{40}` (the crown of the skull from hairline to vertex!).

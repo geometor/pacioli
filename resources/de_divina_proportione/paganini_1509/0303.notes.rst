@@ -4,9 +4,9 @@ Folio 0303 (Plate Folio 0303 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0302.rst``): Folio Plate Folio 0302 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0302)
-- **Current Folio** (``0303.rst``): Folio Plate Folio 0303 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate LVI — Pyramis Laterata Triangula Inaequilatera Vacua (Hollow Scalene Triangular Pyramid)
-- **Following Folio** (``0304.rst``): Folio Plate Folio 0304 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0304)
+- **Preceding Folio** (``0302.rst``): Folio Plate Folio 0302 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0302)
+- **Current Folio** (``0303.rst``): Folio Plate Folio 0303 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate LVI — :term:`Pyramis Laterata Triangula <pyramide-triangula>` Inaequilatera Vacua (Hollow Scalene Triangular Pyramid)
+- **Following Folio** (``0304.rst``): Folio Plate Folio 0304 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0304)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0303 (recto)`` (Scan page ``303``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``LVI`` (Plate No. ``56``) | Latin Cartouche: *Pyramis Laterata Triangula Inaequilatera Vacua* | Greek Cartouche: Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος κενή
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``LVI`` (Plate No. ``56``) | Latin Cartouche: :term:`*Pyramis Laterata Triangula Inaequilatera Vacua* <pyramide-triangula>` | Greek Cartouche: :term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` ἀνισόπλευρος κενή

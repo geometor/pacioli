@@ -16,5 +16,5 @@ Folio 0201 (Plate Folio 0201 (recto)) — Tabula VIII — Exahedron Planum Vacuu
 Tabula VIII (No. 8)
 -------------------
 
-- **Titulus Latinus**: *Exahedron Planum Vacuum*
-- **Titulus Graecus**: Ἑξάεδρον ἐπίπεδον κενόν
+- **Titulus Latinus**: :term:`*Exahedron Planum Vacuum* <exahedron>`
+- **Titulus Graecus**: :term:`Ἑξάεδρον <exahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`

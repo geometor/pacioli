@@ -13,4 +13,4 @@ Folio 0137 (Plate Folio 0137 (recto)) — Divina Proportio — Caput Humanum (Pr
 .. picture:: 0137.g1.png
    :alt: Folio 0137 Tavola g1
 
-Divina Proportio. Figura del capo humano proportionato secondo il triangolo equilatero e il quadrato (Tractato de l'Architectura, Cap. I–II).
+Divina Proportio. Figura del capo humano proportionato secondo il triangolo :term:`equilatero <equilatero>` e il quadrato (Tractato de l'Architectura, Cap. I–II).

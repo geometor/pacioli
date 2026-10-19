@@ -16,5 +16,5 @@ Folio 0187 (Plate Folio 0187 (recto)) — Tabula I — Tetrahedron Planum Solidu
 Tabula I (No. 1)
 ----------------
 
-- **Titulus Latinus**: *Tetrahedron Planum Solidum*
-- **Titulus Graecus**: Τετράεδρον ἐπίπεδον στερεόν
+- **Titulus Latinus**: :term:`*Tetrahedron Planum Solidum* <tetrahedron>`
+- **Titulus Graecus**: :term:`Τετράεδρον <tetrahedron>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`

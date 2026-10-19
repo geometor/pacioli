@@ -4,9 +4,9 @@ Folio 0275 (Plate Folio 0275 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0274.rst``): Folio Plate Folio 0274 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0274)
-- **Current Folio** (``0275.rst``): Folio Plate Folio 0275 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XLIII — Pyramis Laterata Triangula Solida (Solid Triangular Pyramid)
-- **Following Folio** (``0276.rst``): Folio Plate Folio 0276 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0276)
+- **Preceding Folio** (``0274.rst``): Folio Plate Folio 0274 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0274)
+- **Current Folio** (``0275.rst``): Folio Plate Folio 0275 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate XLIII — :term:`Pyramis Laterata Triangula <pyramide-triangula>` Solida (Solid Triangular Pyramid)
+- **Following Folio** (``0276.rst``): Folio Plate Folio 0276 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0276)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0275 (recto)`` (Scan page ``275``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``XLIII`` (Plate No. ``43``) | Latin Cartouche: *Pyramis Laterata Triangula Solida* | Greek Cartouche: Πυραμὶς πλευρώδης τρίγωνος στερεά
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XLIII`` (Plate No. ``43``) | Latin Cartouche: :term:`*Pyramis Laterata Triangula Solida* <pyramide-triangula>` | Greek Cartouche: :term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` στερεά

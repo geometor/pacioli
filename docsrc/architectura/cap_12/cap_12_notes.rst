@@ -14,7 +14,7 @@ CHAPTER XII — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Vitruvius III.3 (Intercolumniations) and V.6.7 (Tempering *Symmetria* by *Eurythmia* and *Usus*)**: Pacioli pairs Vitruvius's classification of intercolumniations (Pycnostyle :math:`1\frac{1}{2}D`, Systyle :math:`2D`, Eustyle :math:`2\frac{1}{4}D`, Diastyle :math:`3D`, Araeostyle :math:`>3D`) with the famous passage from Book V Chapter 6 on theaters, explaining why human-scale functional elements (steps, balustrades, passages) cannot simply be scaled down linearly in smaller buildings.
+- **Vitruvius III.3 (Intercolumniations) and V.6.7 (Tempering *Symmetria* by *Eurythmia* and *Usus*)**: Pacioli pairs :person:`Vitruvius <vitruvius>`'s classification of intercolumniations (Pycnostyle :math:`1\frac{1}{2}D`, Systyle :math:`2D`, Eustyle :math:`2\frac{1}{4}D`, Diastyle :math:`3D`, Araeostyle :math:`>3D`) with the famous passage from Book V Chapter 6 on theaters, explaining why human-scale functional elements (steps, balustrades, passages) cannot simply be scaled down linearly in smaller buildings.
 
 Philological and Folio Apparatus
 --------------------------------

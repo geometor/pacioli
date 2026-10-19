@@ -33,7 +33,7 @@ CHAPTER XIX (English)
 
 .. qed::
 
-   In short, taken and inverted to infinity, howsoever much and in whatsoever manner—by **alternation** (*permutata*, :just:`V.16`), **inversion** (*conversa*, :just:`V.7.p`), **composition** (*congionta*, :just:`V.18`), **separation** (*disgionta*, :just:`V.17`), **conversion** (*eversa*, :just:`V.19.p`), and **equality** (*equa proportionalita*, :just:`V.22`)—they will always agree in one and the same denomination and in the same intensive effects. This without fail demonstrates the **greatest harmony** in all quantities thus divided, as will appear below in the regular and dependent bodies; and all of this the second proposition of the Fourteenth Book (:just:`XIV.2`, Campanus's lemma) concludes geometrically in substance.
+   In short, taken and inverted to infinity, howsoever much and in whatsoever manner—by **alternation** (*permutata*, :just:`V.16`), **inversion** (*conversa*, :just:`V.7.p`), **composition** (*congionta*, :just:`V.18`), **separation** (*disgionta*, :just:`V.17`), **conversion** (*eversa*, :just:`V.19.p`), and **equality** (*equa proportionalita*, :just:`V.22`)—they will always agree in one and the same denomination and in the same intensive effects. This without fail demonstrates the **greatest harmony** in all quantities thus divided, as will appear below in the regular and dependent bodies; and all of this the second proposition of the Fourteenth Book (:just:`XIV.2`, :person:`Campanus <campanus>`'s lemma) concludes geometrically in substance.
 
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------

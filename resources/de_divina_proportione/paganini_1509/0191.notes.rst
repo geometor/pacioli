@@ -4,9 +4,9 @@ Folio 0191 (Plate Folio 0191 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0190.rst``): Folio Plate Folio 0190 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0190)
-- **Current Folio** (``0191.rst``): Folio Plate Folio 0191 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate III — Tetrahedron Abscisum Solidum (Solid Truncated Tetrahedron)
-- **Following Folio** (``0192.rst``): Folio Plate Folio 0192 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0192)
+- **Preceding Folio** (``0190.rst``): Folio Plate Folio 0190 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0190)
+- **Current Folio** (``0191.rst``): Folio Plate Folio 0191 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate III — :term:`Tetrahedron Abscisum <tetrahedron-abscisum>` :term:`Solidum <solidum>` (Solid Truncated :term:`Tetrahedron <tetrahedron>`)
+- **Following Folio** (``0192.rst``): Folio Plate Folio 0192 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0192)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0191 (recto)`` (Scan page ``191``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``III`` (Plate No. ``3``) | Latin Cartouche: *Tetrahedron Abscisum Solidum* | Greek Cartouche: Τετράεδρον ἀποτετμημένον στερεόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``III`` (Plate No. ``3``) | Latin Cartouche: :term:`*Tetrahedron Abscisum Solidum* <tetrahedron-abscisum>` | Greek Cartouche: :term:`Τετράεδρον ἀποτετμημένον <tetrahedron-abscisum>` :term:`στερεόν <solidum>`

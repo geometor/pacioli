@@ -4,9 +4,9 @@ Folio 0299 (Plate Folio 0299 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0298.rst``): Folio Plate Folio 0298 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0298)
-- **Current Folio** (``0299.rst``): Folio Plate Folio 0299 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate LIIII — Columna Laterata Exagona Vacua (Hollow Hexagonal Prism)
-- **Following Folio** (``0300.rst``): Folio Plate Folio 0300 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0300)
+- **Preceding Folio** (``0298.rst``): Folio Plate Folio 0298 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0298)
+- **Current Folio** (``0299.rst``): Folio Plate Folio 0299 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate LIIII — :term:`Columna Laterata Exagona <colonna-exagona>` Vacua (Hollow Hexagonal Prism)
+- **Following Folio** (``0300.rst``): Folio Plate Folio 0300 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0300)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0299 (recto)`` (Scan page ``299``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``LIIII`` (Plate No. ``54``) | Latin Cartouche: *Columna Laterata Exagona Vacua* | Greek Cartouche: Κίων πλευρώδης ἑξάγωνος κενός
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``LIIII`` (Plate No. ``54``) | Latin Cartouche: :term:`*Columna Laterata Exagona Vacua* <colonna-exagona>` | Greek Cartouche: :term:`Κίων πλευρώδης ἑξάγωνος <colonna-exagona>` κενός

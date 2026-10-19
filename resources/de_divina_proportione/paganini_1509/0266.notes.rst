@@ -4,9 +4,9 @@ Folio 0266 (Plate Folio 0266 (verso)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0265.rst``): Folio Plate Folio 0265 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXXVIII — Vigintisex Basium Abscisum Elevatum Vacuum (Hollow Elevated 26-Base Body)
-- **Current Folio** (``0266.rst``): Folio Plate Folio 0266 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0266)
-- **Following Folio** (``0267.rst``): Folio Plate Folio 0267 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate XXXIX — Septuaginta Duarum Basium Solidum (Solid 72-Base Body)
+- **Preceding Folio** (``0265.rst``): Folio Plate Folio 0265 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate XXXVIII — :term:`Vigintisex Basium <vigintisex-basium>` :term:`Abscisum <abscisum>` :term:`Elevatum <elevatum>` :term:`Vacuum <vacuum>` (Hollow Elevated 26-Base Body)
+- **Current Folio** (``0266.rst``): Folio Plate Folio 0266 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Polyhedra Plate Verso (0266)
+- **Following Folio** (``0267.rst``): Folio Plate Folio 0267 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate XXXIX — :term:`Septuaginta Duarum Basium <septuaginta-duarum-basium>` :term:`Solidum <solidum>` (Solid 72-Base Body)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,5 +18,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0266 (verso)`` (Scan page ``266``, *verso*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
 - **Leaf Category**: Polyhedra Plate Verso (0266)

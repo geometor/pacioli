@@ -16,5 +16,5 @@ Folio 0227 (Plate Folio 0227 (recto)) — Tabula XIX — Octahedron Elevatum Sol
 Tabula XIX (No. 19)
 -------------------
 
-- **Titulus Latinus**: *Octahedron Elevatum Solidum*
-- **Titulus Graecus**: Ὀκτάεδρον ἐπηρμένον στερεόν
+- **Titulus Latinus**: :term:`*Octahedron Elevatum Solidum* <octahedron-elevatum>`
+- **Titulus Graecus**: :term:`Ὀκτάεδρον ἐπηρμένον <octahedron-elevatum>` :term:`στερεόν <solidum>`

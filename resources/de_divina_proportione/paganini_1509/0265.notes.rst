@@ -4,9 +4,9 @@ Folio 0265 (Plate Folio 0265 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0264.rst``): Folio Plate Folio 0264 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0264)
-- **Current Folio** (``0265.rst``): Folio Plate Folio 0265 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XXXVIII — Vigintisex Basium Abscisum Elevatum Vacuum (Hollow Elevated 26-Base Body)
-- **Following Folio** (``0266.rst``): Folio Plate Folio 0266 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0266)
+- **Preceding Folio** (``0264.rst``): Folio Plate Folio 0264 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0264)
+- **Current Folio** (``0265.rst``): Folio Plate Folio 0265 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate XXXVIII — :term:`Vigintisex Basium <vigintisex-basium>` :term:`Abscisum <abscisum>` :term:`Elevatum <elevatum>` :term:`Vacuum <vacuum>` (Hollow Elevated 26-Base Body)
+- **Following Folio** (``0266.rst``): Folio Plate Folio 0266 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0266)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0265 (recto)`` (Scan page ``265``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``XXXVIII`` (Plate No. ``38``) | Latin Cartouche: *Vigintisex Basium Abscisum Elevatum Vacuum* | Greek Cartouche: Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον κενόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XXXVIII`` (Plate No. ``38``) | Latin Cartouche: :term:`*Vigintisex Basium Abscisum Elevatum Vacuum* <vigintisex-basium>` | Greek Cartouche: :term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἀποτετμημένον <abscisum>` :term:`ἐπηρμένον <elevatum>` :term:`κενόν <vacuum>`

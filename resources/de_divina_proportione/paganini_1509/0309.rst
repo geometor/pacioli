@@ -17,4 +17,4 @@ Tabula LIX (printed LXI) (No. 59)
 ---------------------------------
 
 - **Titulus Latinus**: *Sphera Solida*
-- **Titulus Graecus**: Σφαῖρα στερεά
+- **Titulus Graecus**: :term:`Σφαῖρα <spera>` στερεά

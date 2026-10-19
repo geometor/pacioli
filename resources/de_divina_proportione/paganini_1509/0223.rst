@@ -16,5 +16,5 @@ Folio 0223 (Plate Folio 0223 (recto)) — Tabula XVII — Octahedron Abscisum So
 Tabula XVII (No. 17)
 --------------------
 
-- **Titulus Latinus**: *Octahedron Abscisum Solidum*
-- **Titulus Graecus**: Ὀκτάεδρον ἀποτετμημένον στερεόν
+- **Titulus Latinus**: :term:`*Octahedron Abscisum Solidum* <octahedron-abscisum>`
+- **Titulus Graecus**: :term:`Ὀκτάεδρον ἀποτετμημένον <octahedron-abscisum>` :term:`στερεόν <solidum>`

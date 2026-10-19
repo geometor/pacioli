@@ -4,9 +4,9 @@ Folio 0044 (f. 14v) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0043.rst``): Folio f. 14r (recto), Part I: Compendio de Divina Proportione — Cap. XLV, Cap. XLVI, Cap. XLVII, Cap. XLVIII (f. 14r) — Del modo aformare el tetracedron nello ycocedron.
-- **Current Folio** (``0044.rst``): Folio f. 14v (verso), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. XLVIII, Cap. XLIX, Cap. L (f. 14v) — Dela forma edispositione del tetracedron piano solido o
-- **Following Folio** (``0045.rst``): Folio f. 15r (recto), Part I: Compendio de Divina Proportione — Cap. L, Cap. LI, Cap. LII (f. 15r) — Delo octocedron piano solido o ver vacuo e absciso soli
+- **Preceding Folio** (``0043.rst``): Folio f. 14r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XLV, Cap. XLVI, Cap. XLVII, Cap. XLVIII (f. 14r) — Del modo aformare el :term:`tetracedron <tetrahedron>` nello :term:`ycocedron <icosahedron>`.
+- **Current Folio** (``0044.rst``): Folio f. 14v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. XLVIII, Cap. XLIX, Cap. L (f. 14v) — Dela forma edispositione del :term:`tetracedron <tetrahedron>` piano solido o
+- **Following Folio** (``0045.rst``): Folio f. 15r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. L, Cap. LI, Cap. LII (f. 15r) — Delo :term:`octocedron <octahedron>` piano solido o ver vacuo e absciso soli
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -21,8 +21,54 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PARS``
 - **Folio Signature / Numeration**: ``f. 14v`` (Scan page ``44``, *verso*)
-- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. XLVIII** (``compendio/cap_48``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/048_cap_XLVIII.txt``
-  - **Cap. XLIX** (``compendio/cap_49``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/049_cap_XLIX.txt``
-  - **Cap. L** (``compendio/cap_50``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/050_cap_L.txt``
+  - **Cap. XLVIII** (``compendio/cap_48``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/048_cap_XLVIII.txt``
+  - **Cap. XLIX** (``compendio/cap_49``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/049_cap_XLIX.txt``
+  - **Cap. L** (``compendio/cap_50``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/050_cap_L.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. XLVIII — On the Form and Disposition of the Plane (Solid) and Hollow (Skeletal) Tetracedron, Regular and Truncated (Plates I–IV), and Elevated (Plates V–VI).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Plates Referenced**:
+  - **Plate I** (``0187.rst``, ``0187.g1.png``): :term:`*Tetracedron Planum Solidum* <tetrahedron>` (:term:`Tetrahedron <tetrahedron>`, solid).
+  - **Plate II** (``0189.rst``, ``0189.g1.png``): :term:`*Tetracedron Planum Vacuum* <tetrahedron>` (:term:`Tetrahedron <tetrahedron>`, skeletal).
+  - **Plate III** (``0191.rst``, ``0191.g1.png``): :term:`*Tetracedron Abscisum Solidum* <tetrahedron>` (Truncated :term:`tetrahedron <tetrahedron>`, Archimedean solid :math:`(3.6^2)`, solid).
+  - **Plate IV** (``0193.rst``, ``0193.g1.png``): :term:`*Tetracedron Abscisum Vacuum* <tetrahedron>` (Truncated :term:`tetrahedron <tetrahedron>`, skeletal).
+  - **Plate V** (``0195.rst``, ``0195.g1.png``): :term:`*Tetracedron Elevatum Solidum* <tetrahedron>` (Triakis-like equilateral cumulation of the :term:`tetrahedron <tetrahedron>`, solid).
+  - **Plate VI** (``0197.rst``, ``0197.g1.png``): :term:`*Tetracedron Elevatum Vacuum* <tetrahedron>` (Elevated :term:`tetrahedron <tetrahedron>`, skeletal).
+
+Cap. XLIX — On the Disposition of the Exacedron or Cube: Regular (Plates VII–VIII), Truncated (Plates IX–X), and Elevated (Plates XI–XII).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Plates Referenced**:
+  - **Plate VII** (``0199.rst``): :term:`*Exacedron Planum Solidum* <exahedron>` (Cube, solid).
+  - **Plate VIII** (``0201.rst``): :term:`*Exacedron Planum Vacuum* <exahedron>` (Cube, skeletal).
+  - **Plate IX** (``0203.rst``): :term:`*Exacedron Abscisum Solidum* <exahedron>` (:term:`**Cuboctahedron** <exahedron-abscisum>`, Archimedean solid :math:`(3.4)^2`, solid).
+  - **Plate X** (``0205.rst``): :term:`*Exacedron Abscisum Vacuum* <exahedron>` (:term:`Cuboctahedron <exahedron-abscisum>`, skeletal).
+  - **Plate XI** (``0207.rst``): :term:`*Exacedron Elevatum Solidum* <exahedron>` (Equilateral cumulation of the cube, solid).
+  - **Plate XII** (``0209.rst``): :term:`*Exacedron Elevatum Vacuum* <exahedron>` (Elevated cube, skeletal).
+
+Cap. L — On the Disposition of the Octocedron: Regular (Plates XIII–XIV), Truncated (Plates XV–XVI), and Elevated (Plates XVII–XVIII).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Plates Referenced**:
+  - **Plate XIII** (``0217.rst``): :term:`*Octocedron Planum Solidum* <octahedron>` (:term:`Octahedron <octahedron>`, solid).
+  - **Plate XIV** (``0219.rst``): :term:`*Octocedron Planum Vacuum* <octahedron>` (:term:`Octahedron <octahedron>`, skeletal).
+  - **Plate XV** (``0221.rst``): :term:`*Octocedron Abscisum Solidum* <octahedron>` (Truncated/rectified :term:`octahedron <octahedron>`, solid).
+  - **Plate XVI** (``0223.rst``): :term:`*Octocedron Abscisum Vacuum* <octahedron>` (Truncated/rectified :term:`octahedron <octahedron>`, skeletal).
+  - **Plate XVII** (``0225.rst``): :term:`*Octocedron Elevatum Solidum* <octahedron>` (:term:`**Stella Octangula** <octahedron-elevatum>`, compound of two dual tetrahedra, solid).
+  - **Plate XVIII** (``0227.rst``): :term:`*Octocedron Elevatum Vacuum* <octahedron>` (:term:`Stella Octangula <octahedron-elevatum>`, skeletal).
+- **First Depiction of the *:term:`Stella Octangula <octahedron-elevatum>`***: Plates XVII and XVIII (drawn by Leonardo da Vinci in 1497 and printed in 1509) are the earliest known perspective depictions of the **stellated :term:`octahedron <octahedron>`** (later rediscovered by Johannes Kepler in *Harmonices Mundi*, 1619, who named it the *:term:`Stella Octangula <octahedron-elevatum>`*). Because the dihedral angle of an octahedron (:math:`\arccos(-\frac{1}{3}) \approx 109.47^{\circ}`) and the dihedral angle of a regular tetrahedron (:math:`\arccos(\frac{1}{3}) \approx 70.53^{\circ}`) are **supplementary** (:math:`109.47^{\circ} + 70.53^{\circ} = 180^{\circ}`), erecting regular tetrahedra on the 8 faces of a regular :term:`octahedron <octahedron>` makes the faces coplanar across the octahedral edges, forming two interpenetrating large regular tetrahedra of double the edge length!

@@ -13,4 +13,4 @@ CAPITEL XXXVIII (Deutsch — Winterberg 1889)
 
 .. folio:: 0042 (f. 13v)
 
-Du wirst in jenes den Kubus wie vorher, und in ihn das Tetraeder wie angegeben, beschreiben, und es ist ausgeführt.
+Du wirst in jenes den Kubus wie vorher, und in ihn das :term:`Tetraeder <tetrahedron>` wie angegeben, beschreiben, und es ist ausgeführt.

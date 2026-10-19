@@ -16,5 +16,5 @@ Folio 0241 (Plate Folio 0241 (recto)) — Tabula XXVI — Icosahedron Elevatum V
 Tabula XXVI (No. 26)
 --------------------
 
-- **Titulus Latinus**: *Icosahedron Elevatum Vacuum*
-- **Titulus Graecus**: Εἰκοσάεδρον ἐπηρμένον κενόν
+- **Titulus Latinus**: :term:`*Icosahedron Elevatum Vacuum* <icosahedron-elevatum>`
+- **Titulus Graecus**: :term:`Εἰκοσάεδρον ἐπηρμένον <icosahedron-elevatum>` :term:`κενόν <vacuum>`

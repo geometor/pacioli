@@ -16,5 +16,5 @@ Folio 0233 (Plate Folio 0233 (recto)) — Tabula XXII — Icosahedron Planum Vac
 Tabula XXII (No. 22)
 --------------------
 
-- **Titulus Latinus**: *Icosahedron Planum Vacuum*
-- **Titulus Graecus**: Εἰκοσάεδρον ἐπίπεδον κενόν
+- **Titulus Latinus**: :term:`*Icosahedron Planum Vacuum* <icosahedron>`
+- **Titulus Graecus**: :term:`Εἰκοσάεδρον <icosahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`

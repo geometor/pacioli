@@ -16,5 +16,5 @@ Folio 0211 (Plate Folio 0211 (recto)) — Tabula XIII — Exahedron Abscisum Ele
 Tabula XIII (No. 13)
 --------------------
 
-- **Titulus Latinus**: *Exahedron Abscisum Elevatum Solidum*
-- **Titulus Graecus**: Ἑξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν
+- **Titulus Latinus**: :term:`*Exahedron Abscisum Elevatum Solidum* <exahedron-abscisum-elevatum>`
+- **Titulus Graecus**: :term:`Ἑξάεδρον ἀποτετμημένον ἐπηρμένον <exahedron-abscisum-elevatum>` :term:`στερεόν <solidum>`

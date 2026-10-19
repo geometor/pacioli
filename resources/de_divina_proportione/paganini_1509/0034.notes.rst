@@ -4,9 +4,9 @@ Folio 0034 (f. 9v) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0033.rst``): Folio f. 9r (recto), Part I: Compendio de Divina Proportione — Cap. XXVII, Cap. XXVIII (f. 9r) — Dela fabrica del cubo e sua proportione ala spera.
-- **Current Folio** (``0034.rst``): Folio f. 9v (verso), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. XXVIII, Cap. XXIX (f. 9v) — Commo se formi lo octocedron in spera aponto collocabil
-- **Following Folio** (``0035.rst``): Folio f. 10r (recto), Part I: Compendio de Divina Proportione — Cap. XXIX (f. 10r) — De la fabrica e formatione del corpo detto ycocedron.
+- **Preceding Folio** (``0033.rst``): Folio f. 9r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XXVII, Cap. XXVIII (f. 9r) — Dela fabrica del cubo e sua proportione ala :term:`spera <spera>`.
+- **Current Folio** (``0034.rst``): Folio f. 9v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. XXVIII, Cap. XXIX (f. 9v) — Commo se formi lo :term:`octocedron <octahedron>` in :term:`spera <spera>` aponto collocabil
+- **Following Folio** (``0035.rst``): Folio f. 10r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XXIX (f. 10r) — De la fabrica e formatione del corpo detto :term:`ycocedron <icosahedron>`.
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -22,7 +22,29 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PARS``
 - **Folio Signature / Numeration**: ``f. 9v`` (Scan page ``34``, *verso*)
-- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. XXVIII** (``compendio/cap_28``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/028_cap_XXVIII.txt``
-  - **Cap. XXIX** (``compendio/cap_29``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/029_cap_XXIX.txt``
+  - **Cap. XXVIII** (``compendio/cap_28``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/028_cap_XXVIII.txt``
+  - **Cap. XXIX** (``compendio/cap_29``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/029_cap_XXIX.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. XXVIII — How the Third Regular Body, Called the Octocedron of Eight Triangular Bases, Is Formed in the Sphere.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Marginal Diagram**: Folio 0033 (``f. 9r``) provides diagram ``0033.g2.png`` illustrating the bisected semicircle :math:`adb` and the equatorial square :math:`efgh` with its diagonals and perpendicular axis.
+- **Three Perpendicular Axes**: Notice Step 6: the :term:`octahedron <octahedron>` is spanned by three mutually perpendicular diameters :math:`eg`, :math:`fh`, and :math:`lm` intersecting at the center :math:`k`—a structural property that Pacioli later calls "the glorious sign of the Holy Cross" in ``Cap. XLVI`` when explaining why the :term:`octahedron <octahedron>` cannot be inscribed in the :term:`icosahedron <icosahedron>`.
+
+Cap. XXIX — How the Fourth Regular Body, Called the Ycocedron of Twenty Triangular Bases, Is Formed in the Sphere.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Marginal Diagram**: Folio 0034 (``f. 9v``) includes diagram ``0034.g1.png``, showing the sphere diameter divided in :math:`4:1` ratio (:math:`ac = 4\,cb`) and the circle containing the pentagon and decagon.
+- **Role of the Divine Proportion**: This construction brings together nearly every theorem proved in Section 2: :cite:`Euclid XIII.9 <euclid:elements:XIII.9>` (sum of hexagon and decagon sides divided in :term:`extreme and mean ratio <extrema-et-media-ratio>`), :cite:`Euclid XIII.10 <euclid:elements:XIII.10>` (:math:`s_{5}^{2} = s_{6}^{2} + s_{10}^{2}`), and :cite:`Euclid XIII.11 <euclid:elements:XIII.11>` (the side of the pentagon is a *Minor*, :cite:`Euclid X.76 <euclid:elements:X.76>`).
+- **Exact Formula**: For a sphere of diameter :math:`D`, the radius of the circumcircle of the two parallel pentagonal cross-sections is :math:`R = \frac{D}{\sqrt{5}}`, and the edge of the :term:`icosahedron <icosahedron>` is :math:`a_{20} = R\sqrt{\frac{5 - \sqrt{5}}{2}} = D\sqrt{\frac{5 - \sqrt{5}}{10}}`. For :math:`D = 10`, :math:`a_{20} = \sqrt{50 - 10\sqrt{5}} = \sqrt{50 - \sqrt{500}}`.

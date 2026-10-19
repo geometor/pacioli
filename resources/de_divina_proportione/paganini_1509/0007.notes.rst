@@ -6,7 +6,7 @@ Summary & Folio Continuity
 
 - **Preceding Folio** (``0006.rst``): Folio A1v (verso), Front Matter and Dedications — Epigrams and Author's Sonnet (Cinque corpi in natura son producti)
 - **Current Folio** (``0007.rst``): Folio A2r (recto), Front Matter and Dedications [``00_front_matter``] — Epistola ad Petrum Soderinum (1509)
-- **Following Folio** (``0008.rst``): Folio A2v (verso), Front Matter and Dedications — Danielis Caietani Epistolium ad Andream Mocenicum (1509)
+- **Following Folio** (``0008.rst``): Folio A2v (verso), Front Matter and Dedications — :person:`Danielis Caietani <daniele-gaetani>` Epistolium ad Andream Mocenicum (1509)
 
 Graphic Extraction & Calibration
 --------------------------------

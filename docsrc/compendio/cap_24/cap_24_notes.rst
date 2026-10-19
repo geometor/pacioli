@@ -14,8 +14,8 @@ CHAPTER XXIV — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Role as Bridge to Section 3**: ``Cap. XXIV`` concludes the chain of planar theorems from Book XIII (:just:`XIII.1`–:just:`XIII.12`) by pairing :just:`XIII.10` (:math:`s_{5}^{2} = s_{6}^{2} + s_{10}^{2}`) with :just:`XIII.9` (:math:`s_{6} : s_{10} = (s_{6}+s_{10}) : s_{6}`). This Pythagorean triad of regular polygon sides (:math:`s_5, s_6, s_{10}`) is the exact geometric engine Euclid uses in :just:`XIII.16` to construct the icosahedron and in :just:`XIII.17` to construct the dodecahedron.
-- **Comparison with Earlier Draft Track**: The earlier ``divina_en_2`` draft reduced this chapter to a three-line summary without the corollary on :just:`XIII.9` or the numerical illustration. The present translation restores the full 1509 Paganini text (``0031.rst``, ``f. 8r``).
+- **Role as Bridge to Section 3**: ``Cap. XXIV`` concludes the chain of planar theorems from Book XIII (:cite:`Euclid XIII.1 <euclid:elements:XIII.1>`–:cite:`Euclid XIII.12 <euclid:elements:XIII.12>`) by pairing :cite:`Euclid XIII.10 <euclid:elements:XIII.10>` (:math:`s_{5}^{2} = s_{6}^{2} + s_{10}^{2}`) with :cite:`Euclid XIII.9 <euclid:elements:XIII.9>` (:math:`s_{6} : s_{10} = (s_{6}+s_{10}) : s_{6}`). This Pythagorean triad of regular polygon sides (:math:`s_5, s_6, s_{10}`) is the exact geometric engine :person:`Euclid <euclid>` uses in :cite:`Euclid XIII.16 <euclid:elements:XIII.16>` to construct the :term:`icosahedron <icosahedron>` and in :cite:`Euclid XIII.17 <euclid:elements:XIII.17>` to construct the :term:`dodecahedron <dodecahedron>`.
+- **Comparison with Earlier Draft Track**: The earlier ``divina_en_2`` draft reduced this chapter to a three-line summary without the corollary on :cite:`Euclid XIII.9 <euclid:elements:XIII.9>` or the numerical illustration. The present translation restores the full 1509 Paganini text (``0031.rst``, ``f. 8r``).
 
 Philological and Folio Apparatus
 --------------------------------

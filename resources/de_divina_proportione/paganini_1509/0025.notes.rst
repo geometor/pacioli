@@ -4,9 +4,9 @@ Folio 0025 (f. 5r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0024.rst``): Folio f. 4v (verso), Part I: Compendio de Divina Proportione — Cap. VII (f. 4v) — Del primo effecto de vna linea diuisa secondo la nostra
-- **Current Folio** (``0025.rst``): Folio f. 5r (recto), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. VII, Cap. VIII (f. 5r) — Del primo effecto de vna linea diuisa secondo la nostra
-- **Following Folio** (``0026.rst``): Folio f. 5v (verso), Part I: Compendio de Divina Proportione — Cap. IX, Cap. X, Cap. XI (f. 5v) — Che cosa sia radici de numero e de altra quantità.
+- **Preceding Folio** (``0024.rst``): Folio f. 4v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. VII (f. 4v) — Del primo effecto de vna linea diuisa secondo la nostra
+- **Current Folio** (``0025.rst``): Folio f. 5r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. VII, Cap. VIII (f. 5r) — Del primo effecto de vna linea diuisa secondo la nostra
+- **Following Folio** (``0026.rst``): Folio f. 5v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. IX, Cap. X, Cap. XI (f. 5v) — Che cosa sia radici de numero e de altra quantità.
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,7 +20,38 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PRIMA``
 - **Folio Signature / Numeration**: ``f. 5r`` (Scan page ``25``, *recto*)
-- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. VII** (``compendio/cap_07``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/007_cap_VII.txt``
-  - **Cap. VIII** (``compendio/cap_08``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/008_cap_VIII.txt``
+  - **Cap. VII** (``compendio/cap_07``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/007_cap_VII.txt``
+  - **Cap. VIII** (``compendio/cap_08``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/008_cap_VIII.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. VII — On the First Effect of a Line Divided According to Our Proportion
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical and Philological Commentary
+--------------------------------------
+
+1. **Proposition Citations in Chapter VII**:
+   - **First Effect (Euclid XIII.1)**: If a line $AB = a+b$ is cut in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $C$ with greater segment $AC = a$, and $AD = \frac{1}{2}AB$ is added to $AC$, then $CD^2 = 5 \cdot AD^2$, i.e., $(a + \frac{a+b}{2})^2 = 5(\frac{a+b}{2})^2$.
+   - **Campanus VI.19 = Heiberg Euclid VI.30**: Pacioli cites *la 19. del 6.* ("the 19th of the 6th"), which is the numbering of *Elements* VI.30 ("To cut a given finite straight line in :term:`extreme and mean ratio <extrema-et-media-ratio>`") in the medieval Latin edition of :person:`Campanus of Novara <campanus>`, preceded by :cite:`Euclid VI.def.3 <euclid:elements:VI.def.3>`.
+   - :cite:`**Euclid II.11** <euclid:elements:II.11>`: :person:`Euclid <euclid>`'s geometric construction in Book II ("To cut a given straight line so that the rectangle contained by the whole and one of the segments is equal to the square on the remaining segment"), which constructs the golden section by areas prior to the theory of proportions in Book V.
+   - **Campanus Euclid IX.16**: In :person:`Campanus <campanus>`'s commentary on *Elements* IX.16 ("If two numbers be prime to one another, the second will not be to any other number as the first is to the second"), :person:`Campanus <campanus>` proves as a corollary that no three integers can stand in :term:`extreme and mean ratio <extrema-et-media-ratio>` (since if $a+b : a = a : b$ in lowest terms, $a$ and $b$ would be coprime, yet $a+b$ and $a$ would also be coprime, contradicting IX.16).
+2. **Christological and Boethian Analogies**: Pacioli extends the theological analogies of Chapter V with a Christological comparison (Christ fulfilling the Mosaic Law, Matthew 5:17, and submitting to Mary and Joseph, Luke 2:51) and quotes the famous Neoplatonic hymn *O qui perpetua mundum ratione gubernas* from :person:`Boethius <boethius>`'s *Consolation of Philosophy* (Book III, metrum 9, line 3): *stabilisque manens dat cuncta moveri* ("remaining unmoved, He gives all things to move").
+
+Cap. VIII — How a Quantity Divided According to the Proportion Having a Mean and Two Extremes Is to Be Understood
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical and Philological Commentary
+--------------------------------------
+
+1. **Pacioli's Canonical Numerical Exemplar ($a + b = 10$)**: Throughout Chapters VIII–XXII (and later in the polyhedral measurements), Pacioli adopts $10$ as the standard rational whole divided in :term:`extreme and mean ratio <extrema-et-media-ratio>`. Setting the greater part $a = x$ (*una cosa*) and the lesser part $b = 10 - x$, the defining equation $10(10 - x) = x^2$ gives the quadratic equation $x^2 + 10x = 100$ (*censo e cose equale a numero*). By al-Khwarizmi's rule in *Algebra et Almucabala*:
+   $$a = \sqrt{\left(\frac{10}{2}\right)^2 + 100} - \frac{10}{2} = \sqrt{125} - 5$$
+   $$b = 10 - (\sqrt{125} - 5) = 15 - \sqrt{125}$$
+2. **Arithmetic of Apotomes (*Residui*, Euclid X.73)**: Pacioli writes radicals in pure single-radical form so that $10 \cdot \sqrt{125} = \sqrt{100 \cdot 125} = \sqrt{12500}$. Thus:
+   - Product of extremes: $10 \cdot (15 - \sqrt{125}) = 150 - \sqrt{12500}$.
+   - Square of the mean: $(\sqrt{125} - 5)^2 = 125 + 25 - 2 \cdot 5\sqrt{125} = 150 - \sqrt{12500}$.
+   Notice also that in line 24 of the 1509 print (and :person:`Winterberg <winterberg>`'s transcription), `15 m. R. 125` was twice misprinted as `o. m. R. 125`; our translation restores the mathematically exact `15 - \sqrt{125}`.
+3. **Campanus X.79 = Heiberg Euclid X.73**: In :person:`Euclid <euclid>`'s Book X, an :term:`apotome <residuo>` ($\dot{\alpha}\pi\omicron\tau\omicron\mu\acute{\eta}$, rendered *residuum* by Gerard of Cremona and :person:`Campanus <campanus>`) is defined in :cite:`Euclid X.73 <euclid:elements:X.73>` (which is Proposition 79 in :person:`Campanus <campanus>`'s numbering because :person:`Campanus <campanus>` counted several lemmas as numbered propositions), followed by the six species of apotomes in X.79–84 (:cite:`Campanus X.85–90 <campanus:euclid:X.85–90>`). Specifically, $\sqrt{125} - 5$ is a *fourth apotome* (*residuum quartum*), and $15 - \sqrt{125}$ is a *first apotome* (*residuum primum*).

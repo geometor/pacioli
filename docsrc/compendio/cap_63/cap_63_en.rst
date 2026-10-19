@@ -14,7 +14,7 @@ CHAPTER LXIII (English)
 .. folio:: 0054 (f. 19v)
    :initial: 0054.c1.png
 
-Having shown the rule for measuring round columns, we now give the general—and **exact**—rule for measuring all **lateral columns** (*colonne laterate*, prisms).
+Having shown the rule for measuring round columns, we now give the general—and **exact**—rule for measuring all **lateral columns** (:term:`*colonne laterate* <colonna-laterata>`, prisms).
 
 .. enunciation:: General Rule for the Volume of Any Lateral Column (Prism)
 
@@ -41,7 +41,7 @@ Having shown the rule for measuring round columns, we now give the general—and
          36 \times 10 = 360
 
       Thus the column contains **360 cubic braccia** (or cubic feet).
-   4. And if the bases are inequilateral or irregular quadrilaterals (*elmuariffe*), or if the column is **triangular** (3-sided), **pentagonal** (5-sided), **hexagonal** (6-sided), **heptagonal** (7-sided), *et sic de singulis*, first measure the polygonal base by the rules of triangles, pentagons, or hexagons set forth at length in our printed great work (*Summa de Arithmetica*, 1494—to which access is easy for everyone, since it has been printed in copious multitude and spread throughout the world!), and multiply that base area by the altitude of the column.
+   4. And if the bases are inequilateral or irregular quadrilaterals (:term:`*elmuariffe* <elmuariffe>`), or if the column is **triangular** (3-sided), **pentagonal** (5-sided), **hexagonal** (6-sided), **heptagonal** (7-sided), *et sic de singulis*, first measure the polygonal base by the rules of triangles, pentagons, or hexagons set forth at length in our printed great work (:cite:`*Summa de Arithmetica* <pacioli:summa>`, 1494—to which access is easy for everyone, since it has been printed in copious multitude and spread throughout the world!), and multiply that base area by the altitude of the column.
 
 .. qed::
 

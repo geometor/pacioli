@@ -16,5 +16,5 @@ Folio 0243 (Plate Folio 0243 (recto)) — Tabula XXVII — Dodecahedron Planum S
 Tabula XXVII (No. 27)
 ---------------------
 
-- **Titulus Latinus**: *Dodecahedron Planum Solidum*
-- **Titulus Graecus**: Δωδεκάεδρον ἐπίπεδον στερεόν
+- **Titulus Latinus**: :term:`*Dodecahedron Planum Solidum* <dodecahedron>`
+- **Titulus Graecus**: :term:`Δωδεκάεδρον <dodecahedron>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`

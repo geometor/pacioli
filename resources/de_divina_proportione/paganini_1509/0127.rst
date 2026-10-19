@@ -22,4 +22,4 @@ Folio 0127 (Libellus f. 22r) — Libellus — Tractatus Tertius (Libellus f. 22r
 Pars Tertia: Libellus in tres partiales tractatus divisus
 ---------------------------------------------------------
 
-**Tractatus Tertius (Libellus f. 22r)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela spera.
+**Tractatus Tertius (Libellus f. 22r)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela :term:`spera <spera>`.

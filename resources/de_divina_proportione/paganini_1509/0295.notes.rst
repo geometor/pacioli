@@ -4,9 +4,9 @@ Folio 0295 (Plate Folio 0295 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0294.rst``): Folio Plate Folio 0294 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0294)
-- **Current Folio** (``0295.rst``): Folio Plate Folio 0295 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate LII — Pyramis Laterata Penthagona Vacua (Hollow Pentagonal Pyramid)
-- **Following Folio** (``0296.rst``): Folio Plate Folio 0296 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0296)
+- **Preceding Folio** (``0294.rst``): Folio Plate Folio 0294 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0294)
+- **Current Folio** (``0295.rst``): Folio Plate Folio 0295 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate LII — Pyramis Laterata Penthagona Vacua (Hollow Pentagonal Pyramid)
+- **Following Folio** (``0296.rst``): Folio Plate Folio 0296 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0296)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0295 (recto)`` (Scan page ``295``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``LII`` (Plate No. ``52``) | Latin Cartouche: *Pyramis Laterata Penthagona Vacua* | Greek Cartouche: Πυραμὶς πλευρώδης πεντάγωνος κενή
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``LII`` (Plate No. ``52``) | Latin Cartouche: *Pyramis Laterata Penthagona Vacua* | Greek Cartouche: :term:`Πυραμὶς πλευρώδης πεντάγωνος <pyramide-pentagona>` κενή

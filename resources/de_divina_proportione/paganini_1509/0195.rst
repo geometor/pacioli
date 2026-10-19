@@ -16,5 +16,5 @@ Folio 0195 (Plate Folio 0195 (recto)) — Tabula V — Tetrahedron Elevatum Soli
 Tabula V (No. 5)
 ----------------
 
-- **Titulus Latinus**: *Tetrahedron Elevatum Solidum*
-- **Titulus Graecus**: Τετράεδρον ἐπηρμένον στερεόν
+- **Titulus Latinus**: :term:`*Tetrahedron Elevatum Solidum* <tetrahedron-elevatum>`
+- **Titulus Graecus**: :term:`Τετράεδρον ἐπηρμένον <tetrahedron-elevatum>` :term:`στερεόν <solidum>`

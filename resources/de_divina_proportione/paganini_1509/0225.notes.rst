@@ -4,9 +4,9 @@ Folio 0225 (Plate Folio 0225 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0224.rst``): Folio Plate Folio 0224 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0224)
-- **Current Folio** (``0225.rst``): Folio Plate Folio 0225 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XVIII — Octahedron Abscisum Vacuum (Hollow Truncated Octahedron)
-- **Following Folio** (``0226.rst``): Folio Plate Folio 0226 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0226)
+- **Preceding Folio** (``0224.rst``): Folio Plate Folio 0224 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0224)
+- **Current Folio** (``0225.rst``): Folio Plate Folio 0225 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate XVIII — :term:`Octahedron Abscisum <octahedron-abscisum>` :term:`Vacuum <vacuum>` (Hollow Truncated :term:`Octahedron <octahedron>`)
+- **Following Folio** (``0226.rst``): Folio Plate Folio 0226 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0226)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0225 (recto)`` (Scan page ``225``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``XVIII`` (Plate No. ``18``) | Latin Cartouche: *Octahedron Abscisum Vacuum* | Greek Cartouche: Ὀκτάεδρον ἀποτετμημένον κενόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XVIII`` (Plate No. ``18``) | Latin Cartouche: :term:`*Octahedron Abscisum Vacuum* <octahedron-abscisum>` | Greek Cartouche: :term:`Ὀκτάεδρον ἀποτετμημένον <octahedron-abscisum>` :term:`κενόν <vacuum>`

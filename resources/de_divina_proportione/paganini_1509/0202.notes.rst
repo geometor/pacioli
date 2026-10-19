@@ -4,9 +4,9 @@ Folio 0202 (Plate Folio 0202 (verso)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0201.rst``): Folio Plate Folio 0201 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate VIII — Exahedron Planum Vacuum (Hollow Regular Hexahedron (Cube))
-- **Current Folio** (``0202.rst``): Folio Plate Folio 0202 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0202)
-- **Following Folio** (``0203.rst``): Folio Plate Folio 0203 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate VIIII — Exahedron Abscisum Solidum (Solid Truncated Hexahedron (Cuboctahedron))
+- **Preceding Folio** (``0201.rst``): Folio Plate Folio 0201 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate VIII — :term:`Exahedron <exahedron>` :term:`Planum <planum>` :term:`Vacuum <vacuum>` (Hollow Regular :term:`Hexahedron <exahedron>` (Cube))
+- **Current Folio** (``0202.rst``): Folio Plate Folio 0202 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Polyhedra Plate Verso (0202)
+- **Following Folio** (``0203.rst``): Folio Plate Folio 0203 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate VIIII — :term:`Exahedron Abscisum <exahedron-abscisum>` :term:`Solidum <solidum>` (Solid Truncated :term:`Hexahedron <exahedron>` (:term:`Cuboctahedron <exahedron-abscisum>`))
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,5 +18,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0202 (verso)`` (Scan page ``202``, *verso*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
 - **Leaf Category**: Polyhedra Plate Verso (0202)

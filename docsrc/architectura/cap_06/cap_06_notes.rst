@@ -14,10 +14,10 @@ CHAPTER VI — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Pacioli and Leonardo da Vinci Living Together in Milan (1496–1499) and Florence (1500+)**: This famous passage on Folio 0072 (``f. 28v``) is one of the cornerstone documents of Leonardo da Vinci's biography:
-  1. It confirms that Leonardo drew the 60 polyhedra plates in Milan between **1496 and 1499** while both he and Pacioli were on the payroll of Duke Ludovico Maria Sforza;
+- **Pacioli and Leonardo da Vinci Living Together in Milan (1496–1499) and Florence (1500+)**: This famous passage on Folio 0072 (``f. 28v``) is one of the cornerstone documents of :person:`Leonardo da Vinci <leonardo>`'s biography:
+  1. It confirms that Leonardo drew the 60 polyhedra plates in Milan between **1496 and 1499** while both he and Pacioli were on the payroll of Duke :person:`Ludovico Maria Sforza <ludovico-sforza>`;
   2. It records that after the fall of Milan to Louis XII of France in late **1499**, Pacioli and Leonardo **left Milan together** (visiting Mantua and Venice) and **shared a household in Florence** (*e a Firenze pur insiemi trahemmo domicilio*);
-  3. It documents the **three sets of 60 painted three-dimensional polyhedra models** constructed by Pacioli's own hands: the first for **Ludovico Sforza** (presented in 1498), the second for **Galeazzo Sanseverino** in Milan, and the third in Florence for **Gonfaloniere Piero Soderini** (kept in the Palazzo Vecchio, as also recorded in Florentine municipal payment records of 1505).
+  3. It documents the **three sets of 60 painted three-dimensional polyhedra models** constructed by Pacioli's own hands: the first for :person:`**Ludovico Sforza** <ludovico-sforza>` (presented in 1498), the second for :person:`**Galeazzo Sanseverino** <galeazzo-sanseverino>` in Milan, and the third in Florence for **Gonfaloniere Piero Soderini** (kept in the Palazzo Vecchio, as also recorded in Florentine municipal payment records of 1505).
 
 Philological and Folio Apparatus
 --------------------------------

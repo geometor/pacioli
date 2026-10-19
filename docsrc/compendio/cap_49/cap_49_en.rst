@@ -14,12 +14,12 @@ CHAPTER XLIX (English)
 .. folio:: 0044 (f. 14v)
    :initial: 0044.c1.png
 
-Following the same threefold order—regular, truncated (*absciso*), and elevated (*elevato*), each in solid (*solido*) and hollow (*vacuo*) perspective—we now describe the second regular body, the **exacedron** or **cube**, and its immediate dependents (:ref:`Plates VII–XII <plates-polyhedra-en>`).
+Following the same threefold order—regular, truncated (*absciso*), and elevated (*elevato*), each in solid (*solido*) and hollow (*vacuo*) perspective—we now describe the second regular body, the :term:`**exacedron** <exahedron>` or **cube**, and its immediate dependents (:ref:`Plates VII–XII <plates-polyhedra-en>`).
 
 .. rubric:: 1. The Regular Exacedron or Cube — Solid (Plate VII) and Hollow (Plate VIII)
 
 - **Plate VII (Folio 0199, Exacedron Planum Solidu[m])** and **Plate VIII (Folio 0201, Exacedron Planum Vacuum)**:
-  This is the second regular body, the **cube** (*cubo* or *exacedron*), whose construction in the sphere we proved in :ref:`Chapter XXVII <compendio-cap_27-en>` (:just:`XIII.15`). It has **6 equal square bases** (faces), **8 solid angles** (each contained by 3 right angles), and **12 equal edges**. Plate VII shows it solid, and Plate VIII shows it hollow in perspective.
+  This is the second regular body, the **cube** (*cubo* or :term:`*exacedron* <exahedron>`), whose construction in the sphere we proved in :ref:`Chapter XXVII <compendio-cap_27-en>` (:just:`XIII.15`). It has **6 equal square bases** (faces), **8 solid angles** (each contained by 3 right angles), and **12 equal edges**. Plate VII shows it solid, and Plate VIII shows it hollow in perspective.
 
 .. rubric:: 2. The Truncated Cube (*Exacedron Abscisum* / Cuboctahedron) — Solid (Plate IX) and Hollow (Plate X)
 
@@ -27,7 +27,7 @@ Following the same threefold order—regular, truncated (*absciso*), and elevate
   This dependent body is formed from the cube by **bisecting all 12 edges of the cube at their midpoints** and slicing off all **8 corner pyramids** by plane cuts passing through the midpoints of the three edges meeting at each corner:
   1. In place of the **8 sliced-off solid angles** of the cube, there arise **8 equilateral triangles** (whose sides equal half the face diagonal of the cube).
   2. Each of the **6 original square faces** of the cube, having its four corners cut off to the midpoints of its four sides, is reduced to an inscribed **square** (whose area is half the original square face and whose sides equal the sides of the 8 new equilateral triangles!).
-  - Thus the *exacedron absciso* (the **cuboctahedron**) is bounded by **14 plane bases** in all—**6 squares** and **8 equilateral triangles**—all having equal edges! It has **12 solid angles** (at the 12 midpoints of the original cube's edges, each vertex surrounded by two squares and two equilateral triangles) and **24 equal edges**.
+  - Thus the :term:`*exacedron absciso* <exahedron>` (the :term:`**cuboctahedron** <exahedron-abscisum>`) is bounded by **14 plane bases** in all—**6 squares** and **8 equilateral triangles**—all having equal edges! It has **12 solid angles** (at the 12 midpoints of the original cube's edges, each vertex surrounded by two squares and two equilateral triangles) and **24 equal edges**.
 
 .. rubric:: 3. The Elevated Cube (*Exacedron Elevatum*) — Solid (Plate XI) and Hollow (Plate XII)
 

@@ -15,14 +15,14 @@ Historical & Mathematical Commentary
 ------------------------------------
 
 - **Paganini 1509 Plates Referenced**:
-  - **Plate XXV** (``0241.rst``): *Duodecedron Planum Solidum* (Dodecahedron, solid).
-  - **Plate XXVI** (``0243.rst``): *Duodecedron Planum Vacuum* (Dodecahedron, skeletal).
-  - **Plate XXVII** (``0245.rst``): *Duodecedron Abscisum Solidum* (**Icosidodecahedron**, Archimedean solid :math:`(3.5)^2` of 12 pentagons and 20 triangles, solid).
-  - **Plate XXVIII** (``0247.rst``): *Duodecedron Abscisum Vacuum* (Icosidodecahedron, skeletal).
-  - **Plate XXIX** (``0249.rst``): *Duodecedron Elevatum Solidum* (Equilateral pentagonal cumulation of the dodecahedron, solid—visually identical in vertex/face topology to Kepler's **Small Stellated Dodecahedron**!).
-  - **Plate XXX** (``0251.rst``): *Duodecedron Elevatum Vacuum* (Elevated dodecahedron, skeletal).
-  - **Plate XXXI–XXXII** (``0253.rst``, ``0255.rst``): *Exacedron Abscisum Elevatum Solidum / Vacuum* (Cumulated cuboctahedron, 48 triangular faces).
-  - **Plate XXXIII–XXXIV** (``0257.rst``, ``0259.rst``): *Duodecedron Abscisum Elevatum Solidum / Vacuum* (Cumulated icosidodecahedron, 120 triangular faces).
+  - **Plate XXV** (``0241.rst``): :term:`*Duodecedron Planum Solidum* <dodecahedron>` (:term:`Dodecahedron <dodecahedron>`, solid).
+  - **Plate XXVI** (``0243.rst``): :term:`*Duodecedron Planum Vacuum* <dodecahedron>` (:term:`Dodecahedron <dodecahedron>`, skeletal).
+  - **Plate XXVII** (``0245.rst``): :term:`*Duodecedron Abscisum Solidum* <dodecahedron>` (:term:`**Icosidodecahedron** <dodecahedron-abscisum>`, Archimedean solid :math:`(3.5)^2` of 12 pentagons and 20 triangles, solid).
+  - **Plate XXVIII** (``0247.rst``): :term:`*Duodecedron Abscisum Vacuum* <dodecahedron>` (:term:`Icosidodecahedron <dodecahedron-abscisum>`, skeletal).
+  - **Plate XXIX** (``0249.rst``): :term:`*Duodecedron Elevatum Solidum* <dodecahedron>` (Equilateral pentagonal cumulation of the :term:`dodecahedron <dodecahedron>`, solid—visually identical in vertex/face topology to Kepler's **Small Stellated Dodecahedron**!).
+  - **Plate XXX** (``0251.rst``): :term:`*Duodecedron Elevatum Vacuum* <dodecahedron>` (Elevated :term:`dodecahedron <dodecahedron>`, skeletal).
+  - **Plate XXXI–XXXII** (``0253.rst``, ``0255.rst``): :term:`*Exacedron Abscisum Elevatum Solidum / Vacuum* <exahedron>` (Cumulated :term:`cuboctahedron <exahedron-abscisum>`, 48 triangular faces).
+  - **Plate XXXIII–XXXIV** (``0257.rst``, ``0259.rst``): :term:`*Duodecedron Abscisum Elevatum Solidum / Vacuum* <dodecahedron>` (Cumulated :term:`icosidodecahedron <dodecahedron-abscisum>`, 120 triangular faces).
 
 Philological and Folio Apparatus
 --------------------------------

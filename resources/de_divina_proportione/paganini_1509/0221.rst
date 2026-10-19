@@ -16,5 +16,5 @@ Folio 0221 (Plate Folio 0221 (recto)) — Tabula XVI — Octahedron Planum Vacuu
 Tabula XVI (No. 16)
 -------------------
 
-- **Titulus Latinus**: *Octahedron Planum Vacuum*
-- **Titulus Graecus**: Ὀκτάεδρον ἐπίπεδον κενόν
+- **Titulus Latinus**: :term:`*Octahedron Planum Vacuum* <octahedron>`
+- **Titulus Graecus**: :term:`Ὀκτάεδρον <octahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`

@@ -4,9 +4,9 @@ Folio 0078 (f. 31v) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0077.rst``): Folio f. 31r (recto), Part II: Tractato de l'Architectura — Cap. XII (f. 31r) — De lordini dele colonne rotonde comme se debino nelli h
+- **Preceding Folio** (``0077.rst``): Folio f. 31r (recto), Part II: Tractato de l'Architectura — Cap. XII (f. 31r) — De lordini dele :term:`colonne rotonde <colonna-rotonda>` comme se debino nelli h
 - **Current Folio** (``0078.rst``): Folio f. 31v (verso), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. XIII, Cap. XIV (f. 31v) — De linterualli fra lun tigrafo e laltro.
-- **Following Folio** (``0079.rst``): Folio f. 32r (recto), Part II: Tractato de l'Architectura — Cap. XV, Cap. XVI, Cap. XVII (f. 32r) — Del zophoro nel epistilio.
+- **Following Folio** (``0079.rst``): Folio f. 32r (recto), Part II: Tractato de l'Architectura — Cap. XV, Cap. XVI, Cap. XVII (f. 32r) — Del :term:`zophoro <zophoro>` nel :term:`epistilio <epistilio>`.
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -22,5 +22,25 @@ Diplomatic & Textual Observations
 - **Folio Signature / Numeration**: ``f. 31v`` (Scan page ``78``, *verso*)
 - **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. XIII** (``architectura/cap_13``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/013_cap_XIII.txt``
-  - **Cap. XIV** (``architectura/cap_14``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/014_cap_XIV.txt``
+  - **Cap. XIII** (``architectura/cap_13``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/013_cap_XIII.txt``
+  - **Cap. XIV** (``architectura/cap_14``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/014_cap_XIV.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. XIII — On the Intervals Between One Triglyph and Another.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Structural Continuity of Column and Triglyph**: In the classical orders (:cite:`Vitruvius IV.2–3 <vitruvius:de-arch:IV.2–3>`), :term:`triglyphs <tygraphi>` represent the ornamental ends of the ceiling beams resting upon the :term:`architrave <epistilio>` directly above the columns; hence their spacing is locked to the intercolumniation below.
+
+Cap. XIV — On the Epistyle—Called the Architrave by the Moderns—and Why Excessive Intercolumniations Crack Stone Architraves (Vitruvius Book III).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Plate Referenced**: Folio 0215 (``0215.rst``, ``0215.g1.png``) displays the complete detailed profile and elevation of the **Epistyle, Zophorus (Frieze), and Cornice** with every single letter (:math:`a, b, c, d, e, f, g, h, V, k, l, m, o`) explained in ``Cap. XIV``–``Cap. XVI``.
+- **The 3 : 4 : 5 Arithmetic Progression of the Three Fasciae**: Following :cite:`Vitruvius III.5 <vitruvius:de-arch:III.5>`.10, after setting aside :math:`\frac{1}{7}` of the :term:`architrave <epistilio>` height for the top *cymatium/taenia* (:math:`h`), the remaining :math:`\frac{6}{7}` is divided into 12 parts distributed as **3, 4, and 5** to the lower, middle, and upper fasciae (:math:`a, c, e`), so that the fasciae step outward and grow taller as they ascend toward the eye!

@@ -19,4 +19,4 @@ Folio 0134 (Libellus f. 25v) — Libellus — Tractatus Tertius (Libellus f. 25v
 Pars Tertia: Libellus in tres partiales tractatus divisus
 ---------------------------------------------------------
 
-**Tractatus Tertius (Libellus f. 25v)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela spera.
+**Tractatus Tertius (Libellus f. 25v)**: Casi geometrici e algebrici (*Casus*) de' corpi contenuti l'uno da l'altro e dela :term:`spera <spera>`.

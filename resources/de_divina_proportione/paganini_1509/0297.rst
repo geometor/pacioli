@@ -16,5 +16,5 @@ Folio 0297 (Plate Folio 0297 (recto)) — Tabula LIII — Columna Laterata Exago
 Tabula LIII (No. 53)
 --------------------
 
-- **Titulus Latinus**: *Columna Laterata Exagona Solida*
-- **Titulus Graecus**: Κίων πλευρώδης ἑξάγωνος στερεός
+- **Titulus Latinus**: :term:`*Columna Laterata Exagona Solida* <colonna-exagona>`
+- **Titulus Graecus**: :term:`Κίων πλευρώδης ἑξάγωνος <colonna-exagona>` στερεός

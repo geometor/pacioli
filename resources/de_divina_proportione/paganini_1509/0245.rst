@@ -16,5 +16,5 @@ Folio 0245 (Plate Folio 0245 (recto)) — Tabula XXVIII — Dodecahedron Planum 
 Tabula XXVIII (No. 28)
 ----------------------
 
-- **Titulus Latinus**: *Dodecahedron Planum Vacuum*
-- **Titulus Graecus**: Δωδεκάεδρον ἐπίπεδον κενόν
+- **Titulus Latinus**: :term:`*Dodecahedron Planum Vacuum* <dodecahedron>`
+- **Titulus Graecus**: :term:`Δωδεκάεδρον <dodecahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`

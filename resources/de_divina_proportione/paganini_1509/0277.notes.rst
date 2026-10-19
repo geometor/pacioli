@@ -4,9 +4,9 @@ Folio 0277 (Plate Folio 0277 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0276.rst``): Folio Plate Folio 0276 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0276)
-- **Current Folio** (``0277.rst``): Folio Plate Folio 0277 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XLIIII — Pyramis Laterata Triangula Vacua (Hollow Triangular Pyramid)
-- **Following Folio** (``0278.rst``): Folio Plate Folio 0278 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0278)
+- **Preceding Folio** (``0276.rst``): Folio Plate Folio 0276 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0276)
+- **Current Folio** (``0277.rst``): Folio Plate Folio 0277 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate XLIIII — :term:`Pyramis Laterata Triangula <pyramide-triangula>` Vacua (Hollow Triangular Pyramid)
+- **Following Folio** (``0278.rst``): Folio Plate Folio 0278 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0278)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0277 (recto)`` (Scan page ``277``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``XLIIII`` (Plate No. ``44``) | Latin Cartouche: *Pyramis Laterata Triangula Vacua* | Greek Cartouche: Πυραμὶς πλευρώδης τρίγωνος κενή
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XLIIII`` (Plate No. ``44``) | Latin Cartouche: :term:`*Pyramis Laterata Triangula Vacua* <pyramide-triangula>` | Greek Cartouche: :term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` κενή

@@ -4,9 +4,9 @@ Folio 0071 (f. 28r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0070.rst``): Folio f. 27v (verso), Part II: Tractato de l'Architectura — Cap. IV (f. 27v) — Sequita dele colonne rotonde con sue basi e capitelli e
+- **Preceding Folio** (``0070.rst``): Folio f. 27v (verso), Part II: Tractato de l'Architectura — Cap. IV (f. 27v) — Sequita dele :term:`colonne rotonde <colonna-rotonda>` con sue basi e capitelli e
 - **Current Folio** (``0071.rst``): Folio f. 28r (recto), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. V, Cap. VI (f. 28r) — Sequita dir dela longhezzä e grosseza de dieta colonna.
-- **Following Folio** (``0072.rst``): Folio f. 28v (verso), Part II: Tractato de l'Architectura — Cap. VI (f. 28v) — Sequita lordine del stilobata ouer pilastro ouero basam
+- **Following Folio** (``0072.rst``): Folio f. 28v (verso), Part II: Tractato de l'Architectura — Cap. VI (f. 28v) — Sequita lordine del :term:`stilobata <stilobata>` ouer :term:`pilastro <pilastro>` ouero basam
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -23,5 +23,27 @@ Diplomatic & Textual Observations
 - **Folio Signature / Numeration**: ``f. 28r`` (Scan page ``71``, *recto*)
 - **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. V** (``architectura/cap_05``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/005_cap_V.txt``
-  - **Cap. VI** (``architectura/cap_06``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/006_cap_VI.txt``
+  - **Cap. V** (``architectura/cap_05``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/005_cap_V.txt``
+  - **Cap. VI** (``architectura/cap_06``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/006_cap_VI.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. V — On the Length (Height), Thickness, Entasis, and Base (*Spira*) of the Round Column.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Vitruvius's Attic Base (Vitruvius III.5.2)**: Pacioli's step-by-step arithmetic for the Attic column base (:ref:`Plate 0213 <plates-architectural-en>`) follows :cite:`Vitruvius III.5 <vitruvius:de-arch:III.5>`.2–3: total base height :math:`= \frac{1}{2}D`; plinth width :math:`= 1\frac{1}{2}D`; plinth height :math:`= \frac{1}{3}` of base height (:math:`= \frac{1}{6}D`), leaving :math:`\frac{2}{3}` of base height (:math:`= \frac{1}{3}D`), of which :math:`\frac{1}{4}` is the upper torus and the remaining :math:`\frac{3}{4}` is split equally (:math:`\frac{3}{8}` each) between the lower torus and the scotia (*trochilus*) with its fillets.
+
+Cap. VI — On the Order and Construction of the Stylobate (Pedestal or Base-Pillar) of the Column, the Stereobate Foundation, the Ancient Roman Alphabet, and the Three Sets of Sixty Polyhedra Models Made by Pacioli alongside Leonardo da Vinci.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Pacioli and Leonardo da Vinci Living Together in Milan (1496–1499) and Florence (1500+)**: This famous passage on Folio 0072 (``f. 28v``) is one of the cornerstone documents of :person:`Leonardo da Vinci <leonardo>`'s biography:
+  1. It confirms that Leonardo drew the 60 polyhedra plates in Milan between **1496 and 1499** while both he and Pacioli were on the payroll of Duke :person:`Ludovico Maria Sforza <ludovico-sforza>`;
+  2. It records that after the fall of Milan to Louis XII of France in late **1499**, Pacioli and Leonardo **left Milan together** (visiting Mantua and Venice) and **shared a household in Florence** (*e a Firenze pur insiemi trahemmo domicilio*);
+  3. It documents the **three sets of 60 painted three-dimensional polyhedra models** constructed by Pacioli's own hands: the first for :person:`**Ludovico Sforza** <ludovico-sforza>` (presented in 1498), the second for :person:`**Galeazzo Sanseverino** <galeazzo-sanseverino>` in Milan, and the third in Florence for **Gonfaloniere Piero Soderini** (kept in the Palazzo Vecchio, as also recorded in Florentine municipal payment records of 1505).

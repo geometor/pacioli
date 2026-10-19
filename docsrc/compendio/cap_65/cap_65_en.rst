@@ -14,11 +14,11 @@ CHAPTER LXV (English)
 .. folio:: 0055–0056 (f. 20r–f. 20v)
    :initial: 0055.c1.png
 
-Just as lateral columns have infinitely many species according to the polygons of their bases, so **lateral pyramids** (*pyramidi laterate*, :ref:`Plates LI–LIX <plates-polyhedra-en>`) have infinitely many species derived from their corresponding lateral columns.
+Just as lateral columns have infinitely many species according to the polygons of their bases, so **lateral pyramids** (:term:`*pyramidi laterate* <pyramide-laterata>`, :ref:`Plates LI–LIX <plates-polyhedra-en>`) have infinitely many species derived from their corresponding lateral columns.
 
 .. enunciation:: Definition and Derivation of Lateral Pyramids (:just:`XI.Def.12`)
 
-   In the :just:`eleventh book <XI.Def.12>`, our philosopher defines the **lateral pyramid** as a solid figure contained by plane surfaces that rise from a single plane base to meet at a single opposite point overhead, called the **cone** or **apex** (*cono dela pyramide*).
+   In the :just:`eleventh book <XI.Def.12>`, our philosopher defines the **lateral pyramid** as a solid figure contained by plane surfaces that rise from a single plane base to meet at a single opposite point overhead, called the **cone** or **apex** (:term:`*cono dela pyramide* <cono-pyramidale>`).
 
 .. assertion:: Properties and Classification of Lateral Pyramids
 

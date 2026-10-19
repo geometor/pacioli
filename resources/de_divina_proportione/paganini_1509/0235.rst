@@ -16,5 +16,5 @@ Folio 0235 (Plate Folio 0235 (recto)) — Tabula XXIII — Icosahedron Abscisum 
 Tabula XXIII (No. 23)
 ---------------------
 
-- **Titulus Latinus**: *Icosahedron Abscisum Solidum*
-- **Titulus Graecus**: Εἰκοσάεδρον ἀποτετμημένον στερεόν
+- **Titulus Latinus**: :term:`*Icosahedron Abscisum Solidum* <icosahedron-abscisum>`
+- **Titulus Graecus**: :term:`Εἰκοσάεδρον ἀποτετμημένον <icosahedron-abscisum>` :term:`στερεόν <solidum>`

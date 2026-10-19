@@ -5,7 +5,7 @@ Summary & Folio Continuity
 --------------------------
 
 - **Preceding Folio** (``0078.rst``): Folio f. 31v (verso), Part II: Tractato de l'Architectura — Cap. XIII, Cap. XIV (f. 31v) — De linterualli fra lun tigrafo e laltro.
-- **Current Folio** (``0079.rst``): Folio f. 32r (recto), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. XV, Cap. XVI, Cap. XVII (f. 32r) — Del zophoro nel epistilio.
+- **Current Folio** (``0079.rst``): Folio f. 32r (recto), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. XV, Cap. XVI, Cap. XVII (f. 32r) — Del :term:`zophoro <zophoro>` nel :term:`epistilio <epistilio>`.
 - **Following Folio** (``0080.rst``): Folio f. 32v (verso), Part II: Tractato de l'Architectura — Cap. XVIII, Cap. XIX (f. 32v) — Comme lapicidi e altri scultori in dicti corpi sieno co
 
 Graphic Extraction & Calibration
@@ -24,6 +24,34 @@ Diplomatic & Textual Observations
 - **Folio Signature / Numeration**: ``f. 32r`` (Scan page ``79``, *recto*)
 - **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. XV** (``architectura/cap_15``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/015_cap_XV.txt``
-  - **Cap. XVI** (``architectura/cap_16``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/016_cap_XVI.txt``
-  - **Cap. XVII** (``architectura/cap_17``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/02_architectura_italian/017_cap_XVII.txt``
+  - **Cap. XV** (``architectura/cap_15``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/015_cap_XV.txt``
+  - **Cap. XVI** (``architectura/cap_16``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/016_cap_XVI.txt``
+  - **Cap. XVII** (``architectura/cap_17``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/017_cap_XVII.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. XV — On the Zophorus (Frieze) Above the Epistyle.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Vitruvius III.5.10 on the Zophorus**: :person:`Vitruvius <vitruvius>` specifies that if the *zophorus* (frieze) is left plain, it should be :math:`\frac{1}{4}` *less* than the epistyle (:math:`3:4`), whereas if it is carved with reliefs (*si scalpantur*), it should be :math:`\frac{1}{4}` *taller* than the epistyle (:math:`5:4`), so that the sculptures have noble stature and visibility from the ground.
+
+Cap. XVI — On the Composition and Mouldings of the Cornice (*Cornicione*).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Vitruvius's Rule of Equal Height and Projection (*Ecphora*, Vitruvius III.5.11)**: Pacioli repeatedly emphasizes Vitruvius's fundamental rule of classical profile geometry: *uti proiecturae earundem sint quantae altitudines* ("that the projections [*sportafore*] of the mouldings be equal to their heights"), which places the outer profile of the cornice along a :math:`45^{\circ}` diagonal line!
+
+Cap. XVII — On the Site of the Triglyphs and the Union of All the Preceding Parts in the Temple Portal Called *Porta Speciosa* (Plate 0185).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Plate Referenced**: Folio 0185 (``0185.rst``, ``0185.g1.png``) is the magnificent full-page woodcut inscribed ``PORTA TEMPLI DOMINI DICTA SPECIOSA`` ("The Gate of the Lord's Temple Called Beautiful", referencing Acts 3:2 and Ezekiel 40–41), showing the complete portal elevation flanked by Corinthian/composite columns on tall stylobates supporting the three-fascia epistyle, carved frieze, dentil cornice, and triangular pediment.
+- **Pacioli Day and Night at Paganino de' Paganini's Printing Presses (May 1509)**: Notice Pacioli's vivid snapshot on Folio 0079 (``f. 32r``): *"Però che de continuo dì e nocte me conviene in su li torcoli e lor calcographi a governar l'opere nostre con tutta diligentia comme se richiede"*—standing day and night beside Paganini's presses and woodcutters in Venice in May 1509 as both the Latin :person:`*Euclid* <euclid>` and *De Divina Proportione* were being printed!

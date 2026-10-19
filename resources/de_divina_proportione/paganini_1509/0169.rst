@@ -13,4 +13,4 @@ Folio 0169 (Plate Folio 0169 (recto)) — Roman Geometric Alphabet — Lettera P
 .. picture:: 0169.g1.png
    :alt: Folio 0169 Tavola g1
 
-Questa lettera P si cava del tondo e del suo quadro. La sua gamba grossa vol esser de le nove parti luna. La forma del tondo vol esser grande comme quella del B da basso, e la sua grosseza de la pancia vol esser tanto quanto la gamba grossa e si vol principiar ditta lettera da le crociere del tondo grande cioè da le intersecationi de li diametri et sic erit perfectissima.
+Questa lettera P si cava del tondo e del suo quadro. La sua :term:`gamba grossa <gamba-grossa>` vol esser de le nove parti luna. La forma del tondo vol esser grande comme quella del B da basso, e la sua grosseza de la pancia vol esser tanto quanto la :term:`gamba grossa <gamba-grossa>` e si vol principiar ditta lettera da le crociere del tondo grande cioè da le intersecationi de li diametri et sic erit perfectissima.

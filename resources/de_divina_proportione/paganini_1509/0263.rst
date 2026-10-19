@@ -16,5 +16,5 @@ Folio 0263 (Plate Folio 0263 (recto)) — Tabula XXXVII — Vigintisex Basium Ab
 Tabula XXXVII (No. 37)
 ----------------------
 
-- **Titulus Latinus**: *Vigintisex Basium Abscisum Elevatum Solidum*
-- **Titulus Graecus**: Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν
+- **Titulus Latinus**: :term:`*Vigintisex Basium Abscisum Elevatum Solidum* <vigintisex-basium>`
+- **Titulus Graecus**: :term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἀποτετμημένον <abscisum>` :term:`ἐπηρμένον <elevatum>` :term:`στερεόν <solidum>`

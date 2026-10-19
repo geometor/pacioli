@@ -13,4 +13,4 @@ Folio 0163 (Plate Folio 0163 (recto)) — Roman Geometric Alphabet — Lettera N
 .. picture:: 0163.g1.png
    :alt: Folio 0163 Tavola g1
 
-Questa lettera N se cava del suo tondo et etiam quadro. La prima gamba vol esser fora de la intersecatione de li diametri. La traversa de mezo vol esser grossa de le nove parti luna presa diametraliter. La terza gamba vol esser fora de la crociera. Prima gamba et ultima vogliano esser grosse la mita de la gamba grossa cioè duna testa.
+Questa lettera N se cava del suo tondo et etiam quadro. La prima gamba vol esser fora de la intersecatione de li diametri. La traversa de mezo vol esser grossa de le nove parti luna presa diametraliter. La terza gamba vol esser fora de la crociera. Prima gamba et ultima vogliano esser grosse la mita de la :term:`gamba grossa <gamba-grossa>` cioè duna testa.

@@ -4,9 +4,9 @@ Folio 0293 (Plate Folio 0293 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0292.rst``): Folio Plate Folio 0292 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0292)
-- **Current Folio** (``0293.rst``): Folio Plate Folio 0293 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate LI — Pyramis Laterata Penthagona Solida (Solid Pentagonal Pyramid)
-- **Following Folio** (``0294.rst``): Folio Plate Folio 0294 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0294)
+- **Preceding Folio** (``0292.rst``): Folio Plate Folio 0292 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0292)
+- **Current Folio** (``0293.rst``): Folio Plate Folio 0293 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate LI — Pyramis Laterata Penthagona Solida (Solid Pentagonal Pyramid)
+- **Following Folio** (``0294.rst``): Folio Plate Folio 0294 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0294)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0293 (recto)`` (Scan page ``293``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``LI`` (Plate No. ``51``) | Latin Cartouche: *Pyramis Laterata Penthagona Solida* | Greek Cartouche: Πυραμὶς πλευρώδης πεντάγωνος στερεά
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``LI`` (Plate No. ``51``) | Latin Cartouche: *Pyramis Laterata Penthagona Solida* | Greek Cartouche: :term:`Πυραμὶς πλευρώδης πεντάγωνος <pyramide-pentagona>` στερεά

@@ -4,9 +4,9 @@ Folio 0041 (f. 13r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0040.rst``): Folio f. 12v (verso), Part I: Compendio de Divina Proportione — Cap. XXXI, Cap. XXXII, Cap. XXXIII (f. 12v) — A trouar li lati de tutti 5 corpi regulari.
-- **Current Folio** (``0041.rst``): Folio f. 13r (recto), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. XXXIII, Cap. XXXIV, Cap. XXXV, Cap. XXXVI, Cap. XXXVII (f. 13r) — Dela proportione de tutte loro superficie lune alaltre.
-- **Following Folio** (``0042.rst``): Folio f. 13v (verso), Part I: Compendio de Divina Proportione — Cap. XXXVIII, Cap. XXXIX, Cap. XL, Cap. XLI, Cap. XLII, Cap. XLIII, Cap. XLIV (f. 13v) — Dela inscriptione del tetracedron in loctocedron.
+- **Preceding Folio** (``0040.rst``): Folio f. 12v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XXXI, Cap. XXXII, Cap. XXXIII (f. 12v) — A trouar li lati de tutti 5 :term:`corpi regulari <corpi-regulari>`.
+- **Current Folio** (``0041.rst``): Folio f. 13r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. XXXIII, Cap. XXXIV, Cap. XXXV, Cap. XXXVI, Cap. XXXVII (f. 13r) — Dela proportione de tutte loro superficie lune alaltre.
+- **Following Folio** (``0042.rst``): Folio f. 13v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XXXVIII, Cap. XXXIX, Cap. XL, Cap. XLI, Cap. XLII, Cap. XLIII, Cap. XLIV (f. 13v) — Dela inscriptione del :term:`tetracedron <tetrahedron>` in loctocedron.
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -23,10 +23,59 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PRIMA``
 - **Folio Signature / Numeration**: ``f. 13r`` (Scan page ``41``, *recto*)
-- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. XXXIII** (``compendio/cap_33``): Continuatio (continues from preceding folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/033_cap_XXXIII.txt``
-  - **Cap. XXXIV** (``compendio/cap_34``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/034_cap_XXXIV.txt``
-  - **Cap. XXXV** (``compendio/cap_35``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/035_cap_XXXV.txt``
-  - **Cap. XXXVI** (``compendio/cap_36``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/036_cap_XXXVI.txt``
-  - **Cap. XXXVII** (``compendio/cap_37``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/037_cap_XXXVII.txt``
+  - **Cap. XXXIII** (``compendio/cap_33``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/033_cap_XXXIII.txt``
+  - **Cap. XXXIV** (``compendio/cap_34``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/034_cap_XXXIV.txt``
+  - **Cap. XXXV** (``compendio/cap_35``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/035_cap_XXXV.txt``
+  - **Cap. XXXVI** (``compendio/cap_36``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/036_cap_XXXVI.txt``
+  - **Cap. XXXVII** (``compendio/cap_37``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/037_cap_XXXVII.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. XXXIII — On the Proportion of the Surfaces and Solid Volumes of All the Regular Bodies to One Another.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Dual Pairs Sharing Inspheres**: :person:`Campanus <campanus>`'s additions to Book XIV highlight one of the deepest symmetries in solid geometry: when all five Platonic solids are inscribed in the same sphere of radius :math:`R = \frac{1}{2}D`, dual solids share the **exact same insphere radius** :math:`r_{\text{in}}` and the **exact same face circumradius** :math:`\rho`:
+  - **Cube (6 faces) & Octahedron (8 faces)**: :math:`r_{\text{in}} = \frac{R}{\sqrt{3}}`, :math:`\rho = R\sqrt{\frac{2}{3}}`.
+  - :term:`**Dodecahedron (12 faces) & Icosahedron (20 faces)** <dodecahedron>`: :math:`r_{\text{in}} = R\sqrt{\frac{5+2\sqrt{5}}{15}}`, :math:`\rho = R\sqrt{\frac{10-2\sqrt{5}}{15}}`.
+  - :term:`**Tetrahedron (self-dual, 4 faces)** <tetrahedron>`: :math:`r_{\text{in}} = \frac{1}{3}R`, :math:`\rho = R\frac{2\sqrt{2}}{3}`.
+- Because :math:`V = \frac{1}{3} r_{\text{in}} \cdot A`, any two dual regular solids inscribed in the same sphere have :math:`V_{1} : V_{2} = A_{1} : A_{2}`.
+
+Cap. XXXIV — On the Inscriptions of the Five Regular Bodies in One Another, How Many There Are in All, and Why.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Book XV in the Campanus Tradition**: While the Greek *Elements* Book XV (compiled in the circle of :person:`Isidore <isidore>` of Miletus, 6th century CE) contained only a handful of simple inscriptions (:term:`Tetrahedron <tetrahedron>` in Cube, :term:`Octahedron <octahedron>` in :term:`Tetrahedron <tetrahedron>`, :term:`Octahedron <octahedron>` in Cube, Cube in :term:`Octahedron <octahedron>`, :term:`Dodecahedron <dodecahedron>` in :term:`Icosahedron <icosahedron>`), :person:`**Campanus of Novara** <campanus>` (c. 1259) expanded Book XV into a systematic sequence of 13 propositions covering 12 polyhedral inscriptions (XV.1–12) plus the inscription of the sphere in all five regular solids (XV.13).
+- **Structure of Chapters XXXV–XLVII**: Pacioli devotes ``Cap. XXXV`` through ``Cap. XLVII`` to translating and explaining :person:`Campanus <campanus>`'s Book XV propositions one by one, accompanied by marginal woodcuts on Folios ``0038``–``0041``.
+
+Cap. XXXV — How the Octocedron Is Formed and Inscribed in the Tetracedron.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Marginal Diagram**: Folio 0038 (``f. 11v``) shows diagram ``0038.g1.png`` with the :term:`tetrahedron <tetrahedron>` :math:`abcd` and the midpoint :term:`octahedron <octahedron>` inscribed inside it.
+- **Connection to Rectification (*Abscission*)**: This inscription is the exact geometric foundation of the **truncated tetrahedron** (*:term:`tetracedron <tetrahedron>` absciso*, Plate III, ``Cap. XLVIII``): cutting the tetrahedron one-third of the way along each edge yields the semi-regular truncated tetrahedron, whereas cutting all the way to the midpoints (rectification) yields the regular *:term:`*octahedron* <octahedron>`*! Furthermore, since the 4 corner tetrahedra each have edge :math:`\frac{1}{2}a_{4}` (hence volume :math:`\frac{1}{8}V_{\text{tetra}}`), the remaining central octahedron of edge :math:`\frac{1}{2}a_{4}` has volume :math:`V_{\text{tetra}} - 4\left(\frac{1}{8}V_{\text{tetra}}\right) = \frac{1}{2}V_{\text{tetra}}`, proving immediately that an octahedron of edge :math:`s` has **four times** the volume of a :term:`tetrahedron <tetrahedron>` of the same edge :math:`s`!
+
+Cap. XXXVI — How the Tetracedron Is Placed in the Cube.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Johannes Kepler's *:term:`Stella Octangula <octahedron-elevatum>`* and the Volume Ratio**: Slicing away the four right-angled corner pyramids (:math:`abcf`, :math:`acdh`, :math:`aefh`, :math:`cfgh`) from the cube of side :math:`s` leaves the regular tetrahedron :math:`afch` of edge :math:`s\sqrt{2}`. Since each corner pyramid has three mutually perpendicular legs of length :math:`s` and therefore volume :math:`\frac{1}{6}s^{3}`, the four corner pyramids have total volume :math:`4 \times \frac{1}{6}s^{3} = \frac{2}{3}s^{3}`, leaving **one-third** of the cube's volume (:math:`\frac{1}{3}s^{3}`) for the inscribed :term:`tetrahedron <tetrahedron>`!
+
+Cap. XXXVII — How the Octocedron Is Placed in the Cube.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Duality of Cube and Octahedron**: :cite:`Campanus XV.3 <campanus:euclid:XV.3>` (``Cap. XXXVII``) and XV.4 (``Cap. XXXVIII``) establish the reciprocal duality between the cube (6 faces, 8 vertices, 12 edges) and the :term:`octahedron <octahedron>` (8 faces, 6 vertices, 12 edges): the centers of the 6 faces of the cube are the 6 vertices of the inscribed :term:`octahedron <octahedron>`, with :math:`s_{\text{octa}} = \frac{\sqrt{2}}{2} s_{\text{cube}}`.

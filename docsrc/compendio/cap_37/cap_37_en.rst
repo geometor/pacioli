@@ -14,11 +14,11 @@ CHAPTER XXXVII (English)
 .. folio:: 0041 (f. 13r)
    :initial: 0041.c1.png
 
-The third proposition of the fifteenth book (Campanus XV.3) shows how to inscribe the **octocedron** (8 triangular bases) inside the **cube** (6 square bases).
+The third proposition of the fifteenth book (:cite:`Campanus XV.3 <campanus:euclid:XV.3>`) shows how to inscribe the :term:`**octocedron** <octahedron>` (8 triangular bases) inside the **cube** (6 square bases).
 
 .. enunciation:: Inscribing the Octahedron in the Cube (Campanus XV.3)
 
-   In a given cube (*exacedron*), to inscribe the regular body of eight equilateral triangular bases (*octocedron*) so that the six solid angles of the octocedron stand at the centers of the six square faces of the cube.
+   In a given cube (:term:`*exacedron* <exahedron>`), to inscribe the regular body of eight equilateral triangular bases (:term:`*octocedron* <octahedron>`) so that the six :term:`solid angles <angulo-solido>` of the :term:`octocedron <octahedron>` stand at the centers of the six square faces of the cube.
 
 .. assertion:: Construction and Proof (:just:`IV.6`, :just:`I.47`, :just:`XI.10`)
 
@@ -33,6 +33,6 @@ The third proposition of the fifteenth book (Campanus XV.3) shows how to inscrib
 
       Thus all twelve edges are mutually equal, all eight triangular faces are equilateral, and the six vertices :math:`k, l, m, n, o, p` touch the six centers of the faces of the cube.
 
-Therefore the regular octocedron is inscribed in the cube, and the square on the edge of the cube is **double** (:math:`2 : 1`) the square on the edge of the octocedron inscribed in it (so the edge of the inscribed octocedron equals **half the face diagonal** of the cube).
+Therefore the regular :term:`octocedron <octahedron>` is inscribed in the cube, and the square on the edge of the cube is **double** (:math:`2 : 1`) the square on the edge of the :term:`octocedron <octahedron>` inscribed in it (so the edge of the inscribed :term:`octocedron <octahedron>` equals **half the face diagonal** of the cube).
 
 .. qed::

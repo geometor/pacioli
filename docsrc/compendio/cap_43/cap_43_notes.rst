@@ -14,7 +14,7 @@ CHAPTER XLIII — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Paganini 1509 Marginal Diagram**: Folio 0040 (``f. 12v``) displays diagram ``0040.g3.png`` illustrating the pentagonal faces of the dodecahedron and the equilateral triangles connecting their centers.
+- **Paganini 1509 Marginal Diagram**: Folio 0040 (``f. 12v``) displays diagram ``0040.g3.png`` illustrating the pentagonal faces of the :term:`dodecahedron <dodecahedron>` and the equilateral triangles connecting their centers.
 
 Philological and Folio Apparatus
 --------------------------------

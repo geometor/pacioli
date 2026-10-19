@@ -15,7 +15,7 @@ Historical and Philological Commentary
 --------------------------------------
 
 1. ***Restorare e rempire* (*al-jabr*)**: Notice Pacioli's technical use of the verb *restorare* ("to restore"): adding $+5$ cancels the subtracted $-5$ in $\sqrt{125} - 5$, which is the literal meaning of the Arabic *al-jabr* (*restauratio*, restoring a deficient or subtracted quantity).
-2. **Correlation with Euclid :just:`XIII.1`**: Algebraically, since $a = \sqrt{5\left(\frac{a+b}{2}\right)^2} - \frac{a+b}{2}$, adding $\frac{a+b}{2}$ immediately isolates $\sqrt{5}\left(\frac{a+b}{2}\right)$, whose square is $5\left(\frac{a+b}{2}\right)^2$. Thus Pacioli illuminates why Euclid begins Book XIII with :just:`XIII.1`: it is the geometric equivalent of completing the square on the golden ratio quadratic equation.
+2. **Correlation with Euclid Euclid XIII.1**: Algebraically, since $a = \sqrt{5\left(\frac{a+b}{2}\right)^2} - \frac{a+b}{2}$, adding $\frac{a+b}{2}$ immediately isolates $\sqrt{5}\left(\frac{a+b}{2}\right)$, whose square is $5\left(\frac{a+b}{2}\right)^2$. Thus Pacioli illuminates why :person:`Euclid <euclid>` begins Book XIII with :cite:`Euclid XIII.1 <euclid:elements:XIII.1>`: it is the geometric equivalent of completing the square on the golden ratio quadratic equation.
 
 Philological and Folio Apparatus
 --------------------------------

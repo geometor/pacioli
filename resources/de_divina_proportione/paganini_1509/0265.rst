@@ -16,5 +16,5 @@ Folio 0265 (Plate Folio 0265 (recto)) — Tabula XXXVIII — Vigintisex Basium A
 Tabula XXXVIII (No. 38)
 -----------------------
 
-- **Titulus Latinus**: *Vigintisex Basium Abscisum Elevatum Vacuum*
-- **Titulus Graecus**: Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον κενόν
+- **Titulus Latinus**: :term:`*Vigintisex Basium Abscisum Elevatum Vacuum* <vigintisex-basium>`
+- **Titulus Graecus**: :term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἀποτετμημένον <abscisum>` :term:`ἐπηρμένον <elevatum>` :term:`κενόν <vacuum>`

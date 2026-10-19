@@ -4,9 +4,9 @@ Folio 0189 (Plate Folio 0189 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0188.rst``): Folio Plate Folio 0188 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0188)
-- **Current Folio** (``0189.rst``): Folio Plate Folio 0189 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate II — Tetrahedron Planum Vacuum (Hollow Regular Tetrahedron)
-- **Following Folio** (``0190.rst``): Folio Plate Folio 0190 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0190)
+- **Preceding Folio** (``0188.rst``): Folio Plate Folio 0188 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0188)
+- **Current Folio** (``0189.rst``): Folio Plate Folio 0189 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate II — :term:`Tetrahedron <tetrahedron>` :term:`Planum <planum>` :term:`Vacuum <vacuum>` (Hollow Regular :term:`Tetrahedron <tetrahedron>`)
+- **Following Folio** (``0190.rst``): Folio Plate Folio 0190 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0190)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0189 (recto)`` (Scan page ``189``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``II`` (Plate No. ``2``) | Latin Cartouche: *Tetrahedron Planum Vacuum* | Greek Cartouche: Τετράεδρον ἐπίπεδον κενόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``II`` (Plate No. ``2``) | Latin Cartouche: :term:`*Tetrahedron Planum Vacuum* <tetrahedron>` | Greek Cartouche: :term:`Τετράεδρον <tetrahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`

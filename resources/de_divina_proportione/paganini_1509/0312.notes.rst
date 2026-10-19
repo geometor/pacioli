@@ -4,7 +4,7 @@ Folio 0312 (End Matter 0312 (verso)) — Transcription & Graphic Calibration Not
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0311.rst``): Folio End Matter 0311 (recto) (recto), End Matter and Colophon — Arbor Proportio et Proportionalitas
+- **Preceding Folio** (``0311.rst``): Folio End Matter 0311 (recto) (recto), End Matter and Colophon — :term:`Arbor Proportio et Proportionalitas <arbor-proportionis>`
 - **Current Folio** (``0312.rst``): Folio End Matter 0312 (verso) (verso), End Matter and Colophon [``06_end_matter``] — Endleaf (0312)
 - **Following Folio** (``0313.rst``): Folio End Matter 0313 (recto) (recto), End Matter and Colophon — Endleaf (0313)
 

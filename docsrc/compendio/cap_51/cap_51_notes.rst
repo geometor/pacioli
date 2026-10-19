@@ -15,12 +15,12 @@ Historical & Mathematical Commentary
 ------------------------------------
 
 - **Paganini 1509 Plates Referenced**:
-  - **Plate XIX** (``0229.rst``): *Ycocedron Planum Solidum* (Icosahedron, solid).
-  - **Plate XX** (``0231.rst``): *Ycocedron Planum Vacuum* (Icosahedron, skeletal).
-  - **Plate XXI** (``0233.rst``): *Ycocedron Abscisum Solidum* (**Truncated Icosahedron**, Archimedean solid :math:`(5.6^2)` of 12 pentagons and 20 hexagons, solid).
-  - **Plate XXII** (``0235.rst``): *Ycocedron Abscisum Vacuum* (Truncated Icosahedron, skeletal).
-  - **Plate XXIII** (``0237.rst``): *Ycocedron Elevatum Solidum* (Elevated/cumulated Icosahedron of 60 triangular faces, solid).
-  - **Plate XXIV** (``0239.rst``): *Ycocedron Elevatum Vacuum* (Elevated Icosahedron, skeletal).
+  - **Plate XIX** (``0229.rst``): :term:`*Ycocedron Planum Solidum* <icosahedron>` (:term:`Icosahedron <icosahedron>`, solid).
+  - **Plate XX** (``0231.rst``): :term:`*Ycocedron Planum Vacuum* <icosahedron>` (:term:`Icosahedron <icosahedron>`, skeletal).
+  - **Plate XXI** (``0233.rst``): :term:`*Ycocedron Abscisum Solidum* <icosahedron>` (**Truncated Icosahedron**, Archimedean solid :math:`(5.6^2)` of 12 pentagons and 20 hexagons, solid).
+  - **Plate XXII** (``0235.rst``): :term:`*Ycocedron Abscisum Vacuum* <icosahedron>` (Truncated :term:`Icosahedron <icosahedron>`, skeletal).
+  - **Plate XXIII** (``0237.rst``): :term:`*Ycocedron Elevatum Solidum* <icosahedron>` (Elevated/cumulated :term:`Icosahedron <icosahedron>` of 60 triangular faces, solid).
+  - **Plate XXIV** (``0239.rst``): :term:`*Ycocedron Elevatum Vacuum* <icosahedron>` (Elevated :term:`Icosahedron <icosahedron>`, skeletal).
 
 Philological and Folio Apparatus
 --------------------------------

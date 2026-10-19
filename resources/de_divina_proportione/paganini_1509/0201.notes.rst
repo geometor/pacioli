@@ -4,9 +4,9 @@ Folio 0201 (Plate Folio 0201 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0200.rst``): Folio Plate Folio 0200 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0200)
-- **Current Folio** (``0201.rst``): Folio Plate Folio 0201 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate VIII — Exahedron Planum Vacuum (Hollow Regular Hexahedron (Cube))
-- **Following Folio** (``0202.rst``): Folio Plate Folio 0202 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0202)
+- **Preceding Folio** (``0200.rst``): Folio Plate Folio 0200 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0200)
+- **Current Folio** (``0201.rst``): Folio Plate Folio 0201 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate VIII — :term:`Exahedron <exahedron>` :term:`Planum <planum>` :term:`Vacuum <vacuum>` (Hollow Regular :term:`Hexahedron <exahedron>` (Cube))
+- **Following Folio** (``0202.rst``): Folio Plate Folio 0202 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0202)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0201 (recto)`` (Scan page ``201``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``VIII`` (Plate No. ``8``) | Latin Cartouche: *Exahedron Planum Vacuum* | Greek Cartouche: Ἑξάεδρον ἐπίπεδον κενόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``VIII`` (Plate No. ``8``) | Latin Cartouche: :term:`*Exahedron Planum Vacuum* <exahedron>` | Greek Cartouche: :term:`Ἑξάεδρον <exahedron>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`

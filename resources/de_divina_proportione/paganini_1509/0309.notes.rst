@@ -4,9 +4,9 @@ Folio 0309 (Plate Folio 0309 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0308.rst``): Folio Plate Folio 0308 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0308)
-- **Current Folio** (``0309.rst``): Folio Plate Folio 0309 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate LIX (printed LXI) — Sphera Solida (Solid Sphere)
-- **Following Folio** (``0310.rst``): Folio Plate Folio 0310 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0310)
+- **Preceding Folio** (``0308.rst``): Folio Plate Folio 0308 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0308)
+- **Current Folio** (``0309.rst``): Folio Plate Folio 0309 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate LIX (printed LXI) — Sphera Solida (Solid Sphere)
+- **Following Folio** (``0310.rst``): Folio Plate Folio 0310 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0310)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0309 (recto)`` (Scan page ``309``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``LIX (printed LXI)`` (Plate No. ``59``) | Latin Cartouche: *Sphera Solida* | Greek Cartouche: Σφαῖρα στερεά
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``LIX (printed LXI)`` (Plate No. ``59``) | Latin Cartouche: *Sphera Solida* | Greek Cartouche: :term:`Σφαῖρα <spera>` στερεά

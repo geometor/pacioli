@@ -16,4 +16,26 @@ Folio 0014 (A5v) — Tabula — Tabula (A5v)
 .. picture:: 0014.g2.png
    :alt: Folio 0014 Tavola g2
 
-e 24 etc.
+Cap. XLVIII. Dela forma edispositione del :term:`tetracedron <tetrahedron>` piano solido o ver vacuo edelo absciso piano solido o ver vacuo edelo eleuato solido a ver vacuo.
+
+Cap. XLIX. Dela qualità delo :term:`exacedron <exahedron>` piano solido o ver vacuo e absciso piano solido o ver vacuo edelo eleuato solido o ver vacuo.
+
+Cap. L. Dela dispositione deloctocedron piano solido o ver vacuo e absciso solido o ver vacuo edelo eleuato solido over vacuo.
+
+Cap. LI. Dela descriptione delo :term:`ycocedron <icosahedron>` piano solido o ver vacuo e absciso solido o ver vacuo edelo eleuato solido o ver vacuo.
+
+Cap. LII. Dela qualità e forma del :term:`duodecedron <dodecahedron>` piano solido o ver vacuo o absciso solido o ver vacuo edelo eleuato solido o ver vacuo e sua origine e dependentia.
+
+Cap. LIII. Dela formatione e origine del corpo del 26 basi piano solido o ver vacuo edelo eleuato solido o ver vacuo.
+
+Cap. LIV. Commo se formi el corpo de 72. besi. Commo dela forma de questo molto sene seruano li archithecti in lorohedifitii. Commo molti moderni per abusione sonno chiamati archithecti per la loro ignoranza deuiando dali antichi auctori «laxime da victruuio, — Motiuo ducale de sua celsitudine a confusione delignoranti. — Letitia grande de pyctagora quando trouo la proportione deli doi lati continenti langol recto.
+
+Cap. LV. Del modo asaper formare più corpi material oltra li predicti e commo lor forme procedano in infinito. Perche ragione :person:`Platone <plato>` atribui le forme deli 5 :term:`corpi regulari <corpi-regulari>` ali 5 corpi semplici cioè aterra aqua aieri fuoco e cielo. — Galcidio :person:`Apuleio <apuleius>` emacrobio. — Commo la :term:`spera <spera>` non se exclude dela regularira auenga che in lei non sienno lati e anguli.
+
+Cap. LVI. Del corpo sperico la sua formatione.
+
+Cap. LVII. Commo in la :term:`spera <spera>` se collochino tutti li 5 :term:`corpi regulari <corpi-regulari>`. — Commo el lapicida hauesse afare de pietra o altra materia dicti :term:`corpi regulari <corpi-regulari>`. — Honesto e scientifico solazzo e argumento contro falsi millantatori. Diuersa aparentia in longhezza de doi linee recte equali poste inanze gliochi. — Gaso de lauctore in roma apiacere dela felice memoria delo Illustre conte Gironimo ala presentia de Magistro melozzo pletore in la fabrica del suo palazzo. — Argumento exemplare contra dicti falsi millantatori de :person:`Hierone <hiero>` e :person:`Simonide <simonides>` poeta.
+
+Cap. LVIIl. Deli corpi oblonghi cioè più longhi o ver alti che larghi commo sonno colonne e lor pyramidi. Dele doi sorti principali de colonne in genere. — Che sienno :term:`colonne laterate <colonna-laterata>` e che rotonde.
+
+Cap. LIX. Dele :term:`colonne laterate <colonna-laterata>` triangule. — Che cosa sia :term:`corpo seratile <corpo-seratile>`.

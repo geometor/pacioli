@@ -16,5 +16,5 @@ Folio 0231 (Plate Folio 0231 (recto)) — Tabula XXI — Icosahedron Planum Soli
 Tabula XXI (No. 21)
 -------------------
 
-- **Titulus Latinus**: *Icosahedron Planum Solidum*
-- **Titulus Graecus**: Εἰκοσάεδρον ἐπίπεδον στερεόν
+- **Titulus Latinus**: :term:`*Icosahedron Planum Solidum* <icosahedron>`
+- **Titulus Graecus**: :term:`Εἰκοσάεδρον <icosahedron>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`

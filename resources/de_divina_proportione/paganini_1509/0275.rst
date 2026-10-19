@@ -16,5 +16,5 @@ Folio 0275 (Plate Folio 0275 (recto)) — Tabula XLIII — Pyramis Laterata Tria
 Tabula XLIII (No. 43)
 ---------------------
 
-- **Titulus Latinus**: *Pyramis Laterata Triangula Solida*
-- **Titulus Graecus**: Πυραμὶς πλευρώδης τρίγωνος στερεά
+- **Titulus Latinus**: :term:`*Pyramis Laterata Triangula Solida* <pyramide-triangula>`
+- **Titulus Graecus**: :term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` στερεά

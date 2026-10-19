@@ -4,9 +4,9 @@ Folio 0302 (Plate Folio 0302 (verso)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0301.rst``): Folio Plate Folio 0301 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate LV — Pyramis Laterata Triangula Inaequilatera Solida (Solid Scalene Triangular Pyramid)
-- **Current Folio** (``0302.rst``): Folio Plate Folio 0302 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Polyhedra Plate Verso (0302)
-- **Following Folio** (``0303.rst``): Folio Plate Folio 0303 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci — Plate LVI — Pyramis Laterata Triangula Inaequilatera Vacua (Hollow Scalene Triangular Pyramid)
+- **Preceding Folio** (``0301.rst``): Folio Plate Folio 0301 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate LV — :term:`Pyramis Laterata Triangula <pyramide-triangula>` Inaequilatera Solida (Solid Scalene Triangular Pyramid)
+- **Current Folio** (``0302.rst``): Folio Plate Folio 0302 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Polyhedra Plate Verso (0302)
+- **Following Folio** (``0303.rst``): Folio Plate Folio 0303 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Plate LVI — :term:`Pyramis Laterata Triangula <pyramide-triangula>` Inaequilatera Vacua (Hollow Scalene Triangular Pyramid)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,5 +18,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0302 (verso)`` (Scan page ``302``, *verso*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
 - **Leaf Category**: Polyhedra Plate Verso (0302)

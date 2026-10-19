@@ -4,9 +4,9 @@ Folio 0259 (Plate Folio 0259 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0258.rst``): Folio Plate Folio 0258 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0258)
-- **Current Folio** (``0259.rst``): Folio Plate Folio 0259 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate XXXV — Vigintisex Basium Planum Solidum (Solid 26-Base Body (Rhombicuboctahedron))
-- **Following Folio** (``0260.rst``): Folio Plate Folio 0260 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0260)
+- **Preceding Folio** (``0258.rst``): Folio Plate Folio 0258 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0258)
+- **Current Folio** (``0259.rst``): Folio Plate Folio 0259 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate XXXV — :term:`Vigintisex Basium <vigintisex-basium>` :term:`Planum <planum>` :term:`Solidum <solidum>` (Solid 26-Base Body (:term:`Rhombicuboctahedron <vigintisex-basium>`))
+- **Following Folio** (``0260.rst``): Folio Plate Folio 0260 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0260)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0259 (recto)`` (Scan page ``259``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``XXXV`` (Plate No. ``35``) | Latin Cartouche: *Vigintisex Basium Planum Solidum* | Greek Cartouche: Εἰκοσιεξάεδρον ἐπίπεδον στερεόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``XXXV`` (Plate No. ``35``) | Latin Cartouche: :term:`*Vigintisex Basium Planum Solidum* <vigintisex-basium>` | Greek Cartouche: :term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`

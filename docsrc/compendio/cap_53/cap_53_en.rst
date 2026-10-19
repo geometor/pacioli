@@ -14,7 +14,7 @@ CHAPTER LIII (English)
 .. folio:: 0046–0047 (f. 15v–f. 16r)
    :initial: 0046.c1.png
 
-Beyond the immediate truncations and elevations of the five regular bodies, another most noble and useful dependent body is generated from the **cube**, called the **Vigintisex Basium** (the **Body of Twenty-Six Bases**, modern **rhombicuboctahedron**), shown both plain and elevated in :ref:`Plates XXXV–XXXVIII <plates-polyhedra-en>`.
+Beyond the immediate truncations and elevations of the five regular bodies, another most noble and useful dependent body is generated from the **cube**, called the :term:`**Vigintisex Basium** <vigintisex-basium>` (the **Body of Twenty-Six Bases**, modern :term:`**rhombicuboctahedron** <vigintisex-basium>`), shown both plain and elevated in :ref:`Plates XXXV–XXXVIII <plates-polyhedra-en>`.
 
 .. rubric:: 1. The Twenty-Six-Base Body (*Vigintisex Basium*) — Solid (Plate XXXV) and Hollow (Plate XXXVI)
 
@@ -23,7 +23,7 @@ Beyond the immediate truncations and elevations of the five regular bodies, anot
   - Imagine a cube whose 6 square faces are cut parallel to its 12 edges at an equal depth on every face so that:
     1. In the middle of each of the **6 original square faces** of the cube there remains an inner **square** (*6 original squares*).
     2. Along each of the **12 bevelled edges** of the cube, where two adjacent square faces met at right angles, there is formed a new **square** inclined equally (:math:`45^{\circ}`) to both adjacent faces (*12 edge squares*).
-    3. At each of the **8 sliced-off corners** (solid angles) of the cube, where three bevelled edges meet, there is formed an **equilateral triangle** whose three sides are the ends of those three edge-squares (*8 corner equilateral triangles*).
+    3. At each of the **8 sliced-off corners** (:term:`solid angles <angulo-solido>`) of the cube, where three bevelled edges meet, there is formed an **equilateral triangle** whose three sides are the ends of those three edge-squares (*8 corner equilateral triangles*).
   - Thus the whole body is bounded by **26 equilateral and equiangular plane bases** in all:
     - **18 equal squares** (:math:`6 + 12 = 18`);
     - **8 equal equilateral triangles**;

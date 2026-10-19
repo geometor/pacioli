@@ -13,10 +13,10 @@ Folio 0213 (Plate Folio 0213 (recto)) — Architectural Plate — Colonna Corint
 .. picture:: 0213.g1.png
    :alt: Folio 0213 Tavola g1
 
-Colonna detta Corinta respecto al Capitello, Abaco e Cimasa; Jonica e Pulvinata quanto ala Basa e in capitello come apieno nel suo libro Vitruvio expone de tutte.
+Colonna detta Corinta respecto al :term:`Capitello <capitello>`, :term:`Abaco <abaco>` e Cimasa; Jonica e :term:`Pulvinata <pulvinata>` quanto ala Basa e in :term:`capitello <capitello>` come apieno nel suo libro :person:`Vitruvio <vitruvius>` expone de tutte.
 
 Per la importantia e varietà di questi nomi ala tavola ordinata nel principio del libro recorri e quella te mandara al suo capitulo. Dove apieno intenderai lor differentia antica e moderna etc.
 
 Benche tre sieno le sorti principali de le colonne dali antichi celebrate cioè Jonica, Dorica e Corinta: Non di meno molte altre più oltra speculando sonno dali pratici retrovate alochio vaghe e a li hedificii bastanti ale quali ancora non ben a pieno fia el nome assegnato cioè nel domo de Pisa e in Firence San Spirito e San Lorenzo digno patronato de la casa di Medici.
 
-Questo Vitruvio lo chiama Stillobata e da li Moderni fia detto Pilastrello overo basamento. El fundamento soto terra fin al suo piano largo quanto sua basa fia detto Steriobata.
+Questo :person:`Vitruvio <vitruvius>` lo chiama Stillobata e da li Moderni fia detto :term:`Pilastrello <stilobata>` overo :term:`basamento <stilobata>`. El fundamento soto terra fin al suo piano largo quanto sua basa fia detto :term:`Steriobata <steriobata>`.

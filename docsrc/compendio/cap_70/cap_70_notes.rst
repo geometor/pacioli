@@ -14,7 +14,7 @@ CHAPTER LXX — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Pacioli's Physical Polyhedra Models (*Forme Materiali*)**: ``Cap. LXX`` gives us a precious physical description of the sets of **60 three-dimensional models** that Pacioli constructed with his own hands (as he also notes in ``Architectura Cap. VI``, Folio 0072: one set of 60 for Duke Ludovico Sforza, one set for Galeazzo Sanseverino, and a third set in Florence for Gonfaloniere Piero Soderini):
+- **Pacioli's Physical Polyhedra Models (*Forme Materiali*)**: ``Cap. LXX`` gives us a precious physical description of the sets of **60 three-dimensional models** that Pacioli constructed with his own hands (as he also notes in ``Architectura Cap. VI``, Folio 0072: one set of 60 for Duke :person:`Ludovico Sforza <ludovico-sforza>`, one set for :person:`Galeazzo Sanseverino <galeazzo-sanseverino>`, and a third set in Florence for Gonfaloniere :person:`Piero Soderini <piero-soderini>`):
   - Each polyhedron was suspended from a cord (*cordiglio*);
   - Attached to the cord between **two black amber (jet) beads** (*fra doi ambre negre*) was a small parchment label (*vn breve*) bearing the Roman numeral (``I``–``LX``) and the body's name in **Greek and Latin** (identical to the cartouches printed on Leonardo's woodcut plates!).
 

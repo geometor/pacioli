@@ -19,4 +19,28 @@ Folio 0015 (A6r) — Tabula — Tabula (A6r)
 .. picture:: 0015.c1.png
    :alt: Folio 0015 Capolettera c1
 
-e fia finito el caso seque el principio de laltra colonna
+Cap. LX. Dele :term:`colonne laterate <colonna-laterata>` quadrilatere. — Dela diuersita delor basi equali sienno le principali figure quadrilatere regulari cioè quadrato :term:`tetragono longo <tetragono-longo>` :term:`elmuhaym <elmuhaym>` e altre elumariffe o vero irregulari o sienno equilatere o inequilatere.
+
+Cap. LXI. Dele :term:`colonne laterate <colonna-laterata>` pentagone cioè de 5 facce osienno equilatere o inequilatere. Commo le spetie dele :term:`colonne laterate <colonna-laterata>` possano in infinito accrescere si commo le figure rectilinee delor basi.
+
+Cap. LXII. Del modo amesurare tutte sorte colonne e prima dele rotonde con exempli. — Perche ala :term:`quadratura del cerchio <quadratura-del-cerchio>` si prenda li 11/14, cioè li vndici quatuordecimi del quadrato del suo diametro.
+
+Cap. LXIII. Del modo amesurare tutte sorte :term:`colonne laterate <colonna-laterata>` e loro exempli.
+
+Cap. LXIV. Dele pyramidi e tutte loro differentie. — Che cosa sia pyramide rotonda.
+
+Cap. LXV. Dele pyramidi laterale e sue differentie. — Commo le spetie dele pyramidi laterale possano procedere in infinito si commo le lor colonne. Che cosa sienno :term:`pyramidi corte <pyramide-corta>` ouer troncate.
+
+Cap. LXVI. Del modo euia asaper mesurare ogni pyramide. — Commo ogni pyramide sia el terzo del suo Ghylindro ouer colonna.
+
+Cap. LXVII. Commo dele laterate aperto se mostra cadauna esser subtripla ala sua colonna. — Commo tutte le coldnne late-, rate in tanti :term:`corpi seratili <corpo-seratile>` se risoluano in quanti trianguli se possino le lor basi distringuere.
+
+Cap. LXVIII. Del modo asapere misurare tutte le sorti dele :term:`pyramidi corte <pyramide-corta>` rotonde e laterate in tutti modi.
+
+Cap. LXIX. Dela mesura de tutti li altri :term:`corpi regulari <corpi-regulari>` e dependenti. — Gonfidentia deli peregrini ingegni ma per excellentia de Quello de sua ducal celsitudine. Con degna commendatione euera laude con excellentissime conditioni seuere epie de sua Ducal celsitudine. — Commo sua Ducal celsitudine non commenor conuenientia al tempio dele gratie in Milano che Ottauiano in roma quel dela pace fesse. — Comme non manco de inuidia eliuore a sua Ducal celsitudine siria conuento chi le dicte laude per adulatione giudicasse che lautore de epsa adulatione. — Commo tutta la sua seraphica religione de sancto francesco e suo capo Generale Maria francesco sansone da brescia dela sua immensa largita humanita affabilità e sanctita per luniuerso ne rendeno buon testimonio per loro capitolo generale del presentanno in Milano egregiamente celebrato. La Reuerendissima Signoria de Monsignor suo caro cognato Hipolyto Gardinale estense.
+
+Cap. LXX. Commo se habino retrouare tutti li dicti corpi ordinatamente commo sonno posti in questo facti in prospectiua e ancora le lor forme materiali dopo la lor taula particulare posta patente in publico.
+
+Cap. LXXI. De quello se intenda per questi vocabuli fra le Mathematici vsitati cioè :term:`ypothesi <ypothesi>` :term:`ypotumissa <ypotumissa>`. Gorausto.
+
+Cono pyramidale. :term:`Corda pentagonica <corda-pentagonica>`. :term:`Perpendiculare <catheto>`. :term:`Catheto <catheto>`. :term:`Dyametro <dyametro>`. :term:`Paralellogramo <paralellogramo>`. :term:`Diagonale <diagonale>`. Centro :term:`saetta <saetta>`.

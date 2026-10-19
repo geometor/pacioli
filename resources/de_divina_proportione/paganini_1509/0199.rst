@@ -16,5 +16,5 @@ Folio 0199 (Plate Folio 0199 (recto)) — Tabula VII — Exahedron sive Cubus Pl
 Tabula VII (No. 7)
 ------------------
 
-- **Titulus Latinus**: *Exahedron sive Cubus Planum Solidum*
-- **Titulus Graecus**: Ἑξάεδρον ἢ κύβος ἐπίπεδον στερεόν
+- **Titulus Latinus**: :term:`*Exahedron sive Cubus Planum Solidum* <exahedron>`
+- **Titulus Graecus**: :term:`Ἑξάεδρον <exahedron>` ἢ κύβος :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`

@@ -6,7 +6,7 @@ Summary & Folio Continuity
 
 - **Preceding Folio** (``0183.rst``): Folio Plate Folio 0183 (recto) (recto), Appendix I: The Roman Geometric Alphabet — Roman Geometric Alphabet — Lettera Y
 - **Current Folio** (``0184.rst``): Folio Plate Folio 0184 (verso) (verso), Appendix I: The Roman Geometric Alphabet [``04_alphabet``] — Alphabet Plate Verso (0184)
-- **Following Folio** (``0185.rst``): Folio Plate Folio 0185 (recto) (recto), Appendix I: The Roman Geometric Alphabet — Porta Templi Domini Dicta Speciosa
+- **Following Folio** (``0185.rst``): Folio Plate Folio 0185 (recto) (recto), Appendix I: The Roman Geometric Alphabet — :term:`Porta Templi Domini Dicta Speciosa <porta-speciosa>`
 
 Graphic Extraction & Calibration
 --------------------------------

@@ -16,22 +16,50 @@ Folio 0013 (A5r) — Tabula — Tabula (A5r)
 .. picture:: 0013.g2.png
    :alt: Folio 0013 Figura g2
 
-Le sequenti videlicet superficie:
+Cap. XXIV. Commo li dicti effecti concorrino ala compositione de tutti li :term:`corpi regulari <corpi-regulari>` e dependenti. Perche questi 5 corpi sienno dicti regulari.
 
-E 24 più R.
+Cap. XXV. Commo in la natura non e possibile esser più de 5 :term:`corpi regulari <corpi-regulari>` e perche. Commo de exagoni eptagoni octagoni nonanguli decagoni e altri simili non e possibile formare alcun corpo reguläre.
 
-6912 e la
+Cap. XXVI. Dela fabrica deli 5 :term:`corpi regulari <corpi-regulari>` e dela proportione de ciascuno al :term:`dyametro <dyametro>` dela :term:`spera <spera>` e prima del :term:`tetracedron <tetrahedron>` altramente 4 basi trianguläre forma del fuoco secondo li platonici.
 
-quadratura e R.
+Cap. XXVII. Dela formatione del corpo detto :term:`exacedron <exahedron>` o ver cubo e sua proportione ala :term:`spera <spera>` figura dela terra secondo li platonici.
 
-8 192 Porrai infine del caso 4.
+Cap. XXVIII. Commo se formi loctocedron in :term:`spera <spera>` apunto collocabile figura de laeri dopo li platonici e sua proportione ala :term:`spera <spera>`.
 
-del 3 tractato a catti 22
+Cap. XXIX. Dela fabrica e formatione del corpo detto :term:`ycocedron <icosahedron>` forma delaqua secondo liplatonici edenominatione de suoi lati. Dela prona commo aponto la :term:`spera <spera>` el circondi.
 
-doue dici:
+Cap. XXX. Del modo asaper fare el nobilissimo corpo reguläre detto :term:`Duodecedron <dodecahedron>` altramente corpo de 12 pentagoni secondo li platonici forma dela :term:`quinta essentia <quinta-essentia>` edel nome de suoi lati. Dela prona commo aponto la :term:`spera <spera>` el circumscriua.
 
-e tal corpo tutto e R.
+Cap. XXXI. Dela regola e muodo mediante el diametra dela :term:`spera <spera>` a noi noto saper trouare tutti li lati de dicti 5 :term:`corpi regulari <corpi-regulari>`. De lordine euia commo dicti corpi fraloro se excedino in lati e fabrica.
 
-40 e la" etc.
+Cap. XXXII. Dela proportione fraloro de dicti regulari elor dependenti. — Commo lor proportioni fraloro aleuolte sonno rational! ealeuolte :term:`irrationali <irrationale>`.
 
-sequita superficie
+Cap. XXXIII. Dela proportione de tutte lor superficie lune alaltre.
+
+Cap. XXXIV. Dele inclusioni deli 5 :term:`corpi regulari <corpi-regulari>` vno in laltro e laltro in luno equante sienno in tutto e perche.
+
+Cap. XXXV. Commo el :term:`tetracedron <tetrahedron>` se formi e collochi nel cubo che aponto le ponti tochino.
+
+Cap. XXXVI. Dela inclusione aponto deloctocedron nel cubo.
+
+Cap. XXXVII. Como se asepti lo :term:`exacedron <exahedron>` nelloctocedron.
+
+Cap. XXXVIII. Dela inscriptione del :term:`tetracedron <tetrahedron>` nelloctocedron.
+
+Cap. XXXIX. Commo nello :term:`ycocedron <icosahedron>` se collochi aponto. ei corpo detto :term:`duodecedron <dodecahedron>`.
+
+Cap. XL. Dela colocatione delo :term:`ycocedron <icosahedron>` nel :term:`duodecedron <dodecahedron>`.
+
+Cap. XLI. Dela situatione del cubo in lo :term:`duodecedron <dodecahedron>`.
+
+Cap. XLII. Commo se formi loctocedron nel :term:`duodecedron <dodecahedron>`.
+
+Cap. XLIII. Dela inclusione del :term:`tetracedron <tetrahedron>` in lo :term:`duodecedron <dodecahedron>`.
+
+Cap. XLIV. Dela fabrica del cubo in lo :term:`ycocedron <icosahedron>`.
+
+Cap. XLV. Del modo aformare el :term:`tetracedron <tetrahedron>` nelo :term:`ycocedron <icosahedron>`.
+
+Cap. XLVI. Ragione per che dicte inscriptioni non possino esser più.
+
+Cap. XL VII. Del modo in ciascuno de dicti 5 regulari asaper formare el corpo regularissimo cioè :term:`spera <spera>`.

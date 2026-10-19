@@ -3,14 +3,14 @@
 Part I: Compendio de Divina Proportione (Chapters I–LXXI)
 =========================================================
 
-Dedicated to **Ludovico Maria Sforza**, Duke of Milan (completed at Milan, December 14, 1498; printed at Venice by Paganino de' Paganini, June 1, 1509). Each chapter is presented in separate language files: **English**, **Italiano (1509)**, **Deutsch (Winterberg 1889)**, and **Critical Notes**.
+Dedicated to :person:`**Ludovico Maria Sforza** <ludovico-sforza>`, Duke of Milan (completed at Milan, December 14, 1498; printed at Venice by :person:`Paganino de' Paganini <paganino-de-paganini>`, June 1, 1509). Each chapter is presented in separate language files: **English**, **Italiano (1509)**, **Deutsch (Winterberg 1889)**, and **Critical Notes**.
 
 Conspectus Capitum (Part I)
 ---------------------------
 
-- **Cap. I** (*0017 (f. 1r)*): Epistle on the Divine Proportion to the Most Excellent Prince Ludovico Maria Sforza Anglo, Duke
+- **Cap. I** (*0017 (f. 1r)*): Epistle on the :term:`Divine Proportion <divina-proportione>` to the Most Excellent Prince :person:`Ludovico Maria Sforza Anglo <ludovico-sforza>`, Duke
   [:ref:`English <compendio-cap_01-en>` · :ref:`Italiano <compendio-cap_01-it>` · :ref:`Deutsch <compendio-cap_01-de>` · :ref:`Notes <compendio-cap_01-notes>`]
-- **Cap. II** (*0018 (f. 1v)*): Preface of the Reverend Father Magister Luca Pacioli of Borgo Sansepolcro, of the Order of Mino
+- **Cap. II** (*0018 (f. 1v)*): Preface of the Reverend Father Magister :person:`Luca Pacioli <pacioli>` of :term:`Borgo Sansepolcro <san-sepolcro>`, of the Order of Mino
   [:ref:`English <compendio-cap_02-en>` · :ref:`Italiano <compendio-cap_02-it>` · :ref:`Deutsch <compendio-cap_02-de>` · :ref:`Notes <compendio-cap_02-notes>`]
 - **Cap. III** (*0021 (f. 3r)*): The Preface Being Ended, There Follows an Explanation of What Is Meant by This Name 'Mathematic
   [:ref:`English <compendio-cap_03-en>` · :ref:`Italiano <compendio-cap_03-it>` · :ref:`Deutsch <compendio-cap_03-de>` · :ref:`Notes <compendio-cap_03-notes>`]
@@ -54,67 +54,67 @@ Conspectus Capitum (Part I)
   [:ref:`English <compendio-cap_22-en>` · :ref:`Italiano <compendio-cap_22-it>` · :ref:`Deutsch <compendio-cap_22-de>` · :ref:`Notes <compendio-cap_22-notes>`]
 - **Cap. XXIII** (*0030 (f. 7v)*): How, Out of Reverence for Our Salvation, the Said Effects Conclude
   [:ref:`English <compendio-cap_23-en>` · :ref:`Italiano <compendio-cap_23-it>` · :ref:`Deutsch <compendio-cap_23-de>` · :ref:`Notes <compendio-cap_23-notes>`]
-- **Cap. XXIV** (*0031 (f. 8r)*): On the Tenth Effect of Our Divine Proportion, Which Introduces the Formation of the Five Regula
+- **Cap. XXIV** (*0031 (f. 8r)*): On the Tenth Effect of Our :term:`Divine Proportion <divina-proportione>`, Which Introduces the Formation of the Five Regula
   [:ref:`English <compendio-cap_24-en>` · :ref:`Italiano <compendio-cap_24-it>` · :ref:`Deutsch <compendio-cap_24-de>` · :ref:`Notes <compendio-cap_24-notes>`]
 - **Cap. XXV** (*0031 (f. 8r)*): How It Is Not Possible for There to Be More Than Five Regular Bodies in Nature, and Why.
   [:ref:`English <compendio-cap_25-en>` · :ref:`Italiano <compendio-cap_25-it>` · :ref:`Deutsch <compendio-cap_25-de>` · :ref:`Notes <compendio-cap_25-notes>`]
-- **Cap. XXVI** (*0032 (f. 8v)*): How the First Regular Body, Called the Tetracedron or Pyramid of Four Triangular Bases, Is Form
+- **Cap. XXVI** (*0032 (f. 8v)*): How the First Regular Body, Called the :term:`Tetracedron <tetrahedron>` or Pyramid of Four Triangular Bases, Is Form
   [:ref:`English <compendio-cap_26-en>` · :ref:`Italiano <compendio-cap_26-it>` · :ref:`Deutsch <compendio-cap_26-de>` · :ref:`Notes <compendio-cap_26-notes>`]
-- **Cap. XXVII** (*0032 (f. 8v)*): How the Second Regular Body, Called the Exacedron or Cube, Is Formed and Placed in the Sphere.
+- **Cap. XXVII** (*0032 (f. 8v)*): How the Second Regular Body, Called the :term:`Exacedron <exahedron>` or Cube, Is Formed and Placed in the Sphere.
   [:ref:`English <compendio-cap_27-en>` · :ref:`Italiano <compendio-cap_27-it>` · :ref:`Deutsch <compendio-cap_27-de>` · :ref:`Notes <compendio-cap_27-notes>`]
-- **Cap. XXVIII** (*0033 (f. 9r)*): How the Third Regular Body, Called the Octocedron of Eight Triangular Bases, Is Formed in the S
+- **Cap. XXVIII** (*0033 (f. 9r)*): How the Third Regular Body, Called the :term:`Octocedron <octahedron>` of Eight Triangular Bases, Is Formed in the S
   [:ref:`English <compendio-cap_28-en>` · :ref:`Italiano <compendio-cap_28-it>` · :ref:`Deutsch <compendio-cap_28-de>` · :ref:`Notes <compendio-cap_28-notes>`]
-- **Cap. XXIX** (*0034 (f. 9v)*): How the Fourth Regular Body, Called the Ycocedron of Twenty Triangular Bases, Is Formed in the 
+- **Cap. XXIX** (*0034 (f. 9v)*): How the Fourth Regular Body, Called the :term:`Ycocedron <icosahedron>` of Twenty Triangular Bases, Is Formed in the 
   [:ref:`English <compendio-cap_29-en>` · :ref:`Italiano <compendio-cap_29-it>` · :ref:`Deutsch <compendio-cap_29-de>` · :ref:`Notes <compendio-cap_29-notes>`]
-- **Cap. XXX** (*0036 (f. 10v)*): How the Fifth and Most Noble Regular Body, Called the Duodecedron of Twelve Pentagonal Bases, I
+- **Cap. XXX** (*0036 (f. 10v)*): How the Fifth and Most Noble Regular Body, Called the :term:`Duodecedron <dodecahedron>` of Twelve Pentagonal Bases, I
   [:ref:`English <compendio-cap_30-en>` · :ref:`Italiano <compendio-cap_30-it>` · :ref:`Deutsch <compendio-cap_30-de>` · :ref:`Notes <compendio-cap_30-notes>`]
 - **Cap. XXXI** (*0038 (f. 11v)*): On the Rule and Way to Find the Sides of All Five Regular Bodies Placed in One and the Same Sph
   [:ref:`English <compendio-cap_31-en>` · :ref:`Italiano <compendio-cap_31-it>` · :ref:`Deutsch <compendio-cap_31-de>` · :ref:`Notes <compendio-cap_31-notes>`]
-- **Cap. XXXII** (*0040 (f. 12v)*): On the Proportion of the Said Regular Bodies to One Another, Especially that of the Ycocedron t
+- **Cap. XXXII** (*0040 (f. 12v)*): On the Proportion of the Said Regular Bodies to One Another, Especially that of the :term:`Ycocedron <icosahedron>` t
   [:ref:`English <compendio-cap_32-en>` · :ref:`Italiano <compendio-cap_32-it>` · :ref:`Deutsch <compendio-cap_32-de>` · :ref:`Notes <compendio-cap_32-notes>`]
 - **Cap. XXXIII** (*0040 (f. 12v)*): On the Proportion of the Surfaces and Solid Volumes of All the Regular Bodies to One Another.
   [:ref:`English <compendio-cap_33-en>` · :ref:`Italiano <compendio-cap_33-it>` · :ref:`Deutsch <compendio-cap_33-de>` · :ref:`Notes <compendio-cap_33-notes>`]
 - **Cap. XXXIV** (*0041 (f. 13r)*): On the Inscriptions of the Five Regular Bodies in One Another, How Many There Are in All, and W
   [:ref:`English <compendio-cap_34-en>` · :ref:`Italiano <compendio-cap_34-it>` · :ref:`Deutsch <compendio-cap_34-de>` · :ref:`Notes <compendio-cap_34-notes>`]
-- **Cap. XXXV** (*0041 (f. 13r)*): How the Octocedron Is Formed and Inscribed in the Tetracedron.
+- **Cap. XXXV** (*0041 (f. 13r)*): How the :term:`Octocedron <octahedron>` Is Formed and Inscribed in the :term:`Tetracedron <tetrahedron>`.
   [:ref:`English <compendio-cap_35-en>` · :ref:`Italiano <compendio-cap_35-it>` · :ref:`Deutsch <compendio-cap_35-de>` · :ref:`Notes <compendio-cap_35-notes>`]
-- **Cap. XXXVI** (*0041 (f. 13r)*): How the Tetracedron Is Placed in the Cube.
+- **Cap. XXXVI** (*0041 (f. 13r)*): How the :term:`Tetracedron <tetrahedron>` Is Placed in the Cube.
   [:ref:`English <compendio-cap_36-en>` · :ref:`Italiano <compendio-cap_36-it>` · :ref:`Deutsch <compendio-cap_36-de>` · :ref:`Notes <compendio-cap_36-notes>`]
-- **Cap. XXXVII** (*0041 (f. 13r)*): How the Octocedron Is Placed in the Cube.
+- **Cap. XXXVII** (*0041 (f. 13r)*): How the :term:`Octocedron <octahedron>` Is Placed in the Cube.
   [:ref:`English <compendio-cap_37-en>` · :ref:`Italiano <compendio-cap_37-it>` · :ref:`Deutsch <compendio-cap_37-de>` · :ref:`Notes <compendio-cap_37-notes>`]
-- **Cap. XXXVIII** (*0042 (f. 13v)*): How the Exacedron or Cube Is Formed in the Octocedron.
+- **Cap. XXXVIII** (*0042 (f. 13v)*): How the :term:`Exacedron <exahedron>` or Cube Is Formed in the :term:`Octocedron <octahedron>`.
   [:ref:`English <compendio-cap_38-en>` · :ref:`Italiano <compendio-cap_38-it>` · :ref:`Deutsch <compendio-cap_38-de>` · :ref:`Notes <compendio-cap_38-notes>`]
-- **Cap. XXXIX** (*0042 (f. 13v)*): How the Tetracedron Is Formed in the Octocedron.
+- **Cap. XXXIX** (*0042 (f. 13v)*): How the :term:`Tetracedron <tetrahedron>` Is Formed in the :term:`Octocedron <octahedron>`.
   [:ref:`English <compendio-cap_39-en>` · :ref:`Italiano <compendio-cap_39-it>` · :ref:`Deutsch <compendio-cap_39-de>` · :ref:`Notes <compendio-cap_39-notes>`]
-- **Cap. XL** (*0042 (f. 13v)*): How the Duodecedron Is Formed in the Ycocedron.
+- **Cap. XL** (*0042 (f. 13v)*): How the :term:`Duodecedron <dodecahedron>` Is Formed in the :term:`Ycocedron <icosahedron>`.
   [:ref:`English <compendio-cap_40-en>` · :ref:`Italiano <compendio-cap_40-it>` · :ref:`Deutsch <compendio-cap_40-de>` · :ref:`Notes <compendio-cap_40-notes>`]
-- **Cap. XLI** (*0042 (f. 13v)*): How the Exacedron or Cube Is Placed in the Ycocedron.
+- **Cap. XLI** (*0042 (f. 13v)*): How the :term:`Exacedron <exahedron>` or Cube Is Placed in the :term:`Ycocedron <icosahedron>`.
   [:ref:`English <compendio-cap_41-en>` · :ref:`Italiano <compendio-cap_41-it>` · :ref:`Deutsch <compendio-cap_41-de>` · :ref:`Notes <compendio-cap_41-notes>`]
-- **Cap. XLII** (*0042 (f. 13v)*): How the Tetracedron Is Formed in the Ycocedron.
+- **Cap. XLII** (*0042 (f. 13v)*): How the :term:`Tetracedron <tetrahedron>` Is Formed in the :term:`Ycocedron <icosahedron>`.
   [:ref:`English <compendio-cap_42-en>` · :ref:`Italiano <compendio-cap_42-it>` · :ref:`Deutsch <compendio-cap_42-de>` · :ref:`Notes <compendio-cap_42-notes>`]
-- **Cap. XLIII** (*0042 (f. 13v)*): How the Ycocedron Is Formed in the Duodecedron.
+- **Cap. XLIII** (*0042 (f. 13v)*): How the :term:`Ycocedron <icosahedron>` Is Formed in the :term:`Duodecedron <dodecahedron>`.
   [:ref:`English <compendio-cap_43-en>` · :ref:`Italiano <compendio-cap_43-it>` · :ref:`Deutsch <compendio-cap_43-de>` · :ref:`Notes <compendio-cap_43-notes>`]
-- **Cap. XLIV** (*0042 (f. 13v)*): How the Ycocedron Is Placed in the Cube.
+- **Cap. XLIV** (*0042 (f. 13v)*): How the :term:`Ycocedron <icosahedron>` Is Placed in the Cube.
   [:ref:`English <compendio-cap_44-en>` · :ref:`Italiano <compendio-cap_44-it>` · :ref:`Deutsch <compendio-cap_44-de>` · :ref:`Notes <compendio-cap_44-notes>`]
-- **Cap. XLV** (*0043 (f. 14r)*): How the Octocedron Is Placed in the Duodecedron.
+- **Cap. XLV** (*0043 (f. 14r)*): How the :term:`Octocedron <octahedron>` Is Placed in the :term:`Duodecedron <dodecahedron>`.
   [:ref:`English <compendio-cap_45-en>` · :ref:`Italiano <compendio-cap_45-it>` · :ref:`Deutsch <compendio-cap_45-de>` · :ref:`Notes <compendio-cap_45-notes>`]
-- **Cap. XLVI** (*0043 (f. 14r)*): How the Exacedron and the Tetracedron Are Placed in the Duodecedron, and Why Only Twelve Inscri
+- **Cap. XLVI** (*0043 (f. 14r)*): How the :term:`Exacedron <exahedron>` and the :term:`Tetracedron <tetrahedron>` Are Placed in the :term:`Duodecedron <dodecahedron>`, and Why Only Twelve Inscri
   [:ref:`English <compendio-cap_46-en>` · :ref:`Italiano <compendio-cap_46-it>` · :ref:`Deutsch <compendio-cap_46-de>` · :ref:`Notes <compendio-cap_46-notes>`]
 - **Cap. XLVII** (*0043 (f. 14r)*): How the Sphere Is Placed and Inscribed in Each of the Said Five Regular Bodies.
   [:ref:`English <compendio-cap_47-en>` · :ref:`Italiano <compendio-cap_47-it>` · :ref:`Deutsch <compendio-cap_47-de>` · :ref:`Notes <compendio-cap_47-notes>`]
-- **Cap. XLVIII** (*0043 (f. 14r)*): On the Form and Disposition of the Plane (Solid) and Hollow (Skeletal) Tetracedron, Regular and
+- **Cap. XLVIII** (*0043 (f. 14r)*): On the Form and Disposition of the Plane (Solid) and Hollow (Skeletal) :term:`Tetracedron <tetrahedron>`, Regular and
   [:ref:`English <compendio-cap_48-en>` · :ref:`Italiano <compendio-cap_48-it>` · :ref:`Deutsch <compendio-cap_48-de>` · :ref:`Notes <compendio-cap_48-notes>`]
-- **Cap. XLIX** (*0044 (f. 14v)*): On the Disposition of the Exacedron or Cube: Regular (Plates VII–VIII), Truncated (Plates IX–X)
+- **Cap. XLIX** (*0044 (f. 14v)*): On the Disposition of the :term:`Exacedron <exahedron>` or Cube: Regular (Plates VII–VIII), Truncated (Plates IX–X)
   [:ref:`English <compendio-cap_49-en>` · :ref:`Italiano <compendio-cap_49-it>` · :ref:`Deutsch <compendio-cap_49-de>` · :ref:`Notes <compendio-cap_49-notes>`]
-- **Cap. L** (*0044 (f. 14v)*): On the Disposition of the Octocedron: Regular (Plates XIII–XIV), Truncated (Plates XV–XVI), and
+- **Cap. L** (*0044 (f. 14v)*): On the Disposition of the :term:`Octocedron <octahedron>`: Regular (Plates XIII–XIV), Truncated (Plates XV–XVI), and
   [:ref:`English <compendio-cap_50-en>` · :ref:`Italiano <compendio-cap_50-it>` · :ref:`Deutsch <compendio-cap_50-de>` · :ref:`Notes <compendio-cap_50-notes>`]
-- **Cap. LI** (*0045 (f. 15r)*): On the Disposition of the Ycocedron: Regular (Plates XIX–XX), Truncated (Plates XXI–XXII), and 
+- **Cap. LI** (*0045 (f. 15r)*): On the Disposition of the :term:`Ycocedron <icosahedron>`: Regular (Plates XIX–XX), Truncated (Plates XXI–XXII), and 
   [:ref:`English <compendio-cap_51-en>` · :ref:`Italiano <compendio-cap_51-it>` · :ref:`Deutsch <compendio-cap_51-de>` · :ref:`Notes <compendio-cap_51-notes>`]
-- **Cap. LII** (*0045 (f. 15r)*): On the Disposition of the Duodecedron: Regular (Plates XXV–XXVI), Truncated (Plates XXVII–XXVII
+- **Cap. LII** (*0045 (f. 15r)*): On the Disposition of the :term:`Duodecedron <dodecahedron>`: Regular (Plates XXV–XXVI), Truncated (Plates XXVII–XXVII
   [:ref:`English <compendio-cap_52-en>` · :ref:`Italiano <compendio-cap_52-it>` · :ref:`Deutsch <compendio-cap_52-de>` · :ref:`Notes <compendio-cap_52-notes>`]
 - **Cap. LIII** (*0046 (f. 15v)*): On the Formation and Origin of the Body of Twenty-Six Bases: Eighteen Squares and Eight Equilat
   [:ref:`English <compendio-cap_53-en>` · :ref:`Italiano <compendio-cap_53-it>` · :ref:`Deutsch <compendio-cap_53-de>` · :ref:`Notes <compendio-cap_53-notes>`]
-- **Cap. LIV** (*0047 (f. 16r)*): On the Body of Seventy-Two Bases (*Septuaginta Duarum Basium*), Its Origin, and Its Architectur
+- **Cap. LIV** (*0047 (f. 16r)*): On the Body of Seventy-Two Bases (:term:`*Septuaginta Duarum Basium* <septuaginta-duarum-basium>`), Its Origin, and Its Architectur
   [:ref:`English <compendio-cap_54-en>` · :ref:`Italiano <compendio-cap_54-it>` · :ref:`Deutsch <compendio-cap_54-de>` · :ref:`Notes <compendio-cap_54-notes>`]
 - **Cap. LV** (*0048 (f. 16v)*): On the Way to Know How to Form Still More Bodies Beyond Those Mentioned, How Their Forms Procee
   [:ref:`English <compendio-cap_55-en>` · :ref:`Italiano <compendio-cap_55-it>` · :ref:`Deutsch <compendio-cap_55-de>` · :ref:`Notes <compendio-cap_55-notes>`]

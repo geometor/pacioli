@@ -16,5 +16,5 @@ Folio 0225 (Plate Folio 0225 (recto)) — Tabula XVIII — Octahedron Abscisum V
 Tabula XVIII (No. 18)
 ---------------------
 
-- **Titulus Latinus**: *Octahedron Abscisum Vacuum*
-- **Titulus Graecus**: Ὀκτάεδρον ἀποτετμημένον κενόν
+- **Titulus Latinus**: :term:`*Octahedron Abscisum Vacuum* <octahedron-abscisum>`
+- **Titulus Graecus**: :term:`Ὀκτάεδρον ἀποτετμημένον <octahedron-abscisum>` :term:`κενόν <vacuum>`

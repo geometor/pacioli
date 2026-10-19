@@ -18,7 +18,7 @@ Historical & Mathematical Commentary
   - **Fra Giovanni da Verona** carved Leonardo/Pacioli's skeletal polyhedra into the famous intarsia panels of **Santa Maria in Organo** in Verona (c. 1519) and Monte Oliveto Maggiore;
   - **Wenzel Jamnitzer** (*Perspectiva Corporum Regularium*, Nuremberg, 1568), **Lorenz Stoer** (*Geometria et Perspectiva*, 1567), and **Jean Cousin** placed these exact polyhedra atop classical columns, pedestals, and architectural ruins;
   - Tomb monuments and church finials throughout 16th- and 17th-century Italy (including Hawksmoor's and Wren's later obelisks and finials) adopted the regular and stellated polyhedra as crowning architectural ornaments.
-- **Baron Mario Mellini and the Palazzo della Cancelleria in Rome**: **Mario Mellini** (1456–1503, nephew of Cardinal Giambattista Mellini, resident at the Torre dei Mellini near Piazza Navona, where a famous collection of antiquities and manuscripts was kept) and Cardinal **Raffaele Riario** / Cardinal **Galeotto Franciotti della Rovere** at the **Palazzo della Cancelleria** were Pacioli's hosts in Rome (where Pacioli deposited a fourth set of his polyhedra models!).
+- **Baron Mario Mellini and the Palazzo della Cancelleria in Rome**: :person:`**Mario Mellini** <mario-mellini>` (1456–1503, nephew of Cardinal Giambattista Mellini, resident at the Torre dei Mellini near Piazza Navona, where a famous collection of antiquities and manuscripts was kept) and Cardinal **Raffaele Riario** / Cardinal :person:`**Galeotto Franciotti della Rovere** <galeotto-della-rovere>` at the **Palazzo della Cancelleria** were Pacioli's hosts in Rome (where Pacioli deposited a fourth set of his polyhedra models!).
 
 Philological and Folio Apparatus
 --------------------------------

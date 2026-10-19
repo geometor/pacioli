@@ -16,5 +16,5 @@ Folio 0269 (Plate Folio 0269 (recto)) — Tabula XL — Septuaginta Duarum Basiu
 Tabula XL (No. 40)
 ------------------
 
-- **Titulus Latinus**: *Septuaginta Duarum Basium Vacuum*
-- **Titulus Graecus**: Ἑβδομηκονταδισσάεδρον κενόν
+- **Titulus Latinus**: :term:`*Septuaginta Duarum Basium Vacuum* <septuaginta-duarum-basium>`
+- **Titulus Graecus**: :term:`Ἑβδομηκονταδισσάεδρον <septuaginta-duarum-basium>` :term:`κενόν <vacuum>`

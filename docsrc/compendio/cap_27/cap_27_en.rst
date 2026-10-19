@@ -14,7 +14,7 @@ CHAPTER XXVII (English)
 .. folio:: 0032–0033 (f. 8v–f. 9r)
    :initial: 0032.c1.png
 
-Following the order of Campanus in the thirteenth book (where the cube is placed as the fourteenth proposition, :just:`XIII.15` in the Greek text), we now show how to form the second regular body, called the **cubo** or **exacedron**, which has six square faces, eight solid angles, and twelve equal edges (:just:`XIII.15`).
+Following the order of :person:`Campanus <campanus>` in the thirteenth book (where the cube is placed as the fourteenth proposition, :just:`XIII.15` in the Greek text), we now show how to form the second regular body, called the **cubo** or :term:`**exacedron** <exahedron>`, which has six square faces, eight :term:`solid angles <angulo-solido>`, and twelve equal edges (:just:`XIII.15`).
 
 .. enunciation:: Construction of the Cube in a Given Sphere (:just:`XIII.15` [Campanus XIII.14])
 
@@ -37,7 +37,7 @@ Following the order of Campanus in the thirteenth book (where the cube is placed
    8. Since we already proved in Step 3 that :math:`ab^{2} = 3\,db^{2}`, it follows that :math:`en^{2} = ab^{2}`, and therefore the space diagonal :math:`en` of the cube equals the diameter :math:`ab` of the sphere!
    9. If a semicircle is described on the space diagonal :math:`en` as diameter and revolved around :math:`en`, by the :just:`thirty-first of the third <III.31>` the semicircle passes through :math:`g` and through every one of the eight right-angled vertices of the cube.
 
-Thus the cube has been constructed and inscribed in the given sphere, and the square on the sphere's diameter is **triple** (:math:`3 : 1`) the square on the edge of the cube. For example, if the diameter of the sphere is :math:`6` (whose square is :math:`36`), the square on the side of the cube is one-third of :math:`36`, namely :math:`12`, and the side of the cube in length is :math:`\sqrt{12}` (*radice de 12*), while the face diagonal is :math:`\sqrt{24}` (equal to the edge of the tetracedron in the same sphere!).
+Thus the cube has been constructed and inscribed in the given sphere, and the square on the sphere's diameter is **triple** (:math:`3 : 1`) the square on the edge of the cube. For example, if the diameter of the sphere is :math:`6` (whose square is :math:`36`), the square on the side of the cube is one-third of :math:`36`, namely :math:`12`, and the side of the cube in length is :math:`\sqrt{12}` (*radice de 12*), while the face diagonal is :math:`\sqrt{24}` (equal to the edge of the :term:`tetracedron <tetrahedron>` in the same sphere!).
 
 .. qed::
 

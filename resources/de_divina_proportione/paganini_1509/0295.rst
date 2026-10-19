@@ -17,4 +17,4 @@ Tabula LII (No. 52)
 -------------------
 
 - **Titulus Latinus**: *Pyramis Laterata Penthagona Vacua*
-- **Titulus Graecus**: Πυραμὶς πλευρώδης πεντάγωνος κενή
+- **Titulus Graecus**: :term:`Πυραμὶς πλευρώδης πεντάγωνος <pyramide-pentagona>` κενή

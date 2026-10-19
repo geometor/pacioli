@@ -16,5 +16,5 @@ Folio 0247 (Plate Folio 0247 (recto)) — Tabula XXIX — Dodecahedron Abscisum 
 Tabula XXIX (No. 29)
 --------------------
 
-- **Titulus Latinus**: *Dodecahedron Abscisum Solidum*
-- **Titulus Graecus**: Δωδεκάεδρον ἀποτετμημένον στερεόν
+- **Titulus Latinus**: :term:`*Dodecahedron Abscisum Solidum* <dodecahedron-abscisum>`
+- **Titulus Graecus**: :term:`Δωδεκάεδρον ἀποτετμημένον <dodecahedron-abscisum>` :term:`στερεόν <solidum>`

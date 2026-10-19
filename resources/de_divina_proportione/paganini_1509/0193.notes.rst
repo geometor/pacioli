@@ -4,9 +4,9 @@ Folio 0193 (Plate Folio 0193 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0192.rst``): Folio Plate Folio 0192 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0192)
-- **Current Folio** (``0193.rst``): Folio Plate Folio 0193 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate IIII — Tetrahedron Abscisum Vacuum (Hollow Truncated Tetrahedron)
-- **Following Folio** (``0194.rst``): Folio Plate Folio 0194 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0194)
+- **Preceding Folio** (``0192.rst``): Folio Plate Folio 0192 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0192)
+- **Current Folio** (``0193.rst``): Folio Plate Folio 0193 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate IIII — :term:`Tetrahedron Abscisum <tetrahedron-abscisum>` :term:`Vacuum <vacuum>` (Hollow Truncated :term:`Tetrahedron <tetrahedron>`)
+- **Following Folio** (``0194.rst``): Folio Plate Folio 0194 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0194)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0193 (recto)`` (Scan page ``193``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``IIII`` (Plate No. ``4``) | Latin Cartouche: *Tetrahedron Abscisum Vacuum* | Greek Cartouche: Τετράεδρον ἀποτετμημένον κενόν
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``IIII`` (Plate No. ``4``) | Latin Cartouche: :term:`*Tetrahedron Abscisum Vacuum* <tetrahedron-abscisum>` | Greek Cartouche: :term:`Τετράεδρον ἀποτετμημένον <tetrahedron-abscisum>` :term:`κενόν <vacuum>`

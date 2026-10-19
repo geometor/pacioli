@@ -16,5 +16,5 @@ Folio 0209 (Plate Folio 0209 (recto)) — Tabula XII — Exahedron Elevatum Vacu
 Tabula XII (No. 12)
 -------------------
 
-- **Titulus Latinus**: *Exahedron Elevatum Vacuum*
-- **Titulus Graecus**: Ἑξάεδρον ἐπηρμένον κενόν
+- **Titulus Latinus**: :term:`*Exahedron Elevatum Vacuum* <exahedron-elevatum>`
+- **Titulus Graecus**: :term:`Ἑξάεδρον ἐπηρμένον <exahedron-elevatum>` :term:`κενόν <vacuum>`

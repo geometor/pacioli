@@ -13,4 +13,4 @@ Folio 0139 (Plate Folio 0139 (recto)) — Roman Geometric Alphabet — Lettera A
 .. picture:: 0139.g1.png
    :alt: Folio 0139 Tavola g1
 
-Questa letera A si cava del tondo e del suo quadro: la gamba da man drita vol esser grossa dele nove parti luna de lalteza. La gamba senistra vol esser la mita de la gamba grossa. La gamba de mezo vol esser la terza parte de la gamba grossa. La largheza de dita letera cadauna gamba per mezo de la crosiera, quella di mezo alquanto più bassa comme vedi qui per li diametri segnati.
+Questa letera A si cava del tondo e del suo quadro: la gamba da man drita vol esser grossa dele nove parti luna de lalteza. La gamba senistra vol esser la mita de la :term:`gamba grossa <gamba-grossa>`. La gamba de mezo vol esser la terza parte de la :term:`gamba grossa <gamba-grossa>`. La largheza de dita letera cadauna gamba per mezo de la :term:`crosiera <crosiera>`, quella di mezo alquanto più bassa comme vedi qui per li diametri segnati.

@@ -4,9 +4,9 @@ Folio 0305 (Plate Folio 0305 (recto)) — Transcription & Graphic Calibration No
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0304.rst``): Folio Plate Folio 0304 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0304)
-- **Current Folio** (``0305.rst``): Folio Plate Folio 0305 (recto) (recto), Appendix II: Polyhedra Plates by Leonardo da Vinci [``05_polyhedra_plates``] — Plate LVII — Columna Rotunda Solida (Solid Round Column (Cylinder))
-- **Following Folio** (``0306.rst``): Folio Plate Folio 0306 (verso) (verso), Appendix II: Polyhedra Plates by Leonardo da Vinci — Polyhedra Plate Verso (0306)
+- **Preceding Folio** (``0304.rst``): Folio Plate Folio 0304 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0304)
+- **Current Folio** (``0305.rst``): Folio Plate Folio 0305 (recto) (recto), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` [``05_polyhedra_plates``] — Plate LVII — :term:`Columna Rotunda <colonna-rotonda>` Solida (Solid Round Column (Cylinder))
+- **Following Folio** (``0306.rst``): Folio Plate Folio 0306 (verso) (verso), Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` — Polyhedra Plate Verso (0306)
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,5 +20,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``Plate Folio 0305 (recto)`` (Scan page ``305``, *recto*)
-- **Book & Section Slug**: Appendix II: Polyhedra Plates by Leonardo da Vinci (``05_polyhedra_plates``)
-- **Full-Page Woodcut Plate**: Tabula ``LVII`` (Plate No. ``57``) | Latin Cartouche: *Columna Rotunda Solida* | Greek Cartouche: Κίων στρογγύλος στερεός
+- **Book & Section Slug**: Appendix II: Polyhedra Plates by :person:`Leonardo da Vinci <leonardo>` (``05_polyhedra_plates``)
+- **Full-Page Woodcut Plate**: Tabula ``LVII`` (Plate No. ``57``) | Latin Cartouche: :term:`*Columna Rotunda Solida* <colonna-rotonda>` | Greek Cartouche: :term:`Κίων στρογγύλος <colonna-rotonda>` στερεός

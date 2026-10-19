@@ -3,7 +3,7 @@
 CHAPTER VII: Wherein the Three Species of Columns—Ionic, Doric, and Corinthian—Differ from On
 =============================================================================================
 
-- **Original Italian Title (1509)**: *In quello sienno differenti le tre spetie de diete colonne fra loro.*
+- **Original Italian Title (1509)**: *In quello sienno differenti le tre spetie de dicte colonne fra loro.*
 - **German Edition Title (1889)**: *Worin sich die drei Arten besagter Säulen von einander unter- scheiden.*
 - **1509 Paganini Folios**: 0073, 0074 (f. 29r–f. 29v)
 

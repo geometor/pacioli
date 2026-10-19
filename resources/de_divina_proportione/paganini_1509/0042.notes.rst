@@ -4,9 +4,9 @@ Folio 0042 (f. 13v) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0041.rst``): Folio f. 13r (recto), Part I: Compendio de Divina Proportione — Cap. XXXIII, Cap. XXXIV, Cap. XXXV, Cap. XXXVI, Cap. XXXVII (f. 13r) — Dela proportione de tutte loro superficie lune alaltre.
-- **Current Folio** (``0042.rst``): Folio f. 13v (verso), Part I: Compendio de Divina Proportione [``01_compendio``] — Cap. XXXVIII, Cap. XXXIX, Cap. XL, Cap. XLI, Cap. XLII, Cap. XLIII, Cap. XLIV (f. 13v) — Dela inscriptione del tetracedron in loctocedron.
-- **Following Folio** (``0043.rst``): Folio f. 14r (recto), Part I: Compendio de Divina Proportione — Cap. XLV, Cap. XLVI, Cap. XLVII, Cap. XLVIII (f. 14r) — Del modo aformare el tetracedron nello ycocedron.
+- **Preceding Folio** (``0041.rst``): Folio f. 13r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XXXIII, Cap. XXXIV, Cap. XXXV, Cap. XXXVI, Cap. XXXVII (f. 13r) — Dela proportione de tutte loro superficie lune alaltre.
+- **Current Folio** (``0042.rst``): Folio f. 13v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. XXXVIII, Cap. XXXIX, Cap. XL, Cap. XLI, Cap. XLII, Cap. XLIII, Cap. XLIV (f. 13v) — Dela inscriptione del :term:`tetracedron <tetrahedron>` in loctocedron.
+- **Following Folio** (``0043.rst``): Folio f. 14r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XLV, Cap. XLVI, Cap. XLVII, Cap. XLVIII (f. 14r) — Del modo aformare el :term:`tetracedron <tetrahedron>` nello :term:`ycocedron <icosahedron>`.
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,12 +18,74 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``,PARS``
 - **Folio Signature / Numeration**: ``f. 13v`` (Scan page ``42``, *verso*)
-- **Book & Section Slug**: Part I: Compendio de Divina Proportione (``01_compendio``)
+- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
-  - **Cap. XXXVIII** (``compendio/cap_38``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/038_cap_XXXVIII.txt``
-  - **Cap. XXXIX** (``compendio/cap_39``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/039_cap_XXXIX.txt``
-  - **Cap. XL** (``compendio/cap_40``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/040_cap_XL.txt``
-  - **Cap. XLI** (``compendio/cap_41``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/041_cap_XLI.txt``
-  - **Cap. XLII** (``compendio/cap_42``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/042_cap_XLII.txt``
-  - **Cap. XLIII** (``compendio/cap_43``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/043_cap_XLIII.txt``
-  - **Cap. XLIV** (``compendio/cap_44``): Incipit (starts on this folio) | Winterberg 1889 Italian file: ``winterberg/01_divina_proportione_italian/044_cap_XLIV.txt``
+  - **Cap. XXXVIII** (``compendio/cap_38``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/038_cap_XXXVIII.txt``
+  - **Cap. XXXIX** (``compendio/cap_39``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/039_cap_XXXIX.txt``
+  - **Cap. XL** (``compendio/cap_40``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/040_cap_XL.txt``
+  - **Cap. XLI** (``compendio/cap_41``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/041_cap_XLI.txt``
+  - **Cap. XLII** (``compendio/cap_42``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/042_cap_XLII.txt``
+  - **Cap. XLIII** (``compendio/cap_43``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/043_cap_XLIII.txt``
+  - **Cap. XLIV** (``compendio/cap_44``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/044_cap_XLIV.txt``
+
+Critical & Historical Commentary
+--------------------------------
+
+Cap. XXXVIII — How the Exacedron or Cube Is Formed in the Octocedron.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Marginal Diagram**: Folio 0039 (``f. 12r``) contains diagram ``0039.g1.png`` showing the :term:`octahedron <octahedron>` and the cube whose 8 vertices sit at the centroids of the 8 triangular faces.
+- **Exact Ratio**: If the :term:`octahedron <octahedron>` has edge :math:`s_{\text{octa}}`, its equatorial square has diagonal :math:`s_{\text{octa}}\sqrt{2}`. The centroids of two opposite faces lie at :math:`\frac{1}{3}` of the way from the equatorial midpoints toward the poles, so the face diagonal of the inscribed cube is :math:`\frac{2}{3}s_{\text{octa}}`, and the edge of the inscribed cube is :math:`s_{\text{cube}} = \frac{\sqrt{2}}{3}s_{\text{octa}}`, giving :math:`s_{\text{octa}}^{2} : s_{\text{cube}}^{2} = 9 : 2`.
+
+Cap. XXXIX — How the Tetracedron Is Formed in the Octocedron.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Commensurability in Length (:math:`2:3`)**: Notice the remarkable rational consequence of composing :cite:`Campanus XV.4 <campanus:euclid:XV.4>` (:math:`s_{\text{cube}} = \frac{\sqrt{2}}{3}s_{\text{octa}}`) with :cite:`Campanus XV.2 <campanus:euclid:XV.2>` (:math:`s_{\text{tetra}} = \sqrt{2}\,s_{\text{cube}}`): the :math:`\sqrt{2}` factors cancel completely, leaving :math:`s_{\text{tetra}} = \frac{2}{3}s_{\text{octa}}`!
+
+Cap. XL — How the Duodecedron Is Formed in the Ycocedron.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Duality of Icosahedron and Dodecahedron**: Just as ``Cap. XXXVII``–``Cap. XXXVIII`` established the dual reciprocity between the cube (6 faces, 8 vertices) and the :term:`octahedron <octahedron>` (8 faces, 6 vertices), ``Cap. XL`` (:cite:`Campanus XV.6 <campanus:euclid:XV.6>`) and ``Cap. XLIII`` (:cite:`Campanus XV.9 <campanus:euclid:XV.9>`) establish the dual reciprocity between the :term:`icosahedron <icosahedron>` (20 faces, 12 vertices) and the :term:`dodecahedron <dodecahedron>` (12 faces, 20 vertices).
+
+Cap. XLI — How the Exacedron or Cube Is Placed in the Ycocedron.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Elegance of Campanus's Mediated Inscription**: Rather than attempting a direct coordinate construction in the :term:`icosahedron <icosahedron>`, :person:`Campanus <campanus>` (and Pacioli) exploits the dual :term:`dodecahedron <dodecahedron>` (XV.6) together with :person:`Euclid <euclid>`'s roof construction (:cite:`Euclid XIII.17 <euclid:elements:XIII.17>`): since every regular :term:`dodecahedron <dodecahedron>` contains 5 inscribed cubes (whose 12 edges are face diagonals of the 12 pentagons), inscribing the dual :term:`dodecahedron <dodecahedron>` inside the :term:`icosahedron <icosahedron>` immediately places 8 of the :term:`icosahedron <icosahedron>`'s 20 face-centers at the corners of a regular cube!
+
+Cap. XLII — How the Tetracedron Is Formed in the Ycocedron.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Chain of Three Inscriptions**: Notice the genealogical chain of reductions: :term:`Icosahedron <icosahedron>` :math:`\supset` :term:`Dodecahedron <dodecahedron>` (XV.6, 20 vertices at face-centers) :math:`\supset` Cube (XV.7, 8 of those 20 vertices) :math:`\supset` :term:`Tetrahedron <tetrahedron>` (XV.2/XV.8, 4 of those 8 vertices).
+
+Cap. XLIII — How the Ycocedron Is Formed in the Duodecedron.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Paganini 1509 Marginal Diagram**: Folio 0040 (``f. 12v``) displays diagram ``0040.g3.png`` illustrating the pentagonal faces of the :term:`dodecahedron <dodecahedron>` and the equilateral triangles connecting their centers.
+
+Cap. XLIV — How the Ycocedron Is Placed in the Cube.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Historical & Mathematical Commentary
+------------------------------------
+
+- **Two Ways to Inscribe the Icosahedron in the Cube**:
+  1. **Edge-on-Face Inscription (Golden Rectangles)**: An :term:`icosahedron <icosahedron>` of edge :math:`a_{20}` has 12 vertices that form three mutually perpendicular golden rectangles of dimensions :math:`a_{20} \times \varphi\,a_{20}`. Placing these three golden rectangles inside a cube of side :math:`s_{\text{cube}} = \varphi\,a_{20}` puts 6 edges of the :term:`icosahedron <icosahedron>` (and all 12 of its vertices!) directly on the 6 square faces of the cube, with the cube edge and :term:`icosahedron <icosahedron>` edge in the :term:`**Divine Proportion** <divina-proportione>` (:math:`s_{\text{cube}} : a_{20} = \varphi : 1`).
+  2. **Campanus XV.10 Inscription**: :person:`Campanus <campanus>` routes the construction through the :term:`octahedron <octahedron>` inscribed in the cube (XV.3) and the circles of :cite:`Euclid XIII.16 <euclid:elements:XIII.16>`.

@@ -14,7 +14,7 @@ CHAPTER LXIII — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Reference to the Print Run of the *Summa* (1494)**: Notice Pacioli's proud remark on Folio 0054 (``f. 19v``) that his *Summa de Arithmetica, Geometria, Proportioni e Proportionalita* (printed at Venice by Paganino de' Paganini in November 1494) is easily accessible to all readers *"per la lor copiosa multitudine stampato e per l'universo ormai divulgata"* ("because of the copious multitude printed and now disseminated throughout the world").
+- **Reference to the Print Run of the *Summa* (1494)**: Notice Pacioli's proud remark on Folio 0054 (``f. 19v``) that his *:cite:`Summa de Arithmetica <pacioli:summa>`, :term:`Geometria <geometria>`, Proportioni e Proportionalita* (printed at Venice by Paganino de' Paganini in November 1494) is easily accessible to all readers *"per la lor copiosa multitudine stampato e per l'universo ormai divulgata"* ("because of the copious multitude printed and now disseminated throughout the world").
 
 Philological and Folio Apparatus
 --------------------------------

@@ -13,6 +13,6 @@ Folio 0185 (Plate Folio 0185 (recto)) — Porta Templi Domini Dicta Speciosa
 .. picture:: 0185.g1.png
    :alt: Folio 0185 Tavola g1
 
-PORTA TEMPLI DOMINI DICTA SPECIOSA.
+:term:`PORTA TEMPLI DOMINI DICTA SPECIOSA <porta-speciosa>`.
 
-In la presente figura de la porta detta Speciosa le doi parti qui aducte cioè de la colonna rotonda con suo capitello, Basa, Stilobata et Steriobata, Epistilio cum suo Zophoro e Cornicione mi rendo certo Lectore che al intellecto debitamente lochio del tuo peregrino ingegno lo representa.
+In la presente figura de la porta detta Speciosa le doi parti qui aducte cioè de la colonna rotonda con suo :term:`capitello <capitello>`, Basa, :term:`Stilobata <stilobata>` et :term:`Steriobata <steriobata>`, :term:`Epistilio <epistilio>` cum suo :term:`Zophoro <zophoro>` e :term:`Cornicione <cornicione>` mi rendo certo Lectore che al intellecto debitamente lochio del tuo peregrino ingegno lo representa.

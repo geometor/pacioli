@@ -13,16 +13,16 @@ Folio 0215 (Plate Folio 0215 (recto)) — Architectural Plate — Epistilio (Arc
 .. picture:: 0215.g1.png
    :alt: Folio 0215 Tavola g1
 
-Tutto el composto dal Zophoro in giù da li Antichi fia detto Epistilio e da li moderni Architrave, e tutto el composto sopra depso li Antichi cornice e moderni cornicione.
+Tutto el composto dal :term:`Zophoro <zophoro>` in giù da li Antichi fia detto :term:`Epistilio <epistilio>` e da li moderni :term:`Architrave <epistilio>`, e tutto el composto sopra depso li Antichi cornice e moderni :term:`cornicione <cornicione>`.
 
-- a = Fastigio over Fascia da li Antichi e moderni ut supra;
-- c = Fascia over Fastigio comme de sopra fo detto da cadauno;
-- e = Li antichi a questo dicano Fascia e a le volte Fastigio e cosi li moderni;
-- f = Questo da li antichi fia detto Echino e da li moderni Huovolo;
-- g = A questo li antichi dicano Scothia, li moderni gola de larchitrave;
-- k = Questo cadauno lo dice Cimacio del Fregio e Zophoro;
-- l = Li antichi li dicano Denticeli, li moderni denticelli e Rastro;
-- m = Li antichi li dicano Corona, li moderni la chiamano gociolatoro;
+- a = :term:`Fastigio <fastigio>` over Fascia da li Antichi e moderni ut supra;
+- c = Fascia over :term:`Fastigio <fastigio>` comme de sopra fo detto da cadauno;
+- e = Li antichi a questo dicano Fascia e a le volte :term:`Fastigio <fastigio>` e cosi li moderni;
+- f = Questo da li antichi fia detto :term:`Echino <echino>` e da li moderni :term:`Huovolo <echino>`;
+- g = A questo li antichi dicano :term:`Scothia <scothia>`, li moderni gola de larchitrave;
+- k = Questo cadauno lo dice Cimacio del :term:`Fregio <zophoro>` e :term:`Zophoro <zophoro>`;
+- l = Li antichi li dicano :term:`Denticeli <denticeli>`, li moderni denticelli e Rastro;
+- m = Li antichi li dicano Corona, li moderni la chiamano :term:`gociolatoro <corona>`;
 - o = Li antichi a questo dicano Acrotherio, li moderni Regolo de la cornice.
 
-Quel che qui e posto de Colonna, Architrave e Cornicione solo acenno de lo intero exemplo fia facto perche apieno di loro non si po in breve dirne maxime per la gran varietà de proportioni e proportionalita che in sue debite dispositioni se ricercano. Il che tutto el rende chiaro el sublime volume del nostro degno Anticho Architecto Vitruvio Pollione. Dove ben monito de Arithmetica, Geometria e Quinto del perspicacissimo nostro Platonico e Megarense Phylosopho Euclide. Tal tutto Lectore te remetto senza la cui doctrina non e possibile in agibilibus Prathice e Theorice alcuna cosa bene exercitarse: cum omnia in numero, pondere et mensura disposuerit Altissimus et cetera.
+Quel che qui e posto de Colonna, :term:`Architrave <epistilio>` e :term:`Cornicione <cornicione>` solo acenno de lo intero exemplo fia facto perche apieno di loro non si po in breve dirne maxime per la gran varietà de proportioni e proportionalita che in sue debite dispositioni se ricercano. Il che tutto el rende chiaro el sublime volume del nostro degno Anticho Architecto :person:`Vitruvio <vitruvius>` Pollione. Dove ben monito de :term:`Arithmetica <arithmetica>`, :term:`Geometria <geometria>` e Quinto del perspicacissimo nostro Platonico e Megarense Phylosopho :person:`Euclide <euclid>`. Tal tutto Lectore te remetto senza la cui doctrina non e possibile in agibilibus Prathice e Theorice alcuna cosa bene exercitarse: cum :cite:`omnia in numero, pondere et mensura <biblia:sapientia:11.21>` disposuerit Altissimus et cetera.

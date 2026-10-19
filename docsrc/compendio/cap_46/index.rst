@@ -3,7 +3,7 @@
 CHAPTER XLVI: How the Exacedron and the Tetracedron Are Placed in the Duodecedron, and Why Onl
 ==============================================================================================
 
-- **Original Italian Title (1509)**: *Perche diete inscriptioni non possano esser più.*
+- **Original Italian Title (1509)**: *Perche dicte inscriptioni non possano esser più.*
 - **German Edition Title (1889)**: *Warum der in Rede stehenden Einbeschreibungen nicht mehr sein können.*
 - **1509 Paganini Folios**: 0043 (f. 14r–f. 14r)
 

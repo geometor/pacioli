@@ -19,116 +19,48 @@ Folio 0010 (A3v) — Nomina et Numerus Corporum (A3v)
 .. picture:: 0010.g3.png
    :alt: Folio 0010 Figura g3
 
-Dodecahedron.
+Nomina et Numerus Corporum (XXXV–LXI)
+-------------------------------------
 
-27. Planum solidarn
+:term:`**Vigintisex Basium (Εἰκοσιεξάεδρον)** <vigintisex-basium>`
 
-28. Planum vacuum
+35. :term:`*Vigintisex basium planum solidum* <vigintisex-basium>` — :term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`
+36. :term:`*Vigintisex basium planum vacuum* <vigintisex-basium>` — :term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`
+37. :term:`*Vigintisex basium abscisum elevatum solidum* <vigintisex-basium>` — :term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἀποτετμημένον <abscisum>` :term:`ἐπηρμένον <elevatum>` :term:`στερεόν <solidum>`
+38. :term:`*Vigintisex basium abscisum elevatum vacuum* <vigintisex-basium>` — :term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἀποτετμημένον <abscisum>` :term:`ἐπηρμένον <elevatum>` :term:`κενόν <vacuum>`
 
-29. Abscisum solidum
+:term:`**Septuaginta Duarum Basium (Ἑβδομηκονταδισσάεδρον)** <septuaginta-duarum-basium>`
 
-30. Abscisum vacuum
-3i. Eleuatum solidum
+39. :term:`*Septuaginta duarum basium solidum* <septuaginta-duarum-basium>` — :term:`Ἑβδομηκονταδισσάεδρον <septuaginta-duarum-basium>` :term:`στερεόν <solidum>`
+40. :term:`*Septuaginta duarum basium vacuum* <septuaginta-duarum-basium>` — :term:`Ἑβδομηκονταδισσάεδρον <septuaginta-duarum-basium>` :term:`κενόν <vacuum>`
 
-32. Eleuatum vacuum
+**Columnae et Pyramides Lateratae ac Rotundae**
 
-33. Abscisum eleuatum solidum
+41. :term:`*Columna laterata triangula solida seu corpus seratile* <corpo-seratile>` — :term:`Κίων πλευρώδης τρίγωνος <corpo-seratile>` στερεὸς ἢ :term:`σχῆμα πριστόν <corpo-seratile>`
+42. :term:`*Columna laterata triangula vacua* <corpo-seratile>` — :term:`Κίων πλευρώδης τρίγωνος <corpo-seratile>` κενός
+43. :term:`*Pyramis laterata triangula solida* <pyramide-triangula>` — :term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` στερεά
+44. :term:`*Pyramis laterata triangula vacua* <pyramide-triangula>` — :term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` κενή
+45. *Columna laterata quadrangula solida* — Κίων πλευρώδης τετράγωνος στερεός
+46. *Columna laterata quadrangula vacua* — Κίων πλευρώδης τετράγωνος κενός
+47. *Pyramis laterata quadrangula solida* — Πυραμὶς πλευρώδης τετράγωνος στερεά
+48. *Pyramis laterata quadrangula vacua* — Πυραμὶς πλευρώδης τετράγωνος κενή
+49. *Columna laterata penthagona solida* — :term:`Κίων πλευρώδης πεντάγωνος <colonna-pentagona>` στερεός
+50. *Columna laterata penthagona vacua* — :term:`Κίων πλευρώδης πεντάγωνος <colonna-pentagona>` κενός
+51. *Pyramis laterata penthagona solida* — :term:`Πυραμὶς πλευρώδης πεντάγωνος <pyramide-pentagona>` στερεά
+52. *Pyramis laterata penthagona vacua* — :term:`Πυραμὶς πλευρώδης πεντάγωνος <pyramide-pentagona>` κενή
+53. :term:`*Columna laterata exagona solida* <colonna-exagona>` — :term:`Κίων πλευρώδης ἑξάγωνος <colonna-exagona>` στερεός
+54. :term:`*Columna laterata exagona vacua* <colonna-exagona>` — :term:`Κίων πλευρώδης ἑξάγωνος <colonna-exagona>` κενός
+55. :term:`*Pyramis laterata triangula inaequilatera solida* <pyramide-triangula>` — :term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` ἀνισόπλευρος στερεά
+56. :term:`*Pyramis laterata triangula inaequilatera vacua* <pyramide-triangula>` — :term:`Πυραμὶς πλευρώδης τρίγωνος <pyramide-triangula>` ἀνισόπλευρος κενή
+57. :term:`*Columna rotunda solida* <colonna-rotonda>` — :term:`Κίων στρογγύλος <colonna-rotonda>` στερεός
+58. :term:`*Pyramis rotunda solida* <pyramide-rotonda>` — :term:`Πυραμὶς στρογγύλη <pyramide-rotonda>` στερεά
+59. *Sphera solida* — :term:`Σφαῖρα <spera>` στερεά
+60. :term:`*Pyramis laterata exagona solida* <pyramide-exagona>` — :term:`Πυραμὶς πλευρώδης ἑξάγωνος <pyramide-exagona>` στερεά
+61. :term:`*Pyramis laterata exagona vacua* <pyramide-exagona>` — :term:`Πυραμὶς πλευρώδης ἑξάγωνος <pyramide-exagona>` κενή
 
-34. Abscisum eleuatum vacuum
+Avvertimento al Lectore (Errata Corrige, 1509)
+----------------------------------------------
 
-^(odsKasÖQOv.
+Lectore, le sequenti parole porrai formaliter nel Cap. L, al fin della colonna dove dici *absciso fo detto non è*, sequitano queste: *possibile che causino angulo solido, e formase dal precedente nella terza parte de ciascun suo lato uniforme tagliato etc. XIX, XX. L'octocedron elevato solido etc.* Poi sequita el principio della sequente colonna, videlicet *solido over vacuo*, fo per errore scorso.
 
-ETtlTCsdoV 6TEQE0V
-STlLTtsdoV KEVOV
-
-a7totst{irj^svov óxeqeov
-ajiorsr^rjlisvov %svov
-
-STirjQflSVOV GtEQSOV
-Enì]Q{lEVOV ÌCEVOV
-
-KTlOTEr^rjflEVOV ETtriQ^lEVOV 6tE-
-QEOV
-
-ajiotst^rjfiEvov ETcrjQ^Evov xevov.
-
-Vigintisex basium.
-
-35. Planum solidum
-
-36. Planum vacuum
-
-37. Abscisum eleuatum solidum
-
-38. Abscisum eleuatum vacuum
-3g. Septuaginta duarum basium
-
-solidum
-
-40. Septuaginta duarum basium
-vacuum
-
-41. Columna laterata triangula
-solida seu corpus seratile
-
-42. Columna laterata triangula
-vacua
-
-43. Pyramis laterata triangula
-solida
-
-44. Pyramis laterata triangula
-vacua
-
-45. Columna laterata quadran-
-gula solida
-
-46. Columna lacerata quadran-
-gula vacua
-
-47. Pyramis laterata quadran-
-gula solida
-
-48. Pyramis laterata quadran-
-gula vacua
-
-ELXOGiE^aEÖQOV.
-
-ETILTIEÒOV 6TEQE0V
-ETlLTtEdoV 7CSV0V
-
-anotEt^Tq^EVOV ETtrjQ^UEVOV 6tE-
-QEOV
-
-an or Et {.lì] UE vov etitjq^ievov kevov
-£ßooiiif]Kovta ÖLggasÖQOv Gxeqeov
-
-sßöo^irjJtovta diggaEÖQOv %evov
-
-TtLCJv TilEVQodrig axEQEog rj 6g}{icc
--hXelGov
-
-%IC3V nlEVQCOOì]g TQLycovog TCEVOg
-
-TivQCifiLg 7ilEVQG)di]g TQiycovog
-
-0tEQSa
-
-7ivQcc{iig TtlsvQOÖrjg XQiycovog
-
-XEVÌ]
-
-Tiicov 7r2.EVQCo3ì]g XEXQayavog
-
-GXEQEOV
-
-%Lcov TckEVQcodrig xsxQaycovog
-
-xEì'og
-nvQt((xtg 7tXEVQ(od)]g XEXQuyavog
-
-GXEQECC
-
-TivQccfiig xlEVQCJÓììg XETQaycovog
-
-KEVr]
+Le sequenti videlicet: *superficie è 24 più R. 6912 e la quadratura è R. 8192*, porrai in fine del Caso 4 del 3° Tractato a carte 22, dove dici: *e tal corpo tutto è R. 40 e la* etc., sequita *superficie è 24* etc., e fia finito el caso; seque el principio de l'altra colonna.

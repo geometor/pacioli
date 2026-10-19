@@ -14,7 +14,7 @@ CHAPTER XXIII — Critical Commentary & Notes
 Historical and Philological Commentary
 --------------------------------------
 
-1. **Numerological Closure ($13 = 1 + 12$) and Leonardo's *Cenacolo***: Pacioli brings Section 2 (Chapters VII–XXIII, the Thirteen Effects of the Divine Proportion) to a close by linking the number **13** to the 13 Articles of the Scholastic Apostles' Creed and to Christ surrounded by the Twelve Apostles ($1 + 12 = 13$). In a masterstroke of courtly rhetoric, he ties this theological-mathematical structure directly back to Ludovico Sforza's patronage of Leonardo da Vinci's *Last Supper* in the refectory of Santa Maria delle Grazie (already praised in Chapters I and III), where Christ and the twelve Apostles form a visible thirteenfold harmonic composition before the viewer's eyes.
+1. **Numerological Closure ($13 = 1 + 12$) and Leonardo's *:term:`Cenacolo <simulacro>`***: Pacioli brings Section 2 (Chapters VII–XXIII, the Thirteen Effects of the Divine Proportion) to a close by linking the number **13** to the 13 Articles of the Scholastic Apostles' Creed and to Christ surrounded by the Twelve Apostles ($1 + 12 = 13$). In a masterstroke of courtly rhetoric, he ties this theological-mathematical structure directly back to Ludovico Sforza's patronage of Leonardo da Vinci's *:term:`Last Supper <simulacro>`* in the refectory of :term:`Santa Maria delle Grazie <santa-maria-delle-grazie>` (already praised in Chapters I and III), where Christ and the twelve Apostles form a visible thirteenfold harmonic composition before the viewer's eyes.
 
 Philological and Folio Apparatus
 --------------------------------

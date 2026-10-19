@@ -16,5 +16,5 @@ Folio 0203 (Plate Folio 0203 (recto)) — Tabula VIIII — Exahedron Abscisum So
 Tabula VIIII (No. 9)
 --------------------
 
-- **Titulus Latinus**: *Exahedron Abscisum Solidum*
-- **Titulus Graecus**: Ἑξάεδρον ἀποτετμημένον στερεόν
+- **Titulus Latinus**: :term:`*Exahedron Abscisum Solidum* <exahedron-abscisum>`
+- **Titulus Graecus**: :term:`Ἑξάεδρον ἀποτετμημένον <exahedron-abscisum>` :term:`στερεόν <solidum>`
