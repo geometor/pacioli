@@ -18,7 +18,9 @@ The eighth proposition of the fifteenth book (:cite:`Campanus XV.8 <campanus:euc
 
    In a given regular body of twenty triangular bases (:term:`*ycocedron* <icosahedron>`), to inscribe the regular body of four triangular bases (:term:`*tetracedron* <tetrahedron>`) so that the four vertices of the :term:`tetracedron <tetrahedron>` stand at four of the twenty centers of the triangular faces of the :term:`ycocedron <icosahedron>`.
 
-.. assertion:: Construction and Proof (via Campanus XV.7 and XV.2)
+.. rubric:: Construction and Proof (via Campanus XV.7 and XV.2)
+
+.. assertion::
 
    1. First, in the given :term:`ycocedron <icosahedron>` inscribe the :term:`**duodecedron** <dodecahedron>` (:ref:`Chapter XL <compendio-cap_40-en>`, :cite:`Campanus XV.6 <campanus:euclid:XV.6>`), and within that :term:`duodecedron <dodecahedron>` inscribe the **cube** by drawing twelve pentagonal chords across its twelve faces (:ref:`Chapter XLI <compendio-cap_41-en>`, :cite:`Campanus XV.7 <campanus:euclid:XV.7>`), so that the eight vertices of the cube stand at eight centers of the triangular faces of the :term:`ycocedron <icosahedron>` (see the marginal diagram ``0040.g2.png`` on Folio 0040).
    2. Next, in this inscribed cube, inscribe the :term:`**tetracedron** <tetrahedron>` by the method of :ref:`Chapter XXXVI <compendio-cap_36-en>` (:cite:`Campanus XV.2 <campanus:euclid:XV.2>`), drawing the six face diagonals across the six square faces of the cube to connect four alternating corners of the cube.

@@ -28,7 +28,9 @@ Having understood how our proportion is called by its particular name, it remain
 
 To this end, one must know—as is set forth in the Fifth Book—that between any three terms of one and the same kind (*de un medesimo genere*) there are necessarily two relations or ratios (*habitudini o vogliam dire proportioni*): namely, one between the first term and the second, and another between the second term and the third.
 
-.. assertion:: Numerical Example of Continuous Proportion
+.. rubric:: Numerical Example of Continuous Proportion
+
+.. assertion::
 
    For example, let there be three quantities of the same kind (for otherwise no ratio is understood to exist between them, :just:`V.def.3`): let the first be :g:`a` and equal to $9$ in number, the second :g:`b` and equal to $6$, and the third :g:`c` and equal to $4$. I say that between them there are two ratios: one from :g:`a` to :g:`b`, that is, from $9$ to $6$, which among common ratios we call in our work [*Summa*] :term:`**sesquialtera** <sexquialtera>` ($1\frac{1}{2} : 1$), which occurs whenever the greater term contains the lesser once and a half; for $9$ contains $6$ and also $3$, which is half of $6$, and for this reason it is called :term:`*sesquialtera* <sexquialtera>`.
 
@@ -40,7 +42,9 @@ I say likewise that our :term:`**Divine Proportion** <divina-proportione>` obser
 
 Whence this was deservedly the **fourth correspondence** with the Supreme Artificer. And in that it is numbered among the other proportions without species or further difference, while preserving the conditions of their definitions, we may liken it to **our Savior**, who came not to destroy the Law, but to fulfill it (Matthew 5:17), and conversed among men, making Himself subject and obedient to Mary and Joseph (Luke 2:51). Even so, this our proportion, sent down from heaven, accompanies the other proportions in definition and conditions, and does not degrade them, but rather magnifies them more amply, holding the principate of unity among all quantities indifferently and never changing—even as our holy Severinus [:person:`Boethius <boethius>`] says of the Great God: *Stabilisque manens dat cuncta moveri* ("And remaining steadfast, He gives all things to be moved," *De consolatione philosophiae* III, m. 9).
 
-.. assertion:: Defining Condition of the Divine Proportion
+.. rubric:: Defining Condition of the Divine Proportion
+
+.. assertion::
 
    Wherefore, in order to recognize it among occurring quantities, one must know that among its three terms it is invariably found disposed in **continuous proportionality** in this manner: namely, that the **product of the lesser extreme and the sum of the lesser extreme and the mean** is equal to the **square of the mean**:
 

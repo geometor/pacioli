@@ -17,7 +17,9 @@ CHAPTER XX
 
    If the **side of an equilateral hexagon** be divided according to our :term:`Divine Proportion <divina-proportione>`, its **greater part** will of necessity always be the **side of the regular decagon** circumscribed by the very same circle as the hexagon (:just:`XIV.3` [:person:`Campanus <campanus>` corollary to :just:`XIII.9`]).
 
-.. assertion:: Numerical Demonstration
+.. rubric:: Numerical Demonstration
+
+.. assertion::
 
    For example, if the side of the equilateral hexagon be $10$, and it be divided in the manner stated, its **greater part** will be $\sqrt{125} - 5$, which I say is the exact **side of the decagon** inscribed in the very same circle, whose diameter will be $20$ (:just:`IV.15`). And this is concluded by the third proposition of the Fourteenth Book (:cite:`Campanus XIV.3 <campanus:euclid:XIV.3>` / :just:`XIII.9`).
 

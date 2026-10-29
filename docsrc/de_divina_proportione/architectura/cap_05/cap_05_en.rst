@@ -15,7 +15,9 @@ CHAPTER V
 
 Continuing with the round column (:ref:`Plate 0213 <plates-architectural-en>`), we now set forth the proportions of its **shaft** (*fuso / tronco*) and of its **base** (*basa*, called *spira* by :person:`Vitruvius <vitruvius>`).
 
-.. assertion:: Proportions of the Shaft, Entasis, and Attic/Ionic Base (:ref:`Plate 0213 <plates-architectural-en>`)
+.. rubric:: Proportions of the Shaft, Entasis, and Attic/Ionic Base (:ref:`Plate 0213 <plates-architectural-en>`)
+
+.. assertion::
 
    1. **Slenderness Ratio and Upper vs. Lower Contraction (*Contractura*)**:
 

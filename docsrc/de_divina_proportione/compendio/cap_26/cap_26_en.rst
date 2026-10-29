@@ -18,7 +18,9 @@ Now that we have shown why there cannot be more than five regular bodies, we sha
 
    Given the diameter of a sphere, to find the side of the regular pyramid of four equilateral triangular bases (:term:`*tetracedron* <tetrahedron>`) inscribed in that sphere, and to show that the square on the diameter of the sphere is :term:`sesquialtera <sexquialtera>` (:math:`3 : 2`) to the square on the side of the :term:`tetracedron <tetrahedron>`.
 
-.. assertion:: Construction and Proof (:just:`XIII.13`, :just:`VI.8`, :just:`III.31`, :just:`XIII.12`, :just:`XI.4`)
+.. rubric:: Construction and Proof (:just:`XIII.13`, :just:`VI.8`, :just:`III.31`, :just:`XIII.12`, :just:`XI.4`)
+
+.. assertion::
 
    1. Let :math:`ab` be the given diameter of the sphere (see the marginal diagram ``0032.g1.png`` on Folio 0032). Divide :math:`ab` at point :math:`c` so that :math:`ac` is double :math:`cb` (:math:`ac = 2\,cb`), whence :math:`ab` is triple :math:`cb` (:math:`ac = \frac{2}{3}ab`, :math:`cb = \frac{1}{3}ab`).
    2. Upon the diameter :math:`ab` describe the semicircle :math:`adb`, and from point :math:`c` erect the perpendicular :math:`cd` meeting the circumference at :math:`d`, and join the straight lines :math:`da` and :math:`db`.

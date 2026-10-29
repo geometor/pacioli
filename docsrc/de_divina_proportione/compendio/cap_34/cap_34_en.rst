@@ -19,7 +19,9 @@ Now we enter the **fifteenth book** of our philosopher (added by :person:`**Camp
 
    If each of the five regular bodies could be inscribed in each of the other four, there would be :math:`5 \times 4 = 20` mutual inscriptions in all (four for each of the five bodies). Yet in geometric truth, :person:`Campanus <campanus>` demonstrates that **twelve** principal inscriptions are regularly constructed in Book XV (Propositions 1–12), while at the end of these chapters (:ref:`Chapter XLVI <compendio-cap_46-en>`) we shall examine why the remaining combinations are excluded—most notably why the :term:`**duodecedron** <dodecahedron>` hospitably receives all four of the other regular bodies within itself, whereas the :term:`**ycocedron** <icosahedron>` denies entry to the :term:`**octocedron** <octahedron>`.
 
-.. assertion:: Overview of the Twelve Inscriptions (Chapters XXXV–XLVI)
+.. rubric:: Overview of the Twelve Inscriptions (Chapters XXXV–XLVI)
+
+.. assertion::
 
    1. **In the Tetracedron (4 triangular bases)**:
 

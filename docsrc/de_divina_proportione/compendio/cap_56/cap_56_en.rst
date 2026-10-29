@@ -19,7 +19,9 @@ CHAPTER LVI
 
 The sphere has been defined in various ways by many authors—above all by the worthy mathematician :person:`**Dionysius** <dionysius>` (and Theodosius in his *Sphaerica*, who defines it as a solid body bounded by a single surface, within which there is a point from which all straight lines drawn to the surface are equal). Yet our author :person:`**Euclid** <euclid>`, with supreme brevity, describes its genetic formation in the :just:`eleventh book <XI.Def.14>` in a definition adopted by all posterity (and depicted in perspective in :ref:`Plate XLI (Sperico Solido) and Plate XLII (Sperico Vacuo) <plates-polyhedra-en>`):
 
-.. assertion:: Construction of the Sphere by Revolution (:just:`XI.Def.14`)
+.. rubric:: Construction of the Sphere by Revolution (:just:`XI.Def.14`)
+
+.. assertion::
 
    1. Let :math:`adb` be a semicircle constructed upon any straight line :math:`ab` as diameter, with center :math:`c` and curved circumference :math:`adb` (see the marginal diagrams ``0049.g1.png`` and ``0049.g2.png`` on Folio 0049).
    2. Hold the diameter :math:`ab` fixed like an immovable axle (*axe*), and revolve the plane semicircle :math:`adb` completely around :math:`ab`—starting from point :math:`d`, descending through the lower half, and rising through the upper half (or conversely) until the arc :math:`adb` returns to the exact place from which it began to move.

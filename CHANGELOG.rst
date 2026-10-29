@@ -1,3 +1,10 @@
+0.3.2 (2026-10-29)
+------------------
+
+*   Enabled intersphinx cross-referencing to ``geometor/euclid`` across all Euclid proposition, definition, postulate, and common-notion citations (``:just:`` and ``:ref:``):
+    *   Added ``resources/de_divina_proportione/enunciations.json`` combining all 642 Euclid Books I–XIII enunciations with Campanus/Hypsicles Books XIV and XV propositions (``XIV.1``–``XIV.10``, ``XV.1``–``XV.12``) for rich hover tooltips.
+    *   Expanded rubric-style ``.. assertion::`` step headings in ``scripts/build_docsrc.py`` so inline ``:just:`` roles render as individual interactive intersphinx links to ``https://geometor.github.io/euclid/``.
+
 0.3.1 (2026-10-29)
 ------------------
 

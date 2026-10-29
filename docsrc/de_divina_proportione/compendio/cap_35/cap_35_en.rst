@@ -19,7 +19,9 @@ We begin with the first proposition of the fifteenth book (:cite:`Campanus XV.1 
 
    In a given regular pyramid of four equilateral triangular bases (:term:`*tetracedron* <tetrahedron>`), to inscribe the regular body of eight equilateral triangular bases (:term:`*octocedron* <octahedron>`) so that the six :term:`solid angles <angulo-solido>` of the :term:`octocedron <octahedron>` stand upon the midpoints of the six edges of the :term:`tetracedron <tetrahedron>`.
 
-.. assertion:: Construction and Proof (:just:`VI.2`, :just:`VI.4`, :just:`I.8`, :just:`XI.10`)
+.. rubric:: Construction and Proof (:just:`VI.2`, :just:`VI.4`, :just:`I.8`, :just:`XI.10`)
+
+.. assertion::
 
    1. Let the given :term:`tetracedron <tetrahedron>` have base triangle :math:`abc` and upper vertex (cone) :math:`d`, bounded by the four equilateral triangles :math:`abc, abd, acd, bcd` and the six equal edges :math:`ab, bc, ca, da, db, dc` (see the marginal diagram ``0038.g1.png`` on Folio 0038).
    2. Bisect each of the six edges of the :term:`tetracedron <tetrahedron>` at its midpoint: let :math:`e, f, g` be the midpoints of the three base edges :math:`ab, bc, ca`, and let :math:`h, k, l` be the midpoints of the three ascending edges :math:`da, db, dc`.

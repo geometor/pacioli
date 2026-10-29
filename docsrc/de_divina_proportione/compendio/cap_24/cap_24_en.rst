@@ -19,7 +19,9 @@ CHAPTER XXIV
 
 We need not labor further on this tenth effect, because we already demonstrated it above in the first effect (:ref:`Chapter VII <compendio-cap_07-en>`). Yet it is restated here in the sequence of the tenth effect to display how all these admirable properties lead step by step to the construction of the most noble solid bodies—above all the fourth and fifth regular solids, the :term:`icosahedron <icosahedron>` and the :term:`dodecahedron <dodecahedron>`, which cannot be formed or imagined without our :term:`Divine Proportion <divina-proportione>`.
 
-.. assertion:: Proof and Corollary (:just:`XIII.10`, :just:`XIII.9`, :just:`I.47`)
+.. rubric:: Proof and Corollary (:just:`XIII.10`, :just:`XIII.9`, :just:`I.47`)
+
+.. assertion::
 
    1. By the :just:`tenth of the thirteenth <XIII.10>`, in any circle, the square on the side of the inscribed equilateral pentagon equals the sum of the squares on the side of the inscribed hexagon and the side of the inscribed decagon:
 

@@ -17,7 +17,9 @@ CHAPTER XV
 
    It is impossible for any **rational quantity** to be divided according to our said proportion without **each of its parts** being an **irrational line called an apotome** (:term:`*residuo* <residuo>`, :just:`XIII.6`).
 
-.. assertion:: Numerical Demonstration
+.. rubric:: Numerical Demonstration
+
+.. assertion::
 
    For example, let $10$ be the rational quantity that is to be divided according to the proportion having a mean and two extremes. I say that of necessity each of its parts must be an :term:`**apotome** <residuo>` (:term:`*residuo* <residuo>`):
 

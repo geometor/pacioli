@@ -19,7 +19,9 @@ Following the order of :person:`Campanus <campanus>` in the thirteenth book (whe
 
    Given the diameter of a sphere, to find the side of the cube inscribed in it, and to show that the square on the diameter of the sphere is triple (:math:`3 : 1`) the square on the side of the cube.
 
-.. assertion:: Construction and Proof (:just:`XIII.15`, :just:`VI.8`, :just:`III.31`, :just:`I.47`, :just:`XI.6`, :just:`XI.33`)
+.. rubric:: Construction and Proof (:just:`XIII.15`, :just:`VI.8`, :just:`III.31`, :just:`I.47`, :just:`XI.6`, :just:`XI.33`)
+
+.. assertion::
 
    1. Let :math:`ab` be the diameter of the given sphere (see the marginal diagram ``0033.g1.png`` on Folio 0033), and divide :math:`ab` at point :math:`c` so that :math:`ac` is double :math:`cb` (:math:`ac = 2\,cb`, hence :math:`ab = 3\,cb`).
    2. Describe the semicircle :math:`adb` on diameter :math:`ab`, draw :math:`cd` perpendicular to :math:`ab` meeting the arc at :math:`d`, and join :math:`db` and :math:`da`.

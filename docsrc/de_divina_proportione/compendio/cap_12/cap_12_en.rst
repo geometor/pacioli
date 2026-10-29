@@ -17,7 +17,9 @@ CHAPTER XII
 
    If a quantity be divided according to our proportion, and to its **lesser part** be added the **half of the greater part**, the **square of their sum** will always be **quintuple** the **square of the half of the said greater part** (:just:`XIII.3`).
 
-.. assertion:: Numerical Demonstration
+.. rubric:: Numerical Demonstration
+
+.. assertion::
 
    For example, let $10$ be the quantity divided according to our :term:`Divine Proportion <divina-proportione>`, so that one part—namely the greater ($a$)—is $\sqrt{125} - 5$, and the lesser ($b$) is $15 - \sqrt{125}$.
 

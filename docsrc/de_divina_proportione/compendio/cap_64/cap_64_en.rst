@@ -23,7 +23,9 @@ It now follows in order, most lofty Duke, to treat of **pyramids** and their var
    2. **Acute-Angled (*Acutiangola*)**: When the fixed leg :math:`ab` is **longer** than the revolving leg :math:`bc` (:math:`ab > bc`).
    3. **Obtuse-Angled (*Obtusiangola*)**: When the fixed leg :math:`ab` is **shorter** than the revolving leg :math:`bc` (:math:`ab < bc`).
 
-.. assertion:: Proof of the Three Species at the Apex Angle (:just:`I.5`, :just:`I.19`, :just:`I.32`)
+.. rubric:: Proof of the Three Species at the Apex Angle (:just:`I.5`, :just:`I.19`, :just:`I.32`)
+
+.. assertion::
 
    Let :math:`abc` be the generating right triangle with right angle at :math:`b` (:math:`\angle abc = 90^{\circ}`), fixed vertical axis :math:`ab`, and revolving base leg :math:`bc`. When the revolving triangle reaches the opposite position :math:`abd` in the same plane, the two legs :math:`bc` and :math:`bd` form a single straight line :math:`bcd` (the diameter of the circular base), and the axial cross-section of the cone is the isosceles triangle :math:`acd` with apex angle :math:`\angle cad = 2\,\angle cab`:
 

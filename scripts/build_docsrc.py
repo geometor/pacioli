@@ -115,8 +115,56 @@ LIST_ITEM_RE = re.compile(r"^(\s*)([-*+]|\d+\.)\s+")
 HEADING_UNDERLINE_RE = re.compile(r"^([=\-~^\"'+*#])\1{3,}\s*$")
 
 
+ASSERTION_HEADING_RE = re.compile(r"^(\s*)\.\.\s+assertion::\s+([^\[\s].*)$")
+
+CAMPANUS_XIV_XV_ENUNCIATIONS: Dict[str, str] = {
+    "XIV.1": "The perpendicular drawn from the center of a circle to the side of the inscribed regular pentagon is half the sum of the side of the hexagon and the side of the decagon inscribed in the same circle (Hypsicles / Campanus XIV.1).",
+    "XIV.2": "The same circle circumscribes both the regular pentagon of the dodecahedron and the equilateral triangle of the icosahedron inscribed in the same sphere (Hypsicles / Campanus XIV.2; Compendio Cap. XXXII).",
+    "XIV.3": "Thirty times the rectangle contained by the apothem of the pentagon of the dodecahedron and the edge of the pentagon equals the surface of the dodecahedron, and thirty times the rectangle contained by the apothem of the triangle of the icosahedron and its edge equals the surface of the icosahedron (Campanus XIV.3).",
+    "XIV.6": "The total surface area of the icosahedron to the total surface area of the dodecahedron inscribed in the same sphere has the same ratio as the edge of the icosahedron to the edge of the dodecahedron (Hypsicles / Campanus XIV.6; Compendio Cap. XXXII).",
+    "XIV.7": "The volume of the dodecahedron to the volume of the icosahedron inscribed in the same sphere has the same ratio as the surface of the dodecahedron to the surface of the icosahedron, and as the edge of the cube to the edge of the icosahedron (Hypsicles / Campanus XIV.7–8; Compendio Cap. XXXII–XXXIII).",
+    "XIV.8": "When a line is divided in extreme and mean ratio, the whole line has to the greater segment the same ratio as the edge of the cube to the edge of the icosahedron, and in power the ratio of the sum of the squares on the whole and greater segment to the sum of the squares on the whole and lesser segment (Hypsicles / Campanus XIV.8; Compendio Cap. XXXII).",
+    "XIV.9": "Summary of the mutual ratios of the edges, surfaces, and volumes of the dodecahedron and icosahedron inscribed in the same sphere (Campanus XIV.9; Compendio Cap. XXXIII).",
+    "XIV.10": "General comparison of the five regular solids inscribed in the same sphere (Campanus XIV.10; Compendio Cap. XXXIV).",
+    "XV.1": "In a given cube (hexahedron) to inscribe a regular tetrahedron (pyramid) by joining alternate vertices of the cube via six face diagonals (Euclid / Campanus XV.1; Compendio Cap. XXXV).",
+    "XV.2": "In a given regular tetrahedron (pyramid) to inscribe a regular octahedron by joining the midpoints of the six edges of the tetrahedron (Euclid / Campanus XV.2; Compendio Cap. XXXVI).",
+    "XV.3": "In a given cube (hexahedron) to inscribe a regular octahedron by joining the centers of the six square faces of the cube (Euclid / Campanus XV.3; Compendio Cap. XXXVII).",
+    "XV.4": "In a given regular octahedron to inscribe a cube (hexahedron) by joining the centers of the eight triangular faces of the octahedron (Euclid / Campanus XV.4; Compendio Cap. XXXVIII).",
+    "XV.5": "In a given regular octahedron to inscribe a regular tetrahedron by inscribing a cube in the octahedron and a tetrahedron in that cube (Campanus XV.5; Compendio Cap. XXXIX).",
+    "XV.6": "In a given regular icosahedron to inscribe a regular dodecahedron by joining the centers of the twenty triangular faces of the icosahedron (Campanus XV.6; Compendio Cap. XL).",
+    "XV.7": "In a given regular dodecahedron to inscribe a regular icosahedron by joining the centers of the twelve pentagonal faces of the dodecahedron (Campanus XV.7; Compendio Cap. XLI).",
+    "XV.8": "In a given regular dodecahedron to inscribe a cube (hexahedron) by selecting twelve face diagonals across the twelve pentagons matching the twenty vertices of the dodecahedron (Campanus XV.8; Compendio Cap. XLII).",
+    "XV.9": "In a given regular dodecahedron to inscribe a regular octahedron by joining the midpoints of the three pairs of opposite parallel edges of the dodecahedron (Campanus XV.9; Compendio Cap. XLIII).",
+    "XV.10": "In a given regular icosahedron to inscribe a cube (hexahedron) by inscribing a dodecahedron in the icosahedron and a cube in that dodecahedron (Campanus XV.10; Compendio Cap. XLIV).",
+    "XV.11": "In a given cube (hexahedron) to inscribe a regular dodecahedron via the golden section of the segments joining the midpoints of opposite face edges (Campanus XV.11; Compendio Cap. XLV).",
+    "XV.12": "In a given regular dodecahedron to inscribe a regular tetrahedron by inscribing a cube in the dodecahedron and a tetrahedron in that cube (Campanus XV.12; Compendio Cap. XLVI).",
+}
+
+
+def build_enunciations_registry() -> None:
+    """Write resources/de_divina_proportione/enunciations.json combining Euclid Books I–XIII
+    enunciations with Campanus/Hypsicles Books XIV and XV propositions.
+    """
+    merged: Dict[str, str] = {}
+    euclid_enunc = ROOT.parent / "euclid" / "resources" / "heath" / "enunciations.json"
+    if euclid_enunc.is_file():
+        try:
+            raw = json.loads(euclid_enunc.read_text(encoding="utf-8"))
+            if isinstance(raw, dict):
+                merged.update(raw)
+        except Exception:
+            pass
+    merged.update(CAMPANUS_XIV_XV_ENUNCIATIONS)
+    (RES_DIR / "enunciations.json").write_text(
+        json.dumps(merged, indent=2, ensure_ascii=False) + "\n",
+        encoding="utf-8",
+    )
+
+
 def normalize_rst_lists(text: str) -> str:
-    """Ensure blank lines before and after nested or mixed bullet/enumerated lists for valid Docutils RST."""
+    """Ensure blank lines before and after nested or mixed bullet/enumerated lists for valid Docutils RST,
+    and convert rubric-style ``.. assertion:: <Heading>`` lines into ``.. rubric:: <Heading>`` + ``.. assertion::``.
+    """
     lines = text.splitlines()
     out: List[str] = []
     active_list_state: Optional[Tuple[int, str]] = None
@@ -125,6 +173,18 @@ def normalize_rst_lists(text: str) -> str:
         stripped = line.strip()
         if not stripped:
             out.append(line)
+            active_list_state = None
+            continue
+
+        m_assert = ASSERTION_HEADING_RE.match(line)
+        if m_assert:
+            ind_str = m_assert.group(1)
+            heading_txt = m_assert.group(2).strip()
+            if out and out[-1].strip():
+                out.append("")
+            out.append(f"{ind_str}.. rubric:: {heading_txt}")
+            out.append("")
+            out.append(f"{ind_str}.. assertion::")
             active_list_state = None
             continue
 
@@ -805,6 +865,7 @@ def main() -> None:
             legacy_p.unlink()
 
     BOOK_DIR.mkdir(parents=True, exist_ok=True)
+    build_enunciations_registry()
     initial_map, diagram_map = build_chapter_graphic_assignments(folios_conc)
 
     # 0. Build Winterberg's 1889 Critical Introduction (intro/intro_en.rst & intro/intro_de.rst)

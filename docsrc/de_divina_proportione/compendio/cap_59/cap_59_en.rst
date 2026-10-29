@@ -15,7 +15,9 @@ CHAPTER LIX
 
 Another species of columns is called **lateral** or **faceted** (:term:`*colonne laterate* <colonna-laterata>`, prisms), of which the first is the **three-sided** or **triangular column** (*colonna laterata trilatera*, :ref:`Plates XLV–XLVI <plates-polyhedra-en>`):
 
-.. assertion:: Structure of the Triangular Column (*Corpo Seratile*)
+.. rubric:: Structure of the Triangular Column (*Corpo Seratile*)
+
+.. assertion::
 
    1. Its two opposite bases—the upper (*suprema*) :math:`abc` and the lower (*inferiore*) :math:`def`—are **two equal and parallel triangles** separated by the height (altitude) of the column (see the marginal diagram ``0053.g1.png`` on Folio 0053).
    2. Our author :person:`**Euclid** <euclid>` (in :person:`Campanus <campanus>` Book XI/XII) calls this triangular prism the **serratile body** (:term:`*corpo seratile* <corpo-seratile>`, from *serra*, a saw, because it is formed by sawing a parallelepiped diagonally in half!).

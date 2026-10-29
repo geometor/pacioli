@@ -17,7 +17,9 @@ The second species of lateral columns comprises the **four-sided** or **quadrila
 
 Because these columns vary according to the shape of their quadrangular bases, Your Highness must recall from the beginning of the :just:`first book of Euclid <I.Def.22>` (as preserved in the Arabic-Latin tradition of :person:`Campanus <campanus>`) that all rectilinear four-sided plane figures are divided into **four regular/parallelogrammic species** and a **fifth irregular class** (illustrated by the five marginal diagrams ``0053.g2.png`` and ``0054.g1.png``–``0054.g5.png``):
 
-.. assertion:: The Five Species of Rectilinear Quadrilaterals (:just:`I.Def.22`)
+.. rubric:: The Five Species of Rectilinear Quadrilaterals (:just:`I.Def.22`)
+
+.. assertion::
 
    1. **Figure A — Quadrato (Square)**: Has all four sides equal and all four angles right angles (:g:`tetragonon`).
    2. **Figure B — Tetragono Longo (Oblong Rectangle)**: Has all four angles right angles, and opposite sides equal and parallel, but is longer than it is wide (:g:`heteromekes`).

@@ -19,7 +19,9 @@ $$(a + b) \cdot b = a^2$$
 
 Therefore, even if a problem should never explicitly mention dividing a quantity "according to the proportion having a mean and two extremes," but should merely ask to make of it two parts so conditioned that the product of one part and the whole quantity equals the square of the other part, anyone who understands well and is expert in the art must reduce the problem to this our proportion, since it cannot be interpreted otherwise.
 
-.. assertion:: Algebraic Division of $10$ in the Divine Proportion
+.. rubric:: Algebraic Division of $10$ in the Divine Proportion
+
+.. assertion::
 
    For example, suppose someone should say: *"Make of $10$ two such parts that when one part is multiplied by $10$, it produces as much as the other part multiplied by itself."*
 
@@ -34,7 +36,9 @@ Therefore, even if a problem should never explicitly mention dividing a quantity
 
    (As for such operations of multiplying, adding, subtracting, and dividing apotomes [*residui*], binomials [*binomii*], and roots [*radici*], as well as all other rational and irrational quantities, whole numbers and fractions, in every way—since we have demonstrated them in full in our aforesaid work [*Summa*], I do not trouble to repeat them here, attending only to stating new things and not reiterating those already told.)
 
-.. assertion:: Verification of Continuous Proportionality
+.. rubric:: Verification of Continuous Proportionality
+
+.. assertion::
 
    When any quantity is thus divided, we shall always have **three terms** ordered in continuous proportionality:
 

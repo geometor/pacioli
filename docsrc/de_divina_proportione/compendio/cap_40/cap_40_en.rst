@@ -18,7 +18,9 @@ The sixth proposition of the fifteenth book (:cite:`Campanus XV.6 <campanus:eucl
 
    In a given regular body of twenty equilateral triangular bases (:term:`*ycocedron* <icosahedron>`), to inscribe the regular body of twelve equilateral and equiangular pentagonal bases (:term:`*duodecedron* <dodecahedron>`) so that the twenty vertices of the :term:`duodecedron <dodecahedron>` stand at the twenty centers of the triangular faces of the :term:`ycocedron <icosahedron>`.
 
-.. assertion:: Construction and Proof (:just:`IV.4`, :just:`XIII.16`, :just:`XIII.7`)
+.. rubric:: Construction and Proof (:just:`IV.4`, :just:`XIII.16`, :just:`XIII.7`)
+
+.. assertion::
 
    1. In each of the twenty equilateral triangular faces of the given :term:`ycocedron <icosahedron>`, find the **center** of that triangle (:just:`IV.4`), giving twenty points in all—one at the middle of each face of the :term:`ycocedron <icosahedron>` (see the marginal diagram ``0039.g3.png`` on Folio 0039).
    2. Around each of the twelve :term:`solid angles <angulo-solido>` (vertices) of the :term:`ycocedron <icosahedron>`, exactly **five** equilateral triangular faces meet (:ref:`Chapter XXV <compendio-cap_25-en>`, :ref:`Chapter XXIX <compendio-cap_29-en>`). Join in order the five centers of the five triangles surrounding each vertex of the :term:`ycocedron <icosahedron>` by five straight lines.

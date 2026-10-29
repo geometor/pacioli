@@ -18,7 +18,9 @@ Returning now to the :term:`**duodecedron** <dodecahedron>`, the eleventh propos
 
    In a given regular body of twelve pentagonal bases (:term:`*duodecedron* <dodecahedron>`), to inscribe the regular body of eight equilateral triangular bases (:term:`*octocedron* <octahedron>`) so that the six :term:`solid angles <angulo-solido>` of the :term:`octocedron <octahedron>` stand upon the midpoints of six opposite edges of the :term:`duodecedron <dodecahedron>`.
 
-.. assertion:: Construction and Proof (Campanus XV.11, via :just:`XIII.17` and :just:`XIII.14`)
+.. rubric:: Construction and Proof (Campanus XV.11, via :just:`XIII.17` and :just:`XIII.14`)
+
+.. assertion::
 
    1. Recall from :ref:`Chapter XXX <compendio-cap_30-en>` (:just:`XIII.17`) how the :term:`duodecedron <dodecahedron>` was built by erecting six hipped roofs over the **six square faces of an inscribed cube**: over each of the six square faces of that underlying cube there stands one **ridge edge** (:term:`*corausto* <corausto>` or roof-crest, such as :math:`vx` in ``0035.g1.png``) of the :term:`duodecedron <dodecahedron>`, parallel to the median of that square face of the cube and lying directly above its center!
    2. Thus among the thirty edges of the :term:`duodecedron <dodecahedron>`, there is a set of **six privileged edges**—three pairs of opposite, parallel roof-ridge edges—whose **six midpoints** lie directly on the three mutually perpendicular axes passing through the center of the :term:`duodecedron <dodecahedron>` (and of the underlying cube) and perpendicular to the six faces of that cube (see the marginal diagram ``0041.g2.png`` on Folio 0041).

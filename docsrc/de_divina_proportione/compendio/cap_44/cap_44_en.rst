@@ -18,7 +18,9 @@ Before completing the remaining inscriptions in the :term:`duodecedron <dodecahe
 
    In a given cube (:term:`*exacedron* <exahedron>`), to inscribe the regular body of twenty equilateral triangular bases (:term:`*ycocedron* <icosahedron>`) so that the twelve vertices of the :term:`ycocedron <icosahedron>` stand in pairs along six median lines on the six square faces of the cube (or at the twelve centers via the inscribed :term:`octocedron <octahedron>`/:term:`duodecedron <dodecahedron>`).
 
-.. assertion:: Construction and Proof (Campanus XV.10, via XV.3 and :just:`XIII.16`)
+.. rubric:: Construction and Proof (Campanus XV.10, via XV.3 and :just:`XIII.16`)
+
+.. assertion::
 
    1. :person:`Campanus <campanus>` demonstrates this inscription by first inscribing the :term:`**octocedron** <octahedron>` in the given cube by the method of :ref:`Chapter XXXVII <compendio-cap_37-en>` (:cite:`Campanus XV.3 <campanus:euclid:XV.3>`), so that the six vertices of the :term:`octocedron <octahedron>` stand at the six centers of the square faces of the cube, and the three axes of the :term:`octocedron <octahedron>` join the opposite face-centers of the cube (see the marginal diagram ``0041.g1.png`` on Folio 0041).
    2. Alternatively—and even more manifestly from the :term:`Divine Proportion <divina-proportione>`—on the six square faces of the cube, draw six median lines through the six face-centers in three mutually perpendicular directions (so that on each pair of opposite square faces the medians are parallel, and on each adjacent face the median is perpendicular to the shared edge, just as we did in :ref:`Chapter XXX <compendio-cap_30-en>` when erecting the roofs of the :term:`duodecedron <dodecahedron>`).

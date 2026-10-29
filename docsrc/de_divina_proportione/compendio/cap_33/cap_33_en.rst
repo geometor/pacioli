@@ -15,7 +15,9 @@ CHAPTER XXXIII
 
 Continuing with the fourteenth book of our author (with the additions and commentaries of :person:`Campanus <campanus>`), we summarize how the surfaces and volumes of the other regular bodies—the :term:`tetracedron <tetrahedron>`, the cube, and the :term:`octocedron <octahedron>`—are compared when inscribed in the same sphere (:just:`XIV.9`, :just:`XIV.10`).
 
-.. assertion:: Proportions of the Tetrahedron, Cube, and Octahedron in the Same Sphere
+.. rubric:: Proportions of the Tetrahedron, Cube, and Octahedron in the Same Sphere
+
+.. assertion::
 
    1. **Edges in the Same Sphere** (recapitulating :just:`XIII.18`):
 

@@ -19,7 +19,9 @@ Next we show how to form the third regular body, called the :term:`**octocedron*
 
    Given the diameter of a sphere, to find the side of the regular body of eight equilateral triangular bases (:term:`*octocedron* <octahedron>`) inscribed in it, and to show that the square on the diameter of the sphere is double (:math:`2 : 1`) the square on the side of the :term:`octocedron <octahedron>`.
 
-.. assertion:: Construction and Proof (:just:`XIII.14`, :just:`III.31`, :just:`I.47`, :just:`IV.6`)
+.. rubric:: Construction and Proof (:just:`XIII.14`, :just:`III.31`, :just:`I.47`, :just:`IV.6`)
+
+.. assertion::
 
    1. Let :math:`ab` be the diameter of the given sphere (see the marginal diagram ``0033.g2.png`` on Folio 0033), and bisect :math:`ab` at its midpoint :math:`c` (:math:`ac = cb = \frac{1}{2}ab`).
    2. Describe the semicircle :math:`adb` upon diameter :math:`ab`, draw :math:`cd` from the center :math:`c` perpendicular to :math:`ab` meeting the circumference at :math:`d`, and join the chord :math:`db` (and :math:`da`).

@@ -23,7 +23,9 @@ Having shown the rule for measuring round columns, we now give the general—and
 
       \text{Volume}_{\text{prism}} = \text{Area}_{\text{base}} \times h
 
-.. assertion:: Worked Numerical Example and General Application
+.. rubric:: Worked Numerical Example and General Application
+
+.. assertion::
 
    1. Let :math:`ab` be a square-based lateral column (*colonna laterata tetragona*) whose altitude is :math:`10` and whose square bases measure :math:`6` on each side.
    2. First square one of the bases by multiplying a side by itself:

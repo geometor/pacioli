@@ -15,7 +15,9 @@ CHAPTER XX
 
 Because up to this point we have spoken only of columns standing on the ground floor, it remains to explain how **columns placed in a second story above other columns** (*colonne situate sopra altre colonne*, as in two-story cloisters, loggias, and basilicas—such as the noble cloister of our convent of **Santa Croce in Florence** and many other buildings in Italy) must be proportioned both for structural stability and for visual grace.
 
-.. assertion:: Rule for Superimposed Upper Columns and Parapets (Vitruvius V.1.3–5)
+.. rubric:: Rule for Superimposed Upper Columns and Parapets (Vitruvius V.1.3–5)
+
+.. assertion::
 
    Our :person:`**Vitruvius** <vitruvius>` makes this clear in his fifth book (V.1.3–5), whose Latin words we first quote verbatim:
 

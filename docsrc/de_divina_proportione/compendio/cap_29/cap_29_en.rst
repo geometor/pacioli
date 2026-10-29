@@ -19,7 +19,9 @@ Having constructed the first three regular bodies—whose edges are either comme
 
    Given the diameter of a sphere, to construct the regular body of twenty equilateral triangular bases (:term:`*ycocedron* <icosahedron>`) inscribed in that sphere, and to demonstrate that the side (edge) of the :term:`ycocedron <icosahedron>` is an irrational line of the fourth species of subtraction, called the **Minor** (*linea menore*, :just:`X.76`).
 
-.. assertion:: Construction and Proof (:just:`XIII.16`, :just:`XIII.9`, :just:`XIII.10`, :just:`XIII.3`, :just:`X.16`, :just:`X.76`)
+.. rubric:: Construction and Proof (:just:`XIII.16`, :just:`XIII.9`, :just:`XIII.10`, :just:`XIII.3`, :just:`X.16`, :just:`X.76`)
+
+.. assertion::
 
    1. Let :math:`ab` be the diameter of the given sphere (see the marginal diagram ``0034.g1.png`` on Folio 0034), and divide :math:`ab` at point :math:`c` so that :math:`ac` is quadruple :math:`cb` (:math:`ac = 4\,cb`, so :math:`ab = 5\,cb`).
    2. Describe the semicircle :math:`adb` upon diameter :math:`ab`, draw the perpendicular :math:`cd` meeting the arc at :math:`d`, and join :math:`db`. By the :just:`eighth of the sixth <VI.8>`, :math:`ab : cb = ab^{2} : db^{2} = 5 : 1` and :math:`ac : cb = cd^{2} : cb^{2} = 4 : 1`, so :math:`ab^{2} = 5\,db^{2}` and :math:`cd = 2\,cb`.

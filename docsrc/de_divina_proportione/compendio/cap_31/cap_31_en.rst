@@ -19,7 +19,9 @@ Now that we have shown how each of the five regular bodies is individually forme
 
    To set out in a single plane diagram the sides (edges) of all five regular bodies inscribed in one and the same sphere, and to compare them with one another both in square (*in potentia*) and in length (*in longitudine*).
 
-.. assertion:: Construction on the Semicircle (:just:`XIII.18`)
+.. rubric:: Construction on the Semicircle (:just:`XIII.18`)
+
+.. assertion::
 
    1. Let :math:`ab` be the diameter of the sphere, and upon :math:`ab` describe the semicircle :math:`afdb` (see the marginal diagram ``0036.g1.png`` on Folio 0036).
    2. Divide the diameter :math:`ab` at point :math:`c` so that :math:`ac = 2\,cb` (:math:`cb = \frac{1}{3}ab`), and at point :math:`e` so that :math:`ae = eb` (:math:`eb = \frac{1}{2}ab`). Erect the perpendiculars :math:`cd` and :math:`ef` to meet the circumference at :math:`d` and :math:`f`, and join the chords :math:`ad`, :math:`db`, and :math:`fb`.
@@ -37,7 +39,9 @@ Now that we have shown how each of the five regular bodies is individually forme
 
    5. Finally, divide the chord :math:`db` (which is the **side of the cube**) at point :math:`m` according to our :term:`**Divine Proportion** <divina-proportione>`, making :math:`dm` its greater segment. By :ref:`Chapter XXX <compendio-cap_30-en>` (:just:`XIII.17`), :math:`dm` is the **side of the duodecedron**!
 
-.. assertion:: Comparison of the Five Edges (:just:`XIII.18`)
+.. rubric:: Comparison of the Five Edges (:just:`XIII.18`)
+
+.. assertion::
 
    1. Comparing the first three edges in square (*in potentia*):
 

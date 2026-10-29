@@ -19,7 +19,9 @@ The third proposition of the fifteenth book (:cite:`Campanus XV.3 <campanus:eucl
 
    In a given cube (:term:`*exacedron* <exahedron>`), to inscribe the regular body of eight equilateral triangular bases (:term:`*octocedron* <octahedron>`) so that the six :term:`solid angles <angulo-solido>` of the :term:`octocedron <octahedron>` stand at the centers of the six square faces of the cube.
 
-.. assertion:: Construction and Proof (:just:`IV.6`, :just:`I.47`, :just:`XI.10`)
+.. rubric:: Construction and Proof (:just:`IV.6`, :just:`I.47`, :just:`XI.10`)
+
+.. assertion::
 
    1. In each of the six square faces of the given cube, draw the two diagonals intersecting one another at the center of that square face (:just:`IV.6`), giving six face centers :math:`k, l, m, n` on the four vertical faces and :math:`o, p` on the lower and upper faces (see the marginal diagram ``0038.g3.png`` on Folio 0038).
    2. Join the four lateral face centers in order by the four straight lines :math:`kl, lm, mn, nk` to form a central horizontal square, and join each of the two polar face centers :math:`o` and :math:`p` by four straight lines (:math:`ok, ol, om, on` and :math:`pk, pl, pm, pn`) to the four lateral centers.

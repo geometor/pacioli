@@ -18,7 +18,9 @@ Now we complete the twelfth proposition of the fifteenth book (:cite:`Campanus X
 
    In a given regular body of twelve pentagonal bases (:term:`*duodecedron* <dodecahedron>`), to inscribe the cube (:term:`*exacedron* <exahedron>`) and the pyramid of four triangular bases (:term:`*tetracedron* <tetrahedron>`) so that their vertices stand at vertices of the :term:`duodecedron <dodecahedron>`.
 
-.. assertion:: Construction and Proof (:just:`XIII.17`, :just:`XIII.8`, Campanus XV.2)
+.. rubric:: Construction and Proof (:just:`XIII.17`, :just:`XIII.8`, Campanus XV.2)
+
+.. assertion::
 
    1. **Inscribing the Cube in the Duodecedron**: As was already demonstrated in :ref:`Chapter XXX <compendio-cap_30-en>` (:just:`XIII.17`) and used in :ref:`Chapter XLI <compendio-cap_41-en>`, across each of the twelve pentagonal faces of the given :term:`duodecedron <dodecahedron>` draw one **pentagonal chord** (:term:`*corda pentagonica* <corda-pentagonica>`, subtending one pentagonal angle) so that the twelve chords meet three by three at eight of the twenty :term:`solid angles <angulo-solido>` (vertices) of the :term:`duodecedron <dodecahedron>` (see the marginal diagram ``0041.g3.png`` on Folio 0041).
 

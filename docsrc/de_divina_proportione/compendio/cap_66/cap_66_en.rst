@@ -23,7 +23,9 @@ The true and exact measure of every complete pyramid (*pyramide integra*), wheth
 
       \text{Volume}_{\text{pyramid}} = \frac{1}{3}\,\text{Volume}_{\text{column}} = \frac{1}{3}\,\text{Area}_{\text{base}} \times h
 
-.. assertion:: Worked Example and Euclidean Justification (:just:`XII.10` [Campanus XII.9], :just:`XII.7` [Campanus XII.8])
+.. rubric:: Worked Example and Euclidean Justification (:just:`XII.10` [Campanus XII.9], :just:`XII.7` [Campanus XII.8])
+
+.. assertion::
 
    1. Let :math:`abc` be a round pyramid (cone) whose circular base :math:`bc` has diameter :math:`7` and whose perpendicular altitude (axis) :math:`ad` is :math:`10` (see the marginal diagram ``0057.g1.png``).
    2. As we found in :ref:`Chapter LXII <compendio-cap_62-en>` for the round column of diameter :math:`7` and altitude :math:`10`, the area of the circular base is :math:`\frac{11}{14} \times 49 = 38\frac{1}{2}`, and multiplying by the altitude :math:`10` gives :math:`385` for the volume of the entire round column.

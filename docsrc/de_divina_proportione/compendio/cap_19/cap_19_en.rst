@@ -17,7 +17,9 @@ CHAPTER XIX
 
    If a quantity be divided according to the aforesaid proportion, **all the effects and relations** that can arise from it and its parts proceed **identically in ratio, number, species, and genus** from **any other quantity** so divided (:just:`XIV.2`).
 
-.. assertion:: Geometric and Numerical Demonstration
+.. rubric:: Geometric and Numerical Demonstration
+
+.. assertion::
 
    For example, let there be two lines thus divided: namely, one line :g:`ab` divided at :g:`c` whose greater part is :g:`ac`, and another line :g:`de` divided at :g:`f` whose greater part is :g:`df`. And what we say of these two lines, we understand likewise of infinitely many others, which can easily be assigned by way of Arithmetic:
 

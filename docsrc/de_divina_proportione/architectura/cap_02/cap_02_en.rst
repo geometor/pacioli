@@ -15,7 +15,9 @@ CHAPTER II
 
 Having explained the vertical divisions of the facial profile :math:`mk`, we now set forth the horizontal divisions across the width of the head from the front profile :math:`mk` to the nape (:term:`*cotozzo* <cotozzo>`) :math:`a`, the proportions of the **eye**, **ear**, **neck**, **occiput**, and **crown**, and the instrument called the **net** (*la rete*) used by painters.
 
-.. assertion:: Horizontal Grid Subdivisions and the Painter's Perspective Net (*La Rete*)
+.. rubric:: Horizontal Grid Subdivisions and the Painter's Perspective Net (*La Rete*)
+
+.. assertion::
 
    1. Just as we divided the vertical height :math:`mk` of the oblong rectangle :math:`kmsb` into **three equal parts**, so we divide its horizontal width :math:`ms` (and :math:`kb`) into **three equal parts**: :math:`mo`, :math:`oq`, and :math:`qs` (each equal to :math:`\frac{1}{3}ms`).
    2. Bisecting each of these thirds at points :math:`n, p, r` divides the width :math:`ms` into **sixths** (:math:`\frac{1}{6}ms`); bisecting again gives **twelfths** (:math:`\frac{1}{12}ms`), and bisecting once more gives **twenty-fourths** (:math:`\frac{1}{24}ms`), and so on as finely as we please.
@@ -23,7 +25,9 @@ Having explained the vertical divisions of the facial profile :math:`mk`, we now
       The more subdivisions are marked, the easier it is for the perspectivist (*prospectivo*) to apprehend with his eye the exact proportions of whatever object he wishes to draw—whether a human head, animals, trees, or buildings. For this purpose painters construct a rectangular frame (*quadro ouer tetragono longo*) strung across in both directions with many fine threads of lute-string, silk, or sinew (*molti sottili fili tirati de citera o seta o nervi*), forming a grid of squares.
       Fixing this **net** (*rete*) firmly upright between himself and the living model or object he intends to portray (which must also remain still in its pose), the painter sits or kneels at a fixed viewpoint (*col suo diligente ochio*), observes where the contours of the object fall across the horizontal and vertical threads of the net, and transfers those coordinates with his stylus onto a correspondingly squared sheet of paper, panel, or wall, scaling the squares larger or smaller at will and clothing the outlined form with visual grace (*gratia visuale*).
 
-.. assertion:: Proportions of the Eye, Ear, Neck, Occiput, and Vertex
+.. rubric:: Proportions of the Eye, Ear, Neck, Occiput, and Vertex
+
+.. assertion::
 
    Returning now to the head in our gridded rectangle :math:`kmsb` (:ref:`Folio 0066 <architectura-cap_01-en>` and :ref:`Plate 0137 <plates-architectural-en>`):
 

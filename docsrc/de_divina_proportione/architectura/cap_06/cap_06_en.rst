@@ -15,7 +15,9 @@ CHAPTER VI
 
 The :term:`**stylobate** <stilobata>` (:term:`*stilobata* <stilobata>`, which we call the :term:`*pilastrello* <stilobata>` or :term:`*basamento* <stilobata>` of the column, marked :math:`cdef` in :ref:`Plate 0213 <plates-architectural-en>`) is the rectangular pedestal that supports the column and its base.
 
-.. assertion:: Proportions and Mouldings of the Stylobate and Stereobate (:ref:`Plate 0213 <plates-architectural-en>`, :ref:`Plate 0185 <plates-architectural-en>`)
+.. rubric:: Proportions and Mouldings of the Stylobate and Stereobate (:ref:`Plate 0213 <plates-architectural-en>`, :ref:`Plate 0185 <plates-architectural-en>`)
+
+.. assertion::
 
    1. **Width and Height of the Stylobate Die (:math:`cdef`)**:
 

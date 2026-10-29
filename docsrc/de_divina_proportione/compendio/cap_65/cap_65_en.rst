@@ -19,7 +19,9 @@ Just as lateral columns have infinitely many species according to the polygons o
 
    In the :just:`eleventh book <XI.Def.12>`, our philosopher defines the **lateral pyramid** as a solid figure contained by plane surfaces that rise from a single plane base to meet at a single opposite point overhead, called the **cone** or **apex** (:term:`*cono dela pyramide* <cono-pyramidale>`).
 
-.. assertion:: Properties and Classification of Lateral Pyramids
+.. rubric:: Properties and Classification of Lateral Pyramids
+
+.. assertion::
 
    1. **Triangular Lateral Faces**: In every lateral pyramid, all the lateral surfaces surrounding it (except the base itself) rise to meet at the single apex (*cono*) and are therefore **triangles**, whereas the base may be a triangle (as in Pyramid ``A`` with apex ``B`` in marginal diagram ``0055.g1.png``), a quadrangle (Pyramid ``D`` with apex ``E`` in ``0055.g2.png``), a pentagon (Pyramid ``F`` with apex ``G`` in ``0055.g3.png``), a hexagon, or any polygon whatever (see :ref:`Plates LI–LVI <plates-polyhedra-en>`).
    2. **Derivation from the Corresponding Column**: Every lateral pyramid is generated from its corresponding lateral column by fixing a single point in the upper base of the column and drawing straight lines from that point to all the vertices of the lower base: the resulting pyramid has as many triangular lateral faces as the base has sides, and shares the same name (*trigona/triangulare*, *quadrilatera*, *pentagona*, etc.) as its column.

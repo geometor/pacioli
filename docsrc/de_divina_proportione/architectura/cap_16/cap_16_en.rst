@@ -15,7 +15,9 @@ CHAPTER XVI
 
 Above the frieze (:term:`*zophoro* <zophoro>`, :math:`V`) is assembled the crowning upper block called the **cornice** (*cornice* by the Ancients, :term:`*cornicione* <cornicione>` by the Moderns, depicted with its letters :math:`k, l, m, o` in :ref:`Plate 0215 <plates-architectural-en>`).
 
-.. assertion:: Sequence of Mouldings in the Cornice from Bottom to Top (:ref:`Plate 0215 <plates-architectural-en>`)
+.. rubric:: Sequence of Mouldings in the Cornice from Bottom to Top (:ref:`Plate 0215 <plates-architectural-en>`)
+
+.. assertion::
 
    Starting immediately above the frieze :math:`V` and ascending in order to the summit:
 
