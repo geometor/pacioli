@@ -4,7 +4,7 @@
 mission
 =======
 
-    track and analyze the works of Fra Luca Pacioli
+    track and analyze the works of :person:`Fra Luca Pacioli <pacioli>`
 
 goals
 -----

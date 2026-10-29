@@ -1,15 +1,21 @@
 
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-content_root="../">
 
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>modules &mdash; Project name not set  documentation</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=ea5fcf70" />
-  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=38c7a96b" />
+  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=5c8bf1f0" />
   <link rel="stylesheet" type="text/css" href="../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
   <link rel="stylesheet" href="../_static/css/print.css" type="text/css" media="print" />
   <link rel="icon" href="../_static/favicon.ico" />
 </head>
@@ -31,10 +37,10 @@
       <label for="nav-Header-toggle" >Header</label>
       <ul>
         <li>
-          <a href="../mission/index.html"  >mission</a>
+          <a href="../de_divina_proportione/index.html"  >DE DIVINA PROPORTIONE</a>
         </li>
         <li>
-          <a href="../books/index.html"  >Books</a>
+          <a href="../mission/index.html"  >mission</a>
         </li>
         <li>
           <a href="#" aria-selected="true" aria-current="true">modules</a>
@@ -61,25 +67,25 @@
           </div>
         </nav>
       </header>
-      <div class="content">
-        <section id="modules">
+      <div class="content body" role="main">
+        <section class="level-1" id="modules">
           <h1>modules<a class="headerlink" href="#modules" title="Link to this heading">¶</a></h1>
           </section>
-          <section id="module-geometor.pacioli">
+          <section class="level-1" id="module-geometor.pacioli">
           <span id="geometor-pacioli"></span><h1>geometor.pacioli<a class="headerlink" href="#module-geometor.pacioli" title="Link to this heading">¶</a></h1>
           <p>Tools for parsing and processing “De Divina Proportione” by Luca Pacioli.</p>
-          <section id="key-components">
+          <section class="level-2" id="key-components">
           <h2>Key Components:<a class="headerlink" href="#key-components" title="Link to this heading">¶</a></h2>
           <ul class="simple">
           <li><p><strong>Parser</strong>: The <a class="reference internal" href="#geometor.pacioli.PacioliParser" title="geometor.pacioli.PacioliParser"><code class="xref py py-class docutils literal notranslate"><span class="pre">PacioliParser</span></code></a> class extracts chapters and content from the transcribed text.</p></li>
           <li><p><strong>Execution</strong>: The <cite>run_parse.py</cite> script executes the parsing process.</p></li>
           </ul>
           </section>
-          <section id="usage">
+          <section class="level-2" id="usage">
           <h2>Usage:<a class="headerlink" href="#usage" title="Link to this heading">¶</a></h2>
           <p>Initialize <a class="reference internal" href="#geometor.pacioli.PacioliParser" title="geometor.pacioli.PacioliParser"><code class="xref py py-class docutils literal notranslate"><span class="pre">PacioliParser</span></code></a> with resources and output directories, then call <cite>parse()</cite>.</p>
           </section>
-          <section id="submodules">
+          <section class="level-2" id="submodules">
           <h2>Submodules<a class="headerlink" href="#submodules" title="Link to this heading">¶</a></h2>
           <div class="toctree-wrapper compound">
           <ul>
@@ -95,7 +101,7 @@
           </ul>
           </div>
           </section>
-          <section id="classes">
+          <section class="level-2" id="classes">
           <h2>Classes<a class="headerlink" href="#classes" title="Link to this heading">¶</a></h2>
           <table class="autosummary longtable docutils align-default">
           <tbody>
@@ -105,26 +111,35 @@
           </tbody>
           </table>
           </section>
-          <section id="functions">
+          <section class="level-2" id="functions">
           <h2>Functions<a class="headerlink" href="#functions" title="Link to this heading">¶</a></h2>
           <table class="autosummary longtable docutils align-default">
           <tbody>
           <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extract_all" title="geometor.pacioli.extract_all"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_all</span></code></a>(→ None)</p></td>
           <td><p>Extract page images and text for the entire volume in parallel.</p></td>
           </tr>
-          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.clean_image" title="geometor.pacioli.clean_image"><code class="xref py py-obj docutils literal notranslate"><span class="pre">clean_image</span></code></a>(→ PIL.Image.Image)</p></td>
-          <td><p>Applies a linear levels adjustment to the image, mapping white_point to pure white (255).</p></td>
+          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.build_graphics_index" title="geometor.pacioli.build_graphics_index"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_graphics_index</span></code></a>(→ pathlib.Path)</p></td>
+          <td><p>Compile all per-folio &lt;folio&gt;.json files into graphics_index.json.</p></td>
           </tr>
-          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.detect_graphics_cv" title="geometor.pacioli.detect_graphics_cv"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_graphics_cv</span></code></a>(→ List[Dict[str, Any]])</p></td>
-          <td><p>Detect graphics using OpenCV if available, falling back to SciPy.</p></td>
+          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.clean_image" title="geometor.pacioli.clean_image"><code class="xref py py-obj docutils literal notranslate"><span class="pre">clean_image</span></code></a>(→ PIL.Image.Image)</p></td>
+          <td><p>Normalize aged parchment background and binding shadows to pure white (255).</p></td>
           </tr>
-          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.extract_from_json" title="geometor.pacioli.extract_from_json"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_from_json</span></code></a>(→ None)</p></td>
-          <td><p>Extract all graphics defined in a &lt;folio&gt;.json file from the corresponding folio scan.</p></td>
+          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.detect_graphics_cv" title="geometor.pacioli.detect_graphics_cv"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_graphics_cv</span></code></a>(→ List[Dict[str, Any]])</p></td>
+          <td><p>Detect full-page plate graphics using OpenCV if available, falling back to SciPy.</p></td>
+          </tr>
+          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.detect_initials" title="geometor.pacioli.detect_initials"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_initials</span></code></a>(→ List[Dict[str, Any]])</p></td>
+          <td><p>Detect woodcut illuminated initial caps by finding 2D ink-density centers along the text column edge.</p></td>
+          </tr>
+          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.detect_margin_figures" title="geometor.pacioli.detect_margin_figures"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_margin_figures</span></code></a>(→ List[Dict[str, Any]])</p></td>
+          <td><p>Detect geometric diagrams and marginalia strictly in the outer margin of a text folio.</p></td>
+          </tr>
+          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extract_from_json" title="geometor.pacioli.extract_from_json"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_from_json</span></code></a>(→ None)</p></td>
+          <td><p>Extract all margin graphics and illuminated initial caps defined in &lt;folio&gt;.json.</p></td>
           </tr>
           </tbody>
           </table>
           </section>
-          <section id="package-contents">
+          <section class="level-2" id="package-contents">
           <h2>Package Contents<a class="headerlink" href="#package-contents" title="Link to this heading">¶</a></h2>
           <dl class="py class">
           <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser">
@@ -242,22 +257,51 @@
           </dd></dl>
 
           <dl class="py function">
+          <dt class="sig sig-object py" id="geometor.pacioli.build_graphics_index">
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">build_graphics_index</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">directory</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></span><a class="headerlink" href="#geometor.pacioli.build_graphics_index" title="Link to this definition">¶</a></dt>
+          <dd><p>Compile all per-folio &lt;folio&gt;.json files into graphics_index.json.</p>
+          </dd></dl>
+
+          <dl class="py function">
           <dt class="sig sig-object py" id="geometor.pacioli.clean_image">
-          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">clean_image</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">pil_image</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">PIL.Image.Image</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">white_point</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">226</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">PIL.Image.Image</span></span></span><a class="headerlink" href="#geometor.pacioli.clean_image" title="Link to this definition">¶</a></dt>
-          <dd><p>Applies a linear levels adjustment to the image, mapping white_point to pure white (255).</p>
-          <p>Effectively eliminates bleed-through, yellowed paper background, and scanning artifacts.</p>
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">clean_image</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">pil_image</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">PIL.Image.Image</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">white_point</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">226</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">preserve_color</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#bool" title="(in Python v3.13)"><span class="pre">bool</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">PIL.Image.Image</span></span></span><a class="headerlink" href="#geometor.pacioli.clean_image" title="Link to this definition">¶</a></dt>
+          <dd><p>Normalize aged parchment background and binding shadows to pure white (255).</p>
+          <p>Uses morphological closing + Gaussian blur to estimate local paper illumination per channel,
+          eliminating yellowed paper cast, bleed-through, and gutter shadows while preserving crisp ink.
+          When <code class="docutils literal notranslate"><span class="pre">preserve_color=True</span></code> (e.g., red rubrication on folios 0005 and 0311), chromatic ink is kept.</p>
           </dd></dl>
 
           <dl class="py function">
           <dt class="sig sig-object py" id="geometor.pacioli.detect_graphics_cv">
           <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">detect_graphics_cv</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">image_path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><span class="pre">Dict</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.pacioli.detect_graphics_cv" title="Link to this definition">¶</a></dt>
-          <dd><p>Detect graphics using OpenCV if available, falling back to SciPy.</p>
+          <dd><p>Detect full-page plate graphics using OpenCV if available, falling back to SciPy.</p>
+          </dd></dl>
+
+          <dl class="py function">
+          <dt class="sig sig-object py" id="geometor.pacioli.detect_initials">
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">detect_initials</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">image_path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><span class="pre">Dict</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.pacioli.detect_initials" title="Link to this definition">¶</a></dt>
+          <dd><p>Detect woodcut illuminated initial caps by finding 2D ink-density centers along the text column edge.</p>
+          <p>Woodcut initials in the 1509 Paganini edition have consistent square dimensions:
+          - Standard chapter initials: 120x132 px (padded around the ~112x118 woodcut frame)
+          - Large treatise-opening initials (folios 0017 and 0085): 260x304 px
+          - Title-page red initial D (folio 0005): 184x188 px</p>
+          </dd></dl>
+
+          <dl class="py function">
+          <dt class="sig sig-object py" id="geometor.pacioli.detect_margin_figures">
+          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">detect_margin_figures</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">image_path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">is_recto</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#bool" title="(in Python v3.13)"><span class="pre">bool</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><span class="pre">Dict</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.pacioli.detect_margin_figures" title="Link to this definition">¶</a></dt>
+          <dd><p>Detect geometric diagrams and marginalia strictly in the outer margin of a text folio.</p>
+          <ul class="simple">
+          <li><p>Odd (recto) folios: right outer margin (to the right of the main text column).</p></li>
+          <li><p>Even (verso) folios: left outer margin (to the left of the main text column).</p></li>
+          </ul>
+          <p>Never falls back to full-page text blocks.</p>
           </dd></dl>
 
           <dl class="py function">
           <dt class="sig sig-object py" id="geometor.pacioli.extract_from_json">
           <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">extract_from_json</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">json_path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">no_clean</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#bool" title="(in Python v3.13)"><span class="pre">bool</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/constants.html#None" title="(in Python v3.13)"><span class="pre">None</span></a></span></span><a class="headerlink" href="#geometor.pacioli.extract_from_json" title="Link to this definition">¶</a></dt>
-          <dd><p>Extract all graphics defined in a &lt;folio&gt;.json file from the corresponding folio scan.</p>
+          <dd><p>Extract all margin graphics and illuminated initial caps defined in &lt;folio&gt;.json.</p>
           </dd></dl>
 
           </section>
@@ -280,11 +324,19 @@
     </article>
   </main>
   <div class="asides">
-    <aside>
+    <aside class="aside-search">
       <h3>Search</h3>
-      <div role="search">
-        <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
-          <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+      <div id="searchbox" role="search">
+        <form id="rtd-search-form" class="wy-form search-form" action="../search.html" method="get">
+          <div class="search-field">
+            <input type="search" name="q" placeholder="Search docs..." aria-label="Search docs" autocomplete="off" />
+            <button type="submit" class="search-submit" aria-label="Search" title="Search">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </div>
           <input type="hidden" name="check_keywords" value="yes" />
           <input type="hidden" name="area" value="default" />
         </form>
@@ -293,8 +345,7 @@
     <aside class="aside-types">
       <h3>Types</h3>
       <ul>
-        <li><a href="../types/book.html">book</a></li>
-        <li><a href="../types/chapter.html">chapter</a></li>
+        <li><a href="../types/apparatus.html">apparatus</a></li>
       </ul>
     </aside>
   </div>
@@ -319,6 +370,8 @@
   <script src="../_static/doctools.js?v=fd6eb6e6"></script>
   <script src="../_static/sphinx_highlight.js?v=6ffebe34"></script>
   <script src="../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../_static/js/geometor_interactive.js?v=4430a5d4"></script>
+  <script src="../_static/js/search_highlight.js"></script>
 
 </body>
 </html>

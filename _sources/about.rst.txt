@@ -12,5 +12,6 @@ I have always been deeply interested in architecture and have had the privilege 
 
 Architecture is order. 
 
-.. It can be in the material world.
+.. It can be in the material world.
+
 

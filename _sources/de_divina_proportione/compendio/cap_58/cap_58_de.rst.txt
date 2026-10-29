@@ -1,0 +1,37 @@
+:layout: book
+:canonical_id: Cap. LVIII
+:folio: 0051–0052 (f. 18r–f. 18v)
+
+.. _compendio-cap_58-de:
+
+CAPITEL LVIII
+=============
+
+.. rubric:: Von den oblongen Körpern, d. h. den mehr langen oder hohen als breiten.
+
+.. folio:: 0051–0052 (f. 18r–f. 18v)
+   :initial: 0051.c1.png
+
+Es folgt, erhabener Herzog, zur vollständigen Kenntniss dieses unseres Tractats, dass zu ihrer Kenntniss etwas von den oblongen Körpern, d. h. von denjenigen gesagt werden müsse, die mehr lang oder hoch, als breit sind, so wie es Säulen und ihre Pyramiden sind, unter denen sich mehrere Sorten der einen und der andern finden. Daher werden wir zuerst von den Säulen und ihren Entstehungsarten, sodann von ihren Pyramiden reden. Die Säulen sind zweierlei Art: nämlich runde und kantige, wie von den ebenen Figuren einige krummlinig sind, und zwar die, welche von krummen oder gewundenen Linien enthalten sind, und andere gradlinig genannt werden, und zwar die, welche von graden Linien enthalten sind.
+
+Die runde Säule ist ein zwischen zwei kreisförmigen gleichen Grundflächen enthaltener Körper. Und sie sind unter sich von gleichem Abstand. Dieselbe wird von unserm Philosophen im elften so definirt, nämlich als die runde körperliche Figur, deren Grundflächen zwei ebene Kreise am äussersten Ende und dem Abstand ihrer Dicke, d. h. Höhe, und welche die Spur des rechtwinkligen Parallelogramms bildet, wenn man die Seite festhält, welche den rechten Winkel enthält, und die genannte Ebene so weit herumgedreht wird, bis sie in ihre ursprüngliche Lage zurückkehrt. Und diese Figur wird runde Säule genannt.
+
+Daher ergibt sich für die runde Säule und die Kugel und den Kreis ein und dasselbe Centrum.
+
+Es sei z. B. das Parallelogramm abcd, d. h. vierseitige ebene Figur von equidistanten Seiten und rechten Winkeln. Und man halte die Seite ab fest; nachdem diese so festgehalten, führe man das ganze Parallelogramm so weit herum, bis es zu seiner Stelle zurückkehrt, von wo es sich zu bewegen begann. Die alsdann durch die Bewegung dieses Parallelogramms beschriebene körperliche Figur wird runde Säule genannt. Ihre Grundflächen sind zwei Kreise, das Centrum ist 7 der Punkt b, und der andere a ist der, den die Linie da bei ihrer Bewegung oder Drehung beschreibt, und ihr Centrum ist der Punkt a und die Axe dieser Säule wird die Linie ab genannt, welche bei der Bewegung des Parallelogramms fest stehen bleibt.
+
+Und wenn wir uns das Parallelogramm abcd vorstellen, wenn es bei seiner Drehung in die Lage abef gelangt, so verbinde man sie mit der Lage, von der es anfing sich zu bewegen der Verlängerung der ebenen Fläche gemäss, so nämlich, dass das Ganze ein einziges Parallelogramm dcef sei, und dass wir darin den Durchmesser de geführt haben, welcher Durchmesser de auch Durchmesser der Säule sein wird. Das was von der Säule und der Kugel und dem Kreise gesagt, dass sie ein und denselben Mittelpunkt haben, ist so zu verstehen, sofern von diesen ein und derselbe Durchmesser vorhanden, z. B. wir haben gesagt, dass de Durchmesser dieser Säule sei.
+
+Daher i) Nebenstehende Figur ist nur zur Krläuterung des Textes hinzugefügt. müssen die Kugel und der Kreis, deren Durchmesser die Linie de ist, nothwendigerweise ein und dasselbe Centrum, wie das Centrum der vorliegenden Säule haben. Es möge also die Linie de die Linie ab im Punkte g theilen, i) und g wird Centrum der Säule sein. Denn er halbirt die Axe der Säule und auch den Durchmesser der Säule, wie durch die sechsundzwanzigste des ersten bewiesen wird, weil die Winkel, welche bei g liegen, nach der fünfzehnten des ersten gleich sind. Und die Winke], die bei a, und bei b liegen, sind nach Voraussetzung Rechte.
+
+Und die Linie ad ist ferner gleich bc, daher ist dg = eg und ebenso ag = gb. Und sofern die Winkel e und/ Rechte sind, so wird, wenn man über dem Punkte g-, mit dem Intervall dg (und auch) über der Linie de einen Kreis beschreibt, derselbe nach der Umkehrung des ersten Theils der dreissigsten des dritten durch die Punkte c und / gehen. Daher ist der Punkt g Mittelpunkt des Kreises, dessen Durchmesser Durchmesser der Säule ist, und darum ist er es auch von der Kugel.
+
+Und hieraus offenbart es sich, dass jedem rechtwinkligen Parallelogramme der Kreis, und jeder Säule die Kugel umschrieben werden kann. Und so ist klar, was uns jenes Theorem unseres Philosophen in der genannten Definition der runden Säule hat vorführen wollen; worüber bis hierher genug sei, und wir werden im Folgenden von den kantigen sprechen, wie versprochen ward.
+
+Marginal Woodcut Diagrams (Paganini 1509)
+-----------------------------------------
+
+.. figure:: 0052.g1.png
+   :align: center
+
+   Folio 0052 Diagram 1

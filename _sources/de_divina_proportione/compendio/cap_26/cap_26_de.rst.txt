@@ -1,0 +1,30 @@
+:layout: book
+:canonical_id: Cap. XXVI
+:folio: 0032 (f. 8v)
+
+.. _compendio-cap_26-de:
+
+CAPITEL XXVI
+============
+
+.. rubric:: Von der Anfertigung oder Bildung jener fünf regelmässigen Körper und dem Verhältnisse eines jeden zum Durchmesser der Kugel," und zwar zuerst vom Tetraeder.
+
+.. folio:: 0032 (f. 8v)
+
+Nachdem gesehen und verstanden, was reguläre Körper und wie viele genau vorhanden seien, so folgt jetzt zu sagen, wie sie gebildet werden, damit sie genau von einer Kugel umgeben seien und ferner, welches Verhältniss und Bestimmung von ihnen oder ihren Seiten zum Durchmesser der Kugel stattfinden müsse, damit sie Jene genau umschliesse. Mittelst derselben gelangt man zur Kenntniss von ihnen allen. Demgemäss werden wir zuerst vom :term:`Tetraeder <tetrahedron>`, d. h. vom Körper aus vier gleichseitigen Dreiecksflächen sprechen und sodann nach und nach von jedem andern der Reihenfolge nach.
+
+Ich sage also, genannter Körper müsse auf folgende Art gebildet werden: zuerst nehme man den Durchmesser der Kugel, in welche wir ihn einzufügen beabsichtigen, den wir als die Linie ab annehmen. Und diese werde im Punkt c derart getheilt, dass der Abschnitt ac doppelt so gross als bc sei. 'o) Und man schlage über ihr einen Halbkreis adb und ziehe die Linie cd senkrecht auf die Linie ab, und ziehe die Linie bd und da.
+
+Sodann beschreibe man den Kreis fgh über dem Centrum e, dessen Halbmesser gleich der Linie cd sei. In diesem Kreise beschreibe man sodann ein gleichseitiges Dreieck, wie es die zweite des vierten lehrt, und dies Dreieck sei fgh. Und vom Centrum nach seinen Winkelpunkten ziehe man die Linien ef, eg, eh. Sodann errichte man über dem Centrum die Linie ek senkrecht zur Fläche des Kreises fgh, wie es die zwölfte des elften lehrt, und diese Senkrechte mache man gleich der Linie ac\ und vom Punkte k lasse man die Hypotomissen i) kf, kg, kh herab.
+
+Wenn man diese Dinge so genau beobachtet hat, so sage ich, dass die Pyramide von vier gleichseitigen Dreiecksflächen beendigt sei. Und diese wird genau von der Kugel eben jenes Durchmessers ab umschrieben sein. Und ich behaupte, gemäss dem Verhältniss des Durchmessers der Kugel zur Seite der construirten Pyramide, dass das Quadrat des genannten Durchmessers das Dreieinhalbfache des Quadrats der Seite genannter Pyramide sei, d. h. dass das Quadrat des Durchmessers das Quadrat der Seite der Pyramide anderthalbmal enthält, d. h. wie 3:2 und 6: 4 sich verhält.
+
+Und das will sagen, dass wenn das Quadrat genannten Durchmessers 6 wäre, das Quadrat der Seite der Pyramide 4 sein würde. Und so findet es sich in der Geometrie bewiesen.
+
+Marginal Woodcut Diagrams (Paganini 1509)
+-----------------------------------------
+
+.. figure:: 0032.g2.png
+   :align: center
+
+   Folio 0032 Diagram 2
