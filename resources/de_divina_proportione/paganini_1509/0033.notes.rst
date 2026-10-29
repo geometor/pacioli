@@ -13,10 +13,10 @@ Graphic Extraction & Calibration
 
 A total of **5** woodcut element(s) were extracted and calibrated from ``0033.png``:
 
-- **``g1``** (``0033.g1.png``): Type ``diagram`` | Caption: *Folio 0033 Diagram 1* | Bounding Box ``[x=638, y=32, w=345, h=348]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
-- **``g2``** (``0033.g2.png``): Type ``diagram`` | Caption: *Folio 0033 Diagram 2* | Bounding Box ``[x=641, y=396, w=325, h=217]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
-- **``g3``** (``0033.g3.png``): Type ``diagram`` | Caption: *Folio 0033 Diagram 3* | Bounding Box ``[x=644, y=751, w=317, h=216]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
-- **``g4``** (``0033.g4.png``): Type ``diagram`` | Caption: *Folio 0033 Diagram 4* | Bounding Box ``[x=618, y=981, w=329, h=335]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``g1``** (``0033.g1.png``): Type ``diagram`` | Caption: *Folio 0033 Diagram 1* | Bounding Box ``[x=642, y=34, w=337, h=351]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``g2``** (``0033.g2.png``): Type ``diagram`` | Caption: *Folio 0033 Diagram 2* | Bounding Box ``[x=645, y=400, w=317, h=209]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``g3``** (``0033.g3.png``): Type ``diagram`` | Caption: *Folio 0033 Diagram 3* | Bounding Box ``[x=643, y=755, w=314, h=208]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- **``g4``** (``0033.g4.png``): Type ``diagram`` | Caption: *Folio 0033 Diagram 4* | Bounding Box ``[x=620, y=985, w=323, h=327]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
 - **``c1``** (``0033.c1.png``): Type ``initial`` | Caption: *Folio 0033 Initial Cap 1* | Bounding Box ``[x=50, y=802, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations

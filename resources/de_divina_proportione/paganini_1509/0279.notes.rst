@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0279.png``:
 
-- **``g1``** (``0279.g1.png``): Type ``plate`` | Caption: *Plate XLV: Columna Laterata Quadrangula Solida (Κίων πλευρώδης τετράγωνος στερεός) — Solid Quadrangular Prism* | Bounding Box ``[x=0, y=0, w=581, h=1440]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0279.g1.png``): Type ``plate`` | Caption: *Plate XLV: Columna Laterata Quadrangula Solida (Κίων πλευρώδης τετράγωνος στερεός) — Solid Quadrangular Prism* | Bounding Box ``[x=141, y=172, w=428, h=797]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

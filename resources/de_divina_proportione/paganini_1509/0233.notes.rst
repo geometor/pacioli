@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0233.png``:
 
-- **``g1``** (``0233.g1.png``): Type ``plate`` | Caption: *Plate XXII: Icosahedron Planum Vacuum (Εἰκοσάεδρον ἐπίπεδον κενόν) — Hollow Regular Icosahedron* | Bounding Box ``[x=0, y=0, w=969, h=1491]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0233.g1.png``): Type ``plate`` | Caption: *Plate XXII: Icosahedron Planum Vacuum (Εἰκοσάεδρον ἐπίπεδον κενόν) — Hollow Regular Icosahedron* | Bounding Box ``[x=133, y=170, w=642, h=683]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

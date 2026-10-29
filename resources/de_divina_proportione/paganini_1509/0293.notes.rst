@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0293.png``:
 
-- **``g1``** (``0293.g1.png``): Type ``plate`` | Caption: *Plate LI: Pyramis Laterata Penthagona Solida (Πυραμὶς πλευρώδης πεντάγωνος στερεά) — Solid Pentagonal Pyramid* | Bounding Box ``[x=0, y=0, w=649, h=1400]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0293.g1.png``): Type ``plate`` | Caption: *Plate LI: Pyramis Laterata Penthagona Solida (Πυραμὶς πλευρώδης πεντάγωνος στερεά) — Solid Pentagonal Pyramid* | Bounding Box ``[x=260, y=212, w=374, h=720]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

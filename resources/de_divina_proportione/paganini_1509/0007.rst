@@ -10,9 +10,6 @@
 Folio 0007 (A2r) — Epistola ad Petrum Soderinum (1509)
 ======================================================
 
-.. picture:: 0007.g1.png
-   :alt: Folio 0007 Figura g1
-
 .. picture:: 0007.c1.png
    :alt: Folio 0007 Capolettera c1
 

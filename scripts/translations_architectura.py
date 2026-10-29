@@ -571,7 +571,7 @@ Even though our **Vitruvius** makes no particular mention of these polyhedra, ne
 
 .. rubric:: Phidias's Icosahedron in the Temple of Ceres in Rome (Read at the House of Baron Mario Mellini)
 
-Indeed, I remember reading in **Rome**, in the house of my patron the Roman baron **Messer Mario Mellini** (*in casa del mio Miser Mario Melini baron romano*), in certain ancient Roman annals, how **Phidias** (*Fidias*), the supreme sculptor of antiquity, wrought a certain work in the **Temple of Ceres** in the district of the Circus Maximus in Rome (*in Cerchi contrada de Roma nel tempio de Cerere*), in which he placed the fourth regular body called the **Icosahedron (*Ycocedron*), the figure of Water**!
+Indeed, I remember reading in **Rome**, in the house of my patron the Roman baron **Messer Mario Mellini** (*in casa del mio Miser Mario Melini baron romano*), in certain ancient Roman annals, how **Phidias** (*Fidias*), the supreme sculptor of antiquity, wrought a certain work in the **Temple of Ceres** in the district of the Circus Maximus in Rome (*in Cerchi contrada de Roma nel tempio de Cerere*), in which he placed the fourth regular body called the **Icosahedron** (*Ycocedron*), **the figure of Water**!
 
 And the annals recorded that **the philosophers praised that icosahedron above all else, and stopped to contemplate it longer than any other part of the entire temple**, even though the rest of the work was also of supreme excellence!
 

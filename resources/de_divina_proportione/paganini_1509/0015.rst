@@ -10,12 +10,6 @@
 Folio 0015 (A6r) — Tabula — Tabula (A6r)
 ========================================
 
-.. picture:: 0015.g1.png
-   :alt: Folio 0015 Tavola g1
-
-.. picture:: 0015.g2.png
-   :alt: Folio 0015 Figura g2
-
 .. picture:: 0015.c1.png
    :alt: Folio 0015 Capolettera c1
 

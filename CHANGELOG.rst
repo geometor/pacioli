@@ -1,3 +1,10 @@
+0.3.0 (2026-10-29)
+------------------
+
+*   Restructured ``docsrc/de_divina_proportione/`` as a ``photon_platform.publish`` Book Codex (``:layout: book``) with synchronized companion language tracks (**English**, **Italiano 1509**, **Deutsch 1889**, **Latin / Greek 1509**, and **Critical Notes**) and track-preserving ``Prev`` / ``Next`` navigation.
+*   Built scholarly apparatus registries and RST index pages (``bibliography.rst`` with 113 cited loci, ``persons.rst`` with 98 historical persons, and ``glossary.rst`` with 160 technical terms) with interactive ``:cite:``, ``:person:``, ``:term:``, ``:just:``, and ``:g:`` cross-references across all 318 folios and chapters.
+*   Upgraded ``clean_image()`` in ``geometor.pacioli.graphics`` to normalize aged paper and gutter shadows into pure neutral white while preserving woodcut ink and red rubrication on Folios ``0005`` and ``0311``.
+*   Recalibrated all 482 woodcut graphics across the 1509 Paganini edition (214 illuminated initial caps, 180 marginal geometric diagrams, and 88 full-page alphabet, architectural, and Leonardo polyhedra plates), removing 28 false-positive detections and mapping initials and diagrams to their exact chapters.
 
 0.2.0 (2026-10-16)
 ------------------

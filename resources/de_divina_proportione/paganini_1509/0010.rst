@@ -10,26 +10,17 @@
 Folio 0010 (A3v) — Nomina et Numerus Corporum (A3v)
 ===================================================
 
-.. picture:: 0010.g1.png
-   :alt: Folio 0010 Figura g1
-
-.. picture:: 0010.g2.png
-   :alt: Folio 0010 Figura g2
-
-.. picture:: 0010.g3.png
-   :alt: Folio 0010 Figura g3
-
 Nomina et Numerus Corporum (XXXV–LXI)
 -------------------------------------
 
-:term:`**Vigintisex Basium (Εἰκοσιεξάεδρον)** <vigintisex-basium>`
+**Vigintisex Basium (Εἰκοσιεξάεδρον)**
 
 35. :term:`*Vigintisex basium planum solidum* <vigintisex-basium>` — :term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἐπίπεδον <planum>` :term:`στερεόν <solidum>`
 36. :term:`*Vigintisex basium planum vacuum* <vigintisex-basium>` — :term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἐπίπεδον <planum>` :term:`κενόν <vacuum>`
 37. :term:`*Vigintisex basium abscisum elevatum solidum* <vigintisex-basium>` — :term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἀποτετμημένον <abscisum>` :term:`ἐπηρμένον <elevatum>` :term:`στερεόν <solidum>`
 38. :term:`*Vigintisex basium abscisum elevatum vacuum* <vigintisex-basium>` — :term:`Εἰκοσιεξάεδρον <vigintisex-basium>` :term:`ἀποτετμημένον <abscisum>` :term:`ἐπηρμένον <elevatum>` :term:`κενόν <vacuum>`
 
-:term:`**Septuaginta Duarum Basium (Ἑβδομηκονταδισσάεδρον)** <septuaginta-duarum-basium>`
+**Septuaginta Duarum Basium (Ἑβδομηκονταδισσάεδρον)**
 
 39. :term:`*Septuaginta duarum basium solidum* <septuaginta-duarum-basium>` — :term:`Ἑβδομηκονταδισσάεδρον <septuaginta-duarum-basium>` :term:`στερεόν <solidum>`
 40. :term:`*Septuaginta duarum basium vacuum* <septuaginta-duarum-basium>` — :term:`Ἑβδομηκονταδισσάεδρον <septuaginta-duarum-basium>` :term:`κενόν <vacuum>`

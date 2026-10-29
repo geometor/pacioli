@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0287.png``:
 
-- **``g1``** (``0287.g1.png``): Type ``plate`` | Caption: *Plate XLVIII: Pyramis Laterata Quadrangula Vacua (Πυραμὶς πλευρώδης τετράγωνος κενή) — Hollow Quadrangular Pyramid* | Bounding Box ``[x=0, y=0, w=622, h=1013]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0287.g1.png``): Type ``plate`` | Caption: *Plate XLVIII: Pyramis Laterata Quadrangula Vacua (Πυραμὶς πλευρώδης τετράγωνος κενή) — Hollow Quadrangular Pyramid* | Bounding Box ``[x=191, y=171, w=420, h=709]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

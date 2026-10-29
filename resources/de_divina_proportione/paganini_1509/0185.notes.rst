@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0185.png``:
 
-- **``g1``** (``0185.g1.png``): Type ``plate`` | Caption: :term:`*Porta Templi Domini Dicta Speciosa* <porta-speciosa>` | Bounding Box ``[x=0, y=0, w=1050, h=1444]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0185.g1.png``): Type ``plate`` | Caption: :term:`*Porta Templi Domini Dicta Speciosa* <porta-speciosa>` | Bounding Box ``[x=38, y=12, w=995, h=1420]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

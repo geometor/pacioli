@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0245.png``:
 
-- **``g1``** (``0245.g1.png``): Type ``plate`` | Caption: *Plate XXVIII: Dodecahedron Planum Vacuum (Δωδεκάεδρον ἐπίπεδον κενόν) — Hollow Regular Dodecahedron* | Bounding Box ``[x=0, y=83, w=760, h=1432]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0245.g1.png``): Type ``plate`` | Caption: *Plate XXVIII: Dodecahedron Planum Vacuum (Δωδεκάεδρον ἐπίπεδον κενόν) — Hollow Regular Dodecahedron* | Bounding Box ``[x=19, y=172, w=726, h=760]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

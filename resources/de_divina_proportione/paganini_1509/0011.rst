@@ -10,18 +10,6 @@
 Folio 0011 (A4r) — Tabula — Tabula (A4r)
 ========================================
 
-.. picture:: 0011.g1.png
-   :alt: Folio 0011 Figura g1
-
-.. picture:: 0011.g2.png
-   :alt: Folio 0011 Tavola g2
-
-.. picture:: 0011.g3.png
-   :alt: Folio 0011 Figura g3
-
-.. picture:: 0011.g4.png
-   :alt: Folio 0011 Figura g4
-
 .. picture:: 0011.c1.png
    :alt: Folio 0011 Capolettera c1
 

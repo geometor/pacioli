@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0309.png``:
 
-- **``g1``** (``0309.g1.png``): Type ``plate`` | Caption: *Plate LIX (printed LXI): Sphera Solida (Σφαῖρα στερεά) — Solid Sphere* | Bounding Box ``[x=0, y=0, w=802, h=1515]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0309.g1.png``): Type ``plate`` | Caption: *Plate LIX (printed LXI): Sphera Solida (Σφαῖρα στερεά) — Solid Sphere* | Bounding Box ``[x=47, y=195, w=740, h=729]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0303.png``:
 
-- **``g1``** (``0303.g1.png``): Type ``plate`` | Caption: *Plate LVI: Pyramis Laterata Triangula Inaequilatera Vacua (Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος κενή) — Hollow Scalene Triangular Pyramid* | Bounding Box ``[x=0, y=0, w=825, h=1515]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0303.g1.png``): Type ``plate`` | Caption: *Plate LVI: Pyramis Laterata Triangula Inaequilatera Vacua (Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος κενή) — Hollow Scalene Triangular Pyramid* | Bounding Box ``[x=109, y=178, w=701, h=717]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

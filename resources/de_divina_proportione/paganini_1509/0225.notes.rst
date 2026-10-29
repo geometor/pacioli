@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0225.png``:
 
-- **``g1``** (``0225.g1.png``): Type ``plate`` | Caption: *Plate XVIII: Octahedron Abscisum Vacuum (Ὀκτάεδρον ἀποτετμημένον κενόν) — Hollow Truncated Octahedron* | Bounding Box ``[x=0, y=41, w=930, h=1224]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0225.g1.png``): Type ``plate`` | Caption: *Plate XVIII: Octahedron Abscisum Vacuum (Ὀκτάεδρον ἀποτετμημένον κενόν) — Hollow Truncated Octahedron* | Bounding Box ``[x=37, y=124, w=715, h=718]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

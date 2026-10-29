@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0257.png``:
 
-- **``g1``** (``0257.g1.png``): Type ``plate`` | Caption: *Plate XXXIIII: Dodecahedron Abscisum Elevatum Vacuum (Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον κενόν) — Hollow Elevated Truncated Dodecahedron* | Bounding Box ``[x=0, y=0, w=903, h=1515]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0257.g1.png``): Type ``plate`` | Caption: *Plate XXXIIII: Dodecahedron Abscisum Elevatum Vacuum (Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον κενόν) — Hollow Elevated Truncated Dodecahedron* | Bounding Box ``[x=88, y=226, w=655, h=693]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

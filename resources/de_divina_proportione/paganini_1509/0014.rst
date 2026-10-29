@@ -10,12 +10,6 @@
 Folio 0014 (A5v) — Tabula — Tabula (A5v)
 ========================================
 
-.. picture:: 0014.g1.png
-   :alt: Folio 0014 Tavola g1
-
-.. picture:: 0014.g2.png
-   :alt: Folio 0014 Tavola g2
-
 Cap. XLVIII. Dela forma edispositione del :term:`tetracedron <tetrahedron>` piano solido o ver vacuo edelo absciso piano solido o ver vacuo edelo eleuato solido a ver vacuo.
 
 Cap. XLIX. Dela qualità delo :term:`exacedron <exahedron>` piano solido o ver vacuo e absciso piano solido o ver vacuo edelo eleuato solido o ver vacuo.

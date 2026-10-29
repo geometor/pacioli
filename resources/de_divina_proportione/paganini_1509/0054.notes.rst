@@ -13,14 +13,14 @@ Graphic Extraction & Calibration
 
 A total of **9** woodcut element(s) were extracted and calibrated from ``0054.png``:
 
-- **``g1``** (``0054.g1.png``): Type ``diagram`` | Caption: *Folio 0054 Diagram 1* | Bounding Box ``[x=97, y=76, w=216, h=213]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
-- **``g2``** (``0054.g2.png``): Type ``diagram`` | Caption: *Folio 0054 Diagram 2* | Bounding Box ``[x=76, y=298, w=270, h=124]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
-- **``g3``** (``0054.g3.png``): Type ``diagram`` | Caption: *Folio 0054 Diagram 3* | Bounding Box ``[x=57, y=432, w=336, h=126]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
-- **``g4``** (``0054.g4.png``): Type ``diagram`` | Caption: *Folio 0054 Diagram 4* | Bounding Box ``[x=70, y=575, w=299, h=130]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
-- **``g5``** (``0054.g5.png``): Type ``diagram`` | Caption: *Folio 0054 Diagram 5* | Bounding Box ``[x=71, y=712, w=321, h=122]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
-- **``g6``** (``0054.g6.png``): Type ``diagram`` | Caption: *Folio 0054 Diagram 6* | Bounding Box ``[x=61, y=827, w=337, h=178]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
-- **``g7``** (``0054.g7.png``): Type ``diagram`` | Caption: *Folio 0054 Diagram 7* | Bounding Box ``[x=228, y=980, w=130, h=324]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
-- **``g8``** (``0054.g8.png``): Type ``diagram`` | Caption: *Folio 0054 Diagram 8* | Bounding Box ``[x=52, y=982, w=149, h=342]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g1``** (``0054.g1.png``): Type ``diagram`` | Caption: *Folio 0054 Diagram 1* | Bounding Box ``[x=101, y=80, w=208, h=205]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g2``** (``0054.g2.png``): Type ``diagram`` | Caption: *Folio 0054 Diagram 2* | Bounding Box ``[x=80, y=299, w=262, h=119]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g3``** (``0054.g3.png``): Type ``diagram`` | Caption: *Folio 0054 Diagram 3* | Bounding Box ``[x=61, y=435, w=328, h=119]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g4``** (``0054.g4.png``): Type ``diagram`` | Caption: *Folio 0054 Diagram 4* | Bounding Box ``[x=74, y=574, w=291, h=140]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g5``** (``0054.g5.png``): Type ``diagram`` | Caption: *Folio 0054 Diagram 5* | Bounding Box ``[x=75, y=716, w=313, h=115]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g6``** (``0054.g6.png``): Type ``diagram`` | Caption: *Folio 0054 Diagram 6* | Bounding Box ``[x=65, y=831, w=329, h=161]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g7``** (``0054.g7.png``): Type ``diagram`` | Caption: *Folio 0054 Diagram 7* | Bounding Box ``[x=232, y=992, w=122, h=308]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g8``** (``0054.g8.png``): Type ``diagram`` | Caption: *Folio 0054 Diagram 8* | Bounding Box ``[x=56, y=972, w=141, h=348]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
 - **``c1``** (``0054.c1.png``): Type ``initial`` | Caption: *Folio 0054 Initial Cap 1* | Bounding Box ``[x=406, y=762, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations

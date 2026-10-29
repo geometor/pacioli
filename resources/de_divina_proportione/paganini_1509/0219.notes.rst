@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0219.png``:
 
-- **``g1``** (``0219.g1.png``): Type ``plate`` | Caption: *Plate XV: Octahedron Planum Solidum (Ὀκτάεδρον ἐπίπεδον στερεόν) — Solid Regular Octahedron* | Bounding Box ``[x=0, y=0, w=813, h=1163]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0219.g1.png``): Type ``plate`` | Caption: *Plate XV: Octahedron Planum Solidum (Ὀκτάεδρον ἐπίπεδον στερεόν) — Solid Regular Octahedron* | Bounding Box ``[x=140, y=163, w=658, h=684]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

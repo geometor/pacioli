@@ -43,20 +43,6 @@
   ],
   "graphics": [
     {
-      "id": "g1",
-      "type": "diagram",
-      "file": "0059.g1.png",
-      "bbox": [
-        589,
-        595,
-        124,
-        54
-      ],
-      "white_point": 226,
-      "caption": "Folio 0059 Diagram 1",
-      "margin": "right"
-    },
-    {
       "id": "c1",
       "type": "initial",
       "size_class": "standard",

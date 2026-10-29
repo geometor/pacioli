@@ -1,0 +1,23 @@
+:layout: book
+:canonical_id: Cap. XXXIII
+:folio: 0040–0041 (f. 12v–f. 13r)
+
+.. _compendio-cap_33-it:
+
+CAPITOLO XXXIII
+===============
+
+.. rubric:: Dela proportione de tutte loro superficie lune alaltre.
+
+.. folio:: 0040–0041 (f. 12v–f. 13r)
+   :initial: 0040.c2.png
+
+Le lor superficie excelso Duca fralora simelmente possiamo dire al medesimo modo esser proportionali commo de lor massa corporea se dicto cioè :term:`irrationali <irrationale>` per la malitia dela figura pentagona che in lo :term:`duodecedron <dodecahedron>` se interpone. Ma delaltre possano aleuolte essere rationali commo quelle del :term:`tetracedron <tetrahedron>` cubo octacedron per essere triangule equadrate e note in proportione conio diametro de laloro :term:`spera <spera>` in la quale si formano commo seueduto disopra.
+
+Vero e che la 8. del 14. conclude tutte le superficie del 12 basi pentagonale a tutte le superficie di 20 basi triangule cioè del :term:`duodecedron <dodecahedron>` aquelle del :term:`ycocedron <icosahedron>` essere commo quella dellato del cubo allato del triangulo del corpo de 20 basi quando tutti dicti corpi sienno aponto contenuti ouer circuniscripti da vna medesima :term:`spera <spera>`. El perche non me pare consilentio dapassare lamirabile conuenientia fraloro nelle loro basi cioè che le basi del :term:`duodecedron <dodecahedron>` equelle del vcocedron ognuna fia aponto circumscripta de vn medesimo cerchio comò mostra la 5. del dicto 14. laqual cosa fia de nota degna e questo quando in la medesima :term:`spera <spera>` siranno fabricati.
+
+E dele superficie tutte del :term:`tetracedron <tetrahedron>` ale superficie tutte deloctacedron fia la proportione nota per la 14. del dicto 14. conciosia che vna dele basi del :term:`tetracedron <tetrahedron>` sia vn tanto e vn terzo de vna dele basi deloctocedron cioè in sexquiterza proportione che fia quando el magior contene el raenore vnauolta e vnterzo si commo 8. a 6. e quella de 12 a 9. Eia proportione de tutte le superficie del :term:`octocedron <octahedron>` insiemi gionte a tutte quelle del :term:`tetracedron <tetrahedron>` insiemi gionte fia sexqui altera cioè vntanto e mezzo commo se quelle deloctocedron fosser 6 equelle 4 che fia quando el magior contene el menor vnauolta e mezza quando sienno de vna medesima :term:`spera <spera>`.
+
+E tutte quelle del :term:`tetracedron <tetrahedron>` gionte con quelle deloctocedron compongano vna superficie detta mediale commo vole la i3. del dicto 14. E tutte le superficie delo :term:`exacedron <exahedron>` cioè cubo se agualiano al duplo del quadrato del diametro dela :term:`spera <spera>` che lo circumscriue e la :term:`perpendiculare <catheto>` che dal centro dela :term:`spera <spera>` a ciascuna dele basi del dicto cubo se tira sempre fia equale ala mita dellalto de dicto cubo per lultima del 14. cioè se dicto diametro fosse 4 tutte diete superficie serebono 32 ese dieta :term:`perpendiculare <catheto>` fosse i ellato del cubo seria 2.
+
+Dele quali proportioni e superficie per hauerne apieno in lopera nostra tractato aquesto sieno suplemento con quelle dele dependenti in tutti modi con diligentia operando per algebra.

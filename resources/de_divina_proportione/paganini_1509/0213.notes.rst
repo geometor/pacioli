@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0213.png``:
 
-- **``g1``** (``0213.g1.png``): Type ``plate`` | Caption: *Colonna Corinta, Jonica e Pulvinata con Stilobata e Steriobata* | Bounding Box ``[x=0, y=16, w=956, h=1370]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0213.g1.png``): Type ``plate`` | Caption: *Colonna Corinta, Jonica e Pulvinata con Stilobata e Steriobata* | Bounding Box ``[x=42, y=16, w=914, h=1370]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

@@ -1,0 +1,23 @@
+:layout: book
+:canonical_id: Cap. XX
+:folio: 0029 (f. 7r)
+
+.. _compendio-cap_20-notes:
+
+CHAPTER XX — Critical Commentary & Notes
+========================================
+
+.. rubric:: On Its Eleventh Most Excellent Effect
+
+Historical and Philological Commentary
+--------------------------------------
+
+1. **Direct Calculation of the Decagon from the Radius ($R = 10$)**: Whereas Chapters XVI and XVII took $s_6 + s_{10} = 10$ (so that the radius $R = s_6 = \sqrt{125} - 5$), Chapter XX takes the hexagon side (the circle's radius $R$) itself as $10$ (so the circle's diameter is $20$). Since $(s_6 + s_{10}) : s_6 = s_6 : s_{10}$ (:cite:`Euclid XIII.9 <euclid:elements:XIII.9>`), $s_6$ is divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` when a segment equal to $s_{10}$ is marked off from it: thus the side of the inscribed decagon is simply the major golden segment of the radius ($s_{10} = \sqrt{125} - 5$). Note that Pacioli uses *circumscripto dal medesimo cerchio* in the sense of "surrounded/encompassed by the same circle" (i.e., inscribed within the circle).
+
+Philological and Folio Apparatus
+--------------------------------
+
+- **1509 Paganini Witness Folios**: 0029 (f. 7r–f. 7r)
+- **Winterberg 1889 Italian Source**: ``winterberg/01_divina_proportione_italian/020_cap_XX.txt``
+- **Winterberg 1889 German Source**: ``winterberg/03_divina_proportione_german/020_cap_XX.txt``
+- **Marginal Woodcut Diagrams**: 1 figure(s) extracted from the 1509 Venice witness.

@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0209.png``:
 
-- **``g1``** (``0209.g1.png``): Type ``plate`` | Caption: *Plate XII: Exahedron Elevatum Vacuum (Ἑξάεδρον ἐπηρμένον κενόν) — Hollow Elevated Hexahedron* | Bounding Box ``[x=0, y=172, w=836, h=931]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0209.g1.png``): Type ``plate`` | Caption: *Plate XII: Exahedron Elevatum Vacuum (Ἑξάεδρον ἐπηρμένον κενόν) — Hollow Elevated Hexahedron* | Bounding Box ``[x=6, y=172, w=821, h=756]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

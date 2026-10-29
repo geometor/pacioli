@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0235.png``:
 
-- **``g1``** (``0235.g1.png``): Type ``plate`` | Caption: *Plate XXIII: Icosahedron Abscisum Solidum (Εἰκοσάεδρον ἀποτετμημένον στερεόν) — Solid Truncated Icosahedron* | Bounding Box ``[x=0, y=41, w=827, h=1474]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0235.g1.png``): Type ``plate`` | Caption: *Plate XXIII: Icosahedron Abscisum Solidum (Εἰκοσάεδρον ἀποτετμημένον στερεόν) — Solid Truncated Icosahedron* | Bounding Box ``[x=95, y=160, w=716, h=698]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

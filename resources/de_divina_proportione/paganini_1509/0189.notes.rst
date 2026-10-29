@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0189.png``:
 
-- **``g1``** (``0189.g1.png``): Type ``plate`` | Caption: *Plate II: Tetrahedron Planum Vacuum (Τετράεδρον ἐπίπεδον κενόν) — Hollow Regular Tetrahedron* | Bounding Box ``[x=0, y=0, w=782, h=1109]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0189.g1.png``): Type ``plate`` | Caption: *Plate II: Tetrahedron Planum Vacuum (Τετράεδρον ἐπίπεδον κενόν) — Hollow Regular Tetrahedron* | Bounding Box ``[x=8, y=237, w=709, h=611]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

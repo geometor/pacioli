@@ -25,26 +25,6 @@
     "side": "recto",
     "section_id": "Front Matter and Dedications",
     "section_title": "Front Matter and Dedications",
-    "id": "g1",
-    "type": "diagram",
-    "file": "0007.g1.png",
-    "bbox": [
-      653,
-      107,
-      173,
-      1087
-    ],
-    "white_point": 226,
-    "caption": "Folio 0007 Diagram 1",
-    "margin": "right",
-    "header": "ITÉcccflStìifmò Rei pnblicS; Fiorentini principi perpetuo.D."
-  },
-  {
-    "folio": "0007",
-    "page_num": 7,
-    "side": "recto",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
     "id": "c1",
     "type": "initial",
     "file": "0007.c1.png",
@@ -58,206 +38,6 @@
     "caption": "Folio 0007 Initial Cap 1",
     "size_class": "standard",
     "header": "ITÉcccflStìifmò Rei pnblicS; Fiorentini principi perpetuo.D."
-  },
-  {
-    "folio": "0008",
-    "page_num": 8,
-    "side": "verso",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g1",
-    "type": "diagram",
-    "file": "0008.g1.png",
-    "bbox": [
-      271,
-      49,
-      80,
-      1039
-    ],
-    "white_point": 226,
-    "caption": "Folio 0008 Diagram 1",
-    "margin": "left",
-    "header": "^Magnifico f C lariflimo Andrea Mocénico Veneto patricìo Vir"
-  },
-  {
-    "folio": "0009",
-    "page_num": 9,
-    "side": "recto",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g1",
-    "type": "diagram",
-    "file": "0009.g1.png",
-    "bbox": [
-      649,
-      55,
-      411,
-      559
-    ],
-    "white_point": 226,
-    "caption": "Folio 0009 Diagram 1",
-    "margin": "right",
-    "header": "NOMINA"
-  },
-  {
-    "folio": "0009",
-    "page_num": 9,
-    "side": "recto",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g2",
-    "type": "diagram",
-    "file": "0009.g2.png",
-    "bbox": [
-      649,
-      588,
-      398,
-      789
-    ],
-    "white_point": 226,
-    "caption": "Folio 0009 Diagram 2",
-    "margin": "right",
-    "header": "NOMINA"
-  },
-  {
-    "folio": "0010",
-    "page_num": 10,
-    "side": "verso",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g1",
-    "type": "diagram",
-    "file": "0010.g1.png",
-    "bbox": [
-      64,
-      77,
-      324,
-      221
-    ],
-    "white_point": 226,
-    "caption": "Folio 0010 Diagram 1",
-    "margin": "left",
-    "header": "jo Coluna latfratapétbagona vacua."
-  },
-  {
-    "folio": "0010",
-    "page_num": 10,
-    "side": "verso",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g2",
-    "type": "diagram",
-    "file": "0010.g2.png",
-    "bbox": [
-      63,
-      271,
-      312,
-      140
-    ],
-    "white_point": 226,
-    "caption": "Folio 0010 Diagram 2",
-    "margin": "left",
-    "header": "jo Coluna latfratapétbagona vacua."
-  },
-  {
-    "folio": "0010",
-    "page_num": 10,
-    "side": "verso",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g3",
-    "type": "diagram",
-    "file": "0010.g3.png",
-    "bbox": [
-      63,
-      464,
-      331,
-      183
-    ],
-    "white_point": 226,
-    "caption": "Folio 0010 Diagram 3",
-    "margin": "left",
-    "header": "jo Coluna latfratapétbagona vacua."
-  },
-  {
-    "folio": "0011",
-    "page_num": 11,
-    "side": "recto",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g1",
-    "type": "diagram",
-    "file": "0011.g1.png",
-    "bbox": [
-      654,
-      603,
-      226,
-      110
-    ],
-    "white_point": 226,
-    "caption": "Folio 0011 Diagram 1",
-    "margin": "right",
-    "header": "Aula defa preferite opera e vtìlifjimo compendio detto"
-  },
-  {
-    "folio": "0011",
-    "page_num": 11,
-    "side": "recto",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g2",
-    "type": "marginalia",
-    "file": "0011.g2.png",
-    "bbox": [
-      660,
-      771,
-      136,
-      72
-    ],
-    "white_point": 226,
-    "caption": "Folio 0011 Marginalia 2",
-    "margin": "right",
-    "header": "Aula defa preferite opera e vtìlifjimo compendio detto"
-  },
-  {
-    "folio": "0011",
-    "page_num": 11,
-    "side": "recto",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g3",
-    "type": "diagram",
-    "file": "0011.g3.png",
-    "bbox": [
-      653,
-      1063,
-      211,
-      67
-    ],
-    "white_point": 226,
-    "caption": "Folio 0011 Diagram 3",
-    "margin": "right",
-    "header": "Aula defa preferite opera e vtìlifjimo compendio detto"
-  },
-  {
-    "folio": "0011",
-    "page_num": 11,
-    "side": "recto",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g4",
-    "type": "diagram",
-    "file": "0011.g4.png",
-    "bbox": [
-      653,
-      1210,
-      279,
-      120
-    ],
-    "white_point": 226,
-    "caption": "Folio 0011 Diagram 4",
-    "margin": "right",
-    "header": "Aula defa preferite opera e vtìlifjimo compendio detto"
   },
   {
     "folio": "0011",
@@ -280,146 +60,6 @@
     "header": "Aula defa preferite opera e vtìlifjimo compendio detto"
   },
   {
-    "folio": "0012",
-    "page_num": 12,
-    "side": "verso",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g1",
-    "type": "marginalia",
-    "file": "0012.g1.png",
-    "bbox": [
-      298,
-      298,
-      65,
-      66
-    ],
-    "white_point": 226,
-    "caption": "Folio 0012 Marginalia 1",
-    "margin": "left",
-    "header": "<"
-  },
-  {
-    "folio": "0013",
-    "page_num": 13,
-    "side": "recto",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g1",
-    "type": "diagram",
-    "file": "0013.g1.png",
-    "bbox": [
-      646,
-      702,
-      117,
-      71
-    ],
-    "white_point": 226,
-    "caption": "Folio 0013 Diagram 1",
-    "margin": "right",
-    "header": "jTpet lieorido eflentlalet ffetto de qttejfa proportionc. Ca"
-  },
-  {
-    "folio": "0013",
-    "page_num": 13,
-    "side": "recto",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g2",
-    "type": "diagram",
-    "file": "0013.g2.png",
-    "bbox": [
-      702,
-      1004,
-      91,
-      118
-    ],
-    "white_point": 226,
-    "caption": "Folio 0013 Diagram 2",
-    "margin": "right",
-    "header": "jTpet lieorido eflentlalet ffetto de qttejfa proportionc. Ca"
-  },
-  {
-    "folio": "0014",
-    "page_num": 14,
-    "side": "verso",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g1",
-    "type": "marginalia",
-    "file": "0014.g1.png",
-    "bbox": [
-      314,
-      203,
-      51,
-      166
-    ],
-    "white_point": 226,
-    "caption": "Folio 0014 Marginalia 1",
-    "margin": "left",
-    "header": "C\"Cómo |éajépti Io exaee dron nellofEoecdrori."
-  },
-  {
-    "folio": "0014",
-    "page_num": 14,
-    "side": "verso",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g2",
-    "type": "marginalia",
-    "file": "0014.g2.png",
-    "bbox": [
-      244,
-      956,
-      65,
-      66
-    ],
-    "white_point": 226,
-    "caption": "Folio 0014 Marginalia 2",
-    "margin": "left",
-    "header": "C\"Cómo |éajépti Io exaee dron nellofEoecdrori."
-  },
-  {
-    "folio": "0015",
-    "page_num": 15,
-    "side": "recto",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g1",
-    "type": "marginalia",
-    "file": "0015.g1.png",
-    "bbox": [
-      695,
-      867,
-      89,
-      53
-    ],
-    "white_point": 226,
-    "caption": "Folio 0015 Marginalia 1",
-    "margin": "right",
-    "header": "jTDeti corpi òblorigbi cioè più' tanghi ó ver atti che largh"
-  },
-  {
-    "folio": "0015",
-    "page_num": 15,
-    "side": "recto",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g2",
-    "type": "diagram",
-    "file": "0015.g2.png",
-    "bbox": [
-      652,
-      1181,
-      279,
-      101
-    ],
-    "white_point": 226,
-    "caption": "Folio 0015 Diagram 2",
-    "margin": "right",
-    "header": "jTDeti corpi òblorigbi cioè più' tanghi ó ver atti che largh"
-  },
-  {
     "folio": "0015",
     "page_num": 15,
     "side": "recto",
@@ -438,100 +78,6 @@
     "caption": "Folio 0015 Initial Cap 1",
     "size_class": "standard",
     "header": "jTDeti corpi òblorigbi cioè più' tanghi ó ver atti che largh"
-  },
-  {
-    "folio": "0016",
-    "page_num": 16,
-    "side": "verso",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g1",
-    "type": "marginalia",
-    "file": "0016.g1.png",
-    "bbox": [
-      255,
-      73,
-      114,
-      172
-    ],
-    "white_point": 226,
-    "caption": "Folio 0016 Marginalia 1",
-    "margin": "left",
-    "header": ". jf Tabula deftraffato.de farchìreffura guai (equità 1 medi"
-  },
-  {
-    "folio": "0016",
-    "page_num": 16,
-    "side": "verso",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g2",
-    "type": "diagram",
-    "file": "0016.g2.png",
-    "bbox": [
-      5,
-      783,
-      364,
-      125
-    ],
-    "white_point": 226,
-    "caption": "Folio 0016 Diagram 2",
-    "margin": "left",
-    "header": ". jf Tabula deftraffato.de farchìreffura guai (equità 1 medi"
-  },
-  {
-    "folio": "0016",
-    "page_num": 16,
-    "side": "verso",
-    "section_id": "Front Matter and Dedications",
-    "section_title": "Front Matter and Dedications",
-    "id": "g3",
-    "type": "diagram",
-    "file": "0016.g3.png",
-    "bbox": [
-      196,
-      917,
-      86,
-      92
-    ],
-    "white_point": 226,
-    "caption": "Folio 0016 Diagram 3",
-    "margin": "left",
-    "header": ". jf Tabula deftraffato.de farchìreffura guai (equità 1 medi"
-  },
-  {
-    "folio": "0017",
-    "page_num": 17,
-    "side": "recto",
-    "section_id": "Part I: Compendio de Divina Proportione",
-    "section_title": "Part I: Compendio de Divina Proportione",
-    "id": "g1",
-    "type": "diagram",
-    "file": "0017.g1.png",
-    "bbox": [
-      793,
-      53,
-      95,
-      1207
-    ],
-    "white_point": 226,
-    "caption": "Folio 0017 Diagram 1",
-    "margin": "right",
-    "header": "PRIMA",
-    "chapters": [
-      {
-        "book": 1,
-        "part": "compendio",
-        "chapter": 1,
-        "roman": "I",
-        "slug": "cap_01",
-        "title_it": "Excellentissimo principi Ludouico mariae Sforza Angla Mediolanensium duci: pacis et belli ornamento fratris Lucae pacioli ex Burgo sancti Sepulchri ordinis Minorum: Sacrae theo- logiae professoris. De diuina proportione epistola.",
-        "title_de": "Ludwig Maria Sforza Anglo, Herzog von Mailand, Zierde des Friedens wie des Krieges, von Bruder Luca Pacioti aus Borgo San Sepolchro, vom Orden der Minoriten, Professor der heiligen Theologie.",
-        "winterberg_it": "winterberg/01_divina_proportione_italian/001_dedication.txt",
-        "winterberg_de": "winterberg/03_divina_proportione_german/001_dedication.txt",
-        "starts_on_folio": true
-      }
-    ]
   },
   {
     "folio": "0017",
@@ -610,74 +156,6 @@
         "winterberg_it": "winterberg/01_divina_proportione_italian/002_cap_II.txt",
         "winterberg_de": "winterberg/03_divina_proportione_german/002_cap_II.txt",
         "starts_on_folio": true
-      }
-    ]
-  },
-  {
-    "folio": "0019",
-    "page_num": 19,
-    "side": "recto",
-    "section_id": "Part I: Compendio de Divina Proportione",
-    "section_title": "Part I: Compendio de Divina Proportione",
-    "id": "g1",
-    "type": "marginalia",
-    "file": "0019.g1.png",
-    "bbox": [
-      620,
-      1198,
-      104,
-      42
-    ],
-    "white_point": 226,
-    "caption": "Folio 0019 Marginalia 1",
-    "margin": "right",
-    "header": "PARS",
-    "chapters": [
-      {
-        "book": 1,
-        "part": "compendio",
-        "chapter": 2,
-        "roman": "II",
-        "slug": "cap_02",
-        "title_it": "Reuerendi Patris Magistri Luce pacioli de Burgo San Sepulchro Ordinis Minorum. Et sacre theologie professoris in compendium de diuina proportione ex mathematicis disciplinis prefatio.",
-        "title_de": "Vorrede des Ehrwürdigen Pater Magister Luca Pacioli aus Borgo San Sepolchro vom Orden der Minoriten, und Professor der heihgen Theologie zum Compendium über die göttliche Proportion aus den mathematischen Wissenschaften.",
-        "winterberg_it": "winterberg/01_divina_proportione_italian/002_cap_II.txt",
-        "winterberg_de": "winterberg/03_divina_proportione_german/002_cap_II.txt",
-        "starts_on_folio": false
-      }
-    ]
-  },
-  {
-    "folio": "0020",
-    "page_num": 20,
-    "side": "verso",
-    "section_id": "Part I: Compendio de Divina Proportione",
-    "section_title": "Part I: Compendio de Divina Proportione",
-    "id": "g1",
-    "type": "marginalia",
-    "file": "0020.g1.png",
-    "bbox": [
-      304,
-      843,
-      97,
-      41
-    ],
-    "white_point": 226,
-    "caption": "Folio 0020 Marginalia 1",
-    "margin": "left",
-    "header": "I",
-    "chapters": [
-      {
-        "book": 1,
-        "part": "compendio",
-        "chapter": 2,
-        "roman": "II",
-        "slug": "cap_02",
-        "title_it": "Reuerendi Patris Magistri Luce pacioli de Burgo San Sepulchro Ordinis Minorum. Et sacre theologie professoris in compendium de diuina proportione ex mathematicis disciplinis prefatio.",
-        "title_de": "Vorrede des Ehrwürdigen Pater Magister Luca Pacioli aus Borgo San Sepolchro vom Orden der Minoriten, und Professor der heihgen Theologie zum Compendium über die göttliche Proportion aus den mathematischen Wissenschaften.",
-        "winterberg_it": "winterberg/01_divina_proportione_italian/002_cap_II.txt",
-        "winterberg_de": "winterberg/03_divina_proportione_german/002_cap_II.txt",
-        "starts_on_folio": false
       }
     ]
   },
@@ -1001,64 +479,6 @@
         "title_de": "Wir müssen wissen, dass diese wohlgemerkten Dinge, eine",
         "winterberg_it": "winterberg/01_divina_proportione_italian/008_cap_VIII.txt",
         "winterberg_de": "winterberg/03_divina_proportione_german/008_cap_VIII.txt",
-        "starts_on_folio": true
-      }
-    ]
-  },
-  {
-    "folio": "0026",
-    "page_num": 26,
-    "side": "verso",
-    "section_id": "Part I: Compendio de Divina Proportione",
-    "section_title": "Part I: Compendio de Divina Proportione",
-    "id": "g1",
-    "type": "marginalia",
-    "file": "0026.g1.png",
-    "bbox": [
-      329,
-      72,
-      65,
-      137
-    ],
-    "white_point": 226,
-    "caption": "Folio 0026 Marginalia 1",
-    "margin": "left",
-    "header": "PARS",
-    "chapters": [
-      {
-        "book": 1,
-        "part": "compendio",
-        "chapter": 9,
-        "roman": "IX",
-        "slug": "cap_09",
-        "title_it": "Che cosa sia radici de numero e de altra quantità.",
-        "title_de": "Was die Wurzel einer Zahl und sonstigen Grösse sei.",
-        "winterberg_it": "winterberg/01_divina_proportione_italian/009_cap_IX.txt",
-        "winterberg_de": "winterberg/03_divina_proportione_german/009_cap_IX.txt",
-        "starts_on_folio": true
-      },
-      {
-        "book": 1,
-        "part": "compendio",
-        "chapter": 10,
-        "roman": "X",
-        "slug": "cap_10",
-        "title_it": "Sequela del primo proposto effecto.",
-        "title_de": "Folgerung aus der ersten vorgeführten Wirkung.",
-        "winterberg_it": "winterberg/01_divina_proportione_italian/010_cap_X.txt",
-        "winterberg_de": "winterberg/03_divina_proportione_german/010_cap_X.txt",
-        "starts_on_folio": true
-      },
-      {
-        "book": 1,
-        "part": "compendio",
-        "chapter": 11,
-        "roman": "XI",
-        "slug": "cap_11",
-        "title_it": "Del suo secondo essentiale effecto.",
-        "title_de": "Von ihrer zweiten wesentlichen Wirkung.",
-        "winterberg_it": "winterberg/01_divina_proportione_italian/011_cap_XI.txt",
-        "winterberg_de": "winterberg/03_divina_proportione_german/011_cap_XI.txt",
         "starts_on_folio": true
       }
     ]
@@ -1527,10 +947,10 @@
     "type": "diagram",
     "file": "0028.g1.png",
     "bbox": [
-      51,
-      420,
-      324,
-      330
+      55,
+      424,
+      316,
+      322
     ],
     "white_point": 226,
     "caption": "Folio 0028 Diagram 1",
@@ -1759,10 +1179,10 @@
     "type": "diagram",
     "file": "0029.g1.png",
     "bbox": [
-      638,
-      841,
-      340,
-      76
+      642,
+      845,
+      332,
+      68
     ],
     "white_point": 226,
     "caption": "Folio 0029 Diagram 1",
@@ -1817,10 +1237,10 @@
     "type": "diagram",
     "file": "0029.g2.png",
     "bbox": [
-      640,
+      644,
       919,
-      339,
-      73
+      331,
+      69
     ],
     "white_point": 226,
     "caption": "Folio 0029 Diagram 2",
@@ -2281,10 +1701,10 @@
     "type": "diagram",
     "file": "0032.g1.png",
     "bbox": [
-      66,
-      123,
-      327,
-      233
+      70,
+      127,
+      319,
+      225
     ],
     "white_point": 226,
     "caption": "Folio 0032 Diagram 1",
@@ -2339,10 +1759,10 @@
     "type": "diagram",
     "file": "0032.g2.png",
     "bbox": [
-      40,
-      376,
-      345,
-      80
+      44,
+      380,
+      337,
+      72
     ],
     "white_point": 226,
     "caption": "Folio 0032 Diagram 2",
@@ -2397,10 +1817,10 @@
     "type": "diagram",
     "file": "0032.g3.png",
     "bbox": [
-      48,
-      549,
-      328,
-      350
+      52,
+      553,
+      320,
+      342
     ],
     "white_point": 226,
     "caption": "Folio 0032 Diagram 3",
@@ -2513,10 +1933,10 @@
     "type": "diagram",
     "file": "0033.g1.png",
     "bbox": [
-      638,
-      32,
-      345,
-      348
+      642,
+      34,
+      337,
+      351
     ],
     "white_point": 226,
     "caption": "Folio 0033 Diagram 1",
@@ -2559,10 +1979,10 @@
     "type": "diagram",
     "file": "0033.g2.png",
     "bbox": [
-      641,
-      396,
-      325,
-      217
+      645,
+      400,
+      317,
+      209
     ],
     "white_point": 226,
     "caption": "Folio 0033 Diagram 2",
@@ -2605,10 +2025,10 @@
     "type": "diagram",
     "file": "0033.g3.png",
     "bbox": [
-      644,
-      751,
-      317,
-      216
+      643,
+      755,
+      314,
+      208
     ],
     "white_point": 226,
     "caption": "Folio 0033 Diagram 3",
@@ -2651,10 +2071,10 @@
     "type": "diagram",
     "file": "0033.g4.png",
     "bbox": [
-      618,
-      981,
-      329,
-      335
+      620,
+      985,
+      323,
+      327
     ],
     "white_point": 226,
     "caption": "Folio 0033 Diagram 4",
@@ -2743,10 +2163,10 @@
     "type": "diagram",
     "file": "0034.g1.png",
     "bbox": [
-      59,
-      142,
-      333,
-      234
+      63,
+      146,
+      325,
+      226
     ],
     "white_point": 226,
     "caption": "Folio 0034 Diagram 1",
@@ -2789,10 +2209,10 @@
     "type": "diagram",
     "file": "0034.g2.png",
     "bbox": [
-      59,
-      423,
-      333,
-      662
+      63,
+      426,
+      325,
+      655
     ],
     "white_point": 226,
     "caption": "Folio 0034 Diagram 2",
@@ -2881,10 +2301,10 @@
     "type": "diagram",
     "file": "0035.g1.png",
     "bbox": [
-      629,
-      137,
-      337,
-      195
+      633,
+      141,
+      329,
+      187
     ],
     "white_point": 226,
     "caption": "Folio 0035 Diagram 1",
@@ -2915,10 +2335,10 @@
     "type": "diagram",
     "file": "0035.g2.png",
     "bbox": [
-      617,
-      629,
-      358,
-      442
+      621,
+      633,
+      350,
+      434
     ],
     "white_point": 226,
     "caption": "Folio 0035 Diagram 2",
@@ -2951,7 +2371,7 @@
     "bbox": [
       28,
       196,
-      379,
+      342,
       564
     ],
     "white_point": 226,
@@ -3925,10 +3345,10 @@
     "type": "diagram",
     "file": "0049.g1.png",
     "bbox": [
-      603,
-      126,
-      346,
-      358
+      607,
+      130,
+      338,
+      350
     ],
     "white_point": 226,
     "caption": "Folio 0049 Diagram 1",
@@ -3971,10 +3391,10 @@
     "type": "diagram",
     "file": "0049.g2.png",
     "bbox": [
-      745,
-      775,
-      194,
-      371
+      749,
+      779,
+      186,
+      363
     ],
     "white_point": 226,
     "caption": "Folio 0049 Diagram 2",
@@ -4155,10 +3575,10 @@
     "type": "diagram",
     "file": "0052.g1.png",
     "bbox": [
-      111,
-      393,
-      208,
-      520
+      105,
+      397,
+      210,
+      512
     ],
     "white_point": 226,
     "caption": "Folio 0052 Diagram 1",
@@ -4329,10 +3749,10 @@
     "type": "diagram",
     "file": "0053.g1.png",
     "bbox": [
-      681,
-      565,
-      224,
-      412
+      685,
+      570,
+      216,
+      401
     ],
     "white_point": 226,
     "caption": "Folio 0053 Diagram 1",
@@ -4387,10 +3807,10 @@
     "type": "diagram",
     "file": "0053.g2.png",
     "bbox": [
-      699,
-      967,
-      212,
-      349
+      703,
+      971,
+      204,
+      341
     ],
     "white_point": 226,
     "caption": "Folio 0053 Diagram 2",
@@ -4561,10 +3981,10 @@
     "type": "diagram",
     "file": "0054.g1.png",
     "bbox": [
-      97,
-      76,
-      216,
-      213
+      101,
+      80,
+      208,
+      205
     ],
     "white_point": 226,
     "caption": "Folio 0054 Diagram 1",
@@ -4607,10 +4027,10 @@
     "type": "diagram",
     "file": "0054.g2.png",
     "bbox": [
-      76,
-      298,
-      270,
-      124
+      80,
+      299,
+      262,
+      119
     ],
     "white_point": 226,
     "caption": "Folio 0054 Diagram 2",
@@ -4653,10 +4073,10 @@
     "type": "diagram",
     "file": "0054.g3.png",
     "bbox": [
-      57,
-      432,
-      336,
-      126
+      61,
+      435,
+      328,
+      119
     ],
     "white_point": 226,
     "caption": "Folio 0054 Diagram 3",
@@ -4699,10 +4119,10 @@
     "type": "diagram",
     "file": "0054.g4.png",
     "bbox": [
-      70,
-      575,
-      299,
-      130
+      74,
+      574,
+      291,
+      140
     ],
     "white_point": 226,
     "caption": "Folio 0054 Diagram 4",
@@ -4745,10 +4165,10 @@
     "type": "diagram",
     "file": "0054.g5.png",
     "bbox": [
-      71,
-      712,
-      321,
-      122
+      75,
+      716,
+      313,
+      115
     ],
     "white_point": 226,
     "caption": "Folio 0054 Diagram 5",
@@ -4791,10 +4211,10 @@
     "type": "diagram",
     "file": "0054.g6.png",
     "bbox": [
-      61,
-      827,
-      337,
-      178
+      65,
+      831,
+      329,
+      161
     ],
     "white_point": 226,
     "caption": "Folio 0054 Diagram 6",
@@ -4837,10 +4257,10 @@
     "type": "diagram",
     "file": "0054.g7.png",
     "bbox": [
-      228,
-      980,
-      130,
-      324
+      232,
+      992,
+      122,
+      308
     ],
     "white_point": 226,
     "caption": "Folio 0054 Diagram 7",
@@ -4883,10 +4303,10 @@
     "type": "diagram",
     "file": "0054.g8.png",
     "bbox": [
-      52,
-      982,
-      149,
-      342
+      56,
+      972,
+      141,
+      348
     ],
     "white_point": 226,
     "caption": "Folio 0054 Diagram 8",
@@ -4975,10 +4395,10 @@
     "type": "diagram",
     "file": "0055.g1.png",
     "bbox": [
-      671,
-      32,
-      251,
-      535
+      668,
+      4,
+      253,
+      559
     ],
     "white_point": 226,
     "caption": "Folio 0055 Diagram 1",
@@ -5021,10 +4441,10 @@
     "type": "diagram",
     "file": "0055.g2.png",
     "bbox": [
-      642,
-      561,
-      308,
-      317
+      622,
+      565,
+      330,
+      309
     ],
     "white_point": 226,
     "caption": "Folio 0055 Diagram 2",
@@ -5067,10 +4487,10 @@
     "type": "diagram",
     "file": "0055.g3.png",
     "bbox": [
-      642,
-      871,
-      318,
-      359
+      634,
+      875,
+      322,
+      356
     ],
     "white_point": 226,
     "caption": "Folio 0055 Diagram 3",
@@ -5205,10 +4625,10 @@
     "type": "diagram",
     "file": "0056.g1.png",
     "bbox": [
-      153,
-      32,
-      150,
-      243
+      157,
+      2,
+      142,
+      269
     ],
     "white_point": 226,
     "caption": "Folio 0056 Diagram 1",
@@ -5263,10 +4683,10 @@
     "type": "diagram",
     "file": "0056.g2.png",
     "bbox": [
-      63,
-      268,
-      155,
-      365
+      67,
+      272,
+      147,
+      357
     ],
     "white_point": 226,
     "caption": "Folio 0056 Diagram 2",
@@ -5321,10 +4741,10 @@
     "type": "diagram",
     "file": "0056.g3.png",
     "bbox": [
-      220,
-      269,
-      173,
-      249
+      224,
+      273,
+      165,
+      241
     ],
     "white_point": 226,
     "caption": "Folio 0056 Diagram 3",
@@ -5379,10 +4799,10 @@
     "type": "diagram",
     "file": "0056.g4.png",
     "bbox": [
-      234,
-      518,
-      150,
-      161
+      238,
+      522,
+      142,
+      153
     ],
     "white_point": 226,
     "caption": "Folio 0056 Diagram 4",
@@ -5437,10 +4857,10 @@
     "type": "diagram",
     "file": "0056.g5.png",
     "bbox": [
-      243,
-      690,
-      154,
-      175
+      247,
+      694,
+      146,
+      168
     ],
     "white_point": 226,
     "caption": "Folio 0056 Diagram 5",
@@ -5495,10 +4915,10 @@
     "type": "diagram",
     "file": "0056.g6.png",
     "bbox": [
-      56,
-      708,
-      158,
-      157
+      60,
+      712,
+      150,
+      149
     ],
     "white_point": 226,
     "caption": "Folio 0056 Diagram 6",
@@ -5553,10 +4973,10 @@
     "type": "diagram",
     "file": "0056.g7.png",
     "bbox": [
-      102,
-      866,
-      246,
-      354
+      106,
+      870,
+      238,
+      346
     ],
     "white_point": 226,
     "caption": "Folio 0056 Diagram 7",
@@ -5727,10 +5147,10 @@
     "type": "diagram",
     "file": "0057.g1.png",
     "bbox": [
-      653,
-      331,
-      299,
-      361
+      626,
+      326,
+      322,
+      376
     ],
     "white_point": 226,
     "caption": "Folio 0057 Diagram 1",
@@ -5773,10 +5193,10 @@
     "type": "diagram",
     "file": "0057.g2.png",
     "bbox": [
-      653,
-      876,
-      274,
-      322
+      624,
+      880,
+      313,
+      314
     ],
     "white_point": 226,
     "caption": "Folio 0057 Diagram 2",
@@ -5897,64 +5317,6 @@
         "title_de": "Von der Messung aller andern regelmässigen und davon ab- hängigen Körper.",
         "winterberg_it": "winterberg/01_divina_proportione_italian/069_cap_LXIX.txt",
         "winterberg_de": "winterberg/03_divina_proportione_german/069_cap_LXIX.txt",
-        "starts_on_folio": true
-      }
-    ]
-  },
-  {
-    "folio": "0059",
-    "page_num": 59,
-    "side": "recto",
-    "section_id": "Part I: Compendio de Divina Proportione",
-    "section_title": "Part I: Compendio de Divina Proportione",
-    "id": "g1",
-    "type": "diagram",
-    "file": "0059.g1.png",
-    "bbox": [
-      589,
-      595,
-      124,
-      54
-    ],
-    "white_point": 226,
-    "caption": "Folio 0059 Diagram 1",
-    "margin": "right",
-    "header": "AiPRIMA- ^de Milano ha co jmifto.Eqllo ala giornata f tutti ",
-    "chapters": [
-      {
-        "book": 1,
-        "part": "compendio",
-        "chapter": 69,
-        "roman": "LXIX",
-        "slug": "cap_69",
-        "title_it": "Dela mesura de tutti li altri corpi regulari e dependenti.",
-        "title_de": "Von der Messung aller andern regelmässigen und davon ab- hängigen Körper.",
-        "winterberg_it": "winterberg/01_divina_proportione_italian/069_cap_LXIX.txt",
-        "winterberg_de": "winterberg/03_divina_proportione_german/069_cap_LXIX.txt",
-        "starts_on_folio": false
-      },
-      {
-        "book": 1,
-        "part": "compendio",
-        "chapter": 70,
-        "roman": "LXX",
-        "slug": "cap_70",
-        "title_it": "Commo se habino aretrouare tutti li corpi ordinatamente commo sonno posti in questo facti in prospectiua e ancora le lor forme materiali secondo la lor taula particulare posta patente in publico.",
-        "title_de": "Wie alle besagten Körper, wie sie in diesem Tractate aufge- stellt und in Perspective gesetzt sind, und auch ihre materiellen Formen nach ihrer der Oeffentlichkeit übergebenen speciellen Tabelle der Reihe nach aufzufinden seien.",
-        "winterberg_it": "winterberg/01_divina_proportione_italian/070_cap_LXX.txt",
-        "winterberg_de": "winterberg/03_divina_proportione_german/070_cap_LXX.txt",
-        "starts_on_folio": true
-      },
-      {
-        "book": 1,
-        "part": "compendio",
-        "chapter": 71,
-        "roman": "LXXI",
-        "slug": "cap_71",
-        "title_it": "De quello se intenda per questi vocabuli fra le mathematici vsitati cioè ypothesi ypothumissa corausto cono pyramidale corda pentagonica perpendiculare catheto dyametro paralelo- grammo dyagonale centro saetta.",
-        "title_de": "Ueber das was unter diesen in der Mathematik gebräuchlichen Ausdrücken verstanden wird, nämlich Hypothese, Hypothumisse, Carausto, Pyramiden-Konus, Pentagon- Sehne, Senkrechte, Kathete, Durchmesser, Parallelogramm, Diagonale, Centrum, Pfeil.",
-        "winterberg_it": "winterberg/01_divina_proportione_italian/071_cap_LXXI.txt",
-        "winterberg_de": "winterberg/03_divina_proportione_german/071_cap_LXXI.txt",
         "starts_on_folio": true
       }
     ]
@@ -6165,47 +5527,13 @@
     "type": "diagram",
     "file": "0066.g1.png",
     "bbox": [
-      5,
-      363,
-      379,
-      615
+      162,
+      365,
+      358,
+      626
     ],
     "white_point": 226,
     "caption": "Folio 0066 Diagram 1",
-    "margin": "left",
-    "header": "A",
-    "chapters": [
-      {
-        "book": 2,
-        "part": "architectura",
-        "chapter": 1,
-        "roman": "I",
-        "slug": "cap_01",
-        "title_it": "Dela mesura e proportioni del corpo humano. della testa e altri suoi membri simulacro delarchitectura.",
-        "title_de": "Von dem Maass und Verhältnissen des menschlichen Körpers, vom Kopf und seinen übrigen Gliedern, <ils Sinnbild der Architektur.",
-        "winterberg_it": "winterberg/02_architectura_italian/001_cap_I.txt",
-        "winterberg_de": "winterberg/04_architectura_german/001_cap_I.txt",
-        "starts_on_folio": false
-      }
-    ]
-  },
-  {
-    "folio": "0066",
-    "page_num": 66,
-    "side": "verso",
-    "section_id": "Part II: Tractato de l'Architectura",
-    "section_title": "Part II: Tractato de l'Architectura",
-    "id": "g2",
-    "type": "diagram",
-    "file": "0066.g2.png",
-    "bbox": [
-      5,
-      980,
-      379,
-      107
-    ],
-    "white_point": 226,
-    "caption": "Folio 0066 Diagram 2",
     "margin": "left",
     "header": "A",
     "chapters": [
@@ -6325,10 +5653,10 @@
     "type": "diagram",
     "file": "0069.g1.png",
     "bbox": [
-      600,
-      58,
-      262,
-      1212
+      775,
+      62,
+      85,
+      1205
     ],
     "white_point": 226,
     "caption": "Folio 0069 Diagram 1",
@@ -7143,10 +6471,10 @@
     "type": "diagram",
     "file": "0085.g1.png",
     "bbox": [
-      619,
-      243,
-      322,
-      310
+      623,
+      237,
+      314,
+      312
     ],
     "white_point": 226,
     "caption": "Folio 0085 Diagram 1",
@@ -7163,10 +6491,10 @@
     "type": "diagram",
     "file": "0085.g2.png",
     "bbox": [
-      638,
-      687,
-      315,
-      307
+      642,
+      691,
+      307,
+      299
     ],
     "white_point": 226,
     "caption": "Folio 0085 Diagram 2",
@@ -7186,7 +6514,7 @@
       20,
       189,
       264,
-      304
+      298
     ],
     "white_point": 226,
     "caption": "Folio 0085 Initial Cap 1",
@@ -7223,10 +6551,10 @@
     "type": "diagram",
     "file": "0086.g1.png",
     "bbox": [
-      67,
-      84,
-      327,
-      315
+      71,
+      88,
+      319,
+      307
     ],
     "white_point": 226,
     "caption": "Folio 0086 Diagram 1",
@@ -7243,10 +6571,10 @@
     "type": "diagram",
     "file": "0086.g2.png",
     "bbox": [
-      56,
-      455,
-      333,
-      346
+      60,
+      459,
+      325,
+      342
     ],
     "white_point": 226,
     "caption": "Folio 0086 Diagram 2",
@@ -7263,10 +6591,10 @@
     "type": "diagram",
     "file": "0086.g3.png",
     "bbox": [
-      52,
-      938,
-      348,
-      224
+      56,
+      942,
+      340,
+      216
     ],
     "white_point": 226,
     "caption": "Folio 0086 Diagram 3",
@@ -7343,10 +6671,10 @@
     "type": "diagram",
     "file": "0087.g1.png",
     "bbox": [
-      601,
-      70,
-      380,
-      312
+      591,
+      67,
+      400,
+      325
     ],
     "white_point": 226,
     "caption": "Folio 0087 Diagram 1",
@@ -7369,10 +6697,10 @@
     "type": "diagram",
     "file": "0087.g2.png",
     "bbox": [
-      625,
-      407,
-      343,
-      344
+      629,
+      411,
+      335,
+      341
     ],
     "white_point": 226,
     "caption": "Folio 0087 Diagram 2",
@@ -7395,10 +6723,10 @@
     "type": "diagram",
     "file": "0087.g3.png",
     "bbox": [
-      629,
-      806,
-      323,
-      333
+      633,
+      810,
+      315,
+      325
     ],
     "white_point": 226,
     "caption": "Folio 0087 Diagram 3",
@@ -7499,10 +6827,10 @@
     "type": "diagram",
     "file": "0088.g1.png",
     "bbox": [
-      53,
-      67,
-      331,
-      326
+      57,
+      71,
+      323,
+      318
     ],
     "white_point": 226,
     "caption": "Folio 0088 Diagram 1",
@@ -7529,10 +6857,10 @@
     "type": "diagram",
     "file": "0088.g2.png",
     "bbox": [
-      46,
-      450,
-      338,
-      325
+      50,
+      454,
+      330,
+      317
     ],
     "white_point": 226,
     "caption": "Folio 0088 Diagram 2",
@@ -7559,10 +6887,10 @@
     "type": "diagram",
     "file": "0088.g3.png",
     "bbox": [
-      60,
-      812,
-      319,
-      341
+      64,
+      816,
+      311,
+      333
     ],
     "white_point": 226,
     "caption": "Folio 0088 Diagram 3",
@@ -7679,10 +7007,10 @@
     "type": "diagram",
     "file": "0089.g1.png",
     "bbox": [
-      629,
-      54,
-      325,
-      324
+      633,
+      58,
+      323,
+      316
     ],
     "white_point": 226,
     "caption": "Folio 0089 Diagram 1",
@@ -7699,10 +7027,10 @@
     "type": "diagram",
     "file": "0089.g2.png",
     "bbox": [
-      628,
-      441,
-      315,
-      322
+      632,
+      445,
+      307,
+      314
     ],
     "white_point": 226,
     "caption": "Folio 0089 Diagram 2",
@@ -7719,10 +7047,10 @@
     "type": "diagram",
     "file": "0089.g3.png",
     "bbox": [
-      602,
-      805,
-      347,
-      346
+      603,
+      809,
+      342,
+      338
     ],
     "white_point": 226,
     "caption": "Folio 0089 Diagram 3",
@@ -7799,10 +7127,10 @@
     "type": "diagram",
     "file": "0090.g1.png",
     "bbox": [
-      82,
-      49,
-      269,
-      268
+      86,
+      53,
+      261,
+      260
     ],
     "white_point": 226,
     "caption": "Folio 0090 Diagram 1",
@@ -7819,10 +7147,10 @@
     "type": "diagram",
     "file": "0090.g2.png",
     "bbox": [
-      57,
-      333,
-      315,
-      328
+      61,
+      337,
+      307,
+      320
     ],
     "white_point": 226,
     "caption": "Folio 0090 Diagram 2",
@@ -7839,10 +7167,10 @@
     "type": "diagram",
     "file": "0090.g3.png",
     "bbox": [
-      71,
-      658,
-      279,
-      291
+      75,
+      662,
+      271,
+      283
     ],
     "white_point": 226,
     "caption": "Folio 0090 Diagram 3",
@@ -7859,10 +7187,10 @@
     "type": "diagram",
     "file": "0090.g4.png",
     "bbox": [
-      58,
-      950,
-      302,
-      318
+      60,
+      954,
+      296,
+      310
     ],
     "white_point": 226,
     "caption": "Folio 0090 Diagram 4",
@@ -7979,10 +7307,10 @@
     "type": "diagram",
     "file": "0091.g1.png",
     "bbox": [
-      641,
-      32,
-      336,
-      287
+      646,
+      21,
+      327,
+      294
     ],
     "white_point": 226,
     "caption": "Folio 0091 Diagram 1",
@@ -8009,10 +7337,10 @@
     "type": "diagram",
     "file": "0091.g2.png",
     "bbox": [
-      667,
-      320,
-      284,
-      325
+      671,
+      324,
+      276,
+      327
     ],
     "white_point": 226,
     "caption": "Folio 0091 Diagram 2",
@@ -8039,10 +7367,10 @@
     "type": "diagram",
     "file": "0091.g3.png",
     "bbox": [
-      674,
-      662,
-      273,
-      272
+      673,
+      666,
+      270,
+      264
     ],
     "white_point": 226,
     "caption": "Folio 0091 Diagram 3",
@@ -8069,10 +7397,10 @@
     "type": "diagram",
     "file": "0091.g4.png",
     "bbox": [
-      660,
-      952,
-      287,
-      319
+      664,
+      951,
+      279,
+      316
     ],
     "white_point": 226,
     "caption": "Folio 0091 Diagram 4",
@@ -8219,10 +7547,10 @@
     "type": "diagram",
     "file": "0092.g1.png",
     "bbox": [
-      70,
-      32,
-      276,
-      311
+      74,
+      26,
+      268,
+      308
     ],
     "white_point": 226,
     "caption": "Folio 0092 Diagram 1",
@@ -8245,10 +7573,10 @@
     "type": "diagram",
     "file": "0092.g2.png",
     "bbox": [
-      66,
-      323,
-      288,
-      350
+      70,
+      334,
+      289,
+      329
     ],
     "white_point": 226,
     "caption": "Folio 0092 Diagram 2",
@@ -8271,10 +7599,10 @@
     "type": "diagram",
     "file": "0092.g3.png",
     "bbox": [
-      62,
-      655,
-      298,
-      297
+      53,
+      663,
+      303,
+      280
     ],
     "white_point": 226,
     "caption": "Folio 0092 Diagram 3",
@@ -8297,10 +7625,10 @@
     "type": "diagram",
     "file": "0092.g4.png",
     "bbox": [
-      73,
-      936,
-      288,
-      328
+      67,
+      943,
+      290,
+      317
     ],
     "white_point": 226,
     "caption": "Folio 0092 Diagram 4",
@@ -8427,10 +7755,10 @@
     "type": "diagram",
     "file": "0093.g1.png",
     "bbox": [
-      623,
-      100,
-      322,
-      367
+      627,
+      104,
+      314,
+      359
     ],
     "white_point": 226,
     "caption": "Folio 0093 Diagram 1",
@@ -8447,10 +7775,10 @@
     "type": "diagram",
     "file": "0093.g2.png",
     "bbox": [
-      617,
-      552,
-      334,
-      377
+      621,
+      547,
+      326,
+      378
     ],
     "white_point": 226,
     "caption": "Folio 0093 Diagram 2",
@@ -8527,10 +7855,10 @@
     "type": "diagram",
     "file": "0094.g1.png",
     "bbox": [
-      50,
-      103,
-      308,
-      340
+      54,
+      107,
+      328,
+      332
     ],
     "white_point": 226,
     "caption": "Folio 0094 Diagram 1",
@@ -8547,10 +7875,10 @@
     "type": "diagram",
     "file": "0094.g2.png",
     "bbox": [
-      50,
-      459,
-      308,
-      343
+      54,
+      463,
+      326,
+      335
     ],
     "white_point": 226,
     "caption": "Folio 0094 Diagram 2",
@@ -8567,10 +7895,10 @@
     "type": "diagram",
     "file": "0094.g3.png",
     "bbox": [
-      54,
-      823,
-      304,
-      342
+      58,
+      827,
+      327,
+      334
     ],
     "white_point": 226,
     "caption": "Folio 0094 Diagram 3",
@@ -8647,10 +7975,10 @@
     "type": "diagram",
     "file": "0095.g1.png",
     "bbox": [
-      635,
-      32,
-      301,
-      294
+      640,
+      27,
+      292,
+      295
     ],
     "white_point": 226,
     "caption": "Folio 0095 Diagram 1",
@@ -8677,10 +8005,10 @@
     "type": "diagram",
     "file": "0095.g2.png",
     "bbox": [
-      644,
-      339,
-      297,
-      297
+      648,
+      343,
+      289,
+      289
     ],
     "white_point": 226,
     "caption": "Folio 0095 Diagram 2",
@@ -8707,10 +8035,10 @@
     "type": "diagram",
     "file": "0095.g3.png",
     "bbox": [
-      648,
-      657,
-      305,
-      299
+      639,
+      655,
+      309,
+      297
     ],
     "white_point": 226,
     "caption": "Folio 0095 Diagram 3",
@@ -8737,10 +8065,10 @@
     "type": "diagram",
     "file": "0095.g4.png",
     "bbox": [
-      647,
-      974,
-      301,
-      301
+      651,
+      978,
+      293,
+      293
     ],
     "white_point": 226,
     "caption": "Folio 0095 Diagram 4",
@@ -8887,10 +8215,10 @@
     "type": "diagram",
     "file": "0096.g1.png",
     "bbox": [
-      75,
-      123,
-      292,
-      335
+      79,
+      127,
+      284,
+      332
     ],
     "white_point": 226,
     "caption": "Folio 0096 Diagram 1",
@@ -8907,10 +8235,10 @@
     "type": "diagram",
     "file": "0096.g2.png",
     "bbox": [
-      53,
-      603,
-      319,
-      363
+      56,
+      607,
+      312,
+      355
     ],
     "white_point": 226,
     "caption": "Folio 0096 Diagram 2",
@@ -8967,10 +8295,10 @@
     "type": "diagram",
     "file": "0097.g1.png",
     "bbox": [
-      634,
-      45,
-      299,
-      327
+      638,
+      49,
+      291,
+      319
     ],
     "white_point": 226,
     "caption": "Folio 0097 Diagram 1",
@@ -8987,10 +8315,10 @@
     "type": "diagram",
     "file": "0097.g2.png",
     "bbox": [
-      628,
-      460,
-      302,
-      323
+      632,
+      464,
+      294,
+      315
     ],
     "white_point": 226,
     "caption": "Folio 0097 Diagram 2",
@@ -9007,10 +8335,10 @@
     "type": "diagram",
     "file": "0097.g3.png",
     "bbox": [
-      613,
-      831,
-      301,
-      320
+      617,
+      824,
+      305,
+      323
     ],
     "white_point": 226,
     "caption": "Folio 0097 Diagram 3",
@@ -9087,10 +8415,10 @@
     "type": "diagram",
     "file": "0098.g1.png",
     "bbox": [
-      65,
-      39,
-      316,
-      316
+      69,
+      42,
+      308,
+      309
     ],
     "white_point": 226,
     "caption": "Folio 0098 Diagram 1",
@@ -9113,10 +8441,10 @@
     "type": "diagram",
     "file": "0098.g2.png",
     "bbox": [
-      65,
-      353,
-      314,
-      314
+      69,
+      357,
+      306,
+      306
     ],
     "white_point": 226,
     "caption": "Folio 0098 Diagram 2",
@@ -9139,10 +8467,10 @@
     "type": "diagram",
     "file": "0098.g3.png",
     "bbox": [
-      89,
-      687,
-      269,
-      268
+      93,
+      682,
+      261,
+      269
     ],
     "white_point": 226,
     "caption": "Folio 0098 Diagram 3",
@@ -9165,10 +8493,10 @@
     "type": "diagram",
     "file": "0098.g4.png",
     "bbox": [
-      85,
-      1007,
-      277,
-      268
+      89,
+      1011,
+      269,
+      260
     ],
     "white_point": 226,
     "caption": "Folio 0098 Diagram 4",
@@ -9295,10 +8623,10 @@
     "type": "diagram",
     "file": "0099.g1.png",
     "bbox": [
-      680,
-      32,
-      196,
-      192
+      684,
+      4,
+      187,
+      214
     ],
     "white_point": 226,
     "caption": "Folio 0099 Diagram 1",
@@ -9321,10 +8649,10 @@
     "type": "diagram",
     "file": "0099.g2.png",
     "bbox": [
-      683,
-      214,
-      197,
-      190
+      687,
+      218,
+      189,
+      180
     ],
     "white_point": 226,
     "caption": "Folio 0099 Diagram 2",
@@ -9347,10 +8675,10 @@
     "type": "diagram",
     "file": "0099.g3.png",
     "bbox": [
-      686,
-      394,
-      200,
-      194
+      690,
+      398,
+      192,
+      186
     ],
     "white_point": 226,
     "caption": "Folio 0099 Diagram 3",
@@ -9373,10 +8701,10 @@
     "type": "diagram",
     "file": "0099.g4.png",
     "bbox": [
-      690,
-      581,
-      197,
-      194
+      694,
+      585,
+      189,
+      186
     ],
     "white_point": 226,
     "caption": "Folio 0099 Diagram 4",
@@ -9399,10 +8727,10 @@
     "type": "diagram",
     "file": "0099.g5.png",
     "bbox": [
-      693,
-      772,
-      196,
-      196
+      697,
+      776,
+      188,
+      185
     ],
     "white_point": 226,
     "caption": "Folio 0099 Diagram 5",
@@ -9425,10 +8753,10 @@
     "type": "diagram",
     "file": "0099.g6.png",
     "bbox": [
-      695,
-      956,
-      198,
-      197
+      699,
+      961,
+      189,
+      179
     ],
     "white_point": 226,
     "caption": "Folio 0099 Diagram 6",
@@ -9451,10 +8779,10 @@
     "type": "diagram",
     "file": "0099.g7.png",
     "bbox": [
-      695,
-      1127,
-      260,
-      198
+      699,
+      1140,
+      257,
+      181
     ],
     "white_point": 226,
     "caption": "Folio 0099 Diagram 7",
@@ -9555,10 +8883,10 @@
     "type": "diagram",
     "file": "0100.g1.png",
     "bbox": [
-      68,
-      32,
-      297,
-      292
+      72,
+      26,
+      289,
+      294
     ],
     "white_point": 226,
     "caption": "Folio 0100 Diagram 1",
@@ -9575,10 +8903,10 @@
     "type": "diagram",
     "file": "0100.g2.png",
     "bbox": [
-      61,
-      328,
-      302,
-      307
+      65,
+      332,
+      294,
+      299
     ],
     "white_point": 226,
     "caption": "Folio 0100 Diagram 2",
@@ -9595,10 +8923,10 @@
     "type": "diagram",
     "file": "0100.g3.png",
     "bbox": [
-      68,
-      640,
-      287,
-      308
+      72,
+      644,
+      279,
+      300
     ],
     "white_point": 226,
     "caption": "Folio 0100 Diagram 3",
@@ -9615,10 +8943,10 @@
     "type": "diagram",
     "file": "0100.g4.png",
     "bbox": [
-      77,
-      960,
-      279,
-      328
+      81,
+      964,
+      271,
+      320
     ],
     "white_point": 226,
     "caption": "Folio 0100 Diagram 4",
@@ -9675,10 +9003,10 @@
     "type": "diagram",
     "file": "0101.g1.png",
     "bbox": [
-      657,
-      96,
-      303,
-      326
+      661,
+      88,
+      295,
+      330
     ],
     "white_point": 226,
     "caption": "Folio 0101 Diagram 1",
@@ -9695,10 +9023,10 @@
     "type": "diagram",
     "file": "0101.g2.png",
     "bbox": [
-      657,
-      460,
-      300,
-      321
+      661,
+      464,
+      292,
+      315
     ],
     "white_point": 226,
     "caption": "Folio 0101 Diagram 2",
@@ -9715,10 +9043,10 @@
     "type": "diagram",
     "file": "0101.g3.png",
     "bbox": [
-      650,
-      835,
-      303,
-      315
+      654,
+      839,
+      295,
+      307
     ],
     "white_point": 226,
     "caption": "Folio 0101 Diagram 3",
@@ -9815,10 +9143,10 @@
     "type": "diagram",
     "file": "0102.g1.png",
     "bbox": [
-      126,
-      59,
-      233,
-      173
+      117,
+      49,
+      238,
+      172
     ],
     "white_point": 226,
     "caption": "Folio 0102 Diagram 1",
@@ -9841,10 +9169,10 @@
     "type": "diagram",
     "file": "0102.g2.png",
     "bbox": [
-      86,
-      212,
-      300,
-      301
+      89,
+      221,
+      293,
+      284
     ],
     "white_point": 226,
     "caption": "Folio 0102 Diagram 2",
@@ -9867,10 +9195,10 @@
     "type": "diagram",
     "file": "0102.g3.png",
     "bbox": [
-      83,
-      498,
-      303,
-      581
+      87,
+      505,
+      295,
+      563
     ],
     "white_point": 226,
     "caption": "Folio 0102 Diagram 3",
@@ -9893,10 +9221,10 @@
     "type": "diagram",
     "file": "0102.g4.png",
     "bbox": [
-      121,
-      1055,
-      228,
-      239
+      125,
+      1068,
+      220,
+      222
     ],
     "white_point": 226,
     "caption": "Folio 0102 Diagram 4",
@@ -9997,10 +9325,10 @@
     "type": "diagram",
     "file": "0103.g1.png",
     "bbox": [
-      686,
-      34,
-      301,
-      299
+      680,
+      2,
+      303,
+      327
     ],
     "white_point": 226,
     "caption": "Folio 0103 Diagram 1",
@@ -10017,10 +9345,10 @@
     "type": "diagram",
     "file": "0103.g2.png",
     "bbox": [
-      676,
-      329,
+      672,
+      333,
       299,
-      317
+      308
     ],
     "white_point": 226,
     "caption": "Folio 0103 Diagram 2",
@@ -10037,10 +9365,10 @@
     "type": "diagram",
     "file": "0103.g3.png",
     "bbox": [
-      677,
-      640,
-      301,
-      315
+      681,
+      641,
+      293,
+      304
     ],
     "white_point": 226,
     "caption": "Folio 0103 Diagram 3",
@@ -10057,10 +9385,10 @@
     "type": "diagram",
     "file": "0103.g4.png",
     "bbox": [
-      670,
-      937,
-      299,
-      317
+      660,
+      945,
+      305,
+      319
     ],
     "white_point": 226,
     "caption": "Folio 0103 Diagram 4",
@@ -10157,10 +9485,10 @@
     "type": "diagram",
     "file": "0104.g1.png",
     "bbox": [
-      83,
-      32,
-      301,
-      321
+      87,
+      28,
+      293,
+      312
     ],
     "white_point": 226,
     "caption": "Folio 0104 Diagram 1",
@@ -10187,10 +9515,10 @@
     "type": "diagram",
     "file": "0104.g2.png",
     "bbox": [
-      84,
-      328,
-      301,
-      308
+      88,
+      340,
+      293,
+      282
     ],
     "white_point": 226,
     "caption": "Folio 0104 Diagram 2",
@@ -10217,10 +9545,10 @@
     "type": "diagram",
     "file": "0104.g3.png",
     "bbox": [
-      117,
-      611,
-      251,
-      441
+      121,
+      622,
+      243,
+      417
     ],
     "white_point": 226,
     "caption": "Folio 0104 Diagram 3",
@@ -10247,10 +9575,10 @@
     "type": "diagram",
     "file": "0104.g4.png",
     "bbox": [
-      123,
-      1028,
-      238,
-      238
+      127,
+      1039,
+      230,
+      223
     ],
     "white_point": 226,
     "caption": "Folio 0104 Diagram 4",
@@ -10367,10 +9695,10 @@
     "type": "diagram",
     "file": "0105.g1.png",
     "bbox": [
-      702,
-      32,
-      238,
-      230
+      693,
+      7,
+      243,
+      244
     ],
     "white_point": 226,
     "caption": "Folio 0105 Diagram 1",
@@ -10387,10 +9715,10 @@
     "type": "diagram",
     "file": "0105.g2.png",
     "bbox": [
-      702,
-      242,
-      245,
-      230
+      706,
+      251,
+      237,
+      211
     ],
     "white_point": 226,
     "caption": "Folio 0105 Diagram 2",
@@ -10407,10 +9735,10 @@
     "type": "diagram",
     "file": "0105.g3.png",
     "bbox": [
-      708,
-      453,
-      228,
-      236
+      712,
+      462,
+      220,
+      216
     ],
     "white_point": 226,
     "caption": "Folio 0105 Diagram 3",
@@ -10427,10 +9755,10 @@
     "type": "diagram",
     "file": "0105.g4.png",
     "bbox": [
-      696,
-      669,
-      258,
-      211
+      700,
+      678,
+      250,
+      191
     ],
     "white_point": 226,
     "caption": "Folio 0105 Diagram 4",
@@ -10447,10 +9775,10 @@
     "type": "diagram",
     "file": "0105.g5.png",
     "bbox": [
-      691,
-      858,
-      257,
-      249
+      695,
+      869,
+      249,
+      226
     ],
     "white_point": 226,
     "caption": "Folio 0105 Diagram 5",
@@ -10467,10 +9795,10 @@
     "type": "diagram",
     "file": "0105.g6.png",
     "bbox": [
-      684,
-      1086,
-      261,
-      240
+      688,
+      1095,
+      253,
+      227
     ],
     "white_point": 226,
     "caption": "Folio 0105 Diagram 6",
@@ -10607,10 +9935,10 @@
     "type": "diagram",
     "file": "0106.g1.png",
     "bbox": [
-      70,
-      132,
-      328,
-      319
+      74,
+      136,
+      320,
+      311
     ],
     "white_point": 226,
     "caption": "Folio 0106 Diagram 1",
@@ -10633,10 +9961,10 @@
     "type": "diagram",
     "file": "0106.g2.png",
     "bbox": [
-      69,
-      525,
-      335,
-      320
+      73,
+      529,
+      327,
+      326
     ],
     "white_point": 226,
     "caption": "Folio 0106 Diagram 2",
@@ -10659,10 +9987,10 @@
     "type": "diagram",
     "file": "0106.g3.png",
     "bbox": [
-      79,
-      971,
-      339,
-      298
+      83,
+      961,
+      331,
+      304
     ],
     "white_point": 226,
     "caption": "Folio 0106 Diagram 3",
@@ -10763,10 +10091,10 @@
     "type": "diagram",
     "file": "0107.g1.png",
     "bbox": [
-      687,
-      109,
-      294,
-      293
+      685,
+      113,
+      292,
+      298
     ],
     "white_point": 226,
     "caption": "Folio 0107 Diagram 1",
@@ -10789,10 +10117,10 @@
     "type": "diagram",
     "file": "0107.g2.png",
     "bbox": [
-      691,
-      544,
-      296,
-      295
+      695,
+      548,
+      288,
+      287
     ],
     "white_point": 226,
     "caption": "Folio 0107 Diagram 2",
@@ -10815,10 +10143,10 @@
     "type": "diagram",
     "file": "0107.g3.png",
     "bbox": [
-      683,
-      927,
-      302,
-      295
+      687,
+      928,
+      294,
+      290
     ],
     "white_point": 226,
     "caption": "Folio 0107 Diagram 3",
@@ -10919,10 +10247,10 @@
     "type": "diagram",
     "file": "0108.g1.png",
     "bbox": [
-      90,
-      55,
+      86,
+      59,
       291,
-      363
+      355
     ],
     "white_point": 226,
     "caption": "Folio 0108 Diagram 1",
@@ -10939,9 +10267,9 @@
     "type": "diagram",
     "file": "0108.g2.png",
     "bbox": [
-      79,
-      759,
-      292,
+      83,
+      755,
+      284,
       289
     ],
     "white_point": 226,
@@ -10999,10 +10327,10 @@
     "type": "diagram",
     "file": "0109.g1.png",
     "bbox": [
-      652,
-      101,
-      312,
-      309
+      656,
+      105,
+      304,
+      301
     ],
     "white_point": 226,
     "caption": "Folio 0109 Diagram 1",
@@ -11019,10 +10347,10 @@
     "type": "diagram",
     "file": "0109.g2.png",
     "bbox": [
-      651,
-      506,
-      313,
-      311
+      642,
+      510,
+      330,
+      303
     ],
     "white_point": 226,
     "caption": "Folio 0109 Diagram 2",
@@ -11039,10 +10367,10 @@
     "type": "diagram",
     "file": "0109.g3.png",
     "bbox": [
-      651,
-      949,
-      318,
-      312
+      655,
+      953,
+      310,
+      304
     ],
     "white_point": 226,
     "caption": "Folio 0109 Diagram 3",
@@ -11139,10 +10467,10 @@
     "type": "diagram",
     "file": "0110.g1.png",
     "bbox": [
-      74,
-      118,
-      279,
-      305
+      78,
+      122,
+      301,
+      297
     ],
     "white_point": 226,
     "caption": "Folio 0110 Diagram 1",
@@ -11159,10 +10487,10 @@
     "type": "diagram",
     "file": "0110.g2.png",
     "bbox": [
-      73,
-      521,
-      280,
-      305
+      77,
+      525,
+      301,
+      297
     ],
     "white_point": 226,
     "caption": "Folio 0110 Diagram 2",
@@ -11179,10 +10507,10 @@
     "type": "diagram",
     "file": "0110.g3.png",
     "bbox": [
-      81,
-      919,
-      272,
-      306
+      85,
+      923,
+      301,
+      298
     ],
     "white_point": 226,
     "caption": "Folio 0110 Diagram 3",
@@ -11199,10 +10527,10 @@
     "type": "diagram",
     "file": "0111.g1.png",
     "bbox": [
-      638,
-      132,
-      331,
-      314
+      642,
+      127,
+      323,
+      315
     ],
     "white_point": 226,
     "caption": "Folio 0111 Diagram 1",
@@ -11219,10 +10547,10 @@
     "type": "diagram",
     "file": "0111.g2.png",
     "bbox": [
-      652,
-      530,
-      312,
-      309
+      656,
+      535,
+      316,
+      300
     ],
     "white_point": 226,
     "caption": "Folio 0111 Diagram 2",
@@ -11239,10 +10567,10 @@
     "type": "diagram",
     "file": "0111.g3.png",
     "bbox": [
-      639,
-      876,
-      345,
-      364
+      643,
+      879,
+      337,
+      357
     ],
     "white_point": 226,
     "caption": "Folio 0111 Diagram 3",
@@ -11279,10 +10607,10 @@
     "type": "diagram",
     "file": "0112.g1.png",
     "bbox": [
-      52,
-      190,
-      299,
-      358
+      56,
+      193,
+      323,
+      351
     ],
     "white_point": 226,
     "caption": "Folio 0112 Diagram 1",
@@ -11299,10 +10627,10 @@
     "type": "diagram",
     "file": "0112.g2.png",
     "bbox": [
-      51,
-      673,
-      300,
-      349
+      54,
+      677,
+      331,
+      341
     ],
     "white_point": 226,
     "caption": "Folio 0112 Diagram 2",
@@ -11379,10 +10707,10 @@
     "type": "diagram",
     "file": "0113.g1.png",
     "bbox": [
-      645,
-      116,
-      290,
-      297
+      649,
+      120,
+      282,
+      289
     ],
     "white_point": 226,
     "caption": "Folio 0113 Diagram 1",
@@ -11399,10 +10727,10 @@
     "type": "diagram",
     "file": "0113.g2.png",
     "bbox": [
-      648,
-      508,
-      291,
-      299
+      652,
+      512,
+      294,
+      291
     ],
     "white_point": 226,
     "caption": "Folio 0113 Diagram 2",
@@ -11419,10 +10747,10 @@
     "type": "diagram",
     "file": "0113.g3.png",
     "bbox": [
-      630,
-      862,
-      338,
-      342
+      634,
+      866,
+      330,
+      334
     ],
     "white_point": 226,
     "caption": "Folio 0113 Diagram 3",
@@ -11479,10 +10807,10 @@
     "type": "diagram",
     "file": "0114.g1.png",
     "bbox": [
-      72,
-      126,
-      325,
-      358
+      76,
+      123,
+      317,
+      357
     ],
     "white_point": 226,
     "caption": "Folio 0114 Diagram 1",
@@ -11505,10 +10833,10 @@
     "type": "diagram",
     "file": "0114.g2.png",
     "bbox": [
-      67,
-      801,
-      311,
-      324
+      71,
+      805,
+      303,
+      316
     ],
     "white_point": 226,
     "caption": "Folio 0114 Diagram 2",
@@ -11557,10 +10885,10 @@
     "type": "diagram",
     "file": "0115.g1.png",
     "bbox": [
-      615,
+      619,
       140,
-      350,
-      332
+      348,
+      328
     ],
     "white_point": 226,
     "caption": "Folio 0115 Diagram 1",
@@ -11577,10 +10905,10 @@
     "type": "diagram",
     "file": "0115.g2.png",
     "bbox": [
-      629,
-      703,
-      324,
-      331
+      633,
+      707,
+      316,
+      336
     ],
     "white_point": 226,
     "caption": "Folio 0115 Diagram 2",
@@ -11637,10 +10965,10 @@
     "type": "diagram",
     "file": "0116.g1.png",
     "bbox": [
-      56,
-      55,
-      295,
-      374
+      60,
+      59,
+      323,
+      366
     ],
     "white_point": 226,
     "caption": "Folio 0116 Diagram 1",
@@ -11663,10 +10991,10 @@
     "type": "diagram",
     "file": "0116.g2.png",
     "bbox": [
-      83,
-      499,
-      268,
-      322
+      87,
+      503,
+      280,
+      314
     ],
     "white_point": 226,
     "caption": "Folio 0116 Diagram 2",
@@ -11689,10 +11017,10 @@
     "type": "diagram",
     "file": "0116.g3.png",
     "bbox": [
-      84,
-      951,
-      267,
-      324
+      88,
+      955,
+      282,
+      316
     ],
     "white_point": 226,
     "caption": "Folio 0116 Diagram 3",
@@ -11887,10 +11215,10 @@
     "type": "diagram",
     "file": "0118.g1.png",
     "bbox": [
-      78,
-      37,
-      285,
-      348
+      71,
+      41,
+      310,
+      340
     ],
     "white_point": 226,
     "caption": "Folio 0118 Diagram 1",
@@ -11917,10 +11245,10 @@
     "type": "diagram",
     "file": "0118.g2.png",
     "bbox": [
-      82,
-      422,
-      281,
-      344
+      86,
+      426,
+      293,
+      336
     ],
     "white_point": 226,
     "caption": "Folio 0118 Diagram 2",
@@ -11947,10 +11275,10 @@
     "type": "diagram",
     "file": "0118.g3.png",
     "bbox": [
-      79,
-      813,
-      284,
-      342
+      83,
+      817,
+      296,
+      334
     ],
     "white_point": 226,
     "caption": "Folio 0118 Diagram 3",
@@ -12097,10 +11425,10 @@
     "type": "diagram",
     "file": "0119.g1.png",
     "bbox": [
-      638,
-      254,
-      310,
-      360
+      642,
+      258,
+      302,
+      352
     ],
     "white_point": 226,
     "caption": "Folio 0119 Diagram 1",
@@ -12117,10 +11445,10 @@
     "type": "diagram",
     "file": "0119.g2.png",
     "bbox": [
-      623,
-      744,
-      313,
-      358
+      627,
+      748,
+      305,
+      350
     ],
     "white_point": 226,
     "caption": "Folio 0119 Diagram 2",
@@ -12197,10 +11525,10 @@
     "type": "diagram",
     "file": "0120.g1.png",
     "bbox": [
-      78,
-      191,
-      304,
-      350
+      82,
+      195,
+      296,
+      342
     ],
     "white_point": 226,
     "caption": "Folio 0120 Diagram 1",
@@ -12227,10 +11555,10 @@
     "type": "diagram",
     "file": "0120.g2.png",
     "bbox": [
-      63,
-      762,
-      336,
-      353
+      67,
+      766,
+      328,
+      345
     ],
     "white_point": 226,
     "caption": "Folio 0120 Diagram 2",
@@ -12347,10 +11675,10 @@
     "type": "diagram",
     "file": "0121.g1.png",
     "bbox": [
-      642,
-      35,
-      326,
-      330
+      646,
+      39,
+      318,
+      322
     ],
     "white_point": 226,
     "caption": "Folio 0121 Diagram 1",
@@ -12367,10 +11695,10 @@
     "type": "diagram",
     "file": "0121.g2.png",
     "bbox": [
-      656,
-      380,
-      287,
-      306
+      660,
+      374,
+      282,
+      308
     ],
     "white_point": 226,
     "caption": "Folio 0121 Diagram 2",
@@ -12387,10 +11715,10 @@
     "type": "diagram",
     "file": "0121.g3.png",
     "bbox": [
-      617,
-      783,
-      351,
-      395
+      621,
+      788,
+      343,
+      386
     ],
     "white_point": 226,
     "caption": "Folio 0121 Diagram 3",
@@ -12467,10 +11795,10 @@
     "type": "diagram",
     "file": "0123.g1.png",
     "bbox": [
-      660,
-      468,
-      293,
-      533
+      655,
+      458,
+      294,
+      539
     ],
     "white_point": 226,
     "caption": "Folio 0123 Diagram 1",
@@ -12547,10 +11875,10 @@
     "type": "diagram",
     "file": "0124.g1.png",
     "bbox": [
-      71,
-      162,
-      303,
-      318
+      75,
+      165,
+      295,
+      325
     ],
     "white_point": 226,
     "caption": "Folio 0124 Diagram 1",
@@ -12567,10 +11895,10 @@
     "type": "diagram",
     "file": "0124.g2.png",
     "bbox": [
-      77,
-      695,
-      310,
-      324
+      81,
+      699,
+      302,
+      316
     ],
     "white_point": 226,
     "caption": "Folio 0124 Diagram 2",
@@ -12607,10 +11935,10 @@
     "type": "diagram",
     "file": "0125.g1.png",
     "bbox": [
-      653,
-      248,
-      321,
-      374
+      627,
+      249,
+      343,
+      369
     ],
     "white_point": 226,
     "caption": "Folio 0125 Diagram 1",
@@ -12627,10 +11955,10 @@
     "type": "diagram",
     "file": "0125.g2.png",
     "bbox": [
-      653,
-      665,
-      312,
-      381
+      624,
+      667,
+      337,
+      375
     ],
     "white_point": 226,
     "caption": "Folio 0125 Diagram 2",
@@ -12667,10 +11995,10 @@
     "type": "diagram",
     "file": "0126.g1.png",
     "bbox": [
-      45,
-      196,
-      311,
-      362
+      49,
+      200,
+      320,
+      354
     ],
     "white_point": 226,
     "caption": "Folio 0126 Diagram 1",
@@ -12687,10 +12015,10 @@
     "type": "diagram",
     "file": "0126.g2.png",
     "bbox": [
-      42,
-      853,
-      314,
-      420
+      46,
+      845,
+      326,
+      424
     ],
     "white_point": 226,
     "caption": "Folio 0126 Diagram 2",
@@ -12747,10 +12075,10 @@
     "type": "diagram",
     "file": "0127.g1.png",
     "bbox": [
-      628,
-      309,
-      352,
-      333
+      632,
+      305,
+      344,
+      332
     ],
     "white_point": 226,
     "caption": "Folio 0127 Diagram 1",
@@ -12807,10 +12135,10 @@
     "type": "diagram",
     "file": "0128.g1.png",
     "bbox": [
-      36,
-      49,
-      358,
-      338
+      40,
+      53,
+      350,
+      330
     ],
     "white_point": 226,
     "caption": "Folio 0128 Diagram 1",
@@ -12827,10 +12155,10 @@
     "type": "diagram",
     "file": "0128.g2.png",
     "bbox": [
-      42,
-      648,
-      351,
-      348
+      46,
+      652,
+      343,
+      340
     ],
     "white_point": 226,
     "caption": "Folio 0128 Diagram 2",
@@ -12847,10 +12175,10 @@
     "type": "diagram",
     "file": "0129.g1.png",
     "bbox": [
-      701,
-      32,
-      205,
-      229
+      705,
+      26,
+      196,
+      221
     ],
     "white_point": 226,
     "caption": "Folio 0129 Diagram 1",
@@ -12867,10 +12195,10 @@
     "type": "diagram",
     "file": "0129.g2.png",
     "bbox": [
-      705,
-      234,
-      203,
-      172
+      709,
+      247,
+      195,
+      150
     ],
     "white_point": 226,
     "caption": "Folio 0129 Diagram 2",
@@ -12887,10 +12215,10 @@
     "type": "diagram",
     "file": "0129.g3.png",
     "bbox": [
-      650,
-      390,
-      303,
-      357
+      654,
+      397,
+      295,
+      343
     ],
     "white_point": 226,
     "caption": "Folio 0129 Diagram 3",
@@ -12907,10 +12235,10 @@
     "type": "diagram",
     "file": "0129.g4.png",
     "bbox": [
-      625,
-      735,
-      324,
-      285
+      629,
+      740,
+      316,
+      271
     ],
     "white_point": 226,
     "caption": "Folio 0129 Diagram 4",
@@ -12927,10 +12255,10 @@
     "type": "diagram",
     "file": "0129.g5.png",
     "bbox": [
-      618,
-      1003,
-      324,
-      323
+      622,
+      1011,
+      316,
+      311
     ],
     "white_point": 226,
     "caption": "Folio 0129 Diagram 5",
@@ -12967,10 +12295,10 @@
     "type": "diagram",
     "file": "0130.g1.png",
     "bbox": [
-      127,
-      137,
-      247,
-      794
+      120,
+      140,
+      250,
+      779
     ],
     "white_point": 226,
     "caption": "Folio 0130 Diagram 1",
@@ -12987,10 +12315,10 @@
     "type": "diagram",
     "file": "0130.g2.png",
     "bbox": [
-      52,
-      909,
-      342,
-      281
+      56,
+      919,
+      341,
+      267
     ],
     "white_point": 226,
     "caption": "Folio 0130 Diagram 2",
@@ -13067,10 +12395,10 @@
     "type": "diagram",
     "file": "0132.g1.png",
     "bbox": [
-      119,
-      32,
-      232,
-      209
+      118,
+      26,
+      229,
+      216
     ],
     "white_point": 226,
     "caption": "Folio 0132 Diagram 1",
@@ -13087,10 +12415,10 @@
     "type": "diagram",
     "file": "0132.g2.png",
     "bbox": [
-      90,
-      237,
-      309,
-      540
+      94,
+      242,
+      301,
+      523
     ],
     "white_point": 226,
     "caption": "Folio 0132 Diagram 2",
@@ -13107,10 +12435,10 @@
     "type": "diagram",
     "file": "0132.g3.png",
     "bbox": [
-      83,
-      755,
-      326,
-      430
+      87,
+      765,
+      318,
+      416
     ],
     "white_point": 226,
     "caption": "Folio 0132 Diagram 3",
@@ -13147,10 +12475,10 @@
     "type": "diagram",
     "file": "0133.g1.png",
     "bbox": [
-      651,
-      115,
-      313,
-      314
+      623,
+      119,
+      337,
+      306
     ],
     "white_point": 226,
     "caption": "Folio 0133 Diagram 1",
@@ -13167,10 +12495,10 @@
     "type": "diagram",
     "file": "0133.g2.png",
     "bbox": [
-      651,
-      766,
-      287,
-      321
+      619,
+      770,
+      315,
+      313
     ],
     "white_point": 226,
     "caption": "Folio 0133 Diagram 2",
@@ -13267,10 +12595,10 @@
     "type": "diagram",
     "file": "0135.g1.png",
     "bbox": [
-      602,
-      262,
-      366,
-      375
+      606,
+      266,
+      358,
+      367
     ],
     "white_point": 226,
     "caption": "Folio 0135 Diagram 1",
@@ -13287,9 +12615,9 @@
     "type": "plate",
     "file": "0137.g1.png",
     "bbox": [
-      0,
+      48,
       32,
-      922,
+      825,
       1404
     ],
     "white_point": 226,
@@ -13307,7 +12635,7 @@
     "bbox": [
       33,
       176,
-      822,
+      825,
       716
     ],
     "white_point": 226,
@@ -13324,10 +12652,10 @@
     "type": "plate",
     "file": "0141.g1.png",
     "bbox": [
-      170,
+      169,
       231,
-      601,
-      606
+      603,
+      607
     ],
     "white_point": 226,
     "caption": "Roman Geometric Alphabet — Lettera B",
@@ -13344,9 +12672,9 @@
     "file": "0143.g1.png",
     "bbox": [
       155,
-      204,
+      203,
       600,
-      596
+      597
     ],
     "white_point": 226,
     "caption": "Roman Geometric Alphabet — Lettera C",
@@ -13362,9 +12690,9 @@
     "type": "plate",
     "file": "0145.g1.png",
     "bbox": [
-      50,
+      49,
       248,
-      693,
+      694,
       606
     ],
     "white_point": 226,
@@ -13421,7 +12749,7 @@
     "bbox": [
       97,
       274,
-      597,
+      598,
       594
     ],
     "white_point": 226,
@@ -13438,10 +12766,10 @@
     "type": "plate",
     "file": "0153.g1.png",
     "bbox": [
-      133,
+      132,
       237,
-      605,
-      596
+      606,
+      597
     ],
     "white_point": 226,
     "caption": "Roman Geometric Alphabet — Lettera H",
@@ -13458,9 +12786,9 @@
     "file": "0155.g1.png",
     "bbox": [
       154,
-      193,
-      608,
-      601
+      191,
+      617,
+      606
     ],
     "white_point": 226,
     "caption": "Roman Geometric Alphabet — Lettera I / J",
@@ -13477,9 +12805,9 @@
     "file": "0157.g1.png",
     "bbox": [
       120,
-      223,
-      607,
-      596
+      216,
+      608,
+      603
     ],
     "white_point": 226,
     "caption": "Roman Geometric Alphabet — Lettera K",
@@ -13514,9 +12842,9 @@
     "type": "plate",
     "file": "0161.g1.png",
     "bbox": [
-      0,
+      6,
       243,
-      811,
+      795,
       606
     ],
     "white_point": 226,
@@ -13533,9 +12861,9 @@
     "type": "plate",
     "file": "0163.g1.png",
     "bbox": [
-      18,
+      23,
       260,
-      757,
+      752,
       599
     ],
     "white_point": 226,
@@ -13552,10 +12880,10 @@
     "type": "plate",
     "file": "0165.g1.png",
     "bbox": [
-      99,
+      100,
       243,
-      626,
-      608
+      625,
+      607
     ],
     "white_point": 226,
     "caption": "Roman Geometric Alphabet — Lettera O (primo modo perfectissimo)",
@@ -13572,9 +12900,9 @@
     "file": "0167.g1.png",
     "bbox": [
       82,
-      267,
+      266,
       611,
-      597
+      599
     ],
     "white_point": 226,
     "caption": "Roman Geometric Alphabet — Lettera O (secondo modo)",
@@ -13591,9 +12919,9 @@
     "file": "0169.g1.png",
     "bbox": [
       183,
-      224,
-      610,
-      602
+      225,
+      611,
+      601
     ],
     "white_point": 226,
     "caption": "Roman Geometric Alphabet — Lettera P",
@@ -13609,10 +12937,10 @@
     "type": "plate",
     "file": "0171.g1.png",
     "bbox": [
-      0,
-      114,
-      947,
-      845
+      7,
+      113,
+      928,
+      847
     ],
     "white_point": 226,
     "caption": "Roman Geometric Alphabet — Lettera Q",
@@ -13628,9 +12956,9 @@
     "type": "plate",
     "file": "0173.g1.png",
     "bbox": [
-      126,
+      125,
       199,
-      616,
+      622,
       591
     ],
     "white_point": 226,
@@ -13649,7 +12977,7 @@
     "bbox": [
       138,
       205,
-      600,
+      601,
       598
     ],
     "white_point": 226,
@@ -13666,10 +12994,10 @@
     "type": "plate",
     "file": "0177.g1.png",
     "bbox": [
-      108,
+      107,
       255,
-      603,
-      596
+      607,
+      597
     ],
     "white_point": 226,
     "caption": "Roman Geometric Alphabet — Lettera T",
@@ -13685,10 +13013,10 @@
     "type": "plate",
     "file": "0179.g1.png",
     "bbox": [
-      0,
-      228,
-      832,
-      599
+      6,
+      227,
+      838,
+      600
     ],
     "white_point": 226,
     "caption": "Roman Geometric Alphabet — Lettera V",
@@ -13704,9 +13032,9 @@
     "type": "plate",
     "file": "0181.g1.png",
     "bbox": [
-      0,
+      6,
       279,
-      831,
+      815,
       601
     ],
     "white_point": 226,
@@ -13723,9 +13051,9 @@
     "type": "plate",
     "file": "0183.g1.png",
     "bbox": [
-      0,
+      6,
       247,
-      856,
+      835,
       597
     ],
     "white_point": 226,
@@ -13742,10 +13070,10 @@
     "type": "plate",
     "file": "0185.g1.png",
     "bbox": [
-      0,
-      0,
-      1050,
-      1444
+      38,
+      12,
+      995,
+      1420
     ],
     "white_point": 226,
     "caption": "Porta Templi Domini Dicta Speciosa"
@@ -13760,10 +13088,10 @@
     "type": "plate",
     "file": "0187.g1.png",
     "bbox": [
-      0,
+      86,
       199,
-      896,
-      1088
+      795,
+      689
     ],
     "white_point": 226,
     "caption": "Plate I: Tetrahedron Planum Solidum (Τετράεδρον ἐπίπεδον στερεόν) — Solid Regular Tetrahedron"
@@ -13778,10 +13106,10 @@
     "type": "plate",
     "file": "0189.g1.png",
     "bbox": [
-      0,
-      0,
-      782,
-      1109
+      8,
+      237,
+      709,
+      611
     ],
     "white_point": 226,
     "caption": "Plate II: Tetrahedron Planum Vacuum (Τετράεδρον ἐπίπεδον κενόν) — Hollow Regular Tetrahedron"
@@ -13796,10 +13124,10 @@
     "type": "plate",
     "file": "0191.g1.png",
     "bbox": [
-      0,
-      160,
-      676,
-      1355
+      6,
+      200,
+      655,
+      686
     ],
     "white_point": 226,
     "caption": "Plate III: Tetrahedron Abscisum Solidum (Τετράεδρον ἀποτετμημένον στερεόν) — Solid Truncated Tetrahedron"
@@ -13814,10 +13142,10 @@
     "type": "plate",
     "file": "0193.g1.png",
     "bbox": [
-      0,
+      38,
       210,
-      738,
-      991
+      685,
+      675
     ],
     "white_point": 226,
     "caption": "Plate IIII: Tetrahedron Abscisum Vacuum (Τετράεδρον ἀποτετμημένον κενόν) — Hollow Truncated Tetrahedron"
@@ -13832,10 +13160,10 @@
     "type": "plate",
     "file": "0195.g1.png",
     "bbox": [
-      0,
+      6,
       194,
-      700,
-      1321
+      679,
+      706
     ],
     "white_point": 226,
     "caption": "Plate V: Tetrahedron Elevatum Solidum (Τετράεδρον ἐπηρμένον στερεόν) — Solid Stellated (Elevated) Tetrahedron"
@@ -13850,10 +13178,10 @@
     "type": "plate",
     "file": "0197.g1.png",
     "bbox": [
-      0,
+      61,
       195,
-      990,
-      993
+      828,
+      692
     ],
     "white_point": 226,
     "caption": "Plate VI: Tetrahedron Elevatum Vacuum (Τετράεδρον ἐπηρμένον κενόν) — Hollow Stellated (Elevated) Tetrahedron"
@@ -13868,10 +13196,10 @@
     "type": "plate",
     "file": "0199.g1.png",
     "bbox": [
-      0,
-      182,
-      831,
-      1029
+      146,
+      181,
+      670,
+      693
     ],
     "white_point": 226,
     "caption": "Plate VII: Exahedron sive Cubus Planum Solidum (Ἑξάεδρον ἢ κύβος ἐπίπεδον στερεόν) — Solid Regular Hexahedron (Cube)"
@@ -13886,10 +13214,10 @@
     "type": "plate",
     "file": "0201.g1.png",
     "bbox": [
-      0,
+      131,
       214,
-      822,
-      1301
+      676,
+      683
     ],
     "white_point": 226,
     "caption": "Plate VIII: Exahedron Planum Vacuum (Ἑξάεδρον ἐπίπεδον κενόν) — Hollow Regular Hexahedron (Cube)"
@@ -13904,10 +13232,10 @@
     "type": "plate",
     "file": "0203.g1.png",
     "bbox": [
-      0,
+      107,
       192,
-      993,
-      1029
+      765,
+      656
     ],
     "white_point": 226,
     "caption": "Plate VIIII: Exahedron Abscisum Solidum (Ἑξάεδρον ἀποτετμημένον στερεόν) — Solid Truncated Hexahedron (Cuboctahedron)"
@@ -13922,10 +13250,10 @@
     "type": "plate",
     "file": "0205.g1.png",
     "bbox": [
-      0,
+      25,
       208,
-      800,
-      931
+      760,
+      657
     ],
     "white_point": 226,
     "caption": "Plate X: Exahedron Abscisum Vacuum (Ἑξάεδρον ἀποτετμημένον κενόν) — Hollow Truncated Hexahedron (Cuboctahedron)"
@@ -13940,10 +13268,10 @@
     "type": "plate",
     "file": "0207.g1.png",
     "bbox": [
-      0,
-      106,
-      832,
-      1237
+      6,
+      168,
+      811,
+      747
     ],
     "white_point": 226,
     "caption": "Plate XI: Exahedron Elevatum Solidum (Ἑξάεδρον ἐπηρμένον στερεόν) — Solid Elevated Hexahedron"
@@ -13958,10 +13286,10 @@
     "type": "plate",
     "file": "0209.g1.png",
     "bbox": [
-      0,
+      6,
       172,
-      836,
-      931
+      821,
+      756
     ],
     "white_point": 226,
     "caption": "Plate XII: Exahedron Elevatum Vacuum (Ἑξάεδρον ἐπηρμένον κενόν) — Hollow Elevated Hexahedron"
@@ -13976,10 +13304,10 @@
     "type": "plate",
     "file": "0211.g1.png",
     "bbox": [
-      0,
-      234,
-      730,
-      923
+      85,
+      233,
+      630,
+      675
     ],
     "white_point": 226,
     "caption": "Plate XIII: Exahedron Abscisum Elevatum Solidum (Ἑξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν) — Solid Elevated Truncated Hexahedron"
@@ -13994,9 +13322,9 @@
     "type": "plate",
     "file": "0213.g1.png",
     "bbox": [
-      0,
+      42,
       16,
-      956,
+      914,
       1370
     ],
     "white_point": 226,
@@ -14012,10 +13340,10 @@
     "type": "plate",
     "file": "0215.g1.png",
     "bbox": [
-      0,
-      109,
-      1018,
-      1130
+      18,
+      105,
+      1000,
+      1134
     ],
     "white_point": 226,
     "caption": "Epistilio (Architrave), Zophoro (Fregio) e Cornicione"
@@ -14030,10 +13358,10 @@
     "type": "plate",
     "file": "0217.g1.png",
     "bbox": [
-      0,
-      0,
-      734,
-      1494
+      120,
+      175,
+      599,
+      707
     ],
     "white_point": 226,
     "caption": "Plate XIIII: Exahedron Abscisum Elevatum Vacuum (Ἑξάεδρον ἀποτετμημένον ἐπηρμένον κενόν) — Hollow Elevated Truncated Hexahedron"
@@ -14048,10 +13376,10 @@
     "type": "plate",
     "file": "0219.g1.png",
     "bbox": [
-      0,
-      0,
-      813,
-      1163
+      140,
+      163,
+      658,
+      684
     ],
     "white_point": 226,
     "caption": "Plate XV: Octahedron Planum Solidum (Ὀκτάεδρον ἐπίπεδον στερεόν) — Solid Regular Octahedron"
@@ -14066,10 +13394,10 @@
     "type": "plate",
     "file": "0221.g1.png",
     "bbox": [
-      0,
-      0,
-      809,
-      963
+      134,
+      150,
+      660,
+      692
     ],
     "white_point": 226,
     "caption": "Plate XVI: Octahedron Planum Vacuum (Ὀκτάεδρον ἐπίπεδον κενόν) — Hollow Regular Octahedron"
@@ -14084,10 +13412,10 @@
     "type": "plate",
     "file": "0223.g1.png",
     "bbox": [
-      0,
-      0,
-      822,
-      1515
+      91,
+      189,
+      716,
+      716
     ],
     "white_point": 226,
     "caption": "Plate XVII: Octahedron Abscisum Solidum (Ὀκτάεδρον ἀποτετμημένον στερεόν) — Solid Truncated Octahedron"
@@ -14102,10 +13430,10 @@
     "type": "plate",
     "file": "0225.g1.png",
     "bbox": [
-      0,
-      41,
-      930,
-      1224
+      37,
+      124,
+      715,
+      718
     ],
     "white_point": 226,
     "caption": "Plate XVIII: Octahedron Abscisum Vacuum (Ὀκτάεδρον ἀποτετμημένον κενόν) — Hollow Truncated Octahedron"
@@ -14120,10 +13448,10 @@
     "type": "plate",
     "file": "0227.g1.png",
     "bbox": [
-      0,
-      109,
-      820,
-      1208
+      87,
+      182,
+      718,
+      712
     ],
     "white_point": 226,
     "caption": "Plate XIX: Octahedron Elevatum Solidum (Ὀκτάεδρον ἐπηρμένον στερεόν) — Solid Elevated Octahedron (Stella Octangula)"
@@ -14138,10 +13466,10 @@
     "type": "plate",
     "file": "0229.g1.png",
     "bbox": [
-      0,
+      50,
       174,
-      752,
-      1341
+      687,
+      775
     ],
     "white_point": 226,
     "caption": "Plate XX: Octahedron Elevatum Vacuum (Ὀκτάεδρον ἐπηρμένον κενόν) — Hollow Elevated Octahedron (Stella Octangula)"
@@ -14156,10 +13484,10 @@
     "type": "plate",
     "file": "0231.g1.png",
     "bbox": [
-      0,
-      0,
-      764,
-      1515
+      121,
+      177,
+      628,
+      684
     ],
     "white_point": 226,
     "caption": "Plate XXI: Icosahedron Planum Solidum (Εἰκοσάεδρον ἐπίπεδον στερεόν) — Solid Regular Icosahedron"
@@ -14174,10 +13502,10 @@
     "type": "plate",
     "file": "0233.g1.png",
     "bbox": [
-      0,
-      0,
-      969,
-      1491
+      133,
+      170,
+      642,
+      683
     ],
     "white_point": 226,
     "caption": "Plate XXII: Icosahedron Planum Vacuum (Εἰκοσάεδρον ἐπίπεδον κενόν) — Hollow Regular Icosahedron"
@@ -14192,10 +13520,10 @@
     "type": "plate",
     "file": "0235.g1.png",
     "bbox": [
-      0,
-      41,
-      827,
-      1474
+      95,
+      160,
+      716,
+      698
     ],
     "white_point": 226,
     "caption": "Plate XXIII: Icosahedron Abscisum Solidum (Εἰκοσάεδρον ἀποτετμημένον στερεόν) — Solid Truncated Icosahedron"
@@ -14210,10 +13538,10 @@
     "type": "plate",
     "file": "0237.g1.png",
     "bbox": [
-      0,
-      64,
-      773,
-      1414
+      42,
+      182,
+      716,
+      712
     ],
     "white_point": 226,
     "caption": "Plate XXIIII: Icosahedron Abscisum Vacuum (Εἰκοσάεδρον ἀποτετμημένον κενόν) — Hollow Truncated Icosahedron"
@@ -14228,10 +13556,10 @@
     "type": "plate",
     "file": "0239.g1.png",
     "bbox": [
-      0,
-      0,
-      763,
-      1515
+      11,
+      149,
+      737,
+      734
     ],
     "white_point": 226,
     "caption": "Plate XXV: Icosahedron Elevatum Solidum (Εἰκοσάεδρον ἐπηρμένον στερεόν) — Solid Elevated Icosahedron"
@@ -14246,10 +13574,10 @@
     "type": "plate",
     "file": "0241.g1.png",
     "bbox": [
-      0,
-      65,
-      845,
-      1450
+      74,
+      201,
+      756,
+      728
     ],
     "white_point": 226,
     "caption": "Plate XXVI: Icosahedron Elevatum Vacuum (Εἰκοσάεδρον ἐπηρμένον κενόν) — Hollow Elevated Icosahedron"
@@ -14264,10 +13592,10 @@
     "type": "plate",
     "file": "0243.g1.png",
     "bbox": [
-      0,
-      0,
-      839,
-      1515
+      122,
+      192,
+      702,
+      745
     ],
     "white_point": 226,
     "caption": "Plate XXVII: Dodecahedron Planum Solidum (Δωδεκάεδρον ἐπίπεδον στερεόν) — Solid Regular Dodecahedron"
@@ -14282,10 +13610,10 @@
     "type": "plate",
     "file": "0245.g1.png",
     "bbox": [
-      0,
-      83,
-      760,
-      1432
+      19,
+      172,
+      726,
+      760
     ],
     "white_point": 226,
     "caption": "Plate XXVIII: Dodecahedron Planum Vacuum (Δωδεκάεδρον ἐπίπεδον κενόν) — Hollow Regular Dodecahedron"
@@ -14300,10 +13628,10 @@
     "type": "plate",
     "file": "0247.g1.png",
     "bbox": [
-      0,
-      0,
-      898,
-      1515
+      6,
+      173,
+      749,
+      716
     ],
     "white_point": 226,
     "caption": "Plate XXIX: Dodecahedron Abscisum Solidum (Δωδεκάεδρον ἀποτετμημένον στερεόν) — Solid Truncated Dodecahedron (Icosidodecahedron)"
@@ -14318,10 +13646,10 @@
     "type": "plate",
     "file": "0249.g1.png",
     "bbox": [
-      0,
-      52,
-      811,
-      1463
+      19,
+      146,
+      777,
+      739
     ],
     "white_point": 226,
     "caption": "Plate XXX: Dodecahedron Abscisum Vacuum (Δωδεκάεδρον ἀποτετμημένον κενόν) — Hollow Truncated Dodecahedron (Icosidodecahedron)"
@@ -14336,10 +13664,10 @@
     "type": "plate",
     "file": "0251.g1.png",
     "bbox": [
-      0,
+      90,
       188,
-      772,
-      1327
+      667,
+      674
     ],
     "white_point": 226,
     "caption": "Plate XXXI: Dodecahedron Elevatum Solidum (Δωδεκάεδρον ἐπηρμένον στερεόν) — Solid Elevated Dodecahedron"
@@ -14354,10 +13682,10 @@
     "type": "plate",
     "file": "0253.g1.png",
     "bbox": [
-      0,
+      120,
       184,
-      804,
-      1079
+      669,
+      688
     ],
     "white_point": 226,
     "caption": "Plate XXXII: Dodecahedron Elevatum Vacuum (Δωδεκάεδρον ἐπηρμένον κενόν) — Hollow Elevated Dodecahedron"
@@ -14372,10 +13700,10 @@
     "type": "plate",
     "file": "0255.g1.png",
     "bbox": [
-      0,
+      108,
       139,
-      775,
-      1376
+      652,
+      702
     ],
     "white_point": 226,
     "caption": "Plate XXXIII: Dodecahedron Abscisum Elevatum Solidum (Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον στερεόν) — Solid Elevated Truncated Dodecahedron"
@@ -14390,10 +13718,10 @@
     "type": "plate",
     "file": "0257.g1.png",
     "bbox": [
-      0,
-      0,
-      903,
-      1515
+      88,
+      226,
+      655,
+      693
     ],
     "white_point": 226,
     "caption": "Plate XXXIIII: Dodecahedron Abscisum Elevatum Vacuum (Δωδεκάεδρον ἀποτετμημένον ἐπηρμένον κενόν) — Hollow Elevated Truncated Dodecahedron"
@@ -14408,10 +13736,10 @@
     "type": "plate",
     "file": "0259.g1.png",
     "bbox": [
-      0,
+      70,
       208,
-      709,
-      1211
+      624,
+      683
     ],
     "white_point": 226,
     "caption": "Plate XXXV: Vigintisex Basium Planum Solidum (Εἰκοσιεξάεδρον ἐπίπεδον στερεόν) — Solid 26-Base Body (Rhombicuboctahedron)"
@@ -14426,10 +13754,10 @@
     "type": "plate",
     "file": "0261.g1.png",
     "bbox": [
-      0,
+      122,
       176,
-      759,
-      1164
+      626,
+      686
     ],
     "white_point": 226,
     "caption": "Plate XXXVI: Vigintisex Basium Planum Vacuum (Εἰκοσιεξάεδρον ἐπίπεδον κενόν) — Hollow 26-Base Body (Rhombicuboctahedron)"
@@ -14444,10 +13772,10 @@
     "type": "plate",
     "file": "0263.g1.png",
     "bbox": [
-      0,
-      247,
-      740,
-      1268
+      45,
+      231,
+      688,
+      685
     ],
     "white_point": 226,
     "caption": "Plate XXXVII: Vigintisex Basium Abscisum Elevatum Solidum (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν) — Solid Elevated 26-Base Body"
@@ -14462,10 +13790,10 @@
     "type": "plate",
     "file": "0265.g1.png",
     "bbox": [
-      0,
-      0,
-      816,
-      1515
+      109,
+      199,
+      692,
+      691
     ],
     "white_point": 226,
     "caption": "Plate XXXVIII: Vigintisex Basium Abscisum Elevatum Vacuum (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον κενόν) — Hollow Elevated 26-Base Body"
@@ -14480,10 +13808,10 @@
     "type": "plate",
     "file": "0267.g1.png",
     "bbox": [
-      0,
-      0,
-      868,
-      1515
+      136,
+      143,
+      717,
+      707
     ],
     "white_point": 226,
     "caption": "Plate XXXIX: Septuaginta Duarum Basium Solidum (Ἑβδομηκονταδισσάεδρον στερεόν) — Solid 72-Base Body"
@@ -14498,10 +13826,10 @@
     "type": "plate",
     "file": "0269.g1.png",
     "bbox": [
-      0,
-      0,
-      835,
-      1515
+      94,
+      147,
+      726,
+      720
     ],
     "white_point": 226,
     "caption": "Plate XL: Septuaginta Duarum Basium Vacuum (Ἑβδομηκονταδισσάεδρον κενόν) — Hollow 72-Base Body"
@@ -14516,10 +13844,10 @@
     "type": "plate",
     "file": "0271.g1.png",
     "bbox": [
-      0,
+      305,
       167,
-      625,
-      1348
+      305,
+      722
     ],
     "white_point": 226,
     "caption": "Plate XLI: Columna Laterata Triangula Solida (Κίων πλευρώδης τρίγωνος στερεός) — Solid Triangular Prism (Corpus Seratile)"
@@ -14534,10 +13862,10 @@
     "type": "plate",
     "file": "0273.g1.png",
     "bbox": [
-      0,
+      222,
       165,
-      542,
-      1350
+      305,
+      743
     ],
     "white_point": 226,
     "caption": "Plate XLII: Columna Laterata Triangula Vacua (Κίων πλευρώδης τρίγωνος κενός) — Hollow Triangular Prism"
@@ -14552,10 +13880,10 @@
     "type": "plate",
     "file": "0275.g1.png",
     "bbox": [
-      0,
+      206,
       175,
-      538,
-      1340
+      317,
+      714
     ],
     "white_point": 226,
     "caption": "Plate XLIII: Pyramis Laterata Triangula Solida (Πυραμὶς πλευρώδης τρίγωνος στερεά) — Solid Triangular Pyramid"
@@ -14570,10 +13898,10 @@
     "type": "plate",
     "file": "0277.g1.png",
     "bbox": [
-      0,
-      0,
-      553,
-      1515
+      266,
+      249,
+      244,
+      602
     ],
     "white_point": 226,
     "caption": "Plate XLIIII: Pyramis Laterata Triangula Vacua (Πυραμὶς πλευρώδης τρίγωνος κενή) — Hollow Triangular Pyramid"
@@ -14588,10 +13916,10 @@
     "type": "plate",
     "file": "0279.g1.png",
     "bbox": [
-      0,
-      0,
-      581,
-      1440
+      141,
+      172,
+      428,
+      797
     ],
     "white_point": 226,
     "caption": "Plate XLV: Columna Laterata Quadrangula Solida (Κίων πλευρώδης τετράγωνος στερεός) — Solid Quadrangular Prism"
@@ -14606,10 +13934,10 @@
     "type": "plate",
     "file": "0281.g1.png",
     "bbox": [
-      0,
-      0,
-      656,
-      1407
+      212,
+      146,
+      428,
+      793
     ],
     "white_point": 226,
     "caption": "Plate XLVI: Columna Laterata Quadrangula Vacua (Κίων πλευρώδης τετράγωνος κενός) — Hollow Quadrangular Prism"
@@ -14624,10 +13952,10 @@
     "type": "plate",
     "file": "0283.g1.png",
     "bbox": [
-      0,
-      0,
-      623,
-      1262
+      208,
+      161,
+      400,
+      708
     ],
     "white_point": 226,
     "caption": "Plate XLVII: Pyramis Laterata Quadrangula Solida (Πυραμὶς πλευρώδης τετράγωνος στερεά) — Solid Quadrangular Pyramid"
@@ -14642,10 +13970,10 @@
     "type": "plate",
     "file": "0285.g1.png",
     "bbox": [
-      0,
-      0,
-      623,
-      1444
+      208,
+      161,
+      400,
+      708
     ],
     "white_point": 226,
     "caption": "Plate XLVII-bis: Pyramis Laterata Quadrangula Solida (bis) (Πυραμὶς πλευρώδης τετράγωνος στερεά) — Solid Quadrangular Pyramid (Duplicate Scan in Witness)"
@@ -14660,10 +13988,10 @@
     "type": "plate",
     "file": "0287.g1.png",
     "bbox": [
-      0,
-      0,
-      622,
-      1013
+      191,
+      171,
+      420,
+      709
     ],
     "white_point": 226,
     "caption": "Plate XLVIII: Pyramis Laterata Quadrangula Vacua (Πυραμὶς πλευρώδης τετράγωνος κενή) — Hollow Quadrangular Pyramid"
@@ -14678,10 +14006,10 @@
     "type": "plate",
     "file": "0289.g1.png",
     "bbox": [
-      0,
-      0,
-      612,
-      1299
+      238,
+      168,
+      359,
+      715
     ],
     "white_point": 226,
     "caption": "Plate XLIX: Columna Laterata Penthagona Solida (Κίων πλευρώδης πεντάγωνος στερεός) — Solid Pentagonal Prism"
@@ -14696,10 +14024,10 @@
     "type": "plate",
     "file": "0291.g1.png",
     "bbox": [
-      0,
-      0,
-      627,
-      1515
+      255,
+      202,
+      362,
+      721
     ],
     "white_point": 226,
     "caption": "Plate L: Columna Laterata Penthagona Vacua (Κίων πλευρώδης πεντάγωνος κενός) — Hollow Pentagonal Prism"
@@ -14714,10 +14042,10 @@
     "type": "plate",
     "file": "0293.g1.png",
     "bbox": [
-      0,
-      0,
-      649,
-      1400
+      260,
+      212,
+      374,
+      720
     ],
     "white_point": 226,
     "caption": "Plate LI: Pyramis Laterata Penthagona Solida (Πυραμὶς πλευρώδης πεντάγωνος στερεά) — Solid Pentagonal Pyramid"
@@ -14732,10 +14060,10 @@
     "type": "plate",
     "file": "0295.g1.png",
     "bbox": [
-      0,
-      0,
-      659,
-      1456
+      269,
+      175,
+      381,
+      722
     ],
     "white_point": 226,
     "caption": "Plate LII: Pyramis Laterata Penthagona Vacua (Πυραμὶς πλευρώδης πεντάγωνος κενή) — Hollow Pentagonal Pyramid"
@@ -14750,10 +14078,10 @@
     "type": "plate",
     "file": "0297.g1.png",
     "bbox": [
-      0,
+      216,
       162,
-      601,
-      1321
+      370,
+      726
     ],
     "white_point": 226,
     "caption": "Plate LIII: Columna Laterata Exagona Solida (Κίων πλευρώδης ἑξάγωνος στερεός) — Solid Hexagonal Prism"
@@ -14768,10 +14096,10 @@
     "type": "plate",
     "file": "0299.g1.png",
     "bbox": [
-      0,
-      0,
-      579,
-      1515
+      191,
+      182,
+      372,
+      731
     ],
     "white_point": 226,
     "caption": "Plate LIIII: Columna Laterata Exagona Vacua (Κίων πλευρώδης ἑξάγωνος κενός) — Hollow Hexagonal Prism"
@@ -14786,10 +14114,10 @@
     "type": "plate",
     "file": "0301.g1.png",
     "bbox": [
-      0,
-      112,
-      749,
-      1403
+      38,
+      189,
+      697,
+      728
     ],
     "white_point": 226,
     "caption": "Plate LV: Pyramis Laterata Triangula Inaequilatera Solida (Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος στερεά) — Solid Scalene Triangular Pyramid"
@@ -14804,10 +14132,10 @@
     "type": "plate",
     "file": "0303.g1.png",
     "bbox": [
-      0,
-      0,
-      825,
-      1515
+      109,
+      178,
+      701,
+      717
     ],
     "white_point": 226,
     "caption": "Plate LVI: Pyramis Laterata Triangula Inaequilatera Vacua (Πυραμὶς πλευρώδης τρίγωνος ἀνισόπλευρος κενή) — Hollow Scalene Triangular Pyramid"
@@ -14822,10 +14150,10 @@
     "type": "plate",
     "file": "0305.g1.png",
     "bbox": [
-      0,
-      0,
-      637,
-      1489
+      329,
+      168,
+      293,
+      766
     ],
     "white_point": 226,
     "caption": "Plate LVII: Columna Rotunda Solida (Κίων στρογγύλος στερεός) — Solid Round Column (Cylinder)"
@@ -14840,10 +14168,10 @@
     "type": "plate",
     "file": "0307.g1.png",
     "bbox": [
-      0,
-      0,
-      583,
-      1400
+      267,
+      176,
+      301,
+      739
     ],
     "white_point": 226,
     "caption": "Plate LVIII: Pyramis Rotunda Solida (Πυραμὶς στρογγύλη στερεά) — Solid Round Pyramid (Cone)"
@@ -14858,10 +14186,10 @@
     "type": "plate",
     "file": "0309.g1.png",
     "bbox": [
-      0,
-      0,
-      802,
-      1515
+      47,
+      195,
+      740,
+      729
     ],
     "white_point": 226,
     "caption": "Plate LIX (printed LXI): Sphera Solida (Σφαῖρα στερεά) — Solid Sphere"
@@ -14876,30 +14204,12 @@
     "type": "plate",
     "file": "0311.g1.png",
     "bbox": [
-      0,
-      0,
-      1167,
-      1608
+      25,
+      10,
+      1085,
+      1410
     ],
     "white_point": 226,
     "caption": "Arbor Proportio et Proportionalitas"
-  },
-  {
-    "folio": "0313",
-    "page_num": 313,
-    "side": "recto",
-    "section_id": "End Matter and Colophon",
-    "section_title": "End Matter and Colophon",
-    "id": "g1",
-    "type": "plate",
-    "file": "0313.g1.png",
-    "bbox": [
-      0,
-      0,
-      277,
-      1515
-    ],
-    "white_point": 226,
-    "caption": "Leonardo da Vinci Plate 64 (Folio 0313): 3> $ s"
   }
 ]

@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0155.png``:
 
-- **``g1``** (``0155.g1.png``): Type ``plate`` | Caption: *Roman Geometric Alphabet — Lettera I / J* | Bounding Box ``[x=154, y=193, w=608, h=601]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0155.g1.png``): Type ``plate`` | Caption: *Roman Geometric Alphabet — Lettera I / J* | Bounding Box ``[x=154, y=191, w=617, h=606]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

@@ -10,9 +10,6 @@
 Folio 0026 (f. 5v) — Cap. IX, Cap. X, Cap. XI (f. 5v) — Che cosa sia radici de numero e de altra quantità.
 ==========================================================================================================
 
-.. picture:: 0026.g1.png
-   :alt: Folio 0026 Tavola g1
-
 .. picture:: 0026.c1.png
    :alt: Folio 0026 Capolettera c1
 

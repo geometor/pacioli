@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0163.png``:
 
-- **``g1``** (``0163.g1.png``): Type ``plate`` | Caption: *Roman Geometric Alphabet — Lettera N* | Bounding Box ``[x=18, y=260, w=757, h=599]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0163.g1.png``): Type ``plate`` | Caption: *Roman Geometric Alphabet — Lettera N* | Bounding Box ``[x=23, y=260, w=752, h=599]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

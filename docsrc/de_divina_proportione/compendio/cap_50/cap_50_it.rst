@@ -1,0 +1,21 @@
+:layout: book
+:canonical_id: Cap. L
+:folio: 0044–0045 (f. 14v–f. 15r)
+
+.. _compendio-cap_50-it:
+
+CAPITOLO L
+==========
+
+.. rubric:: Delo octocedron piano solido o ver vacuo e absciso solido o ver vacuo edelo eleuato solido o ver vacuo.
+
+.. folio:: 0044–0045 (f. 14v–f. 15r)
+   :initial: 0044.c2.png
+
+XV. XVI. Lo octacedron piano solido o ver vacuo riceue in se 12 linee e 24 anguli superficiali e de solidi ne ha 6. e fia contenuto da 8 basi triangulari equilatere e parimente equiangule commo nella propria sua forma materiale anoi sa presenta.
+
+XVII. XVIII. Loctocedron absciso o ver tagliato piano solido o ver vacuo ha linee 36. che fanno 72 languii superficiali cioè 48 sonno deli exagoni e 24 deli quadrati e contene 24 solidi e ha 14 basi dele quali 8 sonno exagone cioè de 6 lati e 6 ne sonno tetragone cioè quadrate. Ma de diete linee 24 ne sonno commune cioè ali quadrati e ali exagoni. E quelli tali quadrati se formano dali exagoni quando vniformi tutti 8 se contangino che di tutto lochio nela forma sua materiale chiaro alintellecto lauerita fa nota.
+
+E de questo ancora non e possibile se formi el suo eleuato che vniforme sapresenti per lo deffecto similmente deli exagoni quali commo del :term:`tetracedron <tetrahedron>` absciso fo detto non e possibile che causino :term:`angulo solido <angulo-solido>` e formase dal precedente nella terza parte de ciascuno suo lato uniforme tagliato.
+
+XIX. XX. Loctocedron eleuato solido o ver vacuo ha 36 linee de equal longhezza e ha72 anguli superficiali e 8 solidi pyramidali. E fia contenuto da 24 superfice tutte trigone equilatere e equiangule lequali aponto el circundano. Ma de quelle linee 12 ne sonno comune atutti li trianguli de le pyramidi. E questo tal corpo composto de 8 :term:`pyramidi laterate <pyramide-laterata>` triangule equilatere •de medesima altezza quali tutti de fore aparano, e ancora del ottocedron intrenseco per sola ymaginatione de lintelletto perceptibile del quale :term:`octocedron <octahedron>` le basi sonno basi de le diete 8 pyramidi. Commo la forma sua materiale a noi fa manifesto.

@@ -1,19 +1,6 @@
 {
   "folio": "0313",
-  "graphics": [
-    {
-      "id": "g1",
-      "file": "0313.g1.png",
-      "bbox": [
-        0,
-        0,
-        277,
-        1515
-      ],
-      "white_point": 226,
-      "caption": "Leonardo da Vinci Plate 64 (Folio 0313): 3> $ s"
-    }
-  ],
+  "graphics": [],
   "page_num": 313,
   "side": "recto",
   "original_folio": "End Matter 0313 (recto)",

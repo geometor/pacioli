@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0263.png``:
 
-- **``g1``** (``0263.g1.png``): Type ``plate`` | Caption: *Plate XXXVII: Vigintisex Basium Abscisum Elevatum Solidum (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν) — Solid Elevated 26-Base Body* | Bounding Box ``[x=0, y=247, w=740, h=1268]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0263.g1.png``): Type ``plate`` | Caption: *Plate XXXVII: Vigintisex Basium Abscisum Elevatum Solidum (Εἰκοσιεξάεδρον ἀποτετμημένον ἐπηρμένον στερεόν) — Solid Elevated 26-Base Body* | Bounding Box ``[x=45, y=231, w=688, h=685]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0311.png``:
 
-- **``g1``** (``0311.g1.png``): Type ``plate`` | Caption: :term:`*Arbor Proportio et Proportionalitas* <arbor-proportionis>` | Bounding Box ``[x=0, y=0, w=1167, h=1608]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0311.g1.png``): Type ``plate`` | Caption: :term:`*Arbor Proportio et Proportionalitas* <arbor-proportionis>` | Bounding Box ``[x=25, y=10, w=1085, h=1410]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

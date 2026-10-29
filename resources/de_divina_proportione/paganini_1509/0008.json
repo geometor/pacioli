@@ -3,22 +3,7 @@
   "side": "verso",
   "section": "Front Matter and Dedications",
   "header": "^Magnifico f C lariflimo Andrea Mocénico Veneto patricìo Vir",
-  "graphics": [
-    {
-      "id": "g1",
-      "type": "diagram",
-      "file": "0008.g1.png",
-      "bbox": [
-        271,
-        49,
-        80,
-        1039
-      ],
-      "white_point": 226,
-      "caption": "Folio 0008 Diagram 1",
-      "margin": "left"
-    }
-  ],
+  "graphics": [],
   "page_num": 8,
   "original_folio": "A2v",
   "section_id": "front_matter",

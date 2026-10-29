@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0207.png``:
 
-- **``g1``** (``0207.g1.png``): Type ``plate`` | Caption: *Plate XI: Exahedron Elevatum Solidum (Ἑξάεδρον ἐπηρμένον στερεόν) — Solid Elevated Hexahedron* | Bounding Box ``[x=0, y=106, w=832, h=1237]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0207.g1.png``): Type ``plate`` | Caption: *Plate XI: Exahedron Elevatum Solidum (Ἑξάεδρον ἐπηρμένον στερεόν) — Solid Elevated Hexahedron* | Bounding Box ``[x=6, y=168, w=811, h=747]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

@@ -11,7 +11,7 @@
       "bbox": [
         28,
         196,
-        379,
+        342,
         564
       ],
       "white_point": 226,
@@ -22,7 +22,7 @@
   "page_num": 36,
   "original_folio": "f. 10v",
   "section_id": "compendio",
-  "title": "Cap. XXIX, Cap. XXX (f. 10v) — De la fabrica e formatione del corpo detto ycocedron.",
+  "title": "Cap. XXIX, Cap. XXX (f. 10v) \u2014 De la fabrica e formatione del corpo detto ycocedron.",
   "chapters": [
     {
       "book": 1,
@@ -31,7 +31,7 @@
       "roman": "XXIX",
       "slug": "cap_29",
       "title_it": "De la fabrica e formatione del corpo detto ycocedron.",
-      "title_de": "Von der Anfertigung und Bildung des Ikosaeder genannten Körpers.",
+      "title_de": "Von der Anfertigung und Bildung des Ikosaeder genannten K\u00f6rpers.",
       "winterberg_it": "winterberg/01_divina_proportione_italian/029_cap_XXIX.txt",
       "winterberg_de": "winterberg/03_divina_proportione_german/029_cap_XXIX.txt",
       "starts_on_folio": false
@@ -43,7 +43,7 @@
       "roman": "XXX",
       "slug": "cap_30",
       "title_it": "Saper fare el corpo de 12 basi pentagonali equilatere e equian- gule che de ponto la spera proposto lo circondi.",
-      "title_de": "Den Körper aus zwölf gleichseitigen und gleichwinkligen Fünf- ecken herstellen zu können, so dass die angenommene Kugel ihn genau einschliesse.",
+      "title_de": "Den K\u00f6rper aus zw\u00f6lf gleichseitigen und gleichwinkligen F\u00fcnf- ecken herstellen zu k\u00f6nnen, so dass die angenommene Kugel ihn genau einschliesse.",
       "winterberg_it": "winterberg/01_divina_proportione_italian/030_cap_XXX.txt",
       "winterberg_de": "winterberg/03_divina_proportione_german/030_cap_XXX.txt",
       "starts_on_folio": true

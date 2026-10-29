@@ -13,10 +13,10 @@ Graphic Extraction & Calibration
 
 A total of **6** woodcut element(s) were extracted and calibrated from ``0100.png``:
 
-- **``g1``** (``0100.g1.png``): Type ``diagram`` | Caption: *Folio 0100 Diagram 1* | Bounding Box ``[x=68, y=32, w=297, h=292]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
-- **``g2``** (``0100.g2.png``): Type ``diagram`` | Caption: *Folio 0100 Diagram 2* | Bounding Box ``[x=61, y=328, w=302, h=307]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
-- **``g3``** (``0100.g3.png``): Type ``diagram`` | Caption: *Folio 0100 Diagram 3* | Bounding Box ``[x=68, y=640, w=287, h=308]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
-- **``g4``** (``0100.g4.png``): Type ``diagram`` | Caption: *Folio 0100 Diagram 4* | Bounding Box ``[x=77, y=960, w=279, h=328]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g1``** (``0100.g1.png``): Type ``diagram`` | Caption: *Folio 0100 Diagram 1* | Bounding Box ``[x=72, y=26, w=289, h=294]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g2``** (``0100.g2.png``): Type ``diagram`` | Caption: *Folio 0100 Diagram 2* | Bounding Box ``[x=65, y=332, w=294, h=299]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g3``** (``0100.g3.png``): Type ``diagram`` | Caption: *Folio 0100 Diagram 3* | Bounding Box ``[x=72, y=644, w=279, h=300]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g4``** (``0100.g4.png``): Type ``diagram`` | Caption: *Folio 0100 Diagram 4* | Bounding Box ``[x=81, y=964, w=271, h=320]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
 - **``c1``** (``0100.c1.png``): Type ``initial`` | Caption: *Folio 0100 Initial Cap 1* | Bounding Box ``[x=406, y=267, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
 - **``c2``** (``0100.c2.png``): Type ``initial`` | Caption: *Folio 0100 Initial Cap 2* | Bounding Box ``[x=405, y=438, w=124, h=132]`` | Placement/Class: ``standard`` | White-Point Threshold: ``226``
 

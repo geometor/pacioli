@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0247.png``:
 
-- **``g1``** (``0247.g1.png``): Type ``plate`` | Caption: *Plate XXIX: Dodecahedron Abscisum Solidum (Δωδεκάεδρον ἀποτετμημένον στερεόν) — Solid Truncated Dodecahedron (Icosidodecahedron)* | Bounding Box ``[x=0, y=0, w=898, h=1515]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0247.g1.png``): Type ``plate`` | Caption: *Plate XXIX: Dodecahedron Abscisum Solidum (Δωδεκάεδρον ἀποτετμημένον στερεόν) — Solid Truncated Dodecahedron (Icosidodecahedron)* | Bounding Box ``[x=6, y=173, w=749, h=716]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

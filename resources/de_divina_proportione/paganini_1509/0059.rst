@@ -10,9 +10,6 @@
 Folio 0059 (f. 22r) — Cap. LXIX, Cap. LXX, Cap. LXXI (f. 22r) — Dela mesura de tutti li altri corpi regulari e dependen
 =======================================================================================================================
 
-.. picture:: 0059.g1.png
-   :alt: Folio 0059 Figura g1
-
 .. picture:: 0059.c1.png
    :alt: Folio 0059 Capolettera c1
 

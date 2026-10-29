@@ -5,20 +5,6 @@
   "header": "ITÉcccflStìifmò Rei pnblicS; Fiorentini principi perpetuo.D.",
   "graphics": [
     {
-      "id": "g1",
-      "type": "diagram",
-      "file": "0007.g1.png",
-      "bbox": [
-        653,
-        107,
-        173,
-        1087
-      ],
-      "white_point": 226,
-      "caption": "Folio 0007 Diagram 1",
-      "margin": "right"
-    },
-    {
       "id": "c1",
       "type": "initial",
       "size_class": "standard",

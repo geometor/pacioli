@@ -10,9 +10,6 @@
 Folio 0012 (A4v) — Tabula — Tabula (A4v)
 ========================================
 
-.. picture:: 0012.g1.png
-   :alt: Folio 0012 Tavola g1
-
 Cap. VI. Dela dignissima coramendatione de questa sancta e diuina proportione. Commo senza la notitia de dita proportione molte cose de admiratione dignissime in phylosophia ne in alcuna altra scientia se poterieno hauere.
 
 Cap. VII. Del Primo effecto de vna linea diuisa secondo la dieta diuina proportione. Commo dicta proportione fra le quantità se habia intendere e interporre. — Commo li sapientissimi dicta proportione habiano vsitato chiamarla in lor volumi. Commo se intenda diuidere vna quantità secondo questa tale proportione.

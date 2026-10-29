@@ -9,27 +9,13 @@
       "type": "diagram",
       "file": "0066.g1.png",
       "bbox": [
-        5,
-        363,
-        379,
-        615
+        162,
+        365,
+        358,
+        626
       ],
       "white_point": 226,
       "caption": "Folio 0066 Diagram 1",
-      "margin": "left"
-    },
-    {
-      "id": "g2",
-      "type": "diagram",
-      "file": "0066.g2.png",
-      "bbox": [
-        5,
-        980,
-        379,
-        107
-      ],
-      "white_point": 226,
-      "caption": "Folio 0066 Diagram 2",
       "margin": "left"
     }
   ],

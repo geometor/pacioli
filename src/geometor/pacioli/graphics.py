@@ -42,33 +42,50 @@ ROMAN_MAP = {
 }
 
 
-def clean_image(pil_image: Image.Image, white_point: int = 226) -> Image.Image:
-    """Applies a linear levels adjustment to the image, mapping white_point to pure white (255).
+def clean_image(
+    pil_image: Image.Image,
+    white_point: int = 226,
+    preserve_color: bool = False,
+) -> Image.Image:
+    """Normalize aged parchment background and binding shadows to pure white (255).
 
-    Effectively eliminates bleed-through, yellowed paper background, and scanning artifacts.
+    Uses morphological closing + Gaussian blur to estimate local paper illumination per channel,
+    eliminating yellowed paper cast, bleed-through, and gutter shadows while preserving crisp ink.
+    When ``preserve_color=True`` (e.g., red rubrication on folios 0005 and 0311), chromatic ink is kept.
     """
-    if pil_image.mode in ("RGB", "L"):
-        img_np = np.array(pil_image)
-    else:
-        img_np = np.array(pil_image.convert("RGB"))
+    rgb_img = pil_image.convert("RGB")
+    arr = np.array(rgb_img, dtype=np.float32)
 
-    lut = np.zeros((256,), dtype=np.uint8)
-    for i in range(256):
-        if i >= white_point:
-            val = 255
-        else:
-            val = i * 255.0 / white_point
-        lut[i] = np.clip(val, 0, 255)
-
-    if cv2 is not None:
-        cleaned_np = cv2.LUT(img_np, lut)
+    if cv2 is not None and arr.shape[0] >= 16 and arr.shape[1] >= 16:
+        ksize = min(31, max(7, (min(arr.shape[0], arr.shape[1]) // 4) | 1))
+        kernel = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (ksize, ksize))
+        bg = cv2.morphologyEx(arr, cv2.MORPH_CLOSE, kernel)
+        bsize = min(51, max(11, (min(arr.shape[0], arr.shape[1]) // 2) | 1))
+        bg = cv2.GaussianBlur(bg, (bsize, bsize), 0)
+        p85 = np.percentile(arr, 85, axis=(0, 1))
+        scale = float(white_point) / 235.0
+        wp = np.minimum(bg, p85 * 1.02) * scale
     else:
-        cleaned_np = lut[img_np]
+        p85 = np.percentile(arr, 85, axis=(0, 1))
+        wp = np.maximum(p85 * (float(white_point) / 235.0), 120.0)
+
+    bp = 28.0
+    norm = np.clip((arr - bp) * 255.0 / np.maximum(wp - bp, 40.0), 0.0, 255.0)
+
+    if not preserve_color and pil_image.mode != "L":
+        gray = 0.299 * norm[:, :, 0] + 0.587 * norm[:, :, 1] + 0.114 * norm[:, :, 2]
+        cleaned_np = np.stack([gray, gray, gray], axis=-1).astype(np.uint8)
+    elif pil_image.mode == "L":
+        gray = 0.299 * norm[:, :, 0] + 0.587 * norm[:, :, 1] + 0.114 * norm[:, :, 2]
+        cleaned_np = gray.astype(np.uint8)
+    else:
+        cleaned_np = norm.astype(np.uint8)
 
     cleaned_pil = Image.fromarray(cleaned_np)
     if pil_image.mode != cleaned_pil.mode:
         cleaned_pil = cleaned_pil.convert(pil_image.mode)
     return cleaned_pil
+
 
 
 def find_text_column_bounds(gray: np.ndarray, is_recto: bool) -> Tuple[int, int]:
@@ -487,18 +504,18 @@ def detect_graphics_folio(image_path: Path) -> List[Dict[str, Any]]:
     page_num = int(stem)
     is_recto = page_num % 2 == 1
 
-    # Blank flyleaves and blank pages
-    if page_num <= 6 or page_num in (84, 136) or page_num >= 310:
+    # Blank flyleaves, frontmatter/tabula (1-16), and blank pages
+    if page_num <= 16 or page_num in (84, 136) or page_num >= 312:
         return []
 
-    # 1. Polyhedra Plates (187 - 309) & Alphabet/Architecture Plates (137 - 186):
+    # 1. Polyhedra Plates (187 - 309), Alphabet/Architecture Plates (137 - 186), & Arbor Proportionis (311):
     # Odd pages are full-page woodcuts; even pages are blank backs of plates.
-    if 137 <= page_num <= 309:
+    if 137 <= page_num <= 311:
         if not is_recto:
             return []
         return detect_graphics_cv(image_path)
 
-    # 2. Frontmatter & Treatises (7 - 135):
+    # 2. Treatises (17 - 135):
     # Diagrams and marginalia are strictly in the outer margin (right on recto, left on verso).
     return detect_margin_figures(image_path, is_recto=is_recto)
 
@@ -776,7 +793,12 @@ def extract_from_json(json_path: Path, no_clean: bool = False) -> None:
 
         white_point = item.get("white_point", 226)
         if not no_clean and white_point is not None:
-            cropped = clean_image(cropped, white_point=white_point)
+            preserve_color = bool(item.get("preserve_color", folio in ("0005", "0311")))
+            cropped = clean_image(
+                cropped,
+                white_point=white_point,
+                preserve_color=preserve_color,
+            )
 
         out_name = item.get("file", f"{folio}.{gid}.png")
         out_path = json_path.parent / out_name

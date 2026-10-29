@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0191.png``:
 
-- **``g1``** (``0191.g1.png``): Type ``plate`` | Caption: *Plate III: Tetrahedron Abscisum Solidum (Τετράεδρον ἀποτετμημένον στερεόν) — Solid Truncated Tetrahedron* | Bounding Box ``[x=0, y=160, w=676, h=1355]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0191.g1.png``): Type ``plate`` | Caption: *Plate III: Tetrahedron Abscisum Solidum (Τετράεδρον ἀποτετμημένον στερεόν) — Solid Truncated Tetrahedron* | Bounding Box ``[x=6, y=200, w=655, h=686]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

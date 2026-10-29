@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0295.png``:
 
-- **``g1``** (``0295.g1.png``): Type ``plate`` | Caption: *Plate LII: Pyramis Laterata Penthagona Vacua (Πυραμὶς πλευρώδης πεντάγωνος κενή) — Hollow Pentagonal Pyramid* | Bounding Box ``[x=0, y=0, w=659, h=1456]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0295.g1.png``): Type ``plate`` | Caption: *Plate LII: Pyramis Laterata Penthagona Vacua (Πυραμὶς πλευρώδης πεντάγωνος κενή) — Hollow Pentagonal Pyramid* | Bounding Box ``[x=269, y=175, w=381, h=722]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

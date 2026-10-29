@@ -10,9 +10,6 @@
 Folio 0020 (f. 2v) — Cap. II (f. 2v) — Reuerendi Patris Magistri Luce pacioli de Burgo San Sep
 ==============================================================================================
 
-.. picture:: 0020.g1.png
-   :alt: Folio 0020 Tavola g1
-
 Cap. II: Reuerendi Patris Magistri Luce pacioli de Burgo San Sepulchro Ordinis Minorum. Et sacre theologie professoris in compendium de diuina proportione ex mathematicis disciplinis prefatio. (continuatio)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

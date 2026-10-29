@@ -11,9 +11,8 @@ Summary & Folio Continuity
 Graphic Extraction & Calibration
 --------------------------------
 
-A total of **2** woodcut element(s) were extracted and calibrated from ``0017.png``:
+A total of **1** woodcut element(s) were extracted and calibrated from ``0017.png``:
 
-- **``g1``** (``0017.g1.png``): Type ``diagram`` | Caption: *Folio 0017 Diagram 1* | Bounding Box ``[x=793, y=53, w=95, h=1207]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
 - **``c1``** (``0017.c1.png``): Type ``initial`` | Caption: *Folio 0017 Initial Cap 1* | Bounding Box ``[x=68, y=198, w=264, h=304]`` | Placement/Class: ``large`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations

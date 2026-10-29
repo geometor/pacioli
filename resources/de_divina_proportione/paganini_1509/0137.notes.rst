@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0137.png``:
 
-- **``g1``** (``0137.g1.png``): Type ``plate`` | Caption: *Divina Proportio — Caput Humanum (Proportional Profile of the Human Head)* | Bounding Box ``[x=0, y=32, w=922, h=1404]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0137.g1.png``): Type ``plate`` | Caption: *Divina Proportio — Caput Humanum (Proportional Profile of the Human Head)* | Bounding Box ``[x=48, y=32, w=825, h=1404]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

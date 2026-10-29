@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0267.png``:
 
-- **``g1``** (``0267.g1.png``): Type ``plate`` | Caption: *Plate XXXIX: Septuaginta Duarum Basium Solidum (Ἑβδομηκονταδισσάεδρον στερεόν) — Solid 72-Base Body* | Bounding Box ``[x=0, y=0, w=868, h=1515]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0267.g1.png``): Type ``plate`` | Caption: *Plate XXXIX: Septuaginta Duarum Basium Solidum (Ἑβδομηκονταδισσάεδρον στερεόν) — Solid 72-Base Body* | Bounding Box ``[x=136, y=143, w=717, h=707]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

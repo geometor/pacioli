@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0305.png``:
 
-- **``g1``** (``0305.g1.png``): Type ``plate`` | Caption: *Plate LVII: Columna Rotunda Solida (Κίων στρογγύλος στερεός) — Solid Round Column (Cylinder)* | Bounding Box ``[x=0, y=0, w=637, h=1489]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0305.g1.png``): Type ``plate`` | Caption: *Plate LVII: Columna Rotunda Solida (Κίων στρογγύλος στερεός) — Solid Round Column (Cylinder)* | Bounding Box ``[x=329, y=168, w=293, h=766]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

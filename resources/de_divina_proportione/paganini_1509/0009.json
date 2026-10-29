@@ -3,36 +3,7 @@
   "side": "recto",
   "section": "Front Matter and Dedications",
   "header": "NOMINA",
-  "graphics": [
-    {
-      "id": "g1",
-      "type": "diagram",
-      "file": "0009.g1.png",
-      "bbox": [
-        649,
-        55,
-        411,
-        559
-      ],
-      "white_point": 226,
-      "caption": "Folio 0009 Diagram 1",
-      "margin": "right"
-    },
-    {
-      "id": "g2",
-      "type": "diagram",
-      "file": "0009.g2.png",
-      "bbox": [
-        649,
-        588,
-        398,
-        789
-      ],
-      "white_point": 226,
-      "caption": "Folio 0009 Diagram 2",
-      "margin": "right"
-    }
-  ],
+  "graphics": [],
   "page_num": 9,
   "original_folio": "A3r",
   "section_id": "front_matter",

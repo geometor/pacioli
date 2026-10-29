@@ -14,9 +14,9 @@ To provide a structured, digital environment for studying the works of Fra Luca 
 Current Status
 --------------
 
-- **318 Paganini (1509) Folios & 510 Extracted Woodcuts/Initials**: High-resolution folio scans (``0001.png``–``0318.png``), 510 extracted marginal diagrams, polyhedra plates, and illuminated initial caps (``g1``, ``c1``), and structured ``<NNNN>.rst`` + ``<NNNN>.notes.rst`` files in ``resources/de_divina_proportione/paganini_1509/``.
+- **318 Paganini (1509) Folios & 482 Recalibrated Woodcuts/Initials**: High-resolution folio scans (``0001.png``–``0318.png``), 482 recalibrated woodcut graphics with neutral-white background normalization (214 illuminated initial caps, 180 marginal geometric diagrams, 23 Roman alphabet plates, 5 architectural/*Arbor* plates, and 60 Leonardo da Vinci polyhedra plates), and structured ``<NNNN>.rst`` + ``<NNNN>.notes.rst`` files in ``resources/de_divina_proportione/paganini_1509/``.
 - **Paganini (1509) ↔ Winterberg (1889) Concordance**: Complete mapping (``concordance.json``) aligning all 318 folios of the 1509 Venice edition with Constantin Winterberg's 1889 Vienna critical edition (Italian and German).
-- **Multi-Track Scholarly Edition (``docsrc/``)**: Complete RST edition across all 71 chapters of Part I (*Compendio de Divina Proportione*) and 20 chapters of Part II (*Tractato de l'Architectura*) with Italian (``_it.rst``), German (``_de.rst``), complete English translation (``_en.rst``), and critical commentary (``_notes.rst``).
+- **Multi-Track Book Codex (``docsrc/de_divina_proportione/``)**: Complete Book Codex edition across all 71 chapters of Part I (*Compendio de Divina Proportione*), Prohemio & 20 chapters of Part II (*Tractato de l'Architectura*), and Appendices I–III with synchronized **English** (``_en.rst``), **Italiano 1509** (``_it.rst``), **Deutsch 1889** (``_de.rst``), **Latin** (``_la.rst``), and **Critical Notes** (``_notes.rst``) tracks, plus **Bibliography** (113 loci), **Persons** (98 entries), and **Glossary** (160 terms).
 
 Textual Foundation: Why We Use Winterberg's Expanded Italian Transcription
 --------------------------------------------------------------------------

@@ -981,43 +981,44 @@ def try_wrap_entire_emphasis_span(span: str) -> str:
             return f":term:`{delim}{inner}{delim} <{slug}>`"
 
     # 4. Special check for Latin polyhedra plate titles like `*Tetrahedron Planum Solidum*`:
-    # match the longest polyhedron term prefix in `inner`
-    for pat, slug in TERM_RULES:
-        m = pat.match(inner)
-        if m and slug in (
-            "tetrahedron-abscisum",
-            "tetrahedron-elevatum",
-            "exahedron-abscisum-elevatum",
-            "exahedron-abscisum",
-            "exahedron-elevatum",
-            "octahedron-abscisum",
-            "octahedron-elevatum",
-            "icosahedron-abscisum",
-            "icosahedron-elevatum",
-            "dodecahedron-abscisum-elevatum",
-            "dodecahedron-abscisum",
-            "dodecahedron-elevatum",
-            "vigintisex-basium-elevatum",
-            "vigintisex-basium",
-            "septuaginta-duarum-basium",
-            "corpo-seratile",
-            "colonna-quadrilatera",
-            "colonna-pentagona",
-            "colonna-exagona",
-            "pyramide-triangula",
-            "pyramide-quadrilatera",
-            "pyramide-pentagona",
-            "pyramide-exagona",
-            "colonna-rotonda",
-            "pyramide-rotonda",
-            "tetrahedron",
-            "exahedron",
-            "octahedron",
-            "icosahedron",
-            "dodecahedron",
-            "spera",
-        ):
-            return f":term:`{delim}{inner}{delim} <{slug}>`"
+    # match the longest polyhedron term prefix in `inner` only when `inner` has no nested markup/parens
+    if re.fullmatch(r"[A-Za-zΑ-Ωα-ω\s\[\]]+", inner):
+        for pat, slug in TERM_RULES:
+            m = pat.match(inner)
+            if m and slug in (
+                "tetrahedron-abscisum",
+                "tetrahedron-elevatum",
+                "exahedron-abscisum-elevatum",
+                "exahedron-abscisum",
+                "exahedron-elevatum",
+                "octahedron-abscisum",
+                "octahedron-elevatum",
+                "icosahedron-abscisum",
+                "icosahedron-elevatum",
+                "dodecahedron-abscisum-elevatum",
+                "dodecahedron-abscisum",
+                "dodecahedron-elevatum",
+                "vigintisex-basium-elevatum",
+                "vigintisex-basium",
+                "septuaginta-duarum-basium",
+                "corpo-seratile",
+                "colonna-quadrilatera",
+                "colonna-pentagona",
+                "colonna-exagona",
+                "pyramide-triangula",
+                "pyramide-quadrilatera",
+                "pyramide-pentagona",
+                "pyramide-exagona",
+                "colonna-rotonda",
+                "pyramide-rotonda",
+                "tetrahedron",
+                "exahedron",
+                "octahedron",
+                "icosahedron",
+                "dodecahedron",
+                "spera",
+            ):
+                return f":term:`{delim}{inner}{delim} <{slug}>`"
 
     return span
 
@@ -1261,6 +1262,8 @@ def main() -> None:
     work_occ_persons: Dict[str, List[Dict[str, str]]] = defaultdict(list)
 
     for doc_path in sorted(DOCSRC_DIR.rglob("*.rst")):
+        if doc_path.name in {"bibliography.rst", "persons.rst", "glossary.rst"}:
+            continue
         rel_doc = doc_path.relative_to(DOCSRC_DIR).with_suffix("").as_posix()
         raw_doc = doc_path.read_text(encoding="utf-8")
         is_notes_doc = doc_path.name.endswith("_notes.rst")
@@ -1387,15 +1390,253 @@ def main() -> None:
             json.dumps(persons_registry, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
         )
 
+    # 7. Write scholarly apparatus RST pages in docsrc/de_divina_proportione/
+    write_apparatus_rst_pages(citations_registry, glossary_registry, persons_registry)
+
     tot_cite_occ = sum(len(v["occurrences"]) for v in citations_registry.values())
     tot_term_occ = sum(len(v["occurrences"]) for v in glossary_registry.values())
     tot_pers_occ = sum(len(v["occurrences"]) for v in persons_registry.values())
     print(
-        f"Built Apparatus Registries:\n"
+        f"Built Apparatus Registries & RST Pages:\n"
         f"  - citations.json: {len(citations_registry)} unique loci ({tot_cite_occ} folio occurrences)\n"
         f"  - glossary.json:  {len(glossary_registry)} technical terms ({tot_term_occ} folio occurrences)\n"
         f"  - persons.json:   {len(persons_registry)} historical persons ({tot_pers_occ} folio occurrences)"
     )
+
+
+def _apparatus_slug(key: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "-", (key or "").lower()).strip("-")
+
+
+def _make_rst_heading(text: str, char: str = "-") -> str:
+    line = char * max(len(text), 4)
+    return f"{text}\n{line}"
+
+
+def _format_work_occ_links(work_occs: List[Dict[str, str]], max_links: int = 24) -> str:
+    """Format compact :doc: backlinks to chapters/plates in docsrc/de_divina_proportione/."""
+    links: List[str] = []
+    seen_docs = set()
+    for w in work_occs:
+        doc = w.get("doc", "")
+        if not doc or not doc.startswith("de_divina_proportione/"):
+            continue
+        if doc in seen_docs:
+            continue
+        seen_docs.add(doc)
+        parts = doc.split("/")
+        # Build concise label (e.g. "Compendio Cap. III (EN)" or "Architectura Cap. I (IT)")
+        lang_tag = ""
+        for suf, lbl in (("_en", "EN"), ("_it", "IT"), ("_de", "DE"), ("_la", "LA"), ("_notes", "Notes")):
+            if parts[-1].endswith(suf):
+                lang_tag = f" ({lbl})"
+                break
+        if len(parts) >= 3 and parts[1] in ("compendio", "architectura"):
+            sec_lbl = "Comp." if parts[1] == "compendio" else "Arch."
+            ch_slug = parts[2]
+            if ch_slug == "dedication":
+                unit_lbl = f"{sec_lbl} Prohemio{lang_tag}"
+            elif ch_slug.startswith("cap_"):
+                cnum = int(ch_slug.split("_")[1])
+                unit_lbl = f"{sec_lbl} Cap. {cnum}{lang_tag}"
+            else:
+                unit_lbl = f"{sec_lbl} {ch_slug}{lang_tag}"
+        elif len(parts) >= 3 and parts[1] == "plates":
+            stem = parts[-1].rsplit("_", 1)[0].title()
+            unit_lbl = f"Plates: {stem}{lang_tag}"
+        else:
+            unit_lbl = w.get("title", parts[-1])
+        links.append(f":doc:`{unit_lbl} </{doc}>`")
+
+    if not links:
+        return ""
+    if len(links) > max_links:
+        shown = ", ".join(links[:max_links])
+        return f"{shown}, *...and {len(links) - max_links} more*"
+    return ", ".join(links)
+
+
+def write_apparatus_rst_pages(
+    citations: Dict[str, Any],
+    glossary: Dict[str, Any],
+    persons: Dict[str, Any],
+) -> None:
+    """Generate bibliography.rst, persons.rst, and glossary.rst inside docsrc/de_divina_proportione/."""
+    book_dir = DOCSRC_DIR / "de_divina_proportione"
+    book_dir.mkdir(parents=True, exist_ok=True)
+
+    # 1. Bibliography
+    works_by_author: Dict[str, Dict[str, List[Tuple[str, Dict[str, Any]]]]] = defaultdict(
+        lambda: defaultdict(list)
+    )
+    for ckey, cdata in citations.items():
+        author_slug = cdata.get("author_slug") or ckey.split(":")[0]
+        work_slug = cdata.get("work_slug") or (ckey.split(":")[1] if ":" in ckey else ckey)
+        wkey = f"{author_slug}:{work_slug}"
+        works_by_author[author_slug][wkey].append((ckey, cdata))
+
+    bib_lines: List[str] = [
+        ":order: 90",
+        ":layout: book",
+        ":type: apparatus",
+        ":title: Bibliography & Cited Works",
+        "",
+        ".. _bibliography:",
+        "",
+        "==========================",
+        "Bibliography & Cited Works",
+        "==========================",
+        "",
+        ".. rubric:: Classical, Patristic, Scholastic & Renaissance Sources in *De Divina Proportione*",
+        "",
+        "Systematic register of classical treatises, Euclidean propositions, and philosophical works cited "
+        "by Fra Luca Pacioli across *De Divina Proportione* (1509), with direct backlinks to every chapter occurrence.",
+        "",
+    ]
+
+    emitted_cite_slugs = set()
+    for author_slug in sorted(works_by_author.keys()):
+        first_entry = next(iter(works_by_author[author_slug].values()))[0][1]
+        author_name = first_entry.get("author", author_slug.replace("-", " ").title())
+        bib_anchor = first_entry.get("bib_anchor", f"bib-{author_slug}")
+        if bib_anchor not in emitted_cite_slugs:
+            bib_lines.append(f".. _{bib_anchor}:")
+            emitted_cite_slugs.add(bib_anchor)
+        bib_lines.append("")
+        bib_lines.append(_make_rst_heading(author_name, "-"))
+        bib_lines.append("")
+        for pslug in CITE_AUTHOR_TO_PERSONS.get(author_slug, []):
+            if pslug in persons:
+                pname = persons[pslug]["name"]
+                bib_lines.append(f"See biographical entry: :ref:`{pname} <person-{_apparatus_slug(pslug)}>`.")
+                bib_lines.append("")
+
+        for wkey, loci_list in sorted(works_by_author[author_slug].items()):
+            wtitle = loci_list[0][1].get("work", wkey)
+            w_slug = _apparatus_slug(wkey)
+            bib_lines.append(f".. _work-{w_slug}:")
+            if w_slug not in emitted_cite_slugs:
+                bib_lines.append(f".. _cite-{w_slug}:")
+                emitted_cite_slugs.add(w_slug)
+            bib_lines.append("")
+            bib_lines.append(f"**{wtitle}** (``{wkey}``)")
+            bib_lines.append("")
+
+            for ckey, cdata in sorted(loci_list, key=lambda x: x[0]):
+                c_slug = _apparatus_slug(ckey)
+                if c_slug not in emitted_cite_slugs:
+                    bib_lines.append(f".. _cite-{c_slug}:")
+                    bib_lines.append("")
+                    emitted_cite_slugs.add(c_slug)
+                locus = cdata.get("locus") or "General reference"
+                doc_links = _format_work_occ_links(cdata.get("work_occurrences", []))
+                folios = sorted({o["folio"] for o in cdata.get("occurrences", []) if o.get("folio")})
+                folio_str = f" [1509 Folios: {', '.join(folios[:10])}]" if folios else ""
+                if doc_links:
+                    bib_lines.append(f"- ``{locus}`` (``{ckey}``) — Cited in {doc_links}{folio_str}")
+                else:
+                    bib_lines.append(f"- ``{locus}`` (``{ckey}``){folio_str}")
+                bib_lines.append("")
+
+    (book_dir / "bibliography.rst").write_text("\n".join(bib_lines).rstrip() + "\n", encoding="utf-8")
+
+    # 2. Persons
+    persons_lines: List[str] = [
+        ":order: 91",
+        ":layout: book",
+        ":type: apparatus",
+        ":title: Index of Persons",
+        "",
+        ".. _persons:",
+        "",
+        "================",
+        "Index of Persons",
+        "================",
+        "",
+        ".. rubric:: Prosopographical Register of Mathematicians, Architects, Patrons & Philosophers",
+        "",
+        "Biographical register of ancient, medieval, and Renaissance authorities and contemporaries referenced "
+        "in Fra Luca Pacioli's *De Divina Proportione* (1509).",
+        "",
+    ]
+
+    for pslug, pdata in sorted(persons.items(), key=lambda kv: kv[1].get("name", kv[0]).lower()):
+        p_anchor = _apparatus_slug(pslug)
+        pname = pdata.get("name", pslug)
+        pdates = pdata.get("dates", "")
+        prole = pdata.get("role", "")
+        pbio = pdata.get("bio", "")
+        pworks = pdata.get("works", [])
+
+        persons_lines.append(f".. _person-{p_anchor}:")
+        persons_lines.append("")
+        h_text = f"{pname} ({pdates})" if pdates else pname
+        persons_lines.append(_make_rst_heading(h_text, "-"))
+        persons_lines.append("")
+        if prole:
+            persons_lines.append(f"*{prole}*")
+            persons_lines.append("")
+        if pbio:
+            persons_lines.append(pbio)
+            persons_lines.append("")
+        if pworks:
+            persons_lines.append(f"**Principal Works:** {', '.join(f'*{w}*' for w in pworks)}")
+            persons_lines.append("")
+        doc_links = _format_work_occ_links(pdata.get("work_occurrences", []))
+        if doc_links:
+            persons_lines.append(f"**Occurrences:** {doc_links}")
+            persons_lines.append("")
+
+    (book_dir / "persons.rst").write_text("\n".join(persons_lines).rstrip() + "\n", encoding="utf-8")
+
+    # 3. Glossary
+    glossary_lines: List[str] = [
+        ":order: 92",
+        ":layout: book",
+        ":type: apparatus",
+        ":title: Technical Glossary",
+        "",
+        ".. _glossary:",
+        "",
+        "====================================================",
+        "Glossary of Geometric, Architectural & Latin Terms",
+        "====================================================",
+        "",
+        ".. rubric:: Multilingual Lexicon of Renaissance Mathematical & Architectural Terminology",
+        "",
+        "Technical terms in Italian, Latin, Greek, and German across Fra Luca Pacioli's *De Divina Proportione* (1509 / 1889).",
+        "",
+    ]
+
+    for tslug, tdata in sorted(glossary.items(), key=lambda kv: kv[0].lower()):
+        t_anchor = _apparatus_slug(tslug)
+        headword = tdata.get("headword", tslug)
+        lang = tdata.get("language", "")
+        trans = tdata.get("translation", "")
+        defn = tdata.get("definition", "")
+
+        glossary_lines.append(f".. _term-{t_anchor}:")
+        glossary_lines.append("")
+        h_text = f"{headword} ({tslug})" if headword != tslug else headword
+        glossary_lines.append(_make_rst_heading(h_text, "-"))
+        glossary_lines.append("")
+        meta_bits = []
+        if lang:
+            meta_bits.append(f"**Language:** {lang}")
+        if trans:
+            meta_bits.append(f"**Translation:** *{trans}*")
+        if meta_bits:
+            glossary_lines.append(" | ".join(meta_bits))
+            glossary_lines.append("")
+        if defn:
+            glossary_lines.append(defn)
+            glossary_lines.append("")
+        doc_links = _format_work_occ_links(tdata.get("work_occurrences", []))
+        if doc_links:
+            glossary_lines.append(f"**Occurrences:** {doc_links}")
+            glossary_lines.append("")
+
+    (book_dir / "glossary.rst").write_text("\n".join(glossary_lines).rstrip() + "\n", encoding="utf-8")
 
 
 if __name__ == "__main__":

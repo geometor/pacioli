@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0197.png``:
 
-- **``g1``** (``0197.g1.png``): Type ``plate`` | Caption: *Plate VI: Tetrahedron Elevatum Vacuum (Τετράεδρον ἐπηρμένον κενόν) — Hollow Stellated (Elevated) Tetrahedron* | Bounding Box ``[x=0, y=195, w=990, h=993]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0197.g1.png``): Type ``plate`` | Caption: *Plate VI: Tetrahedron Elevatum Vacuum (Τετράεδρον ἐπηρμένον κενόν) — Hollow Stellated (Elevated) Tetrahedron* | Bounding Box ``[x=61, y=195, w=828, h=692]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

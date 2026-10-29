@@ -10,12 +10,6 @@
 Folio 0013 (A5r) — Tabula — Tabula (A5r)
 ========================================
 
-.. picture:: 0013.g1.png
-   :alt: Folio 0013 Figura g1
-
-.. picture:: 0013.g2.png
-   :alt: Folio 0013 Figura g2
-
 Cap. XXIV. Commo li dicti effecti concorrino ala compositione de tutti li :term:`corpi regulari <corpi-regulari>` e dependenti. Perche questi 5 corpi sienno dicti regulari.
 
 Cap. XXV. Commo in la natura non e possibile esser più de 5 :term:`corpi regulari <corpi-regulari>` e perche. Commo de exagoni eptagoni octagoni nonanguli decagoni e altri simili non e possibile formare alcun corpo reguläre.

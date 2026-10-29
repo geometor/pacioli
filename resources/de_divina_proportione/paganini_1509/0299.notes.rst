@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0299.png``:
 
-- **``g1``** (``0299.g1.png``): Type ``plate`` | Caption: *Plate LIIII: Columna Laterata Exagona Vacua (Κίων πλευρώδης ἑξάγωνος κενός) — Hollow Hexagonal Prism* | Bounding Box ``[x=0, y=0, w=579, h=1515]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0299.g1.png``): Type ``plate`` | Caption: *Plate LIIII: Columna Laterata Exagona Vacua (Κίων πλευρώδης ἑξάγωνος κενός) — Hollow Hexagonal Prism* | Bounding Box ``[x=191, y=182, w=372, h=731]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

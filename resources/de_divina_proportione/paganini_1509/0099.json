@@ -15,10 +15,10 @@
       "type": "diagram",
       "file": "0099.g1.png",
       "bbox": [
-        680,
-        32,
-        196,
-        192
+        684,
+        4,
+        187,
+        214
       ],
       "white_point": 226,
       "caption": "Folio 0099 Diagram 1",
@@ -29,10 +29,10 @@
       "type": "diagram",
       "file": "0099.g2.png",
       "bbox": [
-        683,
-        214,
-        197,
-        190
+        687,
+        218,
+        189,
+        180
       ],
       "white_point": 226,
       "caption": "Folio 0099 Diagram 2",
@@ -43,10 +43,10 @@
       "type": "diagram",
       "file": "0099.g3.png",
       "bbox": [
-        686,
-        394,
-        200,
-        194
+        690,
+        398,
+        192,
+        186
       ],
       "white_point": 226,
       "caption": "Folio 0099 Diagram 3",
@@ -57,10 +57,10 @@
       "type": "diagram",
       "file": "0099.g4.png",
       "bbox": [
-        690,
-        581,
-        197,
-        194
+        694,
+        585,
+        189,
+        186
       ],
       "white_point": 226,
       "caption": "Folio 0099 Diagram 4",
@@ -71,10 +71,10 @@
       "type": "diagram",
       "file": "0099.g5.png",
       "bbox": [
-        693,
-        772,
-        196,
-        196
+        697,
+        776,
+        188,
+        185
       ],
       "white_point": 226,
       "caption": "Folio 0099 Diagram 5",
@@ -85,10 +85,10 @@
       "type": "diagram",
       "file": "0099.g6.png",
       "bbox": [
-        695,
-        956,
-        198,
-        197
+        699,
+        961,
+        189,
+        179
       ],
       "white_point": 226,
       "caption": "Folio 0099 Diagram 6",
@@ -99,10 +99,10 @@
       "type": "diagram",
       "file": "0099.g7.png",
       "bbox": [
-        695,
-        1127,
-        260,
-        198
+        699,
+        1140,
+        257,
+        181
       ],
       "white_point": 226,
       "caption": "Folio 0099 Diagram 7",

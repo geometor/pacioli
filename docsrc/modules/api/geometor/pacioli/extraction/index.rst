@@ -5,7 +5,7 @@ geometor.pacioli.extraction
 
 .. autoapi-nested-parse::
 
-   Module for extracting folios (images, text, manifests) from De :term:`Divina Proportione <divina-proportione>` scans.
+   Module for extracting folios (images, text, manifests) from De Divina Proportione scans.
 
 
 
@@ -64,7 +64,7 @@ Module Contents
 
 .. py:function:: generate_manifest(output_dir: pathlib.Path, start_page: int, end_page: int) -> None
 
-   Generate pages.json manifest matching the :person:`Euclid <euclid>` format.
+   Generate pages.json manifest matching the Euclid format.
 
 
 .. py:function:: generate_sections_index(output_dir: pathlib.Path) -> None

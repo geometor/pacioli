@@ -11,9 +11,7 @@ Summary & Folio Continuity
 Graphic Extraction & Calibration
 --------------------------------
 
-A total of **1** woodcut element(s) were extracted and calibrated from ``0019.png``:
-
-- **``g1``** (``0019.g1.png``): Type ``marginalia`` | Caption: *Folio 0019 Marginalia 1* | Bounding Box ``[x=620, y=1198, w=104, h=42]`` | Placement/Class: ``right`` | White-Point Threshold: ``226``
+- No woodcut diagrams or illuminated initials are extracted on this folio.
 
 Diplomatic & Textual Observations
 ---------------------------------

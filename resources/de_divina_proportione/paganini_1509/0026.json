@@ -43,20 +43,6 @@
   ],
   "graphics": [
     {
-      "id": "g1",
-      "type": "marginalia",
-      "file": "0026.g1.png",
-      "bbox": [
-        329,
-        72,
-        65,
-        137
-      ],
-      "white_point": 226,
-      "caption": "Folio 0026 Marginalia 1",
-      "margin": "left"
-    },
-    {
       "id": "c1",
       "type": "initial",
       "size_class": "standard",

@@ -13,8 +13,8 @@ Graphic Extraction & Calibration
 
 A total of **2** woodcut element(s) were extracted and calibrated from ``0128.png``:
 
-- **``g1``** (``0128.g1.png``): Type ``diagram`` | Caption: *Folio 0128 Diagram 1* | Bounding Box ``[x=36, y=49, w=358, h=338]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
-- **``g2``** (``0128.g2.png``): Type ``diagram`` | Caption: *Folio 0128 Diagram 2* | Bounding Box ``[x=42, y=648, w=351, h=348]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g1``** (``0128.g1.png``): Type ``diagram`` | Caption: *Folio 0128 Diagram 1* | Bounding Box ``[x=40, y=53, w=350, h=330]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g2``** (``0128.g2.png``): Type ``diagram`` | Caption: *Folio 0128 Diagram 2* | Bounding Box ``[x=46, y=652, w=343, h=340]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

@@ -11,9 +11,7 @@ Summary & Folio Continuity
 Graphic Extraction & Calibration
 --------------------------------
 
-A total of **1** woodcut element(s) were extracted and calibrated from ``0313.png``:
-
-- **``g1``** (``0313.g1.png``): Type ``diagram`` | Caption: *Leonardo da Vinci Plate 64 (Folio 0313): 3> $ s* | Bounding Box ``[x=0, y=0, w=277, h=1515]`` | Placement/Class: ``inline`` | White-Point Threshold: ``226``
+- No woodcut diagrams or illuminated initials are extracted on this folio.
 
 Diplomatic & Textual Observations
 ---------------------------------

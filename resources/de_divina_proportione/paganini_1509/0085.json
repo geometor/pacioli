@@ -9,10 +9,10 @@
       "type": "diagram",
       "file": "0085.g1.png",
       "bbox": [
-        619,
-        243,
-        322,
-        310
+        623,
+        237,
+        314,
+        312
       ],
       "white_point": 226,
       "caption": "Folio 0085 Diagram 1",
@@ -23,10 +23,10 @@
       "type": "diagram",
       "file": "0085.g2.png",
       "bbox": [
-        638,
-        687,
-        315,
-        307
+        642,
+        691,
+        307,
+        299
       ],
       "white_point": 226,
       "caption": "Folio 0085 Diagram 2",
@@ -41,7 +41,7 @@
         20,
         189,
         264,
-        304
+        298
       ],
       "white_point": 226,
       "caption": "Folio 0085 Initial Cap 1"

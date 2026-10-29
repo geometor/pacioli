@@ -5,7 +5,7 @@ geometor.pacioli
 
 .. autoapi-nested-parse::
 
-   Tools for parsing and processing "De :term:`Divina Proportione <divina-proportione>`" by :person:`Luca Pacioli <pacioli>`.
+   Tools for parsing and processing "De Divina Proportione" by Luca Pacioli.
 
    Key Components:
    ---------------
@@ -140,11 +140,13 @@ Package Contents
    Compile all per-folio <folio>.json files into graphics_index.json.
 
 
-.. py:function:: clean_image(pil_image: PIL.Image.Image, white_point: int = 226) -> PIL.Image.Image
+.. py:function:: clean_image(pil_image: PIL.Image.Image, white_point: int = 226, preserve_color: bool = False) -> PIL.Image.Image
 
-   Applies a linear levels adjustment to the image, mapping white_point to pure white (255).
+   Normalize aged parchment background and binding shadows to pure white (255).
 
-   Effectively eliminates bleed-through, yellowed paper background, and scanning artifacts.
+   Uses morphological closing + Gaussian blur to estimate local paper illumination per channel,
+   eliminating yellowed paper cast, bleed-through, and gutter shadows while preserving crisp ink.
+   When ``preserve_color=True`` (e.g., red rubrication on folios 0005 and 0311), chromatic ink is kept.
 
 
 .. py:function:: detect_graphics_cv(image_path: pathlib.Path) -> List[Dict[str, Any]]

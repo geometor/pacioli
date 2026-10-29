@@ -13,9 +13,6 @@ Folio 0066 (f. 25v) — Cap. I (f. 25v) — Dela mesura e proportioni del corpo 
 .. picture:: 0066.g1.png
    :alt: Folio 0066 Figura g1
 
-.. picture:: 0066.g2.png
-   :alt: Folio 0066 Figura g2
-
 Cap. I: Dela mesura e proportioni del corpo humano. della testa e altri suoi membri simulacro delarchitectura. (continuatio)
 ----------------------------------------------------------------------------------------------------------------------------
 

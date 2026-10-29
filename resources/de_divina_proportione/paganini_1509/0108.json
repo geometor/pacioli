@@ -9,10 +9,10 @@
       "type": "diagram",
       "file": "0108.g1.png",
       "bbox": [
-        90,
-        55,
+        86,
+        59,
         291,
-        363
+        355
       ],
       "white_point": 226,
       "caption": "Folio 0108 Diagram 1",
@@ -23,9 +23,9 @@
       "type": "diagram",
       "file": "0108.g2.png",
       "bbox": [
-        79,
-        759,
-        292,
+        83,
+        755,
+        284,
         289
       ],
       "white_point": 226,

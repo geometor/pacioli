@@ -12,18 +12,19 @@ To provide a structured, digital environment for studying the works of Fra Luca 
 
 
 ## Key Outcomes
-- **Synthesized Translation**: A complete, modernized English translation of Book I (Chapters I-LXXI) in "Euclid-like" style, located in `resources/de_divina_proportione/winterberg_en/divina_en_2/`.
-- **1509 Paganini Edition Graphics**: Complete extraction and indexing of 202 folios and 374 diagrams and polyhedra in `resources/de_divina_proportione/paganini_1509/`.
+- **Multi-Track Book Codex (`docsrc/de_divina_proportione/`)**: Complete multi-language Book Codex edition of *De Divina Proportione* (Part I *Compendio* Cap. I–LXXI, Part II *Architectura* Prohemio & Cap. I–XX, and Appendices I–III) with synchronized **English**, **Italiano (1509)**, **Deutsch (1889)**, **Latin / Greek (1509)**, and **Critical Notes** tracks and scholarly apparatus (`bibliography.rst`, `persons.rst`, `glossary.rst`).
+- **1509 Paganini Edition Folios & Graphics**: Complete extraction, neutral-white paper normalization, and bounding-box calibration of 318 folios and 482 woodcut graphics (214 illuminated initial caps, 180 marginal geometric diagrams, and 88 full-page alphabet, architectural, and Leonardo da Vinci polyhedra plates) in `resources/de_divina_proportione/paganini_1509/`.
 
 ## Key Modules
 -   `parser.py`: Core logic for parsing text and extracting structure.
 -   `parse_winterberg.py`: Specialized parser for the Winterberg edition.
 -   `extraction.py`: Extraction of high-resolution folio pages from PDF editions (`pacioli-extract`).
--   `graphics.py`: Automated detection, calibration, cropping, and indexing of woodcut illustrations (`pacioli-graphics`).
+-   `graphics.py`: Automated detection, background normalization (`clean_image`), calibration, cropping, and indexing of woodcut illustrations (`pacioli-graphics`).
+-   `scripts/recalibrate_graphics.py`: Bounding-box recalibrator and false-positive filter for all 482 woodcut graphics across the 318 Paganini folios.
+-   `scripts/build_docsrc.py`: Compiler for the multi-language Book Codex (`docsrc/de_divina_proportione/`).
+-   `scripts/build_apparatus_registry.py`: Generator for `citations.json`, `persons.json`, `glossary.json`, and `:cite:` / `:person:` / `:term:` role injection.
 -   `app.py`: Entry point for the Textual-based TUI.
 -   `run_parse.py`: Script for executing parse routines.
-
-
 
 -   **Source Code**: https://github.com/geometor/pacioli
 -   **Issues**: https://github.com/geometor/pacioli/issues

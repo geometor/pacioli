@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0036.png``:
 
-- **``g1``** (``0036.g1.png``): Type ``diagram`` | Caption: *Folio 0036 Diagram 1* | Bounding Box ``[x=28, y=196, w=379, h=564]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
+- **``g1``** (``0036.g1.png``): Type ``diagram`` | Caption: *Folio 0036 Diagram 1* | Bounding Box ``[x=28, y=196, w=342, h=564]`` | Placement/Class: ``left`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

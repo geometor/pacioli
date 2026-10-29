@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0297.png``:
 
-- **``g1``** (``0297.g1.png``): Type ``plate`` | Caption: *Plate LIII: Columna Laterata Exagona Solida (Κίων πλευρώδης ἑξάγωνος στερεός) — Solid Hexagonal Prism* | Bounding Box ``[x=0, y=162, w=601, h=1321]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0297.g1.png``): Type ``plate`` | Caption: *Plate LIII: Columna Laterata Exagona Solida (Κίων πλευρώδης ἑξάγωνος στερεός) — Solid Hexagonal Prism* | Bounding Box ``[x=216, y=162, w=370, h=726]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

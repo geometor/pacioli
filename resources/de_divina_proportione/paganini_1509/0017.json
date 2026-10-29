@@ -19,20 +19,6 @@
   ],
   "graphics": [
     {
-      "id": "g1",
-      "type": "diagram",
-      "file": "0017.g1.png",
-      "bbox": [
-        793,
-        53,
-        95,
-        1207
-      ],
-      "white_point": 226,
-      "caption": "Folio 0017 Diagram 1",
-      "margin": "right"
-    },
-    {
       "id": "c1",
       "type": "initial",
       "size_class": "large",

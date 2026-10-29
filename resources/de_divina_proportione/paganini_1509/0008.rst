@@ -10,9 +10,6 @@
 Folio 0008 (A2v) — Danielis Caietani Epistolium ad Andream Mocenicum (1509)
 ===========================================================================
 
-.. picture:: 0008.g1.png
-   :alt: Folio 0008 Figura g1
-
 Magnifico et Clarissimo Andreae Mocenico Veneto patricio Viro Magnifici et generosissimi D. Leonardi olim Serenissimi philosopho insigni atque in omni genere doctrinae spectatissimo :person:`Danielis Caietani <daniele-gaetani>` Epistolium.
 
 Delectat me nimis fortuna saeculi hodierni, Magnifice Andrea, nuper edito libro de :term:`divina proportione <divina-proportione>` inscripto per Magistrum Lucam paciolum a burgo Sancti Sepulchri maximum minoritanae sectae ornamentum quoi ambigo an quempiam deinceps in arithmetice parem conspicaturi simus. Ecce cum primum affui (nanque ut frequentissime soleo illum domi forte salutaveram) offendi Circa repetitionem libri occupatum rogo nunquid me velit. Contra ille nihil nisi ut me ames et divinam proportionem meam cognoscas quam chalcographi nunc premunt. Gavissus sum ilico mirum in modum quod tanti tamque rari atque incogniti arcani thensauro Seculum nostrum donetur.

@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0227.png``:
 
-- **``g1``** (``0227.g1.png``): Type ``plate`` | Caption: *Plate XIX: Octahedron Elevatum Solidum (Ὀκτάεδρον ἐπηρμένον στερεόν) — Solid Elevated Octahedron (Stella Octangula)* | Bounding Box ``[x=0, y=109, w=820, h=1208]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0227.g1.png``): Type ``plate`` | Caption: *Plate XIX: Octahedron Elevatum Solidum (Ὀκτάεδρον ἐπηρμένον στερεόν) — Solid Elevated Octahedron (Stella Octangula)* | Bounding Box ``[x=87, y=182, w=718, h=712]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

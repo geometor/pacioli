@@ -27,7 +27,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_62/cap_62_notes",
+        "doc": "de_divina_proportione/compendio/cap_62/cap_62_notes",
         "title": "CHAPTER LXII — Critical Commentary & Notes",
         "display": "Dimensio Circuli"
       }
@@ -44,8 +44,8 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_02/cap_02_en",
-        "title": "CHAPTER II (English)",
+        "doc": "de_divina_proportione/compendio/cap_02/cap_02_en",
+        "title": "CHAPTER II",
         "display": "Posterior Analytics"
       }
     ]
@@ -94,7 +94,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_05/cap_05_notes",
+        "doc": "de_divina_proportione/compendio/cap_05/cap_05_notes",
         "title": "CHAPTER V — Critical Commentary & Notes",
         "display": "De Caelo"
       }
@@ -128,14 +128,14 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_01/cap_01_notes",
+        "doc": "de_divina_proportione/compendio/cap_01/cap_01_notes",
         "title": "CHAPTER I — Critical Commentary & Notes",
         "display": "Metaphysics"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_02/cap_02_en",
-        "title": "CHAPTER II (English)",
+        "doc": "de_divina_proportione/compendio/cap_02/cap_02_en",
+        "title": "CHAPTER II",
         "display": "Metaphysics"
       }
     ]
@@ -151,8 +151,8 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_02/cap_02_en",
-        "title": "CHAPTER II (English)",
+        "doc": "de_divina_proportione/compendio/cap_02/cap_02_en",
+        "title": "CHAPTER II",
         "display": "De Civitate Dei"
       }
     ]
@@ -193,20 +193,20 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_01/cap_01_en",
-        "title": "CHAPTER I (English)",
+        "doc": "de_divina_proportione/compendio/cap_01/cap_01_en",
+        "title": "CHAPTER I",
         "display": "in primo gradu certitudinis"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_01/cap_01_notes",
+        "doc": "de_divina_proportione/compendio/cap_01/cap_01_notes",
         "title": "CHAPTER I — Critical Commentary & Notes",
         "display": "in primo gradu certitudinis"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_02/cap_02_it",
-        "title": "CAPITOLO II (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_02/cap_02_it",
+        "title": "CAPITOLO II",
         "display": "in primo gradu certitudinis"
       }
     ]
@@ -222,8 +222,8 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_02/cap_02_en",
-        "title": "CHAPTER II (English)",
+        "doc": "de_divina_proportione/compendio/cap_02/cap_02_en",
+        "title": "CHAPTER II",
         "display": "Tyberiadis"
       }
     ]
@@ -248,8 +248,8 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "plates/architectural_it",
-        "title": "Tavole d'Architettura e Arbor Proportionis (Italiano / Latino — 1509)",
+        "doc": "de_divina_proportione/plates/architectural_it",
+        "title": "Appendice II: Tavole d'Architettura e Arbor Proportionis",
         "display": "omnia in numero, pondere et mensura"
       }
     ]
@@ -274,14 +274,14 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_01/cap_01_en",
-        "title": "CHAPTER I (English)",
+        "doc": "de_divina_proportione/compendio/cap_01/cap_01_en",
+        "title": "CHAPTER I",
         "display": "Quam sine fictione didici, et sine invidia communico"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_01/cap_01_it",
-        "title": "CAPITOLO I (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_01/cap_01_it",
+        "title": "CAPITOLO I",
         "display": "quod ne sine figmento didici et sine inuidia libenter communico"
       }
     ]
@@ -306,7 +306,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_15/cap_15_notes",
+        "doc": "de_divina_proportione/compendio/cap_15/cap_15_notes",
         "title": "CHAPTER XV — Critical Commentary & Notes",
         "display": "Campanus X.79"
       }
@@ -332,7 +332,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_08/cap_08_notes",
+        "doc": "de_divina_proportione/compendio/cap_08/cap_08_notes",
         "title": "CHAPTER VIII — Critical Commentary & Notes",
         "display": "Campanus X.85–90"
       }
@@ -349,8 +349,8 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_67/cap_67_en",
-        "title": "CHAPTER LXVII (English)",
+        "doc": "de_divina_proportione/compendio/cap_67/cap_67_en",
+        "title": "CHAPTER LXVII",
         "display": "Campanus XII.6"
       }
     ]
@@ -391,7 +391,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_31/cap_31_notes",
+        "doc": "de_divina_proportione/compendio/cap_31/cap_31_notes",
         "title": "CHAPTER XXXI — Critical Commentary & Notes",
         "display": "Campanus XIII.14"
       }
@@ -433,13 +433,13 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_28/cap_28_en",
-        "title": "CHAPTER XXVIII (English)",
+        "doc": "de_divina_proportione/compendio/cap_28/cap_28_en",
+        "title": "CHAPTER XXVIII",
         "display": "Campanus XIII.15"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_31/cap_31_notes",
+        "doc": "de_divina_proportione/compendio/cap_31/cap_31_notes",
         "title": "CHAPTER XXXI — Critical Commentary & Notes",
         "display": "Campanus XIII.15"
       }
@@ -465,13 +465,13 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_13/cap_13_en",
-        "title": "CHAPTER XIII (English)",
+        "doc": "de_divina_proportione/compendio/cap_13/cap_13_en",
+        "title": "CHAPTER XIII",
         "display": "Campanus XIII.4"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_13/cap_13_notes",
+        "doc": "de_divina_proportione/compendio/cap_13/cap_13_notes",
         "title": "CHAPTER XIII — Critical Commentary & Notes",
         "display": "Campanus XIII.4"
       }
@@ -497,14 +497,14 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_13/cap_13_notes",
+        "doc": "de_divina_proportione/compendio/cap_13/cap_13_notes",
         "title": "CHAPTER XIII — Critical Commentary & Notes",
         "display": "Campanus XIII.5"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_14/cap_14_en",
-        "title": "CHAPTER XIV (English)",
+        "doc": "de_divina_proportione/compendio/cap_14/cap_14_en",
+        "title": "CHAPTER XIV",
         "display": "Campanus XIII.5"
       }
     ]
@@ -520,8 +520,8 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_20/cap_20_en",
-        "title": "CHAPTER XX (English)",
+        "doc": "de_divina_proportione/compendio/cap_20/cap_20_en",
+        "title": "CHAPTER XX",
         "display": "Campanus XIV.3"
       }
     ]
@@ -537,8 +537,8 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_32/cap_32_en",
-        "title": "CHAPTER XXXII (English)",
+        "doc": "de_divina_proportione/compendio/cap_32/cap_32_en",
+        "title": "CHAPTER XXXII",
         "display": "Campanus XIV.6"
       }
     ]
@@ -554,8 +554,8 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_21/cap_21_en",
-        "title": "CHAPTER XXI (English)",
+        "doc": "de_divina_proportione/compendio/cap_21/cap_21_en",
+        "title": "CHAPTER XXI",
         "display": "Campanus XIV.9"
       }
     ]
@@ -571,14 +571,14 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_34/cap_34_en",
-        "title": "CHAPTER XXXIV (English)",
+        "doc": "de_divina_proportione/compendio/cap_34/cap_34_en",
+        "title": "CHAPTER XXXIV",
         "display": "Campanus XV.1"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_35/cap_35_en",
-        "title": "CHAPTER XXXV (English)",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_en",
+        "title": "CHAPTER XXXV",
         "display": "Campanus XV.1"
       }
     ]
@@ -594,14 +594,14 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_34/cap_34_en",
-        "title": "CHAPTER XXXIV (English)",
+        "doc": "de_divina_proportione/compendio/cap_34/cap_34_en",
+        "title": "CHAPTER XXXIV",
         "display": "Campanus XV.10"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_44/cap_44_en",
-        "title": "CHAPTER XLIV (English)",
+        "doc": "de_divina_proportione/compendio/cap_44/cap_44_en",
+        "title": "CHAPTER XLIV",
         "display": "Campanus XV.10"
       }
     ]
@@ -626,19 +626,19 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_34/cap_34_en",
-        "title": "CHAPTER XXXIV (English)",
+        "doc": "de_divina_proportione/compendio/cap_34/cap_34_en",
+        "title": "CHAPTER XXXIV",
         "display": "Campanus XV.11"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_45/cap_45_en",
-        "title": "CHAPTER XLV (English)",
+        "doc": "de_divina_proportione/compendio/cap_45/cap_45_en",
+        "title": "CHAPTER XLV",
         "display": "Campanus XV.11"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_46/cap_46_notes",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
         "title": "CHAPTER XLVI — Critical Commentary & Notes",
         "display": "Campanus XV.11"
       }
@@ -664,19 +664,19 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_34/cap_34_en",
-        "title": "CHAPTER XXXIV (English)",
+        "doc": "de_divina_proportione/compendio/cap_34/cap_34_en",
+        "title": "CHAPTER XXXIV",
         "display": "Campanus XV.12"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_46/cap_46_en",
-        "title": "CHAPTER XLVI (English)",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_en",
+        "title": "CHAPTER XLVI",
         "display": "Campanus XV.12"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_46/cap_46_notes",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
         "title": "CHAPTER XLVI — Critical Commentary & Notes",
         "display": "Campanus XV.12"
       }
@@ -702,13 +702,13 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_47/cap_47_en",
-        "title": "CHAPTER XLVII (English)",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_en",
+        "title": "CHAPTER XLVII",
         "display": "Campanus XV.13"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_47/cap_47_notes",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
         "title": "CHAPTER XLVII — Critical Commentary & Notes",
         "display": "Campanus XV.13"
       }
@@ -734,7 +734,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_47/cap_47_notes",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
         "title": "CHAPTER XLVII — Critical Commentary & Notes",
         "display": "Campanus XV.1–13"
       }
@@ -760,38 +760,38 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_34/cap_34_en",
-        "title": "CHAPTER XXXIV (English)",
+        "doc": "de_divina_proportione/compendio/cap_34/cap_34_en",
+        "title": "CHAPTER XXXIV",
         "display": "Campanus XV.2"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_36/cap_36_en",
-        "title": "CHAPTER XXXVI (English)",
+        "doc": "de_divina_proportione/compendio/cap_36/cap_36_en",
+        "title": "CHAPTER XXXVI",
         "display": "Campanus XV.2"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_39/cap_39_en",
-        "title": "CHAPTER XXXIX (English)",
+        "doc": "de_divina_proportione/compendio/cap_39/cap_39_en",
+        "title": "CHAPTER XXXIX",
         "display": "Campanus XV.2"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_39/cap_39_notes",
+        "doc": "de_divina_proportione/compendio/cap_39/cap_39_notes",
         "title": "CHAPTER XXXIX — Critical Commentary & Notes",
         "display": "Campanus XV.2"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_42/cap_42_en",
-        "title": "CHAPTER XLII (English)",
+        "doc": "de_divina_proportione/compendio/cap_42/cap_42_en",
+        "title": "CHAPTER XLII",
         "display": "Campanus XV.2"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_46/cap_46_en",
-        "title": "CHAPTER XLVI (English)",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_en",
+        "title": "CHAPTER XLVI",
         "display": "Campanus XV.2"
       }
     ]
@@ -816,26 +816,26 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_34/cap_34_en",
-        "title": "CHAPTER XXXIV (English)",
+        "doc": "de_divina_proportione/compendio/cap_34/cap_34_en",
+        "title": "CHAPTER XXXIV",
         "display": "Campanus XV.3"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_37/cap_37_en",
-        "title": "CHAPTER XXXVII (English)",
+        "doc": "de_divina_proportione/compendio/cap_37/cap_37_en",
+        "title": "CHAPTER XXXVII",
         "display": "Campanus XV.3"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_37/cap_37_notes",
+        "doc": "de_divina_proportione/compendio/cap_37/cap_37_notes",
         "title": "CHAPTER XXXVII — Critical Commentary & Notes",
         "display": "Campanus XV.3"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_44/cap_44_en",
-        "title": "CHAPTER XLIV (English)",
+        "doc": "de_divina_proportione/compendio/cap_44/cap_44_en",
+        "title": "CHAPTER XLIV",
         "display": "Campanus XV.3"
       }
     ]
@@ -860,25 +860,25 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_34/cap_34_en",
-        "title": "CHAPTER XXXIV (English)",
+        "doc": "de_divina_proportione/compendio/cap_34/cap_34_en",
+        "title": "CHAPTER XXXIV",
         "display": "Campanus XV.4"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_38/cap_38_en",
-        "title": "CHAPTER XXXVIII (English)",
+        "doc": "de_divina_proportione/compendio/cap_38/cap_38_en",
+        "title": "CHAPTER XXXVIII",
         "display": "Campanus XV.4"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_39/cap_39_en",
-        "title": "CHAPTER XXXIX (English)",
+        "doc": "de_divina_proportione/compendio/cap_39/cap_39_en",
+        "title": "CHAPTER XXXIX",
         "display": "Campanus XV.4"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_39/cap_39_notes",
+        "doc": "de_divina_proportione/compendio/cap_39/cap_39_notes",
         "title": "CHAPTER XXXIX — Critical Commentary & Notes",
         "display": "Campanus XV.4"
       }
@@ -895,14 +895,14 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_34/cap_34_en",
-        "title": "CHAPTER XXXIV (English)",
+        "doc": "de_divina_proportione/compendio/cap_34/cap_34_en",
+        "title": "CHAPTER XXXIV",
         "display": "Campanus XV.5"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_39/cap_39_en",
-        "title": "CHAPTER XXXIX (English)",
+        "doc": "de_divina_proportione/compendio/cap_39/cap_39_en",
+        "title": "CHAPTER XXXIX",
         "display": "Campanus XV.5"
       }
     ]
@@ -927,32 +927,32 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_34/cap_34_en",
-        "title": "CHAPTER XXXIV (English)",
+        "doc": "de_divina_proportione/compendio/cap_34/cap_34_en",
+        "title": "CHAPTER XXXIV",
         "display": "Campanus XV.6"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_40/cap_40_en",
-        "title": "CHAPTER XL (English)",
+        "doc": "de_divina_proportione/compendio/cap_40/cap_40_en",
+        "title": "CHAPTER XL",
         "display": "Campanus XV.6"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_40/cap_40_notes",
+        "doc": "de_divina_proportione/compendio/cap_40/cap_40_notes",
         "title": "CHAPTER XL — Critical Commentary & Notes",
         "display": "Campanus XV.6"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_41/cap_41_en",
-        "title": "CHAPTER XLI (English)",
+        "doc": "de_divina_proportione/compendio/cap_41/cap_41_en",
+        "title": "CHAPTER XLI",
         "display": "Campanus XV.6"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_42/cap_42_en",
-        "title": "CHAPTER XLII (English)",
+        "doc": "de_divina_proportione/compendio/cap_42/cap_42_en",
+        "title": "CHAPTER XLII",
         "display": "Campanus XV.6"
       }
     ]
@@ -968,20 +968,20 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_34/cap_34_en",
-        "title": "CHAPTER XXXIV (English)",
+        "doc": "de_divina_proportione/compendio/cap_34/cap_34_en",
+        "title": "CHAPTER XXXIV",
         "display": "Campanus XV.7"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_41/cap_41_en",
-        "title": "CHAPTER XLI (English)",
+        "doc": "de_divina_proportione/compendio/cap_41/cap_41_en",
+        "title": "CHAPTER XLI",
         "display": "Campanus XV.7"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_42/cap_42_en",
-        "title": "CHAPTER XLII (English)",
+        "doc": "de_divina_proportione/compendio/cap_42/cap_42_en",
+        "title": "CHAPTER XLII",
         "display": "Campanus XV.7"
       }
     ]
@@ -997,14 +997,14 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_34/cap_34_en",
-        "title": "CHAPTER XXXIV (English)",
+        "doc": "de_divina_proportione/compendio/cap_34/cap_34_en",
+        "title": "CHAPTER XXXIV",
         "display": "Campanus XV.8"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_42/cap_42_en",
-        "title": "CHAPTER XLII (English)",
+        "doc": "de_divina_proportione/compendio/cap_42/cap_42_en",
+        "title": "CHAPTER XLII",
         "display": "Campanus XV.8"
       }
     ]
@@ -1029,20 +1029,20 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_34/cap_34_en",
-        "title": "CHAPTER XXXIV (English)",
+        "doc": "de_divina_proportione/compendio/cap_34/cap_34_en",
+        "title": "CHAPTER XXXIV",
         "display": "Campanus XV.9"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_40/cap_40_notes",
+        "doc": "de_divina_proportione/compendio/cap_40/cap_40_notes",
         "title": "CHAPTER XL — Critical Commentary & Notes",
         "display": "Campanus XV.9"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_43/cap_43_en",
-        "title": "CHAPTER XLIII (English)",
+        "doc": "de_divina_proportione/compendio/cap_43/cap_43_en",
+        "title": "CHAPTER XLIII",
         "display": "Campanus XV.9"
       }
     ]
@@ -1067,8 +1067,8 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_04/cap_04_it",
-        "title": "CAPITOLO IV (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_04/cap_04_it",
+        "title": "CAPITOLO IV",
         "display": "la prima del primo"
       }
     ]
@@ -1101,7 +1101,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_58/cap_58_notes",
+        "doc": "de_divina_proportione/compendio/cap_58/cap_58_notes",
         "title": "CHAPTER LVIII — Critical Commentary & Notes",
         "display": "Euclid I.15"
       }
@@ -1127,7 +1127,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_64/cap_64_notes",
+        "doc": "de_divina_proportione/compendio/cap_64/cap_64_notes",
         "title": "CHAPTER LXIV — Critical Commentary & Notes",
         "display": "Euclid I.19"
       }
@@ -1161,7 +1161,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_58/cap_58_notes",
+        "doc": "de_divina_proportione/compendio/cap_58/cap_58_notes",
         "title": "CHAPTER LVIII — Critical Commentary & Notes",
         "display": "Euclid I.26"
       }
@@ -1219,25 +1219,25 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_25/cap_25_it",
-        "title": "CAPITOLO XXV (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_25/cap_25_it",
+        "title": "CAPITOLO XXV",
         "display": "per la 32 del primo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_25/cap_25_notes",
+        "doc": "de_divina_proportione/compendio/cap_25/cap_25_notes",
         "title": "CHAPTER XXV — Critical Commentary & Notes",
         "display": "Euclid I.32"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_64/cap_64_it",
-        "title": "CAPITOLO LXIV (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_64/cap_64_it",
+        "title": "CAPITOLO LXIV",
         "display": "per la 32 del primo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_64/cap_64_notes",
+        "doc": "de_divina_proportione/compendio/cap_64/cap_64_notes",
         "title": "CHAPTER LXIV — Critical Commentary & Notes",
         "display": "Euclid I.32"
       }
@@ -1279,14 +1279,14 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_29/cap_29_it",
-        "title": "CAPITOLO XXIX (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_it",
+        "title": "CAPITOLO XXIX",
         "display": "per la tregesimaterza del primo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_30/cap_30_it",
-        "title": "CAPITOLO XXX (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_30/cap_30_it",
+        "title": "CAPITOLO XXX",
         "display": "per la trigesimaterza del primo"
       }
     ]
@@ -1311,8 +1311,8 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_28/cap_28_it",
-        "title": "CAPITOLO XXVIII (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_28/cap_28_it",
+        "title": "CAPITOLO XXVIII",
         "display": "per la quarta del primo"
       }
     ]
@@ -1393,32 +1393,32 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_04/cap_04_notes",
+        "doc": "de_divina_proportione/compendio/cap_04/cap_04_notes",
         "title": "CHAPTER IV — Critical Commentary & Notes",
         "display": "Euclid I.47"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_28/cap_28_it",
-        "title": "CAPITOLO XXVIII (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_28/cap_28_it",
+        "title": "CAPITOLO XXVIII",
         "display": "la penultima del primo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_29/cap_29_it",
-        "title": "CAPITOLO XXIX (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_it",
+        "title": "CAPITOLO XXIX",
         "display": "per la penultima del primo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_30/cap_30_it",
-        "title": "CAPITOLO XXX (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_30/cap_30_it",
+        "title": "CAPITOLO XXX",
         "display": "per la penultima del primo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_31/cap_31_it",
-        "title": "CAPITOLO XXXI (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_31/cap_31_it",
+        "title": "CAPITOLO XXXI",
         "display": "per la penultima del primo"
       }
     ]
@@ -1459,15 +1459,32 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_04/cap_04_it",
-        "title": "CAPITOLO IV (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_04/cap_04_it",
+        "title": "CAPITOLO IV",
         "display": "per la quinta del primo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_64/cap_64_notes",
+        "doc": "de_divina_proportione/compendio/cap_64/cap_64_notes",
         "title": "CHAPTER LXIV — Critical Commentary & Notes",
         "display": "Euclid I.5"
+      }
+    ]
+  },
+  "euclid:elements:I.Def.22": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "I.Def.22",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_60/cap_60_notes",
+        "title": "CHAPTER LX — Critical Commentary & Notes",
+        "display": "Euclid I.Def.22"
       }
     ]
   },
@@ -1523,19 +1540,19 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_07/cap_07_notes",
+        "doc": "de_divina_proportione/compendio/cap_07/cap_07_notes",
         "title": "CHAPTER VII — Critical Commentary & Notes",
         "display": "Euclid II.11"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_08/cap_08_it",
-        "title": "CAPITOLO VIII (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_08/cap_08_it",
+        "title": "CAPITOLO VIII",
         "display": "la vndecima del secondo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_22/cap_22_notes",
+        "doc": "de_divina_proportione/compendio/cap_22/cap_22_notes",
         "title": "CHAPTER XXII — Critical Commentary & Notes",
         "display": "Euclid II.11"
       }
@@ -1569,14 +1586,14 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_04/cap_04_it",
-        "title": "CAPITOLO IV (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_04/cap_04_it",
+        "title": "CAPITOLO IV",
         "display": "la quarta del secondo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_29/cap_29_it",
-        "title": "CAPITOLO XXIX (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_it",
+        "title": "CAPITOLO XXIX",
         "display": "per la quarta del secondo"
       }
     ]
@@ -1601,8 +1618,8 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_29/cap_29_it",
-        "title": "CAPITOLO XXIX (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_it",
+        "title": "CAPITOLO XXIX",
         "display": "per la vigesimaterza del terzo"
       }
     ]
@@ -1635,20 +1652,20 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_28/cap_28_it",
-        "title": "CAPITOLO XXVIII (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_28/cap_28_it",
+        "title": "CAPITOLO XXVIII",
         "display": "dela trigesima del terzo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_58/cap_58_en",
-        "title": "CHAPTER LVIII (English)",
+        "doc": "de_divina_proportione/compendio/cap_58/cap_58_en",
+        "title": "CHAPTER LVIII",
         "display": "la trigesima del terzo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_58/cap_58_it",
-        "title": "CAPITOLO LVIII (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_58/cap_58_it",
+        "title": "CAPITOLO LVIII",
         "display": "dela trigesima del terzo"
       }
     ]
@@ -1681,7 +1698,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_58/cap_58_notes",
+        "doc": "de_divina_proportione/compendio/cap_58/cap_58_notes",
         "title": "CHAPTER LVIII — Critical Commentary & Notes",
         "display": "Euclid III.31"
       }
@@ -1707,7 +1724,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_22/cap_22_notes",
+        "doc": "de_divina_proportione/compendio/cap_22/cap_22_notes",
         "title": "CHAPTER XXII — Critical Commentary & Notes",
         "display": "Euclid IV.10"
       }
@@ -1733,9 +1750,26 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_22/cap_22_notes",
+        "doc": "de_divina_proportione/compendio/cap_22/cap_22_notes",
         "title": "CHAPTER XXII — Critical Commentary & Notes",
         "display": "Euclid IV.11"
+      }
+    ]
+  },
+  "euclid:elements:IV.12": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "IV.12",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_22/cap_22_notes",
+        "title": "CHAPTER XXII — Critical Commentary & Notes",
+        "display": "Euclid IV.12"
       }
     ]
   },
@@ -1767,15 +1801,60 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_16/cap_16_notes",
-        "title": "CHAPTER XVI — Critical Commentary & Notes",
-        "display": "Euclid IV.15"
-      },
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_it",
+        "title": "CAPITOLO XXIX",
+        "display": "la decimaquinta del quarto"
+      }
+    ]
+  },
+  "euclid:elements:IV.15.p": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "IV.15.p",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_29/cap_29_it",
-        "title": "CAPITOLO XXIX (Italiano — 1509)",
-        "display": "la decimaquinta del quarto"
+        "doc": "de_divina_proportione/compendio/cap_16/cap_16_notes",
+        "title": "CHAPTER XVI — Critical Commentary & Notes",
+        "display": "Euclid IV.15.p"
+      }
+    ]
+  },
+  "euclid:elements:IX.16": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "IX.16",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_07/cap_07_notes",
+        "title": "CHAPTER VII — Critical Commentary & Notes",
+        "display": "Euclid IX.16"
+      }
+    ]
+  },
+  "euclid:elements:IX.36": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "IX.36",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_03/cap_03_notes",
+        "title": "CHAPTER III — Critical Commentary & Notes",
+        "display": "Euclid IX.36"
       }
     ]
   },
@@ -1807,14 +1886,14 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_04/cap_04_it",
-        "title": "CAPITOLO IV (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_04/cap_04_it",
+        "title": "CAPITOLO IV",
         "display": "la decima del quinto"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_31/cap_31_it",
-        "title": "CAPITOLO XXXI (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_31/cap_31_it",
+        "title": "CAPITOLO XXXI",
         "display": "dela decima del quinto"
       }
     ]
@@ -1847,7 +1926,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_67/cap_67_notes",
+        "doc": "de_divina_proportione/compendio/cap_67/cap_67_notes",
         "title": "CHAPTER LXVII — Critical Commentary & Notes",
         "display": "Euclid V.12"
       }
@@ -1873,8 +1952,8 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_29/cap_29_it",
-        "title": "CAPITOLO XXIX (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_it",
+        "title": "CAPITOLO XXIX",
         "display": "la quintadecima del quinto"
       }
     ]
@@ -1899,7 +1978,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_19/cap_19_notes",
+        "doc": "de_divina_proportione/compendio/cap_19/cap_19_notes",
         "title": "CHAPTER XIX — Critical Commentary & Notes",
         "display": "Euclid V.16"
       }
@@ -1925,7 +2004,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_19/cap_19_notes",
+        "doc": "de_divina_proportione/compendio/cap_19/cap_19_notes",
         "title": "CHAPTER XIX — Critical Commentary & Notes",
         "display": "Euclid V.17"
       }
@@ -1951,7 +2030,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_19/cap_19_notes",
+        "doc": "de_divina_proportione/compendio/cap_19/cap_19_notes",
         "title": "CHAPTER XIX — Critical Commentary & Notes",
         "display": "Euclid V.18"
       }
@@ -1974,12 +2053,22 @@
         "display": "Euclid V.19"
       }
     ],
+    "work_occurrences": []
+  },
+  "euclid:elements:V.19.p": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "V.19.p",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_19/cap_19_notes",
+        "doc": "de_divina_proportione/compendio/cap_19/cap_19_notes",
         "title": "CHAPTER XIX — Critical Commentary & Notes",
-        "display": "Euclid V.19"
+        "display": "Euclid V.19.p"
       }
     ]
   },
@@ -2003,7 +2092,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_19/cap_19_notes",
+        "doc": "de_divina_proportione/compendio/cap_19/cap_19_notes",
         "title": "CHAPTER XIX — Critical Commentary & Notes",
         "display": "Euclid V.22"
       }
@@ -2026,12 +2115,22 @@
         "display": "Euclid V.7"
       }
     ],
+    "work_occurrences": []
+  },
+  "euclid:elements:V.7.p": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "V.7.p",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_19/cap_19_notes",
+        "doc": "de_divina_proportione/compendio/cap_19/cap_19_notes",
         "title": "CHAPTER XIX — Critical Commentary & Notes",
-        "display": "Euclid V.7"
+        "display": "Euclid V.7.p"
       }
     ]
   },
@@ -2055,7 +2154,13 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_22/cap_22_notes",
+        "doc": "de_divina_proportione/compendio/cap_07/cap_07_notes",
+        "title": "CHAPTER VII — Critical Commentary & Notes",
+        "display": "Euclid VI.30"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_22/cap_22_notes",
         "title": "CHAPTER XXII — Critical Commentary & Notes",
         "display": "Euclid VI.30"
       }
@@ -2097,7 +2202,13 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_07/cap_07_notes",
+        "doc": "de_divina_proportione/compendio/cap_05/cap_05_notes",
+        "title": "CHAPTER V — Critical Commentary & Notes",
+        "display": "Euclid VI.def.3"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_07/cap_07_notes",
         "title": "CHAPTER VII — Critical Commentary & Notes",
         "display": "Euclid VI.def.3"
       }
@@ -2155,19 +2266,19 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_08/cap_08_notes",
+        "doc": "de_divina_proportione/compendio/cap_08/cap_08_notes",
         "title": "CHAPTER VIII — Critical Commentary & Notes",
         "display": "Euclid X.73"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_15/cap_15_notes",
+        "doc": "de_divina_proportione/compendio/cap_15/cap_15_notes",
         "title": "CHAPTER XV — Critical Commentary & Notes",
         "display": "Euclid X.73"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_30/cap_30_notes",
+        "doc": "de_divina_proportione/compendio/cap_30/cap_30_notes",
         "title": "CHAPTER XXX — Critical Commentary & Notes",
         "display": "Euclid X.73"
       }
@@ -2209,7 +2320,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_29/cap_29_notes",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_notes",
         "title": "CHAPTER XXIX — Critical Commentary & Notes",
         "display": "Euclid X.76"
       }
@@ -2235,7 +2346,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_09/cap_09_notes",
+        "doc": "de_divina_proportione/compendio/cap_09/cap_09_notes",
         "title": "CHAPTER IX — Critical Commentary & Notes",
         "display": "Euclid X.def.3"
       }
@@ -2261,8 +2372,8 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_27/cap_27_it",
-        "title": "CAPITOLO XXVII (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_27/cap_27_it",
+        "title": "CAPITOLO XXVII",
         "display": "per la decima de lo vndecimo"
       }
     ]
@@ -2303,20 +2414,20 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_27/cap_27_it",
-        "title": "CAPITOLO XXVII (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_27/cap_27_it",
+        "title": "CAPITOLO XXVII",
         "display": "la duodecima del vndecimo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_29/cap_29_it",
-        "title": "CAPITOLO XXIX (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_it",
+        "title": "CAPITOLO XXIX",
         "display": "la duodecima del vndecimo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_30/cap_30_it",
-        "title": "CAPITOLO XXX (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_30/cap_30_it",
+        "title": "CAPITOLO XXX",
         "display": "la duodecima del vndecimo"
       }
     ]
@@ -2349,7 +2460,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_25/cap_25_notes",
+        "doc": "de_divina_proportione/compendio/cap_25/cap_25_notes",
         "title": "CHAPTER XXV — Critical Commentary & Notes",
         "display": "Euclid XI.21"
       }
@@ -2383,14 +2494,14 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_26/cap_26_notes",
+        "doc": "de_divina_proportione/compendio/cap_26/cap_26_notes",
         "title": "CHAPTER XXVI — Critical Commentary & Notes",
         "display": "Euclid XI.4"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_27/cap_27_it",
-        "title": "CAPITOLO XXVII (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_27/cap_27_it",
+        "title": "CAPITOLO XXVII",
         "display": "per la quarta del ditto vndecimo"
       }
     ]
@@ -2439,21 +2550,55 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_27/cap_27_it",
-        "title": "CAPITOLO XXVII (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_27/cap_27_it",
+        "title": "CAPITOLO XXVII",
         "display": "per la sexta del dicto vndecimo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_29/cap_29_it",
-        "title": "CAPITOLO XXIX (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_it",
+        "title": "CAPITOLO XXIX",
         "display": "per la sexta del vndecimo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_30/cap_30_it",
-        "title": "CAPITOLO XXX (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_30/cap_30_it",
+        "title": "CAPITOLO XXX",
         "display": "per la sexta del vndecimo"
+      }
+    ]
+  },
+  "euclid:elements:XI.Def.14": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "XI.Def.14",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_56/cap_56_notes",
+        "title": "CHAPTER LVI — Critical Commentary & Notes",
+        "display": "Euclid XI.Def.14"
+      }
+    ]
+  },
+  "euclid:elements:XI.Def.18": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "XI.Def.18",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_64/cap_64_notes",
+        "title": "CHAPTER LXIV — Critical Commentary & Notes",
+        "display": "Euclid XI.Def.18"
       }
     ]
   },
@@ -2477,7 +2622,13 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_66/cap_66_notes",
+        "doc": "de_divina_proportione/architectura/cap_10/cap_10_notes",
+        "title": "CHAPTER X — Critical Commentary & Notes",
+        "display": "Euclid XII.10"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_66/cap_66_notes",
         "title": "CHAPTER LXVI — Critical Commentary & Notes",
         "display": "Euclid XII.10"
       }
@@ -2511,7 +2662,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_54/cap_54_notes",
+        "doc": "de_divina_proportione/compendio/cap_54/cap_54_notes",
         "title": "CHAPTER LIV — Critical Commentary & Notes",
         "display": "Euclid XII.17"
       }
@@ -2545,7 +2696,13 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_67/cap_67_notes",
+        "doc": "de_divina_proportione/architectura/cap_10/cap_10_notes",
+        "title": "CHAPTER X — Critical Commentary & Notes",
+        "display": "Euclid XII.7"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_67/cap_67_notes",
         "title": "CHAPTER LXVII — Critical Commentary & Notes",
         "display": "Euclid XII.7"
       }
@@ -2587,19 +2744,25 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_10/cap_10_notes",
+        "doc": "de_divina_proportione/compendio/cap_07/cap_07_notes",
+        "title": "CHAPTER VII — Critical Commentary & Notes",
+        "display": "Euclid XIII.1"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_10/cap_10_notes",
         "title": "CHAPTER X — Critical Commentary & Notes",
         "display": "Euclid XIII.1"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_24/cap_24_notes",
+        "doc": "de_divina_proportione/compendio/cap_24/cap_24_notes",
         "title": "CHAPTER XXIV — Critical Commentary & Notes",
         "display": "Euclid XIII.1"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_47/cap_47_notes",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
         "title": "CHAPTER XLVII — Critical Commentary & Notes",
         "display": "Euclid XIII.1"
       }
@@ -2689,31 +2852,31 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_17/cap_17_notes",
+        "doc": "de_divina_proportione/compendio/cap_17/cap_17_notes",
         "title": "CHAPTER XVII — Critical Commentary & Notes",
         "display": "Euclid XIII.10"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_21/cap_21_notes",
+        "doc": "de_divina_proportione/compendio/cap_21/cap_21_notes",
         "title": "CHAPTER XXI — Critical Commentary & Notes",
         "display": "Euclid XIII.10"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_24/cap_24_notes",
+        "doc": "de_divina_proportione/compendio/cap_24/cap_24_notes",
         "title": "CHAPTER XXIV — Critical Commentary & Notes",
         "display": "Euclid XIII.10"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_29/cap_29_it",
-        "title": "CAPITOLO XXIX (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_it",
+        "title": "CAPITOLO XXIX",
         "display": "per la decima del terzodecimo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_29/cap_29_notes",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_notes",
         "title": "CHAPTER XXIX — Critical Commentary & Notes",
         "display": "Euclid XIII.10"
       }
@@ -2763,13 +2926,13 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_18/cap_18_notes",
+        "doc": "de_divina_proportione/compendio/cap_18/cap_18_notes",
         "title": "CHAPTER XVIII — Critical Commentary & Notes",
         "display": "Euclid XIII.11"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_29/cap_29_notes",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_notes",
         "title": "CHAPTER XXIX — Critical Commentary & Notes",
         "display": "Euclid XIII.11"
       }
@@ -2811,20 +2974,20 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_24/cap_24_notes",
+        "doc": "de_divina_proportione/compendio/cap_24/cap_24_notes",
         "title": "CHAPTER XXIV — Critical Commentary & Notes",
         "display": "Euclid XIII.12"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_26/cap_26_notes",
+        "doc": "de_divina_proportione/compendio/cap_26/cap_26_notes",
         "title": "CHAPTER XXVI — Critical Commentary & Notes",
         "display": "Euclid XIII.12"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_29/cap_29_it",
-        "title": "CAPITOLO XXIX (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_it",
+        "title": "CAPITOLO XXIX",
         "display": "per la duodecima del decimotertio"
       }
     ]
@@ -2857,7 +3020,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_05/cap_05_notes",
+        "doc": "de_divina_proportione/compendio/cap_05/cap_05_notes",
         "title": "CHAPTER V — Critical Commentary & Notes",
         "display": "Euclid XIII.13"
       }
@@ -2891,7 +3054,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_27/cap_27_notes",
+        "doc": "de_divina_proportione/compendio/cap_27/cap_27_notes",
         "title": "CHAPTER XXVII — Critical Commentary & Notes",
         "display": "Euclid XIII.14"
       }
@@ -2941,13 +3104,13 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_21/cap_21_notes",
+        "doc": "de_divina_proportione/compendio/cap_21/cap_21_notes",
         "title": "CHAPTER XXI — Critical Commentary & Notes",
         "display": "Euclid XIII.15"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_27/cap_27_notes",
+        "doc": "de_divina_proportione/compendio/cap_27/cap_27_notes",
         "title": "CHAPTER XXVII — Critical Commentary & Notes",
         "display": "Euclid XIII.15"
       }
@@ -2997,21 +3160,32 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_21/cap_21_notes",
-        "title": "CHAPTER XXI — Critical Commentary & Notes",
-        "display": "Euclid XIII.16"
-      },
-      {
-        "work": "divina_proportione",
-        "doc": "compendio/cap_24/cap_24_notes",
+        "doc": "de_divina_proportione/compendio/cap_24/cap_24_notes",
         "title": "CHAPTER XXIV — Critical Commentary & Notes",
         "display": "Euclid XIII.16"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_44/cap_44_notes",
+        "doc": "de_divina_proportione/compendio/cap_44/cap_44_notes",
         "title": "CHAPTER XLIV — Critical Commentary & Notes",
         "display": "Euclid XIII.16"
+      }
+    ]
+  },
+  "euclid:elements:XIII.16.p": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "XIII.16.p",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_21/cap_21_notes",
+        "title": "CHAPTER XXI — Critical Commentary & Notes",
+        "display": "Euclid XIII.16.p"
       }
     ]
   },
@@ -3075,25 +3249,25 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_24/cap_24_notes",
+        "doc": "de_divina_proportione/compendio/cap_24/cap_24_notes",
         "title": "CHAPTER XXIV — Critical Commentary & Notes",
         "display": "Euclid XIII.17"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_30/cap_30_notes",
+        "doc": "de_divina_proportione/compendio/cap_30/cap_30_notes",
         "title": "CHAPTER XXX — Critical Commentary & Notes",
         "display": "Euclid XIII.17"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_41/cap_41_notes",
+        "doc": "de_divina_proportione/compendio/cap_41/cap_41_notes",
         "title": "CHAPTER XLI — Critical Commentary & Notes",
         "display": "Euclid XIII.17"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_45/cap_45_notes",
+        "doc": "de_divina_proportione/compendio/cap_45/cap_45_notes",
         "title": "CHAPTER XLV — Critical Commentary & Notes",
         "display": "Euclid XIII.17"
       }
@@ -3191,33 +3365,50 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_05/cap_05_notes",
+        "doc": "de_divina_proportione/compendio/cap_05/cap_05_notes",
         "title": "CHAPTER V — Critical Commentary & Notes",
         "display": "Euclid XIII.18"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_21/cap_21_notes",
+        "doc": "de_divina_proportione/compendio/cap_21/cap_21_notes",
         "title": "CHAPTER XXI — Critical Commentary & Notes",
         "display": "Euclid XIII.18"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_25/cap_25_notes",
+        "doc": "de_divina_proportione/compendio/cap_25/cap_25_notes",
         "title": "CHAPTER XXV — Critical Commentary & Notes",
         "display": "Euclid XIII.18"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_31/cap_31_notes",
+        "doc": "de_divina_proportione/compendio/cap_31/cap_31_notes",
         "title": "CHAPTER XXXI — Critical Commentary & Notes",
         "display": "Euclid XIII.18"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_47/cap_47_notes",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
         "title": "CHAPTER XLVII — Critical Commentary & Notes",
         "display": "Euclid XIII.18"
+      }
+    ]
+  },
+  "euclid:elements:XIII.2": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "XIII.2",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_11/cap_11_notes",
+        "title": "CHAPTER XI — Critical Commentary & Notes",
+        "display": "Euclid XIII.2"
       }
     ]
   },
@@ -3241,8 +3432,14 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_29/cap_29_it",
-        "title": "CAPITOLO XXIX (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_12/cap_12_notes",
+        "title": "CHAPTER XII — Critical Commentary & Notes",
+        "display": "Euclid XIII.3"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_it",
+        "title": "CAPITOLO XXIX",
         "display": "per la terza del terzodecimo"
       }
     ]
@@ -3331,31 +3528,37 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_05/cap_05_notes",
+        "doc": "de_divina_proportione/compendio/cap_05/cap_05_notes",
         "title": "CHAPTER V — Critical Commentary & Notes",
         "display": "Euclid XIII.4"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_13/cap_13_it",
-        "title": "CAPITOLO XIII (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_13/cap_13_it",
+        "title": "CAPITOLO XIII",
         "display": "la quarta del terzodecimo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_13/cap_13_notes",
+        "doc": "de_divina_proportione/compendio/cap_13/cap_13_notes",
         "title": "CHAPTER XIII — Critical Commentary & Notes",
         "display": "Euclid XIII.4"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_21/cap_21_notes",
+        "doc": "de_divina_proportione/compendio/cap_14/cap_14_notes",
+        "title": "CHAPTER XIV — Critical Commentary & Notes",
+        "display": "Euclid XIII.4"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_21/cap_21_notes",
         "title": "CHAPTER XXI — Critical Commentary & Notes",
         "display": "Euclid XIII.4"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_30/cap_30_notes",
+        "doc": "de_divina_proportione/compendio/cap_30/cap_30_notes",
         "title": "CHAPTER XXX — Critical Commentary & Notes",
         "display": "Euclid XIII.4"
       }
@@ -3389,14 +3592,14 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_13/cap_13_notes",
+        "doc": "de_divina_proportione/compendio/cap_13/cap_13_notes",
         "title": "CHAPTER XIII — Critical Commentary & Notes",
         "display": "Euclid XIII.5"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_30/cap_30_it",
-        "title": "CAPITOLO XXX (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_30/cap_30_it",
+        "title": "CAPITOLO XXX",
         "display": "per la quinta del terzodecimo"
       }
     ]
@@ -3461,19 +3664,25 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_05/cap_05_notes",
+        "doc": "de_divina_proportione/compendio/cap_05/cap_05_notes",
         "title": "CHAPTER V — Critical Commentary & Notes",
         "display": "Euclid XIII.6"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_08/cap_08_it",
-        "title": "CAPITOLO VIII (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_08/cap_08_it",
+        "title": "CAPITOLO VIII",
         "display": "per la sexta del terzodecimo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_30/cap_30_notes",
+        "doc": "de_divina_proportione/compendio/cap_15/cap_15_notes",
+        "title": "CHAPTER XV — Critical Commentary & Notes",
+        "display": "Euclid XIII.6"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_30/cap_30_notes",
         "title": "CHAPTER XXX — Critical Commentary & Notes",
         "display": "Euclid XIII.6"
       }
@@ -3523,13 +3732,13 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_30/cap_30_notes",
+        "doc": "de_divina_proportione/compendio/cap_30/cap_30_notes",
         "title": "CHAPTER XXX — Critical Commentary & Notes",
         "display": "Euclid XIII.7"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_61/cap_61_notes",
+        "doc": "de_divina_proportione/compendio/cap_61/cap_61_notes",
         "title": "CHAPTER LXI — Critical Commentary & Notes",
         "display": "Euclid XIII.7"
       }
@@ -3555,7 +3764,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_18/cap_18_notes",
+        "doc": "de_divina_proportione/compendio/cap_18/cap_18_notes",
         "title": "CHAPTER XVIII — Critical Commentary & Notes",
         "display": "Euclid XIII.8"
       }
@@ -3637,38 +3846,44 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_17/cap_17_notes",
+        "doc": "de_divina_proportione/compendio/cap_16/cap_16_notes",
+        "title": "CHAPTER XVI — Critical Commentary & Notes",
+        "display": "Euclid XIII.9"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_17/cap_17_notes",
         "title": "CHAPTER XVII — Critical Commentary & Notes",
         "display": "Euclid XIII.9"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_20/cap_20_notes",
+        "doc": "de_divina_proportione/compendio/cap_20/cap_20_notes",
         "title": "CHAPTER XX — Critical Commentary & Notes",
         "display": "Euclid XIII.9"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_24/cap_24_notes",
+        "doc": "de_divina_proportione/compendio/cap_24/cap_24_notes",
         "title": "CHAPTER XXIV — Critical Commentary & Notes",
         "display": "Euclid XIII.9"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_29/cap_29_it",
-        "title": "CAPITOLO XXIX (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_it",
+        "title": "CAPITOLO XXIX",
         "display": "per la nona del terzodecimo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_29/cap_29_notes",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_notes",
         "title": "CHAPTER XXIX — Critical Commentary & Notes",
         "display": "Euclid XIII.9"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_31/cap_31_it",
-        "title": "CAPITOLO XXXI (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_31/cap_31_it",
+        "title": "CAPITOLO XXXI",
         "display": "per la nona del terzodecimo"
       }
     ]
@@ -3693,7 +3908,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_47/cap_47_notes",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
         "title": "CHAPTER XLVII — Critical Commentary & Notes",
         "display": "Euclid XIV.1"
       }
@@ -3719,7 +3934,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_47/cap_47_notes",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
         "title": "CHAPTER XLVII — Critical Commentary & Notes",
         "display": "Euclid XIV.10"
       }
@@ -3753,8 +3968,14 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_05/cap_05_notes",
+        "doc": "de_divina_proportione/compendio/cap_05/cap_05_notes",
         "title": "CHAPTER V — Critical Commentary & Notes",
+        "display": "Euclid XIV.2"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_19/cap_19_notes",
+        "title": "CHAPTER XIX — Critical Commentary & Notes",
         "display": "Euclid XIV.2"
       }
     ]
@@ -3779,8 +4000,8 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_01/cap_01_it",
-        "title": "CAPITOLO I (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_01/cap_01_it",
+        "title": "CAPITOLO I",
         "display": "del moto locale dele percussioni e pesi"
       }
     ]
@@ -3821,13 +4042,13 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_01/cap_01_it",
-        "title": "CAPITOLO I (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_01/cap_01_it",
+        "title": "CAPITOLO I",
         "display": "libro de pictura e mouimenti humani"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_01/cap_01_notes",
+        "doc": "de_divina_proportione/compendio/cap_01/cap_01_notes",
         "title": "CHAPTER I — Critical Commentary & Notes",
         "display": "libro de pictura e movimenti humani"
       }
@@ -3893,92 +4114,92 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "architectura/cap_19/cap_19_de",
-        "title": "CAPITEL XIX (Deutsch — Winterberg 1889)",
+        "doc": "de_divina_proportione/architectura/cap_19/cap_19_de",
+        "title": "CAPITEL XIX",
         "display": "Summa de Arithmetica"
       },
       {
         "work": "divina_proportione",
-        "doc": "architectura/cap_19/cap_19_it",
-        "title": "CAPITOLO XIX (Italiano — 1509)",
+        "doc": "de_divina_proportione/architectura/cap_19/cap_19_it",
+        "title": "CAPITOLO XIX",
         "display": "Summa de Arithmetica"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_01/cap_01_en",
-        "title": "CHAPTER I (English)",
+        "doc": "de_divina_proportione/compendio/cap_01/cap_01_en",
+        "title": "CHAPTER I",
         "display": "Summa de Arithmetica, Geometria, Proportioni et Proportionalita"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_01/cap_01_it",
-        "title": "CAPITOLO I (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_01/cap_01_it",
+        "title": "CAPITOLO I",
         "display": "grandopera nostra"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_04/cap_04_en",
-        "title": "CHAPTER IV (English)",
+        "doc": "de_divina_proportione/compendio/cap_04/cap_04_en",
+        "title": "CHAPTER IV",
         "display": "Summa de Arithmetica"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_21/cap_21_en",
-        "title": "CHAPTER XXI (English)",
+        "doc": "de_divina_proportione/compendio/cap_21/cap_21_en",
+        "title": "CHAPTER XXI",
         "display": "Summa de Arithmetica"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_62/cap_62_en",
-        "title": "CHAPTER LXII (English)",
+        "doc": "de_divina_proportione/compendio/cap_62/cap_62_en",
+        "title": "CHAPTER LXII",
         "display": "Summa de Arithmetica"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_63/cap_63_en",
-        "title": "CHAPTER LXIII (English)",
+        "doc": "de_divina_proportione/compendio/cap_63/cap_63_en",
+        "title": "CHAPTER LXIII",
         "display": "Summa de Arithmetica"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_63/cap_63_notes",
+        "doc": "de_divina_proportione/compendio/cap_63/cap_63_notes",
         "title": "CHAPTER LXIII — Critical Commentary & Notes",
         "display": "Summa de Arithmetica"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_68/cap_68_en",
-        "title": "CHAPTER LXVIII (English)",
+        "doc": "de_divina_proportione/compendio/cap_68/cap_68_en",
+        "title": "CHAPTER LXVIII",
         "display": "Summa de Arithmetica"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_68/cap_68_notes",
+        "doc": "de_divina_proportione/compendio/cap_68/cap_68_notes",
         "title": "CHAPTER LXVIII — Critical Commentary & Notes",
         "display": "Summa de Arithmetica"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_69/cap_69_en",
-        "title": "CHAPTER LXIX (English)",
+        "doc": "de_divina_proportione/compendio/cap_69/cap_69_en",
+        "title": "CHAPTER LXIX",
         "display": "Summa de Arithmetica"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_71/cap_71_en",
-        "title": "CHAPTER LXXI (English)",
+        "doc": "de_divina_proportione/compendio/cap_71/cap_71_en",
+        "title": "CHAPTER LXXI",
         "display": "Summa de Arithmetica"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_71/cap_71_it",
-        "title": "CAPITOLO LXXI (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_71/cap_71_it",
+        "title": "CAPITOLO LXXI",
         "display": "grandopera nostra"
       },
       {
         "work": "divina_proportione",
-        "doc": "plates/architectural_de",
-        "title": "Architekturtafeln und Arbor Proportionis (Deutsch — 1889)",
+        "doc": "de_divina_proportione/plates/architectural_de",
+        "title": "Anhang II: Architekturtafeln und Arbor Proportionis",
         "display": "Summa de Arithmetica"
       }
     ]
@@ -4043,25 +4264,25 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "architectura/cap_02/cap_02_notes",
+        "doc": "de_divina_proportione/architectura/cap_02/cap_02_notes",
         "title": "CHAPTER II — Critical Commentary & Notes",
         "display": "De Prospectiva Pingendi"
       },
       {
         "work": "divina_proportione",
-        "doc": "architectura/cap_19/cap_19_en",
-        "title": "CHAPTER XIX (English)",
+        "doc": "de_divina_proportione/architectura/cap_19/cap_19_en",
+        "title": "CHAPTER XIX",
         "display": "De Prospectiva Pingendi"
       },
       {
         "work": "divina_proportione",
-        "doc": "architectura/cap_19/cap_19_notes",
+        "doc": "de_divina_proportione/architectura/cap_19/cap_19_notes",
         "title": "CHAPTER XIX — Critical Commentary & Notes",
         "display": "De Prospectiva Pingendi"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_54/cap_54_notes",
+        "doc": "de_divina_proportione/compendio/cap_54/cap_54_notes",
         "title": "CHAPTER LIV — Critical Commentary & Notes",
         "display": "De Prospectiva Pingendi"
       }
@@ -4151,121 +4372,121 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "architectura/cap_01/cap_01_de",
-        "title": "CAPITEL I (Deutsch — Winterberg 1889)",
+        "doc": "de_divina_proportione/architectura/cap_01/cap_01_de",
+        "title": "CAPITEL I",
         "display": "Timäus"
       },
       {
         "work": "divina_proportione",
-        "doc": "architectura/cap_01/cap_01_en",
-        "title": "CHAPTER I (English)",
+        "doc": "de_divina_proportione/architectura/cap_01/cap_01_en",
+        "title": "CHAPTER I",
         "display": "Timaeus"
       },
       {
         "work": "divina_proportione",
-        "doc": "architectura/cap_12/cap_12_de",
-        "title": "CAPITEL XII (Deutsch — Winterberg 1889)",
+        "doc": "de_divina_proportione/architectura/cap_12/cap_12_de",
+        "title": "CAPITEL XII",
         "display": "Timäus"
       },
       {
         "work": "divina_proportione",
-        "doc": "architectura/cap_12/cap_12_en",
-        "title": "CHAPTER XII (English)",
+        "doc": "de_divina_proportione/architectura/cap_12/cap_12_en",
+        "title": "CHAPTER XII",
         "display": "Timaeus"
       },
       {
         "work": "divina_proportione",
-        "doc": "architectura/cap_20/cap_20_de",
-        "title": "CAPITEL XX (Deutsch — Winterberg 1889)",
+        "doc": "de_divina_proportione/architectura/cap_20/cap_20_de",
+        "title": "CAPITEL XX",
         "display": "Timäus"
       },
       {
         "work": "divina_proportione",
-        "doc": "architectura/cap_20/cap_20_en",
-        "title": "CHAPTER XX (English)",
+        "doc": "de_divina_proportione/architectura/cap_20/cap_20_en",
+        "title": "CHAPTER XX",
         "display": "Timaeus"
       },
       {
         "work": "divina_proportione",
-        "doc": "architectura/cap_20/cap_20_it",
-        "title": "CAPITOLO XX (Italiano — 1509)",
+        "doc": "de_divina_proportione/architectura/cap_20/cap_20_it",
+        "title": "CAPITOLO XX",
         "display": "nel suo Timeo"
       },
       {
         "work": "divina_proportione",
-        "doc": "architectura/cap_20/cap_20_notes",
+        "doc": "de_divina_proportione/architectura/cap_20/cap_20_notes",
         "title": "CHAPTER XX — Critical Commentary & Notes",
         "display": "Timaeus"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_05/cap_05_de",
-        "title": "CAPITEL V (Deutsch — Winterberg 1889)",
+        "doc": "de_divina_proportione/compendio/cap_05/cap_05_de",
+        "title": "CAPITEL V",
         "display": "Timäus"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_05/cap_05_en",
-        "title": "CHAPTER V (English)",
+        "doc": "de_divina_proportione/compendio/cap_05/cap_05_en",
+        "title": "CHAPTER V",
         "display": "Timaeus"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_05/cap_05_it",
-        "title": "CAPITOLO V (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_05/cap_05_it",
+        "title": "CAPITOLO V",
         "display": "Timeo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_05/cap_05_notes",
+        "doc": "de_divina_proportione/compendio/cap_05/cap_05_notes",
         "title": "CHAPTER V — Critical Commentary & Notes",
         "display": "Timaeus"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_22/cap_22_en",
-        "title": "CHAPTER XXII (English)",
+        "doc": "de_divina_proportione/compendio/cap_22/cap_22_en",
+        "title": "CHAPTER XXII",
         "display": "Timaeus"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_24/cap_24_de",
-        "title": "CAPITEL XXIV (Deutsch — Winterberg 1889)",
+        "doc": "de_divina_proportione/compendio/cap_24/cap_24_de",
+        "title": "CAPITEL XXIV",
         "display": "Timäus"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_30/cap_30_en",
-        "title": "CHAPTER XXX (English)",
+        "doc": "de_divina_proportione/compendio/cap_30/cap_30_en",
+        "title": "CHAPTER XXX",
         "display": "Timaeus"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_43/cap_43_en",
-        "title": "CHAPTER XLIII (English)",
+        "doc": "de_divina_proportione/compendio/cap_43/cap_43_en",
+        "title": "CHAPTER XLIII",
         "display": "Timaeus"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_55/cap_55_de",
-        "title": "CAPITEL LV (Deutsch — Winterberg 1889)",
+        "doc": "de_divina_proportione/compendio/cap_55/cap_55_de",
+        "title": "CAPITEL LV",
         "display": "Timäus"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_55/cap_55_en",
-        "title": "CHAPTER LV (English)",
+        "doc": "de_divina_proportione/compendio/cap_55/cap_55_en",
+        "title": "CHAPTER LV",
         "display": "Timaeus"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_55/cap_55_it",
-        "title": "CAPITOLO LV (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_55/cap_55_it",
+        "title": "CAPITOLO LV",
         "display": "Timeo"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_55/cap_55_notes",
+        "doc": "de_divina_proportione/compendio/cap_55/cap_55_notes",
         "title": "CHAPTER LV — Critical Commentary & Notes",
         "display": "Timaeus"
       }
@@ -4291,19 +4512,19 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_17/cap_17_de",
-        "title": "CAPITEL XVII (Deutsch — Winterberg 1889)",
+        "doc": "de_divina_proportione/compendio/cap_17/cap_17_de",
+        "title": "CAPITEL XVII",
         "display": "Almagest"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_17/cap_17_en",
-        "title": "CHAPTER XVII (English)",
+        "doc": "de_divina_proportione/compendio/cap_17/cap_17_en",
+        "title": "CHAPTER XVII",
         "display": "Almagest"
       },
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_17/cap_17_notes",
+        "doc": "de_divina_proportione/compendio/cap_17/cap_17_notes",
         "title": "CHAPTER XVII — Critical Commentary & Notes",
         "display": "Almagest"
       }
@@ -4329,8 +4550,8 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "compendio/cap_03/cap_03_it",
-        "title": "CAPITOLO III (Italiano — 1509)",
+        "doc": "de_divina_proportione/compendio/cap_03/cap_03_it",
+        "title": "CAPITOLO III",
         "display": "Cosmographia"
       }
     ]
@@ -4363,13 +4584,13 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "architectura/cap_05/cap_05_notes",
+        "doc": "de_divina_proportione/architectura/cap_05/cap_05_notes",
         "title": "CHAPTER V — Critical Commentary & Notes",
         "display": "Vitruvius III.5"
       },
       {
         "work": "divina_proportione",
-        "doc": "architectura/cap_14/cap_14_notes",
+        "doc": "de_divina_proportione/architectura/cap_14/cap_14_notes",
         "title": "CHAPTER XIV — Critical Commentary & Notes",
         "display": "Vitruvius III.5"
       }
@@ -4403,7 +4624,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "architectura/cap_07/cap_07_notes",
+        "doc": "de_divina_proportione/architectura/cap_07/cap_07_notes",
         "title": "CHAPTER VII — Critical Commentary & Notes",
         "display": "Vitruvius IV.1"
       }
@@ -4429,7 +4650,7 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
-        "doc": "architectura/cap_13/cap_13_notes",
+        "doc": "de_divina_proportione/architectura/cap_13/cap_13_notes",
         "title": "CHAPTER XIII — Critical Commentary & Notes",
         "display": "Vitruvius IV.2–3"
       }

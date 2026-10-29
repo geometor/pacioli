@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0289.png``:
 
-- **``g1``** (``0289.g1.png``): Type ``plate`` | Caption: *Plate XLIX: Columna Laterata Penthagona Solida (Κίων πλευρώδης πεντάγωνος στερεός) — Solid Pentagonal Prism* | Bounding Box ``[x=0, y=0, w=612, h=1299]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0289.g1.png``): Type ``plate`` | Caption: *Plate XLIX: Columna Laterata Penthagona Solida (Κίων πλευρώδης πεντάγωνος στερεός) — Solid Pentagonal Prism* | Bounding Box ``[x=238, y=168, w=359, h=715]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

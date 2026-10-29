@@ -10,7 +10,4 @@
 Folio 0313 (End Matter 0313 (recto)) — Endleaf (0313)
 =====================================================
 
-.. picture:: 0313.g1.png
-   :alt: Folio 0313 Figura g1
-
 *[Carta bianca / guardia (End Matter 0313 (recto)) nell'edizione veneziana di Paganino de' Paganini, 1509.]*

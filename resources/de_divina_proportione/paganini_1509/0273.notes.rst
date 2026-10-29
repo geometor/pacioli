@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0273.png``:
 
-- **``g1``** (``0273.g1.png``): Type ``plate`` | Caption: *Plate XLII: Columna Laterata Triangula Vacua (Κίων πλευρώδης τρίγωνος κενός) — Hollow Triangular Prism* | Bounding Box ``[x=0, y=165, w=542, h=1350]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0273.g1.png``): Type ``plate`` | Caption: *Plate XLII: Columna Laterata Triangula Vacua (Κίων πλευρώδης τρίγωνος κενός) — Hollow Triangular Prism* | Bounding Box ``[x=222, y=165, w=305, h=743]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

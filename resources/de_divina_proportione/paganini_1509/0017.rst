@@ -10,9 +10,6 @@
 Folio 0017 (f. 1r) — Cap. I (f. 1r) — Excellentissimo principi Ludouico mariae Sforza Angla M
 =============================================================================================
 
-.. picture:: 0017.g1.png
-   :alt: Folio 0017 Figura g1
-
 .. picture:: 0017.c1.png
    :alt: Folio 0017 Capolettera c1
 

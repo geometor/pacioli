@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0261.png``:
 
-- **``g1``** (``0261.g1.png``): Type ``plate`` | Caption: *Plate XXXVI: Vigintisex Basium Planum Vacuum (Εἰκοσιεξάεδρον ἐπίπεδον κενόν) — Hollow 26-Base Body (Rhombicuboctahedron)* | Bounding Box ``[x=0, y=176, w=759, h=1164]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0261.g1.png``): Type ``plate`` | Caption: *Plate XXXVI: Vigintisex Basium Planum Vacuum (Εἰκοσιεξάεδρον ἐπίπεδον κενόν) — Hollow 26-Base Body (Rhombicuboctahedron)* | Bounding Box ``[x=122, y=176, w=626, h=686]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

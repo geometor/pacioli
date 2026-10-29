@@ -13,7 +13,7 @@ Graphic Extraction & Calibration
 
 A total of **1** woodcut element(s) were extracted and calibrated from ``0221.png``:
 
-- **``g1``** (``0221.g1.png``): Type ``plate`` | Caption: *Plate XVI: Octahedron Planum Vacuum (Ὀκτάεδρον ἐπίπεδον κενόν) — Hollow Regular Octahedron* | Bounding Box ``[x=0, y=0, w=809, h=963]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
+- **``g1``** (``0221.g1.png``): Type ``plate`` | Caption: *Plate XVI: Octahedron Planum Vacuum (Ὀκτάεδρον ἐπίπεδον κενόν) — Hollow Regular Octahedron* | Bounding Box ``[x=134, y=150, w=660, h=692]`` | Placement/Class: ``full-page`` | White-Point Threshold: ``226``
 
 Diplomatic & Textual Observations
 ---------------------------------

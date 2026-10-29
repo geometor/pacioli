@@ -1,0 +1,19 @@
+:layout: book
+:canonical_id: Cap. XII
+:folio: 0027 (f. 6r)
+
+.. _compendio-cap_12-de:
+
+CAPITEL XII
+===========
+
+.. rubric:: Ueber ihre dritte besondere Wirkung.
+
+.. folio:: 0027 (f. 6r)
+   :initial: 0027.c1.png
+
+Wenn eine Grösse nach unserer Proportion getheilt ist, und wenn man dem kleinern Abschnitte die Hälfte des grösseren hinzufügt, so wird alsdann stets das Quadrat der Summe das fünffache des Quadrats der Hälfte des genannten grösseren Abschnittes sein. Es sei Beispielsweise lo die nach unserer :term:`göttlichen Proportion <divina-proportione>` getheilte Grösse, so dass der eine Abschnitt, nämlich der grössere ]/i25 — 3 und der kleinere i5 — ]/i25 sein wird.
+
+Ich behaupte, wenn man zu i5 — '\/i25, welches der kleinere ist, die Hälfte von √125 − 5 hinzufügt, welches der grössere ist, so wird ferner die Summe des kleineren und der genannten Hälfte mit sich selbst multiplicirt fünf mal so viel sein als das Quadrat der Hälfte des genannten grösseren, und das zeigt sich so: Da die Hälfte von ■√i25 — 5 ist 1/' 31- 2 7 und zu I 5 — "√" 125, welcher der kleinere Theil ist, addirt 12 1/ 3i— macht, so ergibt sich durch Multiplication von I 12- — 1/ 3i— I mall 12 √3i — ) das Product 187 1/ 19531— Und dieses wird das Quadrat der Summe genannt.
+
+Ferner quadrire man noch die Hälfte des genannten grössern, d. h. multiplicire j!/ 3i- — 2IJ mal I √3-— 2 das macht 377 1/ 781— Und dieses wird das Quadrat der Hälfte des grössern Abschnittes genannt, welches genau Y5 des Quadrats der Summe macht. Und folglich ist genanntes Quadrat der Summe gleich dem fünffachen des Quadrats der Hälfte genannten grössern Abschnittes der so getheilten Grösse 10. Diese Eigenschaft ist neben den übrigen sehr schätzenswerth, wie sie auch ganz geometrisch durch die dritte des dreizehnten unseres Autors bewiesen wird.

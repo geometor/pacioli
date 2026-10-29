@@ -3,22 +3,7 @@
   "side": "recto",
   "section": "Part I: Compendio de Divina Proportione",
   "header": "PARS",
-  "graphics": [
-    {
-      "id": "g1",
-      "type": "marginalia",
-      "file": "0019.g1.png",
-      "bbox": [
-        620,
-        1198,
-        104,
-        42
-      ],
-      "white_point": 226,
-      "caption": "Folio 0019 Marginalia 1",
-      "margin": "right"
-    }
-  ],
+  "graphics": [],
   "page_num": 19,
   "original_folio": "f. 2r",
   "section_id": "compendio",

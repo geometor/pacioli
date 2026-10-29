@@ -35,10 +35,10 @@
       "type": "diagram",
       "file": "0055.g1.png",
       "bbox": [
-        671,
-        32,
-        251,
-        535
+        668,
+        4,
+        253,
+        559
       ],
       "white_point": 226,
       "caption": "Folio 0055 Diagram 1",
@@ -49,10 +49,10 @@
       "type": "diagram",
       "file": "0055.g2.png",
       "bbox": [
-        642,
-        561,
-        308,
-        317
+        622,
+        565,
+        330,
+        309
       ],
       "white_point": 226,
       "caption": "Folio 0055 Diagram 2",
@@ -63,10 +63,10 @@
       "type": "diagram",
       "file": "0055.g3.png",
       "bbox": [
-        642,
-        871,
-        318,
-        359
+        634,
+        875,
+        322,
+        356
       ],
       "white_point": 226,
       "caption": "Folio 0055 Diagram 3",
