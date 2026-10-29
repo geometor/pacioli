@@ -17,7 +17,9 @@ CHAPTER XVIII
 
    If an **equilateral pentagon** be formed in a circle, and opposite two of its adjacent angles two straight lines [diagonals] be subtended from the endpoints of their sides, those two lines will of necessity **divide one another according to our proportion**, and **each of their greater parts** will always be equal to the **side of the said pentagon** (:just:`XIII.8`).
 
-.. assertion:: Geometric and Numerical Demonstration
+.. rubric:: Geometric and Numerical Demonstration
+
+.. assertion::
 
    For example, let the equilateral pentagon be :g:`abcde`, and from the endpoints :g:`c` and :g:`a` let the chord :g:`ac` be drawn subtending the angle :g:`b`; and from the endpoints :g:`b` and :g:`e` let the other chord :g:`be` be drawn subtending the angle :g:`a`.
 

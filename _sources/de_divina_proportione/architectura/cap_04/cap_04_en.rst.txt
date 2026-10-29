@@ -21,7 +21,9 @@ So that the unfamiliar Greek names in :person:`Vitruvius <vitruvius>`—**Ionic*
 
 And to understand why the Ancients varied the strength and ornament of their columns and temples according to the gods to whom they were dedicated, consider what we ourselves do in our **Christian religion**: to every Saint we assign the particular emblems and instruments by which they fought for the holy faith—to **St. George**, full armor, lance, cuirass, helmet, sword, and horse (and likewise to **St. Maurice**, **St. Eustace**, and the **Maccabees**); to **St. Catherine**, the wheel whereby she was crowned with martyrdom; to **St. Barbara**, the tower in which she was imprisoned (*quoniam verbera carnificum non timuerunt sancti Dei*). In the very same way, the Ancients, according to their pagan rites, fashioned sturdy, unadorned Doric columns for **Hercules, Mars, and Jupiter**, graceful matronly Ionic columns for **Diana and Juno**, and slender, flower-crowned Corinthian columns for **Venus, Flora, and the Nymphs**!
 
-.. assertion:: Proportional Construction of the Corinthian Capital and Its Abacus (:ref:`Plate 0213 <plates-architectural-en>`)
+.. rubric:: Proportional Construction of the Corinthian Capital and Its Abacus (:ref:`Plate 0213 <plates-architectural-en>`)
+
+.. assertion::
 
    1. **Height of the Abacus (:math:`\frac{1}{8} - \frac{1}{10} = \frac{1}{40}` of the Column Height)**:
       To proportion the capital of the round column (see :ref:`Plate 0213 <plates-architectural-en>`), the Ancients first divided the total intended height of the column (including its capital) into **8 equal parts** (:math:`\frac{1}{8}`), and then divided that same height into **10 equal parts** (:math:`\frac{1}{10}`). Subtracting one-tenth from one-eighth leaves **one-fortieth** (:math:`\frac{1}{8} - \frac{1}{10} = \frac{1}{40}`) of the total height!

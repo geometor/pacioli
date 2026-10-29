@@ -21,7 +21,9 @@ Columns are of **two kinds**: **round** (*rotonde*, cylinders) and **lateral/fac
 
    The round column (*colonna rotonda*, cylinder) is a solid body contained between two equal and parallel circular bases, described by the revolution of a right-angled :term:`parallelogram <paralellogramo>` when one of its sides containing the right angle remains fixed as the axis and the :term:`parallelogram <paralellogramo>` is turned completely around until it returns to the place from which it began to move (:just:`XI.Def.21`). And the round column, the sphere, and the circle that have the same diameter all share one and the same center.
 
-.. assertion:: Proof that the Cylinder, Sphere, and Circle Share the Same Center (:just:`XI.Def.21`, :just:`I.15`, :just:`I.26`, :just:`III.31`)
+.. rubric:: Proof that the Cylinder, Sphere, and Circle Share the Same Center (:just:`XI.Def.21`, :just:`I.15`, :just:`I.26`, :just:`III.31`)
+
+.. assertion::
 
    1. Let :math:`abcd` be a right-angled :term:`parallelogram <paralellogramo>` (rectangle), and hold its vertical side :math:`ab` fixed while revolving the rectangle :math:`abcd` completely around :math:`ab` until it returns to its starting position (see the marginal diagram ``0052.g1.png`` on Folio 0052, and :ref:`Plates XLIII–XLIV <plates-polyhedra-en>`).
    2. The solid figure traced out by the revolution of :math:`abcd` is the **round column** (cylinder). Its fixed side :math:`ab` is the **axis** (*l'axe*) of the column; the horizontal sides :math:`bc` and :math:`ad` sweep out the two parallel **circular bases** with centers :math:`b` and :math:`a`; and the outer side :math:`cd` sweeps out the curved cylindrical surface.

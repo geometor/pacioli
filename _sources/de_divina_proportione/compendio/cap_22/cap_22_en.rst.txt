@@ -17,7 +17,9 @@ CHAPTER XXII
 
    For its **thirteenth effect**, it is no small matter of wonder that without its aid one can never construct the **equilateral and equiangular pentagon**—that is, the figure of five equal sides adduced above in the Ninth Effect and to be adduced again below—and that without the said pentagon, as will be told, it is impossible either to form or to imagine the **noblest body above all the others**, called the :term:`**Dodecahedron** <dodecahedron>` (:term:`*duodecedron* <dodecahedron>`)—that is, the body of twelve equilateral and equiangular pentagons, otherwise called the body of twelve pentagonal bases—whose form, as will be told, the divine :person:`**Plato** <plato>` [in his :cite:`*Timaeus* <plato:timaeus:53c-56c>`] attributed for the most fitting reasons to the :term:`**Fifth Essence** <quinta-essentia>`, namely to **Heaven** (:just:`IV.10`, :just:`IV.11`, :just:`XIII.17`).
 
-.. assertion:: Euclid's Deductive Architecture in Books II, IV, V, and VI
+.. rubric:: Euclid's Deductive Architecture in Books II, IV, V, and VI
+
+.. assertion::
 
    To this end, our Philosopher in the **tenth proposition of the Fourth Book** (:just:`IV.10`) teaches us how to construct an **isosceles triangle** of this condition: namely, that **each of the two angles at its base is double the remaining angle** [at the apex, i.e., $72^\circ, 72^\circ, 36^\circ$].
 

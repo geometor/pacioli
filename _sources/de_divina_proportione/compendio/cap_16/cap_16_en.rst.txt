@@ -17,7 +17,9 @@ CHAPTER XVI
 
    If the **side of an equilateral hexagon** be joined in a single line to the **side of an equilateral decagon**, both being understood as inscribed in one and the same circle, their **sum** will always be a quantity divided according to our said proportion, and its **greater part** will be the **side of the hexagon** (:just:`XIII.9`).
 
-.. assertion:: Numerical Demonstration
+.. rubric:: Numerical Demonstration
+
+.. assertion::
 
    For example, let the side of an equilateral hexagon inscribed in a circle be $\sqrt{125} - 5$, and let the side of the equilateral decagon in the very same circle be $15 - \sqrt{125}$. (The diameter of this circle, which is double the side of the hexagon by :just:`IV.15`, will be $2(\sqrt{125} - 5) = \sqrt{500} - 10$.)
 

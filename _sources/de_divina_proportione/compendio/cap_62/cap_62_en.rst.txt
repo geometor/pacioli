@@ -23,7 +23,9 @@ Having described the forms of all columns, it is now fitting to give Your Ducal 
 
       \text{Area}_{\text{base}} \approx \frac{11}{14}\,d^{2}, \qquad \text{Volume}_{\text{cylinder}} = \text{Area}_{\text{base}} \times h \approx \frac{11}{14}\,d^{2}\,h
 
-.. assertion:: Worked Numerical Example and Geometric Explanation
+.. rubric:: Worked Numerical Example and Geometric Explanation
+
+.. assertion::
 
    1. Let :math:`abcd` be a round column whose altitude :math:`ac = bd` is :math:`10` (*braccia*, *piedi*, *passi*, or *palmi*), and let the diameter of each circular base :math:`ab = cd` be :math:`7` (see the marginal diagrams ``0054.g7.png`` and ``0054.g8.png`` on Folio 0054).
    2. Multiply the diameter :math:`7` by itself:

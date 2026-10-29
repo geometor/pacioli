@@ -38,7 +38,9 @@ Having compared the sides of all five regular bodies inscribed in the same spher
 
       because :math:`s_{\text{cube}} > s_{\text{icosa}}` (as proved in :ref:`Chapter XXXI <compendio-cap_31-en>`), so the ratio :math:`s_{\text{cube}} : s_{\text{icosa}}` is a ratio of **greater inequality** (:math:`\sqrt{\frac{10}{3(5-\sqrt{5})}} = \sqrt{\frac{5+\sqrt{5}}{6}} > 1`)!
 
-.. assertion:: Proof Summary (:just:`XIV.2`, :just:`XIV.6`, :just:`XIV.7`, :just:`XIV.8`)
+.. rubric:: Proof Summary (:just:`XIV.2`, :just:`XIV.6`, :just:`XIV.7`, :just:`XIV.8`)
+
+.. assertion::
 
    1. By Aristaeus's theorem proved in :just:`XIV.2`, one and the same circle circumscribes both the pentagon of the :term:`duodecedron <dodecahedron>` and the triangle of the :term:`ycocedron <icosahedron>` inscribed in the same sphere.
    2. Since equal circles in a sphere stand at equal perpendicular distances from the center of the sphere (:just:`III.14`), the perpendicular from the sphere's center to a pentagonal base of the :term:`duodecedron <dodecahedron>` equals the perpendicular to a triangular base of the :term:`ycocedron <icosahedron>`.

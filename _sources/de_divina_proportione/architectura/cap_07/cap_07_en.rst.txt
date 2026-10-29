@@ -15,7 +15,9 @@ CHAPTER VII
 
 You must further note that while the three species of columns—**Ionic**, **Doric**, and **Corinthian**—may share similar bases and stylobates, they differ fundamentally in the slenderness of their shafts and the form of their **capitals**:
 
-.. assertion:: Character and Proportions of the Three Classical Orders (Vitruvius IV.1)
+.. rubric:: Character and Proportions of the Three Classical Orders (Vitruvius IV.1)
+
+.. assertion::
 
    1. **The Ionic (or Pulvinated) Column — Matronly and Melancholy**:
 

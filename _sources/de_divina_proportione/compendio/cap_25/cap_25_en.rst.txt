@@ -19,7 +19,9 @@ Having seen the sublime and marvelous effects of our :term:`Divine Proportion <d
 
    No solid body bounded by equilateral and equiangular plane figures all equal and similar to one another can be formed beyond the five regular bodies—namely three bounded by equilateral triangles (the :term:`*tetracedron* <tetrahedron>` of four faces, the :term:`*octocedron* <octahedron>` of eight faces, and the :term:`*ycocedron* <icosahedron>` of twenty faces), one bounded by squares (the *cubo* or :term:`*exacedron* <exahedron>` of six faces), and one bounded by regular pentagons (the :term:`*duodecedron* <dodecahedron>` of twelve faces).
 
-.. assertion:: Proof from Solid Angles (:just:`XI.21`, :just:`I.32`)
+.. rubric:: Proof from Solid Angles (:just:`XI.21`, :just:`I.32`)
+
+.. assertion::
 
    1. By the :just:`twenty-first of the eleventh <XI.21>`, every :term:`solid angle <angulo-solido>` is contained by at least three plane angles, and the sum of all the plane angles that meet to form any convex :term:`solid angle <angulo-solido>` must always be **less than four right angles** (:math:`360^{\circ}`). For if the plane angles meeting at a point equaled four right angles, they would lie flat in a single continuous plane surface and could never close to form a solid corner or vertex; and still less can they exceed four right angles.
    2. **First Case — Equilateral Triangles**: By the :just:`thirty-second of the first <I.32>`, the three interior angles of any triangle equal two right angles; hence in an equilateral triangle (:g:`isopleuron`) each angle equals **two-thirds of one right angle** (:math:`\frac{2}{3}R = 60^{\circ}`).

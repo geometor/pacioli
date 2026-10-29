@@ -18,7 +18,9 @@ The fifth proposition of the fifteenth book (:cite:`Campanus XV.5 <campanus:eucl
 
    In a given regular body of eight triangular bases (:term:`*octocedron* <octahedron>`), to inscribe the regular body of four triangular bases (:term:`*tetracedron* <tetrahedron>`) so that the four vertices of the :term:`tetracedron <tetrahedron>` stand at four alternating centers of the eight faces of the :term:`octocedron <octahedron>`.
 
-.. assertion:: Construction and Proof (via Campanus XV.4 and XV.2)
+.. rubric:: Construction and Proof (via Campanus XV.4 and XV.2)
+
+.. assertion::
 
    1. First, in the given :term:`octocedron <octahedron>` inscribe the **cube** :math:`efghklmn` by the method of :ref:`Chapter XXXVIII <compendio-cap_38-en>` (:cite:`Campanus XV.4 <campanus:euclid:XV.4>`), so that the eight vertices of the cube stand at the eight centers of the triangular faces of the :term:`octocedron <octahedron>` (see the marginal diagram ``0039.g2.png`` on Folio 0039).
    2. Second, in this inscribed cube :math:`efghklmn`, inscribe the :term:`**tetracedron** <tetrahedron>` by the method of :ref:`Chapter XXXVI <compendio-cap_36-en>` (:cite:`Campanus XV.2 <campanus:euclid:XV.2>`), drawing the six face diagonals across the six square faces of the cube to join four non-adjacent vertices of the cube (for instance :math:`e, g, l, n`).

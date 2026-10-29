@@ -15,7 +15,9 @@ CHAPTER XV
 
 Directly upon the top taenia (:math:`h`) of the epistyle rests the **zophorus** (:term:`*zophoro* <zophoro>`, marked :math:`V` in :ref:`Plate 0215 <plates-architectural-en>`), which our modern craftsmen call the **frieze** (:term:`*fregio* <zophoro>`).
 
-.. assertion:: Proportion of the Frieze (*Zophoro*) to the Epistyle (Vitruvius III.5.10)
+.. rubric:: Proportion of the Frieze (*Zophoro*) to the Epistyle (Vitruvius III.5.10)
+
+.. assertion::
 
    1. **When Left Plain Without Carved Ornament (*Schietto senza Ornamenti*)**:
       If the frieze is to be left smooth and uncarved, its height is made **one-fourth less** than the height of the epistyle below it (or in small plain mouldings, a quarter part).

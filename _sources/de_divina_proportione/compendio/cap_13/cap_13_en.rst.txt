@@ -17,7 +17,9 @@ CHAPTER XIII
 
    If a quantity is divided according to our :term:`Divine Proportion <divina-proportione>`, and to the **whole of the said quantity** be added its **greater part**, then the **said sum** and the **said greater part** will be the parts of another [second] quantity similarly divided; and the **greater part of this second divided quantity** will always be the **entire first quantity** (cf. :just:`XIII.5` [:cite:`Campanus XIII.4 <campanus:euclid:XIII.4>`]).
 
-.. assertion:: Numerical Demonstration
+.. rubric:: Numerical Demonstration
+
+.. assertion::
 
    For example, let the quantity divided according to our unique proportion be $10$, so that its greater part is $\sqrt{125} - 5$ and its lesser part is $15 - \sqrt{125}$.
 

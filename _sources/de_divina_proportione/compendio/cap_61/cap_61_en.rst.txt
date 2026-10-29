@@ -15,7 +15,9 @@ CHAPTER LXI
 
 In the third place among lateral columns stand the **five-sided** or **pentagonal columns** (*colonne laterate pentagone*, :ref:`Plates XLIX–L <plates-polyhedra-en>`, and marginal diagram ``0054.g6.png``):
 
-.. assertion:: Properties of Pentagonal and General Polygonal Prisms (:just:`XIII.7`)
+.. rubric:: Properties of Pentagonal and General Polygonal Prisms (:just:`XIII.7`)
+
+.. assertion::
 
    1. A pentagonal column is bounded laterally by **5 rectangular faces** (*ciascuna tetragona ouer quadrilatera*) and closed at the top and bottom by **2 parallel pentagonal bases** (rectilinear figures of 5 sides and 5 angles—for in every rectilinear plane figure, the number of angles equals the number of sides).
    2. Like quadrilateral columns, pentagonal columns may be either **equilateral and equiangular** or **inequilateral**, depending on their pentagonal bases.

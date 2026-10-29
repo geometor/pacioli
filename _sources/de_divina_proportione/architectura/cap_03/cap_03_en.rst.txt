@@ -15,7 +15,9 @@ CHAPTER III
 
 Having treated sufficiently of the proportions of the head, we now set forth the proportions of the **entire human body** to its head and other exterior members—measured always on the **bare bone stripped of flesh** (*del puro osso netto dale carni*), since some men are corpulent and others lean, whereas the skeleton is firm and invariable—so that after this canon you may proportion your columns and buildings.
 
-.. assertion:: Vitruvian Canon of the Human Body (Vitruvius III.1.2)
+.. rubric:: Vitruvian Canon of the Human Body (Vitruvius III.1.2)
+
+.. assertion::
 
    With the Ancients and our :person:`**Vitruvius** <vitruvius>` (Book III, Chapter 1, *De sacrarum aedium compositione*), we state the following fundamental ratios of the total stature (height) of a well-proportioned man from the soles of his feet to the crown of his head:
 
@@ -33,7 +35,9 @@ Having treated sufficiently of the proportions of the head, we now set forth the
 
       *Corpus enim hominis ita natura composuit, uti os capitis a mento ad frontem summam et radices imas capilli esset decimae partis; item manus palma ab articulo ad extremum medium digitum tantundem; caput a mento ad summum verticem octavae... Pes vero altitudinis corporis sextae, cubitusque quartae, pectus item quartae. Reliqua quoque membra suos habent commensus proportionis, quibus etiam antiqui pictores et statuarii nobiles usi magnas et infinitas laudes sunt assecuti. Similiter vero sacrorum aedificiorum membra ad universam totius magnitudinis summam ex partibus singulis convenientissimum debent habere commensum responsum.*
 
-.. assertion:: The Perfect Numbers Ten, Six, and Sixteen (Vitruvius III.1.5–8 & Euclid :just:`IX.36`)
+.. rubric:: The Perfect Numbers Ten, Six, and Sixteen (Vitruvius III.1.5–8 & Euclid :just:`IX.36`)
+
+.. assertion::
 
    1. **The Philosophical Perfect Number Ten (*Denario / Teleon*)**:
       Those who divide the human body into **10 parts** follow the natural philosophers and :person:`**Plato** <plato>`, calling **10** the *perfect number* (Greek :g:`teleion`) both because all things fall under :person:`Aristotle <aristotle>`'s **10 Categories** (*X Predicamenti*: *quoniam numero denario omnes philosophi sunt contenti*) and because Nature formed **10 fingers** on the hands and **10 toes** on the feet from individual units (*monades*).

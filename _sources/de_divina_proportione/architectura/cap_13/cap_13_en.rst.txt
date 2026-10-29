@@ -14,7 +14,9 @@ CHAPTER XIII
 
 What we have just said concerning the spacing of columns applies equally to the spacing of the :term:`**triglyphs** <tygraphi>` (*tigrafi*), which are placed near the summit of buildings upon the frieze above the epistyle (:term:`architrave <epistilio>`):
 
-.. assertion:: Alignment and Spacing of Triglyphs
+.. rubric:: Alignment and Spacing of Triglyphs
+
+.. assertion::
 
    1. Every triglyph must be centered **directly over the axis of the column** beneath it (and with corresponding intervals over the intercolumniations), so that the upper order answers visually and structurally to the columns below.
    2. Thus if the intercolumniation (*tetrante*) of the columns is :math:`1\frac{1}{2}`, :math:`2`, or :math:`2\frac{1}{2}` column thicknesses, the spacing of the :term:`triglyphs <tygraphi>` is governed accordingly.

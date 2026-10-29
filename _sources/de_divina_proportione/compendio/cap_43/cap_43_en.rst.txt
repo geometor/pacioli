@@ -18,7 +18,9 @@ Now we come to the ninth proposition of the fifteenth book (:cite:`Campanus XV.9
 
    In a given regular body of twelve pentagonal bases (:term:`*duodecedron* <dodecahedron>`), to inscribe the regular body of twenty equilateral triangular bases (:term:`*ycocedron* <icosahedron>`) so that the twelve vertices of the :term:`ycocedron <icosahedron>` stand at the twelve centers of the pentagonal faces of the :term:`duodecedron <dodecahedron>`.
 
-.. assertion:: Construction and Proof (:just:`IV.14`, :just:`XIII.17`, :just:`XI.10`)
+.. rubric:: Construction and Proof (:just:`IV.14`, :just:`XIII.17`, :just:`XI.10`)
+
+.. assertion::
 
    1. In each of the twelve regular pentagonal faces of the given :term:`duodecedron <dodecahedron>`, find the **center** of that pentagon by the :just:`fourteenth of the fourth <IV.14>` (bisecting two adjacent angles of the pentagon; the intersection of the bisectors is the center of the pentagon), giving **twelve face-centers** in all (see the marginal diagram ``0040.g3.png`` on Folio 0040).
    2. Around each of the twenty :term:`solid angles <angulo-solido>` (vertices) of the :term:`duodecedron <dodecahedron>`, exactly **three** regular pentagonal faces meet (:ref:`Chapter XXV <compendio-cap_25-en>`). Join the three centers of the three pentagons meeting at each vertex of the :term:`duodecedron <dodecahedron>` by three straight lines.

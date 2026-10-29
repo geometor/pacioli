@@ -18,7 +18,9 @@ Now we come to the fifth and last regular body, the :term:`**duodecedron** <dode
 
    Given the diameter of a sphere, to construct the regular body of twelve equilateral and equiangular pentagonal bases (:term:`*duodecedron* <dodecahedron>`) inscribed in that sphere, and to demonstrate that the side (edge) of the :term:`duodecedron <dodecahedron>` is an irrational line called the :term:`**Apotome** <residuo>` or **Residue** (:term:`*residuo* <residuo>`, :just:`X.73`), namely the greater segment of the side of the cube inscribed in the same sphere when divided according to our :term:`Divine Proportion <divina-proportione>`.
 
-.. assertion:: Construction and Proof (:just:`XIII.17`, :just:`XIII.15`, :just:`II.11`, :just:`XIII.4`, :just:`XIII.5`, :just:`XIII.6`, :just:`XIII.7`, :just:`I.47`)
+.. rubric:: Construction and Proof (:just:`XIII.17`, :just:`XIII.15`, :just:`II.11`, :just:`XIII.4`, :just:`XIII.5`, :just:`XIII.6`, :just:`XIII.7`, :just:`I.47`)
+
+.. assertion::
 
    1. First inscribe in the given sphere the **cube** (:term:`*exacedron* <exahedron>`) by the method of :ref:`Chapter XXVII <compendio-cap_27-en>` (:just:`XIII.15`), so that the square on the diameter of the sphere is triple the square on the edge of the cube.
    2. On two adjacent square faces :math:`abcd` and :math:`ebcf` of the cube sharing the common edge :math:`bc` (see the marginal diagram ``0035.g1.png`` on Folio 0035), bisect the sides at their midpoints and join the opposite midpoints by the median lines :math:`gh, kl` on face :math:`abcd` (intersecting at the face center :math:`m`) and :math:`no, pq` on face :math:`ebcf` (intersecting at the face center :math:`r`), so that :math:`gm = mh = np = po = \frac{1}{2}bc`.

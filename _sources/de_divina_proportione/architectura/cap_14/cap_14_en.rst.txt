@@ -15,7 +15,9 @@ CHAPTER XIV
 
 Once the columns have been erected plumb (*a livello*) upon their stylobates, with their bases and capitals firmly bedded with iron dowels and molten lead (*con loro ferri ben saldi e ben piombati*), there is laid across their capitals the **epistyle** (:term:`*epistilio* <epistilio>` in :person:`Vitruvius <vitruvius>`, called the :term:`**architrave** <epistilio>` by our modern masons) to bind and chain all the columns together in a single straight line (*per fermezza e incatenatura de tutte le colonne*).
 
-.. assertion:: Proportional Subdivisions of the Epistyle / Architrave (:ref:`Plate 0215 <plates-architectural-en>`)
+.. rubric:: Proportional Subdivisions of the Epistyle / Architrave (:ref:`Plate 0215 <plates-architectural-en>`)
+
+.. assertion::
 
    Let the total height of the epistyle (proportioned to the height of the columns according to the load and dignity of the building) be represented by the vertical span :math:`ab` in :ref:`Plate 0215 (Epistylium, Zophorus, Corona) <plates-architectural-en>`:
 

@@ -18,7 +18,9 @@ The fourth proposition of the fifteenth book (:cite:`Campanus XV.4 <campanus:euc
 
    In a given regular body of eight equilateral triangular bases (:term:`*octocedron* <octahedron>`), to inscribe the cube (:term:`*exacedron* <exahedron>`) so that the eight :term:`solid angles <angulo-solido>` of the cube stand at the centers of the eight triangular faces of the :term:`octocedron <octahedron>`.
 
-.. assertion:: Construction and Proof (:just:`IV.4`, :just:`VI.2`, :just:`I.47`, :just:`XIII.12`)
+.. rubric:: Construction and Proof (:just:`IV.4`, :just:`VI.2`, :just:`I.47`, :just:`XIII.12`)
+
+.. assertion::
 
    1. In each of the eight equilateral triangular faces of the given :term:`octocedron <octahedron>` (four in the upper pyramid and four in the lower pyramid sharing the equatorial square :math:`abcd`), find the **center** of that equilateral triangle (:just:`IV.4`, :just:`IV.5`) by drawing the perpendiculars (medians/angle-bisectors) from two corners to the midpoints of the opposite sides; their intersection is the center of the triangle (see the marginal diagram ``0039.g1.png`` on Folio 0039).
    2. Let :math:`e, f, g, h` be the four centers of the four upper triangular faces of the :term:`octocedron <octahedron>`, and let :math:`k, l, m, n` be the four centers of the four lower triangular faces.

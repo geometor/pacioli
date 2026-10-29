@@ -19,7 +19,9 @@ CHAPTER XIV
 
    $$b^2 + (a + b)^2 = 3a^2$$
 
-.. assertion:: Numerical Demonstration
+.. rubric:: Numerical Demonstration
+
+.. assertion::
 
    For example, let $10$ be the divided quantity, where, as we have said, one part is $15 - \sqrt{125}$ (namely the lesser, $b$) and the other is $\sqrt{125} - 5$ (namely the greater, $a$).
 

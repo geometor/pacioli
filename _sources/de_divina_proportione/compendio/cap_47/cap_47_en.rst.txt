@@ -18,7 +18,9 @@ To conclude the fifteenth book (:cite:`Campanus XV.13 <campanus:euclid:XV.13>`),
 
    In any given one of the five regular bodies (:term:`*tetracedron* <tetrahedron>`, *cubo*, :term:`*octocedron* <octahedron>`, :term:`*ycocedron* <icosahedron>`, or :term:`*duodecedron* <dodecahedron>`), to inscribe a sphere that touches all the plane bases (faces) of that body at their centers.
 
-.. assertion:: Construction and Proof (:just:`III.14`, :just:`XI.11`, :just:`III.16`, :just:`XI.Def.14`)
+.. rubric:: Construction and Proof (:just:`III.14`, :just:`XI.11`, :just:`III.16`, :just:`XI.Def.14`)
+
+.. assertion::
 
    1. Every one of the five regular bodies can be inscribed in a circumscribing sphere (:just:`XIII.13`–:just:`XIII.17`), whose center :math:`a` is the common center of the regular body.
    2. From this center :math:`a` of the circumscribing sphere, draw perpendiculars (:just:`XI.11`) to all the plane bases (faces) of the regular body—namely 4 perpendiculars in the :term:`tetracedron <tetrahedron>`, 6 in the cube, 8 in the :term:`octocedron <octahedron>`, 20 in the :term:`ycocedron <icosahedron>`, and 12 in the :term:`duodecedron <dodecahedron>` (see the marginal diagram ``0042.g1.png`` on Folio 0042).

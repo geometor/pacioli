@@ -19,7 +19,9 @@ The second proposition of the fifteenth book (:cite:`Campanus XV.2 <campanus:euc
 
    In a given cube (:term:`*exacedron* <exahedron>`), to inscribe the regular pyramid of four equilateral triangular bases (:term:`*tetracedron* <tetrahedron>`) so that the four vertices of the :term:`tetracedron <tetrahedron>` stand at four non-adjacent vertices of the cube, and the six edges of the :term:`tetracedron <tetrahedron>` are the six face diagonals of the six square faces of the cube.
 
-.. assertion:: Construction and Proof (:just:`I.47`, :just:`I.8`)
+.. rubric:: Construction and Proof (:just:`I.47`, :just:`I.8`)
+
+.. assertion::
 
    1. Let the given cube have lower square face :math:`abcd` and upper square face :math:`efgh`, with vertical edges :math:`ae, bf, cg, dh` (see the marginal diagram ``0038.g2.png`` on Folio 0038).
    2. On the six square faces of the cube, draw six face diagonals meeting at four alternating corners of the cube—namely, draw the diagonal :math:`ac` on the lower square :math:`abcd`, the diagonal :math:`fh` on the upper square :math:`efgh`, and the four lateral diagonals :math:`af, fc, ch, ha` on the four vertical squares :math:`abfe, bcgf, cdhg, daeh`.

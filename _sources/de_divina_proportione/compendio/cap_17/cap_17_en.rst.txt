@@ -17,7 +17,9 @@ CHAPTER XVII
 
    If a line be divided according to the proportion having a mean and two extremes, then for that circle in which the **greater part** is the **side of the inscribed hexagon**, the **lesser part** will always be the **side of the regular decagon** inscribed in the very same circle (:just:`XIII.9`).
 
-.. assertion:: Numerical Demonstration and Ptolemaic Application
+.. rubric:: Numerical Demonstration and Ptolemaic Application
+
+.. assertion::
 
    For example, if the divided line is $10$, its **greater part**, which is $\sqrt{125} - 5$, will always be the side of the equilateral hexagon of a circle whose diameter is double $\sqrt{125} - 5$, namely $\sqrt{500} - 10$ (:just:`IV.15`). I say that in that very same circle, the **lesser part**, $15 - \sqrt{125}$, will be the side of the equilateral decagon inscribed therein.
 

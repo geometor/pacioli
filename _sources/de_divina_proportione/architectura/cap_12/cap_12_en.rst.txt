@@ -15,7 +15,9 @@ CHAPTER XII
 
 Having shown how round columns are carved and proportioned in themselves, we now explain for those who must erect them in buildings the ancient and modern rules for their **spacing or intercolumniation** (*intercolumnium*, which we also call *tetrante*).
 
-.. assertion:: The Five Classical Intercolumniations (Vitruvius III.3.1–6)
+.. rubric:: The Five Classical Intercolumniations (Vitruvius III.3.1–6)
+
+.. assertion::
 
    When setting up a row of columns plumb (*a livello*) upon their stylobates and foundations, the Ancients spaced them apart from one another by the following multiples of **one column thickness (lower diameter)**:
 

@@ -15,7 +15,9 @@ CHAPTER XIX
 
 An architect must be exceedingly prudent in advising patrons on buildings and in laying out their models (*in la puntatione de' lor modelli*), lest he lead his patron into useless and ruinous expense.
 
-.. assertion:: Rule for Cramped and Irregular Sites (*Luoghi Angusti*)
+.. rubric:: Rule for Cramped and Irregular Sites (*Luoghi Angusti*)
+
+.. assertion::
 
    1. As our :person:`**Vitruvius** <vitruvius>` warns (V.6.7, VI.2), it often happens that the **narrowness or irregularity of the site** (*l'angustia e strettezza del luogo*) prevents the architect from executing all the theoretical symmetries that belong to a free-standing temple or palace.
    2. Whenever you are thus constrained by an irregular site, **hold fast as closely as possible to the Square and the Circle** (*tenerse al quadro e al tondo*)—the two primary figures born of the **straight line** and the **curved line**!

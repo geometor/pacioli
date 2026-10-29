@@ -19,7 +19,9 @@ CHAPTER XXI
 
    $$\frac{\sqrt{(a + b)^2 + a^2}}{\sqrt{(a + b)^2 + b^2}} = \frac{s_{\text{cube}}}{s_{\text{icosahedron}}}$$
 
-.. assertion:: Numerical Demonstration with Universal Roots (*Radici Legate*)
+.. rubric:: Numerical Demonstration with Universal Roots (*Radici Legate*)
+
+.. assertion::
 
    For example, let $10$ be the quantity divided according to the proportion having a mean and two extremes, so that one part—namely the greater ($a$)—is, as has been said many times, $\sqrt{125} - 5$, and the lesser ($b$) is $15 - \sqrt{125}$.
 
