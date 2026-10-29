@@ -15,6 +15,13 @@ Historical & Mathematical Commentary
 - **Paganini 1509 Marginal Diagram**: Folio 0033 (``f. 9r``) provides diagram ``0033.g2.png`` illustrating the bisected semicircle :math:`adb` and the equatorial square :math:`efgh` with its diagonals and perpendicular axis.
 - **Three Perpendicular Axes**: Notice Step 6: the :term:`octahedron <octahedron>` is spanned by three mutually perpendicular diameters :math:`eg`, :math:`fh`, and :math:`lm` intersecting at the center :math:`k`—a structural property that Pacioli later calls "the glorious sign of the Holy Cross" in ``Cap. XLVI`` when explaining why the :term:`octahedron <octahedron>` cannot be inscribed in the :term:`icosahedron <icosahedron>`.
 
+Constantin Winterberg's Commentary (1889 Edition)
+-------------------------------------------------
+
+- :person:`Winterberg <winterberg>` Footnote 1 (Cap. XXVIII, p. 218): Compare Chapter LXXI on the technical term *cono* (the apex of the pyramid).
+  (:person:`Winterberg <winterberg>` Fussnote 1 (Cap. XXVIII, S. 218): *cfr. Cap. LXXI.*)
+
+
 Philological and Folio Apparatus
 --------------------------------
 

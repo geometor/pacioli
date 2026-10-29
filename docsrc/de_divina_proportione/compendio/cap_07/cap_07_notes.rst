@@ -21,6 +21,48 @@ Historical and Philological Commentary
 
 2. **Christological and Boethian Analogies**: Pacioli extends the theological analogies of Chapter V with a Christological comparison (Christ fulfilling the Mosaic Law, Matthew 5:17, and submitting to Mary and Joseph, Luke 2:51) and quotes the famous Neoplatonic hymn *O qui perpetua mundum ratione gubernas* from :person:`Boethius <boethius>`'s *Consolation of Philosophy* (Book III, metrum 9, line 3): *stabilisque manens dat cuncta moveri* ("remaining unmoved, He gives all things to move").
 
+Constantin Winterberg's Commentary (1889 Edition)
+-------------------------------------------------
+
+.. rubric:: Note 1 (Cap. VII): Equivalence of Pacioli's Initial Characterization with Euclid's Definition of Extreme and Mean Ratio (:ref:`Sachliche Anmerkungen #1 <plates-anmerkungen-en>`, Cap. VII, p. 198, l. 4 from bottom)
+
+Since the definition of continuous division (:term:`extreme and mean ratio <extrema-et-media-ratio>`) according to :person:`Euclid <euclid>` (:cite:`Euclid VI.def.3 <euclid:elements:VI.def.3>`, :cite:`Euclid II.11 <euclid:elements:II.11>`) is stated at the close of Chapter VII—namely, when a given line $ac$ is divided at $b$ into two segments such that the square on the greater segment $ab^2$ equals the rectangle $ac \cdot bc$ contained by the whole line and the lesser segment—we demonstrate its identity with the numerical property stated at the beginning of Chapter VII (:cite:`Euclid XIII.1 <euclid:elements:XIII.1>`):
+
+- **Hypothesis**: Let the line $ac$ be divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $b$, so that $ab^2 = ac \cdot bc$.
+- **Claim**: $\left(ac + \frac{bc}{2}\right)^2 = 5\left(\frac{bc}{2}\right)^2$, or equivalently $\left(ab + \frac{ac}{2}\right)^2 = 5\left(\frac{ac}{2}\right)^2$.
+- **Proof**: By hypothesis, $ab^2 = ac(ac - ab)$, whence
+
+  .. math::
+
+     ac^2 = ab^2 + ab \cdot ac \quad \text{and} \quad ab^2 + ab \cdot ac = ac^2.
+
+  Adding $\left(\frac{ac}{2}\right)^2$ to both sides yields
+
+  .. math::
+
+     \left(ab + \frac{ac}{2}\right)^2 = ab^2 + ab \cdot ac + \left(\frac{ac}{2}\right)^2 = ac^2 + \frac{ac^2}{4} = 5\left(\frac{ac}{2}\right)^2. \quad \text{Q.E.D.}
+
+.. rubric:: Anmerkung 1 (Cap. VII, S. 198): Identität der zu Anfang gegebenen Definition der stetigen Theilung mit der Euklidischen Definition
+
+Da die Definition der stetigen Theilung nach :person:`Euklid <euclid>` gewöhnlich so angegeben wird, wie am Schluss des Capitels gesagt, d. h. wenn die gegebene Linie $ac$ im Punkte $b$ in zwei Abschnitte zerfällt, wovon das Quadrat des grössern $ab^2$ gleich dem Product $ac \cdot bc$ aus der ganzen Länge mal dem kleinern Abschnitte ist, so sei zum Nachweise der Identität der letztern mit der zu Anfang dieses Capitels gegebenen Eigenschaft Folgendes bemerkt:
+
+- **Voraussetzung**: Es sei nach der bekannten :person:`Euklidischen <euclid>` Definition die Linie $ac$ im Punkte $b$ stetig getheilt, so dass $ab^2 = ac \cdot bc$.
+- **Behauptung**: $\left(ab + \frac{ac}{2}\right)^2 = 5\left(\frac{ac}{2}\right)^2$.
+- **Beweis**: Nach Voraussetzung ist $ab^2 = ac(ac - ab)$ oder $ac^2 = ab^2 + ab \cdot ac$. Fügt man rechts und links $\left(\frac{ac}{2}\right)^2$ hinzu, so folgt unmittelbar:
+
+  .. math::
+
+     \left(ab + \frac{ac}{2}\right)^2 = 5\left(\frac{ac}{2}\right)^2. \quad \text{w. z. b. w.}
+
+.. rubric:: Note 2 (Cap. VII): Bisection of the Whole Line and Continuous Division of the Half (:ref:`Sachliche Anmerkungen #2 <plates-anmerkungen-en>`, Cap. VII, p. 198, l. 14 from bottom)
+
+This corollary (:cite:`Euclid XIII.1 <euclid:elements:XIII.1>` / :cite:`Euclid XIII.2 <euclid:elements:XIII.2>`) follows immediately if we bisect the line $ab$ at $c$ ($ac = bc = \frac{1}{2}ab$) and divide $bc$ in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $d$; considering the three parts of the line $ab$, the greater segment of the half-line together with the other half satisfies the fivefold square relation $ad^2 = 5\,ac^2$.
+
+.. rubric:: Anmerkung 2 (Cap. VII, S. 198): Halbirung der Linie und stetige Theilung der Hälfte
+
+Diese Folgerung ergibt sich, indem man sich die Linie $ab$ in $c$ halbirt, und sodann $bc$ im Punkte $d$ auf die gewöhnliche Art stetig getheilt denkt. Betrachtet man dann die drei Theile, aus denen die Linie $ab$ besteht, so ist der zusammengesetzte Abschnitt $ad = ac + cd$.
+
+
 Philological and Folio Apparatus
 --------------------------------
 

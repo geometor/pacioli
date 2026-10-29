@@ -55,6 +55,13 @@ from translations_1_23 import CHAPTERS_1_TO_23
 from translations_24_55 import CHAPTERS_24_TO_55
 from translations_56_71 import CHAPTERS_56_TO_71
 from translations_architectura import ARCHITECTURA_CHAPTERS
+from winterberg_commentary import (
+    WINTERBERG_ALPHABET_FOOTNOTES,
+    WINTERBERG_ANMERKUNGEN,
+    WINTERBERG_INTRO_DE,
+    WINTERBERG_INTRO_EN,
+    get_winterberg_notes_for_chapter,
+)
 
 COMPENDIO_TRANSLATIONS: Dict[int, Dict[str, str]] = {
     **CHAPTERS_1_TO_23,
@@ -105,20 +112,26 @@ def make_heading(text: str, char: str = "=") -> str:
 LIST_ITEM_RE = re.compile(r"^(\s*)([-*+]|\d+\.)\s+")
 
 
+HEADING_UNDERLINE_RE = re.compile(r"^([=\-~^\"'+*#])\1{3,}\s*$")
+
+
 def normalize_rst_lists(text: str) -> str:
     """Ensure blank lines before and after nested or mixed bullet/enumerated lists for valid Docutils RST."""
     lines = text.splitlines()
     out: List[str] = []
     active_list_state: Optional[Tuple[int, str]] = None
 
-    for line in lines:
+    for idx, line in enumerate(lines):
         stripped = line.strip()
         if not stripped:
             out.append(line)
             active_list_state = None
             continue
 
-        m = LIST_ITEM_RE.match(line)
+        next_stripped = lines[idx + 1].strip() if idx + 1 < len(lines) else ""
+        is_heading_title = bool(next_stripped and HEADING_UNDERLINE_RE.match(next_stripped))
+
+        m = None if is_heading_title else LIST_ITEM_RE.match(line)
         if m:
             indent = len(m.group(1))
             kind = "enum" if m.group(2)[0].isdigit() else "bullet"
@@ -316,6 +329,7 @@ def write_chapter_files(
 
     title_en = t_data["title_en"]
     body_en = normalize_rst_lists(t_data["body_en"])
+    winterberg_extra = get_winterberg_notes_for_chapter(part_prefix, cnum)
     philological_footer = (
         "\n\nPhilological and Folio Apparatus\n"
         "--------------------------------\n\n"
@@ -325,7 +339,7 @@ def write_chapter_files(
         f"- **Winterberg 1889 German Source**: ``{ch.get('winterberg_de', 'N/A')}``\n"
         f"- **Marginal Woodcut Diagrams**: {len(diagrams)} figure(s) extracted from the 1509 Venice witness.\n"
     )
-    notes_body = normalize_rst_lists(t_data["notes"] + philological_footer)
+    notes_body = normalize_rst_lists(t_data["notes"] + winterberg_extra + philological_footer)
 
     # Format marginal diagrams block if any
     diag_block = ""
@@ -423,9 +437,51 @@ def write_chapter_files(
     }
 
 
+def build_intro_section() -> None:
+    """Create docsrc/de_divina_proportione/intro/intro_en.rst and intro_de.rst
+    for Constantin Winterberg's 1889 Preface & Critical Introduction (pp. III-V, 1-15).
+    """
+    intro_dir = BOOK_DIR / "intro"
+    intro_dir.mkdir(parents=True, exist_ok=True)
+
+    en_rst = "\n".join(
+        [
+            ":layout: book",
+            ":canonical_id: Winterberg (1889)",
+            ":folio: pp. III–V, 1–15",
+            "",
+            ".. _winterberg-intro-en:",
+            ".. _winterberg-intro:",
+            "",
+            make_heading("Winterberg's Critical Introduction (1889)", "="),
+            ".. rubric:: Preface and Historical-Mathematical Introduction by Constantin Winterberg (Vienna, 1889)",
+            "",
+            normalize_rst_lists(WINTERBERG_INTRO_EN),
+            "",
+        ]
+    )
+    de_rst = "\n".join(
+        [
+            ":layout: book",
+            ":canonical_id: Winterberg (1889)",
+            ":folio: S. III–V, 1–15",
+            "",
+            ".. _winterberg-intro-de:",
+            "",
+            make_heading("Winterbergs Vorwort und Einleitung (1889)", "="),
+            ".. rubric:: Quellenschriften für Kunstgeschichte und Kunsttechnik, Neue Folge, II. Band (Wien, 1889)",
+            "",
+            normalize_rst_lists(WINTERBERG_INTRO_DE),
+            "",
+        ]
+    )
+    (intro_dir / "intro_en.rst").write_text(en_rst, encoding="utf-8")
+    (intro_dir / "intro_de.rst").write_text(de_rst, encoding="utf-8")
+
+
 def build_plates_section(conc: Dict[str, Any]) -> None:
     """Create separate language RST files in docsrc/de_divina_proportione/plates/
-    for Alphabet, Architectural, and Polyhedra plates.
+    for Alphabet, Architectural, Polyhedra plates, and Winterberg's 1889 Sachliche Anmerkungen.
     """
     plates_dir = BOOK_DIR / "plates"
     plates_dir.mkdir(parents=True, exist_ok=True)
@@ -484,11 +540,12 @@ def build_plates_section(conc: Dict[str, Any]) -> None:
         title = item["title"]
         gfx = folios_conc[fstr]["graphics"]
         gfile = gfx[0]["file"] if gfx else f"{fstr}.g1.png"
+        alpha_fn = WINTERBERG_ALPHABET_FOOTNOTES.get(let_id)
 
-        for target_lines, txt in [
-            (it_lines, item["text_it"]),
-            (de_lines, item["text_de"]),
-            (en_lines, ALPHABET_EN.get(let_id, item["text_it"])),
+        for lang_key, target_lines, txt in [
+            ("it", it_lines, item["text_it"]),
+            ("de", de_lines, item["text_de"]),
+            ("en", en_lines, ALPHABET_EN.get(let_id, item["text_it"])),
         ]:
             target_lines.append(make_heading(f"{title} (Folio {fstr})", "-"))
             target_lines.append(f".. folio:: {fstr}")
@@ -500,6 +557,18 @@ def build_plates_section(conc: Dict[str, Any]) -> None:
             target_lines.append("")
             target_lines.append(txt)
             target_lines.append("")
+            if alpha_fn and lang_key in ("en", "de"):
+                note_hdr = (
+                    "**Winterberg Critical Footnote (1889)**:"
+                    if lang_key == "en"
+                    else "**Anmerkung von Constantin Winterberg (1889)**:"
+                )
+                target_lines.append(f".. note:: {note_hdr}")
+                target_lines.append("")
+                fn_text = alpha_fn[0] if lang_key == "en" else alpha_fn[1]
+                for fn_line in fn_text.splitlines():
+                    target_lines.append(f"   {fn_line}" if fn_line.strip() else "")
+                target_lines.append("")
 
     (plates_dir / "alphabet_en.rst").write_text("\n".join(en_lines), encoding="utf-8")
     (plates_dir / "alphabet_it.rst").write_text("\n".join(it_lines), encoding="utf-8")
@@ -619,16 +688,74 @@ def build_plates_section(conc: Dict[str, Any]) -> None:
     (plates_dir / "polyhedra_en.rst").write_text("\n".join(pen_lines), encoding="utf-8")
     (plates_dir / "polyhedra_la.rst").write_text("\n".join(la_lines), encoding="utf-8")
 
-    # 4. plates/index.rst
+    # 4. Winterberg's 17 Sachliche Anmerkungen: anmerkungen_en.rst and anmerkungen_de.rst
+    anm_en_lines = [
+        ":layout: book",
+        ":canonical_id: Appendix IV",
+        ":folio: Winterberg pp. 338–352",
+        "",
+        ".. _plates-anmerkungen-en:",
+        ".. _plates-anmerkungen:",
+        "",
+        make_heading("Appendix IV: Winterberg's Mathematical Commentary (1889)", "="),
+        ".. rubric:: Substantive Mathematical Notes (Sachliche Anmerkungen 1–17) by Constantin Winterberg (Vienna, 1889, pp. 338–352)",
+        "",
+        "Constantin Winterberg appended seventeen substantive mathematical notes (*Sachliche Anmerkungen*, pp. 338–352) "
+        "to his 1889 Vienna edition, reformulating Pacioli's numerical examples in modern algebraic notation, "
+        "correcting Pacioli's claim in :ref:`Cap. XLVI <compendio-cap_46-en>` regarding the inscription of the octahedron "
+        "in the icosahedron, and establishing a complete projective and polar-reciprocity theory of the twenty-one "
+        "mutual inscriptions among the five Platonic solids.",
+        "",
+    ]
+    anm_de_lines = [
+        ":layout: book",
+        ":canonical_id: Appendix IV",
+        ":folio: Winterberg S. 338–352",
+        "",
+        ".. _plates-anmerkungen-de:",
+        "",
+        make_heading("Anhang IV: Sachliche Anmerkungen (Winterberg 1889)", "="),
+        ".. rubric:: Mathematischer Kommentar (Anmerkungen 1–17) von Constantin Winterberg (Wien, 1889, S. 338–352)",
+        "",
+        "Vollständiger mathematischer Anhang der siebzehn *Sachlichen Anmerkungen* (S. 338–352) aus Constantin "
+        "Winterbergs Wiener Ausgabe von 1889 mit wiederhergestellten algebraischen und trigonometrischen Formeln.",
+        "",
+    ]
+    for note in WINTERBERG_ANMERKUNGEN:
+        chap_refs = []
+        for part_p, cnum_p in note["chapters"]:
+            chap_refs.append(f":ref:`Cap. {cnum_p} <{part_p}-cap_{cnum_p:02d}-en>`")
+        refs_str = ", ".join(chap_refs)
+
+        anm_en_lines.append(f".. _winterberg-note-{note['num']}-en:")
+        anm_en_lines.append("")
+        anm_en_lines.append(make_heading(note["title_en"], "-"))
+        anm_en_lines.append(f"**Corresponding Chapters**: {refs_str}")
+        anm_en_lines.append("")
+        anm_en_lines.append(normalize_rst_lists(note["text_en"]))
+        anm_en_lines.append("")
+
+        anm_de_lines.append(f".. _winterberg-note-{note['num']}-de:")
+        anm_de_lines.append("")
+        anm_de_lines.append(make_heading(note["title_de"], "-"))
+        anm_de_lines.append(f"**Zugehörige Kapitel**: {refs_str}")
+        anm_de_lines.append("")
+        anm_de_lines.append(normalize_rst_lists(note["text_de"]))
+        anm_de_lines.append("")
+
+    (plates_dir / "anmerkungen_en.rst").write_text("\n".join(anm_en_lines), encoding="utf-8")
+    (plates_dir / "anmerkungen_de.rst").write_text("\n".join(anm_de_lines), encoding="utf-8")
+
+    # 5. plates/index.rst
     p_idx = "\n".join(
         [
             ":layout: book",
-            ":title: Appendices: Woodcut Plates (1509)",
+            ":title: Appendices: Woodcut Plates & Mathematical Commentary",
             "",
             ".. _plates-index:",
             "",
-            make_heading("Appendices: Woodcut Plates of the 1509 Paganini Edition", "="),
-            ".. rubric:: Roman Geometric Alphabet, Architectural Plates, Arbor Proportionis, and Leonardo da Vinci's Sixty Polyhedra",
+            make_heading("Appendices: Woodcut Plates (1509) & Mathematical Commentary (1889)", "="),
+            ".. rubric:: Roman Geometric Alphabet, Architectural Plates, Leonardo da Vinci's Sixty Polyhedra, and Winterberg's Sachliche Anmerkungen",
             "",
             "1. **Appendix I — The Roman Geometric Alphabet (Folios 0139–0183)**:\n"
             "   [:ref:`English <plates-alphabet-en>` · :ref:`Italiano (1509) <plates-alphabet-it>` · :ref:`Deutsch (1889) <plates-alphabet-de>`]",
@@ -636,6 +763,8 @@ def build_plates_section(conc: Dict[str, Any]) -> None:
             "   [:ref:`English <plates-architectural-en>` · :ref:`Italiano (1509) <plates-architectural-it>` · :ref:`Deutsch (1889) <plates-architectural-de>`]",
             "3. **Appendix III — Polyhedra Plates by Leonardo da Vinci (Plates I–LIX, Folios 0187–0309)**:\n"
             "   [:ref:`English <plates-polyhedra-en>` · :ref:`Latin / Greek (1509) <plates-polyhedra-la>`]",
+            "4. **Appendix IV — Winterberg's Substantive Mathematical Notes (*Sachliche Anmerkungen* 1–17, 1889, pp. 338–352)**:\n"
+            "   [:ref:`English <plates-anmerkungen-en>` · :ref:`Deutsch (1889) <plates-anmerkungen-de>`]",
             "",
             ".. toctree::",
             "   :maxdepth: 1",
@@ -644,6 +773,7 @@ def build_plates_section(conc: Dict[str, Any]) -> None:
             "   alphabet_en",
             "   architectural_en",
             "   polyhedra_en",
+            "   anmerkungen_en",
             "",
             ".. toctree::",
             "   :maxdepth: 1",
@@ -655,6 +785,7 @@ def build_plates_section(conc: Dict[str, Any]) -> None:
             "   architectural_it",
             "   architectural_de",
             "   polyhedra_la",
+            "   anmerkungen_de",
             "",
         ]
     )
@@ -675,6 +806,9 @@ def main() -> None:
 
     BOOK_DIR.mkdir(parents=True, exist_ok=True)
     initial_map, diagram_map = build_chapter_graphic_assignments(folios_conc)
+
+    # 0. Build Winterberg's 1889 Critical Introduction (intro/intro_en.rst & intro/intro_de.rst)
+    build_intro_section()
 
     # 1. Build Part I: Compendio de Divina Proportione (cap_01..cap_71)
     comp_dir = BOOK_DIR / "compendio"
@@ -845,9 +979,10 @@ def main() -> None:
         "- **English (GEOMETOR Edition)**: Unabridged scholarly English translation with Euclidean dependency markup (``:just:``, ``:g:``, ``.. enunciation::``, ``.. assertion::``, ``.. qed::``, ``.. folio::``) across all chapters and plates.",
         "- **Italiano (1509 / 1889)**: Diplomatic Italian text from the 1509 Venice Paganini edition and Constantin Winterberg's 1889 Vienna edition.",
         "- **Deutsch (1889)**: Constantin Winterberg's German critical translation (*Quellenschriften für Kunstgeschichte*, Vienna, 1889).",
-        "- **Notes & Commentary**: Historical, prosopographical, architectural, and mathematical apparatus for every chapter.",
+        "- **Notes & Commentary**: Historical, prosopographical, architectural, and mathematical apparatus for every chapter, incorporating Constantin Winterberg's 1889 *Vorwort & Einleitung* and all seventeen *Sachliche Anmerkungen*.",
         "",
         make_heading("Conspectus Totius Operis", "-"),
+        "- :ref:`Winterberg's Critical Introduction (Vienna, 1889, pp. III–V, 1–15) <winterberg-intro-en>` ([:ref:`English <winterberg-intro-en>` · :ref:`Deutsch <winterberg-intro-de>`])",
         "- :ref:`Part I: Compendio de Divina Proportione (Chapters I–LXXI, Folios 0017–0061) <compendio-index>`",
         "  - **Section 1 (Cap. I–VI)**: Dedicatory Epistle, Eulogy of Mathematics, Definition of the Divine Proportion, and Its Five Divine Attributes",
         "  - **Section 2 (Cap. VII–XXIII)**: The Thirteen Marvelous Effects of the Divine Proportion in Lines and Regular Polygons (:just:`XIII.1`–:just:`XIII.12`, :just:`X.73`, :just:`X.76`)",
@@ -857,16 +992,28 @@ def main() -> None:
         "  - **Prohemio**: Dedication to the Stonemasons of Borgo Sansepolcro, Promise of Piero della Francesca's Perspective, and Roll of Honor of the Captains of Sansepolcro",
         "  - **Chapters I–III**: Vitruvian Human Proportions, the Head in the Equilateral Triangle (:just:`I.1`), the Painter's Net (*Rete*), and the Perfect Numbers 6, 10, and 16 (:just:`IX.36`)",
         "  - **Chapters IV–XX**: The Classical Orders (Ionic, Doric, Corinthian), Bases, Stylobates, Stereobates, Survey of Columns Across Italy, Epistyles, Friezes, Cornices, the *Porta Speciosa*, Polyhedra in Architecture, and Superimposed Columns",
-        "- :ref:`Appendices: Roman Alphabet, Architectural Plates, and Leonardo Polyhedra Plates (Folios 0137–0311) <plates-index>`",
+        "- :ref:`Appendices: Roman Alphabet, Architectural Plates, Leonardo Polyhedra Plates & Winterberg's Mathematical Commentary <plates-index>`",
+        "  - **Appendix I**: :ref:`The Roman Geometric Alphabet (Folios 0139–0183) <plates-alphabet-en>`",
+        "  - **Appendix II**: :ref:`Architectural Plates & Arbor Proportionis (Folios 0137, 0185, 0213, 0215, 0311) <plates-architectural-en>`",
+        "  - **Appendix III**: :ref:`Polyhedra Plates by Leonardo da Vinci (Plates I–LIX, Folios 0187–0309) <plates-polyhedra-en>`",
+        "  - **Appendix IV**: :ref:`Winterberg's Substantive Mathematical Notes (Sachliche Anmerkungen 1–17, 1889, pp. 338–352) <plates-anmerkungen-en>`",
         "- **Scholarly Apparatus**: :ref:`Bibliography & Cited Works <bibliography>` · :ref:`Index of Persons <persons>` · :ref:`Technical Glossary <glossary>`",
         "",
         ".. toctree::",
         "   :maxdepth: 2",
         "   :caption: Contents",
         "",
+        "   intro/intro_en",
         "   compendio/index",
         "   architectura/index",
         "   plates/index",
+        "",
+        ".. toctree::",
+        "   :maxdepth: 1",
+        "   :hidden:",
+        "   :caption: Companion Language Tracks",
+        "",
+        "   intro/intro_de",
         "",
         ".. toctree::",
         "   :maxdepth: 1",
@@ -908,19 +1055,21 @@ def main() -> None:
         "perspective by **Leonardo da Vinci**, Vitruvian architecture, and the geometric construction of the Roman alphabet.",
         "",
         "* **Edition Parts**: :ref:`Conspectus Operis <de-divina-proportione-index>` · "
+        ":ref:`Winterberg's Critical Introduction (1889) <winterberg-intro-en>` · "
         ":ref:`Part I: Compendio (Cap. I–LXXI) <compendio-index>` · "
         ":ref:`Part II: Architectura (Prohemio & Cap. I–XX) <architectura-index>` · "
-        ":ref:`Appendices: Woodcut Plates (Alphabet, Architecture, Polyhedra) <plates-index>`",
+        ":ref:`Appendices: Woodcut Plates & Mathematical Commentary <plates-index>`",
         "* **Language Tracks**: Synchronized **English**, **Italiano (1509)**, **Deutsch (1889)**, **Latin / Greek (1509)**, and **Critical Notes** with track-preserving navigation.",
         "* **Scholarly Apparatus**: :ref:`Bibliography & Cited Works <bibliography>` · "
-        ":ref:`Index of Persons <persons>` · :ref:`Technical Glossary <glossary>`",
+        ":ref:`Index of Persons <persons>` · :ref:`Technical Glossary <glossary>` · "
+        ":ref:`Winterberg's Sachliche Anmerkungen (1–17) <plates-anmerkungen-en>`",
         "",
     ]
     (DOCSRC / "index.rst").write_text("\n".join(portal_lines), encoding="utf-8")
 
     print(
-        f"Built multi-language Book Codex in {BOOK_DIR} with {len(comp_meta)} Compendio chapters, "
-        f"{len(arch_meta)} Architectura chapters, and Plates section."
+        f"Built multi-language Book Codex in {BOOK_DIR} with Winterberg Intro, {len(comp_meta)} Compendio chapters, "
+        f"{len(arch_meta)} Architectura chapters, and 4 Appendices."
     )
 
 

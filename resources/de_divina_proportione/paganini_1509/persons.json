@@ -1856,6 +1856,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Campanus"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_41/cap_41_notes",
         "title": "CHAPTER XLI — Critical Commentary & Notes",
         "display": "Campanus"
@@ -1918,6 +1924,18 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_67/cap_67_en",
         "title": "CHAPTER LXVII",
+        "display": "Campanus"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Campanus"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
         "display": "Campanus"
       }
     ]
@@ -4236,6 +4254,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_notes",
+        "title": "CHAPTER XXIX — Critical Commentary & Notes",
+        "display": "Euclid"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_30/cap_30_en",
         "title": "CHAPTER XXX",
         "display": "Euclid"
@@ -4248,6 +4272,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Euclid"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_41/cap_41_notes",
         "title": "CHAPTER XLI — Critical Commentary & Notes",
         "display": "Euclid"
@@ -4256,6 +4286,12 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_45/cap_45_notes",
         "title": "CHAPTER XLV — Critical Commentary & Notes",
+        "display": "Euclid"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
         "display": "Euclid"
       },
       {
@@ -4293,6 +4329,30 @@
         "doc": "de_divina_proportione/compendio/cap_67/cap_67_de",
         "title": "CAPITEL LXVII",
         "display": "Euklid"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Euklid"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Euclid"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_de",
+        "title": "Anhang IV: Sachliche Anmerkungen (Winterberg 1889)",
+        "display": "Euklid"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
+        "display": "Euclid"
       },
       {
         "work": "divina_proportione",
@@ -4549,6 +4609,12 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_02/cap_02_en",
         "title": "CHAPTER II",
+        "display": "Francesco Sforza"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
         "display": "Francesco Sforza"
       }
     ]
@@ -5318,6 +5384,18 @@
         "doc": "de_divina_proportione/compendio/cap_33/cap_33_en",
         "title": "CHAPTER XXXIII",
         "display": "Guidobaldo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Guidobaldo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Guidobaldo da Montefeltro"
       }
     ]
   },
@@ -5487,6 +5565,18 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_32/cap_32_notes",
         "title": "CHAPTER XXXII — Critical Commentary & Notes",
+        "display": "Hypsicles"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Hypsicles"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
         "display": "Hypsicles"
       }
     ]
@@ -6862,6 +6952,18 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Lionardo da Vinci"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Leonardo da Vinci"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/plates/polyhedra_en",
         "title": "Appendix III: Polyhedra Plates by Leonardo da Vinci",
         "display": "Leonardo da Vinci"
@@ -7226,6 +7328,12 @@
         "doc": "de_divina_proportione/index",
         "title": "DE DIVINA PROPORTIONE",
         "display": "Ludovico Sforza"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Ludovico Maria Sforza"
       }
     ]
   },
@@ -7731,6 +7839,18 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Fra Luca Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Fra Luca Pacioli"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "intro",
         "title": "intro",
         "display": "Fra Luca Pacioli"
@@ -7838,6 +7958,12 @@
         "doc": "de_divina_proportione/index",
         "title": "DE DIVINA PROPORTIONE",
         "display": "Paganino de' Paganini"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Paganino de' Paganini"
       }
     ]
   },
@@ -7851,7 +7977,20 @@
     ],
     "bib_anchor": "bib-pappus",
     "occurrences": [],
-    "work_occurrences": []
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Pappus"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
+        "display": "Pappus"
+      }
+    ]
   },
   "parrhasius": {
     "name": "Parrhasius of Ephesus",
@@ -8179,6 +8318,18 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Piero della Francesca"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Piero della Francesca"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_54/cap_54_notes",
         "title": "CHAPTER LIV — Critical Commentary & Notes",
         "display": "Piero della Francesca"
@@ -8193,6 +8344,24 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/index",
         "title": "DE DIVINA PROPORTIONE",
+        "display": "Piero della Francesca"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Piero della Francesca"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Piero della Francesca"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
         "display": "Piero della Francesca"
       }
     ]
@@ -9819,6 +9988,18 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Vitruv"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Vitruvius"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/plates/architectural_de",
         "title": "Anhang II: Architekturtafeln und Arbor Proportionis",
         "display": "Vitruv"
@@ -10499,6 +10680,36 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_05/cap_05_notes",
+        "title": "CHAPTER V — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_06/cap_06_notes",
+        "title": "CHAPTER VI — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_14/cap_14_notes",
+        "title": "CHAPTER XIV — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_16/cap_16_notes",
+        "title": "CHAPTER XVI — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_17/cap_17_notes",
+        "title": "CHAPTER XVII — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_01/cap_01_notes",
         "title": "CHAPTER I — Critical Commentary & Notes",
         "display": "Winterberg"
@@ -10511,8 +10722,62 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_26/cap_26_notes",
+        "title": "CHAPTER XXVI — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_28/cap_28_notes",
+        "title": "CHAPTER XXVIII — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_33/cap_33_notes",
+        "title": "CHAPTER XXXIII — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_39/cap_39_notes",
+        "title": "CHAPTER XXXIX — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_41/cap_41_notes",
+        "title": "CHAPTER XLI — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_48/cap_48_notes",
+        "title": "CHAPTER XLVIII — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_60/cap_60_notes",
+        "title": "CHAPTER LX — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_65/cap_65_notes",
+        "title": "CHAPTER LXV — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/index",
         "title": "DE DIVINA PROPORTIONE",
+        "display": "Constantin Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
         "display": "Constantin Winterberg"
       },
       {

@@ -191,14 +191,50 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
+        "title": "CHAPTER XLVII — Critical Commentary & Notes",
+        "display": "abscisi"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_48/cap_48_en",
         "title": "CHAPTER XLVIII",
         "display": "abscisi"
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_48/cap_48_notes",
+        "title": "CHAPTER XLVIII — Critical Commentary & Notes",
+        "display": "abscisi"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_49/cap_49_notes",
+        "title": "CHAPTER XLIX — Critical Commentary & Notes",
+        "display": "abscisi"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_50/cap_50_notes",
+        "title": "CHAPTER L — Critical Commentary & Notes",
+        "display": "abscisi"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_51/cap_51_notes",
+        "title": "CHAPTER LI — Critical Commentary & Notes",
+        "display": "abscisi"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_52/cap_52_it",
         "title": "CAPITOLO LII",
+        "display": "abscisi"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_52/cap_52_notes",
+        "title": "CHAPTER LII — Critical Commentary & Notes",
         "display": "abscisi"
       },
       {
@@ -223,6 +259,18 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_69/cap_69_it",
         "title": "CAPITOLO LXIX",
+        "display": "abscisi"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "abscisi"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
         "display": "abscisi"
       },
       {
@@ -1122,6 +1170,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_notes",
+        "title": "CHAPTER XXIX — Critical Commentary & Notes",
+        "display": "catheti"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_30/cap_30_it",
         "title": "CAPITOLO XXX",
         "display": "perpendiculare"
@@ -1143,6 +1197,12 @@
         "doc": "de_divina_proportione/compendio/cap_71/cap_71_it",
         "title": "CAPITOLO LXXI",
         "display": "perpendiculare"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
+        "display": "catheti"
       }
     ]
   },
@@ -1920,8 +1980,20 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_26/cap_26_notes",
+        "title": "CHAPTER XXVI — Critical Commentary & Notes",
+        "display": "corausto"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_45/cap_45_en",
         "title": "CHAPTER XLV",
+        "display": "corausto"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_48/cap_48_notes",
+        "title": "CHAPTER XLVIII — Critical Commentary & Notes",
         "display": "corausto"
       },
       {
@@ -2960,6 +3032,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_27/cap_27_notes",
+        "title": "CHAPTER XXVII — Critical Commentary & Notes",
+        "display": "Diagonale"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_35/cap_35_de",
         "title": "CAPITEL XXXV",
         "display": "Diagonale"
@@ -2974,6 +3052,12 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_71/cap_71_de",
         "title": "CAPITEL LXXI",
+        "display": "Diagonale"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_de",
+        "title": "Anhang IV: Sachliche Anmerkungen (Winterberg 1889)",
         "display": "Diagonale"
       }
     ]
@@ -3574,6 +3658,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Divina proportione"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_41/cap_41_en",
         "title": "CHAPTER XLI",
         "display": "Divine Proportion"
@@ -3598,6 +3688,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Divina proportione"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_51/cap_51_en",
         "title": "CHAPTER LI",
         "display": "Divine Proportion"
@@ -3619,6 +3715,18 @@
         "doc": "de_divina_proportione/index",
         "title": "DE DIVINA PROPORTIONE",
         "display": "Divine Proportion"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Divina proportione"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_de",
+        "title": "Anhang IV: Sachliche Anmerkungen (Winterberg 1889)",
+        "display": "Divina proportione"
       },
       {
         "work": "divina_proportione",
@@ -4448,6 +4556,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Dodecahedron"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_39/cap_39_de",
         "title": "CAPITEL XXXIX",
         "display": "Dodekaeder"
@@ -4616,9 +4730,39 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
+        "title": "CHAPTER XLVII — Critical Commentary & Notes",
+        "display": "Dodecahedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_48/cap_48_notes",
+        "title": "CHAPTER XLVIII — Critical Commentary & Notes",
+        "display": "Dodecahedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_49/cap_49_notes",
+        "title": "CHAPTER XLIX — Critical Commentary & Notes",
+        "display": "Dodecahedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_50/cap_50_notes",
+        "title": "CHAPTER L — Critical Commentary & Notes",
+        "display": "Dodecahedron"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_51/cap_51_en",
         "title": "CHAPTER LI",
         "display": "duodecedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_51/cap_51_notes",
+        "title": "CHAPTER LI — Critical Commentary & Notes",
+        "display": "Dodecahedron"
       },
       {
         "work": "divina_proportione",
@@ -4703,6 +4847,24 @@
         "doc": "de_divina_proportione/compendio/index",
         "title": "Part I: Compendio de Divina Proportione (Chapters I–LXXI)",
         "display": "Duodecedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "dodecahedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_de",
+        "title": "Anhang IV: Sachliche Anmerkungen (Winterberg 1889)",
+        "display": "Dodekaeder"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
+        "display": "dodecahedron"
       },
       {
         "work": "divina_proportione",
@@ -7369,8 +7531,20 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_12/cap_12_notes",
+        "title": "CHAPTER XII — Critical Commentary & Notes",
+        "display": "extreme and mean ratio"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_13/cap_13_notes",
         "title": "CHAPTER XIII — Critical Commentary & Notes",
+        "display": "extreme and mean ratio"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_14/cap_14_notes",
+        "title": "CHAPTER XIV — Critical Commentary & Notes",
         "display": "extreme and mean ratio"
       },
       {
@@ -7431,6 +7605,18 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_44/cap_44_en",
         "title": "CHAPTER XLIV",
+        "display": "extreme and mean ratio"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "extreme and mean ratio"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
         "display": "extreme and mean ratio"
       },
       {
@@ -8533,6 +8719,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Icosahedron"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_39/cap_39_de",
         "title": "CAPITEL XXXIX",
         "display": "Ikosaeder"
@@ -8665,6 +8857,30 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
+        "title": "CHAPTER XLVII — Critical Commentary & Notes",
+        "display": "Icosahedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_48/cap_48_notes",
+        "title": "CHAPTER XLVIII — Critical Commentary & Notes",
+        "display": "Icosahedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_49/cap_49_notes",
+        "title": "CHAPTER XLIX — Critical Commentary & Notes",
+        "display": "Icosahedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_50/cap_50_notes",
+        "title": "CHAPTER L — Critical Commentary & Notes",
+        "display": "Icosahedron"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_51/cap_51_de",
         "title": "CAPITEL LI",
         "display": "Ikosaeder"
@@ -8698,6 +8914,12 @@
         "doc": "de_divina_proportione/compendio/cap_52/cap_52_it",
         "title": "CAPITOLO LII",
         "display": "ycocedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_52/cap_52_notes",
+        "title": "CHAPTER LII — Critical Commentary & Notes",
+        "display": "Icosahedron"
       },
       {
         "work": "divina_proportione",
@@ -8746,6 +8968,30 @@
         "doc": "de_divina_proportione/compendio/index",
         "title": "Part I: Compendio de Divina Proportione (Chapters I–LXXI)",
         "display": "Ycocedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Ikosaeder"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "icosahedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_de",
+        "title": "Anhang IV: Sachliche Anmerkungen (Winterberg 1889)",
+        "display": "Ikosaeders"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
+        "display": "icosahedron"
       },
       {
         "work": "divina_proportione",
@@ -10145,6 +10391,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_39/cap_39_notes",
+        "title": "CHAPTER XXXIX — Critical Commentary & Notes",
+        "display": "octahedron"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_40/cap_40_notes",
         "title": "CHAPTER XL — Critical Commentary & Notes",
         "display": "octahedron"
@@ -10205,9 +10457,27 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
+        "title": "CHAPTER XLVII — Critical Commentary & Notes",
+        "display": "Octahedron"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_48/cap_48_en",
         "title": "CHAPTER XLVIII",
         "display": "octocedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_48/cap_48_notes",
+        "title": "CHAPTER XLVIII — Critical Commentary & Notes",
+        "display": "Octahedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_49/cap_49_notes",
+        "title": "CHAPTER XLIX — Critical Commentary & Notes",
+        "display": "Octahedron"
       },
       {
         "work": "divina_proportione",
@@ -10247,6 +10517,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_51/cap_51_notes",
+        "title": "CHAPTER LI — Critical Commentary & Notes",
+        "display": "Octahedron"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_52/cap_52_de",
         "title": "CAPITEL LII",
         "display": "Oktaeders"
@@ -10256,6 +10532,12 @@
         "doc": "de_divina_proportione/compendio/cap_52/cap_52_it",
         "title": "CAPITOLO LII",
         "display": "octocedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_52/cap_52_notes",
+        "title": "CHAPTER LII — Critical Commentary & Notes",
+        "display": "Octahedron"
       },
       {
         "work": "divina_proportione",
@@ -10298,6 +10580,30 @@
         "doc": "de_divina_proportione/compendio/index",
         "title": "Part I: Compendio de Divina Proportione (Chapters I–LXXI)",
         "display": "Octocedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Oktaeders"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "octahedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_de",
+        "title": "Anhang IV: Sachliche Anmerkungen (Winterberg 1889)",
+        "display": "Oktaeder"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
+        "display": "octahedron"
       },
       {
         "work": "divina_proportione",
@@ -10607,8 +10913,44 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
+        "title": "CHAPTER XLVII — Critical Commentary & Notes",
+        "display": "Stella Octangula"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_48/cap_48_notes",
+        "title": "CHAPTER XLVIII — Critical Commentary & Notes",
+        "display": "Stella Octangula"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_49/cap_49_notes",
+        "title": "CHAPTER XLIX — Critical Commentary & Notes",
+        "display": "Stella Octangula"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_50/cap_50_notes",
         "title": "CHAPTER L — Critical Commentary & Notes",
+        "display": "Stella Octangula"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_51/cap_51_notes",
+        "title": "CHAPTER LI — Critical Commentary & Notes",
+        "display": "Stella Octangula"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_52/cap_52_notes",
+        "title": "CHAPTER LII — Critical Commentary & Notes",
+        "display": "Stella Octangula"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
         "display": "Stella Octangula"
       },
       {
@@ -11385,6 +11727,12 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/architectura/cap_17/cap_17_en",
         "title": "CHAPTER XVII",
+        "display": "Porta Speciosa"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_17/cap_17_notes",
+        "title": "CHAPTER XVII — Critical Commentary & Notes",
         "display": "Porta Speciosa"
       },
       {
@@ -12414,9 +12762,21 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Quintessence"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_55/cap_55_en",
         "title": "CHAPTER LV",
         "display": "fifth essence"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
+        "display": "Quintessence"
       }
     ]
   },
@@ -12951,6 +13311,18 @@
         "doc": "de_divina_proportione/index",
         "title": "DE DIVINA PROPORTIONE",
         "display": "Borgo Sansepolcro"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Borgo San Sepolcro"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Borgo Sansepolcro"
       }
     ]
   },
@@ -13072,6 +13444,12 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_69/cap_69_notes",
         "title": "CHAPTER LXIX — Critical Commentary & Notes",
+        "display": "Santa Maria delle Grazie"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
         "display": "Santa Maria delle Grazie"
       }
     ]
@@ -13480,6 +13858,12 @@
         "doc": "de_divina_proportione/compendio/cap_33/cap_33_de",
         "title": "CAPITEL XXXIII",
         "display": "sexquitertia"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_33/cap_33_notes",
+        "title": "CHAPTER XXXIII — Critical Commentary & Notes",
+        "display": "sesquitertia"
       }
     ]
   },
@@ -13661,6 +14045,18 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_69/cap_69_notes",
         "title": "CHAPTER LXIX — Critical Commentary & Notes",
+        "display": "Last Supper"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Cenacolo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
         "display": "Last Supper"
       }
     ]
@@ -14329,6 +14725,54 @@
       }
     ],
     "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
+        "title": "CHAPTER XLVII — Critical Commentary & Notes",
+        "display": "solidum"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_48/cap_48_notes",
+        "title": "CHAPTER XLVIII — Critical Commentary & Notes",
+        "display": "solidum"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_49/cap_49_notes",
+        "title": "CHAPTER XLIX — Critical Commentary & Notes",
+        "display": "solidum"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_50/cap_50_notes",
+        "title": "CHAPTER L — Critical Commentary & Notes",
+        "display": "solidum"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_51/cap_51_notes",
+        "title": "CHAPTER LI — Critical Commentary & Notes",
+        "display": "solidum"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_52/cap_52_notes",
+        "title": "CHAPTER LII — Critical Commentary & Notes",
+        "display": "solidum"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "solidum"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
+        "display": "solidum"
+      },
       {
         "work": "divina_proportione",
         "doc": "de_divina_proportione/plates/polyhedra_en",
@@ -16085,6 +16529,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_41/cap_41_notes",
+        "title": "CHAPTER XLI — Critical Commentary & Notes",
+        "display": "tetrahedron"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_42/cap_42_en",
         "title": "CHAPTER XLII",
         "display": "tetracedron"
@@ -16151,6 +16601,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
+        "title": "CHAPTER XLVII — Critical Commentary & Notes",
+        "display": "Tetraeder"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_48/cap_48_de",
         "title": "CAPITEL XLVIII",
         "display": "Tetraeder"
@@ -16187,6 +16643,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_49/cap_49_notes",
+        "title": "CHAPTER XLIX — Critical Commentary & Notes",
+        "display": "Tetraeder"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_50/cap_50_de",
         "title": "CAPITEL L",
         "display": "Tetraeder"
@@ -16205,6 +16667,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_50/cap_50_notes",
+        "title": "CHAPTER L — Critical Commentary & Notes",
+        "display": "Tetraeder"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_51/cap_51_de",
         "title": "CAPITEL LI",
         "display": "Tetraeder"
@@ -16217,6 +16685,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_51/cap_51_notes",
+        "title": "CHAPTER LI — Critical Commentary & Notes",
+        "display": "Tetraeder"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_52/cap_52_de",
         "title": "CAPITEL LII",
         "display": "Tetraeders"
@@ -16226,6 +16700,12 @@
         "doc": "de_divina_proportione/compendio/cap_52/cap_52_it",
         "title": "CAPITOLO LII",
         "display": "tetracedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_52/cap_52_notes",
+        "title": "CHAPTER LII — Critical Commentary & Notes",
+        "display": "Tetraeder"
       },
       {
         "work": "divina_proportione",
@@ -16286,6 +16766,18 @@
         "doc": "de_divina_proportione/compendio/index",
         "title": "Part I: Compendio de Divina Proportione (Chapters I–LXXI)",
         "display": "Tetracedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_de",
+        "title": "Anhang IV: Sachliche Anmerkungen (Winterberg 1889)",
+        "display": "Tetraeder"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
+        "display": "tetrahedron"
       },
       {
         "work": "divina_proportione",
@@ -17313,6 +17805,54 @@
       }
     ],
     "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
+        "title": "CHAPTER XLVII — Critical Commentary & Notes",
+        "display": "vacuum"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_48/cap_48_notes",
+        "title": "CHAPTER XLVIII — Critical Commentary & Notes",
+        "display": "vacuum"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_49/cap_49_notes",
+        "title": "CHAPTER XLIX — Critical Commentary & Notes",
+        "display": "vacuum"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_50/cap_50_notes",
+        "title": "CHAPTER L — Critical Commentary & Notes",
+        "display": "vacuum"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_51/cap_51_notes",
+        "title": "CHAPTER LI — Critical Commentary & Notes",
+        "display": "vacuum"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_52/cap_52_notes",
+        "title": "CHAPTER LII — Critical Commentary & Notes",
+        "display": "vacuum"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "vacuum"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
+        "display": "vacuum"
+      },
       {
         "work": "divina_proportione",
         "doc": "de_divina_proportione/plates/polyhedra_en",

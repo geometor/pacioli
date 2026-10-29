@@ -20,6 +20,13 @@ Historical & Mathematical Commentary
 
 - Because :math:`V = \frac{1}{3} r_{\text{in}} \cdot A`, any two dual regular solids inscribed in the same sphere have :math:`V_{1} : V_{2} = A_{1} : A_{2}`.
 
+Constantin Winterberg's Commentary (1889 Edition)
+-------------------------------------------------
+
+- :person:`Winterberg <winterberg>` Footnote 1 (Cap. XXXIII, p. 226): Pacioli's traditional Boethian proportion names (:term:`*sesquitertia* <sexquitertia>` = $4:3$, etc.) are retained here for brevity.
+  (:person:`Winterberg <winterberg>` Fussnote 1 (Cap. XXXIII, S. 226): *Der Ausdruck ist hier der Kürze wegen beibehalten = 4:3.*)
+
+
 Philological and Folio Apparatus
 --------------------------------
 

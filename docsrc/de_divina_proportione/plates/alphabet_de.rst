@@ -105,6 +105,10 @@ Lettera H (Folio 0153)
 
 Dieser Buchstabe H wird aus dem Kreise und seinem Vierseit abgeleitet. Seine dicken Beine werden mittelst der Kreuzungspunkte gemacht, d. h. wo die Peripherie des Kreises und die Diagonalen des Quadrats sich schneiden. Die Dicke besagter Beine muss einen der neun Theile der Höhe betragen, und das mittlere wird mittelst des Durchmessers gemacht. Seine Dicke muss den dritten Theil des dicken Beines betragen, wie der Querbalken des A.
 
+.. note:: **Anmerkung von Constantin Winterberg (1889)**:
+
+   **Winterberg Anmerkung (1889, S. 358)**: *\*) Soll heissen: wo Peripherie des Kreises und Diagonalen des Quadrats sich schneiden.*
+
 Lettera I / J (Folio 0155)
 --------------------------
 
@@ -164,6 +168,10 @@ Lettera N (Folio 0163)
    Lettera N (Folio 0163)
 
 Dieser Buchstabe N wird aus seinem Kreise und aus dem Quadrat entnommen. Das erste Bein muss ausserhalb des Durchschnittes der Durchmesser liegen. Das mittlere Querbein muss einen der neun Theile, diametral genommen, dick sein. Das dritte Bein muss ausserhalb des Kreuzungspunktes liegen. Erstes und letztes Bein müssen halb so dick sein wie das dicke Bein, nämlich eine halbe Kopflänge (1/18 der Quadratseite).
+
+.. note:: **Anmerkung von Constantin Winterberg (1889)**:
+
+   **Winterberg Anmerkung (1889, S. 359)**: *\*) D. h. 1/18 der Quadratseite.*
 
 Lettera O (primo modo perfectissimo) (Folio 0165)
 -------------------------------------------------
@@ -236,6 +244,10 @@ Lettera S (Folio 0175)
    Lettera S (Folio 0175)
 
 Dieser Buchstabe S wird aus acht Kreisen entnommen und dieses ist sein Bildungsgesetz, wie hier im Beispiel erhellt. Nachdem du von diesen Kreisen mittelst ihrer Parallelen ihre Centra aufgefunden, so wirst du finden, dass die unteren um ein Drittel des Neuntels seines Quadrats grösser seien als die oberen. Der Bauch in der Mitte muss genau den neunten Theil der Höhe dick sein. Die dünneren Theile ein Drittel der Dicke, indem die Köpfe in anmuthiger Form endigen.
+
+.. note:: **Anmerkung von Constantin Winterberg (1889)**:
+
+   **Winterberg Anmerkung (1889, S. 360)**: *\*) In der Figur sind deren nur sechs angegeben.*
 
 Lettera T (Folio 0177)
 ----------------------

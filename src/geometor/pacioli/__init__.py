@@ -33,4 +33,4 @@ __all__ = [
     "detect_margin_figures",
     "extract_from_json",
 ]
-__version__ = "0.3.0"
+__version__ = "0.3.1"

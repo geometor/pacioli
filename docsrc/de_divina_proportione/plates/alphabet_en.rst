@@ -105,6 +105,10 @@ Lettera H (Folio 0153)
 
 This letter H is drawn from the circle and its square. Its two thick vertical stems are formed through the intersections where the circumference of the circle and the diagonals of the square cross. The thickness of the said stems is one-ninth of the height, and the crossbar is drawn along the horizontal diameter with a thickness equal to one-third of the thick stem, like the crossbar of the A.
 
+.. note:: **Winterberg Critical Footnote (1889)**:
+
+   **Winterberg Note (1889, p. 358)**: In the 1509 Italian text (*'doue se intersecano li diametri del tondo suo quadro'*), read more precisely: *where the circumference (periphery) of the circle and the diagonals of its square intersect*.
+
 Lettera I / J (Folio 0155)
 --------------------------
 
@@ -164,6 +168,10 @@ Lettera N (Folio 0163)
    Lettera N (Folio 0163)
 
 This letter N is drawn from its circle and square. The first vertical leg stands outside the intersection of the diagonals; the middle diagonal stroke is one-ninth in thickness taken diametrically; the third leg stands outside the intersection. The first and last vertical legs are half the thickness of the thick diagonal stroke, namely half a head [one-eighteenth of the square].
+
+.. note:: **Winterberg Critical Footnote (1889)**:
+
+   **Winterberg Note (1889, p. 359)**: By *'la mita de la gamba grossa cioè duna testa'* ('half the thick leg, namely one head'), Pacioli means $\frac{1}{2} \times \frac{1}{9} = \frac{1}{18}$ of the side of the square.
 
 Lettera O (primo modo perfectissimo) (Folio 0165)
 -------------------------------------------------
@@ -236,6 +244,10 @@ Lettera S (Folio 0175)
    Lettera S (Folio 0175)
 
 This letter S is drawn from eight circles, and this is its law of construction as appears here in the example: finding their centers by means of their parallel lines, you will find the lower circles to be larger than the upper by one-third of a ninth [one twenty-seventh] of its square. The middle belly is exactly one-ninth of the height in thickness, and the thin curves one-third of that thickness, terminating the heads with due grace.
+
+.. note:: **Winterberg Critical Footnote (1889)**:
+
+   **Winterberg Note (1889, p. 360)**: Although the text states that the letter **S** is drawn from *eight* circles (*'se caua de octo tondi'*), in the 1509 woodcut figure (Folio 0175, ``0175.g1.png``) only *six* construction circles are actually drawn.
 
 Lettera T (Folio 0177)
 ----------------------

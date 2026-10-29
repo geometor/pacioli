@@ -557,6 +557,18 @@
         "doc": "de_divina_proportione/compendio/cap_21/cap_21_en",
         "title": "CHAPTER XXI",
         "display": "Campanus XIV.9"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_21/cap_21_notes",
+        "title": "CHAPTER XXI — Critical Commentary & Notes",
+        "display": "Campanus XIV.9"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
+        "display": "Campanus XIV.9"
       }
     ]
   },
@@ -702,6 +714,12 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Campanus XV.13"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_47/cap_47_en",
         "title": "CHAPTER XLVII",
         "display": "Campanus XV.13"
@@ -710,6 +728,12 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
         "title": "CHAPTER XLVII — Critical Commentary & Notes",
+        "display": "Campanus XV.13"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
         "display": "Campanus XV.13"
       }
     ]
@@ -2166,6 +2190,23 @@
       }
     ]
   },
+  "euclid:elements:VI.8": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "VI.8",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_27/cap_27_notes",
+        "title": "CHAPTER XXVII — Critical Commentary & Notes",
+        "display": "Euclid VI.8"
+      }
+    ]
+  },
   "euclid:elements:VI.def.3": {
     "author": "Euclid of Alexandria (fl. c. 300 BC)",
     "author_slug": "euclid",
@@ -3160,8 +3201,20 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_21/cap_21_notes",
+        "title": "CHAPTER XXI — Critical Commentary & Notes",
+        "display": "Euclid XIII.16"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_24/cap_24_notes",
         "title": "CHAPTER XXIV — Critical Commentary & Notes",
+        "display": "Euclid XIII.16"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_notes",
+        "title": "CHAPTER XXIX — Critical Commentary & Notes",
         "display": "Euclid XIII.16"
       },
       {
@@ -3406,6 +3459,12 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_07/cap_07_notes",
+        "title": "CHAPTER VII — Critical Commentary & Notes",
+        "display": "Euclid XIII.2"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_11/cap_11_notes",
         "title": "CHAPTER XI — Critical Commentary & Notes",
         "display": "Euclid XIII.2"
@@ -3594,6 +3653,12 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_13/cap_13_notes",
         "title": "CHAPTER XIII — Critical Commentary & Notes",
+        "display": "Euclid XIII.5"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_16/cap_16_notes",
+        "title": "CHAPTER XVI — Critical Commentary & Notes",
         "display": "Euclid XIII.5"
       },
       {
@@ -3980,6 +4045,282 @@
       }
     ]
   },
+  "euclid:elements:XV.1": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "XV.1",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Euclid XV.1"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Euclid XV.1"
+      }
+    ]
+  },
+  "euclid:elements:XV.10": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "XV.10",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Euclid XV.10"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Euclid XV.10"
+      }
+    ]
+  },
+  "euclid:elements:XV.11": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "XV.11",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Euclid XV.11"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Euclid XV.11"
+      }
+    ]
+  },
+  "euclid:elements:XV.12": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "XV.12",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Euclid XV.12"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Euclid XV.12"
+      }
+    ]
+  },
+  "euclid:elements:XV.2": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "XV.2",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Euclid XV.2"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Euclid XV.2"
+      }
+    ]
+  },
+  "euclid:elements:XV.3": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "XV.3",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Euclid XV.3"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Euclid XV.3"
+      }
+    ]
+  },
+  "euclid:elements:XV.4": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "XV.4",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Euclid XV.4"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Euclid XV.4"
+      }
+    ]
+  },
+  "euclid:elements:XV.5": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "XV.5",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Euclid XV.5"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Euclid XV.5"
+      }
+    ]
+  },
+  "euclid:elements:XV.6": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "XV.6",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Euclid XV.6"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Euclid XV.6"
+      }
+    ]
+  },
+  "euclid:elements:XV.7": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "XV.7",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Euclid XV.7"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Euclid XV.7"
+      }
+    ]
+  },
+  "euclid:elements:XV.8": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "XV.8",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Euclid XV.8"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Euclid XV.8"
+      }
+    ]
+  },
+  "euclid:elements:XV.9": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elementa (Libri XV, tr. Campanus / Pacioli 1509)",
+    "work_slug": "elements",
+    "locus": "XV.9",
+    "bib_anchor": "bib-euclid",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Euclid XV.9"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Euclid XV.9"
+      }
+    ]
+  },
   "leonardo:moto-locale": {
     "author": "Leonardo da Vinci (1452 – 1519)",
     "author_slug": "leonardo",
@@ -4198,9 +4539,50 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Summa de Arithmetica, Geometria, Proportioni et Proportionalita"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/plates/architectural_de",
         "title": "Anhang II: Architekturtafeln und Arbor Proportionis",
         "display": "Summa de Arithmetica"
+      }
+    ]
+  },
+  "piero:libellus": {
+    "author": "Piero della Francesca (c. 1415 – 1492)",
+    "author_slug": "piero",
+    "work": "Libellus de Quinque Corporibus Regularibus (Vat. Urb. lat. 632)",
+    "work_slug": "libellus",
+    "locus": "",
+    "bib_anchor": "bib-piero-della-francesca",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Libellus de Quinque Corporibus Regularibus"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Libellus de Quinque Corporibus Regularibus"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Libellus de Quinque Corporibus Regularibus"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
+        "display": "Libellus de Quinque Corporibus Regularibus"
       }
     ]
   },
@@ -4553,6 +4935,23 @@
         "doc": "de_divina_proportione/compendio/cap_03/cap_03_it",
         "title": "CAPITOLO III",
         "display": "Cosmographia"
+      }
+    ]
+  },
+  "vitruvius:de-arch": {
+    "author": "Vitruvius Pollio, Marcus (1st century BC)",
+    "author_slug": "vitruvius",
+    "work": "De Architectura Libri Decem",
+    "work_slug": "de-arch",
+    "locus": "",
+    "bib_anchor": "bib-vitruvius",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "De Architectura"
       }
     ]
   },

@@ -21,6 +21,34 @@ Historical and Philological Commentary
 
 2. **Difference of Squares Identity**: Notice how cleanly the product of the conjugate binomial and :term:`apotome <residuo>` evaluates: $(\sqrt{125} - 5)(\sqrt{125} + 5) = 125 - 25 = 100 = 10^2$.
 
+Constantin Winterberg's Commentary (1889 Edition)
+-------------------------------------------------
+
+.. rubric:: Note 4 (Cap. XIII): Algebraic Proof of the Fourth Effect (Euclid XIII.5) (:ref:`Sachliche Anmerkungen #4 <plates-anmerkungen-en>`, Cap. XIII, p. 203, l. 7 from bottom)
+
+In algebraic form, let the segment $bc$ be divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $d$ ($cd > bd$), and let $ac = cd$ be adjoined to form the whole line $ad = ac + bc$:
+
+- **Hypothesis**: $cd^2 = bc \cdot bd$ and $ac = cd$.
+- **Claim**: $bc^2 = ad \cdot cd = ad \cdot ac$.
+- **Proof**: By hypothesis, $cd^2 = bc(bc - cd) = bc^2 - bc \cdot cd$, whence
+
+  .. math::
+
+     bc^2 = cd^2 + bc \cdot cd = cd(cd + bc) = cd(ac + bc) = ad \cdot cd. \quad \text{Q.E.D.}
+
+.. rubric:: Anmerkung 4 (Cap. XIII, S. 203): Mathematischer Nachweis des vierten Effects (Euklid XIII.5)
+
+In mathematischer Form (wenn $bc$ in $d$ stetig getheilt und $ac = cd$ angesetzt wird):
+
+- **Voraussetzung**: $cd^2 = bc \cdot bd$ und $ac = cd$.
+- **Behauptung**: $bc^2 = ad \cdot cd$.
+- **Beweis**: Nach Voraussetzung ist $cd^2 = bc(bc - cd)$, folglich:
+
+  .. math::
+
+     ad \cdot cd = (ac + bc)\,cd = cd^2 + bc \cdot cd = bc^2. \quad \text{w. z. b. w.}
+
+
 Philological and Folio Apparatus
 --------------------------------
 

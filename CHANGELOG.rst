@@ -1,3 +1,11 @@
+0.3.1 (2026-10-29)
+------------------
+
+*   Integrated Constantin Winterberg's 1889 critical commentary (*Quellenschriften für Kunstgeschichte*, Vienna, 1889) across the Book Codex:
+    *   Added Winterberg's *Vorwort & Einleitung* (Preface and Historical-Mathematical Introduction, pp. III–V, 1–15) in synchronized **English** and **Deutsch (1889)** companion tracks (`docsrc/de_divina_proportione/intro/intro_en.rst`, `intro_de.rst`).
+    *   Added **Appendix IV: Winterberg's Substantive Mathematical Notes (*Sachliche Anmerkungen* 1–17, pp. 338–352)** (`docsrc/de_divina_proportione/plates/anmerkungen_en.rst`, `anmerkungen_de.rst`), including restored algebraic proofs of the Thirteen Effects, the refutation of Pacioli's Chapter XLVI claim on inscribing the octahedron in the icosahedron, and the polar-reciprocity treatise classifying all 21 mutual inscriptions of the five Platonic solids.
+    *   Injected Winterberg's 17 *Sachliche Anmerkungen* and philological chapter footnotes directly into the corresponding `_notes.rst` tracks across Part I (*Compendio*) and Part II (*Architectura*), plus Alphabet plate footnotes on Letters **H**, **N**, and **S**.
+
 0.3.0 (2026-10-29)
 ------------------
 
