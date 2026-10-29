@@ -17,6 +17,13 @@ Historical & Mathematical Commentary
 
   - **Plate XLVII** (``0285.rst``, Quadrilateral Prism, solid) and **Plate XLVIII** (``0287.rst``, Quadrilateral Prism, skeletal).
 
+Constantin Winterberg's Commentary (1889 Edition)
+-------------------------------------------------
+
+- :person:`Winterberg <winterberg>` Footnote 1 (Cap. LX, p. 253): Compare the marginal prism diagrams on p. 107 (Paganini Folio 0052, ``0052.g1.png``–``0052.g3.png``).
+  (:person:`Winterberg <winterberg>` Fussnote 1 (Cap. LX, S. 253): *vgl. Fig. pag. 107.*)
+
+
 Philological and Folio Apparatus
 --------------------------------
 

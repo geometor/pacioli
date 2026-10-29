@@ -18,6 +18,13 @@ Historical & Mathematical Commentary
   2. It records that after the fall of Milan to Louis XII of France in late **1499**, Pacioli and Leonardo **left Milan together** (visiting Mantua and Venice) and **shared a household in Florence** (*e a Firenze pur insiemi trahemmo domicilio*);
   3. It documents the **three sets of 60 painted three-dimensional polyhedra models** constructed by Pacioli's own hands: the first for :person:`**Ludovico Sforza** <ludovico-sforza>` (presented in 1498), the second for :person:`**Galeazzo Sanseverino** <galeazzo-sanseverino>` in Milan, and the third in Florence for **Gonfaloniere Piero Soderini** (kept in the Palazzo Vecchio, as also recorded in Florentine municipal payment records of 1505).
 
+Constantin Winterberg's Commentary (1889 Edition)
+-------------------------------------------------
+
+- :person:`Winterberg <winterberg>` Footnote 1 (Arch. Cap. VI, p. 308): Namely, the geometric letters of the Roman Alphabet (*scil. die Buchstaben*) in Appendix I.
+  (:person:`Winterberg <winterberg>` Fussnote 1 (Arch. Cap. VI, S. 308): *scil. die Buchstaben.*)
+
+
 Philological and Folio Apparatus
 --------------------------------
 

@@ -37,10 +37,10 @@
       <label for="nav-Header-toggle" >Header</label>
       <ul>
         <li>
-          <a href="../../index.html"  >DE DIVINA PROPORTIONE</a>
+          <a href="../../../mission/index.html"  >mission</a>
         </li>
         <li>
-          <a href="../../../mission/index.html"  >mission</a>
+          <a href="../../index.html"  >DE DIVINA PROPORTIONE</a>
         </li>
         <li>
           <a href="../../../modules/index.html"  >modules</a>
@@ -99,6 +99,34 @@
         $$b^2 + (a+b)^2 = b^2 + (a+b)^2 = (a+b)^2 - 2(a+b)b + b^2 + 2(a+b)b = a^2 + 2a^2 = 3a^2$$
         In Pacioli’s single-radical notation, multiplying $\sqrt{12500}$ by $3$ brings $3^2 = 9$ inside the radical: $\sqrt{9 \times 12500} = \sqrt{112500}$.</p></li>
         </ol>
+        </section>
+        <section class="level-2" id="constantin-winterberg-s-commentary-1889-edition">
+        <h2>Constantin Winterberg’s Commentary (1889 Edition)<a class="headerlink" href="#constantin-winterberg-s-commentary-1889-edition" title="Link to this heading">¶</a></h2>
+        <p class="rubric">Note 5 (Cap. XIV): Algebraic Proof of the Fifth Effect (Euclid XIII.4) (<a class="reference internal" href="../../plates/anmerkungen_en.html#plates-anmerkungen-en"><span class="std std-ref">Sachliche Anmerkungen #5</span></a>, Cap. XIV, p. 204, l. 14 from top)</p>
+        <p>In general algebraic form, for the line $bc$ divided in <a class="term-ref glossary-term" id="occ-term-extrema-et-media-ratio-1" href="../../glossary.html#term-extrema-et-media-ratio" data-term="extrema-et-media-ratio" title="proportione avente el mezzo e doi extremi (Proportion having a mean and two extremes (Extreme and Mean Ratio)): The technical Euclidean definition (Elements VI.def.3) whereby a magnitude AB is divided at C into unequal parts AC &gt; CB such that AB : AC = AC : CB, and AB · CB = AC².">extreme and mean ratio</a> at $d$ ($cd &gt; bd$):</p>
+        <ul>
+        <li><p><strong>Hypothesis</strong>: $cd^2 = bc \cdot bd$.</p></li>
+        <li><p><strong>Claim</strong>: $bd^2 + bc^2 = 3\,cd^2$.</p></li>
+        <li><p><strong>Proof</strong>:
+        a) From Note 4, $bc^2 = bc \cdot cd + cd^2$.
+        b) Expanding $bd^2 = (bc - cd)^2 = bc^2 - 2\,bc \cdot cd + cd^2$.
+        Adding (a) and (b) together and substituting $bc^2 - bc \cdot cd = bc(bc - cd) = bc \cdot bd = cd^2$ gives:</p>
+        <div class="math notranslate nohighlight">
+        \[bd^2 + bc^2 = 2\,cd^2 + bc(bc - cd) = 2\,cd^2 + bc \cdot bd = 3\,cd^2. \quad \text{Q.E.D.}\]</div>
+        </li>
+        </ul>
+        <p class="rubric">Anmerkung 5 (Cap. XIV, S. 204): Mathematischer Nachweis des fünften Effects (Euklid XIII.4)</p>
+        <p>In allgemeiner Form unter der früheren Voraussetzung ($cd^2 = bc \cdot bd$):</p>
+        <ul>
+        <li><p><strong>Behauptung</strong>: $bd^2 + bc^2 = 3\,cd^2$.</p></li>
+        <li><p><strong>Beweis</strong>:
+        a) $bc^2 = bc \cdot cd + cd^2$ (nach Anm. 4).
+        b) $bd^2 = (bc - cd)^2 = bc^2 - 2\,bc \cdot cd + cd^2$.
+        Durch Addition von a) und b) erhält man:</p>
+        <div class="math notranslate nohighlight">
+        \[bd^2 + bc^2 = 2\,cd^2 + bc(bc - cd) = 2\,cd^2 + bc \cdot bd = 3\,cd^2. \quad \text{w. z. b. w.}\]</div>
+        </li>
+        </ul>
         </section>
         <section class="level-2" id="philological-and-folio-apparatus">
         <h2>Philological and Folio Apparatus<a class="headerlink" href="#philological-and-folio-apparatus" title="Link to this heading">¶</a></h2>
@@ -176,6 +204,7 @@
   <script src="../../../_static/sphinx_highlight.js?v=6ffebe34"></script>
   <script src="../../../_static/js/collection_controls.js?v=b6b5297a"></script>
   <script src="../../../_static/js/geometor_interactive.js?v=4430a5d4"></script>
+  <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
   <script src="../../../_static/js/search_highlight.js"></script>
 
 </body>

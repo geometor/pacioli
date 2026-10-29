@@ -15,6 +15,18 @@ Historical and Philological Commentary
 1. **Hexagon and Decagon Inscribed in the Same Circle (:cite:`Euclid XIII.9 <euclid:elements:XIII.9>`)**: By :cite:`Euclid IV.15.p <euclid:elements:IV.15.p>`, the side $s_6$ of the regular hexagon inscribed in a circle of radius $R$ is equal to the radius itself ($s_6 = R$, so the diameter is $2R = 2(\sqrt{125}-5) = \sqrt{500}-10$). Proposition 9 of Book XIII proves that when $s_6$ and the side $s_{10}$ of the regular decagon inscribed in the same circle are placed in a straight line, the whole line $s_6 + s_{10}$ is cut in :term:`extreme and mean ratio <extrema-et-media-ratio>`, and $s_6$ is the greater segment:
    $$(s_6 + s_{10}) : s_6 = s_6 : s_{10} = \phi$$
 
+Constantin Winterberg's Commentary (1889 Edition)
+-------------------------------------------------
+
+.. rubric:: Note 6 (Cap. XVI): Seventh Effect — Hexagon Side (Radius) and Decagon Side (Euclid XIII.9) (:ref:`Sachliche Anmerkungen #6 <plates-anmerkungen-en>`, Cap. XVI, p. 205, l. 11 from bottom)
+
+This follows immediately from Note 4 (:cite:`Euclid XIII.5 <euclid:elements:XIII.5>`), once one observes that the side of the regular decagon inscribed in a circle is the greater segment of the radius (the hexagon side) divided in :term:`extreme and mean ratio <extrema-et-media-ratio>`.
+
+.. rubric:: Anmerkung 6 (Cap. XVI, S. 205): Siebenter Effect — Sechsecksseite und Zehnecksseite (Euklid XIII.9)
+
+Dies folgt unmittelbar aus Anmerkung 4, wenn man berücksichtigt, dass die Zehnecksseite der grössere Abschnitt des stetig getheilten Radius (der Sechsecksseite) ist.
+
+
 Philological and Folio Apparatus
 --------------------------------
 
