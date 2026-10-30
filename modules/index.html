@@ -9,9 +9,9 @@
   <title>modules &mdash; geometor • pacioli</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=ea5fcf70" />
-  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=51fa7472" />
+  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=3d8cc37d" />
   <link rel="stylesheet" type="text/css" href="../_static/graphviz.css?v=4ae1632d" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
@@ -20,7 +20,7 @@
   <link rel="icon" href="../_static/favicon.ico" />
 </head>
 
-<body>
+<body class="book-theme-classical-serif">
   <header>
     <div class="logo">
       <a href="../index.html">
@@ -37,289 +37,296 @@
       <label for="nav-Header-toggle" >Header</label>
       <ul>
         <li>
-          <a href="../de_divina_proportione/index.html"  >DE DIVINA PROPORTIONE</a>
-        </li>
-        <li>
           <a href="../mission/index.html"  >mission</a>
         </li>
         <li>
-          <a href="#" aria-selected="true" aria-current="true">modules</a>
+          <a href="../de_divina_proportione/index.html"  >DE DIVINA PROPORTIONE</a>
         </li>
         <li>
           <a href="../usage/index.html"  >usage</a>
+        </li>
+        <li>
+          <a href="#" class="is-active" aria-selected="true" aria-current="page">modules</a>
         </li>
       </ul>
     </nav>
     <div class="motto"></div>
   </header>
-  <main>
-    <article>
-      <header>
-      <nav class="breadcrumbs">
-        <span><a href="../index.html">Home</a></span>
-      </nav>
-        <nav class="context">
-          <div class="prev">
-             <a href="../usage/index.html" title="usage" >Prev</a>
+  <main class="book-main">
+    <article class="book-layout book-reading-pane">
+      <header class="book-header">
+        <div class="book-header-bar">
+          <div class="book-header-identity">
+            <a class="book-portal-link" href="../index.html" title="Return to Project Portal">&larr; pacioli</a>
+            <span class="book-header-sep">/</span>
+            <a class="book-title-link" href="../index.html">geometor • pacioli</a>
           </div>
-          <div class="next">
-            <a href="api/geometor/pacioli/__main__/index.html" title="geometor.pacioli.__main__" >Next</a>
+        </div>
+        <div class="book-header-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../usage/index.html" title="usage">&larr; <span class="nav-label">Prev</span></a>
           </div>
-        </nav>
+          <div class="book-nav-center">
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="api/geometor/pacioli/__main__/index.html" title="geometor.pacioli.__main__"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
+        </div>
       </header>
-      <div class="content body" role="main">
+      <div class="content body book-content" role="main">
         <section class="level-1" id="modules">
-          <h1>modules<a class="headerlink" href="#modules" title="Link to this heading">¶</a></h1>
-          </section>
-          <section class="level-1" id="module-geometor.pacioli">
-          <span id="geometor-pacioli"></span><h1>geometor.pacioli<a class="headerlink" href="#module-geometor.pacioli" title="Link to this heading">¶</a></h1>
-          <p>Tools for parsing and processing “De Divina Proportione” by Luca Pacioli.</p>
-          <section class="level-2" id="key-components">
-          <h2>Key Components:<a class="headerlink" href="#key-components" title="Link to this heading">¶</a></h2>
-          <ul class="simple">
-          <li><p><strong>Parser</strong>: The <a class="reference internal" href="#geometor.pacioli.PacioliParser" title="geometor.pacioli.PacioliParser"><code class="xref py py-class docutils literal notranslate"><span class="pre">PacioliParser</span></code></a> class extracts chapters and content from the transcribed text.</p></li>
-          <li><p><strong>Execution</strong>: The <cite>run_parse.py</cite> script executes the parsing process.</p></li>
-          </ul>
-          </section>
-          <section class="level-2" id="usage">
-          <h2>Usage:<a class="headerlink" href="#usage" title="Link to this heading">¶</a></h2>
-          <p>Initialize <a class="reference internal" href="#geometor.pacioli.PacioliParser" title="geometor.pacioli.PacioliParser"><code class="xref py py-class docutils literal notranslate"><span class="pre">PacioliParser</span></code></a> with resources and output directories, then call <cite>parse()</cite>.</p>
-          </section>
-          <section class="level-2" id="submodules">
-          <h2>Submodules<a class="headerlink" href="#submodules" title="Link to this heading">¶</a></h2>
-          <div class="toctree-wrapper compound">
-          <ul>
-          <li class="toctree-l1"><a class="reference internal" href="api/geometor/pacioli/__main__/index.html">geometor.pacioli.__main__</a></li>
-          <li class="toctree-l1"><a class="reference internal" href="api/geometor/pacioli/app/index.html">geometor.pacioli.app</a></li>
-          <li class="toctree-l1"><a class="reference internal" href="api/geometor/pacioli/extraction/index.html">geometor.pacioli.extraction</a></li>
-          <li class="toctree-l1"><a class="reference internal" href="api/geometor/pacioli/graphics/index.html">geometor.pacioli.graphics</a></li>
-          <li class="toctree-l1"><a class="reference internal" href="api/geometor/pacioli/pacioli/index.html">geometor.pacioli.pacioli</a></li>
-          <li class="toctree-l1"><a class="reference internal" href="api/geometor/pacioli/parse_winterberg/index.html">geometor.pacioli.parse_winterberg</a></li>
-          <li class="toctree-l1"><a class="reference internal" href="api/geometor/pacioli/parser/index.html">geometor.pacioli.parser</a></li>
-          <li class="toctree-l1"><a class="reference internal" href="api/geometor/pacioli/run_parse/index.html">geometor.pacioli.run_parse</a></li>
-          <li class="toctree-l1"><a class="reference internal" href="api/geometor/pacioli/run_winterberg_parse/index.html">geometor.pacioli.run_winterberg_parse</a></li>
-          </ul>
-          </div>
-          </section>
-          <section class="level-2" id="classes">
-          <h2>Classes<a class="headerlink" href="#classes" title="Link to this heading">¶</a></h2>
-          <table class="autosummary longtable docutils align-default">
-          <tbody>
-          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.PacioliParser" title="geometor.pacioli.PacioliParser"><code class="xref py py-obj docutils literal notranslate"><span class="pre">PacioliParser</span></code></a></p></td>
-          <td><p></p></td>
-          </tr>
-          </tbody>
-          </table>
-          </section>
-          <section class="level-2" id="functions">
-          <h2>Functions<a class="headerlink" href="#functions" title="Link to this heading">¶</a></h2>
-          <table class="autosummary longtable docutils align-default">
-          <tbody>
-          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extract_all" title="geometor.pacioli.extract_all"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_all</span></code></a>(→ None)</p></td>
-          <td><p>Extract page images and text for the entire volume in parallel.</p></td>
-          </tr>
-          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.build_graphics_index" title="geometor.pacioli.build_graphics_index"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_graphics_index</span></code></a>(→ pathlib.Path)</p></td>
-          <td><p>Compile all per-folio &lt;folio&gt;.json files into graphics_index.json.</p></td>
-          </tr>
-          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.clean_image" title="geometor.pacioli.clean_image"><code class="xref py py-obj docutils literal notranslate"><span class="pre">clean_image</span></code></a>(→ PIL.Image.Image)</p></td>
-          <td><p>Normalize aged parchment background and binding shadows to pure white (255).</p></td>
-          </tr>
-          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.detect_graphics_cv" title="geometor.pacioli.detect_graphics_cv"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_graphics_cv</span></code></a>(→ List[Dict[str, Any]])</p></td>
-          <td><p>Detect full-page plate graphics using OpenCV if available, falling back to SciPy.</p></td>
-          </tr>
-          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.detect_initials" title="geometor.pacioli.detect_initials"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_initials</span></code></a>(→ List[Dict[str, Any]])</p></td>
-          <td><p>Detect woodcut illuminated initial caps by finding 2D ink-density centers along the text column edge.</p></td>
-          </tr>
-          <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.detect_margin_figures" title="geometor.pacioli.detect_margin_figures"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_margin_figures</span></code></a>(→ List[Dict[str, Any]])</p></td>
-          <td><p>Detect geometric diagrams and marginalia strictly in the outer margin of a text folio.</p></td>
-          </tr>
-          <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extract_from_json" title="geometor.pacioli.extract_from_json"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_from_json</span></code></a>(→ None)</p></td>
-          <td><p>Extract all margin graphics and illuminated initial caps defined in &lt;folio&gt;.json.</p></td>
-          </tr>
-          </tbody>
-          </table>
-          </section>
-          <section class="level-2" id="package-contents">
-          <h2>Package Contents<a class="headerlink" href="#package-contents" title="Link to this heading">¶</a></h2>
-          <dl class="py class">
-          <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser">
-          <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">PacioliParser</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">resources_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">output_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.pacioli.PacioliParser" title="Link to this definition">¶</a></dt>
-          <dd><dl class="py attribute">
-          <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.resources_dir">
-          <span class="sig-name descname"><span class="pre">resources_dir</span></span><a class="headerlink" href="#geometor.pacioli.PacioliParser.resources_dir" title="Link to this definition">¶</a></dt>
-          <dd></dd></dl>
+        <h1>modules<a class="headerlink" href="#modules" title="Link to this heading">¶</a></h1>
+        </section>
+        <section class="level-1" id="module-geometor.pacioli">
+        <span id="geometor-pacioli"></span><h1>geometor.pacioli<a class="headerlink" href="#module-geometor.pacioli" title="Link to this heading">¶</a></h1>
+        <p>Tools for parsing and processing “De Divina Proportione” by Luca Pacioli.</p>
+        <section class="level-2" id="key-components">
+        <h2>Key Components:<a class="headerlink" href="#key-components" title="Link to this heading">¶</a></h2>
+        <ul class="simple">
+        <li><p><strong>Parser</strong>: The <a class="reference internal" href="#geometor.pacioli.PacioliParser" title="geometor.pacioli.PacioliParser"><code class="xref py py-class docutils literal notranslate"><span class="pre">PacioliParser</span></code></a> class extracts chapters and content from the transcribed text.</p></li>
+        <li><p><strong>Execution</strong>: The <cite>run_parse.py</cite> script executes the parsing process.</p></li>
+        </ul>
+        </section>
+        <section class="level-2" id="usage">
+        <h2>Usage:<a class="headerlink" href="#usage" title="Link to this heading">¶</a></h2>
+        <p>Initialize <a class="reference internal" href="#geometor.pacioli.PacioliParser" title="geometor.pacioli.PacioliParser"><code class="xref py py-class docutils literal notranslate"><span class="pre">PacioliParser</span></code></a> with resources and output directories, then call <cite>parse()</cite>.</p>
+        </section>
+        <section class="level-2" id="submodules">
+        <h2>Submodules<a class="headerlink" href="#submodules" title="Link to this heading">¶</a></h2>
+        <div class="toctree-wrapper compound">
+        <ul>
+        <li class="toctree-l1"><a class="reference internal" href="api/geometor/pacioli/__main__/index.html">geometor.pacioli.__main__</a></li>
+        <li class="toctree-l1"><a class="reference internal" href="api/geometor/pacioli/app/index.html">geometor.pacioli.app</a></li>
+        <li class="toctree-l1"><a class="reference internal" href="api/geometor/pacioli/extraction/index.html">geometor.pacioli.extraction</a></li>
+        <li class="toctree-l1"><a class="reference internal" href="api/geometor/pacioli/graphics/index.html">geometor.pacioli.graphics</a></li>
+        <li class="toctree-l1"><a class="reference internal" href="api/geometor/pacioli/pacioli/index.html">geometor.pacioli.pacioli</a></li>
+        <li class="toctree-l1"><a class="reference internal" href="api/geometor/pacioli/parse_winterberg/index.html">geometor.pacioli.parse_winterberg</a></li>
+        <li class="toctree-l1"><a class="reference internal" href="api/geometor/pacioli/parser/index.html">geometor.pacioli.parser</a></li>
+        <li class="toctree-l1"><a class="reference internal" href="api/geometor/pacioli/run_parse/index.html">geometor.pacioli.run_parse</a></li>
+        <li class="toctree-l1"><a class="reference internal" href="api/geometor/pacioli/run_winterberg_parse/index.html">geometor.pacioli.run_winterberg_parse</a></li>
+        </ul>
+        </div>
+        </section>
+        <section class="level-2" id="classes">
+        <h2>Classes<a class="headerlink" href="#classes" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.PacioliParser" title="geometor.pacioli.PacioliParser"><code class="xref py py-obj docutils literal notranslate"><span class="pre">PacioliParser</span></code></a></p></td>
+        <td><p></p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="functions">
+        <h2>Functions<a class="headerlink" href="#functions" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extract_all" title="geometor.pacioli.extract_all"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_all</span></code></a>(→ None)</p></td>
+        <td><p>Extract page images and text for the entire volume in parallel.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.build_graphics_index" title="geometor.pacioli.build_graphics_index"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_graphics_index</span></code></a>(→ pathlib.Path)</p></td>
+        <td><p>Compile all per-folio &lt;folio&gt;.json files into graphics_index.json.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.clean_image" title="geometor.pacioli.clean_image"><code class="xref py py-obj docutils literal notranslate"><span class="pre">clean_image</span></code></a>(→ PIL.Image.Image)</p></td>
+        <td><p>Normalize aged parchment background and binding shadows to pure white (255).</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.detect_graphics_cv" title="geometor.pacioli.detect_graphics_cv"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_graphics_cv</span></code></a>(→ List[Dict[str, Any]])</p></td>
+        <td><p>Detect full-page plate graphics using OpenCV if available, falling back to SciPy.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.detect_initials" title="geometor.pacioli.detect_initials"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_initials</span></code></a>(→ List[Dict[str, Any]])</p></td>
+        <td><p>Detect woodcut illuminated initial caps by finding 2D ink-density centers along the text column edge.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.detect_margin_figures" title="geometor.pacioli.detect_margin_figures"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_margin_figures</span></code></a>(→ List[Dict[str, Any]])</p></td>
+        <td><p>Detect geometric diagrams and marginalia strictly in the outer margin of a text folio.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extract_from_json" title="geometor.pacioli.extract_from_json"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_from_json</span></code></a>(→ None)</p></td>
+        <td><p>Extract all margin graphics and illuminated initial caps defined in &lt;folio&gt;.json.</p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="package-contents">
+        <h2>Package Contents<a class="headerlink" href="#package-contents" title="Link to this heading">¶</a></h2>
+        <dl class="py class">
+        <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">PacioliParser</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">resources_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">output_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.pacioli.PacioliParser" title="Link to this definition">¶</a></dt>
+        <dd><dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.resources_dir">
+        <span class="sig-name descname"><span class="pre">resources_dir</span></span><a class="headerlink" href="#geometor.pacioli.PacioliParser.resources_dir" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
 
-          <dl class="py attribute">
-          <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.output_dir">
-          <span class="sig-name descname"><span class="pre">output_dir</span></span><a class="headerlink" href="#geometor.pacioli.PacioliParser.output_dir" title="Link to this definition">¶</a></dt>
-          <dd></dd></dl>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.output_dir">
+        <span class="sig-name descname"><span class="pre">output_dir</span></span><a class="headerlink" href="#geometor.pacioli.PacioliParser.output_dir" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
 
-          <dl class="py attribute">
-          <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.transcribed_file">
-          <span class="sig-name descname"><span class="pre">transcribed_file</span></span><a class="headerlink" href="#geometor.pacioli.PacioliParser.transcribed_file" title="Link to this definition">¶</a></dt>
-          <dd></dd></dl>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.transcribed_file">
+        <span class="sig-name descname"><span class="pre">transcribed_file</span></span><a class="headerlink" href="#geometor.pacioli.PacioliParser.transcribed_file" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
 
-          <dl class="py method">
-          <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.parse">
-          <span class="sig-name descname"><span class="pre">parse</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#geometor.pacioli.PacioliParser.parse" title="Link to this definition">¶</a></dt>
-          <dd><p>Execute the parsing process.</p>
-          <p>This method orchestrates the extraction of TOC and text chapters,
-          merges them, and generates the RST output structure.</p>
-          </dd></dl>
+        <dl class="py method">
+        <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.parse">
+        <span class="sig-name descname"><span class="pre">parse</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#geometor.pacioli.PacioliParser.parse" title="Link to this definition">¶</a></dt>
+        <dd><p>Execute the parsing process.</p>
+        <p>This method orchestrates the extraction of TOC and text chapters,
+        merges them, and generates the RST output structure.</p>
+        </dd></dl>
 
-          <dl class="py method">
-          <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.create_root_index">
-          <span class="sig-name descname"><span class="pre">create_root_index</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">book_names</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">]</span></span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.pacioli.PacioliParser.create_root_index" title="Link to this definition">¶</a></dt>
-          <dd></dd></dl>
+        <dl class="py method">
+        <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.create_root_index">
+        <span class="sig-name descname"><span class="pre">create_root_index</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">book_names</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">]</span></span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.pacioli.PacioliParser.create_root_index" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
 
-          <dl class="py method">
-          <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.process_book">
-          <span class="sig-name descname"><span class="pre">process_book</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">lines</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">]</span></span></span></em>, <em class="sig-param"><span class="n"><span class="pre">book_config</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">Dict</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.pacioli.PacioliParser.process_book" title="Link to this definition">¶</a></dt>
-          <dd></dd></dl>
+        <dl class="py method">
+        <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.process_book">
+        <span class="sig-name descname"><span class="pre">process_book</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">lines</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">]</span></span></span></em>, <em class="sig-param"><span class="n"><span class="pre">book_config</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">Dict</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.pacioli.PacioliParser.process_book" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
 
-          <dl class="py method">
-          <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.extract_chapters">
-          <span class="sig-name descname"><span class="pre">extract_chapters</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">lines</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">]</span></span></span></em>, <em class="sig-param"><span class="n"><span class="pre">start_marker</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">end_marker</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">prefix</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">Dict</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Dict</span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.pacioli.PacioliParser.extract_chapters" title="Link to this definition">¶</a></dt>
-          <dd><p>Extract chapters from a section of lines.</p>
-          <dl class="field-list simple">
-          <dt class="field-odd">Parameters<span class="colon">:</span></dt>
-          <dd class="field-odd"><ul class="simple">
-          <li><p><strong>lines</strong> – The list of lines to process.</p></li>
-          <li><p><strong>start_marker</strong> – The string marking the start of the section.</p></li>
-          <li><p><strong>end_marker</strong> – The string marking the end of the section.</p></li>
-          <li><p><strong>prefix</strong> – The prefix for chapter headers (e.g., “Cap”, “Gap”).</p></li>
-          </ul>
-          </dd>
-          <dt class="field-even">Returns<span class="colon">:</span></dt>
-          <dd class="field-even"><p>A dictionary of chapters keyed by Roman Numeral ID.</p>
-          </dd>
-          <dt class="field-odd">Return type<span class="colon">:</span></dt>
-          <dd class="field-odd"><p><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#dict" title="(in Python v3.13)">dict</a></p>
-          </dd>
-          </dl>
-          </dd></dl>
+        <dl class="py method">
+        <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.extract_chapters">
+        <span class="sig-name descname"><span class="pre">extract_chapters</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">lines</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">]</span></span></span></em>, <em class="sig-param"><span class="n"><span class="pre">start_marker</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">end_marker</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">prefix</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">Dict</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Dict</span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.pacioli.PacioliParser.extract_chapters" title="Link to this definition">¶</a></dt>
+        <dd><p>Extract chapters from a section of lines.</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><ul class="simple">
+        <li><p><strong>lines</strong> – The list of lines to process.</p></li>
+        <li><p><strong>start_marker</strong> – The string marking the start of the section.</p></li>
+        <li><p><strong>end_marker</strong> – The string marking the end of the section.</p></li>
+        <li><p><strong>prefix</strong> – The prefix for chapter headers (e.g., “Cap”, “Gap”).</p></li>
+        </ul>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>A dictionary of chapters keyed by Roman Numeral ID.</p>
+        </dd>
+        <dt class="field-odd">Return type<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#dict" title="(in Python v3.13)">dict</a></p>
+        </dd>
+        </dl>
+        </dd></dl>
 
-          <dl class="py method">
-          <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.merge_chapters">
-          <span class="sig-name descname"><span class="pre">merge_chapters</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">toc_chapters</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">Dict</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">text_chapters</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">Dict</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><span class="pre">Dict</span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.pacioli.PacioliParser.merge_chapters" title="Link to this definition">¶</a></dt>
-          <dd><p>Merge TOC and Text chapters into a single list.</p>
-          <dl class="field-list simple">
-          <dt class="field-odd">Parameters<span class="colon">:</span></dt>
-          <dd class="field-odd"><ul class="simple">
-          <li><p><strong>toc_chapters</strong> – Dictionary of chapters extracted from the TOC.</p></li>
-          <li><p><strong>text_chapters</strong> – Dictionary of chapters extracted from the text.</p></li>
-          </ul>
-          </dd>
-          <dt class="field-even">Returns<span class="colon">:</span></dt>
-          <dd class="field-even"><p>A list of merged chapter dictionaries, sorted by Roman Numeral ID.</p>
-          </dd>
-          <dt class="field-odd">Return type<span class="colon">:</span></dt>
-          <dd class="field-odd"><p><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#list" title="(in Python v3.13)">list</a></p>
-          </dd>
-          </dl>
-          </dd></dl>
+        <dl class="py method">
+        <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.merge_chapters">
+        <span class="sig-name descname"><span class="pre">merge_chapters</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">toc_chapters</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">Dict</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">text_chapters</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">Dict</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><span class="pre">Dict</span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.pacioli.PacioliParser.merge_chapters" title="Link to this definition">¶</a></dt>
+        <dd><p>Merge TOC and Text chapters into a single list.</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><ul class="simple">
+        <li><p><strong>toc_chapters</strong> – Dictionary of chapters extracted from the TOC.</p></li>
+        <li><p><strong>text_chapters</strong> – Dictionary of chapters extracted from the text.</p></li>
+        </ul>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>A list of merged chapter dictionaries, sorted by Roman Numeral ID.</p>
+        </dd>
+        <dt class="field-odd">Return type<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#list" title="(in Python v3.13)">list</a></p>
+        </dd>
+        </dl>
+        </dd></dl>
 
-          <dl class="py method">
-          <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.generate_rst_structure">
-          <span class="sig-name descname"><span class="pre">generate_rst_structure</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">chapters</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><span class="pre">Dict</span><span class="p"><span class="pre">]</span></span></span></em>, <em class="sig-param"><span class="n"><span class="pre">output_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.pacioli.PacioliParser.generate_rst_structure" title="Link to this definition">¶</a></dt>
-          <dd><p>Generate the RST folder structure and files for the chapters.</p>
-          <dl class="field-list simple">
-          <dt class="field-odd">Parameters<span class="colon">:</span></dt>
-          <dd class="field-odd"><ul class="simple">
-          <li><p><strong>chapters</strong> – List of chapter dictionaries.</p></li>
-          <li><p><strong>output_dir</strong> – The directory where RST files will be generated.</p></li>
-          </ul>
-          </dd>
-          </dl>
-          </dd></dl>
+        <dl class="py method">
+        <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.generate_rst_structure">
+        <span class="sig-name descname"><span class="pre">generate_rst_structure</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">chapters</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><span class="pre">Dict</span><span class="p"><span class="pre">]</span></span></span></em>, <em class="sig-param"><span class="n"><span class="pre">output_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.pacioli.PacioliParser.generate_rst_structure" title="Link to this definition">¶</a></dt>
+        <dd><p>Generate the RST folder structure and files for the chapters.</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><ul class="simple">
+        <li><p><strong>chapters</strong> – List of chapter dictionaries.</p></li>
+        <li><p><strong>output_dir</strong> – The directory where RST files will be generated.</p></li>
+        </ul>
+        </dd>
+        </dl>
+        </dd></dl>
 
-          <dl class="py method">
-          <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.create_main_index">
-          <span class="sig-name descname"><span class="pre">create_main_index</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">chapters</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><span class="pre">Dict</span><span class="p"><span class="pre">]</span></span></span></em>, <em class="sig-param"><span class="n"><span class="pre">output_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.pacioli.PacioliParser.create_main_index" title="Link to this definition">¶</a></dt>
-          <dd></dd></dl>
+        <dl class="py method">
+        <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.create_main_index">
+        <span class="sig-name descname"><span class="pre">create_main_index</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">chapters</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><span class="pre">Dict</span><span class="p"><span class="pre">]</span></span></span></em>, <em class="sig-param"><span class="n"><span class="pre">output_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.pacioli.PacioliParser.create_main_index" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
 
-          <dl class="py method">
-          <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.create_chapter_files">
-          <span class="sig-name descname"><span class="pre">create_chapter_files</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">chapter_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">chapter</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">Dict</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.pacioli.PacioliParser.create_chapter_files" title="Link to this definition">¶</a></dt>
-          <dd></dd></dl>
+        <dl class="py method">
+        <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.create_chapter_files">
+        <span class="sig-name descname"><span class="pre">create_chapter_files</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">chapter_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">chapter</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">Dict</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#geometor.pacioli.PacioliParser.create_chapter_files" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
 
-          <dl class="py method">
-          <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.indent_text">
-          <span class="sig-name descname"><span class="pre">indent_text</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">text</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">indent</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">'</span>&#160;&#160; <span class="pre">'</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span></span><a class="headerlink" href="#geometor.pacioli.PacioliParser.indent_text" title="Link to this definition">¶</a></dt>
-          <dd></dd></dl>
+        <dl class="py method">
+        <dt class="sig sig-object py" id="geometor.pacioli.PacioliParser.indent_text">
+        <span class="sig-name descname"><span class="pre">indent_text</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">text</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">indent</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">'</span>&#160;&#160; <span class="pre">'</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span></span><a class="headerlink" href="#geometor.pacioli.PacioliParser.indent_text" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
 
-          </dd></dl>
+        </dd></dl>
 
-          <dl class="py function">
-          <dt class="sig sig-object py" id="geometor.pacioli.extract_all">
-          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">extract_all</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">pdf_path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">output_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">start_page</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">1</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">end_page</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">318</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">dpi</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">150</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">max_workers</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">6</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">force</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#bool" title="(in Python v3.13)"><span class="pre">bool</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/constants.html#None" title="(in Python v3.13)"><span class="pre">None</span></a></span></span><a class="headerlink" href="#geometor.pacioli.extract_all" title="Link to this definition">¶</a></dt>
-          <dd><p>Extract page images and text for the entire volume in parallel.</p>
-          </dd></dl>
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.pacioli.extract_all">
+        <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">extract_all</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">pdf_path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">output_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">start_page</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">1</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">end_page</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">318</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">dpi</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">150</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">max_workers</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">6</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">force</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#bool" title="(in Python v3.13)"><span class="pre">bool</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/constants.html#None" title="(in Python v3.13)"><span class="pre">None</span></a></span></span><a class="headerlink" href="#geometor.pacioli.extract_all" title="Link to this definition">¶</a></dt>
+        <dd><p>Extract page images and text for the entire volume in parallel.</p>
+        </dd></dl>
 
-          <dl class="py function">
-          <dt class="sig sig-object py" id="geometor.pacioli.build_graphics_index">
-          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">build_graphics_index</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">directory</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></span><a class="headerlink" href="#geometor.pacioli.build_graphics_index" title="Link to this definition">¶</a></dt>
-          <dd><p>Compile all per-folio &lt;folio&gt;.json files into graphics_index.json.</p>
-          </dd></dl>
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.pacioli.build_graphics_index">
+        <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">build_graphics_index</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">directory</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></span><a class="headerlink" href="#geometor.pacioli.build_graphics_index" title="Link to this definition">¶</a></dt>
+        <dd><p>Compile all per-folio &lt;folio&gt;.json files into graphics_index.json.</p>
+        </dd></dl>
 
-          <dl class="py function">
-          <dt class="sig sig-object py" id="geometor.pacioli.clean_image">
-          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">clean_image</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">pil_image</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">PIL.Image.Image</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">white_point</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">226</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">preserve_color</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#bool" title="(in Python v3.13)"><span class="pre">bool</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">PIL.Image.Image</span></span></span><a class="headerlink" href="#geometor.pacioli.clean_image" title="Link to this definition">¶</a></dt>
-          <dd><p>Normalize aged parchment background and binding shadows to pure white (255).</p>
-          <p>Uses morphological closing + Gaussian blur to estimate local paper illumination per channel,
-          eliminating yellowed paper cast, bleed-through, and gutter shadows while preserving crisp ink.
-          When <code class="docutils literal notranslate"><span class="pre">preserve_color=True</span></code> (e.g., red rubrication on folios 0005 and 0311), chromatic ink is kept.</p>
-          </dd></dl>
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.pacioli.clean_image">
+        <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">clean_image</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">pil_image</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">PIL.Image.Image</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">white_point</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">226</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">preserve_color</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#bool" title="(in Python v3.13)"><span class="pre">bool</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">PIL.Image.Image</span></span></span><a class="headerlink" href="#geometor.pacioli.clean_image" title="Link to this definition">¶</a></dt>
+        <dd><p>Normalize aged parchment background and binding shadows to pure white (255).</p>
+        <p>Uses morphological closing + Gaussian blur to estimate local paper illumination per channel,
+        eliminating yellowed paper cast, bleed-through, and gutter shadows while preserving crisp ink.
+        When <code class="docutils literal notranslate"><span class="pre">preserve_color=True</span></code> (e.g., red rubrication on folios 0005 and 0311), chromatic ink is kept.</p>
+        </dd></dl>
 
-          <dl class="py function">
-          <dt class="sig sig-object py" id="geometor.pacioli.detect_graphics_cv">
-          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">detect_graphics_cv</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">image_path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><span class="pre">Dict</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.pacioli.detect_graphics_cv" title="Link to this definition">¶</a></dt>
-          <dd><p>Detect full-page plate graphics using OpenCV if available, falling back to SciPy.</p>
-          </dd></dl>
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.pacioli.detect_graphics_cv">
+        <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">detect_graphics_cv</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">image_path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><span class="pre">Dict</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.pacioli.detect_graphics_cv" title="Link to this definition">¶</a></dt>
+        <dd><p>Detect full-page plate graphics using OpenCV if available, falling back to SciPy.</p>
+        </dd></dl>
 
-          <dl class="py function">
-          <dt class="sig sig-object py" id="geometor.pacioli.detect_initials">
-          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">detect_initials</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">image_path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><span class="pre">Dict</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.pacioli.detect_initials" title="Link to this definition">¶</a></dt>
-          <dd><p>Detect woodcut illuminated initial caps by finding 2D ink-density centers along the text column edge.</p>
-          <p>Woodcut initials in the 1509 Paganini edition have consistent square dimensions:
-          - Standard chapter initials: 120x132 px (padded around the ~112x118 woodcut frame)
-          - Large treatise-opening initials (folios 0017 and 0085): 260x304 px
-          - Title-page red initial D (folio 0005): 184x188 px</p>
-          </dd></dl>
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.pacioli.detect_initials">
+        <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">detect_initials</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">image_path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><span class="pre">Dict</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.pacioli.detect_initials" title="Link to this definition">¶</a></dt>
+        <dd><p>Detect woodcut illuminated initial caps by finding 2D ink-density centers along the text column edge.</p>
+        <p>Woodcut initials in the 1509 Paganini edition have consistent square dimensions:
+        - Standard chapter initials: 120x132 px (padded around the ~112x118 woodcut frame)
+        - Large treatise-opening initials (folios 0017 and 0085): 260x304 px
+        - Title-page red initial D (folio 0005): 184x188 px</p>
+        </dd></dl>
 
-          <dl class="py function">
-          <dt class="sig sig-object py" id="geometor.pacioli.detect_margin_figures">
-          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">detect_margin_figures</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">image_path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">is_recto</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#bool" title="(in Python v3.13)"><span class="pre">bool</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><span class="pre">Dict</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.pacioli.detect_margin_figures" title="Link to this definition">¶</a></dt>
-          <dd><p>Detect geometric diagrams and marginalia strictly in the outer margin of a text folio.</p>
-          <ul class="simple">
-          <li><p>Odd (recto) folios: right outer margin (to the right of the main text column).</p></li>
-          <li><p>Even (verso) folios: left outer margin (to the left of the main text column).</p></li>
-          </ul>
-          <p>Never falls back to full-page text blocks.</p>
-          </dd></dl>
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.pacioli.detect_margin_figures">
+        <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">detect_margin_figures</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">image_path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">is_recto</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#bool" title="(in Python v3.13)"><span class="pre">bool</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">List</span><span class="p"><span class="pre">[</span></span><span class="pre">Dict</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.pacioli.detect_margin_figures" title="Link to this definition">¶</a></dt>
+        <dd><p>Detect geometric diagrams and marginalia strictly in the outer margin of a text folio.</p>
+        <ul class="simple">
+        <li><p>Odd (recto) folios: right outer margin (to the right of the main text column).</p></li>
+        <li><p>Even (verso) folios: left outer margin (to the left of the main text column).</p></li>
+        </ul>
+        <p>Never falls back to full-page text blocks.</p>
+        </dd></dl>
 
-          <dl class="py function">
-          <dt class="sig sig-object py" id="geometor.pacioli.extract_from_json">
-          <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">extract_from_json</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">json_path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">no_clean</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#bool" title="(in Python v3.13)"><span class="pre">bool</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/constants.html#None" title="(in Python v3.13)"><span class="pre">None</span></a></span></span><a class="headerlink" href="#geometor.pacioli.extract_from_json" title="Link to this definition">¶</a></dt>
-          <dd><p>Extract all margin graphics and illuminated initial caps defined in &lt;folio&gt;.json.</p>
-          </dd></dl>
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.pacioli.extract_from_json">
+        <span class="sig-prename descclassname"><span class="pre">geometor.pacioli.</span></span><span class="sig-name descname"><span class="pre">extract_from_json</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">json_path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">no_clean</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#bool" title="(in Python v3.13)"><span class="pre">bool</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/constants.html#None" title="(in Python v3.13)"><span class="pre">None</span></a></span></span><a class="headerlink" href="#geometor.pacioli.extract_from_json" title="Link to this definition">¶</a></dt>
+        <dd><p>Extract all margin graphics and illuminated initial caps defined in &lt;folio&gt;.json.</p>
+        </dd></dl>
 
-          </section>
-          </section>
+        </section>
+        </section>
 
       </div>
-      <footer>
-
-        <div class="meta">
+      <footer class="book-footer">
+        <div class="book-footer-ornament">&#10086;</div>
+        <div class="book-footer-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../usage/index.html" title="usage">&larr; <span class="nav-label">usage</span></a>
+          </div>
+          <div class="book-nav-center">
+            <a class="book-toc-link" href="../index.html">geometor • pacioli</a>
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="api/geometor/pacioli/__main__/index.html" title="geometor.pacioli.__main__"><span class="nav-label">geometor.pacioli.__main__</span> &rarr;</a>
+          </div>
         </div>
-        <nav class="context">
-          <div class="prev">
-             <a href="../usage/index.html" title="usage" >Prev</a>
-          </div>
-          <div class="next">
-            <a href="api/geometor/pacioli/__main__/index.html" title="geometor.pacioli.__main__" >Next</a>
-          </div>
-        </nav>
       </footer>
     </article>
   </main>
@@ -352,8 +359,8 @@
   <footer>
     <div class="footer-nav">
       <ul>
-        <li><a href="../about.html">about</a></li>
-        <li><a href="../connect.html">connect</a></li>
+        <li><a href="../about.html"  >about</a></li>
+        <li><a href="../connect.html"  >connect</a></li>
       </ul>
     </div>
     <hr />
