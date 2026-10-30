@@ -11,7 +11,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=ea5fcf70" />
-  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=3d8cc37d" />
+  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=69acf51f" />
   <link rel="stylesheet" type="text/css" href="../_static/graphviz.css?v=4ae1632d" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
@@ -37,13 +37,16 @@
       <label for="nav-Header-toggle" >Header</label>
       <ul>
         <li>
-          <a href="../mission/index.html"  >mission</a>
-        </li>
-        <li>
           <a href="../de_divina_proportione/index.html"  >DE DIVINA PROPORTIONE</a>
         </li>
         <li>
+          <a href="../mission/index.html"  >mission</a>
+        </li>
+        <li>
           <a href="#" class="is-active" aria-selected="true" aria-current="page">usage</a>
+        </li>
+        <li>
+          <a href="../log/index.html"  >log</a>
         </li>
         <li>
           <a href="../modules/index.html"  >modules</a>
@@ -64,18 +67,39 @@
         </div>
         <div class="book-header-nav">
           <div class="book-nav-prev">
-            <a class="book-nav-btn" href="../de_divina_proportione/glossary.html" title="Glossary of Geometric, Architectural &amp; Latin Terms">&larr; <span class="nav-label">Prev</span></a>
+            <a class="book-nav-btn" href="../mission/analysis.html" title="analysis">&larr; <span class="nav-label">Prev</span></a>
           </div>
           <div class="book-nav-center">
           </div>
           <div class="book-nav-next">
-            <a class="book-nav-btn" href="../modules/index.html" title="modules"><span class="nav-label">Next</span> &rarr;</a>
+            <a class="book-nav-btn" href="../log/index.html" title="log"><span class="nav-label">Next</span> &rarr;</a>
           </div>
         </div>
       </header>
       <div class="content body book-content" role="main">
         <section class="level-1" id="usage">
         <h1>usage<a class="headerlink" href="#usage" title="Link to this heading">¶</a></h1>
+        <p><code class="docutils literal notranslate"><span class="pre">geometor.pacioli</span></code> provides CLI tools and build scripts to extract archival folios, isolate and calibrate woodcut illustrations, compile scholarly apparatus registries, and build the 5-track Book Codex of Fra Luca Pacioli’s <em>De Divina Proportione</em> (1509 / 1889).</p>
+        <section class="level-2" id="cli-build-pipeline">
+        <h2>CLI &amp; Build Pipeline<a class="headerlink" href="#cli-build-pipeline" title="Link to this heading">¶</a></h2>
+        <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span><span class="c1"># Extract high-resolution folio pages from archival PDFs</span>
+        pacioli-extract
+
+        <span class="c1"># Detect, normalize, and crop woodcut graphics across the 1509 Paganini folios</span>
+        pacioli-graphics
+        python3<span class="w"> </span>scripts/recalibrate_graphics.py
+
+        <span class="c1"># Build apparatus registries (citations.json, persons.json, glossary.json)</span>
+        python3<span class="w"> </span>scripts/build_apparatus_registry.py
+
+        <span class="c1"># Compile the 5-track Book Codex into docsrc/de_divina_proportione/</span>
+        python3<span class="w"> </span>scripts/build_docsrc.py
+
+        <span class="c1"># Build the Sphinx HTML documentation</span>
+        publish<span class="w"> </span>build
+        </pre></div>
+        </div>
+        </section>
         </section>
 
       </div>
@@ -83,13 +107,13 @@
         <div class="book-footer-ornament">&#10086;</div>
         <div class="book-footer-nav">
           <div class="book-nav-prev">
-            <a class="book-nav-btn" href="../de_divina_proportione/glossary.html" title="Glossary of Geometric, Architectural &amp; Latin Terms">&larr; <span class="nav-label">Glossary of Geometric, Architectural & Latin Terms</span></a>
+            <a class="book-nav-btn" href="../mission/analysis.html" title="analysis">&larr; <span class="nav-label">analysis</span></a>
           </div>
           <div class="book-nav-center">
             <a class="book-toc-link" href="../index.html">geometor • pacioli</a>
           </div>
           <div class="book-nav-next">
-            <a class="book-nav-btn" href="../modules/index.html" title="modules"><span class="nav-label">modules</span> &rarr;</a>
+            <a class="book-nav-btn" href="../log/index.html" title="log"><span class="nav-label">log</span> &rarr;</a>
           </div>
         </div>
       </footer>
@@ -114,10 +138,33 @@
         </form>
       </div>
     </aside>
+    <aside class="aside-recent-logs">
+      <h3>Recent Logs</h3>
+      <ul>
+        <li><a href="../log/26.302-183400/index.html">Five-Track De Divina Proportione Codex & 482 Paganini Woodcut Graphics</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-tags">
+      <h3>Tags</h3>
+      <ul>
+        <li><a href="../tags/leonardo-da-vinci.html">leonardo-da-vinci</a></li>
+        <li><a href="../tags/pacioli.html">pacioli</a></li>
+        <li><a href="../tags/paganini-1509.html">paganini-1509</a></li>
+        <li><a href="../tags/winterberg.html">winterberg</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-categories">
+      <h3>Categories</h3>
+      <ul>
+        <li><a href="../categories/codex.html">codex</a></li>
+        <li><a href="../categories/graphics.html">graphics</a></li>
+      </ul>
+    </aside>
     <aside class="aside-types">
       <h3>Types</h3>
       <ul>
         <li><a href="../types/apparatus.html">apparatus</a></li>
+        <li><a href="../types/log.html">log</a></li>
       </ul>
     </aside>
   </div>
@@ -126,6 +173,8 @@
       <ul>
         <li><a href="../about.html"  >about</a></li>
         <li><a href="../connect.html"  >connect</a></li>
+        <li><a href="../todos/index.html"  >todos</a></li>
+        <li><a href="../changelog.html"  >0.3.2 (2026-10-29)</a></li>
       </ul>
     </div>
     <hr />
