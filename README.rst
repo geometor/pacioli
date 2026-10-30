@@ -4,85 +4,89 @@ GEOMETOR • pacioli
 .. image:: https://img.shields.io/github/license/geometor/pacioli.svg
    :target: https://github.com/geometor/pacioli/blob/main/LICENSE
 
-**A system for tracking and analyzing the works of Fra Luca Pacioli.**
+**Digital critical edition, multi-language parallel translations, recalibrated 1509 woodcuts, and Euclidean apparatus for Fra Luca Pacioli's *De Divina Proportione* (Venice, 1509 / Vienna, 1889).**
 
 Overview
 --------
 
-To provide a structured, digital environment for studying the works of Fra Luca Pacioli, integrating text analysis with the geometric and mathematical insights found in his treatises.
+``geometor.pacioli`` provides a structured digital scriptorium for studying the mathematical, proportional, and architectural treatises of **Fra Luca Pacioli of Borgo Sansepolcro, O.F.M. (c. 1447–1517)**, illustrated with perspective polyhedra by **Leonardo da Vinci**. It unites the 1509 Venice *editio princeps* printed by Paganino de' Paganini with Constantin Winterberg's 1889 Vienna critical edition into a 5-track **Book Codex** powered by `photon-platform/publish <https://github.com/photon-platform/publish>`_.
 
-Current Status
---------------
+Process & Pipeline
+------------------
 
-- **318 Paganini (1509) Folios & 482 Recalibrated Woodcuts/Initials**: High-resolution folio scans (``0001.png``–``0318.png``), 482 recalibrated woodcut graphics with neutral-white background normalization (214 illuminated initial caps, 180 marginal geometric diagrams, 23 Roman alphabet plates, 5 architectural/*Arbor* plates, and 60 Leonardo da Vinci polyhedra plates), and structured ``<NNNN>.rst`` + ``<NNNN>.notes.rst`` files in ``resources/de_divina_proportione/paganini_1509/``.
-- **Paganini (1509) ↔ Winterberg (1889) Concordance**: Complete mapping (``concordance.json``) aligning all 318 folios of the 1509 Venice edition with Constantin Winterberg's 1889 Vienna critical edition (Italian and German).
-- **Multi-Track Book Codex (``docsrc/de_divina_proportione/``)**: Complete Book Codex edition across all 71 chapters of Part I (*Compendio de Divina Proportione*), Prohemio & 20 chapters of Part II (*Tractato de l'Architectura*), and Appendices I–III with synchronized **English** (``_en.rst``), **Italiano 1509** (``_it.rst``), **Deutsch 1889** (``_de.rst``), **Latin** (``_la.rst``), and **Critical Notes** (``_notes.rst``) tracks, plus **Bibliography** (113 loci), **Persons** (98 entries), and **Glossary** (160 terms).
+1. **Archival Folio Extraction & Woodcut Recalibration (`extraction.py`, `graphics.py`, `scripts/recalibrate_graphics.py`)**:
+   - Extracts all 318 folios (`0001.png`–`0318.png`) of the 1509 Paganini edition and detects, normalizes (neutral-white paper background cleaning), and calibrates bounding boxes for **482 woodcut graphics**:
+     - **214** illuminated Renaissance woodcut initial drop-caps (`c1`)
+     - **180** marginal geometric diagrams (`g1`–`g6`)
+     - **23** geometric Roman alphabet plates (*Alphabetum Dignissimum*)
+     - **5** Vitruvian architectural and *Arbor Proportio et Proportionalitas* plates
+     - **60** full-page Leonardo da Vinci polyhedra plates (*Corpora Regularia et Dependentia*, solid and *vacua* skeletal frames)
 
-Textual Foundation: Why We Use Winterberg's Expanded Italian Transcription
---------------------------------------------------------------------------
+2. **Paganini (1509) ↔ Winterberg (1889) Concordance & Diplomatic Seeding**:
+   - The 1509 Venice letterpress uses dense Renaissance scribal contractions (`ō`, `ū`, `ē`, `p̄`, `q̄`, `qđ`, and titular suspensions) that defeat raw OCR.
+   - In his 1889 Vienna critical edition (*Quellenschriften für Kunstgeschichte*), Constantin Winterberg systematically expanded all 1509 abbreviations while preserving Pacioli's authentic 15th-century Northern/Tuscan-Lombard Italian orthography (`commo`, `parolle`, `glianni`).
 
-The 1509 Venice *editio princeps* printed by Paganino de' Paganini uses dense Renaissance scribal and typographical abbreviations throughout the Italian text—including nasal macrons (``ō``, ``ū``, ``ē``), ``p̄`` (*pro-* / *per-*), ``q̄`` (*que-* / *qua-*), ``qđ`` (*quod*), and courtly or titular suspensions (such as ``de. v. D. celſi.`` for *de vostra Ducal celsitudine* or ``Reuereñ. P. M.`` for *reuerendissimo Padre Maestro*). Direct OCR on the 1509 letterpress produces unusable garbage because of these contractions and ligatures.
+   .. list-table:: Examples from Folio ``0017`` (``f. 1r``, Dedication to Ludovico Sforza)
+      :header-rows: 1
 
-In his 1889 Vienna critical edition (*Fra Luca Pacioli: Divina Proportione*, Quellenschriften für Kunstgeschichte), **Constantin Winterberg systematically expanded all of the 1509 abbreviations while preserving Pacioli's authentic 15th-century Northern/Tuscan-Lombard Italian orthography** (``glianni``, ``commo``, ``parolle``, ``auenga``). As Winterberg notes in his *Einleitung* (``resources/de_divina_proportione/winterberg/00_intro.txt``):
+      * - 1509 Paganini Print (``0017.png``)
+        - Abbreviation Type
+        - 1889 Winterberg Expansion (``0017.rst``)
+      * - ``p̄fessoris``, ``p̄fessioni``, ``p̄ximo``
+        - ``p̄`` (*pro-* / *pre-*)
+        - ``professoris``, ``professioni``, ``proximo``
+      * - ``p̄ſpicaciſſimi``, ``p̄cuffiōi``
+        - ``p̄`` (*per-*)
+        - ``perspicacissimi``, ``percussioni``
+      * - ``q̄lla``, ``q̄ſte``, ``eq̄ſtre``
+        - ``q̄`` (*que-* / *qua-*)
+        - ``quella``, ``queste``, ``equestre``
+      * - ``cōmo``, ``habūda``, ``cōuento``
+        - Nasal macron (``ō``, ``ū``, ``ē``)
+        - ``commo``, ``habunda``, ``conuento``
+      * - ``tāti dela q̄ p̄nte līea. a. b.``
+        - Multiple scribal contractions
+        - ``tanti dela qui presente linea ab.``
+      * - ``de. v. D. celſi.``
+        - Courtly formula suspension
+        - ``de vostra Ducal celsitudine``
 
-    *„Die Neuausgabe der Divina proportione stellte sich zwar zunächst den Zweck, den alterthümlichen, durch Abkürzungen aller Art fast ungeniessbar gewordenen Text der früheren Ausgabe wieder lesbar zu machen und zugleich die sachlichen Mängel und Ungenauigkeiten zu berichtigen…“*
+   - By aligning all 318 folios (`concordance.json`) with Winterberg's expanded Italian transcription and German critical translation, ``publish folio`` verifies exact folio boundaries, marginal graphics, and illuminated initials against the 1509 scan.
 
-    *(“The new edition of the Divina Proportione set itself first of all the goal of making readable again the archaic text of the earlier [1509] edition, which had become almost unreadable through abbreviations of every kind, and at the same time correcting factual defects and inaccuracies…”)*
+3. **5-Track Book Codex Compilation (`scripts/build_docsrc.py`, `scripts/winterberg_commentary.py`, `scripts/build_apparatus_registry.py`)**:
+   - Compiles *Winterberg's Critical Introduction (1889)*, *Part I: Compendio de Divina Proportione (Cap. I–LXXI)*, *Part II: Tractato de l'Architectura (Prohemio & Cap. I–XX)*, and *Appendices I–IV* into `docsrc/de_divina_proportione/` with five synchronized tracks:
+     - **English (`_en.rst`)**: Complete modern English translation with floated 1509 woodcut initials (`.. folio:: :initial:`), marginal geometric diagrams, and Euclidean proposition cross-references.
+     - **Italiano 1509 (`_it.rst`)**: Diplomatic 1509 Italian text with expanded scribal abbreviations and original woodcut placement.
+     - **Deutsch 1889 (`_de.rst`)**: Constantin Winterberg's 1889 German critical translation.
+     - **Latin / Greek 1509 (`_la.rst`)**: Dedicated track for chapters containing Latin epigrams, colophons, Campanus/Euclid Latin propositions, and Greek architectural etymologies.
+     - **Critical Notes (`_notes.rst`)**: Bilingual English/German philological notes, Euclidean Book XIII/XIV derivations, and Winterberg's 17 *Sachliche Anmerkungen*.
 
-.. list-table:: Examples from Folio ``0017`` (``f. 1r``, Dedication to Ludovico Sforza)
-   :header-rows: 1
+Coordination with ``publish``
+-----------------------------
 
-   * - 1509 Paganini Print (``0017.png``)
-     - Abbreviation Type
-     - 1889 Winterberg Expansion (``0017.rst``)
-   * - ``p̄fessoris``, ``p̄fessioni``, ``p̄ximo``
-     - ``p̄`` (*pro-* / *pre-*)
-     - ``professoris``, ``professioni``, ``proximo``
-   * - ``p̄ſpicaciſſimi``, ``p̄cuffiōi``
-     - ``p̄`` (*per-*)
-     - ``perspicacissimi``, ``percussioni``
-   * - ``q̄lla``, ``q̄ſte``, ``eq̄ſtre``
-     - ``q̄`` (*que-* / *qua-*)
-     - ``quella``, ``queste``, ``equestre``
-   * - ``cōmo``, ``habūda``, ``cōuento``, ``Fiorētino``
-     - Nasal macron (``ō``, ``ū``, ``ē`` for *m/n*)
-     - ``commo``, ``habunda``, ``conuento``, ``Fiorentino``
-   * - ``tāti dela q̄ p̄nte līea. a. b.``
-     - Multiple scribal contractions
-     - ``tanti dela qui presente linea ab.``
-   * - ``Illuſtre. S. Galeazzo ſfor. VI. S. Seuerino``
-     - Titular suspension
-     - ``Illustre Signore Galeazzo Sforza VI. San Seuerino``
-   * - ``de. v. D. celſi.``
-     - Courtly formula suspension
-     - ``de vostra Ducal celsitudine``
-
-By seeding our folio transcriptions (``resources/de_divina_proportione/paganini_1509/<NNNN>.rst``) from Winterberg's expanded Italian text rather than raw 1509 OCR, we gain an enormous head start: all Renaissance abbreviations are already expanded into readable Italian, leaving ``publish folio`` focused on verifying folio boundary alignment, calibrating the 510 woodcut graphics (``g1``, ``c1``), and cleaning up occasional 19th-century OCR artifacts against the 1509 scan.
-
-Features
---------
-
-- **Folio Review (``publish folio``)**: Interactive side-by-side review of the 1509 Paganini scans, expanded Italian folio transcriptions (``<NNNN>.rst``), transcription & graphic calibration notes (``<NNNN>.notes.rst``), and woodcut/initial crops (``<NNNN>.json``).
-- **Folio & Graphic Ingestion**: High-resolution folio rendering and computer vision graphic extraction for the 1509 Paganini edition (``pacioli-extract``, ``pacioli-graphics``).
-- **Multi-Track Sphinx Edition (``publish build`` / ``publish test``)**: Builds the de-paginated multi-language edition in ``docsrc/`` with Italian, German, English, and Commentary tracks.
+- Uses `:layout: book` in `photon-platform/publish <https://github.com/photon-platform/publish>`_ for automatic companion-track detection (`_en`, `_it`, `_de`, `_la`, `_notes`) and track-preserving `Prev` / `Next` chapter navigation.
+- Uses `.. folio:: <id>` with `:initial:` to float authentic 1509 woodcut drop-caps into paragraph openings alongside marginal page/folio badges.
+- Connects `:cite:` (113 bibliographic loci), `:person:` (98 historical figures), and `:term:` (160 Renaissance mathematical/architectural terms) to interactive hover cards, while linking Pacioli's Euclidean citations via `intersphinx` to `geometor/euclid <https://geometor.github.io/euclid>`_ and `geometor/elements <https://geometor.github.io/elements>`_.
 
 Installation & Usage
 --------------------
 
 .. code-block:: bash
 
-    # Launch the interactive Folio Reviewer on resources/de_divina_proportione/
-    publish folio
+   # Launch the interactive Folio Reviewer on resources/de_divina_proportione/
+   publish folio
 
-    # Build and serve the multi-track Sphinx edition from docsrc/
-    publish test
+   # Rebuild apparatus registries and the 5-track Book Codex in docsrc/
+   python3 scripts/build_apparatus_registry.py
+   python3 scripts/build_docsrc.py
 
-    # Launch the TUI
-    pacioli
+   # Build and serve the multi-track Sphinx edition locally
+   publish test
 
-Resources
----------
+Resources & Related Projects
+----------------------------
 
+- **Live Edition**: https://geometor.github.io/pacioli
 - **Source Code**: https://github.com/geometor/pacioli
-- **Issues**: https://github.com/geometor/pacioli/issues
-
+- `GEOMETOR • euclid <https://github.com/geometor/euclid>`_ & `GEOMETOR • elements <https://github.com/geometor/elements>`_: Euclid's *Elements* and the G-Index.
+- `PHOTON • publish <https://github.com/photon-platform/publish>`_: Sphinx Book Codex publishing engine and theme.
