@@ -12,7 +12,7 @@ CHAPTER LX — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Arabic-Latin Geometric Terminology (*Elmuaym* and *:term:`Elmuariffe <elmuariffe>`*)**: In Adelard of Bath's, Gerard of Cremona's, and Campanus's Latin editions of Euclid :cite:`Euclid I.Def.22 <euclid:elements:I.Def.22>`, the Arabic terms *al-mu'ayyan* (rhombus) and *al-munharif* (trapezium / irregular quadrilateral) were transliterated as *helmuaym*, *simile helmuaym* (rhomboid), and *helmuariphe* (*:term:`elmuariffe <elmuariffe>`*). Pacioli preserves both the Greek/Italian terms (*rombo*, *romboide*, *irregulari*) and the Campanian Arabic-Latin terms (*elmuaym*, *:term:`elmuariffe <elmuariffe>`*), illustrating each with lettered marginal woodcuts ``A, B, C, D, E`` on Folios 0053–0054.
+- **Arabic-Latin Geometric Terminology (*Elmuaym* and *:term:`Elmuariffe <elmuariffe>`*)**: In Adelard of Bath's, Gerard of Cremona's, and Campanus's Latin editions of Euclid Euclid I.Def.22, the Arabic terms *al-mu'ayyan* (rhombus) and *al-munharif* (trapezium / irregular quadrilateral) were transliterated as *helmuaym*, *simile helmuaym* (rhomboid), and *helmuariphe* (*:term:`elmuariffe <elmuariffe>`*). Pacioli preserves both the Greek/Italian terms (*rombo*, *romboide*, *irregulari*) and the Campanian Arabic-Latin terms (*elmuaym*, *:term:`elmuariffe <elmuariffe>`*), illustrating each with lettered marginal woodcuts ``A, B, C, D, E`` on Folios 0053–0054.
 - **Paganini 1509 Plates Referenced**:
 
   - **Plate XLVII** (``0285.rst``, Quadrilateral Prism, solid) and **Plate XLVIII** (``0287.rst``, Quadrilateral Prism, skeletal).
@@ -20,8 +20,8 @@ Historical & Mathematical Commentary
 Constantin Winterberg's Commentary (1889 Edition)
 -------------------------------------------------
 
-- :person:`Winterberg <winterberg>` Footnote 1 (Cap. LX, p. 253): Compare the marginal prism diagrams on p. 107 (Paganini Folio 0052, ``0052.g1.png``–``0052.g3.png``).
-  (:person:`Winterberg <winterberg>` Fussnote 1 (Cap. LX, S. 253): *vgl. Fig. pag. 107.*)
+- :person:`Winterberg <winterberg>` Footnotes 1–2 (Cap. LX, p. 253): (1) Compare the marginal prism diagrams on p. 107 (Paganini Folio 0052, ``0052.g1.png``–``0052.g3.png``). (2) In the 1509 TOC (p. 168), :term:`*elmuhaym* <elmuhaym>` and :term:`*elmuariffe* <elmuariffe>` denote the rhombus and rhomboid/trapezium.
+  (:person:`Winterberg <winterberg>` Fussnoten 1–2 (Cap. LX, S. 253, Inh. S. 168): *1) vgl. Fig. pag. 107. *) Rhombus und Rhomboide.*)
 
 
 Philological and Folio Apparatus

@@ -4,9 +4,9 @@ Folio 0081 (f. 33r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0080.rst``): Folio f. 32v (verso), Part II: Tractato de l'Architectura — Cap. XVIII, Cap. XIX (f. 32v) — Comme lapicidi e altri scultori in dicti corpi sieno co
-- **Current Folio** (``0081.rst``): Folio f. 33r (recto), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. XIX, Cap. XX (f. 33r) — Comme nelli luoghi angusti lo architetto se habia arege
-- **Following Folio** (``0082.rst``): Folio f. 33v (verso), Part II: Tractato de l'Architectura — Cap. XX (f. 33v) — Dele colonne situate sopra altre coione nelli hedifitii
+- **Preceding Folio** (``0080.rst``): Folio f. 32v (verso), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` — Cap. XVIII, Cap. XIX (f. 32v) — Comme lapicidi e altri scultori in dicti corpi sieno co
+- **Current Folio** (``0081.rst``): Folio f. 33r (recto), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` [``02_architectura``] — Cap. XIX, Cap. XX (f. 33r) — Comme nelli luoghi angusti lo architetto se habia arege
+- **Following Folio** (``0082.rst``): Folio f. 33v (verso), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` — Cap. XX (f. 33v) — Dele colonne situate sopra altre coione nelli hedifitii
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,7 +20,7 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PRIMA- 3``
 - **Folio Signature / Numeration**: ``f. 33r`` (Scan page ``81``, *recto*)
-- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Book & Section Slug**: Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` (``02_architectura``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
   - **Cap. XIX** (``architectura/cap_19``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/019_cap_XIX.txt``
   - **Cap. XX** (``architectura/cap_20``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/020_cap_XX.txt``
@@ -34,7 +34,7 @@ Cap. XIX — How the Architect Must Govern Himself in Cramped and Irregular Site
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Piero della Francesca's *Legend of the True Cross* at Arezzo and *:cite:`De Prospectiva Pingendi <piero:prospectiva>`* at Urbino**: This passage on Folio 0081 (``f. 33r``) is one of the earliest and most authoritative Renaissance tributes to *:person:`*Piero della Francesca* <piero-della-francesca>`* (c. 1415–1492), listing every major city where Piero worked (**Urbino, Bologna, Ferrara, Rimini, Ancona, Sansepolcro, and Arezzo**), noting his mastery of both **oil and tempera/gouache on wall and panel** (*in muro e taula a oglio e guazzo*), singling out the **Cappella Maggiore of San Francesco in Arezzo** (*la magna capella dela tribuna del'altar grande*) as *"vna dele dignissime opere de Italia e da tutti commendata"*, and citing Piero's manuscript treatise *:cite:`De Prospectiva Pingendi <piero:prospectiva>`* in the Ducal Library of Urbino!
+- *:person:`*Piero della Francesca's * <piero-della-francesca>`Legend of the True Cross* at Arezzo and *:cite:`De Prospectiva Pingendi <piero:prospectiva>`* at Urbino**: This passage on Folio 0081 (``f. 33r``) is one of the earliest and most authoritative Renaissance tributes to *:person:`*Piero della Francesca* <piero-della-francesca>`* (c. 1415–1492), listing every major city where Piero worked (**Urbino, Bologna, Ferrara, Rimini, Ancona, Sansepolcro, and Arezzo**), noting his mastery of both **oil and tempera/gouache on wall and panel** (*in muro e taula a oglio e guazzo*), singling out the **Cappella Maggiore of San Francesco in Arezzo** (*la magna capella dela tribuna del'altar grande*) as *"vna dele dignissime opere de Italia e da tutti commendata"*, and citing Piero's manuscript treatise *:cite:`De Prospectiva Pingendi <piero:prospectiva>`* in the Ducal Library of Urbino!
 
 Cap. XX — On Columns Placed Above Other Columns in Multi-Story Buildings (Vitruvius Book V), the 1498 Disputation in the Castello Sforzesco with Count Onofrio Paganini of Brescia, and Colophon of the 1509 Venice Edition.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -42,5 +42,5 @@ Cap. XX — On Columns Placed Above Other Columns in Multi-Story Buildings (Vitr
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Leonardo da Vinci's *Sala delle Asse* (*Camera dei Moroni*) in the Castello Sforzesco (1498)**: Look closely at what Pacioli reveals on Folio 0081 (``f. 33r``): in **1498**, in the *Camera dei Moroni* ("Chamber of the Mulberry Trees"—Leonardo da Vinci's famous **Sala delle Asse** in the northeast tower of the Castello Sforzesco, painted by Leonardo in **1498** with sixteen giant tree trunks rising up the walls and intertwining their branches across the vault!), Duke *:person:`*Ludovico Maria Sforza* <ludovico-sforza>`*, **Cardinal Ippolito d'Este**, *:person:`*Galeazzo Sanseverino* <galeazzo-sanseverino>`*, **Count Onofrio Paganini of Brescia** (kinsman of the printer Paganino de' Paganini!), and *:person:`*Fra Luca Pacioli* <pacioli>`* gathered to hear a formal exposition of **Vitruvius V.1.3 on how architecture imitates the tapering trunks and branches of living trees**! This firsthand eyewitness testimony directly connects Vitruvius V.1.3 and Plato's *:cite:`Timaeus <plato:timaeus:53c-56c>`* 53d to the iconographic program of Leonardo's *Sala delle Asse* in 1498.
+- *:person:`*Leonardo da Vinci's * <leonardo>`Sala delle Asse* (*Camera dei Moroni*) in the Castello Sforzesco (1498)**: Look closely at what Pacioli reveals on Folio 0081 (``f. 33r``): in **1498**, in the *Camera dei Moroni* ("Chamber of the Mulberry Trees"—Leonardo da Vinci's famous **Sala delle Asse** in the northeast tower of the Castello Sforzesco, painted by Leonardo in **1498** with sixteen giant tree trunks rising up the walls and intertwining their branches across the vault!), Duke *:person:`*Ludovico Maria Sforza* <ludovico-sforza>`*, **Cardinal Ippolito d'Este**, *:person:`*Galeazzo Sanseverino* <galeazzo-sanseverino>`*, **Count Onofrio Paganini of Brescia** (kinsman of the printer Paganino de' Paganini!), and *:person:`*Fra Luca Pacioli* <pacioli>`* gathered to hear a formal exposition of **Vitruvius V.1.3 on how architecture imitates the tapering trunks and branches of living trees**! This firsthand eyewitness testimony directly connects Vitruvius V.1.3 and Plato's *:cite:`Timaeus <plato:timaeus:53c-56c>`* 53d to the iconographic program of Leonardo's *Sala delle Asse* in 1498.
 - **The 1509 Venetian Colophon**: Folio 0082 (``f. 33v``) concludes the text of Part II with the official colophon of **Paganino de' Paganini of Brescia**, recording the 15-year copyright privilege granted by the Venetian Senate under **Doge Leonardo Loredan** (r. 1501–1521) and **Pope Julius II** (Year VI, **June 1, 1509**).

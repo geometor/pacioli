@@ -4,9 +4,9 @@ Folio 0043 (f. 14r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0042.rst``): Folio f. 13v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XXXVIII, Cap. XXXIX, Cap. XL, Cap. XLI, Cap. XLII, Cap. XLIII, Cap. XLIV (f. 13v) — Dela inscriptione del :term:`tetracedron <tetrahedron>` in loctocedron.
-- **Current Folio** (``0043.rst``): Folio f. 14r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. XLV, Cap. XLVI, Cap. XLVII, Cap. XLVIII (f. 14r) — Del modo aformare el :term:`tetracedron <tetrahedron>` nello :term:`ycocedron <icosahedron>`.
-- **Following Folio** (``0044.rst``): Folio f. 14v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XLVIII, Cap. XLIX, Cap. L (f. 14v) — Dela forma edispositione del :term:`tetracedron <tetrahedron>` piano solido o
+- **Preceding Folio** (``0042.rst``): Folio f. 13v (verso), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` — Cap. XXXVIII, Cap. XXXIX, Cap. XL, Cap. XLI, Cap. XLII, Cap. XLIII, Cap. XLIV (f. 13v) — Dela inscriptione del :term:`tetracedron <tetrahedron>` in loctocedron.
+- **Current Folio** (``0043.rst``): Folio f. 14r (recto), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` [``01_compendio``] — Cap. XLV, Cap. XLVI, Cap. XLVII, Cap. XLVIII (f. 14r) — Del modo aformare el :term:`tetracedron <tetrahedron>` nello :term:`ycocedron <icosahedron>`.
+- **Following Folio** (``0044.rst``): Folio f. 14v (verso), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` — Cap. XLVIII, Cap. XLIX, Cap. L (f. 14v) — Dela forma edispositione del :term:`tetracedron <tetrahedron>` piano solido o
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,7 +20,7 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PRIMA``
 - **Folio Signature / Numeration**: ``f. 14r`` (Scan page ``43``, *recto*)
-- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
+- **Book & Section Slug**: Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
   - **Cap. XLV** (``compendio/cap_45``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/045_cap_XLV.txt``
   - **Cap. XLVI** (``compendio/cap_46``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/046_cap_XLVI.txt``
@@ -45,7 +45,7 @@ Historical & Mathematical Commentary
 ------------------------------------
 
 - **Paganini 1509 Marginal Diagram**: Folio 0041 (``f. 13r``) shows diagram ``0041.g3.png`` for :cite:`Campanus XV.12 <campanus:euclid:XV.12>` (the cube and :term:`tetrahedron <tetrahedron>` inscribed in the :term:`dodecahedron <dodecahedron>`).
-- **Theological-Geometric Conceit of the Holy Cross**: Pacioli's explanation on Folio 0042 (``f. 13v``) of why :person:`Campanus <campanus>` inscribes all four solids in the :term:`dodecahedron <dodecahedron>` (XV.9, 11, 12) but only three in the :term:`icosahedron <icosahedron>` (XV.6, 7, 8)—invoking the three mutually perpendicular axes of the :term:`octahedron <octahedron>` as the *glorioso segno dela sancta Croce*—is a classic example of Franciscan mathematical theology. Ironically, from a purely group-theoretic standpoint, the :term:`icosahedron <icosahedron>` and :term:`dodecahedron <dodecahedron>` share the exact same symmetry group :math:`A_5 \times \mathbb{Z}_2` and the exact same 30 edge-midpoints (which form the 30 vertices of an :term:`**icosidodecahedron** <dodecahedron-abscisum>`), so the 6 midpoints of three orthogonal pairs of opposite edges of the :term:`icosahedron <icosahedron>` *do* form a regular :term:`octahedron <octahedron>`, just as in :cite:`Campanus XV.11 <campanus:euclid:XV.11>` for the :term:`dodecahedron <dodecahedron>`!
+- **Theological-Geometric Conceit of the Holy Cross**: :person:`Pacioli's <pacioli>` explanation on Folio 0042 (``f. 13v``) of why :person:`Campanus <campanus>` inscribes all four solids in the :term:`dodecahedron <dodecahedron>` (XV.9, 11, 12) but only three in the :term:`icosahedron <icosahedron>` (XV.6, 7, 8)—invoking the three mutually perpendicular axes of the :term:`octahedron <octahedron>` as the *glorioso segno dela sancta Croce*—is a classic example of Franciscan mathematical theology. Ironically, from a purely group-theoretic standpoint, the :term:`icosahedron <icosahedron>` and :term:`dodecahedron <dodecahedron>` share the exact same symmetry group :math:`A_5 \times \mathbb{Z}_2` and the exact same 30 edge-midpoints (which form the 30 vertices of an :term:`**icosidodecahedron** <dodecahedron-abscisum>`), so the 6 midpoints of three orthogonal pairs of opposite edges of the :term:`icosahedron <icosahedron>` *do* form a regular :term:`octahedron <octahedron>`, just as in :cite:`Campanus XV.11 <campanus:euclid:XV.11>` for the :term:`dodecahedron <dodecahedron>`!
 
 Cap. XLVII — How the Sphere Is Placed and Inscribed in Each of the Said Five Regular Bodies.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,7 +54,7 @@ Historical & Mathematical Commentary
 ------------------------------------
 
 - **Paganini 1509 Marginal Diagram**: Folio 0042 (``f. 13v``) includes diagram ``0042.g1.png`` illustrating the insphere construction of :cite:`Campanus XV.13 <campanus:euclid:XV.13>`.
-- **Completion of the Classical Corpus (Books I–XV)**: With ``Cap. XLVII`` (:cite:`Campanus XV.13 <campanus:euclid:XV.13>`), Pacioli completes his exposition of the entire Euclidean-Campanian canon of the five regular solids (:cite:`Euclid XIII.1 <euclid:elements:XIII.1>`–:cite:`Euclid XIII.18 <euclid:elements:XIII.18>`, :cite:`Euclid XIV.1 <euclid:elements:XIV.1>`–:cite:`Euclid XIV.10 <euclid:elements:XIV.10>`, and :cite:`Campanus XV.1–13 <campanus:euclid:XV.1–13>`). Chapters ``XLVIII``–``LV`` now transition directly to **Leonardo da Vinci's** woodcut plates (Plates I–XL) and the semi-regular and stellated **dependent bodies** (:term:`*corpi dependenti* <corpi-dependenti>`).
+- **Completion of the Classical Corpus (Books I–XV)**: With ``Cap. XLVII`` (:cite:`Campanus XV.13 <campanus:euclid:XV.13>`), :person:`Pacioli <pacioli>` completes his exposition of the entire Euclidean-Campanian canon of the five regular solids (:cite:`Euclid XIII.1 <euclid:elements:XIII.1>`–:cite:`Euclid XIII.18 <euclid:elements:XIII.18>`, :cite:`Euclid XIV.1 <euclid:elements:XIV.1>`–:cite:`Euclid XIV.10 <euclid:elements:XIV.10>`, and :cite:`Campanus XV.1–13 <campanus:euclid:XV.1–13>`). Chapters ``XLVIII``–``LV`` now transition directly to :person:`**Leonardo da Vinci's** <leonardo>` woodcut plates (Plates I–XL) and the semi-regular and stellated **dependent bodies** (:term:`*corpi dependenti* <corpi-dependenti>`).
 
 Cap. XLVIII — On the Form and Disposition of the Plane (Solid) and Hollow (Skeletal) Tetracedron, Regular and Truncated (Plates I–IV), and Elevated (Plates V–VI).
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

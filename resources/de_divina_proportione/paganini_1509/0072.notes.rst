@@ -4,9 +4,9 @@ Folio 0072 (f. 28v) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0071.rst``): Folio f. 28r (recto), Part II: Tractato de l'Architectura — Cap. V, Cap. VI (f. 28r) — Sequita dir dela longhezzä e grosseza de dieta colonna.
-- **Current Folio** (``0072.rst``): Folio f. 28v (verso), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. VI (f. 28v) — Sequita lordine del :term:`stilobata <stilobata>` ouer :term:`pilastro <pilastro>` ouero basam
-- **Following Folio** (``0073.rst``): Folio f. 29r (recto), Part II: Tractato de l'Architectura — Cap. VII (f. 29r) — In quello sienno differenti le tre spetie de diete colo
+- **Preceding Folio** (``0071.rst``): Folio f. 28r (recto), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` — Cap. V, Cap. VI (f. 28r) — Sequita dir dela longhezzä e grosseza de dieta colonna.
+- **Current Folio** (``0072.rst``): Folio f. 28v (verso), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` [``02_architectura``] — Cap. VI (f. 28v) — Sequita lordine del :term:`stilobata <stilobata>` ouer :term:`pilastro <pilastro>` ouero basam
+- **Following Folio** (``0073.rst``): Folio f. 29r (recto), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` — Cap. VII (f. 29r) — In quello sienno differenti le tre spetie de diete colo
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,7 +18,7 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PARS``
 - **Folio Signature / Numeration**: ``f. 28v`` (Scan page ``72``, *verso*)
-- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Book & Section Slug**: Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` (``02_architectura``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
   - **Cap. VI** (``architectura/cap_06``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/006_cap_VI.txt``
 
@@ -31,7 +31,7 @@ Cap. VI — On the Order and Construction of the Stylobate (Pedestal or Base-Pil
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Pacioli and Leonardo da Vinci Living Together in Milan (1496–1499) and Florence (1500+)**: This famous passage on Folio 0072 (``f. 28v``) is one of the cornerstone documents of :person:`Leonardo da Vinci <leonardo>`'s biography:
-  1. It confirms that Leonardo drew the 60 polyhedra plates in Milan between **1496 and 1499** while both he and Pacioli were on the payroll of Duke :person:`Ludovico Maria Sforza <ludovico-sforza>`;
-  2. It records that after the fall of Milan to Louis XII of France in late **1499**, Pacioli and Leonardo **left Milan together** (visiting Mantua and Venice) and **shared a household in Florence** (*e a Firenze pur insiemi trahemmo domicilio*);
-  3. It documents the **three sets of 60 painted three-dimensional polyhedra models** constructed by Pacioli's own hands: the first for :person:`**Ludovico Sforza** <ludovico-sforza>` (presented in 1498), the second for :person:`**Galeazzo Sanseverino** <galeazzo-sanseverino>` in Milan, and the third in Florence for **Gonfaloniere Piero Soderini** (kept in the Palazzo Vecchio, as also recorded in Florentine municipal payment records of 1505).
+- **Pacioli and Leonardo da Vinci Living Together in Milan (1496–1499) and Florence (1500+)**: This famous passage on Folio 0072 (``f. 28v``) is one of the cornerstone documents of :person:`Leonardo da Vinci's <leonardo>` biography:
+  1. It confirms that :person:`Leonardo <leonardo>` drew the 60 polyhedra plates in Milan between **1496 and 1499** while both he and :person:`Pacioli <pacioli>` were on the payroll of Duke :person:`Ludovico Maria Sforza <ludovico-sforza>`;
+  2. It records that after the fall of Milan to Louis XII of France in late **1499**, :person:`Pacioli <pacioli>` and :person:`Leonardo <leonardo>` **left Milan together** (visiting Mantua and Venice) and **shared a household in Florence** (*e a Firenze pur insiemi trahemmo domicilio*);
+  3. It documents the **three sets of 60 painted three-dimensional polyhedra models** constructed by :person:`Pacioli's <pacioli>` own hands: the first for :person:`**Ludovico Sforza** <ludovico-sforza>` (presented in 1498), the second for :person:`**Galeazzo Sanseverino** <galeazzo-sanseverino>` in Milan, and the third in Florence for **Gonfaloniere Piero Soderini** (kept in the Palazzo Vecchio, as also recorded in Florentine municipal payment records of 1505).

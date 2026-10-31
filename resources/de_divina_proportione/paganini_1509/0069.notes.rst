@@ -4,9 +4,9 @@ Folio 0069 (f. 27r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0068.rst``): Folio f. 26v (verso), Part II: Tractato de l'Architectura — Cap. II, Cap. III (f. 26v) — Dela distantia del profilo al :term:`cotozzo <cotozzo>` de dieta testa ci
-- **Current Folio** (``0069.rst``): Folio f. 27r (recto), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. III, Cap. IV (f. 27r) — Dela proportione de tutto el corpo humano che sia ben d
-- **Following Folio** (``0070.rst``): Folio f. 27v (verso), Part II: Tractato de l'Architectura — Cap. IV (f. 27v) — Sequita dele :term:`colonne rotonde <colonna-rotonda>` con sue basi e capitelli e
+- **Preceding Folio** (``0068.rst``): Folio f. 26v (verso), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` — Cap. II, Cap. III (f. 26v) — Dela distantia del profilo al :term:`cotozzo <cotozzo>` de dieta testa ci
+- **Current Folio** (``0069.rst``): Folio f. 27r (recto), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` [``02_architectura``] — Cap. III, Cap. IV (f. 27r) — Dela proportione de tutto el corpo humano che sia ben d
+- **Following Folio** (``0070.rst``): Folio f. 27v (verso), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` — Cap. IV (f. 27v) — Sequita dele :term:`colonne rotonde <colonna-rotonda>` con sue basi e capitelli e
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -21,7 +21,7 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``-PRftMr``
 - **Folio Signature / Numeration**: ``f. 27r`` (Scan page ``69``, *recto*)
-- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Book & Section Slug**: Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` (``02_architectura``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
   - **Cap. III** (``architectura/cap_03``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/003_cap_III.txt``
   - **Cap. IV** (``architectura/cap_04``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/004_cap_IV.txt``
@@ -45,4 +45,4 @@ Historical & Mathematical Commentary
 ------------------------------------
 
 - **Paganini 1509 Plate Referenced**: Folio 0213 (``0213.rst``, ``0213.g1.png``) shows the complete Corinthian/Ionic column on its :term:`stylobate <stilobata>` and :term:`stereobate <steriobata>` with all the reference letters (:math:`a, b, c, d, e, f, g, h, k, l, m, n, o, p`) cited in ``Cap. IV``–``Cap. VI``.
-- **Exact Arithmetic of :math:`\frac{1}{8} - \frac{1}{10} = \frac{1}{40}`**: Notice how Pacioli expresses the thickness of the abacus as the difference between the two Vitruvian human head ratios from ``Cap. III``—the **whole head** (:math:`\frac{1}{8}`) minus the **face** (:math:`\frac{1}{10}`), which equals :math:`\frac{1}{40}` (the crown of the skull from hairline to vertex!).
+- **Exact Arithmetic of :math:`\frac{1}{8} - \frac{1}{10} = \frac{1}{40}`**: Notice how :person:`Pacioli <pacioli>` expresses the thickness of the abacus as the difference between the two Vitruvian human head ratios from ``Cap. III``—the **whole head** (:math:`\frac{1}{8}`) minus the **face** (:math:`\frac{1}{10}`), which equals :math:`\frac{1}{40}` (the crown of the skull from hairline to vertex!).

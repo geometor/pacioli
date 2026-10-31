@@ -15,8 +15,8 @@ Historical and Philological Commentary
 1. **Mathematical Verification of the Twelfth Effect (Campanus XIV.9)**:
 
    - Let a sphere have diameter $D$. By :cite:`Euclid XIII.15 <euclid:elements:XIII.15>`, the edge of the inscribed cube satisfies $s_{\text{cube}}^2 = \frac{1}{3}D^2$.
-   - By :cite:`Euclid XIII.16.p <euclid:elements:XIII.16.p>` and :cite:`Euclid XIII.18 <euclid:elements:XIII.18>`, the edge of the inscribed :term:`icosahedron <icosahedron>` satisfies $s_{\text{icosa}}^2 = \frac{5 - \sqrt{5}}{10}D^2$.
-   - Meanwhile, in Pacioli's formula with $a+b = 10$, $a = \sqrt{125}-5$, and $b = 15-\sqrt{125}$:
+   - By :cite:`Euclid XIII.16 <euclid:elements:XIII.16>`.p and :cite:`Euclid XIII.18 <euclid:elements:XIII.18>`, the edge of the inscribed :term:`icosahedron <icosahedron>` satisfies $s_{\text{icosa}}^2 = \frac{5 - \sqrt{5}}{10}D^2$.
+   - Meanwhile, in :person:`Pacioli's <pacioli>` formula with $a+b = 10$, $a = \sqrt{125}-5$, and $b = 15-\sqrt{125}$:
 
      - $(a+b)^2 + a^2 = 250 - \sqrt{12500} = 250 - 50\sqrt{5} = 50(5 - \sqrt{5})$.
      - By the Fifth Effect (Chapter XIV, :cite:`Euclid XIII.4 <euclid:elements:XIII.4>`), $(a+b)^2 + b^2 = 3a^2 = 450 - \sqrt{112500} = 3 \times 50(3 - \sqrt{5})$!
@@ -31,7 +31,7 @@ Constantin Winterberg's Commentary (1889 Edition)
 
 .. rubric:: Note 8 (Cap. XXI): Twelfth Effect — Ratio of the Cube Edge to the Icosahedron Edge in the Same Sphere (:ref:`Sachliche Anmerkungen #8 <plates-anmerkungen-en>`, Cap. XXI, p. 209, l. 13 from bottom)
 
-Denoting by $s$ and $s'$ the edges of the cube and regular :term:`icosahedron <icosahedron>` inscribed in the same sphere, and letting the segment $ab$ be divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $c$ ($ac > bc$), Pacioli's claim (following :cite:`Campanus XIV.9 <campanus:euclid:XIV.9>`) is:
+Denoting by $s$ and $s'$ the edges of the cube and regular :term:`icosahedron <icosahedron>` inscribed in the same sphere, and letting the segment $ab$ be divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $c$ ($ac > bc$), :person:`Pacioli's <pacioli>` claim (following :cite:`Campanus XIV.9 <campanus:euclid:XIV.9>`) is:
 
 .. math::
 

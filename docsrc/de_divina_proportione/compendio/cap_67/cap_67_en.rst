@@ -38,7 +38,7 @@ To make clear to the eye why every lateral pyramid is **one-third** (*subtripla*
 
 .. rubric:: Praise of Euclid of Megara and Book X of the *Elements*
 
-How deeply obligated we are, most lofty Duke, to the Ancients who by their long nightly vigils illuminated our minds—and above all to our **Euclid of Megara** (*al nostro Megarense Euclide*), who in an orderly chain gathered the discoveries of his predecessors and added his own with such diligent demonstrations throughout his sublime volume! Truly his intellect shows itself **not human, but divine** (*non humano ma divino*)—most especially in his **tenth book** (*nel suo decimo*), where he exalted human reason as high as is permitted to mortal man; nor can I comprehend how anyone could have spoken more sublimely of those most abstract **irrational lines** (*linee abstractissime irrationali*), whose science is the deepest above all others in the judgment of those who know best!
+How deeply obligated we are, most lofty Duke, to the Ancients who by their long nightly vigils illuminated our minds—and above all to our :person:`**Euclid of Megara** <euclid-of-megara>` (*al nostro Megarense Euclide*), who in an orderly chain gathered the discoveries of his predecessors and added his own with such diligent demonstrations throughout his sublime volume! Truly his intellect shows itself **not human, but divine** (*non humano ma divino*)—most especially in his **tenth book** (*nel suo decimo*), where he exalted human reason as high as is permitted to mortal man; nor can I comprehend how anyone could have spoken more sublimely of those most abstract **irrational lines** (*linee abstractissime irrationali*), whose science is the deepest above all others in the judgment of those who know best!
 
 .. qed::
 

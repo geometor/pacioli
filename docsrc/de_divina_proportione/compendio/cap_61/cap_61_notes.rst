@@ -16,7 +16,14 @@ Historical & Mathematical Commentary
 
   - **Plate XLIX** (``0289.rst``, Pentagonal Prism, solid) and **Plate L** (``0291.rst``, Pentagonal Prism, skeletal).
 
-- **Invocation of :cite:`Euclid XIII.7 <euclid:elements:XIII.7>`**: Pacioli deftly reminds the reader why in :ref:`Chapter XXI <compendio-cap_21-en>` (:cite:`Euclid XIII.7 <euclid:elements:XIII.7>`) he proved that an equilateral pentagon requires *three* equal angles to force equiangularity (since a non-regular equilateral pentagon—such as a house-shaped pentagon—can have five equal sides and two right angles without being regular).
+- **Invocation of Euclid XIII.7**: :person:`Pacioli <pacioli>` deftly reminds the reader why in :ref:`Chapter XXI <compendio-cap_21-en>` (:cite:`Euclid XIII.7 <euclid:elements:XIII.7>`) he proved that an equilateral pentagon requires *three* equal angles to force equiangularity (since a non-regular equilateral pentagon—such as a house-shaped pentagon—can have five equal sides and two right angles without being regular).
+
+Constantin Winterberg's Commentary (1889 Edition)
+-------------------------------------------------
+
+- :person:`Winterberg <winterberg>` Footnote 1 (Cap. LXI, p. 255): Rendering *simili* literally as 'similar' here would give a false sense; :person:`Pacioli <pacioli>` means 'uniform / homogeneous' (*gleichartig*).
+  (:person:`Winterberg <winterberg>` Fussnote 1 (Cap. LXI, S. 255): *simili = ähnlich, würde einen falschen Sinn geben.*)
+
 
 Philological and Folio Apparatus
 --------------------------------

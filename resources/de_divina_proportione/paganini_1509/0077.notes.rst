@@ -4,9 +4,9 @@ Folio 0077 (f. 31r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0076.rst``): Folio f. 30v (verso), Part II: Tractato de l'Architectura — Cap. IX, Cap. X, Cap. XI (f. 30v) — Dele :term:`colonne laterate <colonna-laterata>`.
-- **Current Folio** (``0077.rst``): Folio f. 31r (recto), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. XII (f. 31r) — De lordini dele :term:`colonne rotonde <colonna-rotonda>` comme se debino nelli h
-- **Following Folio** (``0078.rst``): Folio f. 31v (verso), Part II: Tractato de l'Architectura — Cap. XIII, Cap. XIV (f. 31v) — De linterualli fra lun tigrafo e laltro.
+- **Preceding Folio** (``0076.rst``): Folio f. 30v (verso), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` — Cap. IX, Cap. X, Cap. XI (f. 30v) — Dele :term:`colonne laterate <colonna-laterata>`.
+- **Current Folio** (``0077.rst``): Folio f. 31r (recto), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` [``02_architectura``] — Cap. XII (f. 31r) — De lordini dele :term:`colonne rotonde <colonna-rotonda>` comme se debino nelli h
+- **Following Folio** (``0078.rst``): Folio f. 31v (verso), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` — Cap. XIII, Cap. XIV (f. 31v) — De linterualli fra lun tigrafo e laltro.
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,7 +20,7 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``, -PRIMA:``
 - **Folio Signature / Numeration**: ``f. 31r`` (Scan page ``77``, *recto*)
-- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Book & Section Slug**: Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` (``02_architectura``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
   - **Cap. XII** (``architectura/cap_12``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/012_cap_XII.txt``
 
@@ -33,4 +33,4 @@ Cap. XII — On the Orders and Spacing (Intercolumniations / Tetrants) of Round 
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Vitruvius III.3 (Intercolumniations) and V.6.7 (Tempering *Symmetria* by *Eurythmia* and *Usus*)**: Pacioli pairs :person:`Vitruvius <vitruvius>`'s classification of intercolumniations (Pycnostyle :math:`1\frac{1}{2}D`, Systyle :math:`2D`, Eustyle :math:`2\frac{1}{4}D`, Diastyle :math:`3D`, Araeostyle :math:`>3D`) with the famous passage from Book V Chapter 6 on theaters, explaining why human-scale functional elements (steps, balustrades, passages) cannot simply be scaled down linearly in smaller buildings.
+- **Vitruvius III.3 (Intercolumniations) and V.6.7 (Tempering *Symmetria* by *Eurythmia* and *Usus*)**: :person:`Pacioli <pacioli>` pairs :person:`Vitruvius <vitruvius>`'s classification of intercolumniations (Pycnostyle :math:`1\frac{1}{2}D`, Systyle :math:`2D`, Eustyle :math:`2\frac{1}{4}D`, Diastyle :math:`3D`, Araeostyle :math:`>3D`) with the famous passage from Book V Chapter 6 on theaters, explaining why human-scale functional elements (steps, balustrades, passages) cannot simply be scaled down linearly in smaller buildings.

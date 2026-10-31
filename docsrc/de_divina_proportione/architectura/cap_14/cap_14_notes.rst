@@ -18,7 +18,7 @@ Historical & Mathematical Commentary
 Constantin Winterberg's Commentary (1889 Edition)
 -------------------------------------------------
 
-- :person:`Winterberg <winterberg>` Footnotes 1–2 (Arch. Cap. XIV, p. 324): (1) Compare the Entablature plate at the end of the treatise (Paganini Folio 0215, ``0215.g1.png``). (2) Where the 1509 print reads $\frac{1}{3}$ for the bead-moulding $b$, :cite:`Vitruvius III.5 <vitruvius:de-arch:III.5>`.10 gives $\frac{1}{7}$ of the fascia (or $\frac{1}{4}$ in Fra Giocondo's edition).
+- :person:`Winterberg <winterberg>` Footnotes 1–2 (Arch. Cap. XIV, p. 324): (1) Compare the Entablature plate at the end of the treatise (Paganini Folio 0215, ``0215.g1.png``). (2) Where the 1509 print reads $\frac{1}{3}$ for the bead-moulding $b$, :cite:`Vitruvius III.5 <vitruvius:de-arch:III.5>`.10 gives $\frac{1}{7}$ of the fascia (or $\frac{1}{4}$ in :person:`Fra Giocondo <fra-giocondo>`'s edition).
   (:person:`Winterberg <winterberg>` Fussnoten 1–2 (Arch. Cap. XIV, S. 324): *1) Vgl. die betr. Figur a. Ende des Tractats. 2) wohl 1/4.*)
 
 

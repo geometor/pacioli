@@ -14,6 +14,13 @@ Historical & Mathematical Commentary
 
 - **Reference to the Print Run of the *Summa* (1494)**: Notice Pacioli's proud remark on Folio 0054 (``f. 19v``) that his *:cite:`Summa de Arithmetica <pacioli:summa>`, :term:`Geometria <geometria>`, Proportioni e Proportionalita* (printed at Venice by Paganino de' Paganini in November 1494) is easily accessible to all readers *"per la lor copiosa multitudine stampato e per l'universo ormai divulgata"* ("because of the copious multitude printed and now disseminated throughout the world").
 
+Constantin Winterberg's Commentary (1889 Edition)
+-------------------------------------------------
+
+- :person:`Winterberg <winterberg>` Footnote 1 (Cap. LXIII, p. 258): Compare the second figure on p. 110 (Paganini Folio 0053, ``0053.g3.png``).
+  (:person:`Winterberg <winterberg>` Fussnote 1 (Cap. LXIII, S. 258): *vgl. 2. Fig. pag. 110.*)
+
+
 Philological and Folio Apparatus
 --------------------------------
 

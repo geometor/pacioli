@@ -37,8 +37,8 @@ Bekanntlich verhalten sich in jedem regulären :term:`Tetraeder <tetrahedron>` d
 
 Alles Uebrige ergibt sodann der Text von selber.
 
-- :person:`Winterberg <winterberg>` Footnote 1 (Cap. XXVI, p. 216): Compare Chapter LXXI on the technical term :term:`*corausto* <corausto>` (the slant edge of the pyramid).
-  (:person:`Winterberg <winterberg>` Fussnote 1 (Cap. XXVI, S. 216): *cfr. Cap. LXXI.*)
+- :person:`Winterberg <winterberg>` Footnotes 1–3 (Cap. XXVI, pp. 215–216): (1) Instead of the term 'edge' (*Kante*), :person:`Pacioli <pacioli>` frequently uses the synonymous designation 'side' (*lato / Seite*). (2) Namely, the diameter of the circumscribed sphere (*scil. der umbeschriebenen*). (3) Compare Chapter LXXI on the technical term :term:`*corausto* <corausto>` (the slant edge of the pyramid).
+  (:person:`Winterberg <winterberg>` Fussnoten 1–3 (Cap. XXVI, S. 215–216): *1) Statt des Ausdrucks „Kante“ kehrt häufig die dasselbe besagende Bezeichnung „Seite“ wieder. 2) scil. der umbeschriebenen. 3) cfr. Cap. LXXI.*)
 
 
 Philological and Folio Apparatus

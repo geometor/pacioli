@@ -13,7 +13,7 @@ Historical & Mathematical Commentary
 ------------------------------------
 
 - **Paganini 1509 Plate Referenced**: Folio 0213 (``0213.rst``, ``0213.g1.png``) shows the complete Corinthian/Ionic column on its :term:`stylobate <stilobata>` and :term:`stereobate <steriobata>` with all the reference letters (:math:`a, b, c, d, e, f, g, h, k, l, m, n, o, p`) cited in ``Cap. IV``–``Cap. VI``.
-- **Exact Arithmetic of :math:`\frac{1}{8} - \frac{1}{10} = \frac{1}{40}`**: Notice how Pacioli expresses the thickness of the abacus as the difference between the two Vitruvian human head ratios from ``Cap. III``—the **whole head** (:math:`\frac{1}{8}`) minus the **face** (:math:`\frac{1}{10}`), which equals :math:`\frac{1}{40}` (the crown of the skull from hairline to vertex!).
+- **Exact Arithmetic of :math:`\frac{1}{8} - \frac{1}{10} = \frac{1}{40}`**: Notice how :person:`Pacioli <pacioli>` expresses the thickness of the abacus as the difference between the two Vitruvian human head ratios from ``Cap. III``—the **whole head** (:math:`\frac{1}{8}`) minus the **face** (:math:`\frac{1}{10}`), which equals :math:`\frac{1}{40}` (the crown of the skull from hairline to vertex!).
 
 Philological and Folio Apparatus
 --------------------------------

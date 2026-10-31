@@ -4,9 +4,9 @@ Folio 0042 (f. 13v) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0041.rst``): Folio f. 13r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XXXIII, Cap. XXXIV, Cap. XXXV, Cap. XXXVI, Cap. XXXVII (f. 13r) — Dela proportione de tutte loro superficie lune alaltre.
-- **Current Folio** (``0042.rst``): Folio f. 13v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. XXXVIII, Cap. XXXIX, Cap. XL, Cap. XLI, Cap. XLII, Cap. XLIII, Cap. XLIV (f. 13v) — Dela inscriptione del :term:`tetracedron <tetrahedron>` in loctocedron.
-- **Following Folio** (``0043.rst``): Folio f. 14r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XLV, Cap. XLVI, Cap. XLVII, Cap. XLVIII (f. 14r) — Del modo aformare el :term:`tetracedron <tetrahedron>` nello :term:`ycocedron <icosahedron>`.
+- **Preceding Folio** (``0041.rst``): Folio f. 13r (recto), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` — Cap. XXXIII, Cap. XXXIV, Cap. XXXV, Cap. XXXVI, Cap. XXXVII (f. 13r) — Dela proportione de tutte loro superficie lune alaltre.
+- **Current Folio** (``0042.rst``): Folio f. 13v (verso), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` [``01_compendio``] — Cap. XXXVIII, Cap. XXXIX, Cap. XL, Cap. XLI, Cap. XLII, Cap. XLIII, Cap. XLIV (f. 13v) — Dela inscriptione del :term:`tetracedron <tetrahedron>` in loctocedron.
+- **Following Folio** (``0043.rst``): Folio f. 14r (recto), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` — Cap. XLV, Cap. XLVI, Cap. XLVII, Cap. XLVIII (f. 14r) — Del modo aformare el :term:`tetracedron <tetrahedron>` nello :term:`ycocedron <icosahedron>`.
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -18,7 +18,7 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``,PARS``
 - **Folio Signature / Numeration**: ``f. 13v`` (Scan page ``42``, *verso*)
-- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
+- **Book & Section Slug**: Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
   - **Cap. XXXVIII** (``compendio/cap_38``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/038_cap_XXXVIII.txt``
   - **Cap. XXXIX** (``compendio/cap_39``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/039_cap_XXXIX.txt``
@@ -62,7 +62,7 @@ Cap. XLI — How the Exacedron or Cube Is Placed in the Ycocedron.
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Elegance of Campanus's Mediated Inscription**: Rather than attempting a direct coordinate construction in the :term:`icosahedron <icosahedron>`, :person:`Campanus <campanus>` (and Pacioli) exploits the dual :term:`dodecahedron <dodecahedron>` (XV.6) together with :person:`Euclid <euclid>`'s roof construction (:cite:`Euclid XIII.17 <euclid:elements:XIII.17>`): since every regular :term:`dodecahedron <dodecahedron>` contains 5 inscribed cubes (whose 12 edges are face diagonals of the 12 pentagons), inscribing the dual :term:`dodecahedron <dodecahedron>` inside the :term:`icosahedron <icosahedron>` immediately places 8 of the :term:`icosahedron <icosahedron>`'s 20 face-centers at the corners of a regular cube!
+- **Elegance of Campanus's Mediated Inscription**: Rather than attempting a direct coordinate construction in the :term:`icosahedron <icosahedron>`, :person:`Campanus <campanus>` (and :person:`Pacioli <pacioli>`) exploits the dual :term:`dodecahedron <dodecahedron>` (XV.6) together with :person:`Euclid <euclid>`'s roof construction (:cite:`Euclid XIII.17 <euclid:elements:XIII.17>`): since every regular :term:`dodecahedron <dodecahedron>` contains 5 inscribed cubes (whose 12 edges are face diagonals of the 12 pentagons), inscribing the dual :term:`dodecahedron <dodecahedron>` inside the :term:`icosahedron <icosahedron>` immediately places 8 of the :term:`icosahedron <icosahedron>`'s 20 face-centers at the corners of a regular cube!
 
 Cap. XLII — How the Tetracedron Is Formed in the Ycocedron.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

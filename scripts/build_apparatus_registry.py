@@ -272,7 +272,7 @@ def build_citation_rules() -> List[Tuple[Pattern[str], Any]]:
         )
     )
 
-    # 4. Dynamic English / Notes Euclidean locus citations: e.g. "Euclid XIII.1", "Elements VI.def.3", "Campanus IX.16"
+    # 4. Dynamic English / German / Notes Euclidean locus citations: e.g. "Euclid XIII.1", "Euklid XIII.3", "Elements VI.def.3", "Campanus IX.16"
     def _en_euclid_prop(m: re.Match[str]) -> str:
         full = m.group(0)
         brom = m.group("bk")
@@ -282,9 +282,23 @@ def build_citation_rules() -> List[Tuple[Pattern[str], Any]]:
     rules.append(
         (
             re.compile(
-                r"\b(?:Euclid|Elements)\s+(?P<bk>I|II|III|IV|V|VI|VII|VIII|IX|X|XI|XII|XIII|XIV|XV)\.(?P<prop>(?:def\.\d+|\d+(?:[–-]\d+)?))\b"
+                r"\b(?:Euclid|Euklid|Elements|Elemente)\s+(?P<bk>I|II|III|IV|V|VI|VII|VIII|IX|X|XI|XII|XIII|XIV|XV)\.(?P<prop>(?:def\.\d+|\d+(?:[–-]\d+)?))\b"
             ),
             _en_euclid_prop,
+        )
+    )
+
+    def _en_euclid_book_named(m: re.Match[str]) -> str:
+        full = m.group(0)
+        brom = m.group("bk")
+        return f":cite:`{full} <euclid:elements:{brom}>`"
+
+    rules.append(
+        (
+            re.compile(
+                r"\b(?:Euclid|Euklid),?\s+(?:Book\s+(?P<bk>I|II|III|IV|V|VI|VII|VIII|IX|X|XI|XII|XIII|XIV|XV)|(?P<bk2>I|II|III|IV|V|VI|VII|VIII|IX|X|XI|XII|XIII|XIV|XV)\.\s*Buch(?:es)?)\b"
+            ),
+            lambda m: f":cite:`{m.group(0)} <euclid:elements:{m.group('bk') or m.group('bk2')}>`",
         )
     )
 
@@ -323,6 +337,9 @@ def build_citation_rules() -> List[Tuple[Pattern[str], Any]]:
         (r"\bnach dem vorletzten Satze des ersten Buches\b", "euclid:elements:I.47"),
         (r"\blibro de li Elementi\b", "euclid:elements"),
         (r"\blibri de li Elementi\b", "euclid:elements"),
+        (r"\bBook XIV,\s*Proposition 2\b", "hypsicles:liber-xiv:2"),
+        (r"\bXIV\.\s*Buch(?:es)?,\s*Satz\s*2\b", "hypsicles:liber-xiv:2"),
+        (r"\bElementa Liber XIV\b", "hypsicles:liber-xiv"),
         (r"\bin primo gradu certitudinis\b", "averroes:met:II.16"),
         (r"\bQuam sine fictione didici, et sine invidia communico\b", "biblia:sapientia:7.13"),
         (r"\bquod ne sine figmento didici et sine inuidia libenter communico\b", "biblia:sapientia:7.13"),
@@ -347,13 +364,25 @@ def build_citation_rules() -> List[Tuple[Pattern[str], Any]]:
         (r"\bTimeo\b", "plato:timaeus:53c-56c"),
         (r"\bTimäus\b", "plato:timaeus:53c-56c"),
         (r"\bSumma de Arithmetica, Geometria, Proportioni et Proportionalita\b", "pacioli:summa"),
-        (r"\bSumma de Arithmetica\b", "pacioli:summa"),
+        (r"\bSumma d[ei] [Aa]rithmetica\b", "pacioli:summa"),
         (r"\bnostra grande opera\b", "pacioli:summa"),
         (r"\bgrandopera nostra\b", "pacioli:summa"),
-        (r"\bLibellus de Quinque Corporibus Regularibus\b", "piero:libellus"),
+        (r"\bDivina Proportione:\s*Die Lehre vom Goldenen Schnitt\b", "winterberg:divina-proportione-1889"),
+        (r"\bCompendio de Divina Proportione\b", "pacioli:divina-proportione"),
+        (r"\bDe [Dd]ivina [Pp]roportione\b", "pacioli:divina-proportione"),
+        (r"\bTractato de l'Architectura\b", "pacioli:architectura"),
+        (r"\bLibellus,?\s+Tract(?:ate|\.)\s*II,?\s+Cas(?:e|\.)\s*20\b", "pacioli:libellus:II.20"),
+        (r"\bLibellus de [Qq]uinque [Cc]orporibus [Rr]egularibus\b", "piero:libellus"),
+        (r"\bTractatus de [Qq]uinque [Cc]orporibus [Rr]egularibus\b", "piero:libellus"),
+        (r"\bDe [Qq]uinque [Cc]orporibus [Rr]egularibus\b", "piero:libellus"),
+        (r"\bTractat über die fünf regelmässigen Körper\b", "piero:libellus"),
+        (r"\bTreatise on the Five Regular Bodies\b", "piero:libellus"),
+        (r"\bCod\.?\s*Vat\.?\s*Lat\.?\s*3129\b", "piero:cod-vat-lat-3129"),
+        (r"\bVat\.?\s*Urb\.?\s*[Ll]at\.?\s*632\b", "piero:libellus"),
         (r"\bDe Prospectiva Pingendi\b", "piero:prospectiva"),
         (r"\bDe Re Aedificatoria\b", "alberti:de-re-aedificatoria"),
         (r"\bDe Architectura\b", "vitruvius:de-arch"),
+        (r"\bElementa Euclidis cum Commentariis Campani\b", "campanus:euclid"),
         (r"\bDimensio Circuli\b", "archimedes:dimensio-circuli"),
         (r"\bDe Sphaera et Cylindro\b", "archimedes:sphaera"),
         (r"\bDe Institutione Musica\b", "boethius:musica:II.15"),
@@ -371,7 +400,33 @@ def build_citation_rules() -> List[Tuple[Pattern[str], Any]]:
         (r"\bTeberina\b", "bartolus:tyberiadis"),
         (r"\bTyberiadis\b", "bartolus:tyberiadis"),
         (r"\blibro de pictura e mo[uv]imenti humani\b", "leonardo:pittura"),
+        (r"\bTrattato della Pittura\b", "leonardo:pittura"),
+        (r"\bBook of Painting\b", "leonardo:pittura"),
+        (r"\bDas Malerbuch Lionardo da Vinci's\b", "winterberg:malerbuch-1887"),
+        (r"\bJahrbücher der königlich preussischen Kunstsammlungen\b", "winterberg:malerbuch-1887"),
+        (r"\bMalerbuch(?:es)?\b", "leonardo:pittura"),
+        (r"\bDas Buch von der Malerei\b", "ludwig:buch-von-der-malerei"),
         (r"\bdel moto locale,? dele percussioni e pesi\b", "leonardo:moto-locale"),
+        (r"\bQuellenschriften für Kunstgeschichte(?: und Kunsttechnik des Mittelalters und der Neuzeit)?\b", "eitelberger:quellenschriften"),
+        (r"\bHistoire des sciences mathématiques en Italie\b", "libri:histoire:III"),
+        (r"\bHist\.\s*des\s*sc\.\s*math\.", "libri:histoire:III"),
+        (r"\bHistoire des mathématiques\b", "montucla:histoire"),
+        (r"\bHist\.\s*des\s*math\.", "montucla:histoire"),
+        (r"\b(?:Le\s+)?Vite(?:\s+de'\s+più\s+eccellenti\s+pittori,\s+scultori,\s+e\s+architettori)?\b", "vasari:vite"),
+        (r"\b(?:I\s+)?Sette Libri dell'Architettura\b", "serlio:architettura"),
+        (r"\bNeue Lehre von den Proportionen des menschlichen Körpers\b", "zeising:proportionen"),
+        (r"\bDie männliche und weibliche Normalgestalt\b", "brocheneck:normalgestalt"),
+        (r"\bLehrbuch der plastischen Anatomie\b", "harless:anatomie"),
+        (r"\bDie Proportionslehre der menschlichen Gestalt\b", "carus:proportionslehre"),
+        (r"\bProportionsschlüssel(?::\s*Neues System der Verhältnisse des menschlichen Körpers)?\b", "schmidt:proportionsschluessel"),
+        (r"\bSur l'homme\b", "quetelet:anthropometrie"),
+        (r"\bAnthropométrie\b", "quetelet:anthropometrie"),
+        (r"\bDie Proportionslehre Dürer's(?:\s+nach ihren wesentlichen Bestimmungen in übersichtlicher Darstellung)?\b", "trost:proportionslehre"),
+        (r"\bGeneral[ -]Trattato di (?:Numeri et Misure|Matematiche)\b", "tartaglia:general-trattato"),
+        (r"\bM\.\s*Vitruvii per Iocundum solito castigatior factus\b", "giocondo:vitruvius"),
+        (r"\bApologia(?: degli Accademici di Banchi di Roma)?\b", "caro:apologia"),
+        (r"\bSynagoge\b", "pappus:synagoge:V"),
+        (r"\bHarmonices Mundi\b", "kepler:harmonices-mundi"),
     ]
     for pat_str, target in static_cites:
         rules.append((re.compile(pat_str), target))
@@ -382,16 +437,20 @@ def build_citation_rules() -> List[Tuple[Pattern[str], Any]]:
 def build_person_rules() -> List[Tuple[Pattern[str], str]]:
     """Build regex rules for :person:`display <slug>` across Italian, Latin, German, and English."""
     raw_patterns: List[Tuple[str, str]] = [
-        # Authors & Philosophers
+        # Authors & Philosophers (specific multi-word distinctions first)
+        (r"\bEuclid\s+of\s+Megara\b", "euclid-of-megara"),
+        (r"\bEuklid\s+von\s+Megara\b", "euclid-of-megara"),
+        (r"\bEuclid\s+of\s+Alexandria\b", "euclid"),
+        (r"\bEuklid\s+von\s+Alexandria\b", "euclid"),
         (r"\bEuclide\s+Megarense\b", "euclid"),
         (r"\bEuclidis\s+Megarensis\b", "euclid"),
         (r"\bEuclidae\b", "euclid"),
         (r"\bEuclide\b", "euclid"),
-        (r"\bEuklid(?:s|ischen)?\b", "euclid"),
+        (r"\bEuklid(?:'s|s|ischen|ische)?\b", "euclid"),
         (r"\bEuclid\b", "euclid"),
         (r"\bPlatone\b", "plato"),
         (r"\bPlatonis\b", "plato"),
-        (r"\bPlaton\b", "plato"),
+        (r"\bPlaton(?:s)?\b", "plato"),
         (r"\bPlato\b", "plato"),
         (r"\bAristotile\b", "aristotle"),
         (r"\bAristotele\b", "aristotle"),
@@ -402,12 +461,12 @@ def build_person_rules() -> List[Tuple[Pattern[str], str]]:
         (r"\bArchimede\b", "archimedes"),
         (r"\bArchimedes\b", "archimedes"),
         (r"\bVi[ct]*ru[uv]io\b", "vitruvius"),
-        (r"\bVitruv(?:s)?\b", "vitruvius"),
+        (r"\bVitruv(?:'s|s)?\b", "vitruvius"),
         (r"\bVitruvius\b", "vitruvius"),
         (r"\bBoet(?:h)?io\b", "boethius"),
         (r"\bBoethius\b", "boethius"),
         (r"\bCampano\b", "campanus"),
-        (r"\bCampanus(?:\s+of\s+Novara)?\b", "campanus"),
+        (r"\bCampanus(?:\s+of\s+Novara|\s+von\s+Novara)?\b", "campanus"),
         (r"\bPtolomeo\b", "ptolemy"),
         (r"\bTolomeo\b", "ptolemy"),
         (r"\bPtolemäus\b", "ptolemy"),
@@ -416,17 +475,74 @@ def build_person_rules() -> List[Tuple[Pattern[str], str]]:
         (r"\bPitagora\b", "pythagoras"),
         (r"\bPythagoras\b", "pythagoras"),
         (r"\bPietro\s+de\s+li\s+Franceschi\b", "piero-della-francesca"),
-        (r"\bPiero\s+della\s+Francesca\b", "piero-della-francesca"),
+        (r"\bPiero\s+della\s+Francesca(?:'s)?\b", "piero-della-francesca"),
+        (r"\bPietro\s+della\s+Francesca(?:'s)?\b", "piero-della-francesca"),
         (r"\bPietro\s+Franceschi\b", "piero-della-francesca"),
         (r"\bLeon\s*Ba[pt]*ista\s+de\s*li\s+Alberti\b", "alberti"),
         (r"\bLeon\s+Battista\s+Alberti\b", "alberti"),
-        (r"\bL[eio]onardo\s+da\s+[Vv][ie]nci(?:\s+Fiorentino)?\b", "leonardo"),
-        (r"\bLeonardo\s+da\s+Vinci\b", "leonardo"),
-        (r"\bFra\s+Luca\s+Pacioli\b", "pacioli"),
-        (r"\bLuca\s+Pacioli\b", "pacioli"),
+        (r"\bL\.\s*B\.\s*Alberti(?:'s)?\b", "alberti"),
+        (r"\bAlberti(?:'s|s)?\b", "alberti"),
+        (r"\bL[eio]onardo\s+da\s+[Vv][ie]nci(?:\s+Fiorentino)?(?:'s)?\b", "leonardo"),
+        (r"\bLeonardo\s+da\s+Vinci(?:'s)?\b", "leonardo"),
+        (r"\bFra\s+Luca\s+Pacioli(?:'s)?\b", "pacioli"),
+        (r"\bLuca\s+Pacioli(?:'s)?\b", "pacioli"),
         (r"\bLucas\s+Paciolus\b", "pacioli"),
+        (r"\bPacioli(?:'schen|'sche|'s|s)?\b", "pacioli"),
+        # Winterberg & 1889 Apparatus Authorities
         (r"\bConstantin\s+Winterberg\b", "winterberg"),
-        (r"\bWinterberg\b", "winterberg"),
+        (r"\bWinterberg(?:'s|s)?\b", "winterberg"),
+        (r"\bRudolf\s+Eitelberger\s+von\s+Edelberg\b", "rudolf-von-eitelberger"),
+        (r"\bRudolf\s+von\s+Eitelberger\b", "rudolf-von-eitelberger"),
+        (r"\bHofrath\s+(?:von|v\.)\s+Eitelberger\b", "rudolf-von-eitelberger"),
+        (r"\bR\.\s*v\.\s*Eitelberger\b", "rudolf-von-eitelberger"),
+        (r"\bEitelberger\b", "rudolf-von-eitelberger"),
+        (r"\bHeinrich\s+Ludwig\b", "heinrich-ludwig"),
+        (r"\bH\.\s*Ludwig\b", "heinrich-ludwig"),
+        (r"\bAlbert\s+Ilg\b", "albert-ilg"),
+        (r"\bCarl\s+Graeser\b", "carl-graeser"),
+        (r"\bCarl\s+Fromme\b", "carl-fromme"),
+        (r"\bGuillaume\s+Libri\b", "guillaume-libri"),
+        (r"\bLibri\b", "guillaume-libri"),
+        (r"\bJean-Étienne\s+Montucla\b", "montucla"),
+        (r"\bMontucla\b", "montucla"),
+        (r"\bGiorgio\s+Vasari(?:'s)?\b", "vasari"),
+        (r"\bVasari(?:'s|s)?\b", "vasari"),
+        (r"\bSebastiano\s+Serlio\b", "serlio"),
+        (r"\bSerlio\b", "serlio"),
+        (r"\bAdolf\s+Zeising(?:'s)?\b", "adolf-zeising"),
+        (r"\bA\.\s*Zeising(?:'s)?\b", "adolf-zeising"),
+        (r"\bZeising(?:'s|s)?\b", "adolf-zeising"),
+        (r"\bBrocheneck\b", "brocheneck"),
+        (r"\bEmil\s+Harless\b", "emil-harless"),
+        (r"\bE\.\s*Harless\b", "emil-harless"),
+        (r"\bHarless\b", "emil-harless"),
+        (r"\bCarl\s+Gustav\s+Carus\b", "carl-gustav-carus"),
+        (r"\bC\.\s*G\.\s*Carus\b", "carl-gustav-carus"),
+        (r"\bCarus\b", "carl-gustav-carus"),
+        (r"\bCarl\s+Schmidt\b", "carl-schmidt"),
+        (r"\bC\.\s*Schmidt\b", "carl-schmidt"),
+        (r"\bAdolphe\s+Quetelet\b", "adolphe-quetelet"),
+        (r"\bQuetelet\b", "adolphe-quetelet"),
+        (r"\bJohann\s+Jacob\s+Trost\b", "j-j-trost"),
+        (r"\bJ\.\s*J\.\s*Trost\b", "j-j-trost"),
+        (r"\bTrost\b", "j-j-trost"),
+        (r"\bNiccol[òo]\s+Tartaglia(?:'s)?\b", "niccolo-tartaglia"),
+        (r"\bTartaglia(?:'s|s)?\b", "niccolo-tartaglia"),
+        (r"\bFra\s+(?:Giovanni\s+)?Giocondo(?:\s+of\s+Verona|\s+von\s+Verona|\s+da\s+Verona)?\b", "fra-giocondo"),
+        (r"\bGiovanni\s+Giocondo\b", "fra-giocondo"),
+        (r"\bAnn?ibale\s+Caro(?:'s)?\b", "annibale-caro"),
+        (r"\bJohannes\s+Kepler\b", "johannes-kepler"),
+        (r"\bKepler\b", "johannes-kepler"),
+        (r"\bSan\s+Rocco\b", "san-rocco"),
+        (r"\bSaint\s+Roch\b", "san-rocco"),
+        (r"\bSt\.\s+Roch(?:us)?\b", "san-rocco"),
+        (r"\bheil(?:igen|\.)\s+Rochus\b", "san-rocco"),
+        (r"\bKing\s+Ferrante(?:\s+of\s+Naples)?\b", "ferrante-of-naples"),
+        (r"\bKönig\s+Ferrante\b", "ferrante-of-naples"),
+        (r"\bRe\s+Ferrante\b", "ferrante-of-naples"),
+        (r"\bFerdinand\s+I\s+of\s+Naples\b", "ferrante-of-naples"),
+        (r"\bFerrante\b", "ferrante-of-naples"),
+        # Renaissance Patrons & Interlocutors
         (r"\bLudo[uv]ico\s+Maria\s+Sforza(?:\s+Anglo)?\b", "ludovico-sforza"),
         (r"\bLudo[uv]ico\s+Sforza\b", "ludovico-sforza"),
         (r"\bLudovico\s+il\s+Moro\b", "ludovico-sforza"),
@@ -593,6 +709,7 @@ def build_person_rules() -> List[Tuple[Pattern[str], str]]:
         (r"\bFrontinus\b", "frontinus"),
         (r"\bRoberto\s+[Vv]alturr?i(?:o)?\b", "roberto-valturio"),
         (r"\bValturio\b", "roberto-valturio"),
+        (r"\bSigismondo\s+(?:Pandolfo\s+)?Malatesta\b", "sigismondo-malatesta"),
         (r"\bTito\s+Li[uv]io\b", "livy"),
         (r"\bLivius\b", "livy"),
         (r"\bLivy\b", "livy"),
@@ -606,6 +723,15 @@ def build_person_rules() -> List[Tuple[Pattern[str], str]]:
         (r"\bStrabo\b", "strabo"),
         (r"\bMarino\b", "marinus-of-tyre"),
         (r"\bMarinus(?:\s+of\s+Tyre)?\b", "marinus-of-tyre"),
+        (r"\bAlbumasar\b", "albumasar"),
+        (r"\bAlfragan(?:us|o)\b", "alfraganus"),
+        (r"\bGeber\b", "geber"),
+        (r"\bAlfonso\s+X(?:\s+of\s+Castile)?\b", "alfonso-x"),
+        (r"\bAlfonso\s+re\s+di\s+Spagna\b", "alfonso-x"),
+        (r"\bGiovanni\s+Bianchini\b", "giovanni-bianchini"),
+        (r"\bBianchini\b", "giovanni-bianchini"),
+        (r"\bProsdocimo(?:\s+de'\s+Beldomandi)?\b", "prosdocimo-beldomandi"),
+        (r"\bProdocimo\b", "prosdocimo-beldomandi"),
         (r"\bSimonide\b", "simonides"),
         (r"\bSimonides\b", "simonides"),
         (r"\bNicomach(?:o|um|us)\b", "nicomachus"),
@@ -637,6 +763,16 @@ def build_person_rules() -> List[Tuple[Pattern[str], str]]:
         (r"\bVerrocchio\b", "andrea-del-verrocchio"),
         (r"\bBenedetto\s+da\s+Maiano\b", "benedetto-da-maiano"),
         (r"\bBernardo\s+Rossellino\b", "bernardo-rossellino"),
+        (r"\bLorenzo\s+Canozi(?:\s+da\s+Lendinara)?\b", "lorenzo-canozi"),
+        (r"\bLorenzo\s+da\s+Lendinara\b", "lorenzo-canozi"),
+        (r"\bGiovan\s+Marco\s+Canozi\b", "giovan-marco-canozi"),
+        (r"\bGiovan\s+Marco\s+da\s+Lendinara\b", "giovan-marco-canozi"),
+        (r"\bCamillo\s+Vitelli\b", "camillo-vitelli"),
+        (r"\bGian\s+Giacomo\s+Trivulzio\b", "gian-giacomo-trivulzio"),
+        (r"\bIacomo\s+Tri[uv]ultio\b", "gian-giacomo-trivulzio"),
+        (r"\bGiovanni\s+(?:Gioviano\s+)?Pontano\b", "giovanni-pontano"),
+        (r"\bPontano\b", "giovanni-pontano"),
+        (r"\bPier\s+Vettori\b", "pier-vettori"),
         (r"\bPiero\s+del\s+Tovaglia\b", "piero-del-tovaglia"),
         (r"\bTovaglia\b", "piero-del-tovaglia"),
         (r"\bCatano\s+Catani\b", "catano-catani"),
@@ -653,6 +789,9 @@ def build_person_rules() -> List[Tuple[Pattern[str], str]]:
         (r"\bPappo\b", "pappus"),
         (r"\bFibonacci\b", "fibonacci"),
         (r"\bLeonardo\s+Pisano\b", "fibonacci"),
+        # Short-name fallbacks (placed after all multi-word names sharing these given names)
+        (r"\bL[ei]onardo(?:'s|s)?\b", "leonardo"),
+        (r"\bPiero(?:'s)?\b", "piero-della-francesca"),
     ]
     return [(re.compile(pat), slug) for pat, slug in raw_patterns]
 
@@ -776,12 +915,23 @@ def build_term_rules() -> List[Tuple[Pattern[str], str]]:
         # Core Proportion & Mathematical Terms
         (r"\bdivina\s+proportione\b", "divina-proportione"),
         (r"\bDivina\s+Proportione\b", "divina-proportione"),
+        (r"\bProportione\s+divina\b", "divina-proportione"),
         (r"\bDivine\s+Proportion\b", "divina-proportione"),
         (r"\bgöttlichen?\s+Proportion\b", "divina-proportione"),
+        (r"\bGoldene[nr]?\s+Schnitt(?:es|e|s)?\b", "goldener-schnitt"),
+        (r"\bGolden\s+Section\b", "goldener-schnitt"),
+        (r"\bPol\s+und\s+Polare\b", "pol-und-polare"),
+        (r"\bpole\s+and\s+polar\b", "pol-und-polare"),
+        (r"\breciproke[nr]?\s+Körper\b", "reciproke-koerper"),
+        (r"\breciprocal\s+(?:solid\s+)?bodies\b", "reciproke-koerper"),
+        (r"\bKanon(?:s)?\b", "kanon"),
+        (r"\bin\s+agibilibus\b", "in-agibilibus"),
+        (r"\bCeneraccio\b", "ceneraccio"),
         (r"\bproportione\s+avente\s+el\s+mezzo\s+e\s+doi\s+extremi\b", "extrema-et-media-ratio"),
         (r"\bextreme\s+and\s+mean\s+ratio\b", "extrema-et-media-ratio"),
         (r"\bproportione\s+continua\b", "proportione-continua"),
         (r"\bcontinuous\s+proportion\b", "proportione-continua"),
+        (r"\bstetige[nr]?\s+Proportion\b", "proportione-continua"),
         (r"\bproportione\s+discontinua\b", "proportione-discontinua"),
         (r"\bArbor\s+Proportio\s+et\s+Proportionalitas\b", "arbor-proportionis"),
         (r"\bproportionalità\b", "proportionalitas"),
@@ -924,6 +1074,7 @@ def build_term_rules() -> List[Tuple[Pattern[str], str]]:
         (r"\bequestrian\s+statue\b", "statua-equestre"),
         (r"\bsimulacro\b", "simulacro"),
         (r"\bLast\s+Supper\b", "simulacro"),
+        (r"\bAbendmahl(?:e|s)?\b", "simulacro"),
         (r"\bCenacolo\b", "simulacro"),
         (r"\bla\s+Rotonda\b", "rotonda-pantheon"),
         (r"\bPantheon\b", "rotonda-pantheon"),
@@ -942,9 +1093,10 @@ TERM_RULES = build_term_rules()
 
 def try_wrap_entire_emphasis_span(span: str) -> str:
     """If an italic `*inner*` or bold `**inner**` span matches a citation, person, or term rule
-    across the entire inner text, wrap the emphasis span INSIDE the role:
+    across the entire inner text (allowing optional German/English outer quotes `„...“`, `"..."`),
+    wrap the emphasis span INSIDE the role:
     e.g. `*In Coelo et Mundo*` -> `:cite:`*In Coelo et Mundo* <aristotle:de-caelo:III.8>``
-    and `*Tetrahedron Planum Solidum*` -> `:term:`*Tetrahedron Planum Solidum* <tetrahedron>``
+    and `*„Summa de arithmetica“*` -> `:cite:`*„Summa de arithmetica“* <pacioli:summa>``
     which is 100% valid Docutils and supported by `photon_platform.publish.roles.geometry`.
     """
     if span.startswith("**") and span.endswith("**") and len(span) > 4:
@@ -960,25 +1112,30 @@ def try_wrap_entire_emphasis_span(span: str) -> str:
     if "`" in inner or "<" in inner or ">" in inner:
         return span
 
+    inner_unquoted = inner.strip('„“”"«»\'').strip()
+    candidates = [inner] if inner_unquoted == inner else [inner, inner_unquoted]
+
     # 1. Check full-span match against CITE_RULES
-    for pat, target in CITE_RULES:
-        m = pat.fullmatch(inner)
-        if m:
-            if callable(target):
-                # Re-wrap with emphasis inside display
-                res = target(m)
-                return res.replace(f":cite:`{inner} <", f":cite:`{delim}{inner}{delim} <", 1)
-            return f":cite:`{delim}{inner}{delim} <{target}>`"
+    for cand in candidates:
+        for pat, target in CITE_RULES:
+            m = pat.fullmatch(cand)
+            if m:
+                if callable(target):
+                    res = target(m)
+                    return res.replace(f":cite:`{cand} <", f":cite:`{delim}{inner}{delim} <", 1)
+                return f":cite:`{delim}{inner}{delim} <{target}>`"
 
     # 2. Check full-span match against PERSON_RULES
-    for pat, slug in PERSON_RULES:
-        if pat.fullmatch(inner):
-            return f":person:`{delim}{inner}{delim} <{slug}>`"
+    for cand in candidates:
+        for pat, slug in PERSON_RULES:
+            if pat.fullmatch(cand):
+                return f":person:`{delim}{inner}{delim} <{slug}>`"
 
-    # 3. Check full-span match or prefix polyhedron match against TERM_RULES
-    for pat, slug in TERM_RULES:
-        if pat.fullmatch(inner):
-            return f":term:`{delim}{inner}{delim} <{slug}>`"
+    # 3. Check full-span match against TERM_RULES
+    for cand in candidates:
+        for pat, slug in TERM_RULES:
+            if pat.fullmatch(cand):
+                return f":term:`{delim}{inner}{delim} <{slug}>`"
 
     # 4. Special check for Latin polyhedra plate titles like `*Tetrahedron Planum Solidum*`:
     # match the longest polyhedron term prefix in `inner` only when `inner` has no nested markup/parens
@@ -1160,8 +1317,8 @@ def parse_role_content(content: str) -> Tuple[str, str]:
     else:
         disp = content.strip()
         target = disp
-    # Strip outer emphasis stars for clean registry display strings
-    clean_disp = disp.strip("*").strip()
+    # Strip outer emphasis stars and outer quote marks for clean registry display strings
+    clean_disp = disp.strip("*").strip('„“”"«»').strip()
     return clean_disp, target
 
 
@@ -1266,7 +1423,11 @@ def main() -> None:
             continue
         rel_doc = doc_path.relative_to(DOCSRC_DIR).with_suffix("").as_posix()
         raw_doc = doc_path.read_text(encoding="utf-8")
-        is_notes_doc = doc_path.name.endswith("_notes.rst")
+        is_notes_doc = (
+            doc_path.name.endswith("_notes.rst")
+            or doc_path.name.startswith("intro_")
+            or doc_path.name.startswith("anmerkungen_")
+        )
         enriched_doc = enrich_rst_document(raw_doc, convert_just_to_cite=is_notes_doc)
         doc_path.write_text(enriched_doc, encoding="utf-8")
 
@@ -1294,6 +1455,12 @@ def main() -> None:
                 if (target, rel_doc) not in seen_w_cite:
                     seen_w_cite.add((target, rel_doc))
                     work_occ_cites[target].append(w_entry)
+                # Also credit the cited author in work_occ_persons
+                author_slug, _, _ = parse_Cite_Key(target)
+                for pslug in CITE_AUTHOR_TO_PERSONS.get(author_slug, []):
+                    if (pslug, rel_doc) not in seen_w_person:
+                        seen_w_person.add((pslug, rel_doc))
+                        work_occ_persons[pslug].append(w_entry)
             elif role == "term":
                 tslug = target.lower()
                 if (tslug, rel_doc) not in seen_w_term:
@@ -1441,9 +1608,14 @@ def _format_work_occ_links(work_occs: List[Dict[str, str]], max_links: int = 24)
                 unit_lbl = f"{sec_lbl} Cap. {cnum}{lang_tag}"
             else:
                 unit_lbl = f"{sec_lbl} {ch_slug}{lang_tag}"
+        elif len(parts) >= 3 and parts[1] == "intro":
+            unit_lbl = f"Winterberg Intro{lang_tag}"
         elif len(parts) >= 3 and parts[1] == "plates":
-            stem = parts[-1].rsplit("_", 1)[0].title()
-            unit_lbl = f"Plates: {stem}{lang_tag}"
+            stem = parts[-1].rsplit("_", 1)[0]
+            if stem == "anmerkungen":
+                unit_lbl = f"Winterberg Anmerkungen{lang_tag}"
+            else:
+                unit_lbl = f"Plates: {stem.title()}{lang_tag}"
         else:
             unit_lbl = w.get("title", parts[-1])
         links.append(f":doc:`{unit_lbl} </{doc}>`")

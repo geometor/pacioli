@@ -4,9 +4,9 @@ Folio 0074 (f. 29v) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0073.rst``): Folio f. 29r (recto), Part II: Tractato de l'Architectura — Cap. VII (f. 29r) — In quello sienno differenti le tre spetie de diete colo
-- **Current Folio** (``0074.rst``): Folio f. 29v (verso), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. VII, Cap. VIII (f. 29v) — In quello sienno differenti le tre spetie de diete colo
-- **Following Folio** (``0075.rst``): Folio f. 30r (recto), Part II: Tractato de l'Architectura — Cap. VIII, Cap. IX (f. 30r) — Doue ora se trouino colonne più debitamente facte per I
+- **Preceding Folio** (``0073.rst``): Folio f. 29r (recto), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` — Cap. VII (f. 29r) — In quello sienno differenti le tre spetie de diete colo
+- **Current Folio** (``0074.rst``): Folio f. 29v (verso), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` [``02_architectura``] — Cap. VII, Cap. VIII (f. 29v) — In quello sienno differenti le tre spetie de diete colo
+- **Following Folio** (``0075.rst``): Folio f. 30r (recto), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` — Cap. VIII, Cap. IX (f. 30r) — Doue ora se trouino colonne più debitamente facte per I
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,7 +20,7 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PARS``
 - **Folio Signature / Numeration**: ``f. 29v`` (Scan page ``74``, *verso*)
-- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Book & Section Slug**: Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` (``02_architectura``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
   - **Cap. VII** (``architectura/cap_07``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/007_cap_VII.txt``
   - **Cap. VIII** (``architectura/cap_08``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/008_cap_VILI.txt``
@@ -34,8 +34,8 @@ Cap. VII — Wherein the Three Species of Columns—Ionic, Doric, and Corinthian
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Vitruvius *De architectura* IV.1.1–10**: Pacioli quotes the entire famous Latin passage of Vitruvius IV.1 on the anthropometric origins of the Doric (:math:`1:6` then :math:`1:7`), Ionic (:math:`1:8` then :math:`1:9`), and Corinthian orders, including the story of *:person:`*Callimachus* <callimachus>`* (*katatexitechnos*) and the Corinthian maiden's tomb basket (*calathus*) covered by a square tile (*tegula*, which became the **abacus**) overgrown by an acanthus plant.
-- **Comparison with Earlier Draft Track**: In the earlier ``winterberg_en`` draft, the long Latin quotation from :cite:`Vitruvius IV.1 <vitruvius:de-arch:IV.1>` was left untranslated or summarized in a sentence. Here both Pacioli's Italian commentary and the complete English translation of the Latin Vitruvian text on Folios ``0073.rst``–``0074.rst`` (``f. 29r``–``f. 29v``) are provided in full.
+- *:person:`*Vitruvius * <vitruvius>`De architectura* IV.1.1–10**: Pacioli quotes the entire famous Latin passage of Vitruvius IV.1 on the anthropometric origins of the Doric (:math:`1:6` then :math:`1:7`), Ionic (:math:`1:8` then :math:`1:9`), and Corinthian orders, including the story of *:person:`*Callimachus* <callimachus>`* (*katatexitechnos*) and the Corinthian maiden's tomb basket (*calathus*) covered by a square tile (*tegula*, which became the **abacus**) overgrown by an acanthus plant.
+- **Comparison with Earlier Draft Track**: In the earlier ``winterberg_en`` draft, the long Latin quotation from :cite:`Vitruvius IV.1 <vitruvius:de-arch:IV.1>` was left untranslated or summarized in a sentence. Here both :person:`Pacioli's <pacioli>` Italian commentary and the complete English translation of the Latin Vitruvian text on Folios ``0073.rst``–``0074.rst`` (``f. 29r``–``f. 29v``) are provided in full.
 
 Cap. VIII — Where Columns Most Duly Made by the Ancients and Moderns Are Found Today in Italy, Critique of Leon Battista Alberti, and the Most Perfect Column in Venice at the Ca' Grande (Frari).
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,6 +43,6 @@ Cap. VIII — Where Columns Most Duly Made by the Ancients and Moderns Are Found
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Pacioli Living with Leon Battista Alberti in Rome under Pope Paul II (1470–1471)**: This chapter contains the sole primary testimony that the young :person:`Luca Pacioli <pacioli>` (born c. 1447), upon arriving in Rome around **1470–1471** during the pontificate of the Venetian Pope **Paul II (Pietro Barbo, r. 1464–1471)**, lived **for many months as a guest in the Roman house of Leon Battista Alberti (1404–1472)** right up to the eve of Alberti's death!
-- **Lorenzo de' Medici's Model for Poggio Reale in Naples**: Pacioli also gives an eyewitness report from his stay in Naples (c. 1489) that **Lorenzo the Magnificent** personally crafted an architectural model and sent it to **Giuliano da Maiano** (1432–1490) for King Ferrante and Duke Alfonso of Calabria's celebrated **Villa of Poggio Reale** (*Dogliuolo*).
-- **Brunelleschi's Architecture in Florence and the Column at the Frari in Venice**: Pacioli singles out Brunelleschi's **Pazzi Chapel** at Santa Croce, **Santo Spirito**, and **San Lorenzo** as the supreme modern realizations of Vitruvian symmetry, and directs his pupils to measure the ancient column resting on an inverted capital in the second cloister of **Santa Maria Gloriosa dei Frari (*la Ca' Grande*)** in Venice.
+- **Pacioli Living with Leon Battista Alberti in Rome under Pope Paul II (1470–1471)**: This chapter contains the sole primary testimony that the young :person:`Luca Pacioli <pacioli>` (born c. 1447), upon arriving in Rome around **1470–1471** during the pontificate of the Venetian Pope **Paul II (Pietro Barbo, r. 1464–1471)**, lived **for many months as a guest in the Roman house of Leon Battista Alberti (1404–1472)** right up to the eve of :person:`Alberti's <alberti>` death!
+- **Lorenzo de' Medici's Model for Poggio Reale in Naples**: :person:`Pacioli <pacioli>` also gives an eyewitness report from his stay in Naples (c. 1489) that **Lorenzo the Magnificent** personally crafted an architectural model and sent it to **Giuliano da Maiano** (1432–1490) for :person:`King Ferrante <ferrante-of-naples>` and Duke Alfonso of Calabria's celebrated **Villa of Poggio Reale** (*Dogliuolo*).
+- **Brunelleschi's Architecture in Florence and the Column at the Frari in Venice**: :person:`Pacioli <pacioli>` singles out Brunelleschi's **Pazzi Chapel** at Santa Croce, **Santo Spirito**, and **San Lorenzo** as the supreme modern realizations of Vitruvian symmetry, and directs his pupils to measure the ancient column resting on an inverted capital in the second cloister of **Santa Maria Gloriosa dei Frari (*la Ca' Grande*)** in Venice.

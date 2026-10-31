@@ -4,9 +4,9 @@ Folio 0033 (f. 9r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0032.rst``): Folio f. 8v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XXV, Cap. XXVI, Cap. XXVII (f. 8v) — Commo non possino essere più. 5. :term:`corpi regulari <corpi-regulari>`.
-- **Current Folio** (``0033.rst``): Folio f. 9r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. XXVII, Cap. XXVIII (f. 9r) — Dela fabrica del cubo e sua proportione ala :term:`spera <spera>`.
-- **Following Folio** (``0034.rst``): Folio f. 9v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XXVIII, Cap. XXIX (f. 9v) — Commo se formi lo :term:`octocedron <octahedron>` in :term:`spera <spera>` aponto collocabil
+- **Preceding Folio** (``0032.rst``): Folio f. 8v (verso), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` — Cap. XXV, Cap. XXVI, Cap. XXVII (f. 8v) — Commo non possino essere più. 5. :term:`corpi regulari <corpi-regulari>`.
+- **Current Folio** (``0033.rst``): Folio f. 9r (recto), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` [``01_compendio``] — Cap. XXVII, Cap. XXVIII (f. 9r) — Dela fabrica del cubo e sua proportione ala :term:`spera <spera>`.
+- **Following Folio** (``0034.rst``): Folio f. 9v (verso), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` — Cap. XXVIII, Cap. XXIX (f. 9v) — Commo se formi lo :term:`octocedron <octahedron>` in :term:`spera <spera>` aponto collocabil
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -24,7 +24,7 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PRIMA``
 - **Folio Signature / Numeration**: ``f. 9r`` (Scan page ``33``, *recto*)
-- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
+- **Book & Section Slug**: Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
   - **Cap. XXVII** (``compendio/cap_27``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/027_cap_XXVII.txt``
   - **Cap. XXVIII** (``compendio/cap_28``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/028_cap_XXVIII.txt``
@@ -38,7 +38,7 @@ Cap. XXVII — How the Second Regular Body, Called the Exacedron or Cube, Is For
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Campanus vs. Heiberg Ordering**: In :person:`Campanus <campanus>`'s Latin *Elements*, the Cube is Proposition 14 of Book XIII and the :term:`Octahedron <octahedron>` is Proposition 15 (whereas in Heiberg's Greek text the :term:`Octahedron <octahedron>` is :cite:`Euclid XIII.14 <euclid:elements:XIII.14>` and the Cube is :cite:`Euclid XIII.15 <euclid:elements:XIII.15>`). Pacioli follows :person:`Campanus <campanus>`'s order here and explicitly explains the reason for this transposition at the end of ``Cap. XXXI``.
+- **Campanus vs. Heiberg Ordering**: In :person:`Campanus <campanus>`'s Latin *Elements*, the Cube is Proposition 14 of Book XIII and the :term:`Octahedron <octahedron>` is Proposition 15 (whereas in Heiberg's Greek text the :term:`Octahedron <octahedron>` is :cite:`Euclid XIII.14 <euclid:elements:XIII.14>` and the Cube is :cite:`Euclid XIII.15 <euclid:elements:XIII.15>`). :person:`Pacioli <pacioli>` follows :person:`Campanus <campanus>`'s order here and explicitly explains the reason for this transposition at the end of ``Cap. XXXI``.
 - **Relation to the Tetrahedron**: Using the same semicircle :math:`adb` cut at :math:`c` with :math:`ac = 2\,cb`, the longer chord :math:`da` is the edge of the inscribed :term:`**tetrahedron** <tetrahedron>` (:math:`da^{2} = \frac{2}{3}ab^{2}`), the shorter chord :math:`db` is the edge of the inscribed **cube** (:math:`db^{2} = \frac{1}{3}ab^{2}`), and therefore the edge of the :term:`tetrahedron <tetrahedron>` is the face diagonal of the cube (:math:`da^{2} = 2\,db^{2}`).
 
 Cap. XXVIII — How the Third Regular Body, Called the Octocedron of Eight Triangular Bases, Is Formed in the Sphere.
@@ -48,4 +48,4 @@ Historical & Mathematical Commentary
 ------------------------------------
 
 - **Paganini 1509 Marginal Diagram**: Folio 0033 (``f. 9r``) provides diagram ``0033.g2.png`` illustrating the bisected semicircle :math:`adb` and the equatorial square :math:`efgh` with its diagonals and perpendicular axis.
-- **Three Perpendicular Axes**: Notice Step 6: the :term:`octahedron <octahedron>` is spanned by three mutually perpendicular diameters :math:`eg`, :math:`fh`, and :math:`lm` intersecting at the center :math:`k`—a structural property that Pacioli later calls "the glorious sign of the Holy Cross" in ``Cap. XLVI`` when explaining why the :term:`octahedron <octahedron>` cannot be inscribed in the :term:`icosahedron <icosahedron>`.
+- **Three Perpendicular Axes**: Notice Step 6: the :term:`octahedron <octahedron>` is spanned by three mutually perpendicular diameters :math:`eg`, :math:`fh`, and :math:`lm` intersecting at the center :math:`k`—a structural property that :person:`Pacioli <pacioli>` later calls "the glorious sign of the Holy Cross" in ``Cap. XLVI`` when explaining why the :term:`octahedron <octahedron>` cannot be inscribed in the :term:`icosahedron <icosahedron>`.

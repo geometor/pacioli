@@ -12,7 +12,7 @@ CHAPTER XV — Critical Commentary & Notes
 Historical and Philological Commentary
 --------------------------------------
 
-1. **Euclid :cite:`Euclid XIII.6 <euclid:elements:XIII.6>` and :cite:`Euclid X.73 <euclid:elements:X.73>`**: Proposition 6 of Book XIII proves that if a rational straight line is cut in :term:`extreme and mean ratio <extrema-et-media-ratio>`, each of the segments is an irrational straight line called an :term:`*apotome* <residuo>` ($\dot{\alpha}\pi\omicron\tau\omicron\mu\acute{\eta}$, defined in :cite:`Euclid X.73 <euclid:elements:X.73>`, :cite:`Campanus X.79 <campanus:euclid:X.79>`). Pacioli calls this the "inexpressible" or "innominable" (*innominabile*) effect because neither segment can ever be named by a rational number when the whole is rational.
+1. **Euclid Euclid XIII.6 and Euclid X.73**: Proposition 6 of Book XIII proves that if a rational straight line is cut in :term:`extreme and mean ratio <extrema-et-media-ratio>`, each of the segments is an irrational straight line called an :term:`*apotome* <residuo>` ($\dot{\alpha}\pi\omicron\tau\omicron\mu\acute{\eta}$, defined in :cite:`Euclid X.73 <euclid:elements:X.73>`, :cite:`Campanus X.79 <campanus:euclid:X.79>`). :person:`Pacioli <pacioli>` calls this the "inexpressible" or "innominable" (*innominabile*) effect because neither segment can ever be named by a rational number when the whole is rational.
 
 Philological and Folio Apparatus
 --------------------------------

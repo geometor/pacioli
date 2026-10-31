@@ -24,7 +24,20 @@ Hosted young Luca Pacioli for several months in his own home in Rome during the 
 
 **Principal Works:** *De Re Aedificatoria*, *De Pictura*, *Ludi Rerum Mathematicarum*
 
-**Occurrences:** :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Comp. Cap. 3 (Notes) </de_divina_proportione/compendio/cap_03/cap_03_notes>`
+**Occurrences:** :doc:`Arch. Cap. 2 (Notes) </de_divina_proportione/architectura/cap_02/cap_02_notes>`, :doc:`Arch. Cap. 8 (DE) </de_divina_proportione/architectura/cap_08/cap_08_de>`, :doc:`Arch. Cap. 8 (EN) </de_divina_proportione/architectura/cap_08/cap_08_en>`, :doc:`Arch. Cap. 8 (Notes) </de_divina_proportione/architectura/cap_08/cap_08_notes>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Comp. Cap. 3 (Notes) </de_divina_proportione/compendio/cap_03/cap_03_notes>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
+.. _person-albumasar:
+
+Albumasar (Abū Maʿshar al-Balkhī) (787 – 886 AD)
+------------------------------------------------
+
+*Persian Astronomer and Astrologer in Baghdad*
+
+Author of the Introductorium in Astronomiam, cited by Pacioli in Compendio Chapter II among the foremost authorities in astronomy.
+
+**Principal Works:** *Introductorium in Astronomiam*
+
+**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`
 
 .. _person-alexander-the-great:
 
@@ -34,6 +47,30 @@ Alexander III of Macedon (Alexander the Great) (356 – 323 BC)
 *King of Macedon*
 
 Patron of the architect Dinocrates in the founding of Alexandria (Architectura Prohemio).
+
+.. _person-alfonso-x:
+
+Alfonso X of Castile ('El Sabio') (1221 – 1284)
+-----------------------------------------------
+
+*King of Castile and León, Patron of the Alfonsine Tables*
+
+Royal patron of the Alfonsine Tables (Tabulae Alfonsinae), cited by Pacioli in Compendio Chapter II among the great astronomical authorities.
+
+**Principal Works:** *Tabulae Alfonsinae*
+
+.. _person-alfraganus:
+
+Alfraganus (Aḥmad ibn Muḥammad ibn Kathīr al-Farghānī) (fl. 9th century AD)
+---------------------------------------------------------------------------
+
+*Abbasid Astronomer*
+
+Author of the Elements of Astronomy (Liber de Aggregationibus Scientiae Stellarum), cited by Pacioli in Compendio Chapter II.
+
+**Principal Works:** *Liber de Aggregationibus Scientiae Stellarum*
+
+**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`
 
 .. _person-ambrogio-da-rosate:
 
@@ -92,7 +129,7 @@ Celebrated by Pacioli both for his defense of Syracuse against Marcus Claudius M
 
 **Principal Works:** *Dimensio Circuli*, *De Sphaera et Cylindro*
 
-**Occurrences:** :doc:`Comp. Cap. 2 (DE) </de_divina_proportione/compendio/cap_02/cap_02_de>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`, :doc:`Comp. Cap. 62 (DE) </de_divina_proportione/compendio/cap_62/cap_62_de>`, :doc:`Comp. Cap. 62 (EN) </de_divina_proportione/compendio/cap_62/cap_62_en>`, :doc:`Comp. Cap. 62 (IT) </de_divina_proportione/compendio/cap_62/cap_62_it>`, :doc:`Comp. Cap. 64 (Notes) </de_divina_proportione/compendio/cap_64/cap_64_notes>`, :doc:`Comp. Cap. 66 (DE) </de_divina_proportione/compendio/cap_66/cap_66_de>`, :doc:`Comp. Cap. 66 (EN) </de_divina_proportione/compendio/cap_66/cap_66_en>`, :doc:`Comp. Cap. 66 (IT) </de_divina_proportione/compendio/cap_66/cap_66_it>`
+**Occurrences:** :doc:`Comp. Cap. 2 (DE) </de_divina_proportione/compendio/cap_02/cap_02_de>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`, :doc:`Comp. Cap. 62 (DE) </de_divina_proportione/compendio/cap_62/cap_62_de>`, :doc:`Comp. Cap. 62 (EN) </de_divina_proportione/compendio/cap_62/cap_62_en>`, :doc:`Comp. Cap. 62 (IT) </de_divina_proportione/compendio/cap_62/cap_62_it>`, :doc:`Comp. Cap. 62 (Notes) </de_divina_proportione/compendio/cap_62/cap_62_notes>`, :doc:`Comp. Cap. 64 (Notes) </de_divina_proportione/compendio/cap_64/cap_64_notes>`, :doc:`Comp. Cap. 66 (DE) </de_divina_proportione/compendio/cap_66/cap_66_de>`, :doc:`Comp. Cap. 66 (EN) </de_divina_proportione/compendio/cap_66/cap_66_en>`, :doc:`Comp. Cap. 66 (IT) </de_divina_proportione/compendio/cap_66/cap_66_it>`
 
 .. _person-aristotle:
 
@@ -105,7 +142,7 @@ Cited throughout De Divina Proportione on the primacy of mathematical certainty 
 
 **Principal Works:** *Analytica Posteriora*, *Physica*, *De Caelo et Mundo*, *Metaphysica*, *De Anima*, *Meteorologica*, *Ethica Nicomachea*
 
-**Occurrences:** :doc:`Arch. Cap. 3 (EN) </de_divina_proportione/architectura/cap_03/cap_03_en>`, :doc:`Arch. Cap. 9 (EN) </de_divina_proportione/architectura/cap_09/cap_09_en>`, :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/cap_01_de>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`, :doc:`Comp. Cap. 3 (DE) </de_divina_proportione/compendio/cap_03/cap_03_de>`, :doc:`Comp. Cap. 3 (EN) </de_divina_proportione/compendio/cap_03/cap_03_en>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/cap_03_it>`, :doc:`Comp. Cap. 54 (DE) </de_divina_proportione/compendio/cap_54/cap_54_de>`
+**Occurrences:** :doc:`Arch. Cap. 3 (EN) </de_divina_proportione/architectura/cap_03/cap_03_en>`, :doc:`Arch. Cap. 9 (EN) </de_divina_proportione/architectura/cap_09/cap_09_en>`, :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/cap_01_de>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`, :doc:`Comp. Cap. 3 (DE) </de_divina_proportione/compendio/cap_03/cap_03_de>`, :doc:`Comp. Cap. 3 (EN) </de_divina_proportione/compendio/cap_03/cap_03_en>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/cap_03_it>`, :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 54 (DE) </de_divina_proportione/compendio/cap_54/cap_54_de>`
 
 .. _person-augustine:
 
@@ -142,7 +179,7 @@ Cited with Aristotle in Compendio Chapter I (from Metaphysics II comm. 16) for t
 
 **Principal Works:** *Commentaria Magna in Aristotelem*
 
-**Occurrences:** :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/cap_01_de>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`
+**Occurrences:** :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/cap_01_de>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`
 
 .. _person-avicenna:
 
@@ -170,6 +207,32 @@ Cited by Pacioli in Compendio Chapter II for his geometric treatise De Fluminibu
 
 **Occurrences:** :doc:`Comp. Cap. 2 (DE) </de_divina_proportione/compendio/cap_02/cap_02_de>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`
 
+.. _person-prosdocimo-beldomandi:
+
+Beldomandi, Prosdocimo de' (c. 1380 – 1428)
+-------------------------------------------
+
+*Paduan Mathematician, Astronomer, and Music Theorist*
+
+Professor of Astrology and Mathematics at the University of Padua, cited by Pacioli ('Prodocimo') in Compendio Chapter II alongside Ptolemy, Albumasar, and Bianchini.
+
+**Principal Works:** *Algorismus de integris*, *Canones de motibus corporum supercoelestium*
+
+**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`
+
+.. _person-giovanni-bianchini:
+
+Bianchini, Giovanni (c. 1410 – after 1469)
+------------------------------------------
+
+*Italian Mathematician and Astronomer at the Court of Ferrara*
+
+Professor at the University of Ferrara and author of astronomical and trigonometric tables (Tabulae astronomicae), cited by Pacioli in Compendio Chapter II.
+
+**Principal Works:** *Tabulae astronomicae*
+
+**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`
+
 .. _person-boethius:
 
 Boethius, Anicius Manlius Severinus (c. 477 – 524 AD)
@@ -193,6 +256,19 @@ Bramante, Donato (1444 – 1514)
 Active alongside Leonardo da Vinci and Luca Pacioli at the Sforza court in Milan; designed the tribune of Santa Maria delle Grazie and the sacristy of Santa Maria presso San Satiro, whose perspective domes Pacioli relates to the 72-base body in Chapter LIV.
 
 **Occurrences:** :doc:`Comp. Cap. 54 (EN) </de_divina_proportione/compendio/cap_54/cap_54_en>`, :doc:`Comp. Cap. 54 (Notes) </de_divina_proportione/compendio/cap_54/cap_54_notes>`, :doc:`Comp. Cap. 69 (Notes) </de_divina_proportione/compendio/cap_69/cap_69_notes>`
+
+.. _person-brocheneck:
+
+Brocheneck (fl. mid-19th century)
+---------------------------------
+
+*German Writer on Human Proportions*
+
+Author of Die männliche und weibliche Normalgestalt, cited by Winterberg in the Einleitung (fn. 4) among the nineteenth-century followers of the Golden Section canon.
+
+**Principal Works:** *Die männliche und weibliche Normalgestalt*
+
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
 
 .. _person-francesco-busti:
 
@@ -240,7 +316,29 @@ Chaplain to Pope Urban IV and author of the standard medieval Latin redaction an
 
 **Principal Works:** *Elementa Euclidis cum Commentariis Campani*
 
-**Occurrences:** :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`, :doc:`Comp. Cap. 4 (Notes) </de_divina_proportione/compendio/cap_04/cap_04_notes>`, :doc:`Comp. Cap. 6 (DE) </de_divina_proportione/compendio/cap_06/cap_06_de>`, :doc:`Comp. Cap. 6 (EN) </de_divina_proportione/compendio/cap_06/cap_06_en>`, :doc:`Comp. Cap. 7 (DE) </de_divina_proportione/compendio/cap_07/cap_07_de>`, :doc:`Comp. Cap. 7 (EN) </de_divina_proportione/compendio/cap_07/cap_07_en>`, :doc:`Comp. Cap. 7 (IT) </de_divina_proportione/compendio/cap_07/cap_07_it>`, :doc:`Comp. Cap. 7 (Notes) </de_divina_proportione/compendio/cap_07/cap_07_notes>`, :doc:`Comp. Cap. 8 (Notes) </de_divina_proportione/compendio/cap_08/cap_08_notes>`, :doc:`Comp. Cap. 13 (Notes) </de_divina_proportione/compendio/cap_13/cap_13_notes>`, :doc:`Comp. Cap. 19 (EN) </de_divina_proportione/compendio/cap_19/cap_19_en>`, :doc:`Comp. Cap. 19 (Notes) </de_divina_proportione/compendio/cap_19/cap_19_notes>`, :doc:`Comp. Cap. 20 (EN) </de_divina_proportione/compendio/cap_20/cap_20_en>`, :doc:`Comp. Cap. 21 (EN) </de_divina_proportione/compendio/cap_21/cap_21_en>`, :doc:`Comp. Cap. 21 (IT) </de_divina_proportione/compendio/cap_21/cap_21_it>`, :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/cap_21_notes>`, :doc:`Comp. Cap. 25 (Notes) </de_divina_proportione/compendio/cap_25/cap_25_notes>`, :doc:`Comp. Cap. 27 (EN) </de_divina_proportione/compendio/cap_27/cap_27_en>`, :doc:`Comp. Cap. 27 (Notes) </de_divina_proportione/compendio/cap_27/cap_27_notes>`, :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/cap_31_en>`, :doc:`Comp. Cap. 31 (Notes) </de_divina_proportione/compendio/cap_31/cap_31_notes>`, :doc:`Comp. Cap. 32 (EN) </de_divina_proportione/compendio/cap_32/cap_32_en>`, :doc:`Comp. Cap. 33 (EN) </de_divina_proportione/compendio/cap_33/cap_33_en>`, :doc:`Comp. Cap. 33 (Notes) </de_divina_proportione/compendio/cap_33/cap_33_notes>`, *...and 16 more*
+**Occurrences:** :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`, :doc:`Comp. Cap. 4 (Notes) </de_divina_proportione/compendio/cap_04/cap_04_notes>`, :doc:`Comp. Cap. 6 (DE) </de_divina_proportione/compendio/cap_06/cap_06_de>`, :doc:`Comp. Cap. 6 (EN) </de_divina_proportione/compendio/cap_06/cap_06_en>`, :doc:`Comp. Cap. 7 (DE) </de_divina_proportione/compendio/cap_07/cap_07_de>`, :doc:`Comp. Cap. 7 (EN) </de_divina_proportione/compendio/cap_07/cap_07_en>`, :doc:`Comp. Cap. 7 (IT) </de_divina_proportione/compendio/cap_07/cap_07_it>`, :doc:`Comp. Cap. 7 (Notes) </de_divina_proportione/compendio/cap_07/cap_07_notes>`, :doc:`Comp. Cap. 8 (Notes) </de_divina_proportione/compendio/cap_08/cap_08_notes>`, :doc:`Comp. Cap. 13 (EN) </de_divina_proportione/compendio/cap_13/cap_13_en>`, :doc:`Comp. Cap. 13 (Notes) </de_divina_proportione/compendio/cap_13/cap_13_notes>`, :doc:`Comp. Cap. 14 (EN) </de_divina_proportione/compendio/cap_14/cap_14_en>`, :doc:`Comp. Cap. 15 (Notes) </de_divina_proportione/compendio/cap_15/cap_15_notes>`, :doc:`Comp. Cap. 19 (EN) </de_divina_proportione/compendio/cap_19/cap_19_en>`, :doc:`Comp. Cap. 19 (Notes) </de_divina_proportione/compendio/cap_19/cap_19_notes>`, :doc:`Comp. Cap. 20 (EN) </de_divina_proportione/compendio/cap_20/cap_20_en>`, :doc:`Comp. Cap. 21 (EN) </de_divina_proportione/compendio/cap_21/cap_21_en>`, :doc:`Comp. Cap. 21 (IT) </de_divina_proportione/compendio/cap_21/cap_21_it>`, :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/cap_21_notes>`, :doc:`Comp. Cap. 25 (Notes) </de_divina_proportione/compendio/cap_25/cap_25_notes>`, :doc:`Comp. Cap. 27 (EN) </de_divina_proportione/compendio/cap_27/cap_27_en>`, :doc:`Comp. Cap. 27 (Notes) </de_divina_proportione/compendio/cap_27/cap_27_notes>`, :doc:`Comp. Cap. 28 (EN) </de_divina_proportione/compendio/cap_28/cap_28_en>`, :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/cap_31_en>`, *...and 36 more*
+
+.. _person-giovan-marco-canozi:
+
+Canozi, Giovan Marco (da Lendinara) (d. 1525)
+---------------------------------------------
+
+*Italian Architect and Perspective Master*
+
+Son of Lorenzo Canozi da Lendinara; praised by Pacioli in the Dedication of the Tractato de l'Architectura among the disciples with whom he discussed Vitruvian architecture.
+
+**Occurrences:** :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/dedication_en>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`
+
+.. _person-lorenzo-canozi:
+
+Canozi, Lorenzo (Lorenzo da Lendinara) (1425 – 1477)
+----------------------------------------------------
+
+*Italian Master of Perspective, Intarsia, and Architecture*
+
+Intarsia master in Padua and Modena and close friend of Piero della Francesca; praised by Pacioli in the Dedication of the Tractato de l'Architectura.
+
+**Occurrences:** :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`
 
 .. _person-antonio-capella:
 
@@ -250,6 +348,32 @@ Capella, Marcantonio (M. Ant. Capella) (fl. 1509)
 *Franciscan Scholar and Editorial Reviewer of the 1509 Venice Edition*
 
 Credited on the 1509 title page ('M. Ant. Capella eruditiss. recensente') as editorial reviser of De Divina Proportione.
+
+.. _person-annibale-caro:
+
+Caro, Annibale (1507 – 1566)
+----------------------------
+
+*Italian Humanist, Poet, and Translator of the Aeneid*
+
+Cited by Winterberg in the Einleitung for coining the famous satirical epithet 'Ceneraccio' ('bundle of ash-lye') to characterize Pacioli's hybrid Latin-Tuscan-Lombard prose style.
+
+**Principal Works:** *Apologia degli Accademici di Banchi di Roma (1558)*
+
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
+.. _person-carl-gustav-carus:
+
+Carus, Carl Gustav (1789 – 1869)
+--------------------------------
+
+*German Physician, Natural Philosopher, Anatomist, and Painter*
+
+Author of Die Proportionslehre der menschlichen Gestalt (1854) and Symbolik der menschlichen Gestalt (1853), proposing the vertebral column length (divided into thirds, the 'module') as the organic unit of bodily proportion; cited by Winterberg in the Einleitung.
+
+**Principal Works:** *Die Proportionslehre der menschlichen Gestalt (1854)*
+
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
 
 .. _person-catano-catani:
 
@@ -332,6 +456,19 @@ Praised by Pacioli in Compendio Chapter II for attaining the loftiest speculatio
 
 **Principal Works:** *Ordinatio / Quaestiones in Quattuor Libros Sententiarum*
 
+.. _person-rudolf-von-eitelberger:
+
+Eitelberger von Edelberg, Rudolf (1817 – 1885)
+----------------------------------------------
+
+*Austrian Art Historian and Founder of Quellenschriften für Kunstgeschichte*
+
+First Professor of Art History at the University of Vienna and founding Director of the k. k. Österreichisches Museum für Kunst und Industrie; founded the Quellenschriften für Kunstgeschichte und Kunsttechnik des Mittelalters und der Neuzeit series and personally commissioned Constantin Winterberg's edition of Pacioli's Divina Proportione.
+
+**Principal Works:** *Quellenschriften für Kunstgeschichte und Kunsttechnik des Mittelalters und der Neuzeit*
+
+**Occurrences:** :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
 .. _person-ippolito-deste:
 
 Este, Cardinal Ippolito I d' (1479 – 1520)
@@ -354,7 +491,29 @@ Revered by Pacioli as 'nostra guida' and 'archimandrita' of the mathematical dis
 
 **Principal Works:** *Elementa (Libri XV, ed. Campanus / Pacioli 1509)*
 
-**Occurrences:** :doc:`Arch. Cap. 1 (DE) </de_divina_proportione/architectura/cap_01/cap_01_de>`, :doc:`Arch. Cap. 1 (EN) </de_divina_proportione/architectura/cap_01/cap_01_en>`, :doc:`Arch. Cap. 1 (IT) </de_divina_proportione/architectura/cap_01/cap_01_it>`, :doc:`Arch. Cap. 3 (DE) </de_divina_proportione/architectura/cap_03/cap_03_de>`, :doc:`Arch. Cap. 3 (EN) </de_divina_proportione/architectura/cap_03/cap_03_en>`, :doc:`Arch. Cap. 3 (IT) </de_divina_proportione/architectura/cap_03/cap_03_it>`, :doc:`Arch. Cap. 10 (DE) </de_divina_proportione/architectura/cap_10/cap_10_de>`, :doc:`Arch. Cap. 10 (EN) </de_divina_proportione/architectura/cap_10/cap_10_en>`, :doc:`Arch. Cap. 10 (IT) </de_divina_proportione/architectura/cap_10/cap_10_it>`, :doc:`Arch. Cap. 11 (DE) </de_divina_proportione/architectura/cap_11/cap_11_de>`, :doc:`Arch. Cap. 11 (EN) </de_divina_proportione/architectura/cap_11/cap_11_en>`, :doc:`Arch. Cap. 11 (IT) </de_divina_proportione/architectura/cap_11/cap_11_it>`, :doc:`Arch. Cap. 11 (Notes) </de_divina_proportione/architectura/cap_11/cap_11_notes>`, :doc:`Arch. Cap. 17 (Notes) </de_divina_proportione/architectura/cap_17/cap_17_notes>`, :doc:`Arch. Cap. 19 (DE) </de_divina_proportione/architectura/cap_19/cap_19_de>`, :doc:`Arch. Cap. 19 (EN) </de_divina_proportione/architectura/cap_19/cap_19_en>`, :doc:`Arch. Cap. 19 (IT) </de_divina_proportione/architectura/cap_19/cap_19_it>`, :doc:`Arch. Prohemio (DE) </de_divina_proportione/architectura/dedication/dedication_de>`, :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/dedication_it>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`, :doc:`Comp. Cap. 2 (DE) </de_divina_proportione/compendio/cap_02/cap_02_de>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`, *...and 37 more*
+**Occurrences:** :doc:`Arch. Cap. 1 (DE) </de_divina_proportione/architectura/cap_01/cap_01_de>`, :doc:`Arch. Cap. 1 (EN) </de_divina_proportione/architectura/cap_01/cap_01_en>`, :doc:`Arch. Cap. 1 (IT) </de_divina_proportione/architectura/cap_01/cap_01_it>`, :doc:`Arch. Cap. 3 (DE) </de_divina_proportione/architectura/cap_03/cap_03_de>`, :doc:`Arch. Cap. 3 (EN) </de_divina_proportione/architectura/cap_03/cap_03_en>`, :doc:`Arch. Cap. 3 (IT) </de_divina_proportione/architectura/cap_03/cap_03_it>`, :doc:`Arch. Cap. 10 (DE) </de_divina_proportione/architectura/cap_10/cap_10_de>`, :doc:`Arch. Cap. 10 (EN) </de_divina_proportione/architectura/cap_10/cap_10_en>`, :doc:`Arch. Cap. 10 (IT) </de_divina_proportione/architectura/cap_10/cap_10_it>`, :doc:`Arch. Cap. 11 (DE) </de_divina_proportione/architectura/cap_11/cap_11_de>`, :doc:`Arch. Cap. 11 (EN) </de_divina_proportione/architectura/cap_11/cap_11_en>`, :doc:`Arch. Cap. 11 (IT) </de_divina_proportione/architectura/cap_11/cap_11_it>`, :doc:`Arch. Cap. 11 (Notes) </de_divina_proportione/architectura/cap_11/cap_11_notes>`, :doc:`Arch. Cap. 17 (Notes) </de_divina_proportione/architectura/cap_17/cap_17_notes>`, :doc:`Arch. Cap. 19 (DE) </de_divina_proportione/architectura/cap_19/cap_19_de>`, :doc:`Arch. Cap. 19 (EN) </de_divina_proportione/architectura/cap_19/cap_19_en>`, :doc:`Arch. Cap. 19 (IT) </de_divina_proportione/architectura/cap_19/cap_19_it>`, :doc:`Arch. Prohemio (DE) </de_divina_proportione/architectura/dedication/dedication_de>`, :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/dedication_it>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`, :doc:`Comp. Cap. 2 (DE) </de_divina_proportione/compendio/cap_02/cap_02_de>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`, *...and 67 more*
+
+.. _person-euclid-of-megara:
+
+Euclid of Megara (c. 435 – c. 365 BC)
+-------------------------------------
+
+*Greek Socratic Philosopher and Founder of the Megarian School*
+
+Disciple of Socrates from Megara whom medieval and Renaissance writers—including Campanus and Luca Pacioli ('Euclide Megarense')—habitually conflated with the Alexandrian geometer Euclid; glossed by Winterberg in Compendio Chapter II, fn. 2.
+
+**Occurrences:** :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`, :doc:`Comp. Cap. 67 (EN) </de_divina_proportione/compendio/cap_67/cap_67_en>`, :doc:`Comp. Cap. 71 (EN) </de_divina_proportione/compendio/cap_71/cap_71_en>`
+
+.. _person-ferrante-of-naples:
+
+Ferrante I (Ferdinand I of Naples) (1423 – 1494)
+------------------------------------------------
+
+*Aragonese King of Naples (r. 1458–1494)*
+
+Royal patron under whom Luca Pacioli taught mathematics and Euclid at the University of Naples; glossed by Winterberg in the Dedication of the Tractato de l'Architectura (fn. 2).
+
+**Occurrences:** :doc:`Arch. Cap. 8 (Notes) </de_divina_proportione/architectura/cap_08/cap_08_notes>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`
 
 .. _person-fibonacci:
 
@@ -377,6 +536,17 @@ Francis of Assisi, St. (1181/1182 – 1226)
 Founder of Pacioli's Franciscan ('Minorite' / 'Seraphic') Order.
 
 **Occurrences:** :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/dedication_it>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`
+
+.. _person-carl-fromme:
+
+Fromme, Carl (k. k. Hofbuchdruckerei Carl Fromme) (1828 – 1884 (Firm active 1889))
+----------------------------------------------------------------------------------
+
+*Imperial-Royal Court Printer in Vienna*
+
+Viennese court printing house (k. k. Hofbuchdruckerei Carl Fromme) that printed Constantin Winterberg's 1889 edition of Pacioli's Divina Proportione.
+
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
 
 .. _person-frontinus:
 
@@ -415,6 +585,19 @@ Cited in Compendio Chapter I alongside Avicenna and Hippocrates to illustrate th
 
 **Occurrences:** :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`
 
+.. _person-geber:
+
+Geber (Jābir ibn Aflaḥ of Seville) (c. 1100 – c. 1150)
+------------------------------------------------------
+
+*Andalusian Mathematician and Astronomer*
+
+Author of the Flores Almagesti (Correction of the Almagest), translated into Latin by Gerard of Cremona and cited by Pacioli in Compendio Chapter II.
+
+**Principal Works:** *Flores Almagesti (De Astronomia Libri IX)*
+
+**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`
+
 .. _person-giacomo-andrea:
 
 Giacomo Andrea da Ferrara (d. 1500)
@@ -425,6 +608,19 @@ Giacomo Andrea da Ferrara (d. 1500)
 Close friend of Leonardo da Vinci ('suo quarto fratello') and Luca Pacioli at the Sforza court in Milan; celebrated as the most accurate follower of the works of Vitruvius.
 
 **Occurrences:** :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`
+
+.. _person-fra-giocondo:
+
+Giocondo, Fra Giovanni (da Verona) (c. 1433 – 1515)
+---------------------------------------------------
+
+*Franciscan Friar, Architect, Antiquarian, and Classical Scholar*
+
+Editor of the first illustrated printed edition of Vitruvius (M. Vitruvii per Iocundum solito castigatior factus, Venice, 1511), lectured on Vitruvius in Paris, and succeeded Bramante as co-architect of St. Peter's; cited by Winterberg in the Einleitung (fn. 8).
+
+**Principal Works:** *M. Vitruvii per Iocundum solito castigatior factus (Venice, 1511)*
+
+**Occurrences:** :doc:`Arch. Cap. 14 (Notes) </de_divina_proportione/architectura/cap_14/cap_14_notes>`
 
 .. _person-gometius:
 
@@ -438,6 +634,30 @@ Portuguese-born Franciscan Regent Master at Pavia and Vicar General of the Conve
 **Principal Works:** *Quaestio perutilis de cuiuscumque scientiae subiecto*
 
 **Occurrences:** :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/cap_01_de>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`
+
+.. _person-carl-graeser:
+
+Graeser, Carl (1849 – 1899)
+---------------------------
+
+*Viennese Publisher (Verlagsbuchhändler)*
+
+Publisher of the Neue Folge of Quellenschriften für Kunstgeschichte in Vienna (Verlag von Carl Graeser, 1889).
+
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
+.. _person-emil-harless:
+
+Harless, Emil (1820 – 1862)
+---------------------------
+
+*German Physiologist and Professor of Plastic Anatomy in Munich*
+
+Author of Lehrbuch der plastischen Anatomie (Stuttgart, 1856–1858), cited by Winterberg in the Einleitung (fn. 5) for empirically refuting Zeising's Golden Section canon through anatomical measurement of the living body.
+
+**Principal Works:** *Lehrbuch der plastischen Anatomie (1856–1858)*
+
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
 
 .. _person-hiero:
 
@@ -474,7 +694,20 @@ Author of Book XIV of the Euclidean corpus on the comparison of the regular icos
 
 **Principal Works:** *Elementa Liber XIV*
 
-**Occurrences:** :doc:`Comp. Cap. 4 (Notes) </de_divina_proportione/compendio/cap_04/cap_04_notes>`, :doc:`Comp. Cap. 19 (Notes) </de_divina_proportione/compendio/cap_19/cap_19_notes>`, :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/cap_31_en>`, :doc:`Comp. Cap. 32 (Notes) </de_divina_proportione/compendio/cap_32/cap_32_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Plates: Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
+**Occurrences:** :doc:`Comp. Cap. 4 (Notes) </de_divina_proportione/compendio/cap_04/cap_04_notes>`, :doc:`Comp. Cap. 19 (Notes) </de_divina_proportione/compendio/cap_19/cap_19_notes>`, :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/cap_31_en>`, :doc:`Comp. Cap. 32 (Notes) </de_divina_proportione/compendio/cap_32/cap_32_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
+
+.. _person-albert-ilg:
+
+Ilg, Albert (1847 – 1896)
+-------------------------
+
+*Austrian Art Historian and Editor of Quellenschriften (Neue Folge)*
+
+Director at the Kunsthistorisches Museum in Vienna who succeeded Rudolf von Eitelberger as general editor of the Neue Folge of Quellenschriften für Kunstgeschichte und Kunsttechnik, in which Winterberg's 1889 edition of Pacioli appeared as Band II.
+
+**Principal Works:** *Quellenschriften für Kunstgeschichte und Kunsttechnik (Neue Folge)*
+
+**Occurrences:** :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
 
 .. _person-ion:
 
@@ -520,6 +753,19 @@ Uncle of Cardinal Galeotto Franciotti della Rovere and reigning pontiff named in
 
 **Occurrences:** :doc:`Arch. Cap. 11 (DE) </de_divina_proportione/architectura/cap_11/cap_11_de>`, :doc:`Arch. Cap. 20 (DE) </de_divina_proportione/architectura/cap_20/cap_20_de>`
 
+.. _person-johannes-kepler:
+
+Kepler, Johannes (1571 – 1630)
+------------------------------
+
+*German Astronomer and Geometer*
+
+Author of Mysterium Cosmographicum (1596) and Harmonices Mundi (1619), who gave the name Stella Octangula to the elevated octahedron (Octahedron elevatum) first depicted by Leonardo da Vinci and Pacioli in Plates XIX–XX.
+
+**Principal Works:** *Harmonices Mundi (1619)*
+
+**Occurrences:** :doc:`Comp. Cap. 50 (Notes) </de_divina_proportione/compendio/cap_50/cap_50_notes>`, :doc:`Comp. Cap. 52 (Notes) </de_divina_proportione/compendio/cap_52/cap_52_notes>`
+
 .. _person-leonardo:
 
 Leonardo da Vinci (1452 – 1519)
@@ -531,7 +777,20 @@ Compatriot and close collaborator of Luca Pacioli in Milan and Florence; drew th
 
 **Principal Works:** *Polyhedra Plates (Tabulae I–LIX) in De Divina Proportione (1498/1509)*, *Libro di Pittura e Movimenti Humani*, *De Moto Locale, delle Percussioni e Pesi*, *Il Cenacolo (Santa Maria delle Grazie, Milan)*, *Sforza Equestrian Colossus*
 
-**Occurrences:** :doc:`Arch. Cap. 6 (DE) </de_divina_proportione/architectura/cap_06/cap_06_de>`, :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/cap_06_en>`, :doc:`Arch. Cap. 6 (Notes) </de_divina_proportione/architectura/cap_06/cap_06_notes>`, :doc:`Arch. Cap. 10 (DE) </de_divina_proportione/architectura/cap_10/cap_10_de>`, :doc:`Arch. Cap. 10 (IT) </de_divina_proportione/architectura/cap_10/cap_10_it>`, :doc:`Arch. Cap. 20 (EN) </de_divina_proportione/architectura/cap_20/cap_20_en>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/cap_01_de>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Comp. Cap. 3 (Notes) </de_divina_proportione/compendio/cap_03/cap_03_notes>`, :doc:`Comp. Cap. 48 (EN) </de_divina_proportione/compendio/cap_48/cap_48_en>`, :doc:`Comp. Cap. 54 (Notes) </de_divina_proportione/compendio/cap_54/cap_54_notes>`, :doc:`Comp. Cap. 69 (Notes) </de_divina_proportione/compendio/cap_69/cap_69_notes>`, :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Winterbergs Vorwort und Einleitung (1889) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg's Critical Introduction (1889) </de_divina_proportione/intro/intro_en>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra_en>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra_la>`
+**Occurrences:** :doc:`Arch. Cap. 6 (DE) </de_divina_proportione/architectura/cap_06/cap_06_de>`, :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/cap_06_en>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/cap_06_it>`, :doc:`Arch. Cap. 6 (Notes) </de_divina_proportione/architectura/cap_06/cap_06_notes>`, :doc:`Arch. Cap. 9 (Notes) </de_divina_proportione/architectura/cap_09/cap_09_notes>`, :doc:`Arch. Cap. 10 (DE) </de_divina_proportione/architectura/cap_10/cap_10_de>`, :doc:`Arch. Cap. 10 (IT) </de_divina_proportione/architectura/cap_10/cap_10_it>`, :doc:`Arch. Cap. 18 (Notes) </de_divina_proportione/architectura/cap_18/cap_18_notes>`, :doc:`Arch. Cap. 20 (DE) </de_divina_proportione/architectura/cap_20/cap_20_de>`, :doc:`Arch. Cap. 20 (EN) </de_divina_proportione/architectura/cap_20/cap_20_en>`, :doc:`Arch. Cap. 20 (IT) </de_divina_proportione/architectura/cap_20/cap_20_it>`, :doc:`Arch. Cap. 20 (Notes) </de_divina_proportione/architectura/cap_20/cap_20_notes>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/cap_01_de>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`, :doc:`Comp. Cap. 3 (DE) </de_divina_proportione/compendio/cap_03/cap_03_de>`, :doc:`Comp. Cap. 3 (EN) </de_divina_proportione/compendio/cap_03/cap_03_en>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/cap_03_it>`, :doc:`Comp. Cap. 3 (Notes) </de_divina_proportione/compendio/cap_03/cap_03_notes>`, :doc:`Comp. Cap. 23 (DE) </de_divina_proportione/compendio/cap_23/cap_23_de>`, :doc:`Comp. Cap. 23 (EN) </de_divina_proportione/compendio/cap_23/cap_23_en>`, :doc:`Comp. Cap. 23 (IT) </de_divina_proportione/compendio/cap_23/cap_23_it>`, *...and 14 more*
+
+.. _person-guillaume-libri:
+
+Libri, Guillaume (Guglielmo Libri Carucci dalla Sommaja) (1803 – 1869)
+----------------------------------------------------------------------
+
+*Franco-Italian Mathematician and Historian of Science*
+
+Author of Histoire des sciences mathématiques en Italie (4 vols., Paris, 1838–1841), cited by Winterberg in the Einleitung (fn. 1 & 8) on the printing history of Pacioli's Summa and Divina Proportione and on Piero della Francesca's manuscripts.
+
+**Principal Works:** *Histoire des sciences mathématiques en Italie (Vol. III, 1840)*
+
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
 
 .. _person-livy:
 
@@ -555,6 +814,19 @@ Loredan, Leonardo, Doge of Venice (1436 – 1521)
 
 Named in the 1509 colophon of De Divina Proportione ('Leonardo Lauretano Ve. Rem. Pu. Gubernante').
 
+.. _person-heinrich-ludwig:
+
+Ludwig, Heinrich (1829 – 1897)
+------------------------------
+
+*German Painter and Leonardo da Vinci Scholar in Rome*
+
+Edited and translated Leonardo da Vinci's Trattato della Pittura (Das Buch von der Malerei, Quellenschriften Band XV–XVIII, 1882) and inspired Rudolf von Eitelberger and Constantin Winterberg in Rome to undertake the critical edition of Pacioli's Divina Proportione.
+
+**Principal Works:** *Lionardo da Vinci: Das Buch von der Malerei (Wien, 1882)*
+
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
 .. _person-macrobius:
 
 Macrobius, Ambrosius Theodosius (fl. c. 400 AD)
@@ -567,6 +839,17 @@ Author of Commentarii in Somnium Scipionis, cited with Chalcidius and Apuleius i
 **Principal Works:** *Commentarii in Somnium Scipionis*
 
 **Occurrences:** :doc:`Comp. Cap. 55 (DE) </de_divina_proportione/compendio/cap_55/cap_55_de>`, :doc:`Comp. Cap. 55 (EN) </de_divina_proportione/compendio/cap_55/cap_55_en>`, :doc:`Comp. Cap. 55 (IT) </de_divina_proportione/compendio/cap_55/cap_55_it>`, :doc:`Comp. Cap. 55 (Notes) </de_divina_proportione/compendio/cap_55/cap_55_notes>`
+
+.. _person-sigismondo-malatesta:
+
+Malatesta, Sigismondo Pandolfo (1417 – 1468)
+--------------------------------------------
+
+*Lord of Rimini and Condottiere*
+
+Patron of Leon Battista Alberti (Tempio Malatestiano) and Piero della Francesca, and dedicatee of Roberto Valturio's military treatise De Re Militari cited by Pacioli in Compendio Chapter II.
+
+**Occurrences:** :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`
 
 .. _person-marcellus:
 
@@ -663,7 +946,20 @@ Montefeltro, Guidobaldo da, Duke of Urbino (1472 – 1508)
 
 Son of Federico da Montefeltro and kinsman of Ludovico Sforza; dedicatee of Pacioli's Summa de Arithmetica, Geometria, Proportioni et Proportionalita (1494) and recipient of a complete set of wooden polyhedra models.
 
-**Occurrences:** :doc:`Arch. Prohemio (DE) </de_divina_proportione/architectura/dedication/dedication_de>`, :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/dedication_en>`, :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/cap_01_de>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Comp. Cap. 33 (EN) </de_divina_proportione/compendio/cap_33/cap_33_en>`, :doc:`Winterbergs Vorwort und Einleitung (1889) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg's Critical Introduction (1889) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Arch. Prohemio (DE) </de_divina_proportione/architectura/dedication/dedication_de>`, :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/dedication_en>`, :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/cap_01_de>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Comp. Cap. 33 (EN) </de_divina_proportione/compendio/cap_33/cap_33_en>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
+.. _person-montucla:
+
+Montucla, Jean-Étienne (1725 – 1799)
+------------------------------------
+
+*French Mathematician and Historian of Mathematics*
+
+Author of the monumental Histoire des mathématiques (1758; 2nd ed. 1799–1802), cited by Winterberg in the Einleitung (fn. 2) on Pacioli's biography and role as commercial tutor in Venice.
+
+**Principal Works:** *Histoire des mathématiques*
+
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
 
 .. _person-myron:
 
@@ -709,7 +1005,7 @@ Born in Borgo Sansepolcro; disciple of Piero della Francesca, collaborator of Le
 
 **Principal Works:** *Summa de Arithmetica, Geometria, Proportioni et Proportionalita (1494)*, *De Divina Proportione (1498 MS / 1509 Venice print)*, *Tractato de l'Architectura (1509)*, *Libellus in tres partiales tractatus divisus (1509)*, *Euclidis Megarensis Opera (1509)*, *De Viribus Quantitatis (MS, c. 1500–1508)*
 
-**Occurrences:** :doc:`Arch. Cap. 8 (Notes) </de_divina_proportione/architectura/cap_08/cap_08_notes>`, :doc:`Arch. Cap. 20 (Notes) </de_divina_proportione/architectura/cap_20/cap_20_notes>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Comp. Cap. 53 (Notes) </de_divina_proportione/compendio/cap_53/cap_53_notes>`, :doc:`Comp. index </de_divina_proportione/compendio/index>`, :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Winterbergs Vorwort und Einleitung (1889) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg's Critical Introduction (1889) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Arch. Cap. 1 (Notes) </de_divina_proportione/architectura/cap_01/cap_01_notes>`, :doc:`Arch. Cap. 2 (Notes) </de_divina_proportione/architectura/cap_02/cap_02_notes>`, :doc:`Arch. Cap. 4 (Notes) </de_divina_proportione/architectura/cap_04/cap_04_notes>`, :doc:`Arch. Cap. 5 (Notes) </de_divina_proportione/architectura/cap_05/cap_05_notes>`, :doc:`Arch. Cap. 6 (Notes) </de_divina_proportione/architectura/cap_06/cap_06_notes>`, :doc:`Arch. Cap. 7 (EN) </de_divina_proportione/architectura/cap_07/cap_07_en>`, :doc:`Arch. Cap. 7 (Notes) </de_divina_proportione/architectura/cap_07/cap_07_notes>`, :doc:`Arch. Cap. 8 (Notes) </de_divina_proportione/architectura/cap_08/cap_08_notes>`, :doc:`Arch. Cap. 11 (Notes) </de_divina_proportione/architectura/cap_11/cap_11_notes>`, :doc:`Arch. Cap. 12 (Notes) </de_divina_proportione/architectura/cap_12/cap_12_notes>`, :doc:`Arch. Cap. 17 (Notes) </de_divina_proportione/architectura/cap_17/cap_17_notes>`, :doc:`Arch. Cap. 18 (Notes) </de_divina_proportione/architectura/cap_18/cap_18_notes>`, :doc:`Arch. Cap. 19 (DE) </de_divina_proportione/architectura/cap_19/cap_19_de>`, :doc:`Arch. Cap. 19 (IT) </de_divina_proportione/architectura/cap_19/cap_19_it>`, :doc:`Arch. Cap. 20 (Notes) </de_divina_proportione/architectura/cap_20/cap_20_notes>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`, :doc:`Comp. Cap. 3 (Notes) </de_divina_proportione/compendio/cap_03/cap_03_notes>`, :doc:`Comp. Cap. 4 (EN) </de_divina_proportione/compendio/cap_04/cap_04_en>`, :doc:`Comp. Cap. 4 (Notes) </de_divina_proportione/compendio/cap_04/cap_04_notes>`, *...and 62 more*
 
 .. _person-paganino-de-paganini:
 
@@ -720,7 +1016,7 @@ Paganini, Paganino de' (de Brixia) (c. 1450 – 1538)
 
 Printer of Pacioli's Summa de Arithmetica (1494), Euclidis Opera (1509), and De Divina Proportione (June 1, 1509) in Venice under a fifteen-year Dogal privilege.
 
-**Occurrences:** :doc:`Arch. Cap. 20 (EN) </de_divina_proportione/architectura/cap_20/cap_20_en>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`, :doc:`Comp. index </de_divina_proportione/compendio/index>`, :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Winterberg's Critical Introduction (1889) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Arch. Cap. 20 (EN) </de_divina_proportione/architectura/cap_20/cap_20_en>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`, :doc:`Comp. index </de_divina_proportione/compendio/index>`, :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
 
 .. _person-ciriaco-palamides:
 
@@ -744,7 +1040,7 @@ Author of the Synagoge (Mathematical Collection), Book V of which preserves the 
 
 **Principal Works:** *Synagoge (Mathematical Collection)*
 
-**Occurrences:** :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Plates: Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
+**Occurrences:** :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _person-parrhasius:
 
@@ -784,7 +1080,7 @@ Phidias of Athens (c. 480 – c. 430 BC)
 
 Cited by Pacioli both for the colossal Horse Tamers on the Quirinal Hill (Monte Cavallo) in Rome and for placing a bronze icosahedron (figure of water) in the Temple of Ceres near Rome (Architectura Cap. XVIII).
 
-**Occurrences:** :doc:`Arch. Cap. 18 (DE) </de_divina_proportione/architectura/cap_18/cap_18_de>`, :doc:`Arch. Cap. 18 (EN) </de_divina_proportione/architectura/cap_18/cap_18_en>`, :doc:`Arch. Cap. 18 (IT) </de_divina_proportione/architectura/cap_18/cap_18_it>`, :doc:`Arch. Prohemio (DE) </de_divina_proportione/architectura/dedication/dedication_de>`, :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/dedication_en>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/cap_01_de>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`
+**Occurrences:** :doc:`Arch. Cap. 18 (DE) </de_divina_proportione/architectura/cap_18/cap_18_de>`, :doc:`Arch. Cap. 18 (EN) </de_divina_proportione/architectura/cap_18/cap_18_en>`, :doc:`Arch. Cap. 18 (IT) </de_divina_proportione/architectura/cap_18/cap_18_it>`, :doc:`Arch. Prohemio (DE) </de_divina_proportione/architectura/dedication/dedication_de>`, :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/dedication_en>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/cap_01_de>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
 
 .. _person-piero-della-francesca:
 
@@ -797,7 +1093,7 @@ Pacioli's fellow townsman and teacher in Borgo Sansepolcro ('monarca a li tempi 
 
 **Principal Works:** *Libellus de Quinque Corporibus Regularibus*, *De Prospectiva Pingendi*, *Trattato d'Abaco*
 
-**Occurrences:** :doc:`Arch. Cap. 19 (Notes) </de_divina_proportione/architectura/cap_19/cap_19_notes>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Comp. Cap. 3 (Notes) </de_divina_proportione/compendio/cap_03/cap_03_notes>`, :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Comp. Cap. 54 (Notes) </de_divina_proportione/compendio/cap_54/cap_54_notes>`, :doc:`Comp. Cap. 57 (Notes) </de_divina_proportione/compendio/cap_57/cap_57_notes>`, :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Winterbergs Vorwort und Einleitung (1889) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg's Critical Introduction (1889) </de_divina_proportione/intro/intro_en>`, :doc:`Plates: Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
+**Occurrences:** :doc:`Arch. Cap. 2 (Notes) </de_divina_proportione/architectura/cap_02/cap_02_notes>`, :doc:`Arch. Cap. 11 (DE) </de_divina_proportione/architectura/cap_11/cap_11_de>`, :doc:`Arch. Cap. 11 (IT) </de_divina_proportione/architectura/cap_11/cap_11_it>`, :doc:`Arch. Cap. 19 (EN) </de_divina_proportione/architectura/cap_19/cap_19_en>`, :doc:`Arch. Cap. 19 (Notes) </de_divina_proportione/architectura/cap_19/cap_19_notes>`, :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/dedication_it>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Comp. Cap. 3 (Notes) </de_divina_proportione/compendio/cap_03/cap_03_notes>`, :doc:`Comp. Cap. 22 (Notes) </de_divina_proportione/compendio/cap_22/cap_22_notes>`, :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Comp. Cap. 54 (Notes) </de_divina_proportione/compendio/cap_54/cap_54_notes>`, :doc:`Comp. Cap. 57 (Notes) </de_divina_proportione/compendio/cap_57/cap_57_notes>`, :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Winterberg Anmerkungen (DE) </de_divina_proportione/plates/anmerkungen_de>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _person-gabriele-pirovano:
 
@@ -823,7 +1119,7 @@ Placed the inscription 'Let no one ignorant of geometry enter here' over the por
 
 **Principal Works:** *Timaeus*, *Respublica*
 
-**Occurrences:** :doc:`Arch. Cap. 1 (DE) </de_divina_proportione/architectura/cap_01/cap_01_de>`, :doc:`Arch. Cap. 1 (EN) </de_divina_proportione/architectura/cap_01/cap_01_en>`, :doc:`Arch. Cap. 3 (DE) </de_divina_proportione/architectura/cap_03/cap_03_de>`, :doc:`Arch. Cap. 3 (EN) </de_divina_proportione/architectura/cap_03/cap_03_en>`, :doc:`Arch. Cap. 3 (IT) </de_divina_proportione/architectura/cap_03/cap_03_it>`, :doc:`Arch. Cap. 12 (DE) </de_divina_proportione/architectura/cap_12/cap_12_de>`, :doc:`Arch. Cap. 12 (EN) </de_divina_proportione/architectura/cap_12/cap_12_en>`, :doc:`Arch. Cap. 12 (IT) </de_divina_proportione/architectura/cap_12/cap_12_it>`, :doc:`Arch. Cap. 20 (DE) </de_divina_proportione/architectura/cap_20/cap_20_de>`, :doc:`Arch. Cap. 20 (EN) </de_divina_proportione/architectura/cap_20/cap_20_en>`, :doc:`Arch. Cap. 20 (IT) </de_divina_proportione/architectura/cap_20/cap_20_it>`, :doc:`Comp. Cap. 2 (DE) </de_divina_proportione/compendio/cap_02/cap_02_de>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`, :doc:`Comp. Cap. 3 (DE) </de_divina_proportione/compendio/cap_03/cap_03_de>`, :doc:`Comp. Cap. 3 (EN) </de_divina_proportione/compendio/cap_03/cap_03_en>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/cap_03_it>`, :doc:`Comp. Cap. 5 (DE) </de_divina_proportione/compendio/cap_05/cap_05_de>`, :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/cap_05_en>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/cap_05_it>`, :doc:`Comp. Cap. 22 (DE) </de_divina_proportione/compendio/cap_22/cap_22_de>`, :doc:`Comp. Cap. 22 (EN) </de_divina_proportione/compendio/cap_22/cap_22_en>`, :doc:`Comp. Cap. 22 (IT) </de_divina_proportione/compendio/cap_22/cap_22_it>`, :doc:`Comp. Cap. 24 (DE) </de_divina_proportione/compendio/cap_24/cap_24_de>`, *...and 9 more*
+**Occurrences:** :doc:`Arch. Cap. 1 (DE) </de_divina_proportione/architectura/cap_01/cap_01_de>`, :doc:`Arch. Cap. 1 (EN) </de_divina_proportione/architectura/cap_01/cap_01_en>`, :doc:`Arch. Cap. 3 (DE) </de_divina_proportione/architectura/cap_03/cap_03_de>`, :doc:`Arch. Cap. 3 (EN) </de_divina_proportione/architectura/cap_03/cap_03_en>`, :doc:`Arch. Cap. 3 (IT) </de_divina_proportione/architectura/cap_03/cap_03_it>`, :doc:`Arch. Cap. 12 (DE) </de_divina_proportione/architectura/cap_12/cap_12_de>`, :doc:`Arch. Cap. 12 (EN) </de_divina_proportione/architectura/cap_12/cap_12_en>`, :doc:`Arch. Cap. 12 (IT) </de_divina_proportione/architectura/cap_12/cap_12_it>`, :doc:`Arch. Cap. 20 (DE) </de_divina_proportione/architectura/cap_20/cap_20_de>`, :doc:`Arch. Cap. 20 (EN) </de_divina_proportione/architectura/cap_20/cap_20_en>`, :doc:`Arch. Cap. 20 (IT) </de_divina_proportione/architectura/cap_20/cap_20_it>`, :doc:`Arch. Cap. 20 (Notes) </de_divina_proportione/architectura/cap_20/cap_20_notes>`, :doc:`Comp. Cap. 2 (DE) </de_divina_proportione/compendio/cap_02/cap_02_de>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`, :doc:`Comp. Cap. 3 (DE) </de_divina_proportione/compendio/cap_03/cap_03_de>`, :doc:`Comp. Cap. 3 (EN) </de_divina_proportione/compendio/cap_03/cap_03_en>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/cap_03_it>`, :doc:`Comp. Cap. 5 (DE) </de_divina_proportione/compendio/cap_05/cap_05_de>`, :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/cap_05_en>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/cap_05_it>`, :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 22 (DE) </de_divina_proportione/compendio/cap_22/cap_22_de>`, :doc:`Comp. Cap. 22 (EN) </de_divina_proportione/compendio/cap_22/cap_22_en>`, *...and 13 more*
 
 .. _person-pliny:
 
@@ -850,6 +1146,17 @@ Author of the classical Canon of human proportions and sculptor named alongside 
 **Principal Works:** *Canon*
 
 **Occurrences:** :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/cap_01_de>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`
+
+.. _person-giovanni-pontano:
+
+Pontano, Giovanni Gioviano (1429 – 1503)
+----------------------------------------
+
+*Neapolitan Humanist, Poet, and Royal Secretary*
+
+Head of the Accademia Pontaniana and chief minister to King Ferrante of Naples; cited by Pacioli in the Dedication of the Tractato de l'Architectura.
+
+**Occurrences:** :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/dedication_en>`, :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/dedication_it>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`
 
 .. _person-domenico-ponzone:
 
@@ -884,7 +1191,7 @@ Author of the Almagest and Cosmographia (Geography); cited by Pacioli on the cho
 
 **Principal Works:** *Almagest (Syntaxis Mathematica)*, *Cosmographia (Geographia)*
 
-**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`, :doc:`Comp. Cap. 17 (EN) </de_divina_proportione/compendio/cap_17/cap_17_en>`, :doc:`Comp. Cap. 17 (IT) </de_divina_proportione/compendio/cap_17/cap_17_it>`, :doc:`Comp. Cap. 17 (Notes) </de_divina_proportione/compendio/cap_17/cap_17_notes>`
+**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/cap_03_it>`, :doc:`Comp. Cap. 17 (DE) </de_divina_proportione/compendio/cap_17/cap_17_de>`, :doc:`Comp. Cap. 17 (EN) </de_divina_proportione/compendio/cap_17/cap_17_en>`, :doc:`Comp. Cap. 17 (IT) </de_divina_proportione/compendio/cap_17/cap_17_it>`, :doc:`Comp. Cap. 17 (Notes) </de_divina_proportione/compendio/cap_17/cap_17_notes>`
 
 .. _person-pythagoras:
 
@@ -897,7 +1204,20 @@ Cited by Pacioli (via Vitruvius Book IX) for sacrificing a hecatomb of one hundr
 
 **Principal Works:** *Pythagorean Theorem (Euclid I.47)*
 
-**Occurrences:** :doc:`Comp. Cap. 2 (DE) </de_divina_proportione/compendio/cap_02/cap_02_de>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 54 (DE) </de_divina_proportione/compendio/cap_54/cap_54_de>`, :doc:`Comp. Cap. 54 (EN) </de_divina_proportione/compendio/cap_54/cap_54_en>`, :doc:`Comp. Cap. 54 (Notes) </de_divina_proportione/compendio/cap_54/cap_54_notes>`
+**Occurrences:** :doc:`Comp. Cap. 2 (DE) </de_divina_proportione/compendio/cap_02/cap_02_de>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 54 (DE) </de_divina_proportione/compendio/cap_54/cap_54_de>`, :doc:`Comp. Cap. 54 (EN) </de_divina_proportione/compendio/cap_54/cap_54_en>`, :doc:`Comp. Cap. 54 (Notes) </de_divina_proportione/compendio/cap_54/cap_54_notes>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
+.. _person-adolphe-quetelet:
+
+Quetelet, Adolphe (1796 – 1874)
+-------------------------------
+
+*Belgian Astronomer, Mathematician, and Founder of Anthropometry*
+
+Author of Sur l'homme (1835) and Anthropométrie, ou Mesure des différentes facultés de l'homme (1870); cited by Winterberg in the Einleitung for establishing statistical anthropometry.
+
+**Principal Works:** *Anthropométrie, ou Mesure des différentes facultés de l'homme (1870)*
+
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
 
 .. _person-girolamo-riario:
 
@@ -909,6 +1229,17 @@ Riario, Count Girolamo, Lord of Imola and Forlì (1443 – 1488)
 Host of the architectural gathering at his palace construction in Rome (now Palazzo Altemps) with Melozzo da Forlì and Luca Pacioli recounted in Compendio Cap. LVII.
 
 **Occurrences:** :doc:`Comp. Cap. 57 (Notes) </de_divina_proportione/compendio/cap_57/cap_57_notes>`, :doc:`Comp. index </de_divina_proportione/compendio/index>`
+
+.. _person-san-rocco:
+
+Roch, St. (San Rocco) (c. 1348 – 1376/1379)
+-------------------------------------------
+
+*Christian Confessor and Patron Saint against the Plague*
+
+Venerated in Venice at the Church and Scuola Grande di San Rocco; glossed by Winterberg in the Dedication of the Tractato de l'Architectura (fn. 1).
+
+**Occurrences:** :doc:`Arch. Prohemio (DE) </de_divina_proportione/architectura/dedication/dedication_de>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`
 
 .. _person-galeotto-della-rovere:
 
@@ -943,6 +1274,19 @@ Presided over the General Chapter of the Franciscan Order celebrated in Milan in
 
 **Occurrences:** :doc:`Comp. Cap. 69 (DE) </de_divina_proportione/compendio/cap_69/cap_69_de>`, :doc:`Comp. Cap. 69 (Notes) </de_divina_proportione/compendio/cap_69/cap_69_notes>`
 
+.. _person-carl-schmidt:
+
+Schmidt, Carl (fl. 1849)
+------------------------
+
+*German Art Theorist and Anatomist*
+
+Author of Proportionsschlüssel: Neues System der Verhältnisse des menschlichen Körpers (Stuttgart, 1849), which modified Carus's vertebral module to include the cranial bones for measuring the extremities; cited by Winterberg in the Einleitung.
+
+**Principal Works:** *Proportionsschlüssel: Neues System der Verhältnisse des menschlichen Körpers (1849)*
+
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
 .. _person-serapion:
 
 Serapion (Yahya ibn Sarafyun / Ibn Sarabi) (fl. 9th / 12th century)
@@ -956,6 +1300,19 @@ Medical authority paired with Avicenna in Compendio Chapter I in Pacioli's prais
 
 **Occurrences:** :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/cap_01_de>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`
 
+.. _person-serlio:
+
+Serlio, Sebastiano (1475 – c. 1554)
+-----------------------------------
+
+*Italian Mannerist Architect and Architectural Theorist*
+
+Author of I Sette Libri dell'Architettura (1537–1551), cited by Winterberg in the Einleitung alongside Vitruvius and Alberti on Renaissance architectural proportion.
+
+**Principal Works:** *I Sette Libri dell'Architettura*
+
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
 .. _person-francesco-sforza:
 
 Sforza, Francesco I, Duke of Milan (1401 – 1466)
@@ -965,7 +1322,7 @@ Sforza, Francesco I, Duke of Milan (1401 – 1466)
 
 Father of Ludovico Sforza; honored by Leonardo da Vinci's bronze equestrian colossus and remembered by Pacioli for the massive bridge cables hung as votive trophies in San Fortunato at Todi.
 
-**Occurrences:** :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Winterberg's Critical Introduction (1889) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
 
 .. _person-ludovico-sforza:
 
@@ -976,7 +1333,7 @@ Sforza, Ludovico Maria ('Il Moro'), Duke of Milan (1452 – 1508)
 
 Dedicatee of the 1498 Compendio de Divina Proportione; established the public chair of mathematics in Milan for Luca Pacioli (1496–1499) and hosted the scientific disputation of February 9, 1498 in the Castello Sforzesco.
 
-**Occurrences:** :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/cap_06_en>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/cap_06_it>`, :doc:`Arch. Cap. 6 (Notes) </de_divina_proportione/architectura/cap_06/cap_06_notes>`, :doc:`Arch. Cap. 20 (EN) </de_divina_proportione/architectura/cap_20/cap_20_en>`, :doc:`Arch. Cap. 20 (Notes) </de_divina_proportione/architectura/cap_20/cap_20_notes>`, :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/dedication_it>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`, :doc:`Comp. Cap. 54 (Notes) </de_divina_proportione/compendio/cap_54/cap_54_notes>`, :doc:`Comp. Cap. 69 (Notes) </de_divina_proportione/compendio/cap_69/cap_69_notes>`, :doc:`Comp. Cap. 70 (Notes) </de_divina_proportione/compendio/cap_70/cap_70_notes>`, :doc:`Comp. index </de_divina_proportione/compendio/index>`, :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Winterberg's Critical Introduction (1889) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/cap_06_en>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/cap_06_it>`, :doc:`Arch. Cap. 6 (Notes) </de_divina_proportione/architectura/cap_06/cap_06_notes>`, :doc:`Arch. Cap. 20 (EN) </de_divina_proportione/architectura/cap_20/cap_20_en>`, :doc:`Arch. Cap. 20 (Notes) </de_divina_proportione/architectura/cap_20/cap_20_notes>`, :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/dedication_it>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`, :doc:`Comp. Cap. 54 (Notes) </de_divina_proportione/compendio/cap_54/cap_54_notes>`, :doc:`Comp. Cap. 69 (Notes) </de_divina_proportione/compendio/cap_69/cap_69_notes>`, :doc:`Comp. Cap. 70 (Notes) </de_divina_proportione/compendio/cap_70/cap_70_notes>`, :doc:`Comp. index </de_divina_proportione/compendio/index>`, :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
 
 .. _person-simonides:
 
@@ -1045,7 +1402,20 @@ Solomon, King (fl. 10th century BC)
 
 Builder of the Temple in Jerusalem whose Gate Called Beautiful ('Porta Templi Domini dicta Speciosa') Pacioli reconstructs geometrically in Architectura Chapter VI and Folio 0185.
 
-**Occurrences:** :doc:`Arch. Prohemio (DE) </de_divina_proportione/architectura/dedication/dedication_de>`, :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/dedication_en>`
+**Occurrences:** :doc:`Arch. Cap. 8 (Notes) </de_divina_proportione/architectura/cap_08/cap_08_notes>`, :doc:`Arch. Prohemio (DE) </de_divina_proportione/architectura/dedication/dedication_de>`, :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/dedication_en>`
+
+.. _person-niccolo-tartaglia:
+
+Tartaglia, Niccolò (Niccolò Fontana) (1499/1500 – 1557)
+-------------------------------------------------------
+
+*Venetian Mathematician and Engineer*
+
+Author of the General Trattato di Numeri et Misure (Venice, 1556–1560) and translator of the first Italian vernacular edition of Euclid (1543); cited by Winterberg in the Einleitung (fn. 7) on errors in Pacioli's Latin Euclid of 1509.
+
+**Principal Works:** *General Trattato di Numeri et Misure (1556–1560)*
+
+**Occurrences:** :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Winterberg Anmerkungen (DE) </de_divina_proportione/plates/anmerkungen_de>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _person-theaetetus:
 
@@ -1076,6 +1446,30 @@ Tovaglia, Piero del (fl. late 15th century)
 
 Owner of the suburban villa near Florence (Villa del Tovaglia) whose stone columns Pacioli praises as models of proportion in Architectura Chapter VIII.
 
+.. _person-gian-giacomo-trivulzio:
+
+Trivulzio, Gian Giacomo (1440/1441 – 1518)
+------------------------------------------
+
+*Milanese Condottiere and Marshal of France*
+
+Celebrated military commander praised by Pacioli in the Dedication of the Tractato de l'Architectura for his discourse on military and Vitruvian architecture in Naples.
+
+**Occurrences:** :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`
+
+.. _person-j-j-trost:
+
+Trost, Johann Jacob (fl. 1854 – 1866)
+-------------------------------------
+
+*Austrian Art Theorist at the Vienna Academy of Fine Arts*
+
+Author of Die Proportionslehre Dürer's nach ihren wesentlichen Bestimmungen in übersichtlicher Darstellung (Vienna, 1859), cited by Winterberg in the Einleitung.
+
+**Principal Works:** *Die Proportionslehre Dürer's (1859)*
+
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
 .. _person-roberto-valturio:
 
 Valturio, Roberto (1405 – 1475)
@@ -1088,6 +1482,19 @@ Author of De Re Militari (printed in Verona, 1472), praised by Pacioli in Compen
 **Principal Works:** *De Re Militari (1472)*
 
 **Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`
+
+.. _person-vasari:
+
+Vasari, Giorgio (1511 – 1574)
+-----------------------------
+
+*Renaissance Painter, Architect, and Biographer of Artists*
+
+Author of Le Vite de' più eccellenti pittori, scultori, e architettori (1550/1568); cited critically by Winterberg in the Einleitung for accusing Pacioli of plagiarizing Piero della Francesca's geometrical treatises.
+
+**Principal Works:** *Le Vite de' più eccellenti pittori, scultori, e architettori*
+
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
 
 .. _person-vegetius:
 
@@ -1102,6 +1509,28 @@ Author of Epitoma Rei Militaris, cited in Compendio Chapter II on the mathematic
 
 **Occurrences:** :doc:`Comp. Cap. 2 (DE) </de_divina_proportione/compendio/cap_02/cap_02_de>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`
 
+.. _person-pier-vettori:
+
+Vettori, Pier (the Elder) (fl. late 15th century)
+-------------------------------------------------
+
+*Florentine Statesman and Ambassador in Naples*
+
+Florentine ambassador at the Aragonese court in Naples and father of Francesco Vettori; cited by Pacioli in the Dedication of the Tractato de l'Architectura.
+
+**Occurrences:** :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/dedication_en>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`
+
+.. _person-camillo-vitelli:
+
+Vitelli, Camillo (c. 1459 – 1496)
+---------------------------------
+
+*Umbrian Condottiere of Città di Castello*
+
+Military commander to whom Pacioli expounded Euclid's Elements for three years across campaigns in Naples and Rome (Architectura Prohemio).
+
+**Occurrences:** :doc:`Arch. Prohemio (DE) </de_divina_proportione/architectura/dedication/dedication_de>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`
+
 .. _person-vitruvius:
 
 Vitruvius Pollio, Marcus (c. 80–70 BC – after c. 15 BC)
@@ -1113,20 +1542,33 @@ Author of De Architectura Libri X, the primary classical authority for Pacioli's
 
 **Principal Works:** *De Architectura Libri Decem*
 
-**Occurrences:** :doc:`Arch. Cap. 1 (IT) </de_divina_proportione/architectura/cap_01/cap_01_it>`, :doc:`Arch. Cap. 3 (DE) </de_divina_proportione/architectura/cap_03/cap_03_de>`, :doc:`Arch. Cap. 3 (EN) </de_divina_proportione/architectura/cap_03/cap_03_en>`, :doc:`Arch. Cap. 3 (IT) </de_divina_proportione/architectura/cap_03/cap_03_it>`, :doc:`Arch. Cap. 4 (DE) </de_divina_proportione/architectura/cap_04/cap_04_de>`, :doc:`Arch. Cap. 4 (EN) </de_divina_proportione/architectura/cap_04/cap_04_en>`, :doc:`Arch. Cap. 4 (IT) </de_divina_proportione/architectura/cap_04/cap_04_it>`, :doc:`Arch. Cap. 5 (DE) </de_divina_proportione/architectura/cap_05/cap_05_de>`, :doc:`Arch. Cap. 5 (EN) </de_divina_proportione/architectura/cap_05/cap_05_en>`, :doc:`Arch. Cap. 5 (IT) </de_divina_proportione/architectura/cap_05/cap_05_it>`, :doc:`Arch. Cap. 7 (DE) </de_divina_proportione/architectura/cap_07/cap_07_de>`, :doc:`Arch. Cap. 7 (EN) </de_divina_proportione/architectura/cap_07/cap_07_en>`, :doc:`Arch. Cap. 7 (IT) </de_divina_proportione/architectura/cap_07/cap_07_it>`, :doc:`Arch. Cap. 8 (DE) </de_divina_proportione/architectura/cap_08/cap_08_de>`, :doc:`Arch. Cap. 8 (EN) </de_divina_proportione/architectura/cap_08/cap_08_en>`, :doc:`Arch. Cap. 8 (IT) </de_divina_proportione/architectura/cap_08/cap_08_it>`, :doc:`Arch. Cap. 12 (DE) </de_divina_proportione/architectura/cap_12/cap_12_de>`, :doc:`Arch. Cap. 12 (EN) </de_divina_proportione/architectura/cap_12/cap_12_en>`, :doc:`Arch. Cap. 12 (IT) </de_divina_proportione/architectura/cap_12/cap_12_it>`, :doc:`Arch. Cap. 12 (Notes) </de_divina_proportione/architectura/cap_12/cap_12_notes>`, :doc:`Arch. Cap. 14 (DE) </de_divina_proportione/architectura/cap_14/cap_14_de>`, :doc:`Arch. Cap. 14 (EN) </de_divina_proportione/architectura/cap_14/cap_14_en>`, :doc:`Arch. Cap. 14 (IT) </de_divina_proportione/architectura/cap_14/cap_14_it>`, :doc:`Arch. Cap. 15 (Notes) </de_divina_proportione/architectura/cap_15/cap_15_notes>`, *...and 31 more*
+**Occurrences:** :doc:`Arch. Cap. 1 (IT) </de_divina_proportione/architectura/cap_01/cap_01_it>`, :doc:`Arch. Cap. 3 (DE) </de_divina_proportione/architectura/cap_03/cap_03_de>`, :doc:`Arch. Cap. 3 (EN) </de_divina_proportione/architectura/cap_03/cap_03_en>`, :doc:`Arch. Cap. 3 (IT) </de_divina_proportione/architectura/cap_03/cap_03_it>`, :doc:`Arch. Cap. 4 (DE) </de_divina_proportione/architectura/cap_04/cap_04_de>`, :doc:`Arch. Cap. 4 (EN) </de_divina_proportione/architectura/cap_04/cap_04_en>`, :doc:`Arch. Cap. 4 (IT) </de_divina_proportione/architectura/cap_04/cap_04_it>`, :doc:`Arch. Cap. 5 (DE) </de_divina_proportione/architectura/cap_05/cap_05_de>`, :doc:`Arch. Cap. 5 (EN) </de_divina_proportione/architectura/cap_05/cap_05_en>`, :doc:`Arch. Cap. 5 (IT) </de_divina_proportione/architectura/cap_05/cap_05_it>`, :doc:`Arch. Cap. 5 (Notes) </de_divina_proportione/architectura/cap_05/cap_05_notes>`, :doc:`Arch. Cap. 7 (DE) </de_divina_proportione/architectura/cap_07/cap_07_de>`, :doc:`Arch. Cap. 7 (EN) </de_divina_proportione/architectura/cap_07/cap_07_en>`, :doc:`Arch. Cap. 7 (IT) </de_divina_proportione/architectura/cap_07/cap_07_it>`, :doc:`Arch. Cap. 7 (Notes) </de_divina_proportione/architectura/cap_07/cap_07_notes>`, :doc:`Arch. Cap. 8 (DE) </de_divina_proportione/architectura/cap_08/cap_08_de>`, :doc:`Arch. Cap. 8 (EN) </de_divina_proportione/architectura/cap_08/cap_08_en>`, :doc:`Arch. Cap. 8 (IT) </de_divina_proportione/architectura/cap_08/cap_08_it>`, :doc:`Arch. Cap. 12 (DE) </de_divina_proportione/architectura/cap_12/cap_12_de>`, :doc:`Arch. Cap. 12 (EN) </de_divina_proportione/architectura/cap_12/cap_12_en>`, :doc:`Arch. Cap. 12 (IT) </de_divina_proportione/architectura/cap_12/cap_12_it>`, :doc:`Arch. Cap. 12 (Notes) </de_divina_proportione/architectura/cap_12/cap_12_notes>`, :doc:`Arch. Cap. 13 (Notes) </de_divina_proportione/architectura/cap_13/cap_13_notes>`, :doc:`Arch. Cap. 14 (DE) </de_divina_proportione/architectura/cap_14/cap_14_de>`, *...and 35 more*
 
 .. _person-winterberg:
 
-Winterberg, Constantin (fl. 1889)
----------------------------------
+Winterberg, Constantin (fl. 1887 – 1889)
+----------------------------------------
 
-*German Editor and Translator of De Divina Proportione*
+*German Art Historian, Editor and Translator of De Divina Proportione*
 
-Prepared the 1889 Vienna critical edition and German translation (Fra Luca Pacioli: Divina Proportione — Die Lehre vom Goldenen Schnitt, Quellenschriften für Kunstgeschichte, N. F. Band II).
+Prepared the 1889 Vienna critical edition and German translation (Fra Luca Pacioli: Divina Proportione — Die Lehre vom Goldenen Schnitt, Quellenschriften für Kunstgeschichte, N. F. Band II), including the Vorwort, Einleitung, chapter footnotes, and 17 Sachliche Anmerkungen on the polyhedra plates; also authored 'Das Malerbuch Lionardo da Vinci's' in the Jahrbücher der königlich preussischen Kunstsammlungen (1887).
 
-**Principal Works:** *Fra Luca Pacioli: Divina Proportione (Wien: Carl Graeser, 1889)*
+**Principal Works:** *Fra Luca Pacioli: Divina Proportione — Die Lehre vom Goldenen Schnitt (Wien: Carl Graeser, 1889)*, *Das Malerbuch Lionardo da Vinci's (Jahrbücher der königlich preussischen Kunstsammlungen, 1887)*
 
-**Occurrences:** :doc:`Arch. Cap. 5 (Notes) </de_divina_proportione/architectura/cap_05/cap_05_notes>`, :doc:`Arch. Cap. 6 (Notes) </de_divina_proportione/architectura/cap_06/cap_06_notes>`, :doc:`Arch. Cap. 14 (Notes) </de_divina_proportione/architectura/cap_14/cap_14_notes>`, :doc:`Arch. Cap. 16 (Notes) </de_divina_proportione/architectura/cap_16/cap_16_notes>`, :doc:`Arch. Cap. 17 (Notes) </de_divina_proportione/architectura/cap_17/cap_17_notes>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`, :doc:`Comp. Cap. 8 (Notes) </de_divina_proportione/compendio/cap_08/cap_08_notes>`, :doc:`Comp. Cap. 26 (Notes) </de_divina_proportione/compendio/cap_26/cap_26_notes>`, :doc:`Comp. Cap. 28 (Notes) </de_divina_proportione/compendio/cap_28/cap_28_notes>`, :doc:`Comp. Cap. 33 (Notes) </de_divina_proportione/compendio/cap_33/cap_33_notes>`, :doc:`Comp. Cap. 39 (Notes) </de_divina_proportione/compendio/cap_39/cap_39_notes>`, :doc:`Comp. Cap. 41 (Notes) </de_divina_proportione/compendio/cap_41/cap_41_notes>`, :doc:`Comp. Cap. 48 (Notes) </de_divina_proportione/compendio/cap_48/cap_48_notes>`, :doc:`Comp. Cap. 60 (Notes) </de_divina_proportione/compendio/cap_60/cap_60_notes>`, :doc:`Comp. Cap. 65 (Notes) </de_divina_proportione/compendio/cap_65/cap_65_notes>`, :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Plates: Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
+**Occurrences:** :doc:`Arch. Cap. 2 (Notes) </de_divina_proportione/architectura/cap_02/cap_02_notes>`, :doc:`Arch. Cap. 3 (Notes) </de_divina_proportione/architectura/cap_03/cap_03_notes>`, :doc:`Arch. Cap. 5 (Notes) </de_divina_proportione/architectura/cap_05/cap_05_notes>`, :doc:`Arch. Cap. 6 (Notes) </de_divina_proportione/architectura/cap_06/cap_06_notes>`, :doc:`Arch. Cap. 7 (Notes) </de_divina_proportione/architectura/cap_07/cap_07_notes>`, :doc:`Arch. Cap. 8 (Notes) </de_divina_proportione/architectura/cap_08/cap_08_notes>`, :doc:`Arch. Cap. 11 (Notes) </de_divina_proportione/architectura/cap_11/cap_11_notes>`, :doc:`Arch. Cap. 12 (Notes) </de_divina_proportione/architectura/cap_12/cap_12_notes>`, :doc:`Arch. Cap. 14 (Notes) </de_divina_proportione/architectura/cap_14/cap_14_notes>`, :doc:`Arch. Cap. 16 (Notes) </de_divina_proportione/architectura/cap_16/cap_16_notes>`, :doc:`Arch. Cap. 17 (Notes) </de_divina_proportione/architectura/cap_17/cap_17_notes>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`, :doc:`Comp. Cap. 3 (Notes) </de_divina_proportione/compendio/cap_03/cap_03_notes>`, :doc:`Comp. Cap. 4 (Notes) </de_divina_proportione/compendio/cap_04/cap_04_notes>`, :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 8 (Notes) </de_divina_proportione/compendio/cap_08/cap_08_notes>`, :doc:`Comp. Cap. 25 (Notes) </de_divina_proportione/compendio/cap_25/cap_25_notes>`, :doc:`Comp. Cap. 26 (Notes) </de_divina_proportione/compendio/cap_26/cap_26_notes>`, :doc:`Comp. Cap. 28 (Notes) </de_divina_proportione/compendio/cap_28/cap_28_notes>`, :doc:`Comp. Cap. 29 (Notes) </de_divina_proportione/compendio/cap_29/cap_29_notes>`, :doc:`Comp. Cap. 30 (Notes) </de_divina_proportione/compendio/cap_30/cap_30_notes>`, :doc:`Comp. Cap. 31 (Notes) </de_divina_proportione/compendio/cap_31/cap_31_notes>`, *...and 24 more*
+
+.. _person-adolf-zeising:
+
+Zeising, Adolf (1810 – 1876)
+----------------------------
+
+*German Aesthetic Theorist and Morphologist*
+
+Author of Neue Lehre von den Proportionen des menschlichen Körpers (Leipzig, 1854), which sought to establish the Golden Section as the universal morphological law of the human body, nature, and classical art; discussed by Winterberg in the Einleitung (fn. 4).
+
+**Principal Works:** *Neue Lehre von den Proportionen des menschlichen Körpers (1854)*
+
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
 
 .. _person-zeuxis:
 

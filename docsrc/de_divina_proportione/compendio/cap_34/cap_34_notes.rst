@@ -13,7 +13,7 @@ Historical & Mathematical Commentary
 ------------------------------------
 
 - **Book XV in the Campanus Tradition**: While the Greek *Elements* Book XV (compiled in the circle of :person:`Isidore <isidore>` of Miletus, 6th century CE) contained only a handful of simple inscriptions (:term:`Tetrahedron <tetrahedron>` in Cube, :term:`Octahedron <octahedron>` in :term:`Tetrahedron <tetrahedron>`, :term:`Octahedron <octahedron>` in Cube, Cube in :term:`Octahedron <octahedron>`, :term:`Dodecahedron <dodecahedron>` in :term:`Icosahedron <icosahedron>`), :person:`**Campanus of Novara** <campanus>` (c. 1259) expanded Book XV into a systematic sequence of 13 propositions covering 12 polyhedral inscriptions (XV.1–12) plus the inscription of the sphere in all five regular solids (XV.13).
-- **Structure of Chapters XXXV–XLVII**: Pacioli devotes ``Cap. XXXV`` through ``Cap. XLVII`` to translating and explaining :person:`Campanus <campanus>`'s Book XV propositions one by one, accompanied by marginal woodcuts on Folios ``0038``–``0041``.
+- **Structure of Chapters XXXV–XLVII**: :person:`Pacioli <pacioli>` devotes ``Cap. XXXV`` through ``Cap. XLVII`` to translating and explaining :person:`Campanus <campanus>`'s Book XV propositions one by one, accompanied by marginal woodcuts on Folios ``0038``–``0041``.
 
 Philological and Folio Apparatus
 --------------------------------

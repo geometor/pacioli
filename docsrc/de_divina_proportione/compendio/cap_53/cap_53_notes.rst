@@ -19,7 +19,14 @@ Historical & Mathematical Commentary
   - **Plate XXXVII** (``0265.rst``): :term:`*Vigintisex Basium Elevatum Solidum* <vigintisex-basium-elevatum>` (Cumulated :term:`rhombicuboctahedron <vigintisex-basium>`, 96 triangular faces, solid).
   - **Plate XXXVIII** (``0267.rst``): :term:`*Vigintisex Basium Elevatum Vacuum* <vigintisex-basium-elevatum>` (Cumulated :term:`rhombicuboctahedron <vigintisex-basium>`, skeletal).
 
-- **Jacopo de' Barbari's 1495 Portrait of Pacioli**: The glass :term:`*Vigintisex Basium* <vigintisex-basium>` half-filled with water hanging from a thin cord in Jacopo de' Barbari's famous 1495 Capodimonte portrait of :person:`Fra Luca Pacioli <pacioli>` (and the wooden :term:`dodecahedron <dodecahedron>` resting on Pacioli's *Summa*) is this exact 26-base :term:`rhombicuboctahedron <vigintisex-basium>`!
+- **Jacopo de' Barbari's 1495 Portrait of Pacioli**: The glass :term:`*Vigintisex Basium* <vigintisex-basium>` half-filled with water hanging from a thin cord in Jacopo de' Barbari's famous 1495 Capodimonte portrait of :person:`Fra Luca Pacioli <pacioli>` (and the wooden :term:`dodecahedron <dodecahedron>` resting on :person:`Pacioli's <pacioli>` *Summa*) is this exact 26-base :term:`rhombicuboctahedron <vigintisex-basium>`!
+
+Constantin Winterberg's Commentary (1889 Edition)
+-------------------------------------------------
+
+- :person:`Winterberg <winterberg>` Footnotes 1–2 (Cap. LIII, p. 243): (1) Compare Chapter LXXI. (2) Namely, the 8 edges of the regular octagon lying in the same plane—a construction that can also be found by purely elementary geometry without the 'profound science' presupposed by the author.
+  (:person:`Winterberg <winterberg>` Fussnoten 1–2 (Cap. LIII, S. 243): *1) cfr. Cap. LXXI. 2) scil. welche in derselben Ebene liegen, was übrigens auch ohne die vom Autor vorausgesetzten „tiefen Kenntnisse“ auf rein elementarem Wege zu finden ist.*)
+
 
 Philological and Folio Apparatus
 --------------------------------

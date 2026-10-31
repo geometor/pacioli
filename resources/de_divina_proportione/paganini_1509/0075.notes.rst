@@ -4,9 +4,9 @@ Folio 0075 (f. 30r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0074.rst``): Folio f. 29v (verso), Part II: Tractato de l'Architectura — Cap. VII, Cap. VIII (f. 29v) — In quello sienno differenti le tre spetie de diete colo
-- **Current Folio** (``0075.rst``): Folio f. 30r (recto), Part II: Tractato de l'Architectura [``02_architectura``] — Cap. VIII, Cap. IX (f. 30r) — Doue ora se trouino colonne più debitamente facte per I
-- **Following Folio** (``0076.rst``): Folio f. 30v (verso), Part II: Tractato de l'Architectura — Cap. IX, Cap. X, Cap. XI (f. 30v) — Dele :term:`colonne laterate <colonna-laterata>`.
+- **Preceding Folio** (``0074.rst``): Folio f. 29v (verso), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` — Cap. VII, Cap. VIII (f. 29v) — In quello sienno differenti le tre spetie de diete colo
+- **Current Folio** (``0075.rst``): Folio f. 30r (recto), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` [``02_architectura``] — Cap. VIII, Cap. IX (f. 30r) — Doue ora se trouino colonne più debitamente facte per I
+- **Following Folio** (``0076.rst``): Folio f. 30v (verso), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` — Cap. IX, Cap. X, Cap. XI (f. 30v) — Dele :term:`colonne laterate <colonna-laterata>`.
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -20,7 +20,7 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``-PRIMA—``
 - **Folio Signature / Numeration**: ``f. 30r`` (Scan page ``75``, *recto*)
-- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Book & Section Slug**: Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` (``02_architectura``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
   - **Cap. VIII** (``architectura/cap_08``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/008_cap_VILI.txt``
   - **Cap. IX** (``architectura/cap_09``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/02_architectura_italian/009_cap_IX.txt``
@@ -34,9 +34,9 @@ Cap. VIII — Where Columns Most Duly Made by the Ancients and Moderns Are Found
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Pacioli Living with Leon Battista Alberti in Rome under Pope Paul II (1470–1471)**: This chapter contains the sole primary testimony that the young :person:`Luca Pacioli <pacioli>` (born c. 1447), upon arriving in Rome around **1470–1471** during the pontificate of the Venetian Pope **Paul II (Pietro Barbo, r. 1464–1471)**, lived **for many months as a guest in the Roman house of Leon Battista Alberti (1404–1472)** right up to the eve of Alberti's death!
-- **Lorenzo de' Medici's Model for Poggio Reale in Naples**: Pacioli also gives an eyewitness report from his stay in Naples (c. 1489) that **Lorenzo the Magnificent** personally crafted an architectural model and sent it to **Giuliano da Maiano** (1432–1490) for King Ferrante and Duke Alfonso of Calabria's celebrated **Villa of Poggio Reale** (*Dogliuolo*).
-- **Brunelleschi's Architecture in Florence and the Column at the Frari in Venice**: Pacioli singles out Brunelleschi's **Pazzi Chapel** at Santa Croce, **Santo Spirito**, and **San Lorenzo** as the supreme modern realizations of Vitruvian symmetry, and directs his pupils to measure the ancient column resting on an inverted capital in the second cloister of **Santa Maria Gloriosa dei Frari (*la Ca' Grande*)** in Venice.
+- **Pacioli Living with Leon Battista Alberti in Rome under Pope Paul II (1470–1471)**: This chapter contains the sole primary testimony that the young :person:`Luca Pacioli <pacioli>` (born c. 1447), upon arriving in Rome around **1470–1471** during the pontificate of the Venetian Pope **Paul II (Pietro Barbo, r. 1464–1471)**, lived **for many months as a guest in the Roman house of Leon Battista Alberti (1404–1472)** right up to the eve of :person:`Alberti's <alberti>` death!
+- **Lorenzo de' Medici's Model for Poggio Reale in Naples**: :person:`Pacioli <pacioli>` also gives an eyewitness report from his stay in Naples (c. 1489) that **Lorenzo the Magnificent** personally crafted an architectural model and sent it to **Giuliano da Maiano** (1432–1490) for :person:`King Ferrante <ferrante-of-naples>` and Duke Alfonso of Calabria's celebrated **Villa of Poggio Reale** (*Dogliuolo*).
+- **Brunelleschi's Architecture in Florence and the Column at the Frari in Venice**: :person:`Pacioli <pacioli>` singles out Brunelleschi's **Pazzi Chapel** at Santa Croce, **Santo Spirito**, and **San Lorenzo** as the supreme modern realizations of Vitruvian symmetry, and directs his pupils to measure the ancient column resting on an inverted capital in the second cloister of **Santa Maria Gloriosa dei Frari (*la Ca' Grande*)** in Venice.
 
 Cap. IX — On Lateral (Prismatic) Columns in Architecture, and on the Quadrature of the Circle.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -44,4 +44,4 @@ Cap. IX — On Lateral (Prismatic) Columns in Architecture, and on the Quadratur
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Aristotle on the Quadrature of the Circle (*Categories* 7b31)**: Pacioli quotes the classic Scholastic formulation of Aristotle, *Categories* 7 (7b30–33): *Quadratura circuli, si est scibilis, scientia quidem eius nondum est, ipsum vero scibile est* ("The squaring of the circle, if it is knowable, is an object of knowledge even though the knowledge of it does not yet exist"). Notice Pacioli's intriguing hint (*"Forse in questo dì è nato chi la darà"*, "Perhaps today the man has already been born who will give it")—likely an allusion to **Leonardo da Vinci's** intense researches on lunules and the quadrature of curved surfaces (*De ludo geometrico*), which Leonardo was pursuing during their years together!
+- **Aristotle on the Quadrature of the Circle (*Categories* 7b31)**: Pacioli quotes the classic Scholastic formulation of Aristotle, *Categories* 7 (7b30–33): *Quadratura circuli, si est scibilis, scientia quidem eius nondum est, ipsum vero scibile est* ("The squaring of the circle, if it is knowable, is an object of knowledge even though the knowledge of it does not yet exist"). Notice Pacioli's intriguing hint (*"Forse in questo dì è nato chi la darà"*, "Perhaps today the man has already been born who will give it")—likely an allusion to *:person:`*Leonardo da Vinci's* <leonardo>`* intense researches on lunules and the quadrature of curved surfaces (*De ludo geometrico*), which :person:`Leonardo <leonardo>` was pursuing during their years together!

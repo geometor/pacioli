@@ -4,8 +4,8 @@ Folio 0084 (f. 34v) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0083.rst``): Folio f. 34r (recto), Part II: Tractato de l'Architectura — Blank Leaf (f. 34r)
-- **Current Folio** (``0084.rst``): Folio f. 34v (verso), Part II: Tractato de l'Architectura [``02_architectura``] — Blank Leaf (f. 34v)
+- **Preceding Folio** (``0083.rst``): Folio f. 34r (recto), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` — Blank Leaf (f. 34r)
+- **Current Folio** (``0084.rst``): Folio f. 34v (verso), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` [``02_architectura``] — Blank Leaf (f. 34v)
 - **Following Folio** (``0085.rst``): Folio Libellus f. 1r (recto), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Primus (Libellus f. 1r)
 
 Graphic Extraction & Calibration
@@ -18,5 +18,5 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``None (unheadered / plate leaf)``
 - **Folio Signature / Numeration**: ``f. 34v`` (Scan page ``84``, *verso*)
-- **Book & Section Slug**: Part II: Tractato de l'Architectura (``02_architectura``)
+- **Book & Section Slug**: Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` (``02_architectura``)
 - **Leaf Category**: Blank Leaf (f. 34v)

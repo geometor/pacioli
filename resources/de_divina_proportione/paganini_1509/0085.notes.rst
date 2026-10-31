@@ -4,7 +4,7 @@ Folio 0085 (Libellus f. 1r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0084.rst``): Folio f. 34v (verso), Part II: Tractato de l'Architectura — Blank Leaf (f. 34v)
+- **Preceding Folio** (``0084.rst``): Folio f. 34v (verso), Part II: :cite:`Tractato de l'Architectura <pacioli:architectura>` — Blank Leaf (f. 34v)
 - **Current Folio** (``0085.rst``): Folio Libellus f. 1r (recto), Part III: Libellus in tres partiales tractatus divisus [``03_libellus``] — Libellus — Tractatus Primus (Libellus f. 1r)
 - **Following Folio** (``0086.rst``): Folio Libellus f. 1v (verso), Part III: Libellus in tres partiales tractatus divisus — Libellus — Tractatus Primus (Libellus f. 1v)
 

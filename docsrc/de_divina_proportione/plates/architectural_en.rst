@@ -19,7 +19,7 @@ Folio 0137: Divina Proportio — Caput Humanum (Proportional Profile of the Huma
 
    Divina Proportio — Caput Humanum (Proportional Profile of the Human Head)
 
-Divina Proportio: Proportional profile of the human head inscribed in the equilateral triangle and square grid (Tractato de l'Architectura, Cap. I–II).
+Divina Proportio: Proportional profile of the human head inscribed in the equilateral triangle and square grid (:cite:`Tractato de l'Architectura <pacioli:architectura>`, Cap. I–II).
 
 Folio 0185: Porta Templi Domini Dicta Speciosa
 ----------------------------------------------

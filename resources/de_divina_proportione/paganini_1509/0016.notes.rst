@@ -6,7 +6,7 @@ Summary & Folio Continuity
 
 - **Preceding Folio** (``0015.rst``): Folio A6r (recto), Front Matter and Dedications — Tabula — Table of Contents (A6r)
 - **Current Folio** (``0016.rst``): Folio A6v (verso), Front Matter and Dedications [``00_front_matter``] — Tabula — Table of Contents (A6v)
-- **Following Folio** (``0017.rst``): Folio f. 1r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. I (f. 1r) — Excellentissimo principi Ludouico mariae Sforza Angla M
+- **Following Folio** (``0017.rst``): Folio f. 1r (recto), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` — Cap. I (f. 1r) — Excellentissimo principi Ludouico mariae Sforza Angla M
 
 Graphic Extraction & Calibration
 --------------------------------

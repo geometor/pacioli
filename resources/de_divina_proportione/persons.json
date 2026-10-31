@@ -1,4 +1,85 @@
 {
+  "adolf-zeising": {
+    "name": "Zeising, Adolf",
+    "dates": "1810 – 1876",
+    "role": "German Aesthetic Theorist and Morphologist",
+    "bio": "Author of Neue Lehre von den Proportionen des menschlichen Körpers (Leipzig, 1854), which sought to establish the Golden Section as the universal morphological law of the human body, nature, and classical art; discussed by Winterberg in the Einleitung (fn. 4).",
+    "works": [
+      "Neue Lehre von den Proportionen des menschlichen Körpers (1854)"
+    ],
+    "bib_anchor": "bib-adolf-zeising",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Adolf Zeising"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Adolf Zeising"
+      }
+    ]
+  },
+  "adolphe-quetelet": {
+    "name": "Quetelet, Adolphe",
+    "dates": "1796 – 1874",
+    "role": "Belgian Astronomer, Mathematician, and Founder of Anthropometry",
+    "bio": "Author of Sur l'homme (1835) and Anthropométrie, ou Mesure des différentes facultés de l'homme (1870); cited by Winterberg in the Einleitung for establishing statistical anthropometry.",
+    "works": [
+      "Anthropométrie, ou Mesure des différentes facultés de l'homme (1870)"
+    ],
+    "bib_anchor": "bib-adolphe-quetelet",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Adolphe Quetelet"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Adolphe Quetelet"
+      }
+    ]
+  },
+  "albert-ilg": {
+    "name": "Ilg, Albert",
+    "dates": "1847 – 1896",
+    "role": "Austrian Art Historian and Editor of Quellenschriften (Neue Folge)",
+    "bio": "Director at the Kunsthistorisches Museum in Vienna who succeeded Rudolf von Eitelberger as general editor of the Neue Folge of Quellenschriften für Kunstgeschichte und Kunsttechnik, in which Winterberg's 1889 edition of Pacioli appeared as Band II.",
+    "works": [
+      "Quellenschriften für Kunstgeschichte und Kunsttechnik (Neue Folge)"
+    ],
+    "bib_anchor": "bib-albert-ilg",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/index",
+        "title": "DE DIVINA PROPORTIONE",
+        "display": "Quellenschriften für Kunstgeschichte"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Quellenschriften für Kunstgeschichte und Kunsttechnik des Mittelalters und der Neuzeit"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Quellenschriften für Kunstgeschichte und Kunsttechnik des Mittelalters und der Neuzeit"
+      }
+    ]
+  },
   "alberti": {
     "name": "Alberti, Leon Battista",
     "dates": "1404 – 1472",
@@ -26,9 +107,65 @@
         "book": "Part I: Compendio de Divina Proportione",
         "section": "01_compendio",
         "display": "Leon Battista Alberti"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0067",
+        "page": "f. 26r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Alberti's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0068",
+        "page": "f. 26v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Alberti's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0074",
+        "page": "f. 29v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Alberti's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0075",
+        "page": "f. 30r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Alberti's"
       }
     ],
     "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_02/cap_02_notes",
+        "title": "CHAPTER II — Critical Commentary & Notes",
+        "display": "Alberti's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_08/cap_08_de",
+        "title": "CAPITEL VIII",
+        "display": "Alberti"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_08/cap_08_en",
+        "title": "CHAPTER VIII",
+        "display": "Alberti"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_08/cap_08_notes",
+        "title": "CHAPTER VIII — Critical Commentary & Notes",
+        "display": "Alberti's"
+      },
       {
         "work": "divina_proportione",
         "doc": "de_divina_proportione/architectura/index",
@@ -40,6 +177,52 @@
         "doc": "de_divina_proportione/compendio/cap_03/cap_03_notes",
         "title": "CHAPTER III — Critical Commentary & Notes",
         "display": "Leon Battista Alberti"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Alberti"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Leon Battista Alberti"
+      }
+    ]
+  },
+  "albumasar": {
+    "name": "Albumasar (Abū Maʿshar al-Balkhī)",
+    "dates": "787 – 886 AD",
+    "role": "Persian Astronomer and Astrologer in Baghdad",
+    "bio": "Author of the Introductorium in Astronomiam, cited by Pacioli in Compendio Chapter II among the foremost authorities in astronomy.",
+    "works": [
+      "Introductorium in Astronomiam"
+    ],
+    "bib_anchor": "bib-albumasar",
+    "occurrences": [
+      {
+        "volume": "volume_I",
+        "folio": "0020",
+        "page": "f. 2v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Albumasar"
+      }
+    ],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_02/cap_02_en",
+        "title": "CHAPTER II",
+        "display": "Albumasar"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_02/cap_02_it",
+        "title": "CAPITOLO II",
+        "display": "Albumasar"
       }
     ]
   },
@@ -52,6 +235,37 @@
     "bib_anchor": "bib-alexander-the-great",
     "occurrences": [],
     "work_occurrences": []
+  },
+  "alfonso-x": {
+    "name": "Alfonso X of Castile ('El Sabio')",
+    "dates": "1221 – 1284",
+    "role": "King of Castile and León, Patron of the Alfonsine Tables",
+    "bio": "Royal patron of the Alfonsine Tables (Tabulae Alfonsinae), cited by Pacioli in Compendio Chapter II among the great astronomical authorities.",
+    "works": [
+      "Tabulae Alfonsinae"
+    ],
+    "bib_anchor": "bib-alfonso-x",
+    "occurrences": [],
+    "work_occurrences": []
+  },
+  "alfraganus": {
+    "name": "Alfraganus (Aḥmad ibn Muḥammad ibn Kathīr al-Farghānī)",
+    "dates": "fl. 9th century AD",
+    "role": "Abbasid Astronomer",
+    "bio": "Author of the Elements of Astronomy (Liber de Aggregationibus Scientiae Stellarum), cited by Pacioli in Compendio Chapter II.",
+    "works": [
+      "Liber de Aggregationibus Scientiae Stellarum"
+    ],
+    "bib_anchor": "bib-alfraganus",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_02/cap_02_en",
+        "title": "CHAPTER II",
+        "display": "Alfraganus"
+      }
+    ]
   },
   "aloisio-marliani": {
     "name": "Marliani, Aloisio (Luigi Marliano)",
@@ -232,6 +446,31 @@
     "bib_anchor": "bib-andrea-mocenigo",
     "occurrences": [],
     "work_occurrences": []
+  },
+  "annibale-caro": {
+    "name": "Caro, Annibale",
+    "dates": "1507 – 1566",
+    "role": "Italian Humanist, Poet, and Translator of the Aeneid",
+    "bio": "Cited by Winterberg in the Einleitung for coining the famous satirical epithet 'Ceneraccio' ('bundle of ash-lye') to characterize Pacioli's hybrid Latin-Tuscan-Lombard prose style.",
+    "works": [
+      "Apologia degli Accademici di Banchi di Roma (1558)"
+    ],
+    "bib_anchor": "bib-annibale-caro",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Annibale Caro"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Annibale Caro"
+      }
+    ]
   },
   "antonio-capella": {
     "name": "Capella, Marcantonio (M. Ant. Capella)",
@@ -499,6 +738,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_62/cap_62_notes",
+        "title": "CHAPTER LXII — Critical Commentary & Notes",
+        "display": "Dimensio Circuli"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_64/cap_64_notes",
         "title": "CHAPTER LXIV — Critical Commentary & Notes",
         "display": "Archimedes"
@@ -715,6 +960,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_05/cap_05_notes",
+        "title": "CHAPTER V — Critical Commentary & Notes",
+        "display": "De Caelo"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_54/cap_54_de",
         "title": "CAPITEL LIV",
         "display": "Aristoteles"
@@ -864,6 +1115,12 @@
         "doc": "de_divina_proportione/compendio/cap_01/cap_01_notes",
         "title": "CHAPTER I — Critical Commentary & Notes",
         "display": "Averroes"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_02/cap_02_it",
+        "title": "CAPITOLO II",
+        "display": "in primo gradu certitudinis"
       }
     ]
   },
@@ -1228,6 +1485,31 @@
       }
     ]
   },
+  "brocheneck": {
+    "name": "Brocheneck",
+    "dates": "fl. mid-19th century",
+    "role": "German Writer on Human Proportions",
+    "bio": "Author of Die männliche und weibliche Normalgestalt, cited by Winterberg in the Einleitung (fn. 4) among the nineteenth-century followers of the Golden Section canon.",
+    "works": [
+      "Die männliche und weibliche Normalgestalt"
+    ],
+    "bib_anchor": "bib-brocheneck",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Brocheneck"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Brocheneck"
+      }
+    ]
+  },
   "callimachus": {
     "name": "Callimachus (Catatechnos)",
     "dates": "fl. late 5th century BC",
@@ -1283,6 +1565,70 @@
         "doc": "de_divina_proportione/architectura/index",
         "title": "Part II: Tractato de l'Architectura (Prohemio & Chapters I–XX)",
         "display": "Callimachus"
+      }
+    ]
+  },
+  "camillo-vitelli": {
+    "name": "Vitelli, Camillo",
+    "dates": "c. 1459 – 1496",
+    "role": "Umbrian Condottiere of Città di Castello",
+    "bio": "Military commander to whom Pacioli expounded Euclid's Elements for three years across campaigns in Naples and Rome (Architectura Prohemio).",
+    "works": [],
+    "bib_anchor": "bib-camillo-vitelli",
+    "occurrences": [
+      {
+        "volume": "volume_I",
+        "folio": "0061",
+        "page": "f. 23r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Camillo Vitelli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0062",
+        "page": "f. 23v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Camillo Vitelli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0063",
+        "page": "f. 24r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Camillo Vitelli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0064",
+        "page": "f. 24v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Camillo Vitelli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0065",
+        "page": "f. 25r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Camillo Vitelli"
+      }
+    ],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/dedication/dedication_de",
+        "title": "WIDMUNG",
+        "display": "Camillo Vitelli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/dedication/dedication_notes",
+        "title": "DEDICATION — Critical Commentary & Notes",
+        "display": "Camillo Vitelli"
       }
     ]
   },
@@ -1754,9 +2100,27 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_13/cap_13_en",
+        "title": "CHAPTER XIII",
+        "display": "Campanus XIII.4"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_13/cap_13_notes",
         "title": "CHAPTER XIII — Critical Commentary & Notes",
         "display": "Campanus of Novara"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_14/cap_14_en",
+        "title": "CHAPTER XIV",
+        "display": "Campanus XIII.5"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_15/cap_15_notes",
+        "title": "CHAPTER XV — Critical Commentary & Notes",
+        "display": "Campanus X.79"
       },
       {
         "work": "divina_proportione",
@@ -1780,7 +2144,7 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_21/cap_21_en",
         "title": "CHAPTER XXI",
-        "display": "Campanus"
+        "display": "Campanus XIV.9"
       },
       {
         "work": "divina_proportione",
@@ -1811,6 +2175,12 @@
         "doc": "de_divina_proportione/compendio/cap_27/cap_27_notes",
         "title": "CHAPTER XXVII — Critical Commentary & Notes",
         "display": "Campanus"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_28/cap_28_en",
+        "title": "CHAPTER XXVIII",
+        "display": "Campanus XIII.15"
       },
       {
         "work": "divina_proportione",
@@ -1856,15 +2226,87 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_en",
+        "title": "CHAPTER XXXV",
+        "display": "Campanus XV.1"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
         "title": "CHAPTER XXXV — Critical Commentary & Notes",
         "display": "Campanus"
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_36/cap_36_en",
+        "title": "CHAPTER XXXVI",
+        "display": "Campanus XV.2"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_37/cap_37_en",
+        "title": "CHAPTER XXXVII",
+        "display": "Campanus XV.3"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_37/cap_37_notes",
+        "title": "CHAPTER XXXVII — Critical Commentary & Notes",
+        "display": "Campanus XV.3"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_38/cap_38_en",
+        "title": "CHAPTER XXXVIII",
+        "display": "Campanus XV.4"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_39/cap_39_en",
+        "title": "CHAPTER XXXIX",
+        "display": "Campanus XV.5"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_39/cap_39_notes",
+        "title": "CHAPTER XXXIX — Critical Commentary & Notes",
+        "display": "Campanus XV.4"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_40/cap_40_en",
+        "title": "CHAPTER XL",
+        "display": "Campanus XV.6"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_40/cap_40_notes",
+        "title": "CHAPTER XL — Critical Commentary & Notes",
+        "display": "Campanus XV.6"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_41/cap_41_en",
+        "title": "CHAPTER XLI",
+        "display": "Campanus XV.7"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_41/cap_41_notes",
         "title": "CHAPTER XLI — Critical Commentary & Notes",
         "display": "Campanus"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_42/cap_42_en",
+        "title": "CHAPTER XLII",
+        "display": "Campanus XV.8"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_43/cap_43_en",
+        "title": "CHAPTER XLIII",
+        "display": "Campanus XV.9"
       },
       {
         "work": "divina_proportione",
@@ -1880,15 +2322,33 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_45/cap_45_en",
+        "title": "CHAPTER XLV",
+        "display": "Campanus XV.11"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_46/cap_46_en",
         "title": "CHAPTER XLVI",
-        "display": "Campanus"
+        "display": "Campanus XV.12"
       },
       {
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
         "title": "CHAPTER XLVI — Critical Commentary & Notes",
-        "display": "Campanus"
+        "display": "Campanus XV.12"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_en",
+        "title": "CHAPTER XLVII",
+        "display": "Campanus XV.13"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
+        "title": "CHAPTER XLVII — Critical Commentary & Notes",
+        "display": "Campanus XV.13"
       },
       {
         "work": "divina_proportione",
@@ -1928,15 +2388,117 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Campanus"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/intro/intro_en",
         "title": "Winterberg's Critical Introduction (1889)",
-        "display": "Campanus"
+        "display": "Campanus of Novara"
       },
       {
         "work": "divina_proportione",
         "doc": "de_divina_proportione/plates/anmerkungen_en",
         "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
-        "display": "Campanus"
+        "display": "Campanus XIV.9"
+      }
+    ]
+  },
+  "carl-fromme": {
+    "name": "Fromme, Carl (k. k. Hofbuchdruckerei Carl Fromme)",
+    "dates": "1828 – 1884 (Firm active 1889)",
+    "role": "Imperial-Royal Court Printer in Vienna",
+    "bio": "Viennese court printing house (k. k. Hofbuchdruckerei Carl Fromme) that printed Constantin Winterberg's 1889 edition of Pacioli's Divina Proportione.",
+    "works": [],
+    "bib_anchor": "bib-carl-fromme",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Carl Fromme"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Carl Fromme"
+      }
+    ]
+  },
+  "carl-graeser": {
+    "name": "Graeser, Carl",
+    "dates": "1849 – 1899",
+    "role": "Viennese Publisher (Verlagsbuchhändler)",
+    "bio": "Publisher of the Neue Folge of Quellenschriften für Kunstgeschichte in Vienna (Verlag von Carl Graeser, 1889).",
+    "works": [],
+    "bib_anchor": "bib-carl-graeser",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Carl Graeser"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Carl Graeser"
+      }
+    ]
+  },
+  "carl-gustav-carus": {
+    "name": "Carus, Carl Gustav",
+    "dates": "1789 – 1869",
+    "role": "German Physician, Natural Philosopher, Anatomist, and Painter",
+    "bio": "Author of Die Proportionslehre der menschlichen Gestalt (1854) and Symbolik der menschlichen Gestalt (1853), proposing the vertebral column length (divided into thirds, the 'module') as the organic unit of bodily proportion; cited by Winterberg in the Einleitung.",
+    "works": [
+      "Die Proportionslehre der menschlichen Gestalt (1854)"
+    ],
+    "bib_anchor": "bib-carl-gustav-carus",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Carl Gustav Carus"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Carl Gustav Carus"
+      }
+    ]
+  },
+  "carl-schmidt": {
+    "name": "Schmidt, Carl",
+    "dates": "fl. 1849",
+    "role": "German Art Theorist and Anatomist",
+    "bio": "Author of Proportionsschlüssel: Neues System der Verhältnisse des menschlichen Körpers (Stuttgart, 1849), which modified Carus's vertebral module to include the cranial bones for measuring the extremities; cited by Winterberg in the Einleitung.",
+    "works": [
+      "Proportionsschlüssel: Neues System der Verhältnisse des menschlichen Körpers (1849)"
+    ],
+    "bib_anchor": "bib-carl-schmidt",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Carl Schmidt"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Carl Schmidt"
       }
     ]
   },
@@ -2329,6 +2891,31 @@
     "bib_anchor": "bib-duns-scotus",
     "occurrences": [],
     "work_occurrences": []
+  },
+  "emil-harless": {
+    "name": "Harless, Emil",
+    "dates": "1820 – 1862",
+    "role": "German Physiologist and Professor of Plastic Anatomy in Munich",
+    "bio": "Author of Lehrbuch der plastischen Anatomie (Stuttgart, 1856–1858), cited by Winterberg in the Einleitung (fn. 5) for empirically refuting Zeising's Golden Section canon through anatomical measurement of the living body.",
+    "works": [
+      "Lehrbuch der plastischen Anatomie (1856–1858)"
+    ],
+    "bib_anchor": "bib-emil-harless",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Emil Harless"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Emil Harless"
+      }
+    ]
   },
   "euclid": {
     "name": "Euclid of Alexandria (identified by Pacioli as Euclid of Megara)",
@@ -3978,6 +4565,14 @@
         "page": "f. 30v",
         "book": "Part II: Tractato de l'Architectura",
         "section": "02_architectura",
+        "display": "Euclid Book V"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0076",
+        "page": "f. 30v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
         "display": "Euclid"
       },
       {
@@ -4082,7 +4677,7 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/architectura/cap_11/cap_11_notes",
         "title": "CHAPTER XI — Critical Commentary & Notes",
-        "display": "Euclid"
+        "display": "Euclid Book V"
       },
       {
         "work": "divina_proportione",
@@ -4172,13 +4767,19 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_04/cap_04_it",
         "title": "CAPITOLO IV",
-        "display": "Euclide"
+        "display": "la prima del primo"
       },
       {
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_04/cap_04_notes",
         "title": "CHAPTER IV — Critical Commentary & Notes",
         "display": "Euclid"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_05/cap_05_notes",
+        "title": "CHAPTER V — Critical Commentary & Notes",
+        "display": "Euclid XIII.6"
       },
       {
         "work": "divina_proportione",
@@ -4190,13 +4791,25 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_07/cap_07_notes",
         "title": "CHAPTER VII — Critical Commentary & Notes",
-        "display": "Euclid"
+        "display": "Euclid VI.def.3"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_08/cap_08_it",
+        "title": "CAPITOLO VIII",
+        "display": "per la sexta del terzodecimo"
       },
       {
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_08/cap_08_notes",
         "title": "CHAPTER VIII — Critical Commentary & Notes",
         "display": "Euclid"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_09/cap_09_notes",
+        "title": "CHAPTER IX — Critical Commentary & Notes",
+        "display": "Euclid X.def.3"
       },
       {
         "work": "divina_proportione",
@@ -4230,9 +4843,57 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_13/cap_13_it",
+        "title": "CAPITOLO XIII",
+        "display": "la quarta del terzodecimo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_13/cap_13_notes",
+        "title": "CHAPTER XIII — Critical Commentary & Notes",
+        "display": "Euclid XIII.5"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_15/cap_15_notes",
+        "title": "CHAPTER XV — Critical Commentary & Notes",
+        "display": "Euclid X.73"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_16/cap_16_notes",
+        "title": "CHAPTER XVI — Critical Commentary & Notes",
+        "display": "Euclid IV.15"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_17/cap_17_notes",
+        "title": "CHAPTER XVII — Critical Commentary & Notes",
+        "display": "Euclid XIII.9"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_18/cap_18_notes",
+        "title": "CHAPTER XVIII — Critical Commentary & Notes",
+        "display": "Euclid XIII.11"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_19/cap_19_notes",
         "title": "CHAPTER XIX — Critical Commentary & Notes",
         "display": "Euclid"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_20/cap_20_notes",
+        "title": "CHAPTER XX — Critical Commentary & Notes",
+        "display": "Euclid XIII.9"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_21/cap_21_notes",
+        "title": "CHAPTER XXI — Critical Commentary & Notes",
+        "display": "Euclid XIII.15"
       },
       {
         "work": "divina_proportione",
@@ -4244,19 +4905,61 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_22/cap_22_notes",
         "title": "CHAPTER XXII — Critical Commentary & Notes",
-        "display": "Euclid"
+        "display": "Euclid IV.10"
       },
       {
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_24/cap_24_notes",
         "title": "CHAPTER XXIV — Critical Commentary & Notes",
-        "display": "Euclid"
+        "display": "Euclid XIII.1"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_25/cap_25_it",
+        "title": "CAPITOLO XXV",
+        "display": "per la 32 del primo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_25/cap_25_notes",
+        "title": "CHAPTER XXV — Critical Commentary & Notes",
+        "display": "Euclid XIII.18"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_26/cap_26_notes",
+        "title": "CHAPTER XXVI — Critical Commentary & Notes",
+        "display": "Euclid XIII.12"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_27/cap_27_it",
+        "title": "CAPITOLO XXVII",
+        "display": "la duodecima del vndecimo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_27/cap_27_notes",
+        "title": "CHAPTER XXVII — Critical Commentary & Notes",
+        "display": "Euclid XIII.14"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_28/cap_28_it",
+        "title": "CAPITOLO XXVIII",
+        "display": "per la quarta del primo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_it",
+        "title": "CAPITOLO XXIX",
+        "display": "la duodecima del vndecimo"
       },
       {
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_29/cap_29_notes",
         "title": "CHAPTER XXIX — Critical Commentary & Notes",
-        "display": "Euclid"
+        "display": "Euclid XIII.9"
       },
       {
         "work": "divina_proportione",
@@ -4266,21 +4969,45 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_30/cap_30_it",
+        "title": "CAPITOLO XXX",
+        "display": "la duodecima del vndecimo"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_30/cap_30_notes",
         "title": "CHAPTER XXX — Critical Commentary & Notes",
         "display": "Euclid"
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_31/cap_31_it",
+        "title": "CAPITOLO XXXI",
+        "display": "per la penultima del primo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_31/cap_31_notes",
+        "title": "CHAPTER XXXI — Critical Commentary & Notes",
+        "display": "Euclid XIII.18"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
         "title": "CHAPTER XXXV — Critical Commentary & Notes",
-        "display": "Euclid"
+        "display": "Euclid Book XV"
       },
       {
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_41/cap_41_notes",
         "title": "CHAPTER XLI — Critical Commentary & Notes",
         "display": "Euclid"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_44/cap_44_notes",
+        "title": "CHAPTER XLIV — Critical Commentary & Notes",
+        "display": "Euclid XIII.16"
       },
       {
         "work": "divina_proportione",
@@ -4292,7 +5019,13 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
         "title": "CHAPTER XLVI — Critical Commentary & Notes",
-        "display": "Euclid"
+        "display": "Euclid XV.9"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
+        "title": "CHAPTER XLVII — Critical Commentary & Notes",
+        "display": "Euclid XIII.1"
       },
       {
         "work": "divina_proportione",
@@ -4314,9 +5047,39 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_58/cap_58_en",
+        "title": "CHAPTER LVIII",
+        "display": "la trigesima del terzo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_58/cap_58_it",
+        "title": "CAPITOLO LVIII",
+        "display": "dela trigesima del terzo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_58/cap_58_notes",
+        "title": "CHAPTER LVIII — Critical Commentary & Notes",
+        "display": "Euclid I.15"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_59/cap_59_en",
         "title": "CHAPTER LIX",
         "display": "Euclid"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_61/cap_61_notes",
+        "title": "CHAPTER LXI — Critical Commentary & Notes",
+        "display": "Euclid XIII.7"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_64/cap_64_it",
+        "title": "CAPITOLO LXIV",
+        "display": "per la 32 del primo"
       },
       {
         "work": "divina_proportione",
@@ -4326,9 +5089,21 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_66/cap_66_notes",
+        "title": "CHAPTER LXVI — Critical Commentary & Notes",
+        "display": "Euclid XII.10"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_67/cap_67_de",
         "title": "CAPITEL LXVII",
         "display": "Euklid"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_67/cap_67_notes",
+        "title": "CHAPTER LXVII — Critical Commentary & Notes",
+        "display": "Euclid V.12"
       },
       {
         "work": "divina_proportione",
@@ -4377,12 +5152,35 @@
         "doc": "index",
         "title": "Pacioli",
         "display": "Euclid"
+      }
+    ]
+  },
+  "euclid-of-megara": {
+    "name": "Euclid of Megara",
+    "dates": "c. 435 – c. 365 BC",
+    "role": "Greek Socratic Philosopher and Founder of the Megarian School",
+    "bio": "Disciple of Socrates from Megara whom medieval and Renaissance writers—including Campanus and Luca Pacioli ('Euclide Megarense')—habitually conflated with the Alexandrian geometer Euclid; glossed by Winterberg in Compendio Chapter II, fn. 2.",
+    "works": [],
+    "bib_anchor": "bib-euclid-of-megara",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_02/cap_02_notes",
+        "title": "CHAPTER II — Critical Commentary & Notes",
+        "display": "Euclid of Megara"
       },
       {
         "work": "divina_proportione",
-        "doc": "modules/api/geometor/pacioli/extraction/index",
-        "title": "geometor.pacioli.extraction",
-        "display": "Euclid"
+        "doc": "de_divina_proportione/compendio/cap_67/cap_67_en",
+        "title": "CHAPTER LXVII",
+        "display": "Euclid of Megara"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_71/cap_71_en",
+        "title": "CHAPTER LXXI",
+        "display": "Euclid of Megara"
       }
     ]
   },
@@ -4442,6 +5240,46 @@
       }
     ]
   },
+  "ferrante-of-naples": {
+    "name": "Ferrante I (Ferdinand I of Naples)",
+    "dates": "1423 – 1494",
+    "role": "Aragonese King of Naples (r. 1458–1494)",
+    "bio": "Royal patron under whom Luca Pacioli taught mathematics and Euclid at the University of Naples; glossed by Winterberg in the Dedication of the Tractato de l'Architectura (fn. 2).",
+    "works": [],
+    "bib_anchor": "bib-ferrante-of-naples",
+    "occurrences": [
+      {
+        "volume": "volume_I",
+        "folio": "0074",
+        "page": "f. 29v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "King Ferrante"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0075",
+        "page": "f. 30r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "King Ferrante"
+      }
+    ],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_08/cap_08_notes",
+        "title": "CHAPTER VIII — Critical Commentary & Notes",
+        "display": "King Ferrante"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/dedication/dedication_notes",
+        "title": "DEDICATION — Critical Commentary & Notes",
+        "display": "King Ferrante"
+      }
+    ]
+  },
   "fibonacci": {
     "name": "Fibonacci (Leonardo Pisano)",
     "dates": "c. 1170 – c. 1240/50",
@@ -4454,6 +5292,25 @@
     "bib_anchor": "bib-fibonacci",
     "occurrences": [],
     "work_occurrences": []
+  },
+  "fra-giocondo": {
+    "name": "Giocondo, Fra Giovanni (da Verona)",
+    "dates": "c. 1433 – 1515",
+    "role": "Franciscan Friar, Architect, Antiquarian, and Classical Scholar",
+    "bio": "Editor of the first illustrated printed edition of Vitruvius (M. Vitruvii per Iocundum solito castigatior factus, Venice, 1511), lectured on Vitruvius in Paris, and succeeded Bramante as co-architect of St. Peter's; cited by Winterberg in the Einleitung (fn. 8).",
+    "works": [
+      "M. Vitruvii per Iocundum solito castigatior factus (Venice, 1511)"
+    ],
+    "bib_anchor": "bib-fra-giocondo",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_14/cap_14_notes",
+        "title": "CHAPTER XIV — Critical Commentary & Notes",
+        "display": "Fra Giocondo"
+      }
+    ]
   },
   "francesco-busti": {
     "name": "Busti, Fra Francesco, O.F.M.",
@@ -4609,6 +5466,12 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_02/cap_02_en",
         "title": "CHAPTER II",
+        "display": "Francesco Sforza"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
         "display": "Francesco Sforza"
       },
       {
@@ -5139,6 +6002,25 @@
       }
     ]
   },
+  "geber": {
+    "name": "Geber (Jābir ibn Aflaḥ of Seville)",
+    "dates": "c. 1100 – c. 1150",
+    "role": "Andalusian Mathematician and Astronomer",
+    "bio": "Author of the Flores Almagesti (Correction of the Almagest), translated into Latin by Gerard of Cremona and cited by Pacioli in Compendio Chapter II.",
+    "works": [
+      "Flores Almagesti (De Astronomia Libri IX)"
+    ],
+    "bib_anchor": "bib-geber",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_02/cap_02_en",
+        "title": "CHAPTER II",
+        "display": "Geber"
+      }
+    ]
+  },
   "giacomo-andrea": {
     "name": "Giacomo Andrea da Ferrara",
     "dates": "d. 1500",
@@ -5193,6 +6075,64 @@
       }
     ]
   },
+  "gian-giacomo-trivulzio": {
+    "name": "Trivulzio, Gian Giacomo",
+    "dates": "1440/1441 – 1518",
+    "role": "Milanese Condottiere and Marshal of France",
+    "bio": "Celebrated military commander praised by Pacioli in the Dedication of the Tractato de l'Architectura for his discourse on military and Vitruvian architecture in Naples.",
+    "works": [],
+    "bib_anchor": "bib-gian-giacomo-trivulzio",
+    "occurrences": [
+      {
+        "volume": "volume_I",
+        "folio": "0061",
+        "page": "f. 23r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Gian Giacomo Trivulzio"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0062",
+        "page": "f. 23v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Gian Giacomo Trivulzio"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0063",
+        "page": "f. 24r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Gian Giacomo Trivulzio"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0064",
+        "page": "f. 24v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Gian Giacomo Trivulzio"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0065",
+        "page": "f. 25r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Gian Giacomo Trivulzio"
+      }
+    ],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/dedication/dedication_notes",
+        "title": "DEDICATION — Critical Commentary & Notes",
+        "display": "Gian Giacomo Trivulzio"
+      }
+    ]
+  },
   "giovan-battista-soderini": {
     "name": "Soderini, Giovan Battista",
     "dates": "fl. 1509",
@@ -5203,6 +6143,70 @@
     "occurrences": [],
     "work_occurrences": []
   },
+  "giovan-marco-canozi": {
+    "name": "Canozi, Giovan Marco (da Lendinara)",
+    "dates": "d. 1525",
+    "role": "Italian Architect and Perspective Master",
+    "bio": "Son of Lorenzo Canozi da Lendinara; praised by Pacioli in the Dedication of the Tractato de l'Architectura among the disciples with whom he discussed Vitruvian architecture.",
+    "works": [],
+    "bib_anchor": "bib-giovan-marco-canozi",
+    "occurrences": [
+      {
+        "volume": "volume_I",
+        "folio": "0061",
+        "page": "f. 23r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Giovan Marco Canozi"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0062",
+        "page": "f. 23v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Giovan Marco Canozi"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0063",
+        "page": "f. 24r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Giovan Marco Canozi"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0064",
+        "page": "f. 24v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Giovan Marco Canozi"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0065",
+        "page": "f. 25r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Giovan Marco Canozi"
+      }
+    ],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/dedication/dedication_en",
+        "title": "DEDICATION",
+        "display": "Giovan Marco Canozi"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/dedication/dedication_notes",
+        "title": "DEDICATION — Critical Commentary & Notes",
+        "display": "Giovan Marco Canozi"
+      }
+    ]
+  },
   "giovan-vittorio-soderini": {
     "name": "Soderini, Giovan Vittorio",
     "dates": "1460 – 1528",
@@ -5212,6 +6216,103 @@
     "bib_anchor": "bib-giovan-vittorio-soderini",
     "occurrences": [],
     "work_occurrences": []
+  },
+  "giovanni-bianchini": {
+    "name": "Bianchini, Giovanni",
+    "dates": "c. 1410 – after 1469",
+    "role": "Italian Mathematician and Astronomer at the Court of Ferrara",
+    "bio": "Professor at the University of Ferrara and author of astronomical and trigonometric tables (Tabulae astronomicae), cited by Pacioli in Compendio Chapter II.",
+    "works": [
+      "Tabulae astronomicae"
+    ],
+    "bib_anchor": "bib-giovanni-bianchini",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_02/cap_02_en",
+        "title": "CHAPTER II",
+        "display": "Giovanni Bianchini"
+      }
+    ]
+  },
+  "giovanni-pontano": {
+    "name": "Pontano, Giovanni Gioviano",
+    "dates": "1429 – 1503",
+    "role": "Neapolitan Humanist, Poet, and Royal Secretary",
+    "bio": "Head of the Accademia Pontaniana and chief minister to King Ferrante of Naples; cited by Pacioli in the Dedication of the Tractato de l'Architectura.",
+    "works": [],
+    "bib_anchor": "bib-giovanni-pontano",
+    "occurrences": [
+      {
+        "volume": "volume_I",
+        "folio": "0061",
+        "page": "f. 23r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Giovanni Pontano"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0062",
+        "page": "f. 23v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Giovanni Pontano"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0063",
+        "page": "f. 24r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Giovanni Pontano"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0064",
+        "page": "f. 24v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pontano"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0064",
+        "page": "f. 24v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Giovanni Pontano"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0065",
+        "page": "f. 25r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Giovanni Pontano"
+      }
+    ],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/dedication/dedication_en",
+        "title": "DEDICATION",
+        "display": "Giovanni Pontano"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/dedication/dedication_it",
+        "title": "PROHEMIO",
+        "display": "Pontano"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/dedication/dedication_notes",
+        "title": "DEDICATION — Critical Commentary & Notes",
+        "display": "Giovanni Pontano"
+      }
+    ]
   },
   "girolamo-riario": {
     "name": "Riario, Count Girolamo, Lord of Imola and Forlì",
@@ -5396,6 +6497,56 @@
         "doc": "de_divina_proportione/intro/intro_en",
         "title": "Winterberg's Critical Introduction (1889)",
         "display": "Guidobaldo da Montefeltro"
+      }
+    ]
+  },
+  "guillaume-libri": {
+    "name": "Libri, Guillaume (Guglielmo Libri Carucci dalla Sommaja)",
+    "dates": "1803 – 1869",
+    "role": "Franco-Italian Mathematician and Historian of Science",
+    "bio": "Author of Histoire des sciences mathématiques en Italie (4 vols., Paris, 1838–1841), cited by Winterberg in the Einleitung (fn. 1 & 8) on the printing history of Pacioli's Summa and Divina Proportione and on Piero della Francesca's manuscripts.",
+    "works": [
+      "Histoire des sciences mathématiques en Italie (Vol. III, 1840)"
+    ],
+    "bib_anchor": "bib-guillaume-libri",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Libri"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Guillaume Libri"
+      }
+    ]
+  },
+  "heinrich-ludwig": {
+    "name": "Ludwig, Heinrich",
+    "dates": "1829 – 1897",
+    "role": "German Painter and Leonardo da Vinci Scholar in Rome",
+    "bio": "Edited and translated Leonardo da Vinci's Trattato della Pittura (Das Buch von der Malerei, Quellenschriften Band XV–XVIII, 1882) and inspired Rudolf von Eitelberger and Constantin Winterberg in Rome to undertake the critical edition of Pacioli's Divina Proportione.",
+    "works": [
+      "Lionardo da Vinci: Das Buch von der Malerei (Wien, 1882)"
+    ],
+    "bib_anchor": "bib-heinrich-ludwig",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Heinrich Ludwig"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Heinrich Ludwig"
       }
     ]
   },
@@ -5659,6 +6810,31 @@
       }
     ]
   },
+  "j-j-trost": {
+    "name": "Trost, Johann Jacob",
+    "dates": "fl. 1854 – 1866",
+    "role": "Austrian Art Theorist at the Vienna Academy of Fine Arts",
+    "bio": "Author of Die Proportionslehre Dürer's nach ihren wesentlichen Bestimmungen in übersichtlicher Darstellung (Vienna, 1859), cited by Winterberg in the Einleitung.",
+    "works": [
+      "Die Proportionslehre Dürer's (1859)"
+    ],
+    "bib_anchor": "bib-j-j-trost",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "J. J. Trost"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "J. J. Trost"
+      }
+    ]
+  },
   "jesus-christ": {
     "name": "Jesus Christ",
     "dates": "c. 4 BC – c. 30/33 AD",
@@ -5673,6 +6849,64 @@
         "doc": "de_divina_proportione/architectura/cap_08/cap_08_en",
         "title": "CHAPTER VIII",
         "display": "Jesus Christ"
+      }
+    ]
+  },
+  "johannes-kepler": {
+    "name": "Kepler, Johannes",
+    "dates": "1571 – 1630",
+    "role": "German Astronomer and Geometer",
+    "bio": "Author of Mysterium Cosmographicum (1596) and Harmonices Mundi (1619), who gave the name Stella Octangula to the elevated octahedron (Octahedron elevatum) first depicted by Leonardo da Vinci and Pacioli in Plates XIX–XX.",
+    "works": [
+      "Harmonices Mundi (1619)"
+    ],
+    "bib_anchor": "bib-johannes-kepler",
+    "occurrences": [
+      {
+        "volume": "volume_I",
+        "folio": "0044",
+        "page": "f. 14v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Harmonices Mundi"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0045",
+        "page": "f. 15r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Harmonices Mundi"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0045",
+        "page": "f. 15r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Kepler"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0046",
+        "page": "f. 15v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Kepler"
+      }
+    ],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_50/cap_50_notes",
+        "title": "CHAPTER L — Critical Commentary & Notes",
+        "display": "Harmonices Mundi"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_52/cap_52_notes",
+        "title": "CHAPTER LII — Critical Commentary & Notes",
+        "display": "Kepler"
       }
     ]
   },
@@ -5740,6 +6974,22 @@
     "occurrences": [
       {
         "volume": "volume_I",
+        "folio": "0011",
+        "page": "A4r",
+        "book": "Front Matter and Dedications",
+        "section": "00_front_matter",
+        "display": "Leonardo"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0012",
+        "page": "A4v",
+        "book": "Front Matter and Dedications",
+        "section": "00_front_matter",
+        "display": "Lionardo"
+      },
+      {
+        "volume": "volume_I",
         "folio": "0017",
         "page": "f. 1r",
         "book": "Part I: Compendio de Divina Proportione",
@@ -5768,7 +7018,39 @@
         "page": "f. 1r",
         "book": "Part I: Compendio de Divina Proportione",
         "section": "01_compendio",
+        "display": "Leonardo's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0017",
+        "page": "f. 1r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Leonardo"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0017",
+        "page": "f. 1r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
         "display": "libro de pictura e movimenti humani"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0018",
+        "page": "f. 1v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Leonardo's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0018",
+        "page": "f. 1v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Leonardo"
       },
       {
         "volume": "volume_I",
@@ -5792,7 +7074,31 @@
         "page": "f. 3v",
         "book": "Part I: Compendio de Divina Proportione",
         "section": "01_compendio",
+        "display": "Lionardo"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0022",
+        "page": "f. 3v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
         "display": "Leonardo da Vinci"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0031",
+        "page": "f. 8r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Lionardo"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0043",
+        "page": "f. 14r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Leonardo da Vinci's"
       },
       {
         "volume": "volume_I",
@@ -5812,11 +7118,27 @@
       },
       {
         "volume": "volume_I",
+        "folio": "0055",
+        "page": "f. 20r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Leonardo's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0056",
+        "page": "f. 20v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Leonardo's"
+      },
+      {
+        "volume": "volume_I",
         "folio": "0058",
         "page": "f. 21v",
         "book": "Part I: Compendio de Divina Proportione",
         "section": "01_compendio",
-        "display": "Leonardo da Vinci"
+        "display": "Leonardo da Vinci's"
       },
       {
         "volume": "volume_I",
@@ -5824,7 +7146,23 @@
         "page": "f. 22r",
         "book": "Part I: Compendio de Divina Proportione",
         "section": "01_compendio",
-        "display": "Leonardo da Vinci"
+        "display": "Lionardo"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0059",
+        "page": "f. 22r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Leonardo da Vinci's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0059",
+        "page": "f. 22r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Leonardo's"
       },
       {
         "volume": "volume_I",
@@ -5832,7 +7170,15 @@
         "page": "f. 28r",
         "book": "Part II: Tractato de l'Architectura",
         "section": "02_architectura",
-        "display": "Leonardo da Vinci"
+        "display": "Leonardo da Vinci's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0071",
+        "page": "f. 28r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Leonardo"
       },
       {
         "volume": "volume_I",
@@ -5840,7 +7186,39 @@
         "page": "f. 28v",
         "book": "Part II: Tractato de l'Architectura",
         "section": "02_architectura",
-        "display": "Leonardo da Vinci"
+        "display": "Lionardo"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0072",
+        "page": "f. 28v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Leonardo da Vinci's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0072",
+        "page": "f. 28v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Leonardo"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0075",
+        "page": "f. 30r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Leonardo da Vinci's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0075",
+        "page": "f. 30r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Leonardo"
       },
       {
         "volume": "volume_I",
@@ -5849,6 +7227,62 @@
         "book": "Part II: Tractato de l'Architectura",
         "section": "02_architectura",
         "display": "Leonardo da vinci Fiorentino"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0076",
+        "page": "f. 30v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Leonardo da Vinci's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0076",
+        "page": "f. 30v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Leonardo"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0080",
+        "page": "f. 32v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Leonardo"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0081",
+        "page": "f. 33r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Leonardo da Vinci's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0082",
+        "page": "f. 33v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Leonardo"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0082",
+        "page": "f. 33v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Leonardo da Vinci's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0135",
+        "page": "Libellus f. 26r",
+        "book": "Part III: Libellus in tres partiales tractatus divisus",
+        "section": "03_libellus",
+        "display": "Leonardo"
       },
       {
         "volume": "volume_I",
@@ -6862,6 +8296,12 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
+        "doc": "about",
+        "title": "about",
+        "display": "Leonardo da Vinci's"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/architectura/cap_06/cap_06_de",
         "title": "CAPITEL VI",
         "display": "Leonardo da Vinci"
@@ -6874,9 +8314,21 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_06/cap_06_it",
+        "title": "CAPITOLO VI",
+        "display": "Lionardo"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/architectura/cap_06/cap_06_notes",
         "title": "CHAPTER VI — Critical Commentary & Notes",
-        "display": "Leonardo da Vinci"
+        "display": "Leonardo da Vinci's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_09/cap_09_notes",
+        "title": "CHAPTER IX — Critical Commentary & Notes",
+        "display": "Leonardo da Vinci's"
       },
       {
         "work": "divina_proportione",
@@ -6892,9 +8344,33 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_18/cap_18_notes",
+        "title": "CHAPTER XVIII — Critical Commentary & Notes",
+        "display": "Leonardo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_20/cap_20_de",
+        "title": "CAPITEL XX",
+        "display": "Leonardo"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/architectura/cap_20/cap_20_en",
         "title": "CHAPTER XX",
         "display": "Leonardo da Vinci"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_20/cap_20_it",
+        "title": "CAPITOLO XX",
+        "display": "Leonardo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_20/cap_20_notes",
+        "title": "CHAPTER XX — Critical Commentary & Notes",
+        "display": "Leonardo da Vinci's"
       },
       {
         "work": "divina_proportione",
@@ -6922,9 +8398,57 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_01/cap_01_notes",
+        "title": "CHAPTER I — Critical Commentary & Notes",
+        "display": "Leonardo's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_03/cap_03_de",
+        "title": "CAPITEL III",
+        "display": "Leonardo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_03/cap_03_en",
+        "title": "CHAPTER III",
+        "display": "Leonardo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_03/cap_03_it",
+        "title": "CAPITOLO III",
+        "display": "Lionardo"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_03/cap_03_notes",
         "title": "CHAPTER III — Critical Commentary & Notes",
         "display": "Leonardo da Vinci"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_23/cap_23_de",
+        "title": "CAPITEL XXIII",
+        "display": "Leonardo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_23/cap_23_en",
+        "title": "CHAPTER XXIII",
+        "display": "Leonardo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_23/cap_23_it",
+        "title": "CAPITOLO XXIII",
+        "display": "Lionardo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
+        "title": "CHAPTER XLVII — Critical Commentary & Notes",
+        "display": "Leonardo da Vinci's"
       },
       {
         "work": "divina_proportione",
@@ -6934,21 +8458,51 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_50/cap_50_en",
+        "title": "CHAPTER L",
+        "display": "Leonardo's"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_54/cap_54_notes",
         "title": "CHAPTER LIV — Critical Commentary & Notes",
         "display": "Leonardo da Vinci"
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_65/cap_65_notes",
+        "title": "CHAPTER LXV — Critical Commentary & Notes",
+        "display": "Leonardo's"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_69/cap_69_notes",
         "title": "CHAPTER LXIX — Critical Commentary & Notes",
-        "display": "Leonardo da Vinci"
+        "display": "Leonardo da Vinci's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_70/cap_70_de",
+        "title": "CAPITEL LXX",
+        "display": "Leonardo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_70/cap_70_it",
+        "title": "CAPITOLO LXX",
+        "display": "Lionardo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_70/cap_70_notes",
+        "title": "CHAPTER LXX — Critical Commentary & Notes",
+        "display": "Leonardo's"
       },
       {
         "work": "divina_proportione",
         "doc": "de_divina_proportione/index",
         "title": "DE DIVINA PROPORTIONE",
-        "display": "Leonardo da Vinci"
+        "display": "Leonardo da Vinci's"
       },
       {
         "work": "divina_proportione",
@@ -6979,6 +8533,12 @@
         "doc": "index",
         "title": "Pacioli",
         "display": "Leonardo da Vinci"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "log/26.302-183400/index",
+        "title": "Five-Track De Divina Proportione Codex & 482 Paganini Woodcut Graphics",
+        "display": "Leonardo da Vinci's"
       }
     ]
   },
@@ -7024,6 +8584,64 @@
         "doc": "de_divina_proportione/compendio/cap_02/cap_02_en",
         "title": "CHAPTER II",
         "display": "Livy"
+      }
+    ]
+  },
+  "lorenzo-canozi": {
+    "name": "Canozi, Lorenzo (Lorenzo da Lendinara)",
+    "dates": "1425 – 1477",
+    "role": "Italian Master of Perspective, Intarsia, and Architecture",
+    "bio": "Intarsia master in Padua and Modena and close friend of Piero della Francesca; praised by Pacioli in the Dedication of the Tractato de l'Architectura.",
+    "works": [],
+    "bib_anchor": "bib-lorenzo-canozi",
+    "occurrences": [
+      {
+        "volume": "volume_I",
+        "folio": "0061",
+        "page": "f. 23r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Lorenzo Canozi da Lendinara"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0062",
+        "page": "f. 23v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Lorenzo Canozi da Lendinara"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0063",
+        "page": "f. 24r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Lorenzo Canozi da Lendinara"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0064",
+        "page": "f. 24v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Lorenzo Canozi da Lendinara"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0065",
+        "page": "f. 25r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Lorenzo Canozi da Lendinara"
+      }
+    ],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/dedication/dedication_notes",
+        "title": "DEDICATION — Critical Commentary & Notes",
+        "display": "Lorenzo Canozi da Lendinara"
       }
     ]
   },
@@ -7331,6 +8949,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Ludovico Sforza"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/intro/intro_en",
         "title": "Winterberg's Critical Introduction (1889)",
         "display": "Ludovico Maria Sforza"
@@ -7552,6 +9176,31 @@
       }
     ]
   },
+  "montucla": {
+    "name": "Montucla, Jean-Étienne",
+    "dates": "1725 – 1799",
+    "role": "French Mathematician and Historian of Mathematics",
+    "bio": "Author of the monumental Histoire des mathématiques (1758; 2nd ed. 1799–1802), cited by Winterberg in the Einleitung (fn. 2) on Pacioli's biography and role as commercial tutor in Venice.",
+    "works": [
+      "Histoire des mathématiques"
+    ],
+    "bib_anchor": "bib-montucla",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Montucla"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Jean-Étienne Montucla"
+      }
+    ]
+  },
   "myron": {
     "name": "Myron of Eleutherae",
     "dates": "fl. mid-5th century BC",
@@ -7604,6 +9253,55 @@
         "doc": "de_divina_proportione/architectura/cap_19/cap_19_de",
         "title": "CAPITEL XIX",
         "display": "Nero"
+      }
+    ]
+  },
+  "niccolo-tartaglia": {
+    "name": "Tartaglia, Niccolò (Niccolò Fontana)",
+    "dates": "1499/1500 – 1557",
+    "role": "Venetian Mathematician and Engineer",
+    "bio": "Author of the General Trattato di Numeri et Misure (Venice, 1556–1560) and translator of the first Italian vernacular edition of Euclid (1543); cited by Winterberg in the Einleitung (fn. 7) on errors in Pacioli's Latin Euclid of 1509.",
+    "works": [
+      "General Trattato di Numeri et Misure (1556–1560)"
+    ],
+    "bib_anchor": "bib-niccolo-tartaglia",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Tartaglia"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Niccolò Tartaglia"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Niccolò Tartaglia"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Niccolò Tartaglia"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_de",
+        "title": "Anhang IV: Sachliche Anmerkungen (Winterberg 1889)",
+        "display": "Tartaglia"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
+        "display": "Niccolò Tartaglia"
       }
     ]
   },
@@ -7705,11 +9403,571 @@
     "occurrences": [
       {
         "volume": "volume_I",
+        "folio": "0016",
+        "page": "A6v",
+        "book": "Front Matter and Dedications",
+        "section": "00_front_matter",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
         "folio": "0017",
         "page": "f. 1r",
         "book": "Part I: Compendio de Divina Proportione",
         "section": "01_compendio",
         "display": "grandopera nostra"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0017",
+        "page": "f. 1r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0017",
+        "page": "f. 1r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0017",
+        "page": "f. 1r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0017",
+        "page": "f. 1r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "De Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0018",
+        "page": "f. 1v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0018",
+        "page": "f. 1v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0018",
+        "page": "f. 1v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0018",
+        "page": "f. 1v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "De Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0019",
+        "page": "f. 2r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0019",
+        "page": "f. 2r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0019",
+        "page": "f. 2r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0019",
+        "page": "f. 2r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "De Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0020",
+        "page": "f. 2v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0020",
+        "page": "f. 2v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0020",
+        "page": "f. 2v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0020",
+        "page": "f. 2v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "De Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0021",
+        "page": "f. 3r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0021",
+        "page": "f. 3r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0021",
+        "page": "f. 3r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0021",
+        "page": "f. 3r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "De Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0022",
+        "page": "f. 3v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0022",
+        "page": "f. 3v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0023",
+        "page": "f. 4r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0023",
+        "page": "f. 4r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0024",
+        "page": "f. 4v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0024",
+        "page": "f. 4v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0025",
+        "page": "f. 5r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0025",
+        "page": "f. 5r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0026",
+        "page": "f. 5v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0026",
+        "page": "f. 5v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0027",
+        "page": "f. 6r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0027",
+        "page": "f. 6r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0027",
+        "page": "f. 6r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0028",
+        "page": "f. 6v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0028",
+        "page": "f. 6v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0029",
+        "page": "f. 7r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0029",
+        "page": "f. 7r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0029",
+        "page": "f. 7r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0030",
+        "page": "f. 7v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0030",
+        "page": "f. 7v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0030",
+        "page": "f. 7v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0031",
+        "page": "f. 8r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0031",
+        "page": "f. 8r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0032",
+        "page": "f. 8v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0032",
+        "page": "f. 8v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0032",
+        "page": "f. 8v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0033",
+        "page": "f. 9r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0033",
+        "page": "f. 9r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0034",
+        "page": "f. 9v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0034",
+        "page": "f. 9v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0035",
+        "page": "f. 10r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0036",
+        "page": "f. 10v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0037",
+        "page": "f. 11r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0038",
+        "page": "f. 11v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0038",
+        "page": "f. 11v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0039",
+        "page": "f. 12r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0039",
+        "page": "f. 12r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0040",
+        "page": "f. 12v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0040",
+        "page": "f. 12v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0041",
+        "page": "f. 13r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0041",
+        "page": "f. 13r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0042",
+        "page": "f. 13v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0042",
+        "page": "f. 13v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0043",
+        "page": "f. 14r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0043",
+        "page": "f. 14r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0043",
+        "page": "f. 14r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0044",
+        "page": "f. 14v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0045",
+        "page": "f. 15r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0046",
+        "page": "f. 15v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
       },
       {
         "volume": "volume_I",
@@ -7721,6 +9979,22 @@
       },
       {
         "volume": "volume_I",
+        "folio": "0046",
+        "page": "f. 15v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0047",
+        "page": "f. 16r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
         "folio": "0047",
         "page": "f. 16r",
         "book": "Part I: Compendio de Divina Proportione",
@@ -7729,11 +10003,179 @@
       },
       {
         "volume": "volume_I",
+        "folio": "0047",
+        "page": "f. 16r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0048",
+        "page": "f. 16v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0048",
+        "page": "f. 16v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0049",
+        "page": "f. 17r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0049",
+        "page": "f. 17r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0050",
+        "page": "f. 17v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0050",
+        "page": "f. 17v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0050",
+        "page": "f. 17v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0051",
+        "page": "f. 18r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0051",
+        "page": "f. 18r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0051",
+        "page": "f. 18r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0052",
+        "page": "f. 18v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0053",
+        "page": "f. 19r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0053",
+        "page": "f. 19r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0054",
+        "page": "f. 19v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
         "folio": "0054",
         "page": "f. 19v",
         "book": "Part I: Compendio de Divina Proportione",
         "section": "01_compendio",
         "display": "Summa de Arithmetica"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0055",
+        "page": "f. 20r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0055",
+        "page": "f. 20r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0056",
+        "page": "f. 20v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0056",
+        "page": "f. 20v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0057",
+        "page": "f. 21r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0057",
+        "page": "f. 21r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
       },
       {
         "volume": "volume_I",
@@ -7749,7 +10191,39 @@
         "page": "f. 21v",
         "book": "Part I: Compendio de Divina Proportione",
         "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0058",
+        "page": "f. 21v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
         "display": "Summa de Arithmetica"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0058",
+        "page": "f. 21v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0059",
+        "page": "f. 22r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0059",
+        "page": "f. 22r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
       },
       {
         "volume": "volume_I",
@@ -7761,11 +10235,355 @@
       },
       {
         "volume": "volume_I",
+        "folio": "0060",
+        "page": "f. 22v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0061",
+        "page": "f. 23r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0061",
+        "page": "f. 23r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0061",
+        "page": "f. 23r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0061",
+        "page": "f. 23r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0062",
+        "page": "f. 23v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0062",
+        "page": "f. 23v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0062",
+        "page": "f. 23v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0062",
+        "page": "f. 23v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0063",
+        "page": "f. 24r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0063",
+        "page": "f. 24r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0063",
+        "page": "f. 24r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0063",
+        "page": "f. 24r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0064",
+        "page": "f. 24v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0064",
+        "page": "f. 24v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0064",
+        "page": "f. 24v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0064",
+        "page": "f. 24v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0065",
+        "page": "f. 25r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0065",
+        "page": "f. 25r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0065",
+        "page": "f. 25r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0065",
+        "page": "f. 25r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0066",
+        "page": "f. 25v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0066",
+        "page": "f. 25v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0067",
+        "page": "f. 26r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0067",
+        "page": "f. 26r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0068",
+        "page": "f. 26v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0068",
+        "page": "f. 26v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0069",
+        "page": "f. 27r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0069",
+        "page": "f. 27r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0070",
+        "page": "f. 27v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0070",
+        "page": "f. 27v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0071",
+        "page": "f. 28r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0071",
+        "page": "f. 28r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0071",
+        "page": "f. 28r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0072",
+        "page": "f. 28v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0072",
+        "page": "f. 28v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0072",
+        "page": "f. 28v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0073",
+        "page": "f. 29r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0073",
+        "page": "f. 29r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0074",
+        "page": "f. 29v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0074",
+        "page": "f. 29v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
         "folio": "0074",
         "page": "f. 29v",
         "book": "Part II: Tractato de l'Architectura",
         "section": "02_architectura",
         "display": "Luca Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0074",
+        "page": "f. 29v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0075",
+        "page": "f. 30r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
       },
       {
         "volume": "volume_I",
@@ -7777,11 +10595,131 @@
       },
       {
         "volume": "volume_I",
+        "folio": "0075",
+        "page": "f. 30r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0076",
+        "page": "f. 30v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0076",
+        "page": "f. 30v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0076",
+        "page": "f. 30v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0076",
+        "page": "f. 30v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "De Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0077",
+        "page": "f. 31r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0077",
+        "page": "f. 31r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0078",
+        "page": "f. 31v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0079",
+        "page": "f. 32r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0079",
+        "page": "f. 32r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0079",
+        "page": "f. 32r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "De Divina Proportione"
+      },
+      {
+        "volume": "volume_I",
         "folio": "0080",
         "page": "f. 32v",
         "book": "Part II: Tractato de l'Architectura",
         "section": "02_architectura",
         "display": "Summa de Arithmetica"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0080",
+        "page": "f. 32v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0080",
+        "page": "f. 32v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli's"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0080",
+        "page": "f. 32v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0081",
+        "page": "f. 33r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
       },
       {
         "volume": "volume_I",
@@ -7797,15 +10735,139 @@
         "page": "f. 33v",
         "book": "Part II: Tractato de l'Architectura",
         "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0082",
+        "page": "f. 33v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
         "display": "Fra Luca Pacioli"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0083",
+        "page": "f. 34r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0084",
+        "page": "f. 34v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0085",
+        "page": "Libellus f. 1r",
+        "book": "Part III: Libellus in tres partiales tractatus divisus",
+        "section": "03_libellus",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0137",
+        "page": "Plate Folio 0137 (recto)",
+        "book": "Appendix I: The Roman Geometric Alphabet",
+        "section": "04_alphabet",
+        "display": "Tractato de l'Architectura"
       }
     ],
     "work_occurrences": [
       {
         "work": "divina_proportione",
+        "doc": "about",
+        "title": "about",
+        "display": "Fra Luca Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_01/cap_01_notes",
+        "title": "CHAPTER I — Critical Commentary & Notes",
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_02/cap_02_notes",
+        "title": "CHAPTER II — Critical Commentary & Notes",
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_04/cap_04_notes",
+        "title": "CHAPTER IV — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_05/cap_05_notes",
+        "title": "CHAPTER V — Critical Commentary & Notes",
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_06/cap_06_notes",
+        "title": "CHAPTER VI — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_07/cap_07_en",
+        "title": "CHAPTER VII",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_07/cap_07_notes",
+        "title": "CHAPTER VII — Critical Commentary & Notes",
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/architectura/cap_08/cap_08_notes",
         "title": "CHAPTER VIII — Critical Commentary & Notes",
         "display": "Luca Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_11/cap_11_notes",
+        "title": "CHAPTER XI — Critical Commentary & Notes",
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_12/cap_12_notes",
+        "title": "CHAPTER XII — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_17/cap_17_notes",
+        "title": "CHAPTER XVII — Critical Commentary & Notes",
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_18/cap_18_notes",
+        "title": "CHAPTER XVIII — Critical Commentary & Notes",
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_19/cap_19_de",
+        "title": "CAPITEL XIX",
+        "display": "Summa de Arithmetica"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_19/cap_19_it",
+        "title": "CAPITOLO XIX",
+        "display": "Summa de Arithmetica"
       },
       {
         "work": "divina_proportione",
@@ -7815,15 +10877,369 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/dedication/dedication_notes",
+        "title": "DEDICATION — Critical Commentary & Notes",
+        "display": "Compendio de Divina Proportione"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/architectura/index",
         "title": "Part II: Tractato de l'Architectura (Prohemio & Chapters I–XX)",
-        "display": "Fra Luca Pacioli"
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_01/cap_01_en",
+        "title": "CHAPTER I",
+        "display": "Summa de Arithmetica, Geometria, Proportioni et Proportionalita"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_01/cap_01_it",
+        "title": "CAPITOLO I",
+        "display": "grandopera nostra"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_01/cap_01_notes",
+        "title": "CHAPTER I — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_02/cap_02_notes",
+        "title": "CHAPTER II — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_03/cap_03_notes",
+        "title": "CHAPTER III — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_04/cap_04_en",
+        "title": "CHAPTER IV",
+        "display": "Summa de Arithmetica"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_04/cap_04_notes",
+        "title": "CHAPTER IV — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_05/cap_05_notes",
+        "title": "CHAPTER V — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_07/cap_07_notes",
+        "title": "CHAPTER VII — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_08/cap_08_notes",
+        "title": "CHAPTER VIII — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_10/cap_10_notes",
+        "title": "CHAPTER X — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_11/cap_11_notes",
+        "title": "CHAPTER XI — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_12/cap_12_notes",
+        "title": "CHAPTER XII — Critical Commentary & Notes",
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_13/cap_13_notes",
+        "title": "CHAPTER XIII — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_14/cap_14_notes",
+        "title": "CHAPTER XIV — Critical Commentary & Notes",
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_15/cap_15_notes",
+        "title": "CHAPTER XV — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_18/cap_18_notes",
+        "title": "CHAPTER XVIII — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_19/cap_19_notes",
+        "title": "CHAPTER XIX — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_20/cap_20_notes",
+        "title": "CHAPTER XX — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_21/cap_21_en",
+        "title": "CHAPTER XXI",
+        "display": "Summa de Arithmetica"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_21/cap_21_notes",
+        "title": "CHAPTER XXI — Critical Commentary & Notes",
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_22/cap_22_notes",
+        "title": "CHAPTER XXII — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_25/cap_25_notes",
+        "title": "CHAPTER XXV — Critical Commentary & Notes",
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_26/cap_26_notes",
+        "title": "CHAPTER XXVI — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_27/cap_27_notes",
+        "title": "CHAPTER XXVII — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_28/cap_28_notes",
+        "title": "CHAPTER XXVIII — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_30/cap_30_notes",
+        "title": "CHAPTER XXX — Critical Commentary & Notes",
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_31/cap_31_notes",
+        "title": "CHAPTER XXXI — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_33/cap_33_notes",
+        "title": "CHAPTER XXXIII — Critical Commentary & Notes",
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_34/cap_34_notes",
+        "title": "CHAPTER XXXIV — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_35/cap_35_notes",
+        "title": "CHAPTER XXXV — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_41/cap_41_notes",
+        "title": "CHAPTER XLI — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
+        "title": "CHAPTER XLVII — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_48/cap_48_notes",
+        "title": "CHAPTER XLVIII — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_49/cap_49_notes",
+        "title": "CHAPTER XLIX — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_50/cap_50_notes",
+        "title": "CHAPTER L — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_51/cap_51_notes",
+        "title": "CHAPTER LI — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_52/cap_52_notes",
+        "title": "CHAPTER LII — Critical Commentary & Notes",
+        "display": "Pacioli"
       },
       {
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_53/cap_53_notes",
         "title": "CHAPTER LIII — Critical Commentary & Notes",
         "display": "Fra Luca Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_54/cap_54_notes",
+        "title": "CHAPTER LIV — Critical Commentary & Notes",
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_56/cap_56_notes",
+        "title": "CHAPTER LVI — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_57/cap_57_notes",
+        "title": "CHAPTER LVII — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_61/cap_61_notes",
+        "title": "CHAPTER LXI — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_62/cap_62_en",
+        "title": "CHAPTER LXII",
+        "display": "Summa de Arithmetica"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_62/cap_62_notes",
+        "title": "CHAPTER LXII — Critical Commentary & Notes",
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_63/cap_63_en",
+        "title": "CHAPTER LXIII",
+        "display": "Summa de Arithmetica"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_63/cap_63_notes",
+        "title": "CHAPTER LXIII — Critical Commentary & Notes",
+        "display": "Summa de Arithmetica"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_64/cap_64_notes",
+        "title": "CHAPTER LXIV — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_65/cap_65_notes",
+        "title": "CHAPTER LXV — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_66/cap_66_notes",
+        "title": "CHAPTER LXVI — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_67/cap_67_notes",
+        "title": "CHAPTER LXVII — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_68/cap_68_en",
+        "title": "CHAPTER LXVIII",
+        "display": "Summa de Arithmetica"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_68/cap_68_notes",
+        "title": "CHAPTER LXVIII — Critical Commentary & Notes",
+        "display": "Summa de Arithmetica"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_69/cap_69_en",
+        "title": "CHAPTER LXIX",
+        "display": "Summa de Arithmetica"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_69/cap_69_notes",
+        "title": "CHAPTER LXIX — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_70/cap_70_notes",
+        "title": "CHAPTER LXX — Critical Commentary & Notes",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_71/cap_71_en",
+        "title": "CHAPTER LXXI",
+        "display": "Summa de Arithmetica"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_71/cap_71_it",
+        "title": "CAPITOLO LXXI",
+        "display": "grandopera nostra"
       },
       {
         "work": "divina_proportione",
@@ -7835,7 +11251,7 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/index",
         "title": "DE DIVINA PROPORTIONE",
-        "display": "Fra Luca Pacioli"
+        "display": "Fra Luca Pacioli's"
       },
       {
         "work": "divina_proportione",
@@ -7851,9 +11267,57 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/alphabet_en",
+        "title": "Appendix I: The Roman Geometric Alphabet",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_de",
+        "title": "Anhang IV: Sachliche Anmerkungen (Winterberg 1889)",
+        "display": "Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_en",
+        "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/architectural_de",
+        "title": "Anhang II: Architekturtafeln und Arbor Proportionis",
+        "display": "Summa de Arithmetica"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/architectural_en",
+        "title": "Appendix II: Architectural Plates & Arbor Proportionis",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/architectural_it",
+        "title": "Appendice II: Tavole d'Architettura e Arbor Proportionis",
+        "display": "Tractato de l'Architectura"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "index",
+        "title": "Pacioli",
+        "display": "Pacioli's"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "intro",
         "title": "intro",
         "display": "Fra Luca Pacioli"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "log/26.302-183400/index",
+        "title": "Five-Track De Divina Proportione Codex & 482 Paganini Woodcut Graphics",
+        "display": "Fra Luca Pacioli's"
       },
       {
         "work": "divina_proportione",
@@ -7863,9 +11327,9 @@
       },
       {
         "work": "divina_proportione",
-        "doc": "modules/api/geometor/pacioli/index",
-        "title": "geometor.pacioli",
-        "display": "Luca Pacioli"
+        "doc": "usage/index",
+        "title": "usage",
+        "display": "Fra Luca Pacioli's"
       }
     ]
   },
@@ -7957,6 +11421,12 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/index",
         "title": "DE DIVINA PROPORTIONE",
+        "display": "Paganino de' Paganini"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
         "display": "Paganino de' Paganini"
       },
       {
@@ -8113,6 +11583,82 @@
         "doc": "de_divina_proportione/compendio/cap_01/cap_01_it",
         "title": "CAPITOLO I",
         "display": "Fidia"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Phidias"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Phidias"
+      }
+    ]
+  },
+  "pier-vettori": {
+    "name": "Vettori, Pier (the Elder)",
+    "dates": "fl. late 15th century",
+    "role": "Florentine Statesman and Ambassador in Naples",
+    "bio": "Florentine ambassador at the Aragonese court in Naples and father of Francesco Vettori; cited by Pacioli in the Dedication of the Tractato de l'Architectura.",
+    "works": [],
+    "bib_anchor": "bib-pier-vettori",
+    "occurrences": [
+      {
+        "volume": "volume_I",
+        "folio": "0061",
+        "page": "f. 23r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Pier Vettori"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0062",
+        "page": "f. 23v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pier Vettori"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0063",
+        "page": "f. 24r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pier Vettori"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0064",
+        "page": "f. 24v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pier Vettori"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0065",
+        "page": "f. 25r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Pier Vettori"
+      }
+    ],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/dedication/dedication_en",
+        "title": "DEDICATION",
+        "display": "Pier Vettori"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/dedication/dedication_notes",
+        "title": "DEDICATION — Critical Commentary & Notes",
+        "display": "Pier Vettori"
       }
     ]
   },
@@ -8224,6 +11770,14 @@
         "page": "f. 24r",
         "book": "Part II: Tractato de l'Architectura",
         "section": "02_architectura",
+        "display": "Piero"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0063",
+        "page": "f. 24r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
         "display": "Piero della Francesca"
       },
       {
@@ -8260,6 +11814,22 @@
       },
       {
         "volume": "volume_I",
+        "folio": "0076",
+        "page": "f. 30v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Piero"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0080",
+        "page": "f. 32v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Piero della Francesca's"
+      },
+      {
+        "volume": "volume_I",
         "folio": "0080",
         "page": "f. 32v",
         "book": "Part II: Tractato de l'Architectura",
@@ -8273,6 +11843,14 @@
         "book": "Part II: Tractato de l'Architectura",
         "section": "02_architectura",
         "display": "Piero della Francesca"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0081",
+        "page": "f. 33r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Piero della Francesca's"
       },
       {
         "volume": "volume_I",
@@ -8294,9 +11872,39 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_02/cap_02_notes",
+        "title": "CHAPTER II — Critical Commentary & Notes",
+        "display": "De Prospectiva Pingendi"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_11/cap_11_de",
+        "title": "CAPITEL XI",
+        "display": "Piero"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_11/cap_11_it",
+        "title": "CAPITOLO XI",
+        "display": "Piero"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_19/cap_19_en",
+        "title": "CHAPTER XIX",
+        "display": "De Prospectiva Pingendi"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/architectura/cap_19/cap_19_notes",
         "title": "CHAPTER XIX — Critical Commentary & Notes",
-        "display": "Piero della Francesca"
+        "display": "Piero della Francesca's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/dedication/dedication_it",
+        "title": "PROHEMIO",
+        "display": "Piero"
       },
       {
         "work": "divina_proportione",
@@ -8315,6 +11923,12 @@
         "doc": "de_divina_proportione/compendio/cap_03/cap_03_notes",
         "title": "CHAPTER III — Critical Commentary & Notes",
         "display": "Piero della Francesca"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_22/cap_22_notes",
+        "title": "CHAPTER XXII — Critical Commentary & Notes",
+        "display": "Tractatus de Quinque Corporibus Regularibus"
       },
       {
         "work": "divina_proportione",
@@ -8344,25 +11958,31 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/index",
         "title": "DE DIVINA PROPORTIONE",
-        "display": "Piero della Francesca"
+        "display": "Piero della Francesca's"
       },
       {
         "work": "divina_proportione",
         "doc": "de_divina_proportione/intro/intro_de",
         "title": "Winterbergs Vorwort und Einleitung (1889)",
-        "display": "Piero della Francesca"
+        "display": "Libellus de quinque corporibus regularibus"
       },
       {
         "work": "divina_proportione",
         "doc": "de_divina_proportione/intro/intro_en",
         "title": "Winterberg's Critical Introduction (1889)",
-        "display": "Piero della Francesca"
+        "display": "Libellus de Quinque Corporibus Regularibus"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_de",
+        "title": "Anhang IV: Sachliche Anmerkungen (Winterberg 1889)",
+        "display": "Tractat über die fünf regelmässigen Körper"
       },
       {
         "work": "divina_proportione",
         "doc": "de_divina_proportione/plates/anmerkungen_en",
         "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
-        "display": "Piero della Francesca"
+        "display": "Tractatus de Quinque Corporibus Regularibus"
       }
     ]
   },
@@ -8667,7 +12287,7 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/architectura/cap_12/cap_12_de",
         "title": "CAPITEL XII",
-        "display": "Plato"
+        "display": "Timäus"
       },
       {
         "work": "divina_proportione",
@@ -8691,13 +12311,19 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/architectura/cap_20/cap_20_en",
         "title": "CHAPTER XX",
-        "display": "Plato"
+        "display": "Timaeus"
       },
       {
         "work": "divina_proportione",
         "doc": "de_divina_proportione/architectura/cap_20/cap_20_it",
         "title": "CAPITOLO XX",
-        "display": "Platone"
+        "display": "nel suo Timeo"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_20/cap_20_notes",
+        "title": "CHAPTER XX — Critical Commentary & Notes",
+        "display": "Timaeus"
       },
       {
         "work": "divina_proportione",
@@ -8752,6 +12378,12 @@
         "doc": "de_divina_proportione/compendio/cap_05/cap_05_it",
         "title": "CAPITOLO V",
         "display": "Platone"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_05/cap_05_notes",
+        "title": "CHAPTER V — Critical Commentary & Notes",
+        "display": "Timaeus"
       },
       {
         "work": "divina_proportione",
@@ -8829,6 +12461,18 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/index",
         "title": "Part I: Compendio de Divina Proportione (Chapters I–LXXI)",
+        "display": "Plato"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Platon"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
         "display": "Plato"
       }
     ]
@@ -8989,6 +12633,26 @@
       }
     ]
   },
+  "prosdocimo-beldomandi": {
+    "name": "Beldomandi, Prosdocimo de'",
+    "dates": "c. 1380 – 1428",
+    "role": "Paduan Mathematician, Astronomer, and Music Theorist",
+    "bio": "Professor of Astrology and Mathematics at the University of Padua, cited by Pacioli ('Prodocimo') in Compendio Chapter II alongside Ptolemy, Albumasar, and Bianchini.",
+    "works": [
+      "Algorismus de integris",
+      "Canones de motibus corporum supercoelestium"
+    ],
+    "bib_anchor": "bib-prosdocimo-beldomandi",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_02/cap_02_en",
+        "title": "CHAPTER II",
+        "display": "Prosdocimo"
+      }
+    ]
+  },
   "ptolemy": {
     "name": "Ptolemy, Claudius",
     "dates": "c. 100 – c. 170 AD",
@@ -9056,6 +12720,18 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_03/cap_03_it",
+        "title": "CAPITOLO III",
+        "display": "Cosmographia"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_17/cap_17_de",
+        "title": "CAPITEL XVII",
+        "display": "Almagest"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_17/cap_17_en",
         "title": "CHAPTER XVII",
         "display": "Ptolemy"
@@ -9070,7 +12746,7 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_17/cap_17_notes",
         "title": "CHAPTER XVII — Critical Commentary & Notes",
-        "display": "Ptolemy"
+        "display": "Almagest"
       }
     ]
   },
@@ -9130,6 +12806,18 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_54/cap_54_notes",
         "title": "CHAPTER LIV — Critical Commentary & Notes",
+        "display": "Pythagoras"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Pythagoras"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
         "display": "Pythagoras"
       }
     ]
@@ -9192,6 +12880,60 @@
       }
     ]
   },
+  "rudolf-von-eitelberger": {
+    "name": "Eitelberger von Edelberg, Rudolf",
+    "dates": "1817 – 1885",
+    "role": "Austrian Art Historian and Founder of Quellenschriften für Kunstgeschichte",
+    "bio": "First Professor of Art History at the University of Vienna and founding Director of the k. k. Österreichisches Museum für Kunst und Industrie; founded the Quellenschriften für Kunstgeschichte und Kunsttechnik des Mittelalters und der Neuzeit series and personally commissioned Constantin Winterberg's edition of Pacioli's Divina Proportione.",
+    "works": [
+      "Quellenschriften für Kunstgeschichte und Kunsttechnik des Mittelalters und der Neuzeit"
+    ],
+    "bib_anchor": "bib-rudolf-von-eitelberger",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/index",
+        "title": "DE DIVINA PROPORTIONE",
+        "display": "Quellenschriften für Kunstgeschichte"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Quellenschriften für Kunstgeschichte und Kunsttechnik des Mittelalters und der Neuzeit"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Quellenschriften für Kunstgeschichte und Kunsttechnik des Mittelalters und der Neuzeit"
+      }
+    ]
+  },
+  "san-rocco": {
+    "name": "Roch, St. (San Rocco)",
+    "dates": "c. 1348 – 1376/1379",
+    "role": "Christian Confessor and Patron Saint against the Plague",
+    "bio": "Venerated in Venice at the Church and Scuola Grande di San Rocco; glossed by Winterberg in the Dedication of the Tractato de l'Architectura (fn. 1).",
+    "works": [],
+    "bib_anchor": "bib-san-rocco",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/dedication/dedication_de",
+        "title": "WIDMUNG",
+        "display": "San Rocco"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/dedication/dedication_notes",
+        "title": "DEDICATION — Critical Commentary & Notes",
+        "display": "San Rocco"
+      }
+    ]
+  },
   "serapion": {
     "name": "Serapion (Yahya ibn Sarafyun / Ibn Sarabi)",
     "dates": "fl. 9th / 12th century",
@@ -9229,6 +12971,81 @@
         "doc": "de_divina_proportione/compendio/cap_01/cap_01_it",
         "title": "CAPITOLO I",
         "display": "Serapione"
+      }
+    ]
+  },
+  "serlio": {
+    "name": "Serlio, Sebastiano",
+    "dates": "1475 – c. 1554",
+    "role": "Italian Mannerist Architect and Architectural Theorist",
+    "bio": "Author of I Sette Libri dell'Architettura (1537–1551), cited by Winterberg in the Einleitung alongside Vitruvius and Alberti on Renaissance architectural proportion.",
+    "works": [
+      "I Sette Libri dell'Architettura"
+    ],
+    "bib_anchor": "bib-serlio",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Serlio"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Sebastiano Serlio"
+      }
+    ]
+  },
+  "sigismondo-malatesta": {
+    "name": "Malatesta, Sigismondo Pandolfo",
+    "dates": "1417 – 1468",
+    "role": "Lord of Rimini and Condottiere",
+    "bio": "Patron of Leon Battista Alberti (Tempio Malatestiano) and Piero della Francesca, and dedicatee of Roberto Valturio's military treatise De Re Militari cited by Pacioli in Compendio Chapter II.",
+    "works": [],
+    "bib_anchor": "bib-sigismondo-malatesta",
+    "occurrences": [
+      {
+        "volume": "volume_I",
+        "folio": "0018",
+        "page": "f. 1v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Sigismondo Pandolfo Malatesta"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0019",
+        "page": "f. 2r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Sigismondo Pandolfo Malatesta"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0020",
+        "page": "f. 2v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Sigismondo Pandolfo Malatesta"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0021",
+        "page": "f. 3r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Sigismondo Pandolfo Malatesta"
+      }
+    ],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_02/cap_02_notes",
+        "title": "CHAPTER II — Critical Commentary & Notes",
+        "display": "Sigismondo Pandolfo Malatesta"
       }
     ]
   },
@@ -9311,6 +13128,12 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_08/cap_08_notes",
+        "title": "CHAPTER VIII — Critical Commentary & Notes",
+        "display": "Solomon"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/architectura/dedication/dedication_de",
         "title": "WIDMUNG",
         "display": "Salomon"
@@ -9355,6 +13178,31 @@
     "bib_anchor": "bib-tommaso-soderini",
     "occurrences": [],
     "work_occurrences": []
+  },
+  "vasari": {
+    "name": "Vasari, Giorgio",
+    "dates": "1511 – 1574",
+    "role": "Renaissance Painter, Architect, and Biographer of Artists",
+    "bio": "Author of Le Vite de' più eccellenti pittori, scultori, e architettori (1550/1568); cited critically by Winterberg in the Einleitung for accusing Pacioli of plagiarizing Piero della Francesca's geometrical treatises.",
+    "works": [
+      "Le Vite de' più eccellenti pittori, scultori, e architettori"
+    ],
+    "bib_anchor": "bib-vasari",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Vasari"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Giorgio Vasari"
+      }
+    ]
   },
   "vegetius": {
     "name": "Vegetius Renatus, Publius Flavius",
@@ -9570,6 +13418,14 @@
         "page": "f. 29r",
         "book": "Part II: Tractato de l'Architectura",
         "section": "02_architectura",
+        "display": "Vitruvius"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0073",
+        "page": "f. 29r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
         "display": "Vitruvius IV.1"
       },
       {
@@ -9579,6 +13435,14 @@
         "book": "Part II: Tractato de l'Architectura",
         "section": "02_architectura",
         "display": "Victruuio"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0074",
+        "page": "f. 29v",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "Vitruvius"
       },
       {
         "volume": "volume_I",
@@ -9748,6 +13612,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_05/cap_05_notes",
+        "title": "CHAPTER V — Critical Commentary & Notes",
+        "display": "Vitruvius III.5"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/architectura/cap_07/cap_07_de",
         "title": "CAPITEL VII",
         "display": "Vitruv"
@@ -9763,6 +13633,12 @@
         "doc": "de_divina_proportione/architectura/cap_07/cap_07_it",
         "title": "CAPITOLO VII",
         "display": "Victruuio"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_07/cap_07_notes",
+        "title": "CHAPTER VII — Critical Commentary & Notes",
+        "display": "Vitruvius"
       },
       {
         "work": "divina_proportione",
@@ -9808,6 +13684,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_13/cap_13_notes",
+        "title": "CHAPTER XIII — Critical Commentary & Notes",
+        "display": "Vitruvius IV.2–3"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/architectura/cap_14/cap_14_de",
         "title": "CAPITEL XIV",
         "display": "Vitruv"
@@ -9823,6 +13705,12 @@
         "doc": "de_divina_proportione/architectura/cap_14/cap_14_it",
         "title": "CAPITOLO XIV",
         "display": "Victruuio"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_14/cap_14_notes",
+        "title": "CHAPTER XIV — Critical Commentary & Notes",
+        "display": "Vitruvius III.5"
       },
       {
         "work": "divina_proportione",
@@ -9930,7 +13818,7 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_01/cap_01_de",
         "title": "CAPITEL I",
-        "display": "Vitruv"
+        "display": "Vitruv's"
       },
       {
         "work": "divina_proportione",
@@ -10020,11 +13908,12 @@
   },
   "winterberg": {
     "name": "Winterberg, Constantin",
-    "dates": "fl. 1889",
-    "role": "German Editor and Translator of De Divina Proportione",
-    "bio": "Prepared the 1889 Vienna critical edition and German translation (Fra Luca Pacioli: Divina Proportione — Die Lehre vom Goldenen Schnitt, Quellenschriften für Kunstgeschichte, N. F. Band II).",
+    "dates": "fl. 1887 – 1889",
+    "role": "German Art Historian, Editor and Translator of De Divina Proportione",
+    "bio": "Prepared the 1889 Vienna critical edition and German translation (Fra Luca Pacioli: Divina Proportione — Die Lehre vom Goldenen Schnitt, Quellenschriften für Kunstgeschichte, N. F. Band II), including the Vorwort, Einleitung, chapter footnotes, and 17 Sachliche Anmerkungen on the polyhedra plates; also authored 'Das Malerbuch Lionardo da Vinci's' in the Jahrbücher der königlich preussischen Kunstsammlungen (1887).",
     "works": [
-      "Fra Luca Pacioli: Divina Proportione (Wien: Carl Graeser, 1889)"
+      "Fra Luca Pacioli: Divina Proportione — Die Lehre vom Goldenen Schnitt (Wien: Carl Graeser, 1889)",
+      "Das Malerbuch Lionardo da Vinci's (Jahrbücher der königlich preussischen Kunstsammlungen, 1887)"
     ],
     "bib_anchor": "bib-winterberg",
     "occurrences": [
@@ -10099,6 +13988,14 @@
         "book": "Part I: Compendio de Divina Proportione",
         "section": "01_compendio",
         "display": "Winterberg"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0025",
+        "page": "f. 5r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "Winterberg's"
       },
       {
         "volume": "volume_I",
@@ -10680,6 +14577,24 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
+        "doc": "about",
+        "title": "about",
+        "display": "Constantin Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_02/cap_02_notes",
+        "title": "CHAPTER II — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_03/cap_03_notes",
+        "title": "CHAPTER III — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/architectura/cap_05/cap_05_notes",
         "title": "CHAPTER V — Critical Commentary & Notes",
         "display": "Winterberg"
@@ -10688,6 +14603,30 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/architectura/cap_06/cap_06_notes",
         "title": "CHAPTER VI — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_07/cap_07_notes",
+        "title": "CHAPTER VII — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_08/cap_08_notes",
+        "title": "CHAPTER VIII — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_11/cap_11_notes",
+        "title": "CHAPTER XI — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_12/cap_12_notes",
+        "title": "CHAPTER XII — Critical Commentary & Notes",
         "display": "Winterberg"
       },
       {
@@ -10710,14 +14649,50 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/dedication/dedication_notes",
+        "title": "DEDICATION — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_01/cap_01_notes",
         "title": "CHAPTER I — Critical Commentary & Notes",
         "display": "Winterberg"
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_02/cap_02_notes",
+        "title": "CHAPTER II — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_03/cap_03_notes",
+        "title": "CHAPTER III — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_04/cap_04_notes",
+        "title": "CHAPTER IV — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_05/cap_05_notes",
+        "title": "CHAPTER V — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_08/cap_08_notes",
         "title": "CHAPTER VIII — Critical Commentary & Notes",
+        "display": "Winterberg's"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_25/cap_25_notes",
+        "title": "CHAPTER XXV — Critical Commentary & Notes",
         "display": "Winterberg"
       },
       {
@@ -10730,6 +14705,24 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_28/cap_28_notes",
         "title": "CHAPTER XXVIII — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_29/cap_29_notes",
+        "title": "CHAPTER XXIX — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_30/cap_30_notes",
+        "title": "CHAPTER XXX — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_31/cap_31_notes",
+        "title": "CHAPTER XXXI — Critical Commentary & Notes",
         "display": "Winterberg"
       },
       {
@@ -10752,8 +14745,44 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_46/cap_46_notes",
+        "title": "CHAPTER XLVI — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_48/cap_48_notes",
         "title": "CHAPTER XLVIII — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_50/cap_50_notes",
+        "title": "CHAPTER L — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_53/cap_53_notes",
+        "title": "CHAPTER LIII — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_54/cap_54_notes",
+        "title": "CHAPTER LIV — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_57/cap_57_notes",
+        "title": "CHAPTER LVII — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_59/cap_59_notes",
+        "title": "CHAPTER LIX — Critical Commentary & Notes",
         "display": "Winterberg"
       },
       {
@@ -10764,8 +14793,50 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_61/cap_61_notes",
+        "title": "CHAPTER LXI — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_62/cap_62_notes",
+        "title": "CHAPTER LXII — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_63/cap_63_notes",
+        "title": "CHAPTER LXIII — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_64/cap_64_notes",
+        "title": "CHAPTER LXIV — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_65/cap_65_notes",
         "title": "CHAPTER LXV — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_66/cap_66_notes",
+        "title": "CHAPTER LXVI — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_69/cap_69_notes",
+        "title": "CHAPTER LXIX — Critical Commentary & Notes",
+        "display": "Winterberg"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_71/cap_71_notes",
+        "title": "CHAPTER LXXI — Critical Commentary & Notes",
         "display": "Winterberg"
       },
       {
@@ -10776,21 +14847,33 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Divina Proportione: Die Lehre vom Goldenen Schnitt"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Divina Proportione: Die Lehre vom Goldenen Schnitt"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_de",
+        "title": "Anhang IV: Sachliche Anmerkungen (Winterberg 1889)",
+        "display": "Winterbergs"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/plates/anmerkungen_en",
         "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
         "display": "Constantin Winterberg"
       },
       {
         "work": "divina_proportione",
-        "doc": "modules/api/geometor/pacioli/graphics/index",
-        "title": "geometor.pacioli.graphics",
-        "display": "Winterberg"
-      },
-      {
-        "work": "divina_proportione",
-        "doc": "modules/api/geometor/pacioli/parse_winterberg/index",
-        "title": "geometor.pacioli.parse_winterberg",
-        "display": "Winterberg"
+        "doc": "log/26.302-183400/index",
+        "title": "Five-Track De Divina Proportione Codex & 482 Paganini Woodcut Graphics",
+        "display": "Winterberg's"
       }
     ]
   },

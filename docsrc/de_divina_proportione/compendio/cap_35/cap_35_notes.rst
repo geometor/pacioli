@@ -48,7 +48,7 @@ The simplest universal mechanism for establishing a mutual reciprocal correspond
 2. Complete Classification of All 21 Possible Mutual Inscriptions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-By means of polar reciprocation, all **20 mutual inscriptions between distinct regular solids** (plus **1 self-inscription of the tetrahedron in the tetrahedron**, making **21 cases in all**) fall into **three direct groups (a)** and **three polar-reciprocal groups (b)**, where an asterisk (``*``) marks the 12 cases treated by :person:`Euclid <euclid>` Book XV / :person:`Campanus <campanus>` / Pacioli in Chapters XXXV–XLVI:
+By means of polar reciprocation, all **20 mutual inscriptions between distinct regular solids** (plus **1 self-inscription of the tetrahedron in the tetrahedron**, making **21 cases in all**) fall into **three direct groups (a)** and **three polar-reciprocal groups (b)**, where an asterisk (``*``) marks the 12 cases treated by :cite:`Euclid Book XV <euclid:elements:XV>` / :person:`Campanus <campanus>` / :person:`Pacioli <pacioli>` in Chapters XXXV–XLVI:
 
 .. list-table:: Complete System of Mutual Inscriptions of the Five Regular Solids (Winterberg 1889, p. 348)
    :header-rows: 1
@@ -102,7 +102,7 @@ By means of polar reciprocation, all **20 mutual inscriptions between distinct r
 
      - **16.** :term:`Icosahedron <icosahedron>` in Cube (*treated in Piero/Pacioli's Libellus!*)
 
-   * - **17.** Octahedron in Icosahedron (*denied by Pacioli in Cap. XLVI; proved by Tartaglia & Note 15*)
+   * - **17.** Octahedron in Icosahedron (*denied by :person:`Pacioli <pacioli>` in Cap. XLVI; proved by :person:`Tartaglia <niccolo-tartaglia>` & Note 15*)
 
      - **18.** :term:`Dodecahedron <dodecahedron>` in Cube (*omitted by Pacioli*)
 
@@ -131,13 +131,13 @@ By means of polar reciprocation, all **20 mutual inscriptions between distinct r
 
 - **Group III (15 $\leftrightarrow$ 16, 17 $\leftrightarrow$ 18, 19 $\leftrightarrow$ 20)**: Because the two solids do not share a common circumsphere when vertices fall on edges, we reciprocate with respect to any concentric sphere (e.g., the sphere circumscribing the outer solid), transforming **vertices on edges** into **faces containing edges**:
 
-  - From **15 (Octahedron in Dodecahedron)** arises **16 (Icosahedron in Cube)**, where **6 opposite parallel edges of the icosahedron lie in the 6 square faces of the cube** along their midlines in three mutually perpendicular directions, so that all 12 vertices of the :term:`icosahedron <icosahedron>` rest in pairs on the 6 faces of the cube! Remarkably, although omitted here in the *Compendio*, this exact inscription is explicitly treated in :person:`Piero della Francesca <piero-della-francesca>` / Pacioli's companion :cite:`*Libellus de Quinque Corporibus Regularibus* <piero:libellus>`!
+  - From **15 (Octahedron in Dodecahedron)** arises **16 (Icosahedron in Cube)**, where **6 opposite parallel edges of the icosahedron lie in the 6 square faces of the cube** along their midlines in three mutually perpendicular directions, so that all 12 vertices of the :term:`icosahedron <icosahedron>` rest in pairs on the 6 faces of the cube! Remarkably, although omitted here in the *Compendio*, this exact inscription is explicitly treated in :person:`Piero della Francesca <piero-della-francesca>` / :person:`Pacioli's <pacioli>` companion :cite:`*Libellus de Quinque Corporibus Regularibus* <piero:libellus>`!
   - From **17 (Octahedron in Icosahedron)** arises **18 (Dodecahedron in Cube)**, where 6 opposite parallel edges of the :term:`dodecahedron <dodecahedron>` lie along the midlines of the 6 faces of the cube (while the 8 remaining vertices of the :term:`dodecahedron <dodecahedron>`, corresponding to an inscribed cube, lie free inside).
   - From **19 (Tetrahedron in Octahedron)** arises **20 (Cube in Tetrahedron)**, where the 4 faces of the :term:`tetrahedron <tetrahedron>` contain 4 edges of the cube (two opposite top edges of the cube and the two perpendicular bottom edges).
 
 .. rubric:: Anmerkung 17 (Cap. XXXV–XLVI, S. 345–352): Vollständige Theorie aller 21 gegenseitigen Einbeschreibungen der fünf regulären Körper mittelst Polarität an der Kugel
 
-Wenn auch Pacioli die Bedeutung der fünf regelmässigen Körper in theoretischer wie in praktischer Hinsicht weit überschätzt, so scheint es gleichwohl von Interesse, auf die Theorie dieses Gegenstandes etwas näher einzugehen, um die Eigenschaften jener Körper in ihrem gegenseitigen Zusammenhange leichter zu verstehen. Es werden hierdurch leicht alle auf die gegenseitige Einbeschreibung bezüglichen Fragen erledigt.
+Wenn auch :person:`Pacioli <pacioli>` die Bedeutung der fünf regelmässigen Körper in theoretischer wie in praktischer Hinsicht weit überschätzt, so scheint es gleichwohl von Interesse, auf die Theorie dieses Gegenstandes etwas näher einzugehen, um die Eigenschaften jener Körper in ihrem gegenseitigen Zusammenhange leichter zu verstehen. Es werden hierdurch leicht alle auf die gegenseitige Einbeschreibung bezüglichen Fragen erledigt.
 
 1. Directe und reciproke Beziehung mittelst Polarität an der Kugel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -158,7 +158,7 @@ Denkt man sich die Kugel vom Radius $R$ allmählich wachsend:
 2. Schema aller 21 möglichen Fälle gegenseitiger Einbeschreibung
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Die sämmtlichen überhaupt möglichen **20 oder genauer 21 Fälle** dieser Art ergeben sich, indem man zunächst nach drei Gruppen ordnet, je nachdem bei der Einschreibung **Ecke auf Ecke**, **Ecke auf Seitenfläche** oder **Ecke auf Kante** fällt. Durch reciproke Uebertragung leitet man sodann aus den zehn hierauf bezüglichen Fällen ebensoviel neue ab, je nachdem **Fläche auf Fläche**, **Fläche auf Ecke** und **Kante in Fläche** fällt (die mit ``*`` bezeichneten sind die im Text Pacioli's bereits erwähnten 12 Fälle):
+Die sämmtlichen überhaupt möglichen **20 oder genauer 21 Fälle** dieser Art ergeben sich, indem man zunächst nach drei Gruppen ordnet, je nachdem bei der Einschreibung **Ecke auf Ecke**, **Ecke auf Seitenfläche** oder **Ecke auf Kante** fällt. Durch reciproke Uebertragung leitet man sodann aus den zehn hierauf bezüglichen Fällen ebensoviel neue ab, je nachdem **Fläche auf Fläche**, **Fläche auf Ecke** und **Kante in Fläche** fällt (die mit ``*`` bezeichneten sind die im Text :person:`Pacioli's <pacioli>` bereits erwähnten 12 Fälle):
 
 .. list-table:: Vollständiges System der gegenseitigen Einbeschreibungen (Winterberg 1889, S. 348)
    :header-rows: 1
@@ -212,7 +212,7 @@ Die sämmtlichen überhaupt möglichen **20 oder genauer 21 Fälle** dieser Art 
 
      - **16.** :term:`Ikosaeder <icosahedron>` im Kubus (*im Libellus behandelt*)
 
-   * - **17.** Oktaeder im Ikosaeder (*von Pacioli geleugnet*)
+   * - **17.** Oktaeder im Ikosaeder (*von :person:`Pacioli <pacioli>` geleugnet*)
 
      - **18.** :term:`Dodekaeder <dodecahedron>` im Kubus
 
@@ -241,7 +241,7 @@ Die sämmtlichen überhaupt möglichen **20 oder genauer 21 Fälle** dieser Art 
 
 - **Dritte Gruppe (15–20)**: Fallen bei den Körpern links Ecken auf Kanten, so fallen bei den reciproken Körpern rechts **Ebenen auf Kanten** (d. h. Kanten in die Seitenflächen):
 
-  - Aus **15** ergibt sich **16 (Ikosaeder im Kubus)**, wobei sechs Ikosaederkanten in die sechs Kubusflächen, und zwar in deren Mittellinien je zwei und zwei parallel fallen, so dass sämmtliche 12 Ecken des :term:`Ikosaeders <icosahedron>` als Endpunkte der Kanten zu je zwei auf den Kubusflächen liegen. Dieser im Text der :term:`*Divina proportione* <divina-proportione>` nicht aufgezählte Fall wird eigenthümlicherweise im *Tractat über die fünf regelmässigen Körper* (*Libellus*) ausdrücklich erwähnt und behandelt!
+  - Aus **15** ergibt sich **16 (Ikosaeder im Kubus)**, wobei sechs Ikosaederkanten in die sechs Kubusflächen, und zwar in deren Mittellinien je zwei und zwei parallel fallen, so dass sämmtliche 12 Ecken des :term:`Ikosaeders <icosahedron>` als Endpunkte der Kanten zu je zwei auf den Kubusflächen liegen. Dieser im Text der :term:`*Divina proportione* <divina-proportione>` nicht aufgezählte Fall wird eigenthümlicherweise im :cite:`*Tractat über die fünf regelmässigen Körper* <piero:libellus>` (*Libellus*) ausdrücklich erwähnt und behandelt!
   - Aus **17** entsteht **18 (Dodekaeder im Kubus)**, wobei die Kantenlage dieselbe ist wie bei 16, ausserdem aber noch acht Ecken frei liegen, welche den Ecken des dem :term:`Dodekaeder <dodecahedron>` eingeschriebenen Kubus entsprechen.
   - Aus **19** endlich findet sich **20 (Kubus im Tetraeder)**, wobei die vier Flächen des :term:`Tetraeders <tetrahedron>` vier Kanten des Kubus enthalten (zwei sich gegenüberliegende Seiten des obern und die sie kreuzenden des untern Quadrats).
 

@@ -12,7 +12,7 @@ CHAPTER XII — Critical Commentary & Notes
 Historical and Philological Commentary
 --------------------------------------
 
-1. **Radical Arithmetic in Chapter XII (:cite:`Euclid XIII.3 <euclid:elements:XIII.3>`)**: Pacioli's step-by-step calculation with apotomes is a tour de force of Renaissance abacus algebra:
+1. **Radical Arithmetic in Chapter XII (Euclid XIII.3)**: :person:`Pacioli's <pacioli>` step-by-step calculation with apotomes is a tour de force of Renaissance abacus algebra:
 
    - Halving $\sqrt{125}$ requires dividing the radicand by $2^2 = 4$: $\frac{1}{2}\sqrt{125} = \sqrt{\frac{125}{4}} = \sqrt{31\frac{1}{4}}$.
    - Subtracting $\sqrt{125} - \sqrt{31\frac{1}{4}} = 2\sqrt{31\frac{1}{4}} - \sqrt{31\frac{1}{4}} = \sqrt{31\frac{1}{4}}$ gives $b + \frac{a}{2} = (15 - 2\frac{1}{2}) - \sqrt{31\frac{1}{4}} = 12\frac{1}{2} - \sqrt{31\frac{1}{4}}$.

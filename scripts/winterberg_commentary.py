@@ -7,13 +7,19 @@ from __future__ import annotations
 
 from typing import Any, Dict, List, Tuple
 
-WINTERBERG_INTRO_EN = """.. rubric:: Preface (*Vorwort*, Karlsruhe, March 1889)
+WINTERBERG_INTRO_EN = """.. rubric:: Series Title Page (*Quellenschriften für Kunstgeschichte*, Vienna, 1889)
 
-The efforts of modern scholarship have long been directed toward recovering the lost technical foundations that continually recur in the pictorial and architectural composition of the masterpieces of the Renaissance, so that they might once again exert a stimulating influence upon contemporary art. To have advanced the solution of this task through the careful publication of the written traditions of the foremost masters of that era is the great merit of the *Quellenschriften für Kunstgeschichte*.
+*Quellenschriften für Kunstgeschichte und Kunsttechnik des Mittelalters und der Neuzeit*, published with the support of the Imperial-Royal Austrian Ministry for Worship and Education, founded by **Rudolf Eitelberger von Edelberg**, continued by **Albert Ilg**. New Series, Volume II (*Neue Folge, II. Band*): **Fra Luca Pacioli**, *Divina Proportione: Die Lehre vom Goldenen Schnitt* (*The Doctrine of the Golden Section*), newly edited, translated, and elucidated from the Venice Edition of the year 1509 by **Constantin Winterberg** (Vienna: Published by **Carl Graeser**, printed by **Carl Fromme**, 1889).
+
+----
+
+.. rubric:: Preface (*Vorwort*, Karlsruhe, March 1889)
+
+The efforts of modern scholarship have long been directed toward recovering the lost technical foundations that continually recur in the pictorial and architectural composition of the masterpieces of the Renaissance, so that they might once again exert a stimulating influence upon contemporary art. To have advanced the solution of this task through the careful publication of the written traditions of the foremost masters of that era is the great merit of the *Quellenschriften für Kunstgeschichte und Kunsttechnik des Mittelalters und der Neuzeit*.
 
 Indeed, it is precisely the technical treatises that have suffered the undeserved fate of either mouldering unused and half-forgotten in the libraries of Italy, or—when published in earlier centuries—standing so far removed from modern habits of expression that only a few scholars undertake their study. This applies above all to Fra Luca Pacioli's treatises, *De Divina Proportione* and the *Libellus de Quinque Corporibus Regularibus*. Modest as purely abstract scientific works, their chief value lies rather in the fact that, having arisen in the closest connection with the needs of artistic practice, they cast a flood of light upon the manner in which mathematical disciplines were applied in the visual arts during the first great flowering of the Early Renaissance. The cumbersome, archaic mode of expression and the dense, nearly indecipherable scribal and typographical abbreviations that characterize the surviving early sixteenth-century edition (Venice, 1509) explain why these treatises have hitherto remained virtually inaccessible to practicing artists, quite apart from the extreme rarity of the printed volumes themselves.
 
-To remedy this deficiency at least in part through the present new edition, to offer a fresh contribution to the understanding of the artistic creation of a great epoch, and to dedicate a tribute of gratitude to the memory of the late Councillor Rudolf von Eitelberger—who alongside his friend Heinrich Ludwig in Rome gave the first impetus to this undertaking—affords the editor special satisfaction.
+To remedy this deficiency at least in part through the present new edition, to offer a fresh contribution to the understanding of the artistic creation of a great epoch, and to dedicate a tribute of gratitude to the memory of the late Councillor **Rudolf von Eitelberger**—who alongside his friend **Heinrich Ludwig** in Rome gave the first impetus to this undertaking—affords the editor special satisfaction.
 
 *Karlsruhe i. B., March 1889 — Constantin Winterberg*
 
@@ -22,32 +28,32 @@ To remedy this deficiency at least in part through the present new edition, to o
 1. Pacioli, Piero della Francesca, and Leonardo da Vinci
 --------------------------------------------------------
 
-Among the few writings of the Early Renaissance that treat technical and mathematical disciplines in their direct relation to artistic practice, none deserves the attention of both the historian and the specialist more than the celebrated treatises of **Fra Luca Pacioli**. Even the greatest and most famous artistic compilation of that age, **Leonardo da Vinci**'s *Trattato della Pittura* (*Book of Painting*), consists essentially of loosely connected notes extending across the auxiliary sciences of painting without a unified systematic architecture. It is otherwise with the writings of Pacioli, which—despite all stylistic defects—form a complete, systematically worked-out whole. Their interest is heightened by the fact that they arose in immediate response to the practical needs of Renaissance workshops; indeed, the companion treatise on the five regular bodies (*Libellus de Quinque Corporibus Regularibus*) derives its substantive authorship from **Piero della Francesca**, a practicing master of the highest rank. Only in reading these treatises does one gain a full view of the formidable difficulties that confronted Renaissance artists even in elementary problems of solid geometry, and one cannot sufficiently admire the energy and insight with which the foremost masters strove to solve the problems required for their art using the mathematical tools inherited from antiquity.
+Among the few writings of the Early Renaissance that treat technical and mathematical disciplines in their direct relation to artistic practice, none deserves the attention of both the historian and the specialist more than the celebrated treatises of **Fra Luca Pacioli**. Even the greatest and most famous artistic compilation of that age, **Leonardo da Vinci**'s *Trattato della Pittura* (*Book of Painting* / *Malerbuch*), consists essentially of loosely connected notes extending across the auxiliary sciences of painting without a unified systematic architecture. It is otherwise with the writings of Pacioli, which—despite all stylistic defects—form a complete, systematically worked-out whole. Their interest is heightened by the fact that they arose in immediate response to the practical needs of Renaissance workshops; indeed, the companion treatise on the five regular bodies (*Libellus de Quinque Corporibus Regularibus*) derives its substantive authorship from **Piero della Francesca**, a practicing master of the highest rank. Only in reading these treatises does one gain a full view of the formidable difficulties that confronted Renaissance artists even in elementary problems of solid geometry, and one cannot sufficiently admire the energy and insight with which the foremost masters strove to solve the problems required for their art using the mathematical tools inherited from antiquity.
 
-**Fra Luca Pacioli**, a friar of the Franciscan Order, was born at **Borgo Sansepolcro** in the Tuscan Apennines—the very same town where **Piero della Francesca** first saw the light of day. The fruits of Pacioli's mathematical studies were first gathered in his monumental *Summa de Arithmetica, Geometria, Proportioni et Proportionalita* (Venice, 1494), dedicated to **Guidobaldo da Montefeltro**, Duke of Urbino. Beside its algebraic treatise, the *Summa* includes an extensive geometric section in which continuous proportions are accorded special practical utility, and in which the golden section already appears as a privileged case.
+**Fra Luca Pacioli**, a friar of the Franciscan Order, was born (according to **Guillaume Libri**, *Histoire des sciences mathématiques en Italie*, Vol. III) at **Borgo Sansepolcro** in the Tuscan Apennines—the very same town where **Piero della Francesca** first saw the light of day. According to **Jean-Étienne Montucla** (*Histoire des mathématiques*), Pacioli undertook travels to the Orient at the command of his Franciscan superiors, where he may have become more closely acquainted with Arabic mathematical science. The fruits of Pacioli's mathematical studies were first gathered in his monumental *Summa de Arithmetica, Geometria, Proportioni et Proportionalita* (Venice, 1494), dedicated to **Guidobaldo da Montefeltro**, Duke of Urbino. Beside its algebraic treatise, the *Summa de Arithmetica* includes an extensive geometric section in which continuous proportions are accorded special practical utility, and in which the golden section already appears as a privileged case.
 
-Throughout his career Pacioli stood in close scientific intercourse with the foremost artists of his age:
+Throughout his career, as **Giorgio Vasari** reports in his *Vite*, Pacioli stood in close scientific intercourse with the foremost artists of his age:
 
-- **Piero della Francesca**, his elder compatriot, instructed him in the mathematical and perspective disciplines; in the *Summa* and in the *Tractato de l'Architectura* (Chapter XIX), Pacioli hails Piero as *"il monarca alli tempi nostri della pictura e architectura"* ("the monarch of painting and architecture in our times").
-- **Leonardo da Vinci** designed the sixty perspective plates of the regular and dependent polyhedra for *De Divina Proportione* during their joint residence at the Sforza court in Milan (1496–1499). These same perspective drawings of solid (*solidum*) and skeletal (*vacuum*) polyhedra passed into almost all subsequent sixteenth-century treatises on perspective. In the text of *De Divina Proportione*, Pacioli repeatedly celebrates his friendship with Leonardo and records primary eyewitness accounts of Leonardo's *Last Supper* (*Il Cenacolo*) in Santa Maria delle Grazie and the colossal bronze equestrian monument to Francesco Sforza.
+- **Piero della Francesca**, his elder compatriot, instructed him in the mathematical and perspective disciplines; in the *Summa de Arithmetica* and in the *Tractato de l'Architectura* (Chapter XIX), Pacioli hails Piero as *"il monarca alli tempi nostri della pictura e architectura"* ("the monarch of painting and architecture in our times").
+- **Leonardo da Vinci** designed the sixty perspective plates of the regular and dependent polyhedra for *De Divina Proportione* during their joint residence at the Sforza court in Milan (1496–1499). These same perspective drawings of solid (*solidum*) and skeletal (*vacuum*) polyhedra passed into almost all subsequent sixteenth-century treatises on perspective. In the text of *De Divina Proportione*, Pacioli repeatedly celebrates his friendship with Leonardo and records primary eyewitness accounts of Leonardo's *Last Supper* (*Il Cenacolo*) in Santa Maria delle Grazie and the colossal bronze equestrian monument to **Francesco Sforza**.
 
 From this living exchange between theory and workshop practice, between science and art, emerged *De Divina Proportione*—completed in manuscript at Milan in 1498 for Duke **Ludovico Maria Sforza** (*il Moro*) and first printed at Venice by **Paganino de' Paganini** in June 1509.
 
 2. The Golden Section, Vitruvian Harmonic Ratios, and Aesthetic Rhythm
 ----------------------------------------------------------------------
 
-In his *Histoire des sciences mathématiques en Italie* (Vol. III), Guillaume Libri asserted that Pacioli sought in *De Divina Proportione* to establish the golden section as a universal morphological and aesthetic law governing the human figure, architecture, and even the construction of the Roman alphabet. Closer examination of the text shows that this claim requires careful qualification:
+In his *Histoire des sciences mathématiques en Italie* (Vol. III), **Guillaume Libri** asserted that Pacioli sought in *De Divina Proportione* to establish the golden section as a universal morphological and aesthetic law governing the human figure, architecture, and even the construction of the Roman alphabet. Closer examination of the text shows that this claim requires careful qualification:
 
-- What Pacioli sets forth in the *Tractato de l'Architectura* concerning the proportions of the human body (Chapters I–III) and the classical column orders (Chapters IV–XX) is substantially a faithful restatement of **Vitruvius** (*De Architectura*, Books III–V). In Vitruvius, as in Renaissance architects such as Alberti and Serlio, it is not the irrational golden section, but rather **rational harmonic ratios** ($1:2$, $2:3$, $3:4$, $3:4:5$) derived from musical consonances and aliquot body modules ($\\frac{1}{6}$, $\\frac{1}{8}$, $\\frac{1}{10}$, $\\frac{1}{12}$) that govern architectural commensuration.
+- What Pacioli sets forth in the *Tractato de l'Architectura* concerning the proportions of the human body (Chapters I–III) and the classical column orders (Chapters IV–XX) is substantially a faithful restatement of **Vitruvius** (*De Architectura*, Books III–V). In Vitruvius, as in Renaissance architects such as **Leon Battista Alberti** (*De Re Aedificatoria*) and **Sebastiano Serlio** (*Sette Libri dell'Architettura*), it is not the irrational golden section, but rather **rational harmonic ratios** ($1:2$, $2:3$, $3:4$, $3:4:5$) derived from musical consonances and aliquot body modules ($\\frac{1}{6}$, $\\frac{1}{8}$, $\\frac{1}{10}$, $\\frac{1}{12}$) that govern architectural commensuration.
 - Likewise, the twenty-three capital letters of the **Roman Alphabet** (Appendix I) are constructed from rational subdivisions ($\\frac{1}{9}$, $\\frac{1}{2}$, $\\frac{1}{3}$, $\\frac{1}{4}$) of the square and inscribed circle.
-- Nevertheless, within the domain of solid geometry, Pacioli shows that not only the five Platonic solids (above all the dodecahedron and icosahedron), but also their truncated and stellated derivatives, are governed directly or indirectly by the proportion having a mean and two extremes. In Chapter LIV (and Chapter XIX of the *Architectura*), Pacioli even conceives the progressive truncation and subdivision of polyhedra (*in agibilibus*) as a geometric method of exhaustion approaching curved vaults and the sphere itself.
+- Nevertheless, within the domain of solid geometry, Pacioli shows that not only the five Platonic solids (above all the dodecahedron and icosahedron), but also their truncated and stellated derivatives, are governed directly or indirectly by the proportion having a mean and two extremes. In Chapter LIV (and Chapter XIX of the *Tractato de l'Architectura*), Pacioli even conceives the progressive truncation and subdivision of polyhedra (*in agibilibus*, misprinted *"in ogibilibus"* in the 1509 edition) as a geometric method of exhaustion—an anticipation of the differential calculus—approaching curved vaults and the sphere itself, and urges architects and sculptors to follow the example of **Phidias** in applying the regular solids.
 
-When in the mid-nineteenth century Adolf Zeising (*Neue Lehre von den Proportionen des menschlichen Körpers*, 1854) revived the golden section as a universal morphological and aesthetic canon, empirical measurements (by Zeising, Brocheneck, Carus, Schmidt, and Quetelet) showed that while human proportions approximate the golden ratio within modest tolerances, any continuous geometric division adjusted to empirical means yields comparable external approximations (as Harless rightly observed).
+As **Euclid** already knew in the *Elements*, all the mathematical theorems Pacioli adduces on the *Divina Proportione* follow as necessary consequences from its definition (:just:`VI.def.3`, :just:`II.11`, :just:`VI.30`, :just:`XIII.1`–:just:`XIII.18`). When in the mid-nineteenth century **Adolf Zeising** (*Neue Lehre von den Proportionen des menschlichen Körpers*, 1854) revived the golden section as a universal morphological and aesthetic canon (*Kanon*) of the human figure, empirical measurements and canonical systems—whether constructed geometrically after the golden section by **Adolf Zeising** and **Brocheneck** (*Die männliche und weibliche Normalgestalt*), derived from the module of the vertebral column (*Wirbelsäule*) by **Carl Gustav Carus** (*Die Proportionslehre der menschlichen Gestalt*), based on an arbitrary geometric key by **Carl Schmidt** (*Proportionsschlüssel*), or determined purely empirically by probability and mean values by **Adolphe Quetelet** (*Anthropométrie*) and after him **J. J. Trost** (*Die Proportionslehre Dürer's*)—showed that while human proportions approximate the golden ratio within modest tolerances, any continuous geometric division adjusted to empirical means yields comparable external approximations, as **Emil Harless** (*Lehrbuch der plastischen Anatomie*) rightly observed.
 
 Where the golden section possesses a genuine and unique aesthetic preeminence, however, is in **visual perception and rhythmic articulation**:
 
 1. For the eye to perceive lawful articulation (*gesetzmässige Gliederung*) across the parts of a whole without artificial measuring aids, the governing law must announce itself immediately as a **continuous rhythm**.
-2. In an **arithmetic series** generated additively from two initial terms ($c = a + b$, $d = b + c$, $e = c + d$, $\\dots$), every term is the sum of its two predecessors—an organic law of growth (as in the branching of trees or the composition of forces).
+2. In an **arithmetic series** generated additively from two initial terms ($c = a + b$, $d = b + c$, $e = c + d$, $\\dots$), every term is the sum of its two predecessors—an organic law of growth (as shown in **Constantin Winterberg**'s study *"Das Malerbuch Lionardo da Vinci's"* in *Jahrbücher der königlich preussischen Kunstsammlungen*, 1887, and exemplified both in the branching of trees and in the parallelogram composition of resultant forces $c, c'$ meeting at an angle).
 3. In a **discontinuous geometric proportion** $\\frac{a}{b} = \\frac{c}{d}$ among four segments, two terms remain independent, creating a perceptual gap as the eye passes from $b$ to $c$. Only when the proportion becomes **continuous**—so that each neighbor-ratio equals the preceding ratio, $\\frac{b}{a} = \\frac{c}{b}$—can the eye follow an unbroken rhythmic progression.
 4. When we unite **both** requirements in a single three-term relation—demanding simultaneously the **continuous geometric proportion** $a : b = b : c$ and the **additive arithmetic relation** $a + b = c$—we obtain uniquely the **Golden Section** (*der goldene Schnitt*):
 
@@ -62,30 +68,49 @@ Because every triad of consecutive terms satisfies both the multiplicative ratio
 
 According to its mathematical content, Part I (*Compendio de Divina Proportione*) divides into four principal groups:
 
-1. **The Thirteen Effects of the Divine Proportion (Chapters I–XXIII)**: After the dedication to Ludovico Sforza, the defense of mathematics, and the five divine attributes of the proportion (Chapters I–VI), Pacioli presents thirteen theorems on lines cut in extreme and mean ratio and their application to the regular pentagon, decagon, and hexagon (Chapters VII–XXIII, following Euclid Books II, IV, VI, and XIII.1–12). Because Pacioli states several of these theorems primarily through numerical examples (with $a+b = 10$, $a = \\sqrt{125}-5$, $b = 15-\\sqrt{125}$), concise algebraic proofs are supplied in **Anmerkungen 1–9**.
-2. **Construction, Sphere Inscription, and Uniqueness of the Five Regular Solids (Chapters XXIV–XXXIV)**: Pacioli demonstrates why at most five regular polyhedra can exist in nature (:just:`XI.21`), constructs each solid in the sphere (:just:`XIII.13`–:just:`XIII.18`), and determines the ratios of their edges, altitudes, and sphere diameters (**Anmerkungen 10–14**).
+1. **The Thirteen Effects of the Divine Proportion (Chapters I–XXIII)**: After the dedication to **Ludovico Sforza**, the defense of mathematics, and the five divine attributes of the proportion (Chapters I–VI), Pacioli presents thirteen theorems on lines cut in extreme and mean ratio and their application to the regular pentagon, decagon, and hexagon (Chapters VII–XXIII, following **Euclid**, *Elements* Books II, IV, VI, and :just:`XIII.1`–:just:`XIII.12`). Because Pacioli states several of these theorems primarily through numerical examples (with $a+b = 10$, $a = \\sqrt{125}-5$, $b = 15-\\sqrt{125}$), concise algebraic proofs are supplied in **Anmerkungen 1–9**.
+2. **Construction, Sphere Inscription, and Uniqueness of the Five Regular Solids (Chapters XXIV–XXXIV)**: Using the theorem of **Pythagoras** (:just:`I.47`) and the chord and tangent theorems of the circle in **Euclid**, Pacioli demonstrates why at most five regular polyhedra can exist in nature (:just:`XI.21`), constructs each solid in the sphere (:just:`XIII.13`–:just:`XIII.18`), and determines the ratios of their edges, altitudes, and sphere diameters (**Anmerkungen 10–14**).
 3. **The Twelve Mutual Inscriptions and the Truncated/Elevated Dependent Bodies (Chapters XXXV–LV)**:
-   In Chapters XXXV–XLVI, Pacioli treats twelve problems of inscribing one regular solid inside another (following Euclid Book XV and Campanus). Here Pacioli repeats an error already criticized by **Niccolò Tartaglia** in his *General Trattato di Numeri et Misure*: not only does he omit several valid inscriptions (such as the icosahedron in the cube), but in **Chapter XLVI** he explicitly attempts to prove—on Neoplatonic cosmological grounds—that **the octahedron cannot be inscribed in the icosahedron**!
-   As shown in **Anmerkung 15**, this claim is false: joining the midpoints of the three pairs of opposite parallel edges of the icosahedron yields three mutually perpendicular axes of equal length, whose six endpoints form a regular octahedron inscribed in the icosahedron. And as demonstrated in full in **Anmerkung 17**, the modern projective theory of **poles and polar planes with respect to a concentric sphere** ($R = \\sqrt{r\\rho}$) immediately resolves the complete system of **all 21 possible mutual inscriptions** of the five regular solids by pairing each direct inscription (vertices on vertices, faces, or edges) with its reciprocal dual (faces on faces, vertices, or edges).
+   In Chapters XXXV–XLVI, Pacioli treats twelve problems of inscribing one regular solid inside another, following **Euclid** Book XV (:just:`XV.1`–:just:`XV.12`) and his medieval predecessor **Campanus of Novara** (*Elementa Euclidis cum Commentariis Campani*). Here Pacioli repeats an error already criticized by **Niccolò Tartaglia** in his *General Trattato di Numeri et Misure* (*General-Trattato di Matematiche*): not only does he omit several valid inscriptions (such as the icosahedron in the cube, which **Tartaglia** and **Piero della Francesca**'s *Libellus de Quinque Corporibus Regularibus* both treat), but in **Chapter XLVI** he explicitly attempts to prove—on **Plato**'s cosmological grounds (*Timaeus*)—that **the octahedron cannot be inscribed in the icosahedron**!
+   As **Niccolò Tartaglia** proved by far clearer and shorter methods than Pacioli's, and as shown in **Anmerkung 15**, this claim is false: joining the midpoints of the three pairs of opposite parallel edges of the icosahedron yields three mutually perpendicular axes of equal length, whose six endpoints form a regular octahedron inscribed in the icosahedron. And as demonstrated in full in **Anmerkung 17**, the modern projective theory of **poles and polar planes with respect to a concentric sphere** ($R = \\sqrt{r\\rho}$) immediately resolves the complete system of **all 21 possible mutual inscriptions** of the five regular solids by pairing each direct inscription (vertices on vertices, faces, or edges) with its polar-reciprocal dual (faces on faces, vertices, or edges).
    Chapters XLVII–LV then describe the **truncated** (*abscisi*) and **elevated/stellated** (*elevati*) dependent bodies (**Anmerkung 16**) and the 26-base and 72-base solids.
-4. **The Sphere, Oblong Prisms/Columns, Pyramids/Cones, and Practical Mensuration (Chapters LVI–LXXI)**: After demonstrating how all five regular solids are carved within the sphere (Chapter LVII), Pacioli treats prismatic columns and pyramids, proves that the pyramid is one-third of the prism of equal base and height, and concludes with the panegyric to Ludovico Sforza, the ordering of Leonardo's plates, and a glossary of mathematical terms.
+4. **The Sphere, Oblong Prisms/Columns, Pyramids/Cones, and Practical Mensuration (Chapters LVI–LXXI)**: After demonstrating how all five regular solids are carved within the sphere (Chapter LVII), Pacioli treats prismatic columns and pyramids, proves that the pyramid is one-third of the prism of equal base and height (:just:`XII.7`), and concludes with the panegyric to **Ludovico Sforza**, the ordering of **Leonardo da Vinci**'s plates, and a glossary of mathematical terms, serving as a theoretical preparation for the problems in the *Libellus de Quinque Corporibus Regularibus*.
+
+Already among his sixteenth-century contemporaries—most famously **Annibale Caro** (*Apologia*)—Pacioli's diffuse, half-Latinized vernacular prose style, mingling mathematical theorems with scholastic and theological digressions, was disparagingly dubbed *"Ceneraccio"* ("ash-lye" / *Aschenlauge, Schmutzbrühe*). Yet fairness requires recognizing that the Franciscan friar, addressing courtly audiences of princes, nobles, and artists in his public lectures at Florence, Milan, Rome, and Venice, deliberately wove historical and practical episodes into his discourse to sustain the interest of his listeners.
 
 4. Editorial Principles and Sources (1509 Venice Print & Vatican Manuscript)
 ----------------------------------------------------------------------------
 
-The primary purpose of this 1889 edition was first to render readable again the archaic text of the 1509 Venice edition—which had become almost unreadable through scribal and typographical abbreviations of every kind—while correcting obvious printing corruptions in the mathematical letters and numbers, and second to provide a critical German translation and mathematical commentary using the methods of modern geometry.
+The primary purpose of this 1889 edition was first to render readable again the archaic text of the 1509 Venice edition—which had become almost unreadable through scribal and typographical abbreviations of every kind—while correcting obvious printing corruptions in the mathematical letters and numbers, and second to provide a critical German translation and mathematical commentary using the methods of modern geometry, so that **Leonardo da Vinci**'s polyhedral constructions may once again inspire contemporary artists, architects, and engineers.
 
-The copy of the 1509 Venice edition (*Paganinus de Paganinis de Brixia*) used as the basis of this work belongs to the library of the **k. k. Österreichisches Museum für Kunst und Industrie** in Vienna, kindly placed at the editor's disposal by the late Director Hofrat Rudolf von Eitelberger; in doubtful passages, the illuminated manuscript in the **Vatican Library** (*Cod. Vat. Lat. 3129*) was also consulted.
+The copy of the 1509 Venice edition (**Paganino de' Paganini**, *Paganinus de Paganinis de Brixia*) used as the basis of this work belongs to the library of the **k. k. Österreichisches Museum für Kunst und Industrie** in Vienna, kindly placed at the editor's disposal by the late Director Hofrat **Rudolf von Eitelberger**; in doubtful passages, the illuminated manuscript in the **Vatican Library** (*Cod. Vat. Lat. 3129*) was also consulted.
+
+.. rubric:: Winterberg's Footnotes to the Introduction (*Einleitung*, pp. 1–15)
+
+1. **Footnote 1 (p. 2)**: **Guillaume Libri**, *Histoire des sciences mathématiques en Italie*, Vol. III.
+2. **Footnote 2 (p. 2)**: **Jean-Étienne Montucla**, *Histoire des mathématiques*.
+3. **Footnote 3 (p. 2)**: **Giorgio Vasari**, *Vite de' più eccellenti pittori, scultori, e architettori*.
+4. **Footnote 4 (p. 4)**: **Adolf Zeising**, *Neue Lehre von den Proportionen des menschlichen Körpers* (Leipzig, 1854).
+5. **Footnote 5 (p. 5)**: Unless a misprint in the 1509 Venice edition (`"in ogibilibus"`) is to be assumed and read as `"in agibilibus"` (compare Compendio Chapter LIV and Architectura Chapter XIX).
+6. **Footnote 6 (p. 9)**: **Constantin Winterberg**, *"Das Malerbuch Lionardo da Vinci's"*, in *Jahrbücher der königlich preussischen Kunstsammlungen* (1887).
+7. **Footnote 7 (p. 9)**: If by $a, b$ and $a', b'$ we understand not numerical magnitudes, but pairs of linear forces meeting at an angle, and by $c, c'$ their resultants in magnitude and direction, then the composition of the latter two yields a new resultant force $c + c'$, and so forth.
+8. **Footnote 8 (p. 11)**: **Niccolò Tartaglia**, *General Trattato di Numeri et Misure* (*General-Trattato di Matematiche*, Venice, 1556–1560).
 """
 
 
-WINTERBERG_INTRO_DE = """.. rubric:: Vorwort (Karlsruhe i. B., März 1889)
+WINTERBERG_INTRO_DE = """.. rubric:: Reihentitelblatt (*Quellenschriften für Kunstgeschichte*, Wien, 1889)
+
+*Quellenschriften für Kunstgeschichte und Kunsttechnik des Mittelalters und der Neuzeit*, mit Unterstützung des österreichischen k. k. Ministeriums für Cultus und Unterricht im Vereine mit Fachgenossen begründet von **Rudolf Eitelberger von Edelberg**, fortgesetzt von **Albert Ilg**. Neue Folge, II. Band: **Fra Luca Pacioli**, *Divina Proportione: Die Lehre vom Goldenen Schnitt*, nach der Venezianischen Ausgabe vom Jahre 1509 neu herausgegeben, übersetzt und erläutert von **Constantin Winterberg** (Wien: Verlag von **Carl Graeser**, Hofbuchdruckerei **Carl Fromme**, 1889).
+
+----
+
+.. rubric:: Vorwort (Karlsruhe i. B., März 1889)
 
 Die Bestrebungen der Neuzeit gingen, wie bekannt, schon längst darauf aus, den verloren gegangenen technischen Grundlagen, welche insbesondere bei der malerischen Composition der Meisterwerke aus der Zeit der Renaissance stets wiederkehren, auf den Grund zu kommen, um so wiederum auf die Kunst der Gegenwart anregend zu wirken. Durch sorgfältige Veröffentlichung der schriftlichen Ueberlieferungen hervorragender Meister jener Periode der Lösung dieser Aufgabe näher getreten zu sein, ist das grosse Verdienst der *„Quellenschriften für Kunstgeschichte und Kunsttechnik des Mittelalters und der Neuzeit“*.
 
 In der That sind es gerade die technischen Tractate, welchen das unverdiente Schicksal zu Theil ward, entweder unbenutzt und theilweise verschollen in den Bibliotheken Italiens zu vermodern, oder wenn etwa in früheren Jahrhunderten publicirt, dem heutigen Verständniss so fern zu stehen, dass nur Wenige sich mit ihrem Studium befassen. Das gilt insbesondere von den Pacioli'schen Tractaten der *„Divina Proportione“* und dem *„Libellus de quinque corporibus regularibus“*. Als wissenschaftliche Werke unbedeutend, besteht ihr Hauptwerth vielmehr darin, dass sie, im engsten Zusammenhang mit den Bedürfnissen der künstlerischen Praxis entstanden, ein bedeutendes Licht auf die Art der Anwendung mathematischer Disciplinen in den bildenden Künsten insbesondere zur Zeit des ersten Aufschwunges der Frührenaissance werfen. Die vorerwähnten Uebelstände: die schwerfällige veraltete Ausdrucksweise, dazu die oft kaum zu entziffernden Abkürzungen, welche die noch vorhandene aus dem Anfang des 16. Jahrhunderts datirende Ausgabe dieser beiden Werke kennzeichnet, erklären, warum dieselben unter den ausübenden Künstlern bisher so gut wie verschollen geblieben, abgesehen davon, dass das Studium der nur in wenig Exemplaren auf einzelnen Bibliotheken befindlichen Tractate nur schwer zu ermöglichen war.
 
-Diesen Mangel durch die vorliegende neue Ausgabe zum Theil wenigstens zu beseitigen, durch dieselbe einen neuen Beitrag zum Verständniss des künstlerischen Schaffens einer grossen Zeit zu liefern und den Manen des hochverehrten Hofrath von Eitelberger, welcher neben seinem Freunde Heinrich Ludwig in Rom die erste Anregung dazu gegeben, den Tribut seiner Dankbarkeit weihen zu dürfen, gereicht dem Herausgeber dieses zu besonderer Genugthuung.
+Diesen Mangel durch die vorliegende neue Ausgabe zum Theil wenigstens zu beseitigen, durch dieselbe einen neuen Beitrag zum Verständniss des künstlerischen Schaffens einer grossen Zeit zu liefern und den Manen des hochverehrten **Hofrath von Eitelberger**, welcher neben seinem Freunde **Heinrich Ludwig** in Rom die erste Anregung dazu gegeben, den Tribut seiner Dankbarkeit weihen zu dürfen, gereicht dem Herausgeber dieses zu besonderer Genugthuung.
 
 *Karlsruhe i. B., März 1889 — Constantin Winterberg*
 
@@ -94,25 +119,25 @@ Diesen Mangel durch die vorliegende neue Ausgabe zum Theil wenigstens zu beseiti
 1. Pacioli, Piero della Francesca und Lionardo da Vinci
 -------------------------------------------------------
 
-Unter den wenigen Schriften aus der Frührenaissance, welche von technisch-mathematischen Disciplinen handeln, soweit sie mit der künstlerischen Praxis in Beziehung stehen, dürfte keine das Interesse des Historikers wie des Fachmannes so sehr verdienen, als die ihrer Zeit vielgenannten Tractate Pacioli's. Enthält doch selbst das grösste und bedeutendste Werk aus jener Zeit, Lionardo da Vinci's *Malerbuch*, im Wesentlichen Nichts als kurz aneinandergereihte Notizen ohne innern Zusammenhang, über alle möglichen Hilfswissenschaften der Malerei sich erstreckend, woraus die wissenschaftliche Bedeutung des grossen Meisters in keiner Weise genügend hervorgeht. Etwas anderes ist es mit den Schriften Pacioli's, die im Gegensatz dazu trotz aller sonstigen Mängel doch ein fertig durchgearbeitetes Ganze bilden, von um so grösserem Interesse, als sie, wie bekannt, im ersten Anschluss an die künstlerischen Bedürfnisse jener Zeit entstanden, der eine von den fünf regelmässigen Körpern sogar seine Autorschaft nicht von Pacioli, sondern von Piero della Francesca, also einem wirklichen Künstler, ableitet. Erst beim Lesen dieser Schriften gewinnt man einen vollen Einblick in die grossen Schwierigkeiten, welche sich damals selbst bei einfacheren Problemen der Geometrie den Künstlern darboten, und man kann nicht genug die Einsicht und Energie bewundern, mit welcher die hervorragendsten unter ihnen sich unablässig bemüht, mit den mangelhaften wissenschaftlichen Mitteln, wie sie vom Alterthum her überkommen, die für ihre Zwecke nothwendigen Fragen zu erledigen.
+Unter den wenigen Schriften aus der Frührenaissance, welche von technisch-mathematischen Disciplinen handeln, soweit sie mit der künstlerischen Praxis in Beziehung stehen, dürfte keine das Interesse des Historikers wie des Fachmannes so sehr verdienen, als die ihrer Zeit vielgenannten Tractate Pacioli's. Enthält doch selbst das grösste und bedeutendste Werk aus jener Zeit, **Lionardo da Vinci**'s *Malerbuch*, im Wesentlichen Nichts als kurz aneinandergereihte Notizen ohne innern Zusammenhang, über alle möglichen Hilfswissenschaften der Malerei sich erstreckend, woraus die wissenschaftliche Bedeutung des grossen Meisters in keiner Weise genügend hervorgeht. Etwas anderes ist es mit den Schriften Pacioli's, die im Gegensatz dazu trotz aller sonstigen Mängel doch ein fertig durchgearbeitetes Ganze bilden, von um so grösserem Interesse, als sie, wie bekannt, im ersten Anschluss an die künstlerischen Bedürfnisse jener Zeit entstanden, der eine von den fünf regelmässigen Körpern (*Libellus de quinque corporibus regularibus*) sogar seine Autorschaft nicht von Pacioli, sondern von **Piero della Francesca**, also einem wirklichen Künstler, ableitet. Erst beim Lesen dieser Schriften gewinnt man einen vollen Einblick in die grossen Schwierigkeiten, welche sich damals selbst bei einfacheren Problemen der Geometrie den Künstlern darboten, und man kann nicht genug die Einsicht und Energie bewundern, mit welcher die hervorragendsten unter ihnen sich unablässig bemüht, mit den mangelhaften wissenschaftlichen Mitteln, wie sie vom Alterthum her überkommen, die für ihre Zwecke nothwendigen Fragen zu erledigen.
 
-Fra Luca Pacioli, dem Franziskanerorden angehörig, ist zu Borgo San Sepolcro geboren, demselben im Toscanischen Apennin gelegenen Flecken, wo auch der vorerwähnte Piero della Francesca das Licht der Welt erblickte. Die Resultate seiner Studien finden sich in seinem Hauptwerke der *„Summa de arithmetica“* (1494) niedergelegt. Das Werk dürfte deswegen auch von praktischem Interesse sein, als sich darin ausser dem algebraischen ein von Geometrie handelnder Abschnitt findet, wo insbesondere von den Proportionen die Rede ist, unter denen speciell den stetigen die grössere Brauchbarkeit zuerkannt und eine Reihe darauf bezüglicher Sätze abgeleitet wird, die in der That weniger aus theoretischer Speculation als aus praktischem Bedürfnisse hervorgegangen scheinen. Da der goldene Schnitt darin als specieller Fall auftritt, so scheint das auf einen gewissen Zusammenhang mit der *„Divina proportione“* hinzudeuten.
+**Fra Luca Pacioli**, dem Franziskanerorden angehörig, ist nach **Libri** (*Histoire des sciences mathématiques en Italie*, III) zu Borgo San Sepolcro geboren, demselben im Toscanischen Apennin gelegenen Flecken, wo auch der vorerwähnte **Piero della Francesca** das Licht der Welt erblickte. Nach **Montucla** (*Histoire des mathématiques*) habe er auf Befehl seiner Vorgesetzten Reisen in den Orient gemacht, wo er vielleicht mit der arabischen Wissenschaft näher vertraut ward. Die Resultate seiner Studien finden sich in seinem Hauptwerke der *„Summa de arithmetica“* (1494) niedergelegt. Das Werk dürfte deswegen auch von praktischem Interesse sein, als sich darin ausser dem algebraischen ein von Geometrie handelnder Abschnitt findet, wo insbesondere von den Proportionen die Rede ist, unter denen speciell den stetigen die grössere Brauchbarkeit zuerkannt und eine Reihe darauf bezüglicher Sätze abgeleitet wird, die in der That weniger aus theoretischer Speculation als aus praktischem Bedürfnisse hervorgegangen scheinen. Da der goldene Schnitt darin als specieller Fall auftritt, so scheint das auf einen gewissen Zusammenhang mit der *„Divina proportione“* hinzudeuten.
 
-Pacioli stand nämlich, wie berichtet wird (Vasari, *Vite*), mit den hervorragendsten Künstlern seiner Zeit in wissenschaftlichem Verkehr. Von Piero della Francesca, seinem älteren Landsmanne, heisst es insbesondere, dass dieser ihn in den mathematischen Disciplinen unterrichtet habe, und selbst der gefeierte Lionardo da Vinci verschmähte es nicht, zur *Divina proportione* die Figuren zu entwerfen. Es sind dieselben Zeichnungen der fünf regelmässigen und aus diesen durch Abschneiden der Ecken oder pyramidale Erhöhung der Flächen abgeleiteten Körper, die sich bei späteren Autoren von Tractaten über Perspective wiederholen. Vielfach spricht ausserdem Pacioli selbst von seinen freundschaftlichen Beziehungen zu beiden Meistern. Piero insbesondere bezeichnet er in der Einleitung des dem Herzog Guidobaldo von Urbino gewidmeten Hauptwerkes als *„il monarca alli tempi nostri della pictura“*, während im Tractate vom goldenen Schnitt die freundschaftlichen Beziehungen zu Lionardo mehrfach betont und dessen *Cenacolo*, wie auch die leider nur im Modell vollendete Reiterstatue des Herzogs von Mailand unter den Meisterwerken jener Zeit genannt werden. Aus diesem lebendigen Verkehr von Theorie und Praxis, von Wissenschaft und Kunst gingen wesentlich wohl jene beiden Tractate hervor, die nicht sowohl als Resultate theoretischer Forschung anzusehen sind, als vielmehr vorwiegend praktischen Zwecken des ausübenden Künstlers ihre Entstehung verdanken.
+Pacioli stand nämlich, wie berichtet wird (**Vasari**, *Vite*), mit den hervorragendsten Künstlern seiner Zeit in wissenschaftlichem Verkehr. Von **Piero della Francesca**, seinem älteren Landsmanne, heisst es insbesondere, dass dieser ihn in den mathematischen Disciplinen unterrichtet habe, und selbst der gefeierte **Lionardo da Vinci** verschmähte es nicht, zur *Divina proportione* die Figuren zu entwerfen. Es sind dieselben Zeichnungen der fünf regelmässigen und aus diesen durch Abschneiden der Ecken oder pyramidale Erhöhung der Flächen abgeleiteten Körper, die sich bei späteren Autoren von Tractaten über Perspective wiederholen. Vielfach spricht ausserdem Pacioli selbst von seinen freundschaftlichen Beziehungen zu beiden Meistern. Piero insbesondere bezeichnet er in der Einleitung des dem Herzog **Guidobaldo** von Urbino gewidmeten Hauptwerkes als *„il monarca alli tempi nostri della pictura“*, während im Tractate vom goldenen Schnitt die freundschaftlichen Beziehungen zu Lionardo mehrfach betont und dessen *Cenacolo*, wie auch die leider nur im Modell vollendete Reiterstatue des Herzogs **Francesco Sforza** von Mailand unter den Meisterwerken jener Zeit genannt werden. Aus diesem lebendigen Verkehr von Theorie und Praxis, von Wissenschaft und Kunst gingen wesentlich wohl jene beiden Tractate hervor, deren erster, *De divina proportione*, dem Herzog **Ludovico Sforza**, genannt *il Moro*, gewidmet ist.
 
 2. Der Goldene Schnitt, Vitruv's Harmonische Verhältnisse und Aesthetischer Rhythmus
 ------------------------------------------------------------------------------------
 
-Der kurze Tractat über Architektur steht sachlich ziemlich ausser Zusammenhang mit dem ersten Theil, es sei denn, dass man einen solchen annimmt, wie Libri (*Histoire des sciences mathématiques*, III) darin zu erkennen glaubt. Derselbe sagt nämlich, indem er von der *Divina proportione* spricht, Pacioli habe darin nachweisen wollen, wie jene Proportion, welche man auch als goldenen Schnitt benennt, in den Gliederungen aller wohlgebildeten menschlichen Gestalten ebenso wie in den Gebilden der Kunst, der Architektur insbesondere sich finde, und überall da wiederkehren müsse, wo etwas Schönes entstehen solle, so dass sogar die Buchstaben des Alphabets dieser Regel entsprechend zu construiren seien. Nun ist aber das, was Pacioli in jenem Tractat über Architektur von der menschlichen Gestalt sagt, im Wesentlichsten nichts als eine Wiederholung der Vitruv'schen Angaben, und das Gleiche lässt sich auch hinsichtlich der Säulenordnungen behaupten, umsomehr als der Autor selber keinen Hehl daraus macht. Bei Vitruv aber, und ebenso bei allen Architekten der Renaissance, die wie Serlio von ihm geschöpft, spielt nicht der goldene Schnitt, sondern vielmehr das auf Grund der musikalischen Accorde abgeleitete harmonische Zahlenverhältniss die Hauptrolle. Was endlich das Alphabet betrifft, so ist dasselbe nebst den vom Autor gegebenen constructiven Bestimmungen am Ende des Tractates hinzugefügt, wonach sich Jeder selber überzeugen kann, inwieweit nach dieser Seite die Ansicht Libri's motivirt erscheint.
+Der kurze Tractat über Architektur (*Tractato de l'Architectura*) steht sachlich ziemlich ausser Zusammenhang mit dem ersten Theil, es sei denn, dass man einen solchen annimmt, wie **Libri** (*Histoire des sciences mathématiques en Italie*, III) darin zu erkennen glaubt. Derselbe sagt nämlich, indem er von der *Divina proportione* spricht, Pacioli habe darin nachweisen wollen, wie jene Proportion, welche man auch als goldenen Schnitt benennt, in den Gliederungen aller wohlgebildeten menschlichen Gestalten ebenso wie in den Gebilden der Kunst, der Architektur insbesondere sich finde, und überall da wiederkehren müsse, wo etwas Schönes entstehen solle, so dass sogar die Buchstaben des Alphabets dieser Regel entsprechend zu construiren seien. Nun ist aber das, was Pacioli in jenem Tractat über Architektur von der menschlichen Gestalt sagt, im Wesentlichsten nichts als eine Wiederholung der Angaben **Vitruv**'s (*De Architectura*), und das Gleiche lässt sich auch hinsichtlich der Säulenordnungen behaupten, umsomehr als der Autor selber keinen Hehl daraus macht. Bei **Vitruv** aber, und ebenso bei allen Architekten der Renaissance, die wie **Alberti** und **Serlio** von ihm geschöpft, spielt nicht der goldene Schnitt, sondern vielmehr das auf Grund der musikalischen Accorde abgeleitete harmonische Zahlenverhältniss die Hauptrolle. Was endlich das Alphabet betrifft, so ist dasselbe nebst den vom Autor gegebenen constructiven Bestimmungen am Ende des Tractates hinzugefügt, wonach sich Jeder selber überzeugen kann, inwieweit nach dieser Seite die Ansicht **Libri**'s motivirt erscheint.
 
-Gleichwohl steht fest und geht aus den im Tractat selber gelegentlich verstreuten Bemerkungen hervor, dass Pacioli, wenn er auch den goldenen Schnitt nicht als Basis eines allgemein giltigen Natur- und Kunstprincipes auffasst, doch dessen Bedeutung beiweitem überschätzt: nach seinen Ergebnissen zeigen sich nicht nur die fünf regulären, sondern überhaupt alle möglichen durch Abschneiden der Ecken und so fort daraus erhaltenen Modificationen dem goldenen Schnitt direct oder indirect bezüglich ihrer Formverhältnisse unterworfen. Ja er denkt sich seine Theorie des Ueberganges von den einfacheren zu den complicirteren, d. h. von einer grösseren und grösseren Flächenzahl umgrenzten Körpern, die sich durch Eckenabschneiden aus jenen ergeben, gleichsam als Ersatzmittel für die Differentialrechnung, um auf diese Art zu allen möglichen krummflächig begrenzten Körpern zu gelangen (*in agibilibus*).
+Gleichwohl steht fest und geht aus den im Tractat selber gelegentlich verstreuten Bemerkungen hervor, dass Pacioli, wenn er auch den goldenen Schnitt nicht als Basis eines allgemein giltigen Natur- und Kunstprincipes auffasst, doch dessen Bedeutung beiweitem überschätzt: nach seinen Ergebnissen zeigen sich nicht nur die fünf regulären, sondern überhaupt alle möglichen durch Abschneiden der Ecken und so fort daraus erhaltenen Modificationen dem goldenen Schnitt direct oder indirect bezüglich ihrer Formverhältnisse unterworfen. Ja er denkt sich seine Theorie des Ueberganges von den einfacheren zu den complicirteren, d. h. von einer grösseren und grösseren Flächenzahl umgrenzten Körpern, die sich durch Eckenabschneiden aus jenen ergeben, gleichsam als Ersatzmittel für die Differentialrechnung, um auf diese Art zu allen möglichen krummflächig begrenzten Körpern zu gelangen (*in agibilibus*, im Druck von 1509 *„in ogibilibus“*). Ausserdem versäumt er keine Gelegenheit, Architekten und Bildhauern die praktische Anwendung der regulären Körper zu empfehlen, so dass selbst **Phidias**, der grösste Meister der Antike, dieselben anzuwenden nicht unterlassen habe.
 
-Erst in der Mitte dieses Jahrhunderts ward durch Adolf Zeising (*Neue Lehre von den Proportionen des menschlichen Körpers*) der Gegenstand von neuem aufgenommen und der goldene Schnitt nicht nur als morphologisches Princip der Naturgebilde, sondern auch als ästhetisches Grundprincip alles Kunstschaffens aufgefasst. Aber mit Recht bemerkt Harless, dass auch jede beliebige andere stetige Proportion durch fortgesetzte lineare Theilung zu demselben Resultate bezüglich empirischer Mittelwerthe führen müsse.
+Wie denn **Euklid** im Wesentlichen bereits alles das bekannt war, was Pacioli über die *Divina proportione* beibringt, lassen sich alle darin enthaltenen Sätze als nothwendige Folgerungen aus der Definition selbst ableiten. Erst in der Mitte dieses Jahrhunderts ward durch **Adolf Zeising** (*Neue Lehre von den Proportionen des menschlichen Körpers*, 1854) der Gegenstand von neuem aufgenommen und der goldene Schnitt nicht nur als morphologisches Princip der Naturgebilde, sondern auch als ästhetisches Grundprincip alles Kunstschaffens aufgefasst, um einen sogenannten *Kanon* der menschlichen Gestalt zu construiren. In der That haben die Messungen **Zeising**'s und die darnach vorgenommenen Constructionen normaler menschlicher Figuren (cfr. unter Anderen **Brocheneck**, *Die männliche und weibliche Normalgestalt*) ergeben, dass die Verhältnisse des goldenen Schnittes den wirklichen Naturformen ebensowohl wie den besten Bildungen der antiken Kunst sich mit relativ unbedeutenden Abweichungen anschliessen. Aber mit Recht bemerkt **Emil Harless** (*Lehrbuch der plastischen Anatomie*), dass auch jede beliebige andere stetige Proportion durch fortgesetzte lineare Theilung zu demselben Resultate bezüglich empirischer Mittelwerthe führen müsse, ohne dass der einen vor der anderen darum der Vorzug gebührt, ob wir mit **Carl Gustav Carus** (*Die Proportionslehre der menschlichen Gestalt*) von der Wirbelsäule aus die natürliche Gliederung der Form suchen, oder wie **Carl Schmidt** (*Proportionsschlüssel*) eine an sich ganz willkürliche geometrische Construction zu Grunde legen, oder wie **Adolphe Quetelet** (*Anthropométrie*) und nach ihm **J. J. Trost** (*Die Proportionslehre Dürer's*) nach dem Princip der Wahrscheinlichkeitsrechnung rein empirisch verfahren.
 
 Anders verhält es sich aber mit der **ästhetischen Wirkung**, welche nach diesem Princip gegliederte Formen dem Beschauer erzeugen:
 
 1. Soll das Auge bei der Betrachtung eines Gegenstandes die Empfindung von gesetzmässiger Gliederung seiner Theile empfangen, so ist in erster Linie erforderlich, dass das fragliche Gesetz möglichst einfach sei, um sich auf den ersten Blick als einen bestimmten **Rhythmus** zum Bewusstsein zu bringen.
-2. Von Proportionen im allgemeinsten Sinne sind zweierlei: **arithmetische** und **geometrische** zu unterscheiden. Die einfachste Form für Reihen der ersten Art ist die, wo nur zwei Anfangsglieder $a$ und $b$ anzunehmen sind, aus denen die folgenden durch die Relationen $c = a + b$, $d = b + c$, $e = c + d$ u. s. f. abgeleitet werden. Jeder solchen Reihe liegt ein organisches Princip zu Grunde, welches sagt, dass aus zwei schwächeren ein stärkeres, oder umgekehrt aus diesem zwei schwächere hervorgehen, wie beim Baumwuchs.
+2. Von Proportionen im allgemeinsten Sinne sind zweierlei: **arithmetische** und **geometrische** zu unterscheiden. Die einfachste Form für Reihen der ersten Art ist die, wo nur zwei Anfangsglieder $a$ und $b$ anzunehmen sind, aus denen die folgenden durch die Relationen $c = a + b$, $d = b + c$, $e = c + d$ u. s. f. abgeleitet werden. Jeder solchen Reihe liegt, wie schon in **Constantin Winterberg**'s Abhandlung *„Das Malerbuch Lionardo da Vinci's“* (*Jahrbücher der königlich preussischen Kunstsammlungen*, 1887) hervorgehoben, ein organisches Princip zu Grunde, welches sagt, dass aus zwei schwächeren ein stärkeres, oder umgekehrt aus diesem zwei schwächere hervorgehen, wie beim Baumwuchs oder bei der Zusammensetzung zweier sich unter einem Winkel begegnenden linearen Kräfte zu einer neuen Mittelkraft.
 3. Dagegen würde das Auge die Gleichheit zweier unzusammenhängender geometrischer Verhältnisse $\\frac{a}{b}$ und $\\frac{c}{d}$ zwischen vier auf derselben Linie aneinanderstossenden Stücken $a, b, c, d$ nicht ohne weiteres übersehen. Erst wenn diese Lücke durch die Bestimmung ausgefüllt wird, dass das Verhältniss von $\\frac{b}{a}$ gleich dem Nachbarverhältniss $\\frac{c}{b}$ sein soll, wie bei **stetigen Proportionen**, ist ein fortlaufender Vergleich und somit eine Erkenntniss des Rhythmus möglich.
 4. Tritt ferner zu dieser einfachsten dem Auge stets kenntlichen geometrischen Proportion $\\frac{b}{a} = \\frac{c}{b}$ die Bedingung, dass zwischen den drei Grössen $a, b, c$ auch das arithmetische Verhältniss $a + b = c$ stattfinden soll, so ergibt sich dadurch das, was als **goldener Schnitt** bezeichnet wird, während zugleich die doppelte Beziehung, welche unter je dreien seiner Glieder stattfindet, dem Auge unmittelbar und ohne weitere Hilfsmittel klar wird.
 
@@ -121,15 +146,28 @@ Anders verhält es sich aber mit der **ästhetischen Wirkung**, welche nach dies
 
 Dem Inhalte nach zerfällt der Tractat in vier Gruppen:
 
-1. **Elementare Sätze über den goldenen Schnitt (Cap. I–XXIII)**: Eine Reihe elementarer Sätze über den goldenen Schnitt, wobei hinsichtlich der Beweise auf die betreffenden Stellen Euklid's verwiesen wird; die meisten dieser Sätze sind im Anhang (**Anmerkungen 1–9**) kurz mathematisch erläutert.
-2. **Geometrische Construction der fünf regulären Körper (Cap. XXIV–XXXIV)**: Beschäftigt sich mit der geometrischen Construction der fünf regulären Körper in der Kugel und dem Nachweis, dass im Gegensatze zur unendlichen Zahl regulärer Polygone nur fünf entsprechende Körperformen existiren (**Anmerkungen 10–14**).
-3. **Gegenseitige Einbeschreibungen und abhängige Körper (Cap. XXXV–LV)**: Es werden die gegenseitigen Ein- oder Umschreibungen besagter Körper discutirt, wobei Pacioli den schon von **Tartaglia** (*General Trattato di Matematiche*) gerügten Fehler begeht, eine Anzahl von Fällen mit Stillschweigen zu übergehen, ja in einem Falle—der Einschreibung des Oktaeders ins Ikosaeder (Cap. XLVI)—unter Beibringung mysteriöser platonischer Gründe den Nachweis versucht, dass dieser Fall unmöglich sei (**Anmerkung 15**). Es schien darum im Interesse der Sache nothwendig, die Gesammtheit aller **21 möglichen Fälle** gegenseitiger Einbeschreibungen auf Grund der Theorie von **Pol und Polare** im Anhang (**Anmerkung 17**) kurz zu erledigen. Als Schluss dieses Theiles behandelt der Inhalt die „abhängigen“ abgeschnittenen und erhöhten Körper (**Anmerkung 16**).
-4. **Kugel, Prismen, Pyramiden und Inhaltsbestimmungen (Cap. LVI–LXXI)**: Die letzte Gruppe gibt die Deduction der Inhaltsbestimmungen von Prismen, Cylindern, ganzen und abgestumpften Pyramiden und Kegeln sowie den Nachweis, warum die Pyramide genau den dritten Theil des Volumens vom Prisma gleicher Grundfläche und Höhe ergeben müsse.
+1. **Elementare Sätze über den goldenen Schnitt (Cap. I–XXIII)**: Eine Reihe elementarer Sätze über den goldenen Schnitt, wobei hinsichtlich der Beweise auf die betreffenden Stellen **Euklid**'s verwiesen wird; die meisten dieser Sätze sind im Anhang (**Anmerkungen 1–9**) kurz mathematisch erläutert.
+2. **Geometrische Construction der fünf regulären Körper (Cap. XXIV–XXXIV)**: Beschäftigt sich neben dem Lehrsatze des **Pythagoras** und den Sehnen- und Tangentensätzen des Kreises bei **Euklid** mit der geometrischen Construction der fünf regulären Körper in der Kugel und dem Nachweis, dass im Gegensatze zur unendlichen Zahl regulärer Polygone nur fünf entsprechende Körperformen existiren (**Anmerkungen 10–14**).
+3. **Gegenseitige Einbeschreibungen und abhängige Körper (Cap. XXXV–LV)**: Es werden die zwölf Probleme gegenseitiger Ein- oder Umschreibungen besagter Körper aus dem fünfzehnten Buche **Euklid**'s und seines Vorgängers **Campanus** discutirt, wobei Pacioli den schon von **Niccolò Tartaglia** (*General-Trattato di Matematiche*) gerügten Fehler begeht, eine Anzahl von Fällen mit Stillschweigen zu übergehen, ja in einem Falle—der Einschreibung des Oktaeders ins Ikosaeder (Cap. XLVI)—unter Beibringung mysteriöser Gründe der Lehre **Platon**'s von den vier Elementen und der fünften Himmelskraft den Nachweis versucht, dass dieser Fall unmöglich sei (**Anmerkung 15**). Doch schon **Tartaglia** bewies die Haltlosigkeit dieser Ansicht mit weit klareren und kürzeren Beweismethoden und fügte zwei neue Fälle—die Einschreibung des Ikosaeders in den Kubus (die auch im *Libellus* des **Piero della Francesca** vorkommt) und den von Pacioli geleugneten Fall—hinzu. Es schien darum im Interesse der Sache nothwendig, die Gesammtheit aller **21 möglichen Fälle** gegenseitiger Einbeschreibungen auf Grund der Theorie von **Pol und Polare** im Anhang (**Anmerkung 17**) kurz zu erledigen. Als Schluss dieses Theiles behandelt der Inhalt die „abhängigen“ abgeschnittenen und erhöhten Körper (**Anmerkung 16**).
+4. **Kugel, Prismen, Pyramiden und Inhaltsbestimmungen (Cap. LVI–LXXI)**: Die letzte Gruppe gibt die Deduction der Inhaltsbestimmungen von Prismen, Cylindern, ganzen und abgestumpften Pyramiden und Kegeln sowie den Nachweis, warum die Pyramide genau den dritten Theil des Volumens vom Prisma gleicher Grundfläche und Höhe ergeben müsse, als Vorbereitung für die im folgenden Tractat, dem *Libellus*, enthaltenen Probleme.
+
+Schon die Zeitgenossen—insbesondere **Annibale Caro** (*Apologia*)—bezeichneten Pacioli's weitschweifige, halb latinisirte Schreibweise in wenig schmeichelhafter Art als *„Ceneraccio“* (Aschenlauge, Schmutzbrühe); doch erklärt sich die Einschaltung unterhaltender Episoden daraus, dass sich der dem Herzog **Ludovico Sforza** von Mailand gewidmete Tractat formell als ein vor Fürsten, hohen Herren, Künstlern und Technikern gehaltener mündlicher Vortrag darstellt.
 
 4. Textgrundlage (Venezianische Ausgabe 1509 & Vatikanisches Manuscript)
 ------------------------------------------------------------------------
 
-Die Neuausgabe der *Divina proportione* stellte sich zunächst den Zweck, den alterthümlichen, durch Abkürzungen aller Art fast ungeniessbar gewordenen Text der früheren Ausgabe wieder lesbar zu machen und zugleich die sachlichen Mängel und Ungenauigkeiten zu berichtigen. Das der Bearbeitung zu Grunde gelegte Exemplar der Ausgabe von 1509 gehört der Bibliothek des **k. k. Oesterreichischen Museums** in Wien an, von welcher es vom verstorbenen Director Hofrath v. Eitelberger gütigst zur Verfügung gestellt worden. Daneben wurde gelegentlich bei zweifelhaften Stellen das Manuscript der **Vaticana** (*Cod. Vat. Lat. 3129*) zu Rathe gezogen.
+Die Neuausgabe der *Divina proportione* stellte sich zunächst den Zweck, den alterthümlichen, durch Abkürzungen aller Art fast ungeniessbar gewordenen Text der früheren Ausgabe (**Paganino de' Paganini**, Venedig 1509) wieder lesbar zu machen, zugleich die sachlichen Mängel und Ungenauigkeiten zu berichtigen, und durch die Zeichnungen **Lionardo da Vinci**'s sowie die Hilfsmittel der neueren Geometrie anregend auf den heutigen Künstler, Techniker, Ingenieur und Architekten zu wirken. Das der Bearbeitung zu Grunde gelegte Exemplar der Ausgabe von 1509 gehört der Bibliothek des **k. k. Oesterreichischen Museums für Kunst und Industrie** in Wien an, von welcher es vom verstorbenen Director **Hofrath v. Eitelberger** gütigst zur Verfügung gestellt worden. Daneben wurde gelegentlich bei zweifelhaften Stellen das Manuscript der **Vaticana** (*Cod. Vat. Lat. 3129*) zu Rathe gezogen.
+
+.. rubric:: Fussnoten zur Einleitung (Winterberg 1889, S. 1–15)
+
+1. **Fussnote 1 (S. 2)**: **Guillaume Libri**, *Histoire des sciences mathématiques en Italie*, III.
+2. **Fussnote 2 (S. 2)**: **Jean-Étienne Montucla**, *Histoire des mathématiques*.
+3. **Fussnote 3 (S. 2)**: **Giorgio Vasari**, *Vite*.
+4. **Fussnote 4 (S. 4)**: **Adolf Zeising**, *Neue Lehre von den Proportionen des menschlichen Körpers* etc. (Leipzig, 1854).
+5. **Fussnote 5 (S. 5)**: Wenn nicht etwa ein Druckfehler (*„in ogibilibus“*) anzunehmen und zu lesen *„in agibilibus“* (vgl. die betreffende Stelle des Textes, Cap. LIV und Arch. Cap. XIX).
+6. **Fussnote 6 (S. 9)**: **Constantin Winterberg**, *„Das Malerbuch Lionardo da Vinci's“* in *Jahrbücher der königlich preussischen Kunstsammlungen*, 1887.
+7. **Fussnote 7 (S. 9)**: Versteht man unter $a, b$, $a', b'$ nicht Zahlengrössen, sondern je zwei sich unter einem Winkel begegnende lineare Kräfte, unter $c, c'$ deren Resultanten nach Grösse und Richtung, so ergibt die Zusammensetzung der zwei letzteren eine neue Mittelkraft, u. s. f.
+8. **Fussnote 8 (S. 11)**: **Niccolò Tartaglia**, *General-Trattato di Matematiche* (*General Trattato di Numeri et Misure*).
 """
 
 
@@ -732,16 +770,74 @@ Die sämmtlichen überhaupt möglichen **20 oder genauer 21 Fälle** dieser Art 
 
 # Additional brief textual footnotes by Winterberg on individual chapters
 WINTERBERG_CHAPTER_FOOTNOTES: Dict[Tuple[str, int], List[Tuple[str, str]]] = {
+    ("compendio", 1): [
+        (
+            "Winterberg Footnote 1 (Cap. I, p. 171): In the 1509 Italian text, read *quanto* instead of *quarto*.",
+            "Winterberg Fussnote 1 (Cap. I, S. 171): *Text l. quanto statt quarto.*",
+        )
+    ],
+    ("compendio", 2): [
+        (
+            "Winterberg Footnote 1 (Cap. II, TOC p. 166 & p. 176): *La Teberina* (*Tyberiadis*)—a treatise by Bartolus of Sassoferrato on the alluvial deposits caused by the flooding of the Tiber.",
+            "Winterberg Fussnote 1 (Cap. II, Inh. S. 166): *Ein Werk über die Tiberüberschwemmung.*",
+        ),
+        (
+            "Winterberg Footnote 2 (Cap. II, p. 176): Pacioli calls Euclid 'the Megarian philosopher' (*Euclide Megarense*)—throughout erroneously confusing the Socratic philosopher Euclid of Megara with the mathematician Euclid of Alexandria who lived in Egypt.",
+            "Winterberg Fussnote 2 (Cap. II, S. 176): *Durchgehends fälschlich anstatt des in Aegypten lebenden Mathematikers gleichen Namens angegeben.*",
+        ),
+    ],
+    ("compendio", 3): [
+        (
+            "Winterberg Footnote 1 (Cap. III, p. 179): Supply the verb *exclude* (*scil. ausschliessen*) regarding those who admit only athreefold division of the mathematical sciences.",
+            "Winterberg Fussnote 1 (Cap. III, S. 179): *scil. ausschliessen.*",
+        )
+    ],
+    ("compendio", 4): [
+        (
+            "Winterberg Footnote 1 (Cap. IV, p. 180): By the *power* (*potentia*) of a line, Pacioli means its *square* (*Quadrat*).",
+            "Winterberg Fussnote 1 (Cap. IV, S. 180): *Quadrat.*",
+        )
+    ],
+    ("compendio", 5): [
+        (
+            "Winterberg Footnote 1 (Cap. V, p. 181): By the product $ab \\cdot bc$ ('contained under the whole and lesser part'), Euclid and Pacioli mean the *rectangle* (*Rechteck*), in contrast to the product multiplied by the cosine of the angle of inclination, which corresponds to the area of an oblique parallelogram.",
+            "Winterberg Fussnote 1 (Cap. V, S. 181): *D. i. Rechteck im Gegensatze zu dem mit dem cos. des Neigungswinkels zu multiplicirenden Producte, welches dem Inhalt eines schiefwinkeligen Parallelogramms entspricht.*",
+        )
+    ],
+    ("compendio", 25): [
+        (
+            "Winterberg Footnote 1 (Cap. XXV, p. 214): Namely, each regular solid can be accurately inscribed in the others (*scil. der eine lässt sich genau in den andern einbeschreiben*).",
+            "Winterberg Fussnote 1 (Cap. XXV, S. 214): *scil. der eine lässt sich genau in den andern einbeschreiben.*",
+        )
+    ],
     ("compendio", 26): [
         (
-            "Winterberg Footnote 1 (Cap. XXVI, p. 216): Compare Chapter LXXI on the technical term *corausto* (the slant edge of the pyramid).",
-            "Winterberg Fussnote 1 (Cap. XXVI, S. 216): *cfr. Cap. LXXI.*",
+            "Winterberg Footnotes 1–3 (Cap. XXVI, pp. 215–216): (1) Instead of the term 'edge' (*Kante*), Pacioli frequently uses the synonymous designation 'side' (*lato / Seite*). (2) Namely, the diameter of the circumscribed sphere (*scil. der umbeschriebenen*). (3) Compare Chapter LXXI on the technical term *corausto* (the slant edge of the pyramid).",
+            "Winterberg Fussnoten 1–3 (Cap. XXVI, S. 215–216): *1) Statt des Ausdrucks „Kante“ kehrt häufig die dasselbe besagende Bezeichnung „Seite“ wieder. 2) scil. der umbeschriebenen. 3) cfr. Cap. LXXI.*",
         )
     ],
     ("compendio", 28): [
         (
             "Winterberg Footnote 1 (Cap. XXVIII, p. 218): Compare Chapter LXXI on the technical term *cono* (the apex of the pyramid).",
             "Winterberg Fussnote 1 (Cap. XXVIII, S. 218): *cfr. Cap. LXXI.*",
+        )
+    ],
+    ("compendio", 29): [
+        (
+            "Winterberg Footnotes 1–5 (Cap. XXIX, pp. 219–221): (1) When the total length of a line divided in extreme and mean ratio is rational, its segments are always irrational (apotomes), which gave rise to Euclid's classification of the *minor* irrational line (:just:`X.76`, :just:`XIII.16`). (2) A rational diameter—one whose length itself or whose square is rational. (3) *Catheti*, i.e., perpendiculars; compare Chapter LXXI on the technical terms occurring here. (4) Namely, equal to the radius $bd$ of the circle. (5) *In potentia*, i.e., in their second power (square).",
+            "Winterberg Fussnoten 1–5 (Cap. XXIX, S. 219–221): *1) Wenn die ganze Länge der stetig zu theilenden Linie rational ist, so werden die Abschnitte stets irrational sein, was zu obiger heute nicht mehr gebräuchlicher Benennung Veranlassung gegeben. 2) scil. dessen Länge selbst oder deren Quadrat rational sei. 3) scil. Senkrechten; über die hier und im Folgenden vorkommenden Benennungen cfr. Cap. LXXI. 4) scil. dem Radius bd des Kreises gleich. 5) d. h. ihrer zweiten Potenz.*",
+        )
+    ],
+    ("compendio", 30): [
+        (
+            "Winterberg Footnotes 1–4 (Cap. XXX, pp. 222–224): (1) Mathematical abbreviations are introduced occasionally here and in the following chapters for clearer overview. (2) Namely, because of the similarity of the two triangles $ksh$ and $qrh$ following from the proportion, since the sum of the two adjacent angles plus the dihedral angle enclosed by the two cube faces equals $180^\\circ$. (3) For brevity, the expression 'continuous division' (*stetige Theilung*) is used for Pacioli's 'proportion having a mean and two extremes'. (4) Compare Chapter LXXI.",
+            "Winterberg Fussnoten 1–4 (Cap. XXX, S. 222–224): *1) Es sei erlaubt, hier und im Folgenden einige mathematische Abkürzungen der bessern Uebersicht wegen gelegentlich anzubringen. 2) scil. wegen der aus obiger Proportion folgenden Aehnlichkeit der beiden Dreiecke ksh und qrh, da die Summe der beiden anstossenden Winkel plus dem durch die beiden Kubusflächen eingeschlossenen zusammen gleich 180° sind. 3) Der Kürze wegen ist hier und im Folgenden dieser Ausdruck für den gleichbedeutenden: „nach der Proportion, die einen mittlern und zwei äussere Abschnitte hat“ gesetzt worden. 4) cfr. Cap. LXXI.*",
+        )
+    ],
+    ("compendio", 31): [
+        (
+            "Winterberg Footnotes 1–5 (Cap. XXXI, pp. 225–226): (1) Namely, $bd^2$. (2) That is, its square equals five times the square of the radius of the circle in which the pentagons of the icosahedron were described (compare Chapter XXIX, :just:`XIII.16`). (3) Namely, the icosahedron. (4) Namely, of the sphere diameter (:just:`VI.8` Corollary, :just:`XIII.18`). (5) Namely, the regular tetrahedron.",
+            "Winterberg Fussnoten 1–5 (Cap. XXXI, S. 225–226): *1) scil. bd². 2) D. h. sein Quadrat ist gleich dem fünffachen Quadrat des Radius desjenigen Kreises, in welchem die Pentagone beschrieben wurden (cfr. Cap. XXIX). 3) scil. Ikosaeder. 4) scil. vom Kugeldurchmesser. 5) scil. reguläre Tetraeder.*",
         )
     ],
     ("compendio", 33): [
@@ -762,16 +858,76 @@ WINTERBERG_CHAPTER_FOOTNOTES: Dict[Tuple[str, int], List[Tuple[str, str]]] = {
             "Winterberg Fussnote 1 (Cap. XLI, S. 231): *Unter dieser Bezeichnung ist im Folgenden stets das dreiseitige reguläre Tetraeder verstanden.*",
         )
     ],
+    ("compendio", 46): [
+        (
+            "Winterberg Footnote 1 (Cap. XLVI, p. 234): For the cube inscribed in the icosahedron, the 8 vertices of the cube must fall at the centroids of 8 of the 20 triangular faces of the icosahedron (via the inscribed dodecahedron of Chapter XLIV).",
+            "Winterberg Fussnote 1 (Cap. XLVI, S. 234): *Die Ecken des Würfels müssen in die Mitte der Dreiecksfläche des Ikosaeders fallen (zuf. Cap. XLIV).*",
+        )
+    ],
     ("compendio", 48): [
         (
             "Winterberg Footnotes 1–3 (Cap. XLVIII, p. 238): (1) The clause 'equiangular' refers to the regular hexagons produced by trisecting the edges. (2) Compare Chapter LXXI on *corausto*. (3) Here and in the following chapters on elevated bodies, Pacioli always assumes pyramids bounded by equilateral triangles of the same edge length.",
             "Winterberg Fussnoten 1–3 (Cap. XLVIII, S. 238): *1) Dieser Zusatz ist natürlich auf die Hexagone zu beziehen. 2) cfr. Cap. LXXI. 3) Es werden hier wie im Folgenden stets Körper von gleicher Kantenlänge vorausgesetzt.*",
         )
     ],
+    ("compendio", 50): [
+        (
+            "Winterberg Footnote 1 (Cap. L, p. 239): Instead of 'solid angle' (*angulo solido* / *körperlicher Winkel*), the synonymous shorter term 'vertex' (*Ecke*) is preferred.",
+            "Winterberg Fussnote 1 (Cap. L, S. 239): *Statt „körperlicher Winkel“ ist der gleichbedeutende „Ecke“ als der kürzere meist vorgezogen.*",
+        )
+    ],
+    ("compendio", 53): [
+        (
+            "Winterberg Footnotes 1–2 (Cap. LIII, p. 243): (1) Compare Chapter LXXI. (2) Namely, the 8 edges of the regular octagon lying in the same plane—a construction that can also be found by purely elementary geometry without the 'profound science' presupposed by the author.",
+            "Winterberg Fussnoten 1–2 (Cap. LIII, S. 243): *1) cfr. Cap. LXXI. 2) scil. welche in derselben Ebene liegen, was übrigens auch ohne die vom Autor vorausgesetzten „tiefen Kenntnisse“ auf rein elementarem Wege zu finden ist.*",
+        )
+    ],
+    ("compendio", 54): [
+        (
+            "Winterberg Footnotes 1–3 (Cap. LIV, pp. 244–245): (1) Namely, generated from the truncated hexahedron (cuboctahedron), so that the truncation operation is repeated twice on the ordinary cube. (2) Pacioli's remark on elevating the 72-base body requires modification, since the faces of the 72-base body are no longer equilateral polygons and therefore cannot support equilateral triangular pyramids of equal edge length. (3) Namely, the 72-faced body (*72-Flächner*).",
+            "Winterberg Fussnoten 1–3 (Cap. LIV, S. 244–245): *1) scil. aus dem abgeschnittenen Hexaeder; die Operation des Abschneidens wiederholt sich also zweimal beim gewöhnlichen Kubus. 2) Dies scheint insofern wenigstens nicht zutreffend und einer Modification zu bedürfen, als die Längen der Seitenkanten ihrer Pyramiden nicht mehr den bisherigen Anforderungen entsprechen können, indem ihre Grundflächen selbst keine gleichseitigen Figuren sind. 3) scil. 72-Flächner.*",
+        )
+    ],
+    ("compendio", 57): [
+        (
+            "Winterberg Footnote 1 (Cap. LVII, p. 249): Point $d$, which is missing in the 1509 woodcut diagram (Folio 0050, ``0050.g1.png``), must be conceived in the initial plane from which the rotation of the semicircle begins.",
+            "Winterberg Fussnote 1 (Cap. LVII, S. 249): *Punkt d, welcher in der Zeichnung fehlt, muss in der Ebene gedacht werden, von wo die Drehung beginnt.*",
+        )
+    ],
+    ("compendio", 59): [
+        (
+            "Winterberg Footnote 1 (Cap. LIX, p. 251): Compare the second marginal diagram on p. 106 (Paganini Folio 0051, ``0051.g2.png``).",
+            "Winterberg Fussnote 1 (Cap. LIX, S. 251): *cfr. 2. Fig. pag. 106.*",
+        )
+    ],
     ("compendio", 60): [
         (
-            "Winterberg Footnote 1 (Cap. LX, p. 253): Compare the marginal prism diagrams on p. 107 (Paganini Folio 0052, ``0052.g1.png``–``0052.g3.png``).",
-            "Winterberg Fussnote 1 (Cap. LX, S. 253): *vgl. Fig. pag. 107.*",
+            "Winterberg Footnotes 1–2 (Cap. LX, p. 253): (1) Compare the marginal prism diagrams on p. 107 (Paganini Folio 0052, ``0052.g1.png``–``0052.g3.png``). (2) In the 1509 TOC (p. 168), *elmuhaym* and *elmuariffe* denote the rhombus and rhomboid/trapezium.",
+            "Winterberg Fussnoten 1–2 (Cap. LX, S. 253, Inh. S. 168): *1) vgl. Fig. pag. 107. *) Rhombus und Rhomboide.*",
+        )
+    ],
+    ("compendio", 61): [
+        (
+            "Winterberg Footnote 1 (Cap. LXI, p. 255): Rendering *simili* literally as 'similar' here would give a false sense; Pacioli means 'uniform / homogeneous' (*gleichartig*).",
+            "Winterberg Fussnote 1 (Cap. LXI, S. 255): *simili = ähnlich, würde einen falschen Sinn geben.*",
+        )
+    ],
+    ("compendio", 62): [
+        (
+            "Winterberg Footnotes 1–4 (Cap. LXII, pp. 256–257): (1) Namely, solid bodies (*scil. Körper*). (2) Compare the marginal figures on pp. 104 and 108 (Paganini Folios 0051–0053). (3) Compare the first figure on p. 110 (Paganini Folio 0053, ``0053.g2.png``). (4) Supply the missing verb 'proved' (*bewiesen*) in Pacioli's sentence on Archimedes's quadrature of the circle.",
+            "Winterberg Fussnoten 1–4 (Cap. LXII, S. 256–257): *1) scil. Körper. 2) vgl. die Figuren pag. 104 und 108. 3) vgl. 1. Fig. pag. 110. 4) Das im Text fehlende Verbum „bewiesen“ zu ergänzen.*",
+        )
+    ],
+    ("compendio", 63): [
+        (
+            "Winterberg Footnote 1 (Cap. LXIII, p. 258): Compare the second figure on p. 110 (Paganini Folio 0053, ``0053.g3.png``).",
+            "Winterberg Fussnote 1 (Cap. LXIII, S. 258): *vgl. 2. Fig. pag. 110.*",
+        )
+    ],
+    ("compendio", 64): [
+        (
+            "Winterberg Footnotes 1–2 (Cap. LXIV, p. 260): (1) The marginal cone diagram (Paganini Folio 0054, ``0054.g1.png``) is placed alongside for clarity. (2) Namely, directed (*gerichtet sein*) from the apex to the center of the circular base.",
+            "Winterberg Fussnoten 1–2 (Cap. LXIV, S. 260): *1) Des Verständnisses wegen ist die nebenstehende Figur hinzugefügt. 2) D. h. gerichtet sein.*",
         )
     ],
     ("compendio", 65): [
@@ -780,16 +936,76 @@ WINTERBERG_CHAPTER_FOOTNOTES: Dict[Tuple[str, int], List[Tuple[str, str]]] = {
             "Winterberg Fussnote 1 (Cap. LXV, S. 262): *Gerade Pyramide.*",
         )
     ],
+    ("compendio", 66): [
+        (
+            "Winterberg Footnotes 1–2 (Cap. LXVI, p. 263): (1) That is, according to the numerical value of its volume (*dem Zahlenwerthe ihres Inhalts nach*), since $\\pi$ is irrational, even though geometrically the cone is exactly $\\frac{1}{3}$ of the cylinder (:just:`XII.10`). (2) Namely, given numerical data (*scil. Daten*).",
+            "Winterberg Fussnoten 1–2 (Cap. LXVI, S. 263): *1) d. i. dem Zahlenwerthe ihres Inhalts nach. 2) scil. Daten.*",
+        )
+    ],
+    ("compendio", 69): [
+        (
+            "Winterberg Footnote 1 (Cap. LXIX, p. 268): Namely, Your Ducal Highness (*scil. Hoheit*, Ludovico Maria Sforza).",
+            "Winterberg Fussnote 1 (Cap. LXIX, S. 268): *scil. Hoheit.*",
+        )
+    ],
+    ("compendio", 71): [
+        (
+            "Winterberg Footnote 1 (Cap. LXXI, p. 274): Namely, regular polyhedra (*scil. reguläre*).",
+            "Winterberg Fussnote 1 (Cap. LXXI, S. 274): *scil. reguläre.*",
+        )
+    ],
+    ("architectura", 0): [
+        (
+            "Winterberg Footnotes 1–2 (Arch. Prohemio, pp. 287, 289): (1) *San Rocco* (Saint Roch)—referring to the architectural works in Venice (Church / Scuola Grande di San Rocco) where Giovan Marco Canozi da Lendinara was active. (2) *By the King* (*dal Re*)—namely, King Ferrante I (Ferdinand I) of Naples, as is clear from the preceding sentence on the wars between the houses of Anjou and Aragon.",
+            "Winterberg Fussnoten 1–2 (Arch. Widmung, S. 287, 289): *1) San Rocco. 2) Von Neapel, wie aus dem Vorigen hervorgeht.*",
+        )
+    ],
+    ("architectura", 2): [
+        (
+            "Winterberg Footnote 1 (Arch. Cap. II, p. 299): By *quadro* here Pacioli means a right-angled *rectangle* (*Rechteck*), partitioned by parallel lines.",
+            "Winterberg Fussnote 1 (Arch. Cap. II, S. 299): *Rechteck.*",
+        )
+    ],
+    ("architectura", 3): [
+        (
+            "Winterberg Footnotes 1–5 (Arch. Cap. III, pp. 301–303): (1) Namely, equal to the distance from the chin to the base of the nostrils (*vom Kinn bis zum Nasenstachel*). (2) Namely, in breadth (*scil. Breite*). (3) The cubit (*cubito*)—from the elbow joint to the tip of the middle finger. (4) Square (*Quadrat*, $4^2 = 16$). (5) Biquadrate / fourth power (*Biquadrat*, $16^2 = 256$).",
+            "Winterberg Fussnoten 1–5 (Arch. Cap. III, S. 301–303): *1) D. h. wie der Abstand vom Kinn bis zum Nasenstachel. 2) scil. Breite. 3) d. h. vom Ellbogengelenk bis zur Mittelfingerspitze. 4) Quadrat. 5) Biquadrat.*",
+        )
+    ],
     ("architectura", 5): [
         (
-            "Winterberg Footnote 1 (Arch. Cap. V, p. 306): Compare Chapter LIX of the preceding treatise (*Compendio*) on the circular base and shaft.",
-            "Winterberg Fussnote 1 (Arch. Cap. V, S. 306): *cfr. Cap. LIX des vorigen Tractats.*",
+            "Winterberg Footnotes 1–3 (Arch. Cap. V, pp. 305–306): (1) Compare the column plate at the end of the treatise (Paganini Folio 0213, ``0213.g1.png``). (2) Instead of the nonsensical reading *'immedietate'* in the 1509 print, read *'immediate'* ('immediately'). (3) Compare Chapter LIX of the preceding treatise (*Compendio*) on the circular base and shaft.",
+            "Winterberg Fussnoten 1–3 (Arch. Cap. V, S. 305–306): *1) Vgl. die betreffende Figur am Ende des Tractats. 2) Statt des keinen Sinn gebenden Ausdrucks „immedietate“ wohl „immediate“ zu lesen. 3) cfr. Cap. LIX des vorigen Tractats.*",
         )
     ],
     ("architectura", 6): [
         (
-            "Winterberg Footnote 1 (Arch. Cap. VI, p. 308): Namely, the geometric letters of the Roman Alphabet (*scil. die Buchstaben*) in Appendix I.",
-            "Winterberg Fussnote 1 (Arch. Cap. VI, S. 308): *scil. die Buchstaben.*",
+            "Winterberg Footnotes 1–2 (Arch. Cap. VI, pp. 307–308): (1) Compare the *Porta Speciosa* and Column plates at the end of the treatise (Paganini Folios 0185 and 0213). (2) Namely, the geometric letters of the Roman Alphabet (*scil. die Buchstaben*) in Appendix I.",
+            "Winterberg Fussnoten 1–2 (Arch. Cap. VI, S. 307–308): *1) Vgl. die betreffende Figur am Ende des Tractats. 2) scil. die Buchstaben.*",
+        )
+    ],
+    ("architectura", 7): [
+        (
+            "Winterberg Footnotes 1–2 (Arch. Cap. VII, pp. 309–310): (1) *Baladere* (*ballatoio*)—literally, the uppermost gallery or deck. (2) In the 1509 Italian text, read *poco* ('little') instead of *però*.",
+            "Winterberg Fussnoten 1–2 (Arch. Cap. VII, S. 309–310): *1) Baladere eigentlich: oberstes Verdeck. 2) Text soll poco statt però heissen.*",
+        )
+    ],
+    ("architectura", 8): [
+        (
+            "Winterberg Footnote 1 (Arch. Cap. VIII, p. 313): Namely, the monolithic twisted columns (*scil. Säulen*) in St. Peter's in Rome, said to have been brought from Solomon's Temple in Jerusalem.",
+            "Winterberg Fussnote 1 (Arch. Cap. VIII, S. 313): *scil. Säulen.*",
+        )
+    ],
+    ("architectura", 11): [
+        (
+            "Winterberg Footnotes 1–2 (Arch. Cap. XI, p. 316): (1) Namely, the geometric figures in Euclid (*scil. die geometrischen Formen im Euklid*). (2) Read *rimasi* for the dialectal form *romase*.",
+            "Winterberg Fussnoten 1–2 (Arch. Cap. XI, S. 316): *1) scil. die geometr. Formen im Euklid. 2) romase wohl rimasi.*",
+        )
+    ],
+    ("architectura", 12): [
+        (
+            "Winterberg Footnotes 1–2 (Arch. Cap. XII, p. 318): (1) Pacioli writes *tygraphi* for Vitruvius's *triglyphi* (triglyphs). (2) In the 1509 print, read *tecto* ('roof') instead of *lecto* ('bed').",
+            "Winterberg Fussnoten 1–2 (Arch. Cap. XII, S. 318): *1) Tygraphen = Triglyphen. 2) Text l. tecto st. lecto.*",
         )
     ],
     ("architectura", 14): [

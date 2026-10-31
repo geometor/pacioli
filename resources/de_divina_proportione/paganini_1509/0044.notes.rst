@@ -4,9 +4,9 @@ Folio 0044 (f. 14v) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0043.rst``): Folio f. 14r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XLV, Cap. XLVI, Cap. XLVII, Cap. XLVIII (f. 14r) — Del modo aformare el :term:`tetracedron <tetrahedron>` nello :term:`ycocedron <icosahedron>`.
-- **Current Folio** (``0044.rst``): Folio f. 14v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. XLVIII, Cap. XLIX, Cap. L (f. 14v) — Dela forma edispositione del :term:`tetracedron <tetrahedron>` piano solido o
-- **Following Folio** (``0045.rst``): Folio f. 15r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. L, Cap. LI, Cap. LII (f. 15r) — Delo :term:`octocedron <octahedron>` piano solido o ver vacuo e absciso soli
+- **Preceding Folio** (``0043.rst``): Folio f. 14r (recto), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` — Cap. XLV, Cap. XLVI, Cap. XLVII, Cap. XLVIII (f. 14r) — Del modo aformare el :term:`tetracedron <tetrahedron>` nello :term:`ycocedron <icosahedron>`.
+- **Current Folio** (``0044.rst``): Folio f. 14v (verso), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` [``01_compendio``] — Cap. XLVIII, Cap. XLIX, Cap. L (f. 14v) — Dela forma edispositione del :term:`tetracedron <tetrahedron>` piano solido o
+- **Following Folio** (``0045.rst``): Folio f. 15r (recto), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` — Cap. L, Cap. LI, Cap. LII (f. 15r) — Delo :term:`octocedron <octahedron>` piano solido o ver vacuo e absciso soli
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -21,7 +21,7 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PARS``
 - **Folio Signature / Numeration**: ``f. 14v`` (Scan page ``44``, *verso*)
-- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
+- **Book & Section Slug**: Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
   - **Cap. XLVIII** (``compendio/cap_48``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/048_cap_XLVIII.txt``
   - **Cap. XLIX** (``compendio/cap_49``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/049_cap_XLIX.txt``
@@ -71,4 +71,4 @@ Historical & Mathematical Commentary
   - **Plate XVI** (``0223.rst``): :term:`*Octocedron Abscisum Vacuum* <octahedron>` (Truncated/rectified :term:`octahedron <octahedron>`, skeletal).
   - **Plate XVII** (``0225.rst``): :term:`*Octocedron Elevatum Solidum* <octahedron>` (:term:`**Stella Octangula** <octahedron-elevatum>`, compound of two dual tetrahedra, solid).
   - **Plate XVIII** (``0227.rst``): :term:`*Octocedron Elevatum Vacuum* <octahedron>` (:term:`Stella Octangula <octahedron-elevatum>`, skeletal).
-- **First Depiction of the *:term:`Stella Octangula <octahedron-elevatum>`***: Plates XVII and XVIII (drawn by Leonardo da Vinci in 1497 and printed in 1509) are the earliest known perspective depictions of the **stellated :term:`octahedron <octahedron>`** (later rediscovered by Johannes Kepler in *Harmonices Mundi*, 1619, who named it the *:term:`Stella Octangula <octahedron-elevatum>`*). Because the dihedral angle of an octahedron (:math:`\arccos(-\frac{1}{3}) \approx 109.47^{\circ}`) and the dihedral angle of a regular tetrahedron (:math:`\arccos(\frac{1}{3}) \approx 70.53^{\circ}`) are **supplementary** (:math:`109.47^{\circ} + 70.53^{\circ} = 180^{\circ}`), erecting regular tetrahedra on the 8 faces of a regular :term:`octahedron <octahedron>` makes the faces coplanar across the octahedral edges, forming two interpenetrating large regular tetrahedra of double the edge length!
+- **First Depiction of the *:term:`Stella Octangula <octahedron-elevatum>`***: Plates XVII and XVIII (drawn by Leonardo da Vinci in 1497 and printed in 1509) are the earliest known perspective depictions of the **stellated :term:`octahedron <octahedron>`** (later rediscovered by Johannes Kepler in *:cite:`Harmonices Mundi <kepler:harmonices-mundi>`*, 1619, who named it the *:term:`Stella Octangula <octahedron-elevatum>`*). Because the dihedral angle of an octahedron (:math:`\arccos(-\frac{1}{3}) \approx 109.47^{\circ}`) and the dihedral angle of a regular tetrahedron (:math:`\arccos(\frac{1}{3}) \approx 70.53^{\circ}`) are **supplementary** (:math:`109.47^{\circ} + 70.53^{\circ} = 180^{\circ}`), erecting regular tetrahedra on the 8 faces of a regular :term:`octahedron <octahedron>` makes the faces coplanar across the octahedral edges, forming two interpenetrating large regular tetrahedra of double the edge length!

@@ -35,7 +35,7 @@ You must further note that while the three species of columns—**Ionic**, **Dor
 
 .. rubric:: Verbatim Authority of Vitruvius (Book IV, Chapter 1) on the Origin of the Three Orders and Callimachus's Basket of Acanthus
 
-To confirm our discourse and give you the pleasure of the ancient source, I set down here the exact Latin words of our :person:`**Vitruvius** <vitruvius>` (Book IV, Chapter 1 [cited as Book V by Pacioli]), which may be translated thus:
+To confirm our discourse and give you the pleasure of the ancient source, I set down here the exact Latin words of our :person:`**Vitruvius** <vitruvius>` (Book IV, Chapter 1 [cited as Book V by :person:`Pacioli <pacioli>`]), which may be translated thus:
 
 - **Origin of the Doric Order (:math:`1 : 6`, the Man's Foot)**:
   *"When the Athenians and Ionians, led by Ion son of Xuthus, drove out the Carians and Leleges and named that region Ionia, they began to build temples to the immortal gods. First they erected a temple to Panionian Apollo like those they had seen in Achaia, calling it **Doric** because they had first seen that style in the Dorian cities. Wishing to set up columns in that temple and lacking a rule for their proportions, they sought a ratio that would make them both strong enough to bear the load and pleasing to the sight. **They measured the footprint of a man's foot (*virilis pedis vestigium*) and compared it to his height; finding that in a man the foot is one-sixth (:math:`\frac{1}{6}`) of his height, they transferred this same proportion to the column**, making its height (including the capital) six times the thickness of the shaft at its base. Thus the Doric column began to exhibit in buildings the proportion, strength, and beauty of the male body."*

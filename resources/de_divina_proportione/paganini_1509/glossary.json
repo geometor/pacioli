@@ -524,6 +524,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_50/cap_50_notes",
+        "title": "CHAPTER L — Critical Commentary & Notes",
+        "display": "solid angle"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_53/cap_53_en",
         "title": "CHAPTER LIII",
         "display": "solid angles"
@@ -1203,6 +1209,27 @@
         "doc": "de_divina_proportione/plates/anmerkungen_en",
         "title": "Appendix IV: Winterberg's Mathematical Commentary (1889)",
         "display": "catheti"
+      }
+    ]
+  },
+  "ceneraccio": {
+    "headword": "Ceneraccio",
+    "language": "Italian",
+    "translation": "Ash-Lye Bundle (Annibale Caro's Epithet for Pacioli's Prose Style)",
+    "definition": "Satirical term coined by the humanist Annibale Caro (referring to the coarse cloth bundle of wood-ash used in boiling laundry lye) to describe Fra Luca Pacioli's unpolished, hybrid Latin-Tuscan-Lombard vernacular prose, beneath which precious mathematical and artistic jewels lie hidden (Winterberg Einleitung).",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Ceneraccio"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Ceneraccio"
       }
     ]
   },
@@ -3118,54 +3145,6 @@
       },
       {
         "volume": "volume_I",
-        "folio": "0016",
-        "page": "A6v",
-        "book": "Front Matter and Dedications",
-        "section": "00_front_matter",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0017",
-        "page": "f. 1r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0018",
-        "page": "f. 1v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0019",
-        "page": "f. 2r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0020",
-        "page": "f. 2v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0021",
-        "page": "f. 3r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
         "folio": "0022",
         "page": "f. 3v",
         "book": "Part I: Compendio de Divina Proportione",
@@ -3198,323 +3177,11 @@
       },
       {
         "volume": "volume_I",
-        "folio": "0024",
-        "page": "f. 4v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0025",
-        "page": "f. 5r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0026",
-        "page": "f. 5v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0027",
-        "page": "f. 6r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0028",
-        "page": "f. 6v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0029",
-        "page": "f. 7r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0030",
-        "page": "f. 7v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0031",
-        "page": "f. 8r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0032",
-        "page": "f. 8v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0033",
-        "page": "f. 9r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0034",
-        "page": "f. 9v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0035",
-        "page": "f. 10r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0036",
-        "page": "f. 10v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0037",
-        "page": "f. 11r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0038",
-        "page": "f. 11v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0039",
-        "page": "f. 12r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0040",
-        "page": "f. 12v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0041",
-        "page": "f. 13r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0042",
-        "page": "f. 13v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
         "folio": "0042",
         "page": "f. 13v",
         "book": "Part I: Compendio de Divina Proportione",
         "section": "01_compendio",
         "display": "Divine Proportion"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0043",
-        "page": "f. 14r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0044",
-        "page": "f. 14v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0045",
-        "page": "f. 15r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0046",
-        "page": "f. 15v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0047",
-        "page": "f. 16r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0048",
-        "page": "f. 16v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0049",
-        "page": "f. 17r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0050",
-        "page": "f. 17v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0051",
-        "page": "f. 18r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0052",
-        "page": "f. 18v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0053",
-        "page": "f. 19r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0054",
-        "page": "f. 19v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0055",
-        "page": "f. 20r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0056",
-        "page": "f. 20v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0057",
-        "page": "f. 21r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0058",
-        "page": "f. 21v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0059",
-        "page": "f. 22r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0060",
-        "page": "f. 22v",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0061",
-        "page": "f. 23r",
-        "book": "Part I: Compendio de Divina Proportione",
-        "section": "01_compendio",
-        "display": "Divina Proportione"
-      },
-      {
-        "volume": "volume_I",
-        "folio": "0062",
-        "page": "f. 23v",
-        "book": "Part II: Tractato de l'Architectura",
-        "section": "02_architectura",
-        "display": "Divina Proportione"
       }
     ],
     "work_occurrences": [
@@ -3720,25 +3387,19 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/intro/intro_de",
         "title": "Winterbergs Vorwort und Einleitung (1889)",
-        "display": "Divina proportione"
+        "display": "Divina Proportione"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Divina Proportione"
       },
       {
         "work": "divina_proportione",
         "doc": "de_divina_proportione/plates/anmerkungen_de",
         "title": "Anhang IV: Sachliche Anmerkungen (Winterberg 1889)",
         "display": "Divina proportione"
-      },
-      {
-        "work": "divina_proportione",
-        "doc": "modules/api/geometor/pacioli/extraction/index",
-        "title": "geometor.pacioli.extraction",
-        "display": "Divina Proportione"
-      },
-      {
-        "work": "divina_proportione",
-        "doc": "modules/api/geometor/pacioli/index",
-        "title": "geometor.pacioli",
-        "display": "Divina Proportione"
       }
     ]
   },
@@ -5795,7 +5456,14 @@
         "display": "elmuhaym"
       }
     ],
-    "work_occurrences": []
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_60/cap_60_notes",
+        "title": "CHAPTER LX — Critical Commentary & Notes",
+        "display": "elmuhaym"
+      }
+    ]
   },
   "epistilio": {
     "headword": "epistilio / architrave",
@@ -6875,6 +6543,12 @@
       },
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_54/cap_54_notes",
+        "title": "CHAPTER LIV — Critical Commentary & Notes",
+        "display": "hexahedron"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_55/cap_55_de",
         "title": "CAPITEL LV",
         "display": "Hexaeders"
@@ -7125,6 +6799,12 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_52/cap_52_notes",
         "title": "CHAPTER LII — Critical Commentary & Notes",
+        "display": "cuboctahedron"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_54/cap_54_notes",
+        "title": "CHAPTER LIV — Critical Commentary & Notes",
         "display": "cuboctahedron"
       },
       {
@@ -7994,6 +7674,72 @@
     "definition": "Defined in Euclid II.def.2 and used throughout Compendio Chapters X–XXII ( following Euclid XIII.1–5): the L-shaped figure composed of one of the two parallelograms about the diagonal of a square together with the two complements.",
     "occurrences": [],
     "work_occurrences": []
+  },
+  "goldener-schnitt": {
+    "headword": "Goldener Schnitt (sectio aurea / stetige Proportion)",
+    "language": "German",
+    "translation": "The Golden Section (Continuous / Extreme and Mean Proportion)",
+    "definition": "The nineteenth-century German mathematical and aesthetic term ('Die Lehre vom Goldenen Schnitt') used by Constantin Winterberg and Adolf Zeising for Pacioli's Divina Proportione (x : a = (a - x) : x, where x = a(√5 - 1)/2).",
+    "occurrences": [
+      {
+        "volume": "volume_I",
+        "folio": "0023",
+        "page": "f. 4r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "golden section"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0024",
+        "page": "f. 4v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "golden section"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0025",
+        "page": "f. 5r",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "golden section"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0030",
+        "page": "f. 7v",
+        "book": "Part I: Compendio de Divina Proportione",
+        "section": "01_compendio",
+        "display": "golden section"
+      }
+    ],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_07/cap_07_notes",
+        "title": "CHAPTER VII — Critical Commentary & Notes",
+        "display": "golden section"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_22/cap_22_notes",
+        "title": "CHAPTER XXII — Critical Commentary & Notes",
+        "display": "golden section"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "goldene Schnitt"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "golden section"
+      }
+    ]
   },
   "homo-ad-circulum": {
     "headword": "corpo humano al tondo e al quadro",
@@ -9251,6 +8997,62 @@
     "occurrences": [],
     "work_occurrences": []
   },
+  "in-agibilibus": {
+    "headword": "in agibilibus",
+    "language": "Scholastic Latin",
+    "translation": "In Practical / Moral Matters of Action",
+    "definition": "Scholastic philosophical phrase ('in practical affairs of human action') contrasted with speculative science (in speculabilibus); glossed by Constantin Winterberg in Compendio Chapter LIV, fn. 1.",
+    "occurrences": [
+      {
+        "volume": "volume_I",
+        "folio": "0081",
+        "page": "f. 33r",
+        "book": "Part II: Tractato de l'Architectura",
+        "section": "02_architectura",
+        "display": "in agibilibus"
+      },
+      {
+        "volume": "volume_I",
+        "folio": "0215",
+        "page": "Plate Folio 0215 (recto)",
+        "book": "Appendix II: Polyhedra Plates by Leonardo da Vinci",
+        "section": "05_polyhedra_plates",
+        "display": "in agibilibus"
+      }
+    ],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_19/cap_19_en",
+        "title": "CHAPTER XIX",
+        "display": "in agibilibus"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_19/cap_19_it",
+        "title": "CAPITOLO XIX",
+        "display": "in agibilibus"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "in agibilibus"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "in agibilibus"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/architectural_it",
+        "title": "Appendice II: Tavole d'Architettura e Arbor Proportionis",
+        "display": "in agibilibus"
+      }
+    ]
+  },
   "irrationale": {
     "headword": "irrationale / incommensurabile",
     "language": "Italian / Latin",
@@ -9504,6 +9306,33 @@
     "definition": "A triangle having two equal sides; in particular, the golden isosceles triangle of Euclid IV.10 (with base angles double the vertex angle, 72°–72°–36°), whose legs and base are in the Divine Proportion (Compendio Cap. XVII, LX).",
     "occurrences": [],
     "work_occurrences": []
+  },
+  "kanon": {
+    "headword": "Kanon (κανών / Proportionsschlüssel)",
+    "language": "Greek / German",
+    "translation": "Artistic Canon of Human Proportions",
+    "definition": "Rule or standard system of modular ratios governing the proportions of the human figure in sculpture and painting, from Polykleitos, Phidias, and Vitruvius to Alberti, Leonardo da Vinci, Pacioli, Carus, and Zeising (Winterberg Einleitung).",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_12/cap_12_de",
+        "title": "CAPITEL XII",
+        "display": "Kanon"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Kanon"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "Kanon"
+      }
+    ]
   },
   "linea": {
     "headword": "linea (γραμμή)",
@@ -11001,6 +10830,12 @@
     "work_occurrences": [
       {
         "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_05/cap_05_notes",
+        "title": "CHAPTER V — Critical Commentary & Notes",
+        "display": "parallelogram"
+      },
+      {
+        "work": "divina_proportione",
         "doc": "de_divina_proportione/compendio/cap_58/cap_58_en",
         "title": "CHAPTER LVIII",
         "display": "parallelogram"
@@ -11016,6 +10851,12 @@
         "doc": "de_divina_proportione/compendio/index",
         "title": "Part I: Compendio de Divina Proportione (Chapters I–LXXI)",
         "display": "Parallelogram"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_en",
+        "title": "Winterberg's Critical Introduction (1889)",
+        "display": "parallelogram"
       }
     ]
   },
@@ -11677,6 +11518,21 @@
     "occurrences": [],
     "work_occurrences": []
   },
+  "pol-und-polare": {
+    "headword": "Pol und Polare (reciproke Polarität)",
+    "language": "German",
+    "translation": "Pole and Polar (Projective Reciprocal Polarity)",
+    "definition": "Projective geometric duality with respect to a concentric sphere invoked by Constantin Winterberg (Einleitung and Sachliche Anmerkung 5) to explain how the vertices and tangent face-planes of a circumscribed polyhedron correspond reciprocally to the face-planes and vertices of its dual inscribed polyhedron.",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "Pol und Polare"
+      }
+    ]
+  },
   "porta-speciosa": {
     "headword": "Porta Templi Domini dicta Speciosa",
     "language": "Latin / Italian",
@@ -11721,6 +11577,12 @@
         "work": "divina_proportione",
         "doc": "de_divina_proportione/architectura/cap_06/cap_06_en",
         "title": "CHAPTER VI",
+        "display": "Porta Speciosa"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_06/cap_06_notes",
+        "title": "CHAPTER VI — Critical Commentary & Notes",
         "display": "Porta Speciosa"
       },
       {
@@ -11962,6 +11824,18 @@
         "doc": "de_divina_proportione/compendio/cap_05/cap_05_notes",
         "title": "CHAPTER V — Critical Commentary & Notes",
         "display": "Continuous proportion"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_30/cap_30_de",
+        "title": "CAPITEL XXX",
+        "display": "stetigen Proportion"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/intro/intro_de",
+        "title": "Winterbergs Vorwort und Einleitung (1889)",
+        "display": "stetige Proportion"
       }
     ]
   },
@@ -12843,6 +12717,57 @@
     "definition": "A magnitude commensurable in length or in square (potentia) with an assigned unit line (Euclid X.def.3).",
     "occurrences": [],
     "work_occurrences": []
+  },
+  "reciproke-koerper": {
+    "headword": "reciproke Körper (duale Polyeder)",
+    "language": "German",
+    "translation": "Reciprocal (Dual) Polyhedra",
+    "definition": "Polyhedra standing in projective polar reciprocity to one another with respect to a sphere—specifically the self-dual tetrahedron, the reciprocal cube and octahedron, and the reciprocal icosahedron and dodecahedron (Winterberg Einleitung; Compendio Cap. LV–LVII; Sachliche Anmerkungen 1–5).",
+    "occurrences": [],
+    "work_occurrences": [
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_47/cap_47_notes",
+        "title": "CHAPTER XLVII — Critical Commentary & Notes",
+        "display": "reciproke Körper"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_48/cap_48_notes",
+        "title": "CHAPTER XLVIII — Critical Commentary & Notes",
+        "display": "reciproke Körper"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_49/cap_49_notes",
+        "title": "CHAPTER XLIX — Critical Commentary & Notes",
+        "display": "reciproke Körper"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_50/cap_50_notes",
+        "title": "CHAPTER L — Critical Commentary & Notes",
+        "display": "reciproke Körper"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_51/cap_51_notes",
+        "title": "CHAPTER LI — Critical Commentary & Notes",
+        "display": "reciproke Körper"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/compendio/cap_52/cap_52_notes",
+        "title": "CHAPTER LII — Critical Commentary & Notes",
+        "display": "reciproke Körper"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/plates/anmerkungen_de",
+        "title": "Anhang IV: Sachliche Anmerkungen (Winterberg 1889)",
+        "display": "reciproke Körper"
+      }
+    ]
   },
   "residuo": {
     "headword": "residuo (apotome)",
@@ -17114,6 +17039,12 @@
         "doc": "de_divina_proportione/architectura/cap_12/cap_12_en",
         "title": "CHAPTER XII",
         "display": "triglyphs"
+      },
+      {
+        "work": "divina_proportione",
+        "doc": "de_divina_proportione/architectura/cap_12/cap_12_notes",
+        "title": "CHAPTER XII — Critical Commentary & Notes",
+        "display": "tygraphi"
       },
       {
         "work": "divina_proportione",

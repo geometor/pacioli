@@ -23,7 +23,7 @@ Historical & Mathematical Commentary
 Constantin Winterberg's Commentary (1889 Edition)
 -------------------------------------------------
 
-- :person:`Winterberg <winterberg>` Footnote 1 (Cap. XXXIII, p. 226): Pacioli's traditional Boethian proportion names (:term:`*sesquitertia* <sexquitertia>` = $4:3$, etc.) are retained here for brevity.
+- :person:`Winterberg <winterberg>` Footnote 1 (Cap. XXXIII, p. 226): :person:`Pacioli's <pacioli>` traditional Boethian proportion names (:term:`*sesquitertia* <sexquitertia>` = $4:3$, etc.) are retained here for brevity.
   (:person:`Winterberg <winterberg>` Fussnote 1 (Cap. XXXIII, S. 226): *Der Ausdruck ist hier der Kürze wegen beibehalten = 4:3.*)
 
 

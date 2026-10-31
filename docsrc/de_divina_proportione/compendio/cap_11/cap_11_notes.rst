@@ -12,7 +12,7 @@ CHAPTER XI — Critical Commentary & Notes
 Historical and Philological Commentary
 --------------------------------------
 
-1. **Converse of the First Effect (:cite:`Euclid XIII.2 <euclid:elements:XIII.2>`)**: In :person:`Euclid <euclid>`'s *Elements* Book XIII, Proposition 2 states: "If the square on a straight line be five times the square on a segment of it, then when the double of the said segment is cut in :term:`extreme and mean ratio <extrema-et-media-ratio>`, the greater segment is the remaining part of the original straight line." Pacioli formulates this directly as the converse of Chapter VII/X: if $(a + c)^2 = 5c^2$ where $a + b = 2c$, then $c = \frac{a+b}{2}$ and $a$ is the major golden segment of $a+b$.
+1. **Converse of the First Effect (Euclid XIII.2)**: In :person:`Euclid <euclid>`'s *Elements* Book XIII, Proposition 2 states: "If the square on a straight line be five times the square on a segment of it, then when the double of the said segment is cut in :term:`extreme and mean ratio <extrema-et-media-ratio>`, the greater segment is the remaining part of the original straight line." :person:`Pacioli <pacioli>` formulates this directly as the converse of Chapter VII/X: if $(a + c)^2 = 5c^2$ where $a + b = 2c$, then $c = \frac{a+b}{2}$ and $a$ is the major golden segment of $a+b$.
 
 Philological and Folio Apparatus
 --------------------------------

@@ -4,9 +4,9 @@ Folio 0027 (f. 6r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0026.rst``): Folio f. 5v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. IX, Cap. X, Cap. XI (f. 5v) — Che cosa sia radici de numero e de altra quantità.
-- **Current Folio** (``0027.rst``): Folio f. 6r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. XII, Cap. XIII, Cap. XIV, Cap. XV (f. 6r) — Del terzo suo singulare effecto.
-- **Following Folio** (``0028.rst``): Folio f. 6v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XVI, Cap. XVII, Cap. XVIII (f. 6v) — Del septimo suo inextimabile effecto.
+- **Preceding Folio** (``0026.rst``): Folio f. 5v (verso), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` — Cap. IX, Cap. X, Cap. XI (f. 5v) — Che cosa sia radici de numero e de altra quantità.
+- **Current Folio** (``0027.rst``): Folio f. 6r (recto), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` [``01_compendio``] — Cap. XII, Cap. XIII, Cap. XIV, Cap. XV (f. 6r) — Del terzo suo singulare effecto.
+- **Following Folio** (``0028.rst``): Folio f. 6v (verso), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` — Cap. XVI, Cap. XVII, Cap. XVIII (f. 6v) — Del septimo suo inextimabile effecto.
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -23,7 +23,7 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PRIMA``
 - **Folio Signature / Numeration**: ``f. 6r`` (Scan page ``27``, *recto*)
-- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
+- **Book & Section Slug**: Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
   - **Cap. XII** (``compendio/cap_12``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/012_cap_XII.txt``
   - **Cap. XIII** (``compendio/cap_13``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/013_cap_XIII.txt``
@@ -39,7 +39,7 @@ Cap. XII — On Its Third Singular Effect
 Historical and Philological Commentary
 --------------------------------------
 
-1. **Radical Arithmetic in Chapter XII (Euclid XIII.3)**: Pacioli's step-by-step calculation with apotomes is a tour de force of Renaissance abacus algebra:
+1. **Radical Arithmetic in Chapter XII (Euclid XIII.3)**: :person:`Pacioli's <pacioli>` step-by-step calculation with apotomes is a tour de force of Renaissance abacus algebra:
    - Halving $\sqrt{125}$ requires dividing the radicand by $2^2 = 4$: $\frac{1}{2}\sqrt{125} = \sqrt{\frac{125}{4}} = \sqrt{31\frac{1}{4}}$.
    - Subtracting $\sqrt{125} - \sqrt{31\frac{1}{4}} = 2\sqrt{31\frac{1}{4}} - \sqrt{31\frac{1}{4}} = \sqrt{31\frac{1}{4}}$ gives $b + \frac{a}{2} = (15 - 2\frac{1}{2}) - \sqrt{31\frac{1}{4}} = 12\frac{1}{2} - \sqrt{31\frac{1}{4}}$.
    - Squaring $12\frac{1}{2} - \sqrt{31\frac{1}{4}}$ gives $(12\frac{1}{2})^2 + 31\frac{1}{4} - 2(12\frac{1}{2})\sqrt{31\frac{1}{4}} = 156\frac{1}{4} + 31\frac{1}{4} - \sqrt{625 \times 31\frac{1}{4}} = 187\frac{1}{2} - \sqrt{19531\frac{1}{4}}$.
@@ -55,7 +55,7 @@ Historical and Philological Commentary
 1. **Campanus XIII.4 vs. Heiberg Euclid XIII.5 (Ordering Inversion in Book XIII)**: In :person:`Campanus of Novara <campanus>`'s Latin edition of *Elements* Book XIII, Heiberg's Propositions 4 and 5 are transposed! Specifically:
    - :cite:`**Campanus XIII.4** <campanus:euclid:XIII.4>` (= Heiberg :cite:`Euclid XIII.5 <euclid:elements:XIII.5>`): If a straight line $AB$ is cut in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $C$ (with greater segment $AC$), and $AD = AC$ is added to $AB$, then the whole $BD = AB + AC$ is cut in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $A$, with greater segment $AB$.
    - :cite:`**Campanus XIII.5** <campanus:euclid:XIII.5>` (= Heiberg :cite:`Euclid XIII.4 <euclid:elements:XIII.4>`): If a straight line $AB$ is cut in :term:`extreme and mean ratio <extrema-et-media-ratio>`, the sum of the squares on the whole $AB$ and the lesser segment $BC$ is triple the square on the greater segment $AC$.
-   Pacioli follows :person:`Campanus <campanus>`'s numbering strictly in Chapters XIII and XIV: Chapter XIII gives Heiberg :cite:`Euclid XIII.5 <euclid:elements:XIII.5>` (citing :cite:`*la quarta del terzodecimo* <euclid:elements:XIII.4>`), and Chapter XIV gives Heiberg :cite:`Euclid XIII.4 <euclid:elements:XIII.4>` (citing *la quinta del 13.*).
+   :person:`Pacioli <pacioli>` follows :person:`Campanus <campanus>`'s numbering strictly in Chapters XIII and XIV: Chapter XIII gives Heiberg :cite:`Euclid XIII.5 <euclid:elements:XIII.5>` (citing :cite:`*la quarta del terzodecimo* <euclid:elements:XIII.4>`), and Chapter XIV gives Heiberg :cite:`Euclid XIII.4 <euclid:elements:XIII.4>` (citing *la quinta del 13.*).
 2. **Difference of Squares Identity**: Notice how cleanly the product of the conjugate binomial and :term:`apotome <residuo>` evaluates: $(\sqrt{125} - 5)(\sqrt{125} + 5) = 125 - 25 = 100 = 10^2$.
 
 Cap. XIV — On Its Fifth Marvelous Effect
@@ -66,7 +66,7 @@ Historical and Philological Commentary
 
 1. **Algebraic Identity Behind the Fifth Effect (Euclid XIII.4)**: Since $b(a+b) = a^2$ and $b = (a+b) - a$, we have:
    $$b^2 + (a+b)^2 = b^2 + (a+b)^2 = (a+b)^2 - 2(a+b)b + b^2 + 2(a+b)b = a^2 + 2a^2 = 3a^2$$
-   In Pacioli's single-radical notation, multiplying $\sqrt{12500}$ by $3$ brings $3^2 = 9$ inside the radical: $\sqrt{9 \times 12500} = \sqrt{112500}$.
+   In :person:`Pacioli's <pacioli>` single-radical notation, multiplying $\sqrt{12500}$ by $3$ brings $3^2 = 9$ inside the radical: $\sqrt{9 \times 12500} = \sqrt{112500}$.
 
 Cap. XV — On Its Sixth Inexpressible Effect
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -74,4 +74,4 @@ Cap. XV — On Its Sixth Inexpressible Effect
 Historical and Philological Commentary
 --------------------------------------
 
-1. **Euclid Euclid XIII.6 and Euclid X.73**: Proposition 6 of Book XIII proves that if a rational straight line is cut in :term:`extreme and mean ratio <extrema-et-media-ratio>`, each of the segments is an irrational straight line called an :term:`*apotome* <residuo>` ($\dot{\alpha}\pi\omicron\tau\omicron\mu\acute{\eta}$, defined in :cite:`Euclid X.73 <euclid:elements:X.73>`, :cite:`Campanus X.79 <campanus:euclid:X.79>`). Pacioli calls this the "inexpressible" or "innominable" (*innominabile*) effect because neither segment can ever be named by a rational number when the whole is rational.
+1. **Euclid Euclid XIII.6 and Euclid X.73**: Proposition 6 of Book XIII proves that if a rational straight line is cut in :term:`extreme and mean ratio <extrema-et-media-ratio>`, each of the segments is an irrational straight line called an :term:`*apotome* <residuo>` ($\dot{\alpha}\pi\omicron\tau\omicron\mu\acute{\eta}$, defined in :cite:`Euclid X.73 <euclid:elements:X.73>`, :cite:`Campanus X.79 <campanus:euclid:X.79>`). :person:`Pacioli <pacioli>` calls this the "inexpressible" or "innominable" (*innominabile*) effect because neither segment can ever be named by a rational number when the whole is rational.

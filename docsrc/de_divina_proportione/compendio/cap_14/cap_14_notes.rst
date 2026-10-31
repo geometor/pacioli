@@ -12,9 +12,9 @@ CHAPTER XIV — Critical Commentary & Notes
 Historical and Philological Commentary
 --------------------------------------
 
-1. **Algebraic Identity Behind the Fifth Effect (:cite:`Euclid XIII.4 <euclid:elements:XIII.4>`)**: Since $b(a+b) = a^2$ and $b = (a+b) - a$, we have:
+1. **Algebraic Identity Behind the Fifth Effect (Euclid XIII.4)**: Since $b(a+b) = a^2$ and $b = (a+b) - a$, we have:
    $$b^2 + (a+b)^2 = b^2 + (a+b)^2 = (a+b)^2 - 2(a+b)b + b^2 + 2(a+b)b = a^2 + 2a^2 = 3a^2$$
-   In Pacioli's single-radical notation, multiplying $\sqrt{12500}$ by $3$ brings $3^2 = 9$ inside the radical: $\sqrt{9 \times 12500} = \sqrt{112500}$.
+   In :person:`Pacioli's <pacioli>` single-radical notation, multiplying $\sqrt{12500}$ by $3$ brings $3^2 = 9$ inside the radical: $\sqrt{9 \times 12500} = \sqrt{112500}$.
 
 Constantin Winterberg's Commentary (1889 Edition)
 -------------------------------------------------

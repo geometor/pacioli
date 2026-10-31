@@ -9,7 +9,7 @@ Anhang IV: Sachliche Anmerkungen (Winterberg 1889)
 
 .. rubric:: Mathematischer Kommentar (Anmerkungen 1–17) von Constantin Winterberg (Wien, 1889, S. 338–352)
 
-Vollständiger mathematischer Anhang der siebzehn *Sachlichen Anmerkungen* (S. 338–352) aus Constantin Winterbergs Wiener Ausgabe von 1889 mit wiederhergestellten algebraischen und trigonometrischen Formeln.
+Vollständiger mathematischer Anhang der siebzehn *Sachlichen Anmerkungen* (S. 338–352) aus Constantin :person:`Winterbergs <winterberg>` Wiener Ausgabe von 1889 mit wiederhergestellten algebraischen und trigonometrischen Formeln.
 
 .. _winterberg-note-1-de:
 
@@ -157,7 +157,7 @@ Anmerkung 9 (Cap. XXII, S. 211): Verweis auf den Tractat über die fünf regelm�
 
 **Zugehörige Kapitel**: :ref:`Cap. 22 <compendio-cap_22-en>`
 
-Vgl. hierüber den Tractat über die fünf regelmässigen Körper (*Libellus*, Tract. II, Cas. 20 u. s. w.).
+Vgl. hierüber den :cite:`Tractat über die fünf regelmässigen Körper <piero:libellus>` (*Libellus*, Tract. II, Cas. 20 u. s. w.).
 
 .. _winterberg-note-10-de:
 
@@ -267,9 +267,9 @@ Anmerkung 15 (Cap. XLVI, S. 235): Widerlegung der Behauptung Pacioli's über die
 
 **Zugehörige Kapitel**: :ref:`Cap. 46 <compendio-cap_46-en>`
 
-Die hier ausgesprochene Behauptung ist **offenbar falsch**, denn auf ganz analoge Art wie das :term:`Oktaeder <octahedron>` dem :term:`Dodekaeder <dodecahedron>` sich einbeschreiben lässt, kann es auch dem :term:`Ikosaeder <icosahedron>` eingeschrieben werden. Man braucht sich zu diesem Zweck nur die Mitten je zweier sich parallel gegenüberliegenden Kanten verbunden zu denken. Unter ihnen wird man drei solche als Axenkreuz wählen, welche senkrecht aufeinander stehen, was auf vielfache (fünffache) Art möglich ist. Damit ist zugleich die Lage des :term:`Oktaeders <octahedron>` bestimmt. (Uebrigens hat schon **Tartaglia** im *General-Trattato* diese Ansicht widerlegt.)
+Die hier ausgesprochene Behauptung ist **offenbar falsch**, denn auf ganz analoge Art wie das :term:`Oktaeder <octahedron>` dem :term:`Dodekaeder <dodecahedron>` sich einbeschreiben lässt, kann es auch dem :term:`Ikosaeder <icosahedron>` eingeschrieben werden. Man braucht sich zu diesem Zweck nur die Mitten je zweier sich parallel gegenüberliegenden Kanten verbunden zu denken. Unter ihnen wird man drei solche als Axenkreuz wählen, welche senkrecht aufeinander stehen, was auf vielfache (fünffache) Art möglich ist. Damit ist zugleich die Lage des :term:`Oktaeders <octahedron>` bestimmt. (Uebrigens hat schon :person:`**Tartaglia** <niccolo-tartaglia>` im *General-Trattato* diese Ansicht widerlegt.)
 
-Der Grund, warum Pacioli das Vorhandensein dieser einfachen Thatsache leugnet, scheint aus dem einseitigen Bestreben hervorgegangen zu sein, im Sinne der platonischen Lehre einem unter den fünf Körpern, dem :term:`Dodekaeder <dodecahedron>`, vor allen andern den Vorzug grösster Vollkommenheit zuzuerkennen—eine Anschauung, die sich nach dem Vorherigen als durchaus unhaltbar beweist. Mit mehr Recht würde des Verfassers Annahme als zulässig erscheinen, hätte er als Massstab seines Urtheils nicht die Frage entscheiden lassen, welchem Körper die meisten andern sich einbeschreiben lassen, sondern **welcher Körper sich der Kugel als dem vollkommensten Körper am meisten nähere, wenn sie sämmtlich derselben Kugel einbeschrieben gedacht werden, d. h. welcher die grösste Oberfläche und das grösste Volumen umfasse**? Hierbei stellt sich nämlich, wie leicht nachweisbar, die Entscheidung entschieden zu Gunsten des :term:`Dodekaeders <dodecahedron>`.
+Der Grund, warum :person:`Pacioli <pacioli>` das Vorhandensein dieser einfachen Thatsache leugnet, scheint aus dem einseitigen Bestreben hervorgegangen zu sein, im Sinne der platonischen Lehre einem unter den fünf Körpern, dem :term:`Dodekaeder <dodecahedron>`, vor allen andern den Vorzug grösster Vollkommenheit zuzuerkennen—eine Anschauung, die sich nach dem Vorherigen als durchaus unhaltbar beweist. Mit mehr Recht würde des Verfassers Annahme als zulässig erscheinen, hätte er als Massstab seines Urtheils nicht die Frage entscheiden lassen, welchem Körper die meisten andern sich einbeschreiben lassen, sondern **welcher Körper sich der Kugel als dem vollkommensten Körper am meisten nähere, wenn sie sämmtlich derselben Kugel einbeschrieben gedacht werden, d. h. welcher die grösste Oberfläche und das grösste Volumen umfasse**? Hierbei stellt sich nämlich, wie leicht nachweisbar, die Entscheidung entschieden zu Gunsten des :term:`Dodekaeders <dodecahedron>`.
 
 .. _winterberg-note-16-de:
 
@@ -288,7 +288,7 @@ Die fünf einfachen regulären Körper verhalten sich hinsichtlich der Anzahl ih
 - Der **Kubus** ($12$ Kanten, $8$ Ecken, $6$ Flächen) entspricht dem :term:`**Oktaeder** <octahedron>` ($12$ Kanten, $6$ Ecken, $8$ Flächen) und umgekehrt.
 - Dem :term:`**Ikosaeder** <icosahedron>` ($30$ Kanten, $12$ Ecken, $20$ Seitenflächen) entspricht das :term:`**Dodekaeder** <dodecahedron>` ($30$ Kanten, $20$ Ecken, $12$ Flächen) und umgekehrt.
 
-Aus einem derselben ergibt sich der reciproke Körper auf zweierlei Art:
+Aus einem derselben ergibt sich der :term:`reciproke Körper <reciproke-koerper>` auf zweierlei Art:
 
 1. **Durch Verwandlung der Seitenflächen in Eckpunkte** (Aufsetzen oder Aushöhlen von Pyramiden, indem man deren Spitzen als die Ecken des neuen Körpers betrachtet; wird die Höhe der Pyramiden genau so bemessen, dass die Spitzen sämmtlicher Pyramiden um eine Ecke mit dieser Ecke genau in einer Ebene liegen, so umhüllt der neue Körper diejenige Kugel, welche dem ursprünglichen umschrieben ist).
 2. **Durch Verwandlung der Ecken in Ebenen**, d. h. durch Abschneiden der Ecken bis sich sämmtliche um die Ecken einer Seitenfläche geführten Schnitte im **Schwerpunkt dieser Figur** schneiden, so dass die Seitenflächen in Punkte übergehen (wobei der erhaltene Körper von derjenigen Kugel umhüllt wird, welche dem ursprünglichen Körper einbeschrieben ist).
@@ -300,7 +300,7 @@ Anmerkung 17 (Cap. XXXV–XLVI, S. 345–352): Vollständige Theorie aller 21 ge
 
 **Zugehörige Kapitel**: :ref:`Cap. 35 <compendio-cap_35-en>`, :ref:`Cap. 46 <compendio-cap_46-en>`
 
-Wenn auch Pacioli die Bedeutung der fünf regelmässigen Körper in theoretischer wie in praktischer Hinsicht weit überschätzt, so scheint es gleichwohl von Interesse, auf die Theorie dieses Gegenstandes etwas näher einzugehen, um die Eigenschaften jener Körper in ihrem gegenseitigen Zusammenhange leichter zu verstehen. Es werden hierdurch leicht alle auf die gegenseitige Einbeschreibung bezüglichen Fragen erledigt.
+Wenn auch :person:`Pacioli <pacioli>` die Bedeutung der fünf regelmässigen Körper in theoretischer wie in praktischer Hinsicht weit überschätzt, so scheint es gleichwohl von Interesse, auf die Theorie dieses Gegenstandes etwas näher einzugehen, um die Eigenschaften jener Körper in ihrem gegenseitigen Zusammenhange leichter zu verstehen. Es werden hierdurch leicht alle auf die gegenseitige Einbeschreibung bezüglichen Fragen erledigt.
 
 1. Directe und reciproke Beziehung mittelst Polarität an der Kugel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -321,7 +321,7 @@ Denkt man sich die Kugel vom Radius $R$ allmählich wachsend:
 2. Schema aller 21 möglichen Fälle gegenseitiger Einbeschreibung
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Die sämmtlichen überhaupt möglichen **20 oder genauer 21 Fälle** dieser Art ergeben sich, indem man zunächst nach drei Gruppen ordnet, je nachdem bei der Einschreibung **Ecke auf Ecke**, **Ecke auf Seitenfläche** oder **Ecke auf Kante** fällt. Durch reciproke Uebertragung leitet man sodann aus den zehn hierauf bezüglichen Fällen ebensoviel neue ab, je nachdem **Fläche auf Fläche**, **Fläche auf Ecke** und **Kante in Fläche** fällt (die mit ``*`` bezeichneten sind die im Text Pacioli's bereits erwähnten 12 Fälle):
+Die sämmtlichen überhaupt möglichen **20 oder genauer 21 Fälle** dieser Art ergeben sich, indem man zunächst nach drei Gruppen ordnet, je nachdem bei der Einschreibung **Ecke auf Ecke**, **Ecke auf Seitenfläche** oder **Ecke auf Kante** fällt. Durch reciproke Uebertragung leitet man sodann aus den zehn hierauf bezüglichen Fällen ebensoviel neue ab, je nachdem **Fläche auf Fläche**, **Fläche auf Ecke** und **Kante in Fläche** fällt (die mit ``*`` bezeichneten sind die im Text :person:`Pacioli's <pacioli>` bereits erwähnten 12 Fälle):
 
 .. list-table:: Vollständiges System der gegenseitigen Einbeschreibungen (Winterberg 1889, S. 348)
    :header-rows: 1
@@ -375,7 +375,7 @@ Die sämmtlichen überhaupt möglichen **20 oder genauer 21 Fälle** dieser Art 
 
      - **16.** :term:`Ikosaeder <icosahedron>` im Kubus (*im Libellus behandelt*)
 
-   * - **17.** Oktaeder im Ikosaeder (*von Pacioli geleugnet*)
+   * - **17.** Oktaeder im Ikosaeder (*von :person:`Pacioli <pacioli>` geleugnet*)
 
      - **18.** :term:`Dodekaeder <dodecahedron>` im Kubus
 
@@ -404,6 +404,6 @@ Die sämmtlichen überhaupt möglichen **20 oder genauer 21 Fälle** dieser Art 
 
 - **Dritte Gruppe (15–20)**: Fallen bei den Körpern links Ecken auf Kanten, so fallen bei den reciproken Körpern rechts **Ebenen auf Kanten** (d. h. Kanten in die Seitenflächen):
 
-  - Aus **15** ergibt sich **16 (Ikosaeder im Kubus)**, wobei sechs Ikosaederkanten in die sechs Kubusflächen, und zwar in deren Mittellinien je zwei und zwei parallel fallen, so dass sämmtliche 12 Ecken des :term:`Ikosaeders <icosahedron>` als Endpunkte der Kanten zu je zwei auf den Kubusflächen liegen. Dieser im Text der :term:`*Divina proportione* <divina-proportione>` nicht aufgezählte Fall wird eigenthümlicherweise im *Tractat über die fünf regelmässigen Körper* (*Libellus*) ausdrücklich erwähnt und behandelt!
+  - Aus **15** ergibt sich **16 (Ikosaeder im Kubus)**, wobei sechs Ikosaederkanten in die sechs Kubusflächen, und zwar in deren Mittellinien je zwei und zwei parallel fallen, so dass sämmtliche 12 Ecken des :term:`Ikosaeders <icosahedron>` als Endpunkte der Kanten zu je zwei auf den Kubusflächen liegen. Dieser im Text der :term:`*Divina proportione* <divina-proportione>` nicht aufgezählte Fall wird eigenthümlicherweise im :cite:`*Tractat über die fünf regelmässigen Körper* <piero:libellus>` (*Libellus*) ausdrücklich erwähnt und behandelt!
   - Aus **17** entsteht **18 (Dodekaeder im Kubus)**, wobei die Kantenlage dieselbe ist wie bei 16, ausserdem aber noch acht Ecken frei liegen, welche den Ecken des dem :term:`Dodekaeder <dodecahedron>` eingeschriebenen Kubus entsprechen.
   - Aus **19** endlich findet sich **20 (Kubus im Tetraeder)**, wobei die vier Flächen des :term:`Tetraeders <tetrahedron>` vier Kanten des Kubus enthalten (zwei sich gegenüberliegende Seiten des obern und die sie kreuzenden des untern Quadrats).

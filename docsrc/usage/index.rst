@@ -5,7 +5,7 @@
 usage
 =====
 
-``geometor.pacioli`` provides CLI tools and build scripts to extract archival folios, isolate and calibrate woodcut illustrations, compile scholarly apparatus registries, and build the 5-track Book Codex of Fra Luca Pacioli's *De Divina Proportione* (1509 / 1889).
+``geometor.pacioli`` provides CLI tools and build scripts to extract archival folios, isolate and calibrate woodcut illustrations, compile scholarly apparatus registries, and build the 5-track Book Codex of :person:`Fra Luca Pacioli's <pacioli>` :cite:`*De Divina Proportione* <pacioli:divina-proportione>` (1509 / 1889).
 
 CLI & Build Pipeline
 --------------------

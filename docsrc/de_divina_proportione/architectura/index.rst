@@ -8,7 +8,7 @@ Part II: Tractato de l'Architectura (Prohemio & Chapters I–XX)
 
 .. rubric:: Dedicated to the Stonemasons, Sculptors, and Disciples of Borgo Sansepolcro (1509)
 
-Dedicated to Pacioli's beloved disciples and pupils of :term:`Borgo Sansepolcro <san-sepolcro>` (1509 Paganini Folios 0061–0082, ``f. 23r``–``f. 33v``). Each chapter is presented in four synchronized companion tracks: **English**, **Italiano (1509)**, **Deutsch (Winterberg 1889)**, and **Critical Notes**.
+Dedicated to :person:`Pacioli's <pacioli>` beloved disciples and pupils of :term:`Borgo Sansepolcro <san-sepolcro>` (1509 Paganini Folios 0061–0082, ``f. 23r``–``f. 33v``). Each chapter is presented in four synchronized companion tracks: **English**, **Italiano (1509)**, **Deutsch (Winterberg 1889)**, and **Critical Notes**.
 
 Conspectus Capitum (Part II)
 ----------------------------
@@ -25,7 +25,7 @@ Conspectus Capitum (Part II)
   [:ref:`English <architectura-cap_04-en>` · :ref:`Italiano <architectura-cap_04-it>` · :ref:`Deutsch <architectura-cap_04-de>` · :ref:`Notes <architectura-cap_04-notes>`]
 - **Cap. V** (*Folio 0071 (f. 28r)*): On the Length (Height), Thickness, Entasis, and Base (*Spira*) of the Round Column.
   [:ref:`English <architectura-cap_05-en>` · :ref:`Italiano <architectura-cap_05-it>` · :ref:`Deutsch <architectura-cap_05-de>` · :ref:`Notes <architectura-cap_05-notes>`]
-- **Cap. VI** (*Folio 0071–0072 (f. 28r–f. 28v)*): On the Order and Construction of the :term:`Stylobate <stilobata>` (Pedestal or Base-Pillar) of the Column, the :term:`Stereobate <steriobata>` Foundation, the Ancient Roman Alphabet, and the Three Sets of Sixty Polyhedra Models Made by Pacioli alongside :person:`Leonardo da Vinci <leonardo>`.
+- **Cap. VI** (*Folio 0071–0072 (f. 28r–f. 28v)*): On the Order and Construction of the :term:`Stylobate <stilobata>` (Pedestal or Base-Pillar) of the Column, the :term:`Stereobate <steriobata>` Foundation, the Ancient Roman Alphabet, and the Three Sets of Sixty Polyhedra Models Made by :person:`Pacioli <pacioli>` alongside :person:`Leonardo da Vinci <leonardo>`.
   [:ref:`English <architectura-cap_06-en>` · :ref:`Italiano <architectura-cap_06-it>` · :ref:`Deutsch <architectura-cap_06-de>` · :ref:`Notes <architectura-cap_06-notes>`]
 - **Cap. VII** (*Folio 0073–0074 (f. 29r–f. 29v)*): Wherein the Three Species of Columns—Ionic, Doric, and Corinthian—Differ from One Another, and :person:`Vitruvius <vitruvius>`'s Account of Their Origin and of :person:`Callimachus <callimachus>`'s Invention of the Corinthian Capital.
   [:ref:`English <architectura-cap_07-en>` · :ref:`Italiano <architectura-cap_07-it>` · :ref:`Deutsch <architectura-cap_07-de>` · :ref:`Notes <architectura-cap_07-notes>`]
@@ -33,7 +33,7 @@ Conspectus Capitum (Part II)
   [:ref:`English <architectura-cap_08-en>` · :ref:`Italiano <architectura-cap_08-it>` · :ref:`Deutsch <architectura-cap_08-de>` · :ref:`Notes <architectura-cap_08-notes>`]
 - **Cap. IX** (*Folio 0075–0076 (f. 30r–f. 30v)*): On Lateral (Prismatic) Columns in Architecture, and on the Quadrature of the Circle.
   [:ref:`English <architectura-cap_09-en>` · :ref:`Italiano <architectura-cap_09-it>` · :ref:`Deutsch <architectura-cap_09-de>` · :ref:`Notes <architectura-cap_09-notes>`]
-- **Cap. X** (*Folio 0076 (f. 30v)*): On Round and Lateral Pyramids in Architecture, and Praise of :person:`Leonardo da Vinci <leonardo>`'s Incomparable Drawings.
+- **Cap. X** (*Folio 0076 (f. 30v)*): On Round and Lateral Pyramids in Architecture, and Praise of :person:`Leonardo da Vinci's <leonardo>` Incomparable Drawings.
   [:ref:`English <architectura-cap_10-en>` · :ref:`Italiano <architectura-cap_10-it>` · :ref:`Deutsch <architectura-cap_10-de>` · :ref:`Notes <architectura-cap_10-notes>`]
 - **Cap. XI** (*Folio 0076 (f. 30v)*): On the Origin of the Letters of Every Nation, Egyptian Hieroglyphs on Roman Obelisks, the Anecdote on the Piazza San Marco in Venice, and Tribute to the Late Cardinal :person:`Galeotto Franciotti della Rovere <galeotto-della-rovere>`.
   [:ref:`English <architectura-cap_11-en>` · :ref:`Italiano <architectura-cap_11-it>` · :ref:`Deutsch <architectura-cap_11-de>` · :ref:`Notes <architectura-cap_11-notes>`]

@@ -12,7 +12,7 @@ CHAPTER IX — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Aristotle on the Quadrature of the Circle (*Categories* 7b31)**: Pacioli quotes the classic Scholastic formulation of Aristotle, *Categories* 7 (7b30–33): *Quadratura circuli, si est scibilis, scientia quidem eius nondum est, ipsum vero scibile est* ("The squaring of the circle, if it is knowable, is an object of knowledge even though the knowledge of it does not yet exist"). Notice Pacioli's intriguing hint (*"Forse in questo dì è nato chi la darà"*, "Perhaps today the man has already been born who will give it")—likely an allusion to **Leonardo da Vinci's** intense researches on lunules and the quadrature of curved surfaces (*De ludo geometrico*), which Leonardo was pursuing during their years together!
+- **Aristotle on the Quadrature of the Circle (*Categories* 7b31)**: Pacioli quotes the classic Scholastic formulation of Aristotle, *Categories* 7 (7b30–33): *Quadratura circuli, si est scibilis, scientia quidem eius nondum est, ipsum vero scibile est* ("The squaring of the circle, if it is knowable, is an object of knowledge even though the knowledge of it does not yet exist"). Notice Pacioli's intriguing hint (*"Forse in questo dì è nato chi la darà"*, "Perhaps today the man has already been born who will give it")—likely an allusion to *:person:`*Leonardo da Vinci's* <leonardo>`* intense researches on lunules and the quadrature of curved surfaces (*De ludo geometrico*), which :person:`Leonardo <leonardo>` was pursuing during their years together!
 
 Philological and Folio Apparatus
 --------------------------------

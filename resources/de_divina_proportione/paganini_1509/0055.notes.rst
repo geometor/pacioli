@@ -4,9 +4,9 @@ Folio 0055 (f. 20r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0054.rst``): Folio f. 19v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. LXII, Cap. LXIII (f. 19v) — Del modo a mesurare tutte sorte colonne e prima dele ro
-- **Current Folio** (``0055.rst``): Folio f. 20r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. LXIV, Cap. LXV (f. 20r) — Dele pyramidi e tutte lor differentie.
-- **Following Folio** (``0056.rst``): Folio f. 20v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. LXV, Cap. LXVI, Cap. LXVII (f. 20v) — Dele piramidi laterate e sue diuersita.
+- **Preceding Folio** (``0054.rst``): Folio f. 19v (verso), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` — Cap. LXII, Cap. LXIII (f. 19v) — Del modo a mesurare tutte sorte colonne e prima dele ro
+- **Current Folio** (``0055.rst``): Folio f. 20r (recto), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` [``01_compendio``] — Cap. LXIV, Cap. LXV (f. 20r) — Dele pyramidi e tutte lor differentie.
+- **Following Folio** (``0056.rst``): Folio f. 20v (verso), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` — Cap. LXV, Cap. LXVI, Cap. LXVII (f. 20v) — Dele piramidi laterate e sue diuersita.
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -24,7 +24,7 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``20``
 - **Folio Signature / Numeration**: ``f. 20r`` (Scan page ``55``, *recto*)
-- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
+- **Book & Section Slug**: Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
   - **Cap. LXIV** (``compendio/cap_64``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/064_cap_LXIV.txt``
   - **Cap. LXV** (``compendio/cap_65``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/065_cap_LXV.txt``
@@ -38,7 +38,7 @@ Cap. LXIV — On Pyramids and All Their Differences, and First on the Round Pyra
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Archimedean & Apollonian Classification of Cones (Euclid XI.Def.18)**: Before Apollonius of Perga generalized conic sections to slices of any circular cone, Menaechmus, :person:`Euclid <euclid>`, and :person:`Archimedes <archimedes>` generated the three conic sections—the **parabola** (*section of a right-angled cone*), the **ellipse** (*section of an acute-angled cone*), and the **hyperbola** (*section of an obtuse-angled cone*)—by slicing the three species of cones defined in :person:`Euclid <euclid>` XI.Def.18 with a plane perpendicular to a generator! Pacioli gives the complete Euclidean proof via :cite:`Euclid I.5 <euclid:elements:I.5>`, :cite:`Euclid I.19 <euclid:elements:I.19>`, and :cite:`Euclid I.32 <euclid:elements:I.32>`.
+- **Archimedean & Apollonian Classification of Cones (Euclid XI.Def.18)**: Before Apollonius of Perga generalized conic sections to slices of any circular cone, Menaechmus, :person:`Euclid <euclid>`, and :person:`Archimedes <archimedes>` generated the three conic sections—the **parabola** (*section of a right-angled cone*), the **ellipse** (*section of an acute-angled cone*), and the **hyperbola** (*section of an obtuse-angled cone*)—by slicing the three species of cones defined in :person:`Euclid <euclid>` XI.Def.18 with a plane perpendicular to a generator! :person:`Pacioli <pacioli>` gives the complete Euclidean proof via :cite:`Euclid I.5 <euclid:elements:I.5>`, :cite:`Euclid I.19 <euclid:elements:I.19>`, and :cite:`Euclid I.32 <euclid:elements:I.32>`.
 
 Cap. LXV — On Lateral (Polygonal) Pyramids and Their Varieties: Right, Oblique, and Truncated (Plates LI–LIX).
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,4 +48,4 @@ Historical & Mathematical Commentary
 
 - **Paganini 1509 Marginal Diagrams & Plates**:
   - Folio 0055 (``f. 20r``) and Folio 0056 (``f. 20v``) contain 10 marginal woodcut diagrams (``0055.g1.png``–``0055.g3.png`` and ``0056.g1.png``–``0056.g7.png``) depicting the triangular, quadrangular, and pentagonal pyramids and their truncated frusta (*tronca tonda A*, *corta triangola B*, *tagliata quadrangola C*).
-  - **Plates LI–LIX** (``0293.rst``–``0309.rst``) show Leonardo's full-page perspective drawings of the triangular, quadrangular, and pentagonal pyramids and the truncated pyramid.
+  - **Plates LI–LIX** (``0293.rst``–``0309.rst``) show :person:`Leonardo's <leonardo>` full-page perspective drawings of the triangular, quadrangular, and pentagonal pyramids and the truncated pyramid.

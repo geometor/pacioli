@@ -13,7 +13,14 @@ Historical & Mathematical Commentary
 ------------------------------------
 
 - **Source in Euclid and Campanus**: This famous classification proof comes from the concluding Scholium to :cite:`Euclid XIII.18 <euclid:elements:XIII.18>` (integrated into the proposition text in :person:`Campanus of Novara <campanus>`'s Latin edition as XIII.18 corollary), resting on :cite:`Euclid XI.21 <euclid:elements:XI.21>` (the sum of plane angles of any convex :term:`solid angle <angulo-solido>` is less than :math:`4R`) and :cite:`Euclid I.32 <euclid:elements:I.32>` (the interior angle sum of an :math:`n`-gon is :math:`(n-2)\cdot 2R`).
-- **Comparison with Earlier Draft Track**: In ``divina_en_2/25.txt``, the angle calculations in fractions of a right angle (:math:`\frac{2}{3}R`, :math:`2\frac{2}{3}R`, :math:`3\frac{1}{3}R`, :math:`1\frac{1}{5}R`, :math:`3\frac{3}{5}R`, :math:`1\frac{1}{3}R`) were condensed into a brief table. Here the complete rhetorical and deductive structure of Pacioli's 1509 text (``0031.rst``–``0032.rst``, ``f. 8r``–``f. 8v``) is translated in full.
+- **Comparison with Earlier Draft Track**: In ``divina_en_2/25.txt``, the angle calculations in fractions of a right angle (:math:`\frac{2}{3}R`, :math:`2\frac{2}{3}R`, :math:`3\frac{1}{3}R`, :math:`1\frac{1}{5}R`, :math:`3\frac{3}{5}R`, :math:`1\frac{1}{3}R`) were condensed into a brief table. Here the complete rhetorical and deductive structure of :person:`Pacioli's <pacioli>` 1509 text (``0031.rst``–``0032.rst``, ``f. 8r``–``f. 8v``) is translated in full.
+
+Constantin Winterberg's Commentary (1889 Edition)
+-------------------------------------------------
+
+- :person:`Winterberg <winterberg>` Footnote 1 (Cap. XXV, p. 214): Namely, each regular solid can be accurately inscribed in the others (*scil. der eine lässt sich genau in den andern einbeschreiben*).
+  (:person:`Winterberg <winterberg>` Fussnote 1 (Cap. XXV, S. 214): *scil. der eine lässt sich genau in den andern einbeschreiben.*)
+
 
 Philological and Folio Apparatus
 --------------------------------

@@ -13,6 +13,20 @@ Bibliography & Cited Works
 
 Systematic register of classical treatises, Euclidean propositions, and philosophical works cited by Fra Luca Pacioli across *De Divina Proportione* (1509), with direct backlinks to every chapter occurrence.
 
+.. _bib-alberti:
+
+Alberti, Leon Battista (1404 – 1472)
+------------------------------------
+
+See biographical entry: :ref:`Alberti, Leon Battista <person-alberti>`.
+
+.. _work-alberti-de-re-aedificatoria:
+.. _cite-alberti-de-re-aedificatoria:
+
+**De Re Aedificatoria Libri Decem** (``alberti:de-re-aedificatoria``)
+
+- ``General reference`` (``alberti:de-re-aedificatoria``) — Cited in :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
 .. _bib-archimedes:
 
 Archimedes of Syracuse (c. 287 – 212 BC)
@@ -105,7 +119,7 @@ See biographical entry: :ref:`Bartolus of Sassoferrato (Bartolo da Sassoferrato)
 
 **Tractatus de Fluminibus seu Tyberiadis (La Teberina)** (``bartolus:tyberiadis``)
 
-- ``General reference`` (``bartolus:tyberiadis``) — Cited in :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`
+- ``General reference`` (``bartolus:tyberiadis``) — Cited in :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`
 
 .. _bib-sacra-scriptura:
 
@@ -125,6 +139,20 @@ Sacra Scriptura (Biblia Vulgata)
 
 - ``7.13`` (``biblia:sapientia:7.13``) — Cited in :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>` [1509 Folios: 0017]
 
+.. _bib-brocheneck:
+
+Brocheneck (fl. mid-19th century)
+---------------------------------
+
+See biographical entry: :ref:`Brocheneck <person-brocheneck>`.
+
+.. _work-brocheneck-normalgestalt:
+.. _cite-brocheneck-normalgestalt:
+
+**Die männliche und weibliche Normalgestalt** (``brocheneck:normalgestalt``)
+
+- ``General reference`` (``brocheneck:normalgestalt``) — Cited in :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
 .. _bib-campanus:
 
 Campanus of Novara (c. 1220 – 1296)
@@ -136,6 +164,8 @@ See biographical entry: :ref:`Campanus of Novara (Giovanni Campano) <person-camp
 .. _cite-campanus-euclid:
 
 **Commentaria in Elementa Euclidis (IX.16, XIV.10)** (``campanus:euclid``)
+
+- ``General reference`` (``campanus:euclid``) — Cited in :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
 
 .. _cite-campanus-euclid-x-79:
 
@@ -175,7 +205,7 @@ See biographical entry: :ref:`Campanus of Novara (Giovanni Campano) <person-camp
 
 .. _cite-campanus-euclid-xiv-9:
 
-- ``XIV.9`` (``campanus:euclid:XIV.9``) — Cited in :doc:`Comp. Cap. 21 (EN) </de_divina_proportione/compendio/cap_21/cap_21_en>`, :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/cap_21_notes>`, :doc:`Plates: Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
+- ``XIV.9`` (``campanus:euclid:XIV.9``) — Cited in :doc:`Comp. Cap. 21 (EN) </de_divina_proportione/compendio/cap_21/cap_21_en>`, :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/cap_21_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _cite-campanus-euclid-xv-1:
 
@@ -195,7 +225,7 @@ See biographical entry: :ref:`Campanus of Novara (Giovanni Campano) <person-camp
 
 .. _cite-campanus-euclid-xv-13:
 
-- ``XV.13`` (``campanus:euclid:XV.13``) — Cited in :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Comp. Cap. 47 (EN) </de_divina_proportione/compendio/cap_47/cap_47_en>`, :doc:`Comp. Cap. 47 (Notes) </de_divina_proportione/compendio/cap_47/cap_47_notes>`, :doc:`Plates: Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>` [1509 Folios: 0043]
+- ``XV.13`` (``campanus:euclid:XV.13``) — Cited in :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Comp. Cap. 47 (EN) </de_divina_proportione/compendio/cap_47/cap_47_en>`, :doc:`Comp. Cap. 47 (Notes) </de_divina_proportione/compendio/cap_47/cap_47_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>` [1509 Folios: 0043]
 
 .. _cite-campanus-euclid-xv-1-13:
 
@@ -232,6 +262,50 @@ See biographical entry: :ref:`Campanus of Novara (Giovanni Campano) <person-camp
 .. _cite-campanus-euclid-xv-9:
 
 - ``XV.9`` (``campanus:euclid:XV.9``) — Cited in :doc:`Comp. Cap. 34 (EN) </de_divina_proportione/compendio/cap_34/cap_34_en>`, :doc:`Comp. Cap. 40 (Notes) </de_divina_proportione/compendio/cap_40/cap_40_notes>`, :doc:`Comp. Cap. 43 (EN) </de_divina_proportione/compendio/cap_43/cap_43_en>` [1509 Folios: 0042]
+
+.. _bib-annibale-caro:
+
+Caro, Annibale (1507 – 1566)
+----------------------------
+
+See biographical entry: :ref:`Caro, Annibale <person-annibale-caro>`.
+
+.. _work-caro-apologia:
+.. _cite-caro-apologia:
+
+**Apologia degli Accademici di Banchi di Roma ('Ceneraccio', 1558)** (``caro:apologia``)
+
+- ``General reference`` (``caro:apologia``) — Cited in :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
+.. _bib-carl-gustav-carus:
+
+Carus, Carl Gustav (1789 – 1869)
+--------------------------------
+
+See biographical entry: :ref:`Carus, Carl Gustav <person-carl-gustav-carus>`.
+
+.. _work-carus-proportionslehre:
+.. _cite-carus-proportionslehre:
+
+**Die Proportionslehre der menschlichen Gestalt (Leipzig, 1854)** (``carus:proportionslehre``)
+
+- ``General reference`` (``carus:proportionslehre``) — Cited in :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
+.. _bib-rudolf-von-eitelberger:
+
+Eitelberger von Edelberg, Rudolf (1817 – 1885) & Ilg, Albert (1847 – 1896)
+--------------------------------------------------------------------------
+
+See biographical entry: :ref:`Eitelberger von Edelberg, Rudolf <person-rudolf-von-eitelberger>`.
+
+See biographical entry: :ref:`Ilg, Albert <person-albert-ilg>`.
+
+.. _work-eitelberger-quellenschriften:
+.. _cite-eitelberger-quellenschriften:
+
+**Quellenschriften für Kunstgeschichte und Kunsttechnik des Mittelalters und der Neuzeit** (``eitelberger:quellenschriften``)
+
+- ``General reference`` (``eitelberger:quellenschriften``) — Cited in :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
 
 .. _bib-euclid:
 
@@ -275,19 +349,15 @@ See biographical entry: :ref:`Euclid of Alexandria (identified by Pacioli as Euc
 
 .. _cite-euclid-elements-i-47:
 
-- ``I.47`` (``euclid:elements:I.47``) — Cited in :doc:`Comp. Cap. 4 (Notes) </de_divina_proportione/compendio/cap_04/cap_04_notes>`, :doc:`Comp. Cap. 28 (IT) </de_divina_proportione/compendio/cap_28/cap_28_it>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/cap_30_it>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/cap_31_it>` [1509 Folios: 0022, 0034, 0035, 0036, 0037, 0038, 0039]
+- ``I.47`` (``euclid:elements:I.47``) — Cited in :doc:`Comp. Cap. 4 (Notes) </de_divina_proportione/compendio/cap_04/cap_04_notes>`, :doc:`Comp. Cap. 28 (IT) </de_divina_proportione/compendio/cap_28/cap_28_it>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/cap_30_it>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/cap_31_it>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>` [1509 Folios: 0022, 0034, 0035, 0036, 0037, 0038, 0039]
 
 .. _cite-euclid-elements-i-5:
 
 - ``I.5`` (``euclid:elements:I.5``) — Cited in :doc:`Comp. Cap. 4 (IT) </de_divina_proportione/compendio/cap_04/cap_04_it>`, :doc:`Comp. Cap. 64 (Notes) </de_divina_proportione/compendio/cap_64/cap_64_notes>` [1509 Folios: 0022, 0055]
 
-.. _cite-euclid-elements-i-def-22:
-
-- ``I.Def.22`` (``euclid:elements:I.Def.22``) — Cited in :doc:`Comp. Cap. 60 (Notes) </de_divina_proportione/compendio/cap_60/cap_60_notes>`
-
 .. _cite-euclid-elements-ii-11:
 
-- ``II.11`` (``euclid:elements:II.11``) — Cited in :doc:`Comp. Cap. 7 (Notes) </de_divina_proportione/compendio/cap_07/cap_07_notes>`, :doc:`Comp. Cap. 8 (IT) </de_divina_proportione/compendio/cap_08/cap_08_it>`, :doc:`Comp. Cap. 22 (Notes) </de_divina_proportione/compendio/cap_22/cap_22_notes>` [1509 Folios: 0023, 0024, 0025, 0030]
+- ``II.11`` (``euclid:elements:II.11``) — Cited in :doc:`Comp. Cap. 7 (Notes) </de_divina_proportione/compendio/cap_07/cap_07_notes>`, :doc:`Comp. Cap. 8 (IT) </de_divina_proportione/compendio/cap_08/cap_08_it>`, :doc:`Comp. Cap. 22 (Notes) </de_divina_proportione/compendio/cap_22/cap_22_notes>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>` [1509 Folios: 0023, 0024, 0025, 0030]
 
 .. _cite-euclid-elements-ii-4:
 
@@ -313,25 +383,13 @@ See biographical entry: :ref:`Euclid of Alexandria (identified by Pacioli as Euc
 
 - ``IV.11`` (``euclid:elements:IV.11``) — Cited in :doc:`Comp. Cap. 22 (Notes) </de_divina_proportione/compendio/cap_22/cap_22_notes>` [1509 Folios: 0030]
 
-.. _cite-euclid-elements-iv-12:
-
-- ``IV.12`` (``euclid:elements:IV.12``) — Cited in :doc:`Comp. Cap. 22 (Notes) </de_divina_proportione/compendio/cap_22/cap_22_notes>`
-
 .. _cite-euclid-elements-iv-15:
 
-- ``IV.15`` (``euclid:elements:IV.15``) — Cited in :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>` [1509 Folios: 0028, 0035]
+- ``IV.15`` (``euclid:elements:IV.15``) — Cited in :doc:`Comp. Cap. 16 (Notes) </de_divina_proportione/compendio/cap_16/cap_16_notes>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>` [1509 Folios: 0028, 0035]
 
-.. _cite-euclid-elements-iv-15-p:
+.. _cite-euclid-elements-v:
 
-- ``IV.15.p`` (``euclid:elements:IV.15.p``) — Cited in :doc:`Comp. Cap. 16 (Notes) </de_divina_proportione/compendio/cap_16/cap_16_notes>`
-
-.. _cite-euclid-elements-ix-16:
-
-- ``IX.16`` (``euclid:elements:IX.16``) — Cited in :doc:`Comp. Cap. 7 (Notes) </de_divina_proportione/compendio/cap_07/cap_07_notes>`
-
-.. _cite-euclid-elements-ix-36:
-
-- ``IX.36`` (``euclid:elements:IX.36``) — Cited in :doc:`Arch. Cap. 3 (Notes) </de_divina_proportione/architectura/cap_03/cap_03_notes>`
+- ``V`` (``euclid:elements:V``) — Cited in :doc:`Arch. Cap. 11 (Notes) </de_divina_proportione/architectura/cap_11/cap_11_notes>` [1509 Folios: 0076]
 
 .. _cite-euclid-elements-v-10:
 
@@ -359,11 +417,7 @@ See biographical entry: :ref:`Euclid of Alexandria (identified by Pacioli as Euc
 
 .. _cite-euclid-elements-v-19:
 
-- ``V.19`` (``euclid:elements:V.19``) [1509 Folios: 0029]
-
-.. _cite-euclid-elements-v-19-p:
-
-- ``V.19.p`` (``euclid:elements:V.19.p``) — Cited in :doc:`Comp. Cap. 19 (Notes) </de_divina_proportione/compendio/cap_19/cap_19_notes>`
+- ``V.19`` (``euclid:elements:V.19``) — Cited in :doc:`Comp. Cap. 19 (Notes) </de_divina_proportione/compendio/cap_19/cap_19_notes>` [1509 Folios: 0029]
 
 .. _cite-euclid-elements-v-22:
 
@@ -371,23 +425,19 @@ See biographical entry: :ref:`Euclid of Alexandria (identified by Pacioli as Euc
 
 .. _cite-euclid-elements-v-7:
 
-- ``V.7`` (``euclid:elements:V.7``) [1509 Folios: 0029]
-
-.. _cite-euclid-elements-v-7-p:
-
-- ``V.7.p`` (``euclid:elements:V.7.p``) — Cited in :doc:`Comp. Cap. 19 (Notes) </de_divina_proportione/compendio/cap_19/cap_19_notes>`
+- ``V.7`` (``euclid:elements:V.7``) — Cited in :doc:`Comp. Cap. 19 (Notes) </de_divina_proportione/compendio/cap_19/cap_19_notes>` [1509 Folios: 0029]
 
 .. _cite-euclid-elements-vi-30:
 
-- ``VI.30`` (``euclid:elements:VI.30``) — Cited in :doc:`Comp. Cap. 7 (Notes) </de_divina_proportione/compendio/cap_07/cap_07_notes>`, :doc:`Comp. Cap. 22 (Notes) </de_divina_proportione/compendio/cap_22/cap_22_notes>` [1509 Folios: 0030]
+- ``VI.30`` (``euclid:elements:VI.30``) — Cited in :doc:`Comp. Cap. 22 (Notes) </de_divina_proportione/compendio/cap_22/cap_22_notes>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>` [1509 Folios: 0030]
 
 .. _cite-euclid-elements-vi-8:
 
-- ``VI.8`` (``euclid:elements:VI.8``) — Cited in :doc:`Comp. Cap. 27 (Notes) </de_divina_proportione/compendio/cap_27/cap_27_notes>`
+- ``VI.8`` (``euclid:elements:VI.8``) — Cited in :doc:`Comp. Cap. 27 (Notes) </de_divina_proportione/compendio/cap_27/cap_27_notes>`, :doc:`Comp. Cap. 31 (Notes) </de_divina_proportione/compendio/cap_31/cap_31_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _cite-euclid-elements-vi-def-3:
 
-- ``VI.def.3`` (``euclid:elements:VI.def.3``) — Cited in :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 7 (Notes) </de_divina_proportione/compendio/cap_07/cap_07_notes>` [1509 Folios: 0023, 0024, 0025]
+- ``VI.def.3`` (``euclid:elements:VI.def.3``) — Cited in :doc:`Comp. Cap. 7 (Notes) </de_divina_proportione/compendio/cap_07/cap_07_notes>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>` [1509 Folios: 0023, 0024, 0025]
 
 .. _cite-euclid-elements-x-73:
 
@@ -411,7 +461,7 @@ See biographical entry: :ref:`Euclid of Alexandria (identified by Pacioli as Euc
 
 .. _cite-euclid-elements-xi-21:
 
-- ``XI.21`` (``euclid:elements:XI.21``) — Cited in :doc:`Comp. Cap. 25 (Notes) </de_divina_proportione/compendio/cap_25/cap_25_notes>` [1509 Folios: 0031, 0032]
+- ``XI.21`` (``euclid:elements:XI.21``) — Cited in :doc:`Comp. Cap. 25 (Notes) </de_divina_proportione/compendio/cap_25/cap_25_notes>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>` [1509 Folios: 0031, 0032]
 
 .. _cite-euclid-elements-xi-4:
 
@@ -421,17 +471,9 @@ See biographical entry: :ref:`Euclid of Alexandria (identified by Pacioli as Euc
 
 - ``XI.6`` (``euclid:elements:XI.6``) — Cited in :doc:`Comp. Cap. 27 (IT) </de_divina_proportione/compendio/cap_27/cap_27_it>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/cap_30_it>` [1509 Folios: 0033, 0034, 0035, 0037]
 
-.. _cite-euclid-elements-xi-def-14:
-
-- ``XI.Def.14`` (``euclid:elements:XI.Def.14``) — Cited in :doc:`Comp. Cap. 56 (Notes) </de_divina_proportione/compendio/cap_56/cap_56_notes>`
-
-.. _cite-euclid-elements-xi-def-18:
-
-- ``XI.Def.18`` (``euclid:elements:XI.Def.18``) — Cited in :doc:`Comp. Cap. 64 (Notes) </de_divina_proportione/compendio/cap_64/cap_64_notes>`
-
 .. _cite-euclid-elements-xii-10:
 
-- ``XII.10`` (``euclid:elements:XII.10``) — Cited in :doc:`Arch. Cap. 10 (Notes) </de_divina_proportione/architectura/cap_10/cap_10_notes>`, :doc:`Comp. Cap. 66 (Notes) </de_divina_proportione/compendio/cap_66/cap_66_notes>` [1509 Folios: 0056]
+- ``XII.10`` (``euclid:elements:XII.10``) — Cited in :doc:`Comp. Cap. 66 (Notes) </de_divina_proportione/compendio/cap_66/cap_66_notes>` [1509 Folios: 0056]
 
 .. _cite-euclid-elements-xii-17:
 
@@ -439,11 +481,11 @@ See biographical entry: :ref:`Euclid of Alexandria (identified by Pacioli as Euc
 
 .. _cite-euclid-elements-xii-7:
 
-- ``XII.7`` (``euclid:elements:XII.7``) — Cited in :doc:`Arch. Cap. 10 (Notes) </de_divina_proportione/architectura/cap_10/cap_10_notes>`, :doc:`Comp. Cap. 67 (Notes) </de_divina_proportione/compendio/cap_67/cap_67_notes>` [1509 Folios: 0056, 0057]
+- ``XII.7`` (``euclid:elements:XII.7``) — Cited in :doc:`Comp. Cap. 67 (Notes) </de_divina_proportione/compendio/cap_67/cap_67_notes>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>` [1509 Folios: 0056, 0057]
 
 .. _cite-euclid-elements-xiii-1:
 
-- ``XIII.1`` (``euclid:elements:XIII.1``) — Cited in :doc:`Comp. Cap. 7 (Notes) </de_divina_proportione/compendio/cap_07/cap_07_notes>`, :doc:`Comp. Cap. 10 (Notes) </de_divina_proportione/compendio/cap_10/cap_10_notes>`, :doc:`Comp. Cap. 24 (Notes) </de_divina_proportione/compendio/cap_24/cap_24_notes>`, :doc:`Comp. Cap. 47 (Notes) </de_divina_proportione/compendio/cap_47/cap_47_notes>` [1509 Folios: 0026, 0031, 0043]
+- ``XIII.1`` (``euclid:elements:XIII.1``) — Cited in :doc:`Comp. Cap. 7 (Notes) </de_divina_proportione/compendio/cap_07/cap_07_notes>`, :doc:`Comp. Cap. 10 (Notes) </de_divina_proportione/compendio/cap_10/cap_10_notes>`, :doc:`Comp. Cap. 24 (Notes) </de_divina_proportione/compendio/cap_24/cap_24_notes>`, :doc:`Comp. Cap. 47 (Notes) </de_divina_proportione/compendio/cap_47/cap_47_notes>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>` [1509 Folios: 0026, 0031, 0043]
 
 .. _cite-euclid-elements-xiii-10:
 
@@ -455,11 +497,11 @@ See biographical entry: :ref:`Euclid of Alexandria (identified by Pacioli as Euc
 
 .. _cite-euclid-elements-xiii-12:
 
-- ``XIII.12`` (``euclid:elements:XIII.12``) — Cited in :doc:`Comp. Cap. 24 (Notes) </de_divina_proportione/compendio/cap_24/cap_24_notes>`, :doc:`Comp. Cap. 26 (Notes) </de_divina_proportione/compendio/cap_26/cap_26_notes>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>` [1509 Folios: 0031, 0032, 0036]
+- ``XIII.12`` (``euclid:elements:XIII.12``) — Cited in :doc:`Comp. Cap. 24 (Notes) </de_divina_proportione/compendio/cap_24/cap_24_notes>`, :doc:`Comp. Cap. 26 (Notes) </de_divina_proportione/compendio/cap_26/cap_26_notes>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>` [1509 Folios: 0031, 0032, 0036]
 
 .. _cite-euclid-elements-xiii-13:
 
-- ``XIII.13`` (``euclid:elements:XIII.13``) — Cited in :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>` [1509 Folios: 0022, 0023]
+- ``XIII.13`` (``euclid:elements:XIII.13``) — Cited in :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>` [1509 Folios: 0022, 0023]
 
 .. _cite-euclid-elements-xiii-14:
 
@@ -467,43 +509,39 @@ See biographical entry: :ref:`Euclid of Alexandria (identified by Pacioli as Euc
 
 .. _cite-euclid-elements-xiii-15:
 
-- ``XIII.15`` (``euclid:elements:XIII.15``) — Cited in :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/cap_21_notes>`, :doc:`Comp. Cap. 27 (Notes) </de_divina_proportione/compendio/cap_27/cap_27_notes>` [1509 Folios: 0029, 0030, 0032, 0033]
+- ``XIII.15`` (``euclid:elements:XIII.15``) — Cited in :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/cap_21_notes>`, :doc:`Comp. Cap. 27 (Notes) </de_divina_proportione/compendio/cap_27/cap_27_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>` [1509 Folios: 0029, 0030, 0032, 0033]
 
 .. _cite-euclid-elements-xiii-16:
 
-- ``XIII.16`` (``euclid:elements:XIII.16``) — Cited in :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/cap_21_notes>`, :doc:`Comp. Cap. 24 (Notes) </de_divina_proportione/compendio/cap_24/cap_24_notes>`, :doc:`Comp. Cap. 29 (Notes) </de_divina_proportione/compendio/cap_29/cap_29_notes>`, :doc:`Comp. Cap. 44 (Notes) </de_divina_proportione/compendio/cap_44/cap_44_notes>` [1509 Folios: 0029, 0030, 0031, 0042]
-
-.. _cite-euclid-elements-xiii-16-p:
-
-- ``XIII.16.p`` (``euclid:elements:XIII.16.p``) — Cited in :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/cap_21_notes>`
+- ``XIII.16`` (``euclid:elements:XIII.16``) — Cited in :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/cap_21_notes>`, :doc:`Comp. Cap. 24 (Notes) </de_divina_proportione/compendio/cap_24/cap_24_notes>`, :doc:`Comp. Cap. 29 (Notes) </de_divina_proportione/compendio/cap_29/cap_29_notes>`, :doc:`Comp. Cap. 31 (Notes) </de_divina_proportione/compendio/cap_31/cap_31_notes>`, :doc:`Comp. Cap. 44 (Notes) </de_divina_proportione/compendio/cap_44/cap_44_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>` [1509 Folios: 0029, 0030, 0031, 0042]
 
 .. _cite-euclid-elements-xiii-17:
 
-- ``XIII.17`` (``euclid:elements:XIII.17``) — Cited in :doc:`Comp. Cap. 24 (Notes) </de_divina_proportione/compendio/cap_24/cap_24_notes>`, :doc:`Comp. Cap. 30 (Notes) </de_divina_proportione/compendio/cap_30/cap_30_notes>`, :doc:`Comp. Cap. 41 (Notes) </de_divina_proportione/compendio/cap_41/cap_41_notes>`, :doc:`Comp. Cap. 45 (Notes) </de_divina_proportione/compendio/cap_45/cap_45_notes>` [1509 Folios: 0031, 0036, 0037, 0038, 0042, 0043]
+- ``XIII.17`` (``euclid:elements:XIII.17``) — Cited in :doc:`Comp. Cap. 24 (Notes) </de_divina_proportione/compendio/cap_24/cap_24_notes>`, :doc:`Comp. Cap. 30 (Notes) </de_divina_proportione/compendio/cap_30/cap_30_notes>`, :doc:`Comp. Cap. 41 (Notes) </de_divina_proportione/compendio/cap_41/cap_41_notes>`, :doc:`Comp. Cap. 45 (Notes) </de_divina_proportione/compendio/cap_45/cap_45_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>` [1509 Folios: 0031, 0036, 0037, 0038, 0042, 0043]
 
 .. _cite-euclid-elements-xiii-18:
 
-- ``XIII.18`` (``euclid:elements:XIII.18``) — Cited in :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/cap_21_notes>`, :doc:`Comp. Cap. 25 (Notes) </de_divina_proportione/compendio/cap_25/cap_25_notes>`, :doc:`Comp. Cap. 31 (Notes) </de_divina_proportione/compendio/cap_31/cap_31_notes>`, :doc:`Comp. Cap. 47 (Notes) </de_divina_proportione/compendio/cap_47/cap_47_notes>` [1509 Folios: 0022, 0023, 0029, 0030, 0031, 0032, 0038, 0039, 0040, 0043]
+- ``XIII.18`` (``euclid:elements:XIII.18``) — Cited in :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/cap_21_notes>`, :doc:`Comp. Cap. 25 (Notes) </de_divina_proportione/compendio/cap_25/cap_25_notes>`, :doc:`Comp. Cap. 31 (Notes) </de_divina_proportione/compendio/cap_31/cap_31_notes>`, :doc:`Comp. Cap. 47 (Notes) </de_divina_proportione/compendio/cap_47/cap_47_notes>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>` [1509 Folios: 0022, 0023, 0029, 0030, 0031, 0032, 0038, 0039, 0040, 0043]
 
 .. _cite-euclid-elements-xiii-2:
 
-- ``XIII.2`` (``euclid:elements:XIII.2``) — Cited in :doc:`Comp. Cap. 7 (Notes) </de_divina_proportione/compendio/cap_07/cap_07_notes>`, :doc:`Comp. Cap. 11 (Notes) </de_divina_proportione/compendio/cap_11/cap_11_notes>`
+- ``XIII.2`` (``euclid:elements:XIII.2``) — Cited in :doc:`Comp. Cap. 7 (Notes) </de_divina_proportione/compendio/cap_07/cap_07_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _cite-euclid-elements-xiii-3:
 
-- ``XIII.3`` (``euclid:elements:XIII.3``) — Cited in :doc:`Comp. Cap. 12 (Notes) </de_divina_proportione/compendio/cap_12/cap_12_notes>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>` [1509 Folios: 0035]
+- ``XIII.3`` (``euclid:elements:XIII.3``) — Cited in :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>` [1509 Folios: 0035]
 
 .. _cite-euclid-elements-xiii-4:
 
-- ``XIII.4`` (``euclid:elements:XIII.4``) — Cited in :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 13 (IT) </de_divina_proportione/compendio/cap_13/cap_13_it>`, :doc:`Comp. Cap. 13 (Notes) </de_divina_proportione/compendio/cap_13/cap_13_notes>`, :doc:`Comp. Cap. 14 (Notes) </de_divina_proportione/compendio/cap_14/cap_14_notes>`, :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/cap_21_notes>`, :doc:`Comp. Cap. 30 (Notes) </de_divina_proportione/compendio/cap_30/cap_30_notes>` [1509 Folios: 0022, 0023, 0027, 0029, 0030, 0036, 0037, 0038]
+- ``XIII.4`` (``euclid:elements:XIII.4``) — Cited in :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 13 (IT) </de_divina_proportione/compendio/cap_13/cap_13_it>`, :doc:`Comp. Cap. 13 (Notes) </de_divina_proportione/compendio/cap_13/cap_13_notes>`, :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/cap_21_notes>`, :doc:`Comp. Cap. 30 (Notes) </de_divina_proportione/compendio/cap_30/cap_30_notes>` [1509 Folios: 0022, 0023, 0027, 0029, 0030, 0036, 0037, 0038]
 
 .. _cite-euclid-elements-xiii-5:
 
-- ``XIII.5`` (``euclid:elements:XIII.5``) — Cited in :doc:`Comp. Cap. 13 (Notes) </de_divina_proportione/compendio/cap_13/cap_13_notes>`, :doc:`Comp. Cap. 16 (Notes) </de_divina_proportione/compendio/cap_16/cap_16_notes>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/cap_30_it>` [1509 Folios: 0027, 0036]
+- ``XIII.5`` (``euclid:elements:XIII.5``) — Cited in :doc:`Comp. Cap. 13 (Notes) </de_divina_proportione/compendio/cap_13/cap_13_notes>`, :doc:`Comp. Cap. 16 (Notes) </de_divina_proportione/compendio/cap_16/cap_16_notes>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/cap_30_it>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>` [1509 Folios: 0027, 0036]
 
 .. _cite-euclid-elements-xiii-6:
 
-- ``XIII.6`` (``euclid:elements:XIII.6``) — Cited in :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 8 (IT) </de_divina_proportione/compendio/cap_08/cap_08_it>`, :doc:`Comp. Cap. 15 (Notes) </de_divina_proportione/compendio/cap_15/cap_15_notes>`, :doc:`Comp. Cap. 30 (Notes) </de_divina_proportione/compendio/cap_30/cap_30_notes>` [1509 Folios: 0022, 0023, 0025, 0036, 0037, 0038]
+- ``XIII.6`` (``euclid:elements:XIII.6``) — Cited in :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 8 (IT) </de_divina_proportione/compendio/cap_08/cap_08_it>`, :doc:`Comp. Cap. 30 (Notes) </de_divina_proportione/compendio/cap_30/cap_30_notes>` [1509 Folios: 0022, 0023, 0025, 0036, 0037, 0038]
 
 .. _cite-euclid-elements-xiii-7:
 
@@ -515,7 +553,7 @@ See biographical entry: :ref:`Euclid of Alexandria (identified by Pacioli as Euc
 
 .. _cite-euclid-elements-xiii-9:
 
-- ``XIII.9`` (``euclid:elements:XIII.9``) — Cited in :doc:`Comp. Cap. 16 (Notes) </de_divina_proportione/compendio/cap_16/cap_16_notes>`, :doc:`Comp. Cap. 17 (Notes) </de_divina_proportione/compendio/cap_17/cap_17_notes>`, :doc:`Comp. Cap. 20 (Notes) </de_divina_proportione/compendio/cap_20/cap_20_notes>`, :doc:`Comp. Cap. 24 (Notes) </de_divina_proportione/compendio/cap_24/cap_24_notes>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>`, :doc:`Comp. Cap. 29 (Notes) </de_divina_proportione/compendio/cap_29/cap_29_notes>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/cap_31_it>` [1509 Folios: 0028, 0029, 0031, 0034, 0035, 0036, 0039]
+- ``XIII.9`` (``euclid:elements:XIII.9``) — Cited in :doc:`Comp. Cap. 17 (Notes) </de_divina_proportione/compendio/cap_17/cap_17_notes>`, :doc:`Comp. Cap. 20 (Notes) </de_divina_proportione/compendio/cap_20/cap_20_notes>`, :doc:`Comp. Cap. 24 (Notes) </de_divina_proportione/compendio/cap_24/cap_24_notes>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>`, :doc:`Comp. Cap. 29 (Notes) </de_divina_proportione/compendio/cap_29/cap_29_notes>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/cap_31_it>` [1509 Folios: 0028, 0029, 0031, 0034, 0035, 0036, 0039]
 
 .. _cite-euclid-elements-xiv-1:
 
@@ -527,55 +565,103 @@ See biographical entry: :ref:`Euclid of Alexandria (identified by Pacioli as Euc
 
 .. _cite-euclid-elements-xiv-2:
 
-- ``XIV.2`` (``euclid:elements:XIV.2``) — Cited in :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 19 (Notes) </de_divina_proportione/compendio/cap_19/cap_19_notes>` [1509 Folios: 0022, 0023]
+- ``XIV.2`` (``euclid:elements:XIV.2``) — Cited in :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>` [1509 Folios: 0022, 0023]
+
+.. _cite-euclid-elements-xv:
+
+- ``XV`` (``euclid:elements:XV``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _cite-euclid-elements-xv-1:
 
-- ``XV.1`` (``euclid:elements:XV.1``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`
+- ``XV.1`` (``euclid:elements:XV.1``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _cite-euclid-elements-xv-10:
 
-- ``XV.10`` (``euclid:elements:XV.10``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`
+- ``XV.10`` (``euclid:elements:XV.10``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _cite-euclid-elements-xv-11:
 
-- ``XV.11`` (``euclid:elements:XV.11``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`
+- ``XV.11`` (``euclid:elements:XV.11``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _cite-euclid-elements-xv-12:
 
-- ``XV.12`` (``euclid:elements:XV.12``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`
+- ``XV.12`` (``euclid:elements:XV.12``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _cite-euclid-elements-xv-2:
 
-- ``XV.2`` (``euclid:elements:XV.2``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`
+- ``XV.2`` (``euclid:elements:XV.2``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _cite-euclid-elements-xv-3:
 
-- ``XV.3`` (``euclid:elements:XV.3``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`
+- ``XV.3`` (``euclid:elements:XV.3``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _cite-euclid-elements-xv-4:
 
-- ``XV.4`` (``euclid:elements:XV.4``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`
+- ``XV.4`` (``euclid:elements:XV.4``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _cite-euclid-elements-xv-5:
 
-- ``XV.5`` (``euclid:elements:XV.5``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`
+- ``XV.5`` (``euclid:elements:XV.5``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _cite-euclid-elements-xv-6:
 
-- ``XV.6`` (``euclid:elements:XV.6``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`
+- ``XV.6`` (``euclid:elements:XV.6``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _cite-euclid-elements-xv-7:
 
-- ``XV.7`` (``euclid:elements:XV.7``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`
+- ``XV.7`` (``euclid:elements:XV.7``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _cite-euclid-elements-xv-8:
 
-- ``XV.8`` (``euclid:elements:XV.8``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`
+- ``XV.8`` (``euclid:elements:XV.8``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _cite-euclid-elements-xv-9:
 
-- ``XV.9`` (``euclid:elements:XV.9``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`
+- ``XV.9`` (``euclid:elements:XV.9``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
+
+.. _bib-emil-harless:
+
+Harless, Emil (1820 – 1862)
+---------------------------
+
+See biographical entry: :ref:`Harless, Emil <person-emil-harless>`.
+
+.. _work-harless-anatomie:
+.. _cite-harless-anatomie:
+
+**Lehrbuch der plastischen Anatomie (Stuttgart, 1856–1858)** (``harless:anatomie``)
+
+- ``General reference`` (``harless:anatomie``) — Cited in :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
+.. _bib-hypsicles:
+
+Hypsicles of Alexandria (c. 190 – c. 120 BC)
+--------------------------------------------
+
+See biographical entry: :ref:`Hypsicles of Alexandria <person-hypsicles>`.
+
+.. _work-hypsicles-liber-xiv:
+.. _cite-hypsicles-liber-xiv:
+
+**Elementa Liber XIV (On the Regular Icosahedron and Dodecahedron)** (``hypsicles:liber-xiv``)
+
+.. _cite-hypsicles-liber-xiv-2:
+
+- ``2`` (``hypsicles:liber-xiv:2``) — Cited in :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
+
+.. _bib-johannes-kepler:
+
+Kepler, Johannes (1571 – 1630)
+------------------------------
+
+See biographical entry: :ref:`Kepler, Johannes <person-johannes-kepler>`.
+
+.. _work-kepler-harmonices-mundi:
+.. _cite-kepler-harmonices-mundi:
+
+**Harmonices Mundi (1619)** (``kepler:harmonices-mundi``)
+
+- ``General reference`` (``kepler:harmonices-mundi``) — Cited in :doc:`Comp. Cap. 50 (Notes) </de_divina_proportione/compendio/cap_50/cap_50_notes>` [1509 Folios: 0044, 0045]
 
 .. _bib-leonardo:
 
@@ -594,9 +680,39 @@ See biographical entry: :ref:`Leonardo da Vinci <person-leonardo>`.
 .. _work-leonardo-pittura:
 .. _cite-leonardo-pittura:
 
-**Libro di Pittura e Movimenti Humani** (``leonardo:pittura``)
+**Libro di Pittura e Movimenti Humani (Trattato della Pittura / Malerbuch)** (``leonardo:pittura``)
 
-- ``General reference`` (``leonardo:pittura``) — Cited in :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>` [1509 Folios: 0017, 0018]
+- ``General reference`` (``leonardo:pittura``) — Cited in :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>` [1509 Folios: 0017, 0018]
+
+.. _bib-guillaume-libri:
+
+Libri, Guillaume (1803 – 1869)
+------------------------------
+
+See biographical entry: :ref:`Libri, Guillaume (Guglielmo Libri Carucci dalla Sommaja) <person-guillaume-libri>`.
+
+.. _work-libri-histoire:
+.. _cite-libri-histoire:
+
+**Histoire des sciences mathématiques en Italie (Vol. III, Paris, 1840)** (``libri:histoire``)
+
+.. _cite-libri-histoire-iii:
+
+- ``III`` (``libri:histoire:III``) — Cited in :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
+.. _bib-montucla:
+
+Montucla, Jean-Étienne (1725 – 1799)
+------------------------------------
+
+See biographical entry: :ref:`Montucla, Jean-Étienne <person-montucla>`.
+
+.. _work-montucla-histoire:
+.. _cite-montucla-histoire:
+
+**Histoire des mathématiques** (``montucla:histoire``)
+
+- ``General reference`` (``montucla:histoire``) — Cited in :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
 
 .. _bib-pacioli:
 
@@ -605,12 +721,26 @@ Pacioli, Fra Luca, O.F.M. (c. 1447 – 1517)
 
 See biographical entry: :ref:`Pacioli, Fra Luca, O.F.M. <person-pacioli>`.
 
+.. _work-pacioli-architectura:
+.. _cite-pacioli-architectura:
+
+**Tractato de l'Architectura (1509)** (``pacioli:architectura``)
+
+- ``General reference`` (``pacioli:architectura``) — Cited in :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural_en>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural_it>` [1509 Folios: 0061, 0062, 0063, 0064, 0065, 0066, 0067, 0068, 0069, 0070]
+
+.. _work-pacioli-divina-proportione:
+.. _cite-pacioli-divina-proportione:
+
+**Compendio de Divina Proportione (1498 / 1509)** (``pacioli:divina-proportione``)
+
+- ``General reference`` (``pacioli:divina-proportione``) — Cited in :doc:`Arch. Cap. 11 (Notes) </de_divina_proportione/architectura/cap_11/cap_11_notes>`, :doc:`Arch. Cap. 17 (Notes) </de_divina_proportione/architectura/cap_17/cap_17_notes>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`, :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>` [1509 Folios: 0016, 0017, 0018, 0019, 0020, 0021, 0022, 0023, 0024, 0025]
+
 .. _work-pacioli-summa:
 .. _cite-pacioli-summa:
 
 **Summa de Arithmetica, Geometria, Proportioni et Proportionalita (Venice, 1494)** (``pacioli:summa``)
 
-- ``General reference`` (``pacioli:summa``) — Cited in :doc:`Arch. Cap. 19 (DE) </de_divina_proportione/architectura/cap_19/cap_19_de>`, :doc:`Arch. Cap. 19 (IT) </de_divina_proportione/architectura/cap_19/cap_19_it>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Comp. Cap. 4 (EN) </de_divina_proportione/compendio/cap_04/cap_04_en>`, :doc:`Comp. Cap. 21 (EN) </de_divina_proportione/compendio/cap_21/cap_21_en>`, :doc:`Comp. Cap. 62 (EN) </de_divina_proportione/compendio/cap_62/cap_62_en>`, :doc:`Comp. Cap. 63 (EN) </de_divina_proportione/compendio/cap_63/cap_63_en>`, :doc:`Comp. Cap. 63 (Notes) </de_divina_proportione/compendio/cap_63/cap_63_notes>`, :doc:`Comp. Cap. 68 (EN) </de_divina_proportione/compendio/cap_68/cap_68_en>`, :doc:`Comp. Cap. 68 (Notes) </de_divina_proportione/compendio/cap_68/cap_68_notes>`, :doc:`Comp. Cap. 69 (EN) </de_divina_proportione/compendio/cap_69/cap_69_en>`, :doc:`Comp. Cap. 71 (EN) </de_divina_proportione/compendio/cap_71/cap_71_en>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/cap_71_it>`, :doc:`Winterberg's Critical Introduction (1889) </de_divina_proportione/intro/intro_en>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural_de>` [1509 Folios: 0017, 0054, 0057, 0058, 0060, 0080]
+- ``General reference`` (``pacioli:summa``) — Cited in :doc:`Arch. Cap. 19 (DE) </de_divina_proportione/architectura/cap_19/cap_19_de>`, :doc:`Arch. Cap. 19 (IT) </de_divina_proportione/architectura/cap_19/cap_19_it>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Comp. Cap. 4 (EN) </de_divina_proportione/compendio/cap_04/cap_04_en>`, :doc:`Comp. Cap. 21 (EN) </de_divina_proportione/compendio/cap_21/cap_21_en>`, :doc:`Comp. Cap. 62 (EN) </de_divina_proportione/compendio/cap_62/cap_62_en>`, :doc:`Comp. Cap. 63 (EN) </de_divina_proportione/compendio/cap_63/cap_63_en>`, :doc:`Comp. Cap. 63 (Notes) </de_divina_proportione/compendio/cap_63/cap_63_notes>`, :doc:`Comp. Cap. 68 (EN) </de_divina_proportione/compendio/cap_68/cap_68_en>`, :doc:`Comp. Cap. 68 (Notes) </de_divina_proportione/compendio/cap_68/cap_68_notes>`, :doc:`Comp. Cap. 69 (EN) </de_divina_proportione/compendio/cap_69/cap_69_en>`, :doc:`Comp. Cap. 71 (EN) </de_divina_proportione/compendio/cap_71/cap_71_en>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/cap_71_it>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural_de>` [1509 Folios: 0017, 0054, 0057, 0058, 0060, 0080]
 
 .. _bib-piero-della-francesca:
 
@@ -619,12 +749,19 @@ Piero della Francesca (c. 1415 – 1492)
 
 See biographical entry: :ref:`Piero della Francesca (Maestro Pietro de li Franceschi) <person-piero-della-francesca>`.
 
+.. _work-piero-cod-vat-lat-3129:
+.. _cite-piero-cod-vat-lat-3129:
+
+**Vatican Library Manuscript (Cod. Vat. Lat. 3129 cited by Winterberg)** (``piero:cod-vat-lat-3129``)
+
+- ``General reference`` (``piero:cod-vat-lat-3129``) — Cited in :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
 .. _work-piero-libellus:
 .. _cite-piero-libellus:
 
 **Libellus de Quinque Corporibus Regularibus (Vat. Urb. lat. 632)** (``piero:libellus``)
 
-- ``General reference`` (``piero:libellus``) — Cited in :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg's Critical Introduction (1889) </de_divina_proportione/intro/intro_en>`, :doc:`Plates: Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
+- ``General reference`` (``piero:libellus``) — Cited in :doc:`Comp. Cap. 22 (Notes) </de_divina_proportione/compendio/cap_22/cap_22_notes>`, :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Winterberg Anmerkungen (DE) </de_divina_proportione/plates/anmerkungen_de>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _work-piero-prospectiva:
 .. _cite-piero-prospectiva:
@@ -647,7 +784,7 @@ See biographical entry: :ref:`Plato of Athens <person-plato>`.
 
 .. _cite-plato-timaeus-53c-56c:
 
-- ``53c-56c`` (``plato:timaeus:53c-56c``) — Cited in :doc:`Arch. Cap. 1 (DE) </de_divina_proportione/architectura/cap_01/cap_01_de>`, :doc:`Arch. Cap. 1 (EN) </de_divina_proportione/architectura/cap_01/cap_01_en>`, :doc:`Arch. Cap. 12 (DE) </de_divina_proportione/architectura/cap_12/cap_12_de>`, :doc:`Arch. Cap. 12 (EN) </de_divina_proportione/architectura/cap_12/cap_12_en>`, :doc:`Arch. Cap. 20 (DE) </de_divina_proportione/architectura/cap_20/cap_20_de>`, :doc:`Arch. Cap. 20 (EN) </de_divina_proportione/architectura/cap_20/cap_20_en>`, :doc:`Arch. Cap. 20 (IT) </de_divina_proportione/architectura/cap_20/cap_20_it>`, :doc:`Arch. Cap. 20 (Notes) </de_divina_proportione/architectura/cap_20/cap_20_notes>`, :doc:`Comp. Cap. 5 (DE) </de_divina_proportione/compendio/cap_05/cap_05_de>`, :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/cap_05_en>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/cap_05_it>`, :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 22 (EN) </de_divina_proportione/compendio/cap_22/cap_22_en>`, :doc:`Comp. Cap. 24 (DE) </de_divina_proportione/compendio/cap_24/cap_24_de>`, :doc:`Comp. Cap. 30 (EN) </de_divina_proportione/compendio/cap_30/cap_30_en>`, :doc:`Comp. Cap. 43 (EN) </de_divina_proportione/compendio/cap_43/cap_43_en>`, :doc:`Comp. Cap. 55 (DE) </de_divina_proportione/compendio/cap_55/cap_55_de>`, :doc:`Comp. Cap. 55 (EN) </de_divina_proportione/compendio/cap_55/cap_55_en>`, :doc:`Comp. Cap. 55 (IT) </de_divina_proportione/compendio/cap_55/cap_55_it>`, :doc:`Comp. Cap. 55 (Notes) </de_divina_proportione/compendio/cap_55/cap_55_notes>` [1509 Folios: 0022, 0023, 0048, 0049, 0081, 0082]
+- ``53c-56c`` (``plato:timaeus:53c-56c``) — Cited in :doc:`Arch. Cap. 1 (DE) </de_divina_proportione/architectura/cap_01/cap_01_de>`, :doc:`Arch. Cap. 1 (EN) </de_divina_proportione/architectura/cap_01/cap_01_en>`, :doc:`Arch. Cap. 12 (DE) </de_divina_proportione/architectura/cap_12/cap_12_de>`, :doc:`Arch. Cap. 12 (EN) </de_divina_proportione/architectura/cap_12/cap_12_en>`, :doc:`Arch. Cap. 20 (DE) </de_divina_proportione/architectura/cap_20/cap_20_de>`, :doc:`Arch. Cap. 20 (EN) </de_divina_proportione/architectura/cap_20/cap_20_en>`, :doc:`Arch. Cap. 20 (IT) </de_divina_proportione/architectura/cap_20/cap_20_it>`, :doc:`Arch. Cap. 20 (Notes) </de_divina_proportione/architectura/cap_20/cap_20_notes>`, :doc:`Comp. Cap. 5 (DE) </de_divina_proportione/compendio/cap_05/cap_05_de>`, :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/cap_05_en>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/cap_05_it>`, :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 22 (EN) </de_divina_proportione/compendio/cap_22/cap_22_en>`, :doc:`Comp. Cap. 24 (DE) </de_divina_proportione/compendio/cap_24/cap_24_de>`, :doc:`Comp. Cap. 30 (EN) </de_divina_proportione/compendio/cap_30/cap_30_en>`, :doc:`Comp. Cap. 43 (EN) </de_divina_proportione/compendio/cap_43/cap_43_en>`, :doc:`Comp. Cap. 55 (DE) </de_divina_proportione/compendio/cap_55/cap_55_de>`, :doc:`Comp. Cap. 55 (EN) </de_divina_proportione/compendio/cap_55/cap_55_en>`, :doc:`Comp. Cap. 55 (IT) </de_divina_proportione/compendio/cap_55/cap_55_it>`, :doc:`Comp. Cap. 55 (Notes) </de_divina_proportione/compendio/cap_55/cap_55_notes>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>` [1509 Folios: 0022, 0023, 0048, 0049, 0081, 0082]
 
 .. _bib-ptolemy:
 
@@ -672,6 +809,90 @@ See biographical entry: :ref:`Ptolemy, Claudius <person-ptolemy>`.
 
 - ``General reference`` (``ptolemy:cosmographia``) — Cited in :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/cap_03_it>` [1509 Folios: 0021]
 
+.. _bib-adolphe-quetelet:
+
+Quetelet, Adolphe (1796 – 1874)
+-------------------------------
+
+See biographical entry: :ref:`Quetelet, Adolphe <person-adolphe-quetelet>`.
+
+.. _work-quetelet-anthropometrie:
+.. _cite-quetelet-anthropometrie:
+
+**Anthropométrie, ou Mesure des différentes facultés de l'homme (1870)** (``quetelet:anthropometrie``)
+
+- ``General reference`` (``quetelet:anthropometrie``) — Cited in :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
+.. _bib-carl-schmidt:
+
+Schmidt, Carl (fl. 1849)
+------------------------
+
+See biographical entry: :ref:`Schmidt, Carl <person-carl-schmidt>`.
+
+.. _work-schmidt-proportionsschluessel:
+.. _cite-schmidt-proportionsschluessel:
+
+**Proportionsschlüssel: Neues System der Verhältnisse des menschlichen Körpers (Stuttgart, 1849)** (``schmidt:proportionsschluessel``)
+
+- ``General reference`` (``schmidt:proportionsschluessel``) — Cited in :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
+.. _bib-serlio:
+
+Serlio, Sebastiano (1475 – c. 1554)
+-----------------------------------
+
+See biographical entry: :ref:`Serlio, Sebastiano <person-serlio>`.
+
+.. _work-serlio-architettura:
+.. _cite-serlio-architettura:
+
+**I Sette Libri dell'Architettura** (``serlio:architettura``)
+
+- ``General reference`` (``serlio:architettura``) — Cited in :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
+.. _bib-niccolo-tartaglia:
+
+Tartaglia, Niccolò (1499/1500 – 1557)
+-------------------------------------
+
+See biographical entry: :ref:`Tartaglia, Niccolò (Niccolò Fontana) <person-niccolo-tartaglia>`.
+
+.. _work-tartaglia-general-trattato:
+.. _cite-tartaglia-general-trattato:
+
+**General Trattato di Numeri et Misure (Venice, 1556–1560)** (``tartaglia:general-trattato``)
+
+- ``General reference`` (``tartaglia:general-trattato``) — Cited in :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
+
+.. _bib-j-j-trost:
+
+Trost, Johann Jacob (fl. 1854 – 1866)
+-------------------------------------
+
+See biographical entry: :ref:`Trost, Johann Jacob <person-j-j-trost>`.
+
+.. _work-trost-proportionslehre:
+.. _cite-trost-proportionslehre:
+
+**Die Proportionslehre Dürer's nach ihren wesentlichen Bestimmungen (Wien, 1859)** (``trost:proportionslehre``)
+
+- ``General reference`` (``trost:proportionslehre``) — Cited in :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
+.. _bib-vasari:
+
+Vasari, Giorgio (1511 – 1574)
+-----------------------------
+
+See biographical entry: :ref:`Vasari, Giorgio <person-vasari>`.
+
+.. _work-vasari-vite:
+.. _cite-vasari-vite:
+
+**Le Vite de' più eccellenti pittori, scultori, e architettori** (``vasari:vite``)
+
+- ``General reference`` (``vasari:vite``) — Cited in :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
 .. _bib-vitruvius:
 
 Vitruvius Pollio, Marcus (1st century BC)
@@ -684,7 +905,7 @@ See biographical entry: :ref:`Vitruvius Pollio, Marcus <person-vitruvius>`.
 
 **De Architectura Libri Decem** (``vitruvius:de-arch``)
 
-- ``General reference`` (``vitruvius:de-arch``) — Cited in :doc:`Winterberg's Critical Introduction (1889) </de_divina_proportione/intro/intro_en>`
+- ``General reference`` (``vitruvius:de-arch``) — Cited in :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
 
 .. _cite-vitruvius-de-arch-iii-5:
 
@@ -697,3 +918,38 @@ See biographical entry: :ref:`Vitruvius Pollio, Marcus <person-vitruvius>`.
 .. _cite-vitruvius-de-arch-iv-2-3:
 
 - ``IV.2–3`` (``vitruvius:de-arch:IV.2–3``) — Cited in :doc:`Arch. Cap. 13 (Notes) </de_divina_proportione/architectura/cap_13/cap_13_notes>` [1509 Folios: 0078]
+
+.. _bib-winterberg:
+
+Winterberg, Constantin (fl. 1887 – 1889)
+----------------------------------------
+
+See biographical entry: :ref:`Winterberg, Constantin <person-winterberg>`.
+
+.. _work-winterberg-divina-proportione-1889:
+.. _cite-winterberg-divina-proportione-1889:
+
+**Fra Luca Pacioli: Divina Proportione — Die Lehre vom Goldenen Schnitt (Wien: Carl Graeser, 1889)** (``winterberg:divina-proportione-1889``)
+
+- ``General reference`` (``winterberg:divina-proportione-1889``) — Cited in :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
+.. _work-winterberg-malerbuch-1887:
+.. _cite-winterberg-malerbuch-1887:
+
+**Das Malerbuch Lionardo da Vinci's (Jahrbücher der königlich preussischen Kunstsammlungen, 1887)** (``winterberg:malerbuch-1887``)
+
+- ``General reference`` (``winterberg:malerbuch-1887``) — Cited in :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+
+.. _bib-adolf-zeising:
+
+Zeising, Adolf (1810 – 1876)
+----------------------------
+
+See biographical entry: :ref:`Zeising, Adolf <person-adolf-zeising>`.
+
+.. _work-zeising-proportionen:
+.. _cite-zeising-proportionen:
+
+**Neue Lehre von den Proportionen des menschlichen Körpers (Leipzig, 1854)** (``zeising:proportionen``)
+
+- ``General reference`` (``zeising:proportionen``) — Cited in :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`

@@ -4,9 +4,9 @@ Folio 0041 (f. 13r) — Transcription & Graphic Calibration Notes
 Summary & Folio Continuity
 --------------------------
 
-- **Preceding Folio** (``0040.rst``): Folio f. 12v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XXXI, Cap. XXXII, Cap. XXXIII (f. 12v) — A trouar li lati de tutti 5 :term:`corpi regulari <corpi-regulari>`.
-- **Current Folio** (``0041.rst``): Folio f. 13r (recto), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` [``01_compendio``] — Cap. XXXIII, Cap. XXXIV, Cap. XXXV, Cap. XXXVI, Cap. XXXVII (f. 13r) — Dela proportione de tutte loro superficie lune alaltre.
-- **Following Folio** (``0042.rst``): Folio f. 13v (verso), Part I: Compendio de :term:`Divina Proportione <divina-proportione>` — Cap. XXXVIII, Cap. XXXIX, Cap. XL, Cap. XLI, Cap. XLII, Cap. XLIII, Cap. XLIV (f. 13v) — Dela inscriptione del :term:`tetracedron <tetrahedron>` in loctocedron.
+- **Preceding Folio** (``0040.rst``): Folio f. 12v (verso), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` — Cap. XXXI, Cap. XXXII, Cap. XXXIII (f. 12v) — A trouar li lati de tutti 5 :term:`corpi regulari <corpi-regulari>`.
+- **Current Folio** (``0041.rst``): Folio f. 13r (recto), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` [``01_compendio``] — Cap. XXXIII, Cap. XXXIV, Cap. XXXV, Cap. XXXVI, Cap. XXXVII (f. 13r) — Dela proportione de tutte loro superficie lune alaltre.
+- **Following Folio** (``0042.rst``): Folio f. 13v (verso), Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` — Cap. XXXVIII, Cap. XXXIX, Cap. XL, Cap. XLI, Cap. XLII, Cap. XLIII, Cap. XLIV (f. 13v) — Dela inscriptione del :term:`tetracedron <tetrahedron>` in loctocedron.
 
 Graphic Extraction & Calibration
 --------------------------------
@@ -23,7 +23,7 @@ Diplomatic & Textual Observations
 
 - **1509 Paganini Running Header**: ``PRIMA``
 - **Folio Signature / Numeration**: ``f. 13r`` (Scan page ``41``, *recto*)
-- **Book & Section Slug**: Part I: Compendio de :term:`Divina Proportione <divina-proportione>` (``01_compendio``)
+- **Book & Section Slug**: Part I: :cite:`Compendio de Divina Proportione <pacioli:divina-proportione>` (``01_compendio``)
 - **Chapter Boundaries & Winterberg 1889 Concordance**:
   - **Cap. XXXIII** (``compendio/cap_33``): Continuatio (continues from preceding folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/033_cap_XXXIII.txt``
   - **Cap. XXXIV** (``compendio/cap_34``): Incipit (starts on this folio) | :person:`Winterberg <winterberg>` 1889 Italian file: ``winterberg/01_divina_proportione_italian/034_cap_XXXIV.txt``
@@ -53,7 +53,7 @@ Historical & Mathematical Commentary
 ------------------------------------
 
 - **Book XV in the Campanus Tradition**: While the Greek *Elements* Book XV (compiled in the circle of :person:`Isidore <isidore>` of Miletus, 6th century CE) contained only a handful of simple inscriptions (:term:`Tetrahedron <tetrahedron>` in Cube, :term:`Octahedron <octahedron>` in :term:`Tetrahedron <tetrahedron>`, :term:`Octahedron <octahedron>` in Cube, Cube in :term:`Octahedron <octahedron>`, :term:`Dodecahedron <dodecahedron>` in :term:`Icosahedron <icosahedron>`), :person:`**Campanus of Novara** <campanus>` (c. 1259) expanded Book XV into a systematic sequence of 13 propositions covering 12 polyhedral inscriptions (XV.1–12) plus the inscription of the sphere in all five regular solids (XV.13).
-- **Structure of Chapters XXXV–XLVII**: Pacioli devotes ``Cap. XXXV`` through ``Cap. XLVII`` to translating and explaining :person:`Campanus <campanus>`'s Book XV propositions one by one, accompanied by marginal woodcuts on Folios ``0038``–``0041``.
+- **Structure of Chapters XXXV–XLVII**: :person:`Pacioli <pacioli>` devotes ``Cap. XXXV`` through ``Cap. XLVII`` to translating and explaining :person:`Campanus <campanus>`'s Book XV propositions one by one, accompanied by marginal woodcuts on Folios ``0038``–``0041``.
 
 Cap. XXXV — How the Octocedron Is Formed and Inscribed in the Tetracedron.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

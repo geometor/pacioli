@@ -13,7 +13,7 @@ Historical & Mathematical Commentary
 ------------------------------------
 
 - **Paganini 1509 Marginal Diagram**: Folio 0035 (``f. 10r``) displays diagram ``0035.g1.png``, showing the unfolded squares of the cube with their bisected medians and the pentagonal face :math:`bvxcu` pitched like a hipped roof (*coperto / colmo*) over the cube edge :math:`bc`.
-- **Why Section 2 Proved :cite:`Euclid XIII.4 <euclid:elements:XIII.4>`, :cite:`Euclid XIII.6 <euclid:elements:XIII.6>`, and :cite:`Euclid XIII.7 <euclid:elements:XIII.7>`**: Every step of :person:`Euclid <euclid>`'s construction of the :term:`dodecahedron <dodecahedron>` in :cite:`Euclid XIII.17 <euclid:elements:XIII.17>` calls upon a specific proposition from earlier in Book XIII:
+- **Why Section 2 Proved Euclid XIII.4, Euclid XIII.6, and Euclid XIII.7**: Every step of :person:`Euclid <euclid>`'s construction of the :term:`dodecahedron <dodecahedron>` in :cite:`Euclid XIII.17 <euclid:elements:XIII.17>` calls upon a specific proposition from earlier in Book XIII:
 
   - :cite:`Euclid XIII.4 <euclid:elements:XIII.4>` (:math:`L^{2} + b^{2} = 3a^{2}`) proves both that the roof edges equal the ridge :math:`2a` and that the twelve roof vertices lie at the same distance :math:`\sqrt{3}\cdot(\frac{1}{2}s_{\text{cube}})` from the center of the cube as the eight cube corners!
   - :cite:`Euclid XIII.7 <euclid:elements:XIII.7>` proves that the pentagon :math:`bvxcu` is equiangular because three of its angles are subtended by equal chords (:math:`bc` and the two diagonals meeting at :math:`u`).
@@ -80,6 +80,9 @@ also addirt:
    el^2 + ke^2 = 2\,em^2 + mk^2 - ml^2 = 2\,em^2 + lk^2.
 
 Da ferner $em^2 = el \cdot ek = lk^2$, so folgt: $el^2 + ke^2 = 3\,em^2 = 3\,kl^2$. w. z. b. w.
+
+- :person:`Winterberg <winterberg>` Footnotes 1–4 (Cap. XXX, pp. 222–224): (1) Mathematical abbreviations are introduced occasionally here and in the following chapters for clearer overview. (2) Namely, because of the similarity of the two triangles $ksh$ and $qrh$ following from the proportion, since the sum of the two adjacent angles plus the dihedral angle enclosed by the two cube faces equals $180^\circ$. (3) For brevity, the expression 'continuous division' (*stetige Theilung*) is used for :person:`Pacioli's <pacioli>` 'proportion having a mean and two extremes'. (4) Compare Chapter LXXI.
+  (:person:`Winterberg <winterberg>` Fussnoten 1–4 (Cap. XXX, S. 222–224): *1) Es sei erlaubt, hier und im Folgenden einige mathematische Abkürzungen der bessern Uebersicht wegen gelegentlich anzubringen. 2) scil. wegen der aus obiger Proportion folgenden Aehnlichkeit der beiden Dreiecke ksh und qrh, da die Summe der beiden anstossenden Winkel plus dem durch die beiden Kubusflächen eingeschlossenen zusammen gleich 180° sind. 3) Der Kürze wegen ist hier und im Folgenden dieser Ausdruck für den gleichbedeutenden: „nach der Proportion, die einen mittlern und zwei äussere Abschnitte hat“ gesetzt worden. 4) cfr. Cap. LXXI.*)
 
 
 Philological and Folio Apparatus
