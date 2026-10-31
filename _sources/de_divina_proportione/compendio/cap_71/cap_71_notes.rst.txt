@@ -15,6 +15,13 @@ Historical & Mathematical Commentary
 - **Paganini 1509 Marginal Diagram**: Folio 0059 (``f. 22r``) contains diagram ``0059.g1.png`` illustrating the circular segment with its **arco** (arc/bow), **corda** (chord/bowstring), and :term:`**saetta** <saetta>` (:term:`sagitta <saetta>`/arrow).
 - **Dating of the Colophon (December 14, 1498)**: The colophon on Folio 0061 (``f. 23r``) reads *"Finis a di 14. decembre in Milano nel nostro almo convento MCCCCXCVII. Sedente summo pontifice Alexandro VI. del suo pontificato anno VII."* Because Pope Alexander VI (Rodrigo Borgia) was elected on August 11, 1492, his **seventh pontifical year** (*anno VII*) ran from August 11, 1498 to August 10, 1499—and ``Cap. LXIX`` explicitly refers to the Franciscan General Chapter held in Milan in May–June **1498** (*de l'anno presente*). Thus ``MCCCCXCVII`` in the 1509 print dropped a final ``I`` for ``MCCCCXCVIII`` (**December 14, 1498**), the exact date recorded in the presentation manuscripts (Geneva MS l.e. 210 and Milan Biblioteca Ambrosiana MS 170 sup.).
 
+Constantin Winterberg's Commentary (1889 Edition)
+-------------------------------------------------
+
+- :person:`Winterberg <winterberg>` Footnote 1 (Cap. LXXI, p. 274): Namely, regular polyhedra (*scil. reguläre*).
+  (:person:`Winterberg <winterberg>` Fussnote 1 (Cap. LXXI, S. 274): *scil. reguläre.*)
+
+
 Philological and Folio Apparatus
 --------------------------------
 

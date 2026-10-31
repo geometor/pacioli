@@ -38,4 +38,4 @@ Und dies möge euch als heilsamer Wink dienen. Und die besagten obern Säulen m�
 
 Ende.
 
-Zu Venedig gedruckt durch den wackern Mann, Paganinus de Paganinis von Brescia, jedoch mit öffentlichem Decret, dass Niemand ebenda und im ganzen Reich vor Ablauf von 15 Jahren es drucke oder drucken lasse, und wenn es anderswo gedruckt, unter irgend welcher Farbe ins Publicum bringe, bei den im besagten Privileg enthaltenen Strafen. Im Jahre unserer Erlösung 1509 am 1. Juni; unter Leonardo Lauretano, Beherrscher der venetianischen Republik, im 6. Jahre des Pontificats :person:`Julius II <julius-ii>`.
+Zu Venedig gedruckt durch den wackern Mann, Paganinus de Paganinis von Brescia, jedoch mit öffentlichem Decret, dass Niemand ebenda und im ganzen Reich vor Ablauf von 15 Jahren es drucke oder drucken lasse, und wenn es anderswo gedruckt, unter irgend welcher Farbe ins Publicum bringe, bei den im besagten Privileg enthaltenen Strafen. Im Jahre unserer Erlösung 1509 am 1. Juni; unter :person:`Leonardo <leonardo>` Lauretano, Beherrscher der venetianischen Republik, im 6. Jahre des Pontificats :person:`Julius II <julius-ii>`.

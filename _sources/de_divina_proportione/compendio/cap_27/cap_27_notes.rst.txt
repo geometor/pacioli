@@ -12,7 +12,7 @@ CHAPTER XXVII — Critical Commentary & Notes
 Historical & Mathematical Commentary
 ------------------------------------
 
-- **Campanus vs. Heiberg Ordering**: In :person:`Campanus <campanus>`'s Latin *Elements*, the Cube is Proposition 14 of Book XIII and the :term:`Octahedron <octahedron>` is Proposition 15 (whereas in Heiberg's Greek text the :term:`Octahedron <octahedron>` is :cite:`Euclid XIII.14 <euclid:elements:XIII.14>` and the Cube is :cite:`Euclid XIII.15 <euclid:elements:XIII.15>`). Pacioli follows :person:`Campanus <campanus>`'s order here and explicitly explains the reason for this transposition at the end of ``Cap. XXXI``.
+- **Campanus vs. Heiberg Ordering**: In :person:`Campanus <campanus>`'s Latin *Elements*, the Cube is Proposition 14 of Book XIII and the :term:`Octahedron <octahedron>` is Proposition 15 (whereas in Heiberg's Greek text the :term:`Octahedron <octahedron>` is :cite:`Euclid XIII.14 <euclid:elements:XIII.14>` and the Cube is :cite:`Euclid XIII.15 <euclid:elements:XIII.15>`). :person:`Pacioli <pacioli>` follows :person:`Campanus <campanus>`'s order here and explicitly explains the reason for this transposition at the end of ``Cap. XXXI``.
 - **Relation to the Tetrahedron**: Using the same semicircle :math:`adb` cut at :math:`c` with :math:`ac = 2\,cb`, the longer chord :math:`da` is the edge of the inscribed :term:`**tetrahedron** <tetrahedron>` (:math:`da^{2} = \frac{2}{3}ab^{2}`), the shorter chord :math:`db` is the edge of the inscribed **cube** (:math:`db^{2} = \frac{1}{3}ab^{2}`), and therefore the edge of the :term:`tetrahedron <tetrahedron>` is the face diagonal of the cube (:math:`da^{2} = 2\,db^{2}`).
 
 Constantin Winterberg's Commentary (1889 Edition)

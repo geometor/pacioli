@@ -103,43 +103,43 @@
         <h2>Functions<a class="headerlink" href="#functions" title="Link to this heading">¶</a></h2>
         <table class="autosummary longtable docutils align-default">
         <tbody>
-        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.clean_image" title="geometor.pacioli.graphics.clean_image"><code class="xref py py-obj docutils literal notranslate"><span class="pre">clean_image</span></code></a>(→ PIL.Image.Image)</p></td>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.clean_image" title="geometor.pacioli.graphics.clean_image"><code class="xref py py-obj docutils literal notranslate"><span class="pre">clean_image</span></code></a>(pil_image[, white_point, preserve_color]) → PIL.Image.Image</p></td>
         <td><p>Normalize aged parchment background and binding shadows to pure white (255).</p></td>
         </tr>
-        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.find_text_column_bounds" title="geometor.pacioli.graphics.find_text_column_bounds"><code class="xref py py-obj docutils literal notranslate"><span class="pre">find_text_column_bounds</span></code></a>(→ Tuple[int, int])</p></td>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.find_text_column_bounds" title="geometor.pacioli.graphics.find_text_column_bounds"><code class="xref py py-obj docutils literal notranslate"><span class="pre">find_text_column_bounds</span></code></a>(gray, is_recto) → Tuple[int, int]</p></td>
         <td><p>Dynamically locate the horizontal [x_left, x_right] bounds of the main printed text column.</p></td>
         </tr>
-        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.detect_initials" title="geometor.pacioli.graphics.detect_initials"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_initials</span></code></a>(→ List[Dict[str, Any]])</p></td>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.detect_initials" title="geometor.pacioli.graphics.detect_initials"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_initials</span></code></a>(image_path) → List[Dict[str, Any]]</p></td>
         <td><p>Detect woodcut illuminated initial caps by finding 2D ink-density centers along the text column edge.</p></td>
         </tr>
-        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.detect_margin_figures" title="geometor.pacioli.graphics.detect_margin_figures"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_margin_figures</span></code></a>(→ List[Dict[str, Any]])</p></td>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.detect_margin_figures" title="geometor.pacioli.graphics.detect_margin_figures"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_margin_figures</span></code></a>(image_path, is_recto) → List[Dict[str, Any]]</p></td>
         <td><p>Detect geometric diagrams and marginalia strictly in the outer margin of a text folio.</p></td>
         </tr>
-        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.detect_graphics_scipy" title="geometor.pacioli.graphics.detect_graphics_scipy"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_graphics_scipy</span></code></a>(→ List[Dict[str, Any]])</p></td>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.detect_graphics_scipy" title="geometor.pacioli.graphics.detect_graphics_scipy"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_graphics_scipy</span></code></a>(image_path) → List[Dict[str, Any]]</p></td>
         <td><p>Detect full-page plate woodcuts on a folio (137-309) using NumPy and SciPy.</p></td>
         </tr>
-        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.detect_graphics_cv" title="geometor.pacioli.graphics.detect_graphics_cv"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_graphics_cv</span></code></a>(→ List[Dict[str, Any]])</p></td>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.detect_graphics_cv" title="geometor.pacioli.graphics.detect_graphics_cv"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_graphics_cv</span></code></a>(image_path) → List[Dict[str, Any]]</p></td>
         <td><p>Detect full-page plate graphics using OpenCV if available, falling back to SciPy.</p></td>
         </tr>
-        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.detect_graphics_folio" title="geometor.pacioli.graphics.detect_graphics_folio"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_graphics_folio</span></code></a>(→ List[Dict[str, Any]])</p></td>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.detect_graphics_folio" title="geometor.pacioli.graphics.detect_graphics_folio"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_graphics_folio</span></code></a>(image_path) → List[Dict[str, Any]]</p></td>
         <td><p>Context-aware graphic detection based on folio page number and book section.</p></td>
         </tr>
-        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.load_winterberg_chapters" title="geometor.pacioli.graphics.load_winterberg_chapters"><code class="xref py py-obj docutils literal notranslate"><span class="pre">load_winterberg_chapters</span></code></a>(→ Dict[Tuple[int, int], ...)</p></td>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.load_winterberg_chapters" title="geometor.pacioli.graphics.load_winterberg_chapters"><code class="xref py py-obj docutils literal notranslate"><span class="pre">load_winterberg_chapters</span></code></a>(resources_root) → Dict[Tuple[int, int], Dict[str, Any]]</p></td>
         <td><p>Load clean Italian, German, and English chapter titles and file links from Winterberg resources.</p></td>
         </tr>
-        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.extract_folio_content_info" title="geometor.pacioli.graphics.extract_folio_content_info"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_folio_content_info</span></code></a>(→ Dict[str, Any])</p></td>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.extract_folio_content_info" title="geometor.pacioli.graphics.extract_folio_content_info"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_folio_content_info</span></code></a>(folio_num, folio_dir[, wb_map]) → Dict[str, Any]</p></td>
         <td><p>Determine book part, recto/verso side, running header, and chapters/cases on a folio.</p></td>
         </tr>
-        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.detect_single_image" title="geometor.pacioli.graphics.detect_single_image"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_single_image</span></code></a>(→ Optional[Dict[str, Any]])</p></td>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.detect_single_image" title="geometor.pacioli.graphics.detect_single_image"><code class="xref py py-obj docutils literal notranslate"><span class="pre">detect_single_image</span></code></a>(img_path[, save, force, wb_map]) → Optional[Dict[str, Any]]</p></td>
         <td><p>Detect margin graphics, illuminated initial caps, and content info on a single folio scan.</p></td>
         </tr>
-        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.extract_from_json" title="geometor.pacioli.graphics.extract_from_json"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_from_json</span></code></a>(→ None)</p></td>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.extract_from_json" title="geometor.pacioli.graphics.extract_from_json"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_from_json</span></code></a>(json_path[, no_clean]) → None</p></td>
         <td><p>Extract all margin graphics and illuminated initial caps defined in &lt;folio&gt;.json.</p></td>
         </tr>
-        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.build_graphics_index" title="geometor.pacioli.graphics.build_graphics_index"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_graphics_index</span></code></a>(→ pathlib.Path)</p></td>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.build_graphics_index" title="geometor.pacioli.graphics.build_graphics_index"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_graphics_index</span></code></a>(directory) → pathlib.Path</p></td>
         <td><p>Compile all per-folio &lt;folio&gt;.json files into graphics_index.json.</p></td>
         </tr>
-        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.main" title="geometor.pacioli.graphics.main"><code class="xref py py-obj docutils literal notranslate"><span class="pre">main</span></code></a>(→ None)</p></td>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.graphics.main" title="geometor.pacioli.graphics.main"><code class="xref py py-obj docutils literal notranslate"><span class="pre">main</span></code></a>() → None</p></td>
         <td><p>CLI for managing graphics and illuminated initials in Pacioli folios.</p></td>
         </tr>
         </tbody>

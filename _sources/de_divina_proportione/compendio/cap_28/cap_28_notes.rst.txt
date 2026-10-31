@@ -13,7 +13,7 @@ Historical & Mathematical Commentary
 ------------------------------------
 
 - **Paganini 1509 Marginal Diagram**: Folio 0033 (``f. 9r``) provides diagram ``0033.g2.png`` illustrating the bisected semicircle :math:`adb` and the equatorial square :math:`efgh` with its diagonals and perpendicular axis.
-- **Three Perpendicular Axes**: Notice Step 6: the :term:`octahedron <octahedron>` is spanned by three mutually perpendicular diameters :math:`eg`, :math:`fh`, and :math:`lm` intersecting at the center :math:`k`—a structural property that Pacioli later calls "the glorious sign of the Holy Cross" in ``Cap. XLVI`` when explaining why the :term:`octahedron <octahedron>` cannot be inscribed in the :term:`icosahedron <icosahedron>`.
+- **Three Perpendicular Axes**: Notice Step 6: the :term:`octahedron <octahedron>` is spanned by three mutually perpendicular diameters :math:`eg`, :math:`fh`, and :math:`lm` intersecting at the center :math:`k`—a structural property that :person:`Pacioli <pacioli>` later calls "the glorious sign of the Holy Cross" in ``Cap. XLVI`` when explaining why the :term:`octahedron <octahedron>` cannot be inscribed in the :term:`icosahedron <icosahedron>`.
 
 Constantin Winterberg's Commentary (1889 Edition)
 -------------------------------------------------

@@ -103,25 +103,25 @@
         <h2>Functions<a class="headerlink" href="#functions" title="Link to this heading">¶</a></h2>
         <table class="autosummary longtable docutils align-default">
         <tbody>
-        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.ensure_dir" title="geometor.pacioli.extraction.ensure_dir"><code class="xref py py-obj docutils literal notranslate"><span class="pre">ensure_dir</span></code></a>(→ None)</p></td>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.ensure_dir" title="geometor.pacioli.extraction.ensure_dir"><code class="xref py py-obj docutils literal notranslate"><span class="pre">ensure_dir</span></code></a>(path) → None</p></td>
         <td><p>Ensure directory exists.</p></td>
         </tr>
-        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.extract_single_image" title="geometor.pacioli.extraction.extract_single_image"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_single_image</span></code></a>(→ pathlib.Path)</p></td>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.extract_single_image" title="geometor.pacioli.extraction.extract_single_image"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_single_image</span></code></a>(pdf_path, page_num, output_dir[, ...]) → pathlib.Path</p></td>
         <td><p>Extract a single page from PDF as a PNG image.</p></td>
         </tr>
-        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.extract_single_text" title="geometor.pacioli.extraction.extract_single_text"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_single_text</span></code></a>(→ pathlib.Path)</p></td>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.extract_single_text" title="geometor.pacioli.extraction.extract_single_text"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_single_text</span></code></a>(pdf_path, page_num, output_dir[, ...]) → pathlib.Path</p></td>
         <td><p>Extract text from a single page of PDF.</p></td>
         </tr>
-        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.extract_all" title="geometor.pacioli.extraction.extract_all"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_all</span></code></a>(→ None)</p></td>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.extract_all" title="geometor.pacioli.extraction.extract_all"><code class="xref py py-obj docutils literal notranslate"><span class="pre">extract_all</span></code></a>(pdf_path, output_dir[, start_page, ...]) → None</p></td>
         <td><p>Extract page images and text for the entire volume in parallel.</p></td>
         </tr>
-        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.generate_manifest" title="geometor.pacioli.extraction.generate_manifest"><code class="xref py py-obj docutils literal notranslate"><span class="pre">generate_manifest</span></code></a>(→ None)</p></td>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.generate_manifest" title="geometor.pacioli.extraction.generate_manifest"><code class="xref py py-obj docutils literal notranslate"><span class="pre">generate_manifest</span></code></a>(output_dir, start_page, end_page) → None</p></td>
         <td><p>Generate pages.json manifest matching the Euclid format.</p></td>
         </tr>
-        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.generate_sections_index" title="geometor.pacioli.extraction.generate_sections_index"><code class="xref py py-obj docutils literal notranslate"><span class="pre">generate_sections_index</span></code></a>(→ None)</p></td>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.generate_sections_index" title="geometor.pacioli.extraction.generate_sections_index"><code class="xref py py-obj docutils literal notranslate"><span class="pre">generate_sections_index</span></code></a>(output_dir) → None</p></td>
         <td><p>Generate sections.json index mapping sections and page ranges.</p></td>
         </tr>
-        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.main" title="geometor.pacioli.extraction.main"><code class="xref py py-obj docutils literal notranslate"><span class="pre">main</span></code></a>(→ None)</p></td>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.pacioli.extraction.main" title="geometor.pacioli.extraction.main"><code class="xref py py-obj docutils literal notranslate"><span class="pre">main</span></code></a>() → None</p></td>
         <td><p>CLI entry point for folio extraction.</p></td>
         </tr>
         </tbody>

@@ -10,7 +10,7 @@ Appendix IV: Winterberg's Mathematical Commentary (1889)
 
 .. rubric:: Substantive Mathematical Notes (Sachliche Anmerkungen 1–17) by Constantin Winterberg (Vienna, 1889, pp. 338–352)
 
-:person:`Constantin Winterberg <winterberg>` appended seventeen substantive mathematical notes (*Sachliche Anmerkungen*, pp. 338–352) to his 1889 Vienna edition, reformulating Pacioli's numerical examples in modern algebraic notation, correcting Pacioli's claim in :ref:`Cap. XLVI <compendio-cap_46-en>` regarding the inscription of the :term:`octahedron <octahedron>` in the :term:`icosahedron <icosahedron>`, and establishing a complete projective and polar-reciprocity theory of the twenty-one mutual inscriptions among the five Platonic solids.
+:person:`Constantin Winterberg <winterberg>` appended seventeen substantive mathematical notes (*Sachliche Anmerkungen*, pp. 338–352) to his 1889 Vienna edition, reformulating :person:`Pacioli's <pacioli>` numerical examples in modern algebraic notation, correcting :person:`Pacioli's <pacioli>` claim in :ref:`Cap. XLVI <compendio-cap_46-en>` regarding the inscription of the :term:`octahedron <octahedron>` in the :term:`icosahedron <icosahedron>`, and establishing a complete projective and polar-reciprocity theory of the twenty-one mutual inscriptions among the five Platonic solids.
 
 .. _winterberg-note-1-en:
 
@@ -19,7 +19,7 @@ Note 1 (Cap. VII): Equivalence of Pacioli's Initial Characterization with Euclid
 
 **Corresponding Chapters**: :ref:`Cap. 7 <compendio-cap_07-en>`
 
-Since the definition of continuous division (:term:`extreme and mean ratio <extrema-et-media-ratio>`) according to :person:`Euclid <euclid>` (:just:`VI.def.3`, :just:`II.11`) is stated at the close of Chapter VII—namely, when a given line $ac$ is divided at $b$ into two segments such that the square on the greater segment $ab^2$ equals the rectangle $ac \cdot bc$ contained by the whole line and the lesser segment—we demonstrate its identity with the numerical property stated at the beginning of Chapter VII (:just:`XIII.1`):
+Since the definition of continuous division (:term:`extreme and mean ratio <extrema-et-media-ratio>`) according to :person:`Euclid <euclid>` (:cite:`Euclid VI.def.3 <euclid:elements:VI.def.3>`, :cite:`Euclid II.11 <euclid:elements:II.11>`) is stated at the close of Chapter VII—namely, when a given line $ac$ is divided at $b$ into two segments such that the square on the greater segment $ab^2$ equals the rectangle $ac \cdot bc$ contained by the whole line and the lesser segment—we demonstrate its identity with the numerical property stated at the beginning of Chapter VII (:cite:`Euclid XIII.1 <euclid:elements:XIII.1>`):
 
 - **Hypothesis**: Let the line $ac$ be divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $b$, so that $ab^2 = ac \cdot bc$.
 - **Claim**: $\left(ac + \frac{bc}{2}\right)^2 = 5\left(\frac{bc}{2}\right)^2$, or equivalently $\left(ab + \frac{ac}{2}\right)^2 = 5\left(\frac{ac}{2}\right)^2$.
@@ -42,7 +42,7 @@ Note 2 (Cap. VII): Bisection of the Whole Line and Continuous Division of the Ha
 
 **Corresponding Chapters**: :ref:`Cap. 7 <compendio-cap_07-en>`
 
-This corollary (:just:`XIII.1` / :just:`XIII.2`) follows immediately if we bisect the line $ab$ at $c$ ($ac = bc = \frac{1}{2}ab$) and divide $bc$ in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $d$; considering the three parts of the line $ab$, the greater segment of the half-line together with the other half satisfies the fivefold square relation $ad^2 = 5\,ac^2$.
+This corollary (:cite:`Euclid XIII.1 <euclid:elements:XIII.1>` / :cite:`Euclid XIII.2 <euclid:elements:XIII.2>`) follows immediately if we bisect the line $ab$ at $c$ ($ac = bc = \frac{1}{2}ab$) and divide $bc$ in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $d$; considering the three parts of the line $ab$, the greater segment of the half-line together with the other half satisfies the fivefold square relation $ad^2 = 5\,ac^2$.
 
 .. _winterberg-note-3-en:
 
@@ -107,7 +107,7 @@ Note 6 (Cap. XVI): Seventh Effect — Hexagon Side (Radius) and Decagon Side (Eu
 
 **Corresponding Chapters**: :ref:`Cap. 16 <compendio-cap_16-en>`
 
-This follows immediately from Note 4 (:just:`XIII.5`), once one observes that the side of the regular decagon inscribed in a circle is the greater segment of the radius (the hexagon side) divided in :term:`extreme and mean ratio <extrema-et-media-ratio>`.
+This follows immediately from Note 4 (:cite:`Euclid XIII.5 <euclid:elements:XIII.5>`), once one observes that the side of the regular decagon inscribed in a circle is the greater segment of the radius (the hexagon side) divided in :term:`extreme and mean ratio <extrema-et-media-ratio>`.
 
 .. _winterberg-note-7-en:
 
@@ -131,7 +131,7 @@ Note 8 (Cap. XXI): Twelfth Effect — Ratio of the Cube Edge to the Icosahedron 
 
 **Corresponding Chapters**: :ref:`Cap. 21 <compendio-cap_21-en>`
 
-Denoting by $s$ and $s'$ the edges of the cube and regular :term:`icosahedron <icosahedron>` inscribed in the same sphere, and letting the segment $ab$ be divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $c$ ($ac > bc$), Pacioli's claim (following :cite:`Campanus XIV.9 <campanus:euclid:XIV.9>`) is:
+Denoting by $s$ and $s'$ the edges of the cube and regular :term:`icosahedron <icosahedron>` inscribed in the same sphere, and letting the segment $ab$ be divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $c$ ($ac > bc$), :person:`Pacioli's <pacioli>` claim (following :cite:`Campanus XIV.9 <campanus:euclid:XIV.9>`) is:
 
 .. math::
 
@@ -149,7 +149,7 @@ Solving $ac^2 = ab \cdot bc = ab(ab - ac)$ gives $bc = \frac{3 - \sqrt{5}}{2}\,a
 
    \sqrt{\frac{ab^2 + ac^2}{ab^2 + bc^2}} = \sqrt{\frac{ab + bc}{3\,bc}} = \sqrt{\frac{5 + \sqrt{5}}{6}} \quad \left(\text{and its reciprocal } \sqrt{\frac{3\,bc}{ab + bc}} = \sqrt{\frac{5 - \sqrt{5}}{6}}\right).
 
-The exact same value is obtained when we express $s$ and $s'$ in terms of the circumradius $r$ of the common sphere (:just:`XIII.15`, :just:`XIII.16`, :just:`XIII.18`):
+The exact same value is obtained when we express $s$ and $s'$ in terms of the circumradius $r$ of the common sphere (:cite:`Euclid XIII.15 <euclid:elements:XIII.15>`, :cite:`Euclid XIII.16 <euclid:elements:XIII.16>`, :cite:`Euclid XIII.18 <euclid:elements:XIII.18>`):
 
 .. math::
 
@@ -162,7 +162,7 @@ Note 9 (Cap. XXII): Cross-Reference to the *Libellus de Quinque Corporibus Regul
 
 **Corresponding Chapters**: :ref:`Cap. 22 <compendio-cap_22-en>`
 
-Compare on this pentagon construction the *Tractatus de Quinque Corporibus Regularibus* (*Libellus*, Tractate II, Case 20 ff.).
+Compare on this pentagon construction the :cite:`*Tractatus de Quinque Corporibus Regularibus* <piero:libellus>` (*Libellus*, Tractate II, Case 20 ff.).
 
 .. _winterberg-note-10-en:
 
@@ -184,7 +184,7 @@ Note 11 (Cap. XXVII): Division of the Sphere Diameter by the Inscribed Cube (Euc
 
 **Corresponding Chapters**: :ref:`Cap. 27 <compendio-cap_27-en>`
 
-The square of the diagonal of a square is double the square of its side ($ad^2 = 2\,bd^2$). Passing a plane through one of the three main space diagonals $ab$ of the cube and an edge $bd$, this plane intersects the circumscribed sphere in a great circle whose diameter is $ab$, while the two chords drawn from its endpoints to $d$ are the cube edge $bd$ and the face diagonal $ad$. By the right-triangle projection theorem (:just:`VI.8`):
+The square of the diagonal of a square is double the square of its side ($ad^2 = 2\,bd^2$). Passing a plane through one of the three main space diagonals $ab$ of the cube and an edge $bd$, this plane intersects the circumscribed sphere in a great circle whose diameter is $ab$, while the two chords drawn from its endpoints to $d$ are the cube edge $bd$ and the face diagonal $ad$. By the right-triangle projection theorem (:cite:`Euclid VI.8 <euclid:elements:VI.8>`):
 
 .. math::
 
@@ -223,7 +223,7 @@ Now in the auxiliary semicircle of Chapter XXIX with $ac_{\text{aux}} = 2\,bc_{\
 
    r' = a\sqrt{\frac{5 + \sqrt{5}}{10}} = \frac{d}{\sqrt{5}} = bd,
 
-so the circumradius $r'$ of the pentagon circle equals both the line $bd$ of the text and the axial height $cc'$ of the perpendicular :term:`*catheti* <catheto>`, exactly as constructed in :person:`Euclid <euclid>` :just:`XIII.16`!
+so the circumradius $r'$ of the pentagon circle equals both the line $bd$ of the text and the axial height $cc'$ of the perpendicular :term:`*catheti* <catheto>`, exactly as constructed in :person:`Euclid <euclid>` :cite:`Euclid XIII.16 <euclid:elements:XIII.16>`!
 
 .. _winterberg-note-13-en:
 
@@ -244,7 +244,7 @@ Since $kl^2 = ke \cdot le$, we can rewrite this as:
 
    ln^2 = 2\,kl^2 + 2\,ke \cdot le - ke^2 - le^2 = 2\,kl^2 - (ke - le)^2 = 2\,kl^2 - kl^2 = kl^2,
 
-whence $ln = kl$, proving that the five vertices lie at equal radii and form an equilateral and equiangular pentagon (:just:`XIII.17`).
+whence $ln = kl$, proving that the five vertices lie at equal radii and form an equilateral and equiangular pentagon (:cite:`Euclid XIII.17 <euclid:elements:XIII.17>`).
 
 .. _winterberg-note-14-en:
 
@@ -269,11 +269,11 @@ Note 15 (Cap. XLVI): Refutation of Pacioli's Claim That the Octahedron Cannot Be
 
 **Corresponding Chapters**: :ref:`Cap. 46 <compendio-cap_46-en>`
 
-The assertion stated here by Pacioli (following :cite:`Campanus XV.13 <campanus:euclid:XV.13>`) is **manifestly false**: in a completely analogous manner to how the :term:`octahedron <octahedron>` is inscribed in the :term:`dodecahedron <dodecahedron>` (:ref:`Chapter XLIII <compendio-cap_43-en>`, :just:`XV.9`), **the regular octahedron can also be inscribed in the regular icosahedron**!
+The assertion stated here by :person:`Pacioli <pacioli>` (following :cite:`Campanus XV.13 <campanus:euclid:XV.13>`) is **manifestly false**: in a completely analogous manner to how the :term:`octahedron <octahedron>` is inscribed in the :term:`dodecahedron <dodecahedron>` (:ref:`Chapter XLIII <compendio-cap_43-en>`, :cite:`Euclid XV.9 <euclid:elements:XV.9>`), **the regular octahedron can also be inscribed in the regular icosahedron**!
 
-- **Construction of the Octahedron in the Icosahedron**: One need only connect the midpoints of each pair of opposite parallel edges of the :term:`icosahedron <icosahedron>`. Among the 15 such segments (since the 30 edges of the :term:`icosahedron <icosahedron>` fall into 15 opposite parallel pairs), there are 5 sets of **three mutually perpendicular axes** meeting at the center of the :term:`icosahedron <icosahedron>`; the six endpoints of any such orthogonal triad of edge-midpoints form the 6 vertices of a **regular octahedron inscribed in the icosahedron**! (As **Niccolò Tartaglia** already demonstrated in his *General Trattato di Numeri et Misure*, refuting :person:`Campanus <campanus>` and Pacioli.)
-- **Cosmological Bias vs. Isoperimetric Truth**: The reason why Pacioli denies this elementary geometric fact stems from his desire to vindicate the Platonic cosmological hierarchy by assigning to the :term:`**dodecahedron** <dodecahedron>` (as the symbol of the :term:`Quintessence <quinta-essentia>` / Heaven) the unique privilege of containing all four other regular solids, while restricting the :term:`**icosahedron** <icosahedron>` (Water) to only three.
-  Pacioli's preference for the :term:`dodecahedron <dodecahedron>` over the :term:`icosahedron <icosahedron>` would have been mathematically well-founded had he chosen as his criterion not how many other solids can be inscribed in it, but rather **which regular solid inscribed in the same sphere approaches most closely to the sphere itself—that is, which solid encompasses the greatest surface area and the greatest volume**! By this isoperimetric criterion (already proved by :person:`Hypsicles <hypsicles>` in Book XIV, Proposition 2, and by :person:`Pappus <pappus>`), the decision falls decisively in favor of the :term:`**dodecahedron** <dodecahedron>` over the :term:`icosahedron <icosahedron>`.
+- **Construction of the Octahedron in the Icosahedron**: One need only connect the midpoints of each pair of opposite parallel edges of the :term:`icosahedron <icosahedron>`. Among the 15 such segments (since the 30 edges of the :term:`icosahedron <icosahedron>` fall into 15 opposite parallel pairs), there are 5 sets of **three mutually perpendicular axes** meeting at the center of the :term:`icosahedron <icosahedron>`; the six endpoints of any such orthogonal triad of edge-midpoints form the 6 vertices of a **regular octahedron inscribed in the icosahedron**! (As :person:`**Niccolò Tartaglia** <niccolo-tartaglia>` already demonstrated in his :cite:`*General Trattato di Numeri et Misure* <tartaglia:general-trattato>`, refuting :person:`Campanus <campanus>` and :person:`Pacioli <pacioli>`.)
+- **Cosmological Bias vs. Isoperimetric Truth**: The reason why :person:`Pacioli <pacioli>` denies this elementary geometric fact stems from his desire to vindicate the Platonic cosmological hierarchy by assigning to the :term:`**dodecahedron** <dodecahedron>` (as the symbol of the :term:`Quintessence <quinta-essentia>` / Heaven) the unique privilege of containing all four other regular solids, while restricting the :term:`**icosahedron** <icosahedron>` (Water) to only three.
+  :person:`Pacioli's <pacioli>` preference for the :term:`dodecahedron <dodecahedron>` over the :term:`icosahedron <icosahedron>` would have been mathematically well-founded had he chosen as his criterion not how many other solids can be inscribed in it, but rather **which regular solid inscribed in the same sphere approaches most closely to the sphere itself—that is, which solid encompasses the greatest surface area and the greatest volume**! By this isoperimetric criterion (already proved by :person:`Hypsicles <hypsicles>` in :cite:`Book XIV, Proposition 2 <hypsicles:liber-xiv:2>`, and by :person:`Pappus <pappus>`), the decision falls decisively in favor of the :term:`**dodecahedron** <dodecahedron>` over the :term:`icosahedron <icosahedron>`.
 
 .. _winterberg-note-16-en:
 
@@ -282,7 +282,7 @@ Note 16 (Cap. XLVII–LII): Reciprocal (Dual) Polyhedra Generated by Pyramidal E
 
 **Corresponding Chapters**: :ref:`Cap. 47 <compendio-cap_47-en>`, :ref:`Cap. 48 <compendio-cap_48-en>`, :ref:`Cap. 49 <compendio-cap_49-en>`, :ref:`Cap. 50 <compendio-cap_50-en>`, :ref:`Cap. 51 <compendio-cap_51-en>`, :ref:`Cap. 52 <compendio-cap_52-en>`
 
-Regarding the generation of the regular bodies and their dependent derivatives, Pacioli distinguishes two primary classes: **plane (convex)** and **truncated (*:term:`abscisi <abscisum>`*)** bodies, each rendered both **solid (*:term:`solidum <solidum>`*)** and **hollow/skeletal (*:term:`vacuum <vacuum>`*)**, and then modifies them further by **elevating equilateral pyramids (*elevati*)** outward upon their faces. (The inverse operation—excavating pyramids inward upon the same faces—is not mentioned.)
+Regarding the generation of the regular bodies and their dependent derivatives, :person:`Pacioli <pacioli>` distinguishes two primary classes: **plane (convex)** and **truncated (*:term:`abscisi <abscisum>`*)** bodies, each rendered both **solid (*:term:`solidum <solidum>`*)** and **hollow/skeletal (*:term:`vacuum <vacuum>`*)**, and then modifies them further by **elevating equilateral pyramids (*elevati*)** outward upon their faces. (The inverse operation—excavating pyramids inward upon the same faces—is not mentioned.)
 
 The star-like elevated polyhedra can likewise be inscribed in a sphere passing through all the pyramid apices. If we regard those **pyramid apices as the vertices of a new convex polyhedron**, we immediately obtain the **reciprocal (dual) regular solid**:
 
@@ -338,7 +338,7 @@ The simplest universal mechanism for establishing a mutual reciprocal correspond
 2. Complete Classification of All 21 Possible Mutual Inscriptions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-By means of polar reciprocation, all **20 mutual inscriptions between distinct regular solids** (plus **1 self-inscription of the tetrahedron in the tetrahedron**, making **21 cases in all**) fall into **three direct groups (a)** and **three polar-reciprocal groups (b)**, where an asterisk (``*``) marks the 12 cases treated by :person:`Euclid <euclid>` Book XV / :person:`Campanus <campanus>` / Pacioli in Chapters XXXV–XLVI:
+By means of polar reciprocation, all **20 mutual inscriptions between distinct regular solids** (plus **1 self-inscription of the tetrahedron in the tetrahedron**, making **21 cases in all**) fall into **three direct groups (a)** and **three polar-reciprocal groups (b)**, where an asterisk (``*``) marks the 12 cases treated by :cite:`Euclid Book XV <euclid:elements:XV>` / :person:`Campanus <campanus>` / :person:`Pacioli <pacioli>` in Chapters XXXV–XLVI:
 
 .. list-table:: Complete System of Mutual Inscriptions of the Five Regular Solids (Winterberg 1889, p. 348)
    :header-rows: 1
@@ -352,15 +352,15 @@ By means of polar reciprocation, all **20 mutual inscriptions between distinct r
 
      - **Group I(b): Face on Face** (*Fläche auf Fläche*)
 
-   * - **1.** Tetrahedron in Cube ``*`` (:ref:`Cap. XXXV <compendio-cap_35-en>`, :just:`XV.1`)
+   * - **1.** Tetrahedron in Cube ``*`` (:ref:`Cap. XXXV <compendio-cap_35-en>`, :cite:`Euclid XV.1 <euclid:elements:XV.1>`)
 
-     - **2.** :term:`Octahedron <octahedron>` in :term:`Tetrahedron <tetrahedron>` ``*`` (:ref:`Cap. XXXVI <compendio-cap_36-en>`, :just:`XV.2`)
+     - **2.** :term:`Octahedron <octahedron>` in :term:`Tetrahedron <tetrahedron>` ``*`` (:ref:`Cap. XXXVI <compendio-cap_36-en>`, :cite:`Euclid XV.2 <euclid:elements:XV.2>`)
 
-   * - **3.** Tetrahedron in Dodecahedron ``*`` (:ref:`Cap. XLI <compendio-cap_41-en>`, :just:`XV.7`)
+   * - **3.** Tetrahedron in Dodecahedron ``*`` (:ref:`Cap. XLI <compendio-cap_41-en>`, :cite:`Euclid XV.7 <euclid:elements:XV.7>`)
 
      - **4.** :term:`Icosahedron <icosahedron>` in :term:`Tetrahedron <tetrahedron>` (*omitted by Pacioli*)
 
-   * - **5.** Cube in Dodecahedron ``*`` (:ref:`Cap. XLII <compendio-cap_42-en>`, :just:`XV.8`)
+   * - **5.** Cube in Dodecahedron ``*`` (:ref:`Cap. XLII <compendio-cap_42-en>`, :cite:`Euclid XV.8 <euclid:elements:XV.8>`)
 
      - **6.** :term:`Icosahedron <icosahedron>` in :term:`Octahedron <octahedron>` (*omitted by Pacioli*)
 
@@ -368,19 +368,19 @@ By means of polar reciprocation, all **20 mutual inscriptions between distinct r
 
      - **Group II(b): Face on Vertex** (*Fläche auf Ecke*)
 
-   * - **7.** Octahedron in Cube ``*`` (:ref:`Cap. XXXVII <compendio-cap_37-en>`, :just:`XV.3`)
+   * - **7.** Octahedron in Cube ``*`` (:ref:`Cap. XXXVII <compendio-cap_37-en>`, :cite:`Euclid XV.3 <euclid:elements:XV.3>`)
 
-     - **8.** Cube in :term:`Octahedron <octahedron>` ``*`` (:ref:`Cap. XXXVIII <compendio-cap_38-en>`, :just:`XV.4`)
+     - **8.** Cube in :term:`Octahedron <octahedron>` ``*`` (:ref:`Cap. XXXVIII <compendio-cap_38-en>`, :cite:`Euclid XV.4 <euclid:elements:XV.4>`)
 
-   * - **9.** Icosahedron in Dodecahedron ``*`` (:ref:`Cap. XLIV <compendio-cap_44-en>`, :just:`XV.10`)
+   * - **9.** Icosahedron in Dodecahedron ``*`` (:ref:`Cap. XLIV <compendio-cap_44-en>`, :cite:`Euclid XV.10 <euclid:elements:XV.10>`)
 
-     - **10.** :term:`Dodecahedron <dodecahedron>` in :term:`Icosahedron <icosahedron>` ``*`` (:ref:`Cap. XLV <compendio-cap_45-en>`, :just:`XV.11`)
+     - **10.** :term:`Dodecahedron <dodecahedron>` in :term:`Icosahedron <icosahedron>` ``*`` (:ref:`Cap. XLV <compendio-cap_45-en>`, :cite:`Euclid XV.11 <euclid:elements:XV.11>`)
 
-   * - **11.** Tetrahedron in Icosahedron ``*`` (:ref:`Cap. XL <compendio-cap_40-en>`, :just:`XV.6`)
+   * - **11.** Tetrahedron in Icosahedron ``*`` (:ref:`Cap. XL <compendio-cap_40-en>`, :cite:`Euclid XV.6 <euclid:elements:XV.6>`)
 
      - **12.** :term:`Dodecahedron <dodecahedron>` in :term:`Tetrahedron <tetrahedron>` (*omitted by Pacioli*)
 
-   * - **13.** Cube in Icosahedron ``*`` (:ref:`Cap. XLVI <compendio-cap_46-en>`, :just:`XV.12`)
+   * - **13.** Cube in Icosahedron ``*`` (:ref:`Cap. XLVI <compendio-cap_46-en>`, :cite:`Euclid XV.12 <euclid:elements:XV.12>`)
 
      - **14.** :term:`Dodecahedron <dodecahedron>` in :term:`Octahedron <octahedron>` (*omitted by Pacioli*)
 
@@ -388,15 +388,15 @@ By means of polar reciprocation, all **20 mutual inscriptions between distinct r
 
      - **Group III(b): Edge on Face** (*Kante in Fläche*)
 
-   * - **15.** Octahedron in Dodecahedron ``*`` (:ref:`Cap. XLIII <compendio-cap_43-en>`, :just:`XV.9`)
+   * - **15.** Octahedron in Dodecahedron ``*`` (:ref:`Cap. XLIII <compendio-cap_43-en>`, :cite:`Euclid XV.9 <euclid:elements:XV.9>`)
 
      - **16.** :term:`Icosahedron <icosahedron>` in Cube (*treated in Piero/Pacioli's Libellus!*)
 
-   * - **17.** Octahedron in Icosahedron (*denied by Pacioli in Cap. XLVI; proved by Tartaglia & Note 15*)
+   * - **17.** Octahedron in Icosahedron (*denied by :person:`Pacioli <pacioli>` in Cap. XLVI; proved by :person:`Tartaglia <niccolo-tartaglia>` & Note 15*)
 
      - **18.** :term:`Dodecahedron <dodecahedron>` in Cube (*omitted by Pacioli*)
 
-   * - **19.** Tetrahedron in Octahedron ``*`` (:ref:`Cap. XXXIX <compendio-cap_39-en>`, :just:`XV.5`)
+   * - **19.** Tetrahedron in Octahedron ``*`` (:ref:`Cap. XXXIX <compendio-cap_39-en>`, :cite:`Euclid XV.5 <euclid:elements:XV.5>`)
 
      - **20.** Cube in :term:`Tetrahedron <tetrahedron>` (*omitted by Pacioli*)
 
@@ -421,6 +421,6 @@ By means of polar reciprocation, all **20 mutual inscriptions between distinct r
 
 - **Group III (15 $\leftrightarrow$ 16, 17 $\leftrightarrow$ 18, 19 $\leftrightarrow$ 20)**: Because the two solids do not share a common circumsphere when vertices fall on edges, we reciprocate with respect to any concentric sphere (e.g., the sphere circumscribing the outer solid), transforming **vertices on edges** into **faces containing edges**:
 
-  - From **15 (Octahedron in Dodecahedron)** arises **16 (Icosahedron in Cube)**, where **6 opposite parallel edges of the icosahedron lie in the 6 square faces of the cube** along their midlines in three mutually perpendicular directions, so that all 12 vertices of the :term:`icosahedron <icosahedron>` rest in pairs on the 6 faces of the cube! Remarkably, although omitted here in the *Compendio*, this exact inscription is explicitly treated in :person:`Piero della Francesca <piero-della-francesca>` / Pacioli's companion :cite:`*Libellus de Quinque Corporibus Regularibus* <piero:libellus>`!
+  - From **15 (Octahedron in Dodecahedron)** arises **16 (Icosahedron in Cube)**, where **6 opposite parallel edges of the icosahedron lie in the 6 square faces of the cube** along their midlines in three mutually perpendicular directions, so that all 12 vertices of the :term:`icosahedron <icosahedron>` rest in pairs on the 6 faces of the cube! Remarkably, although omitted here in the *Compendio*, this exact inscription is explicitly treated in :person:`Piero della Francesca <piero-della-francesca>` / :person:`Pacioli's <pacioli>` companion :cite:`*Libellus de Quinque Corporibus Regularibus* <piero:libellus>`!
   - From **17 (Octahedron in Icosahedron)** arises **18 (Dodecahedron in Cube)**, where 6 opposite parallel edges of the :term:`dodecahedron <dodecahedron>` lie along the midlines of the 6 faces of the cube (while the 8 remaining vertices of the :term:`dodecahedron <dodecahedron>`, corresponding to an inscribed cube, lie free inside).
   - From **19 (Tetrahedron in Octahedron)** arises **20 (Cube in Tetrahedron)**, where the 4 faces of the :term:`tetrahedron <tetrahedron>` contain 4 edges of the cube (two opposite top edges of the cube and the two perpendicular bottom edges).

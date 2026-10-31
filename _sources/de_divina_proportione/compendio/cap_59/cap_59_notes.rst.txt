@@ -18,6 +18,13 @@ Historical & Mathematical Commentary
 
 - **Etymology of *:term:`Corpo Seratile <corpo-seratile>`***: In the medieval Gerard of Cremona and Campanus translations of Euclid Books XI–XII, a triangular prism (:g:`prisma`) is rendered *corpus serratile* ("sawed body").
 
+Constantin Winterberg's Commentary (1889 Edition)
+-------------------------------------------------
+
+- :person:`Winterberg <winterberg>` Footnote 1 (Cap. LIX, p. 251): Compare the second marginal diagram on p. 106 (Paganini Folio 0051, ``0051.g2.png``).
+  (:person:`Winterberg <winterberg>` Fussnote 1 (Cap. LIX, S. 251): *cfr. 2. Fig. pag. 106.*)
+
+
 Philological and Folio Apparatus
 --------------------------------
 

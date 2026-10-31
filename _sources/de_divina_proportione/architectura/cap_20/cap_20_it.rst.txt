@@ -36,4 +36,4 @@ Eie dicte colonne superiori se debano situare aponto sopra aliuello dele inferio
 
 FINIS.
 
-Venetiis impressum per probum virum Paganinum de paganinis de Briscia. Decreto tarnen publico vt nullus ibidem totique dominio annorum XV. curriculo Imprimat aut imprimere faciat et alibi Impressum sub quouis colore in publicum ducat sub penis in dicto privilegio contentis. Anno Redemptionis nostre M. DIX. kalendis Junii Leonardo Lauretano. Venetianam Rem Publicam Guvernante Pontificatus Julii II. Anno VI. ne sarete.
+Venetiis impressum per probum virum Paganinum de paganinis de Briscia. Decreto tarnen publico vt nullus ibidem totique dominio annorum XV. curriculo Imprimat aut imprimere faciat et alibi Impressum sub quouis colore in publicum ducat sub penis in dicto privilegio contentis. Anno Redemptionis nostre M. DIX. kalendis Junii :person:`Leonardo <leonardo>` Lauretano. Venetianam Rem Publicam Guvernante Pontificatus Julii II. Anno VI. ne sarete.

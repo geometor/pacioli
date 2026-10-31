@@ -16,10 +16,17 @@ Historical & Mathematical Commentary
 - **Historical Witness to the Milanese Court in 1498**:
 
   - **The Ducal Chapel Choir (*dignissimi cantori*)**: Under Ludovico Sforza, the *Cappella Musicale* of the Castello Sforzesco (directed by Franchino Gaffurio and having included Josquin des Prez and Loyset Compère) was one of the premier musical institutions of Europe.
-  - :term:`**Santa Maria delle Grazie** <santa-maria-delle-grazie>`: :person:`Bramante <bramante>`'s monumental tribune (commissioned by :person:`Ludovico Sforza <ludovico-sforza>` as the Sforza dynastic mausoleum) and :person:`Leonardo da Vinci <leonardo>`'s :term:`*Last Supper* <simulacro>` in its refectory were both being completed in 1497–1498.
-  - **The Franciscan General Chapter of Pentecost 1498 in Milan**: Presided over by the famous Conventual Minister General **Francesco Sansone da Brescia** (1414–1499, General 1475–1499, also a patron of learning) and attended by **Cardinal Ippolito I d'Este** (1479–1520, Archbishop of Milan and brother of Duchess Beatrice d'Este). This passage confirms that Pacioli was writing the final chapters of the *Compendio* in Milan between June and December 1498.
+  - :term:`**Santa Maria delle Grazie** <santa-maria-delle-grazie>`: :person:`Bramante <bramante>`'s monumental tribune (commissioned by :person:`Ludovico Sforza <ludovico-sforza>` as the Sforza dynastic mausoleum) and :person:`Leonardo da Vinci's <leonardo>` :term:`*Last Supper* <simulacro>` in its refectory were both being completed in 1497–1498.
+  - **The Franciscan General Chapter of Pentecost 1498 in Milan**: Presided over by the famous Conventual Minister General **Francesco Sansone da Brescia** (1414–1499, General 1475–1499, also a patron of learning) and attended by **Cardinal Ippolito I d'Este** (1479–1520, Archbishop of Milan and brother of Duchess Beatrice d'Este). This passage confirms that :person:`Pacioli <pacioli>` was writing the final chapters of the *Compendio* in Milan between June and December 1498.
 
 - **Comparison with Earlier Draft Track**: The earlier ``divina_en_2/69.txt`` draft completely omitted the entire second half of ``Cap. LXIX`` (the panegyric to :person:`Ludovico Sforza <ludovico-sforza>`, the Ducal Chapel choir, :term:`Santa Maria delle Grazie <santa-maria-delle-grazie>` compared to :person:`Augustus <augustus>`'s Temple of Peace, and the eyewitness account of the 1498 Franciscan General Chapter in Milan with :person:`Francesco Sansone <francesco-sansone>` and Cardinal :person:`Ippolito d'Este <ippolito-deste>`). Everything is restored in full here.
+
+Constantin Winterberg's Commentary (1889 Edition)
+-------------------------------------------------
+
+- :person:`Winterberg <winterberg>` Footnote 1 (Cap. LXIX, p. 268): Namely, Your Ducal Highness (*scil. Hoheit*, :person:`Ludovico Maria Sforza <ludovico-sforza>`).
+  (:person:`Winterberg <winterberg>` Fussnote 1 (Cap. LXIX, S. 268): *scil. Hoheit.*)
+
 
 Philological and Folio Apparatus
 --------------------------------

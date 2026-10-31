@@ -65,6 +65,9 @@ woraus hervorgeht, dass $cm = r - ac = \frac{r}{\sqrt{5}}$, somit das Doppelte $
 
 d. h. es muss $r'$ genau gleich der Linie $bd$ des Textes und zugleich gleich den als Katheten bezeichneten Höhen sein, wie solches der dort angegebenen Construction zufolge auch wirklich der Fall ist.
 
+- :person:`Winterberg <winterberg>` Footnotes 1–5 (Cap. XXIX, pp. 219–221): (1) When the total length of a line divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` is rational, its segments are always irrational (apotomes), which gave rise to :person:`Euclid <euclid>`'s classification of the *minor* irrational line (:cite:`Euclid X.76 <euclid:elements:X.76>`, :cite:`Euclid XIII.16 <euclid:elements:XIII.16>`). (2) A rational diameter—one whose length itself or whose square is rational. (3) :term:`*Catheti* <catheto>`, i.e., perpendiculars; compare Chapter LXXI on the technical terms occurring here. (4) Namely, equal to the radius $bd$ of the circle. (5) *In potentia*, i.e., in their second power (square).
+  (:person:`Winterberg <winterberg>` Fussnoten 1–5 (Cap. XXIX, S. 219–221): *1) Wenn die ganze Länge der stetig zu theilenden Linie rational ist, so werden die Abschnitte stets irrational sein, was zu obiger heute nicht mehr gebräuchlicher Benennung Veranlassung gegeben. 2) scil. dessen Länge selbst oder deren Quadrat rational sei. 3) scil. Senkrechten; über die hier und im Folgenden vorkommenden Benennungen cfr. Cap. LXXI. 4) scil. dem Radius bd des Kreises gleich. 5) d. h. ihrer zweiten Potenz.*)
+
 
 Philological and Folio Apparatus
 --------------------------------

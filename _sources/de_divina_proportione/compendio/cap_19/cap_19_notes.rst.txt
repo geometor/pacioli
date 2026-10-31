@@ -12,14 +12,14 @@ CHAPTER XIX — Critical Commentary & Notes
 Historical and Philological Commentary
 --------------------------------------
 
-1. **Universal Similarity of Golden-Divided Lines (Campanus Lemma to :cite:`Euclid XIV.2 <euclid:elements:XIV.2>`)**: In :person:`Hypsicles <hypsicles>`' *Book XIV* of the *Elements*, Proposition 2 proves that the same circle circumscribes both the pentagon of the :term:`dodecahedron <dodecahedron>` and the triangle of the :term:`icosahedron <icosahedron>` inscribed in the same sphere. In his commentary on XIV.2, :person:`Campanus of Novara <campanus>` inserted and proved a fundamental lemma (often cited in medieval and Renaissance mathematics simply as part of XIV.2): **if two straight lines are cut in extreme and mean ratio, they are cut similarly** ($AB : AC = DE : DF$ and $AC : CB = DF : FE$).
-2. **The Six Operations of Book V**: Pacioli enumerates the six canonical Scholastic operations on proportions from Book V of :person:`Euclid <euclid>`'s *Elements*:
+1. **Universal Similarity of Golden-Divided Lines (Campanus Lemma to Euclid XIV.2)**: In :person:`Hypsicles <hypsicles>`' *Book XIV* of the *Elements*, Proposition 2 proves that the same circle circumscribes both the pentagon of the :term:`dodecahedron <dodecahedron>` and the triangle of the :term:`icosahedron <icosahedron>` inscribed in the same sphere. In his commentary on XIV.2, :person:`Campanus of Novara <campanus>` inserted and proved a fundamental lemma (often cited in medieval and Renaissance mathematics simply as part of XIV.2): **if two straight lines are cut in extreme and mean ratio, they are cut similarly** ($AB : AC = DE : DF$ and $AC : CB = DF : FE$).
+2. **The Six Operations of Book V**: :person:`Pacioli <pacioli>` enumerates the six canonical Scholastic operations on proportions from Book V of :person:`Euclid <euclid>`'s *Elements*:
 
    - *Permutata* (*alternando*, :cite:`Euclid V.16 <euclid:elements:V.16>`): $a : b = c : d \implies a : c = b : d$
-   - *Conversa* (*invertendo*, :cite:`Euclid V.7.p <euclid:elements:V.7.p>`): $a : b = c : d \implies b : a = d : c$
+   - *Conversa* (*invertendo*, :cite:`Euclid V.7 <euclid:elements:V.7>`.p): $a : b = c : d \implies b : a = d : c$
    - *Congionta* (*componendo*, :cite:`Euclid V.18 <euclid:elements:V.18>`): $a : b = c : d \implies (a+b) : b = (c+d) : d$
    - *Disgionta* (*dividendo*, :cite:`Euclid V.17 <euclid:elements:V.17>`): $a : b = c : d \implies (a-b) : b = (c-d) : d$
-   - *Eversa* (*convertendo*, :cite:`Euclid V.19.p <euclid:elements:V.19.p>`): $a : b = c : d \implies a : (a-b) = c : (c-d)$
+   - *Eversa* (*convertendo*, :cite:`Euclid V.19 <euclid:elements:V.19>`.p): $a : b = c : d \implies a : (a-b) = c : (c-d)$
    - *Equa proportionalita* (*ex aequali*, :cite:`Euclid V.22 <euclid:elements:V.22>`).
 
 Philological and Folio Apparatus

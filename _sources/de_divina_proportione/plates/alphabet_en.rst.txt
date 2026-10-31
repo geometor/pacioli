@@ -171,7 +171,7 @@ This letter N is drawn from its circle and square. The first vertical leg stands
 
 .. note:: **Winterberg Critical Footnote (1889)**:
 
-   **Winterberg Note (1889, p. 359)**: By *'la mita de la gamba grossa cioè duna testa'* ('half the thick leg, namely one head'), Pacioli means $\frac{1}{2} \times \frac{1}{9} = \frac{1}{18}$ of the side of the square.
+   **Winterberg Note (1889, p. 359)**: By *'la mita de la gamba grossa cioè duna testa'* ('half the thick leg, namely one head'), :person:`Pacioli <pacioli>` means $\frac{1}{2} \times \frac{1}{9} = \frac{1}{18}$ of the side of the square.
 
 Lettera O (primo modo perfectissimo) (Folio 0165)
 -------------------------------------------------
