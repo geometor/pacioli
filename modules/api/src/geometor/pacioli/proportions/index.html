@@ -1,0 +1,593 @@
+
+
+<!DOCTYPE html>
+<html lang="en" data-content_root="../../../../../../">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>src.geometor.pacioli.proportions &mdash; geometor • pacioli</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="../../../../../../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../../../../../../_static/css/styles.css?v=66998e95" />
+  <link rel="stylesheet" type="text/css" href="../../../../../../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="../../../../../../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../../../../../../_static/favicon.ico" />
+</head>
+
+<body class="book-theme-classical-serif">
+  <header>
+    <div class="logo">
+      <a href="../../../../../../index.html">
+        <img src="../../../../../../_static/logo.png" class="logo" alt="Logo"/>
+      </a>
+      <div class="org-repo">
+        <span class="org">geometor</span>
+        •
+        <span class="repo">pacioli</span>
+      </div>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../../../../../../de_divina_proportione/index.html"  >DE DIVINA PROPORTIONE</a>
+        </li>
+        <li>
+          <a href="../../../../../../summa_1494/index.html"  >SUMMA DE ARITHMETICA, GEOMETRIA, PROPORTIONI ET PROPORTIONALITA</a>
+        </li>
+        <li>
+          <a href="../../../../../../demos/index.html"  >Symbolic Demonstrations</a>
+        </li>
+        <li>
+          <a href="../../../../../../mission/index.html"  >mission</a>
+        </li>
+        <li>
+          <a href="../../../../../../usage/index.html"  >usage</a>
+        </li>
+        <li>
+          <a href="../../../../../../log/index.html"  >log</a>
+        </li>
+        <li>
+          <a href="../../../../../index.html" class="is-active" aria-selected="true" >modules</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main class="book-main">
+    <article class="book-layout book-reading-pane">
+      <header class="book-header">
+        <div class="book-header-bar">
+          <div class="book-header-identity">
+            <a class="book-portal-link" href="../../../../../../index.html" title="Return to Project Portal">&larr; pacioli</a>
+            <span class="book-header-sep">/</span>
+            <a class="book-title-link" href="../../../../../../index.html">geometor • pacioli</a>
+          </div>
+        </div>
+      </header>
+      <div class="content body book-content" role="main">
+        <section class="level-1" id="module-src.geometor.pacioli.proportions">
+        <span id="src-geometor-pacioli-proportions"></span><h1>src.geometor.pacioli.proportions<a class="headerlink" href="#module-src.geometor.pacioli.proportions" title="Link to this heading">¶</a></h1>
+        <p>Exact symbolic proportion theory and Cossic algebra from Pacioli’s <em>Summa</em> (1494).</p>
+        <p>Formalizes three pillars of Part I of Fra Luca Pacioli’s <em>Summa de arithmetica,
+        geometria, proportioni et proportionalita</em> (Venice, 1494):</p>
+        <ol class="arabic simple">
+        <li><p><strong>Boethian Ratio Taxonomy &amp; Six Euclidean Modes</strong> (<em>Part I, Distinctio VI</em>,
+        fols. 68v–98r): Exact classification of rational ratios into the five Boethian
+        genera of greater and lesser inequality (<em>multiplex</em>, <em>superparticularis</em>,
+        <em>superpartiens</em>, <em>multiplex superparticularis</em>, <em>multiplex superpartiens</em>),
+        compound ratios (<em>proportioni composte</em>), and the six Euclidean <em>modi arguendi</em>
+        on fol. 74r (<em>conversa</em>, <em>permutata</em>, <em>congionta</em>, <em>disgiunta</em>, <em>eversa</em>, <em>equa</em>).</p></li>
+        <li><p><strong>Semicircle Construction of the Three Classical Means &amp; Golden Section</strong>:
+        Targeted <code class="docutils literal notranslate"><span class="pre">geometor.model</span></code> straightedge-and-compass constructions proving
+        <span class="math notranslate nohighlight">\(A \ge G \ge H\)</span> and <span class="math notranslate nohighlight">\(G^2 = A \cdot H\)</span>, harmonic cross-ratio <span class="math notranslate nohighlight">\(-1\)</span>,
+        and Euclidean division of <span class="math notranslate nohighlight">\(10\)</span> in extreme and mean ratio into
+        <span class="math notranslate nohighlight">\(\sqrt{125} - 5\)</span> and <span class="math notranslate nohighlight">\(15 - \sqrt{125}\)</span> (<em>Summa</em> Dist. VI &amp; <em>Compendio</em> Cap. VII–X).</p></li>
+        <li><p><strong>Six Canonical Cossic Quadratics</strong> (<em>Part I, Distinctio VIII</em>, fols. 145r–150r):
+        Symbolic solver and gnomon completion-of-the-square parameters matching Pacioli’s
+        <em>Primi/Secundi/Tertii canonis versus</em> and marginal woodcuts on fol. 146r.</p></li>
+        </ol>
+        <section class="level-2" id="classes">
+        <h2>Classes<a class="headerlink" href="#classes" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#src.geometor.pacioli.proportions.BoethianClassification" title="src.geometor.pacioli.proportions.BoethianClassification"><code class="xref py py-obj docutils literal notranslate"><span class="pre">BoethianClassification</span></code></a></p></td>
+        <td><p>Exact Boethian classification of a positive rational ratio <span class="math notranslate nohighlight">\(p : q\)</span>.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#src.geometor.pacioli.proportions.SixModesResult" title="src.geometor.pacioli.proportions.SixModesResult"><code class="xref py py-obj docutils literal notranslate"><span class="pre">SixModesResult</span></code></a></p></td>
+        <td><p>The six Euclidean <em>modi arguendi</em> (Book V / <em>Summa</em> fol. 74r) on <span class="math notranslate nohighlight">\(a : b = c : d\)</span>.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#src.geometor.pacioli.proportions.ThreeMeansResult" title="src.geometor.pacioli.proportions.ThreeMeansResult"><code class="xref py py-obj docutils literal notranslate"><span class="pre">ThreeMeansResult</span></code></a></p></td>
+        <td><p>Exact symbolic outputs of the semicircle construction of the three classical means.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#src.geometor.pacioli.proportions.ExtremeMeanResult" title="src.geometor.pacioli.proportions.ExtremeMeanResult"><code class="xref py py-obj docutils literal notranslate"><span class="pre">ExtremeMeanResult</span></code></a></p></td>
+        <td><p>Exact symbolic outputs of dividing a segment in extreme and mean ratio.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#src.geometor.pacioli.proportions.CossicQuadraticResult" title="src.geometor.pacioli.proportions.CossicQuadraticResult"><code class="xref py py-obj docutils literal notranslate"><span class="pre">CossicQuadraticResult</span></code></a></p></td>
+        <td><p>Symbolic solution and geometric gnomon invariants for Pacioli's 6 canonical equations.</p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="functions">
+        <h2>Functions<a class="headerlink" href="#functions" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#src.geometor.pacioli.proportions.classify_boethian_ratio" title="src.geometor.pacioli.proportions.classify_boethian_ratio"><code class="xref py py-obj docutils literal notranslate"><span class="pre">classify_boethian_ratio</span></code></a>(p, q) → BoethianClassification</p></td>
+        <td><p>Classify a positive rational ratio <span class="math notranslate nohighlight">\(p : q\)</span> according to <em>Summa</em> Dist. VI.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#src.geometor.pacioli.proportions.compound_ratios" title="src.geometor.pacioli.proportions.compound_ratios"><code class="xref py py-obj docutils literal notranslate"><span class="pre">compound_ratios</span></code></a>(ratios) → BoethianClassification</p></td>
+        <td><p>Compound a sequence of rational ratios (<em>proportioni composte</em>, <em>Summa</em> fol. 83r).</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#src.geometor.pacioli.proportions.apply_six_euclidean_modes" title="src.geometor.pacioli.proportions.apply_six_euclidean_modes"><code class="xref py py-obj docutils literal notranslate"><span class="pre">apply_six_euclidean_modes</span></code></a>(a, b, c, d[, e, f]) → SixModesResult</p></td>
+        <td><p>Verify and transform <span class="math notranslate nohighlight">\(a:b = c:d\)</span> under Pacioli's six modes (<em>Summa</em> fol. 74r).</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#src.geometor.pacioli.proportions.construct_three_means" title="src.geometor.pacioli.proportions.construct_three_means"><code class="xref py py-obj docutils literal notranslate"><span class="pre">construct_three_means</span></code></a>([a, b]) → ThreeMeansResult</p></td>
+        <td><p>Construct Arithmetic, Geometric, and Harmonic means of <span class="math notranslate nohighlight">\(a\)</span> and <span class="math notranslate nohighlight">\(b\)</span> in <code class="docutils literal notranslate"><span class="pre">Model</span></code>.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#src.geometor.pacioli.proportions.construct_extreme_and_mean_ratio" title="src.geometor.pacioli.proportions.construct_extreme_and_mean_ratio"><code class="xref py py-obj docutils literal notranslate"><span class="pre">construct_extreme_and_mean_ratio</span></code></a>([length]) → ExtremeMeanResult</p></td>
+        <td><p>Divide a line of given <code class="docutils literal notranslate"><span class="pre">length</span></code> (default <code class="docutils literal notranslate"><span class="pre">10</span></code>) in extreme and mean ratio.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#src.geometor.pacioli.proportions.solve_cossic_quadratic" title="src.geometor.pacioli.proportions.solve_cossic_quadratic"><code class="xref py py-obj docutils literal notranslate"><span class="pre">solve_cossic_quadratic</span></code></a>(canon_number, a_censi, b_cose, ...) → CossicQuadraticResult</p></td>
+        <td><p>Solve one of Pacioli's six canonical Cossic equations (<em>Summa</em> fols. 145r–146r).</p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="module-contents">
+        <h2>Module Contents<a class="headerlink" href="#module-contents" title="Link to this heading">¶</a></h2>
+        <dl class="py class">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.BoethianClassification">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.proportions.</span></span><span class="sig-name descname"><span class="pre">BoethianClassification</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.BoethianClassification" title="Link to this definition">¶</a></dt>
+        <dd><p>Exact Boethian classification of a positive rational ratio <span class="math notranslate nohighlight">\(p : q\)</span>.</p>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.BoethianClassification.antecedent">
+        <span class="sig-name descname"><span class="pre">antecedent</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Integer</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.BoethianClassification.antecedent" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.BoethianClassification.consequent">
+        <span class="sig-name descname"><span class="pre">consequent</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Integer</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.BoethianClassification.consequent" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.BoethianClassification.reduced_ratio">
+        <span class="sig-name descname"><span class="pre">reduced_ratio</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Rational</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.BoethianClassification.reduced_ratio" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.BoethianClassification.inequality">
+        <span class="sig-name descname"><span class="pre">inequality</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><a class="headerlink" href="#src.geometor.pacioli.proportions.BoethianClassification.inequality" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.BoethianClassification.genus">
+        <span class="sig-name descname"><span class="pre">genus</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><a class="headerlink" href="#src.geometor.pacioli.proportions.BoethianClassification.genus" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.BoethianClassification.latin_species">
+        <span class="sig-name descname"><span class="pre">latin_species</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><a class="headerlink" href="#src.geometor.pacioli.proportions.BoethianClassification.latin_species" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.BoethianClassification.quotient">
+        <span class="sig-name descname"><span class="pre">quotient</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Integer</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.BoethianClassification.quotient" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.BoethianClassification.remainder">
+        <span class="sig-name descname"><span class="pre">remainder</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Integer</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.BoethianClassification.remainder" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.BoethianClassification.denominator">
+        <span class="sig-name descname"><span class="pre">denominator</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Integer</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.BoethianClassification.denominator" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py class">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.SixModesResult">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.proportions.</span></span><span class="sig-name descname"><span class="pre">SixModesResult</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.SixModesResult" title="Link to this definition">¶</a></dt>
+        <dd><p>The six Euclidean <em>modi arguendi</em> (Book V / <em>Summa</em> fol. 74r) on <span class="math notranslate nohighlight">\(a : b = c : d\)</span>.</p>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.SixModesResult.original">
+        <span class="sig-name descname"><span class="pre">original</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#tuple" title="(in Python v3.13)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><span class="pre">sympy.Rational</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">sympy.Rational</span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.SixModesResult.original" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.SixModesResult.conversa">
+        <span class="sig-name descname"><span class="pre">conversa</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#tuple" title="(in Python v3.13)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><span class="pre">sympy.Rational</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">sympy.Rational</span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.SixModesResult.conversa" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.SixModesResult.permutata">
+        <span class="sig-name descname"><span class="pre">permutata</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#tuple" title="(in Python v3.13)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><span class="pre">sympy.Rational</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">sympy.Rational</span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.SixModesResult.permutata" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.SixModesResult.congionta">
+        <span class="sig-name descname"><span class="pre">congionta</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#tuple" title="(in Python v3.13)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><span class="pre">sympy.Rational</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">sympy.Rational</span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.SixModesResult.congionta" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.SixModesResult.disgiunta">
+        <span class="sig-name descname"><span class="pre">disgiunta</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#tuple" title="(in Python v3.13)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><span class="pre">sympy.Rational</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">sympy.Rational</span><span class="p"><span class="pre">]</span></span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/constants.html#None" title="(in Python v3.13)"><span class="pre">None</span></a></span><a class="headerlink" href="#src.geometor.pacioli.proportions.SixModesResult.disgiunta" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.SixModesResult.eversa">
+        <span class="sig-name descname"><span class="pre">eversa</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#tuple" title="(in Python v3.13)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><span class="pre">sympy.Rational</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">sympy.Rational</span><span class="p"><span class="pre">]</span></span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/constants.html#None" title="(in Python v3.13)"><span class="pre">None</span></a></span><a class="headerlink" href="#src.geometor.pacioli.proportions.SixModesResult.eversa" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.SixModesResult.equa">
+        <span class="sig-name descname"><span class="pre">equa</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#tuple" title="(in Python v3.13)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><span class="pre">sympy.Rational</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">sympy.Rational</span><span class="p"><span class="pre">]</span></span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/constants.html#None" title="(in Python v3.13)"><span class="pre">None</span></a></span><a class="headerlink" href="#src.geometor.pacioli.proportions.SixModesResult.equa" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py class">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.ThreeMeansResult">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.proportions.</span></span><span class="sig-name descname"><span class="pre">ThreeMeansResult</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.ThreeMeansResult" title="Link to this definition">¶</a></dt>
+        <dd><p>Exact symbolic outputs of the semicircle construction of the three classical means.</p>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.ThreeMeansResult.model">
+        <span class="sig-name descname"><span class="pre">model</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">geometor.model.Model</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.ThreeMeansResult.model" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.ThreeMeansResult.a">
+        <span class="sig-name descname"><span class="pre">a</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.ThreeMeansResult.a" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.ThreeMeansResult.b">
+        <span class="sig-name descname"><span class="pre">b</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.ThreeMeansResult.b" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.ThreeMeansResult.arithmetic_mean">
+        <span class="sig-name descname"><span class="pre">arithmetic_mean</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.ThreeMeansResult.arithmetic_mean" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.ThreeMeansResult.geometric_mean">
+        <span class="sig-name descname"><span class="pre">geometric_mean</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.ThreeMeansResult.geometric_mean" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.ThreeMeansResult.harmonic_mean">
+        <span class="sig-name descname"><span class="pre">harmonic_mean</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.ThreeMeansResult.harmonic_mean" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.ThreeMeansResult.harmonic_conjugate_point">
+        <span class="sig-name descname"><span class="pre">harmonic_conjugate_point</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.geometry.Point</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.ThreeMeansResult.harmonic_conjugate_point" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py class">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.ExtremeMeanResult">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.proportions.</span></span><span class="sig-name descname"><span class="pre">ExtremeMeanResult</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.ExtremeMeanResult" title="Link to this definition">¶</a></dt>
+        <dd><p>Exact symbolic outputs of dividing a segment in extreme and mean ratio.</p>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.ExtremeMeanResult.model">
+        <span class="sig-name descname"><span class="pre">model</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">geometor.model.Model</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.ExtremeMeanResult.model" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.ExtremeMeanResult.whole">
+        <span class="sig-name descname"><span class="pre">whole</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.ExtremeMeanResult.whole" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.ExtremeMeanResult.major_part">
+        <span class="sig-name descname"><span class="pre">major_part</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.ExtremeMeanResult.major_part" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.ExtremeMeanResult.minor_part">
+        <span class="sig-name descname"><span class="pre">minor_part</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.ExtremeMeanResult.minor_part" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.ExtremeMeanResult.cut_point">
+        <span class="sig-name descname"><span class="pre">cut_point</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.geometry.Point</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.ExtremeMeanResult.cut_point" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.ExtremeMeanResult.phi_ratio">
+        <span class="sig-name descname"><span class="pre">phi_ratio</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.ExtremeMeanResult.phi_ratio" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py class">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.CossicQuadraticResult">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.proportions.</span></span><span class="sig-name descname"><span class="pre">CossicQuadraticResult</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.CossicQuadraticResult" title="Link to this definition">¶</a></dt>
+        <dd><p>Symbolic solution and geometric gnomon invariants for Pacioli’s 6 canonical equations.</p>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.CossicQuadraticResult.canon_number">
+        <span class="sig-name descname"><span class="pre">canon_number</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><a class="headerlink" href="#src.geometor.pacioli.proportions.CossicQuadraticResult.canon_number" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.CossicQuadraticResult.canon_kind">
+        <span class="sig-name descname"><span class="pre">canon_kind</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><a class="headerlink" href="#src.geometor.pacioli.proportions.CossicQuadraticResult.canon_kind" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.CossicQuadraticResult.cossic_statement">
+        <span class="sig-name descname"><span class="pre">cossic_statement</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><a class="headerlink" href="#src.geometor.pacioli.proportions.CossicQuadraticResult.cossic_statement" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.CossicQuadraticResult.positive_roots">
+        <span class="sig-name descname"><span class="pre">positive_roots</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#tuple" title="(in Python v3.13)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><span class="pre">sympy.Expr</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="p"><span class="pre">...</span></span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.CossicQuadraticResult.positive_roots" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.CossicQuadraticResult.half_cose">
+        <span class="sig-name descname"><span class="pre">half_cose</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.CossicQuadraticResult.half_cose" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.CossicQuadraticResult.half_cose_squared">
+        <span class="sig-name descname"><span class="pre">half_cose_squared</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.CossicQuadraticResult.half_cose_squared" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.CossicQuadraticResult.completed_square_area">
+        <span class="sig-name descname"><span class="pre">completed_square_area</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.CossicQuadraticResult.completed_square_area" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.classify_boethian_ratio">
+        <span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.proportions.</span></span><span class="sig-name descname"><span class="pre">classify_boethian_ratio</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">p</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">q</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#src.geometor.pacioli.proportions.BoethianClassification" title="src.geometor.pacioli.proportions.BoethianClassification"><span class="pre">BoethianClassification</span></a></span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.classify_boethian_ratio" title="Link to this definition">¶</a></dt>
+        <dd><p>Classify a positive rational ratio <span class="math notranslate nohighlight">\(p : q\)</span> according to <em>Summa</em> Dist. VI.</p>
+        <p>Implements Severinus Boethius’s and Pacioli’s fivefold taxonomy of greater
+        (<em>maior inaequalitas</em>) and lesser (<em>minor inaequalitas</em>, prefixed <code class="docutils literal notranslate"><span class="pre">sub-</span></code>)
+        inequality on fols. 70r–83r.</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><ul class="simple">
+        <li><p><strong>p</strong> – Positive rational or integer antecedent.</p></li>
+        <li><p><strong>q</strong> – Positive rational or integer consequent.</p></li>
+        </ul>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>Exact <a class="reference internal" href="#src.geometor.pacioli.proportions.BoethianClassification" title="src.geometor.pacioli.proportions.BoethianClassification"><code class="xref py py-class docutils literal notranslate"><span class="pre">BoethianClassification</span></code></a> record with reduced integers and species name.</p>
+        </dd>
+        <dt class="field-odd">Raises<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><a class="reference external" href="https://docs.python.org/3.13/builtins/exceptions.html#ValueError" title="(in Python v3.13)"><strong>ValueError</strong></a> – If <code class="docutils literal notranslate"><span class="pre">p</span></code> or <code class="docutils literal notranslate"><span class="pre">q</span></code> is non-positive or non-rational.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.compound_ratios">
+        <span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.proportions.</span></span><span class="sig-name descname"><span class="pre">compound_ratios</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">ratios</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#list" title="(in Python v3.13)"><span class="pre">list</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#tuple" title="(in Python v3.13)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#src.geometor.pacioli.proportions.BoethianClassification" title="src.geometor.pacioli.proportions.BoethianClassification"><span class="pre">BoethianClassification</span></a></span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.compound_ratios" title="Link to this definition">¶</a></dt>
+        <dd><p>Compound a sequence of rational ratios (<em>proportioni composte</em>, <em>Summa</em> fol. 83r).</p>
+        <p>For example, compounding musical <em>sesquialtera</em> (<span class="math notranslate nohighlight">\(3:2\)</span>) and <em>sesquitertia</em>
+        (<span class="math notranslate nohighlight">\(4:3\)</span>) yields the octave <em>dupla</em> (<span class="math notranslate nohighlight">\(2:1\)</span>).</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><strong>ratios</strong> – Non-empty list of <code class="docutils literal notranslate"><span class="pre">(antecedent,</span> <span class="pre">consequent)</span></code> pairs.</p>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>The <a class="reference internal" href="#src.geometor.pacioli.proportions.BoethianClassification" title="src.geometor.pacioli.proportions.BoethianClassification"><code class="xref py py-class docutils literal notranslate"><span class="pre">BoethianClassification</span></code></a> of the compounded product ratio.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.apply_six_euclidean_modes">
+        <span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.proportions.</span></span><span class="sig-name descname"><span class="pre">apply_six_euclidean_modes</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">a</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">b</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">c</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">d</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">e</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/constants.html#None" title="(in Python v3.13)"><span class="pre">None</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">f</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/constants.html#None" title="(in Python v3.13)"><span class="pre">None</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#src.geometor.pacioli.proportions.SixModesResult" title="src.geometor.pacioli.proportions.SixModesResult"><span class="pre">SixModesResult</span></a></span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.apply_six_euclidean_modes" title="Link to this definition">¶</a></dt>
+        <dd><p>Verify and transform <span class="math notranslate nohighlight">\(a:b = c:d\)</span> under Pacioli’s six modes (<em>Summa</em> fol. 74r).</p>
+        <p>On fol. 74r (<em>De sex speciebus sive modis arguendi proportionalitatum</em>), Pacioli
+        enumerates: <em>conversa</em> (<span class="math notranslate nohighlight">\(b:a = d:c\)</span>), <em>permutata</em> (<span class="math notranslate nohighlight">\(a:c = b:d\)</span>),
+        <em>congionta</em> (<span class="math notranslate nohighlight">\((a+b):b = (c+d):d\)</span>), <em>disgiunta</em> (<span class="math notranslate nohighlight">\((a-b):b = (c-d):d\)</span>),
+        <em>eversa</em> (<span class="math notranslate nohighlight">\(a:(a-b) = c:(c-d)\)</span>), and <em>equa</em> (<span class="math notranslate nohighlight">\(a:e = c:f\)</span> when <span class="math notranslate nohighlight">\(b:e = d:f\)</span>).</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><ul class="simple">
+        <li><p><strong>a</strong> – First antecedent.</p></li>
+        <li><p><strong>b</strong> – First consequent.</p></li>
+        <li><p><strong>c</strong> – Second antecedent.</p></li>
+        <li><p><strong>d</strong> – Second consequent.</p></li>
+        <li><p><strong>e</strong> – Optional third term for <em>proportione equa</em> (Euclid V.22).</p></li>
+        <li><p><strong>f</strong> – Optional sixth term for <em>proportione equa</em> (Euclid V.22).</p></li>
+        </ul>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>Exact <a class="reference internal" href="#src.geometor.pacioli.proportions.SixModesResult" title="src.geometor.pacioli.proportions.SixModesResult"><code class="xref py py-class docutils literal notranslate"><span class="pre">SixModesResult</span></code></a> verifying equality of both sides in every valid mode.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.construct_three_means">
+        <span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.proportions.</span></span><span class="sig-name descname"><span class="pre">construct_three_means</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">a</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">9</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">b</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">4</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#src.geometor.pacioli.proportions.ThreeMeansResult" title="src.geometor.pacioli.proportions.ThreeMeansResult"><span class="pre">ThreeMeansResult</span></a></span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.construct_three_means" title="Link to this definition">¶</a></dt>
+        <dd><p>Construct Arithmetic, Geometric, and Harmonic means of <span class="math notranslate nohighlight">\(a\)</span> and <span class="math notranslate nohighlight">\(b\)</span> in <code class="docutils literal notranslate"><span class="pre">Model</span></code>.</p>
+        <p>Places collinear points <span class="math notranslate nohighlight">\(A=(0,0)\)</span>, <span class="math notranslate nohighlight">\(P=(a,0)\)</span>, <span class="math notranslate nohighlight">\(B=(a+b,0)\)</span>. In the
+        semicircle on diameter <span class="math notranslate nohighlight">\(AB\)</span> with center <span class="math notranslate nohighlight">\(M\)</span>:</p>
+        <ul class="simple">
+        <li><p>Radius <span class="math notranslate nohighlight">\(MQ = (a+b)/2 = A\)</span> (Arithmetic mean),</p></li>
+        <li><p>Altitude <span class="math notranslate nohighlight">\(PQ = \sqrt{ab} = G\)</span> (Geometric mean, Euclid <code class="docutils literal notranslate"><span class="pre">VI.13</span></code>),</p></li>
+        <li><p>Leg <span class="math notranslate nohighlight">\(QN = 2ab/(a+b) = H\)</span> on radius <span class="math notranslate nohighlight">\(MQ\)</span> where <span class="math notranslate nohighlight">\(PN \perp MQ\)</span> (Harmonic mean),
+        satisfying <span class="math notranslate nohighlight">\(PQ^2 = MQ \cdot QN \iff G^2 = A \cdot H\)</span>.</p></li>
+        </ul>
+        <p>Also constructs the collinear harmonic range <span class="math notranslate nohighlight">\((A, C_H; P, D_H)\)</span> with cross-ratio <span class="math notranslate nohighlight">\(-1\)</span>.</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><ul class="simple">
+        <li><p><strong>a</strong> – First positive exact length (default <code class="docutils literal notranslate"><span class="pre">9</span></code>, matching <em>Summa</em> / <em>Compendio</em> ratios).</p></li>
+        <li><p><strong>b</strong> – Second positive exact length (default <code class="docutils literal notranslate"><span class="pre">4</span></code>).</p></li>
+        </ul>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>Exact <a class="reference internal" href="#src.geometor.pacioli.proportions.ThreeMeansResult" title="src.geometor.pacioli.proportions.ThreeMeansResult"><code class="xref py py-class docutils literal notranslate"><span class="pre">ThreeMeansResult</span></code></a> with proven <code class="docutils literal notranslate"><span class="pre">Model</span></code> and exact symbolic means.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.construct_extreme_and_mean_ratio">
+        <span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.proportions.</span></span><span class="sig-name descname"><span class="pre">construct_extreme_and_mean_ratio</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">length</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">10</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#src.geometor.pacioli.proportions.ExtremeMeanResult" title="src.geometor.pacioli.proportions.ExtremeMeanResult"><span class="pre">ExtremeMeanResult</span></a></span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.construct_extreme_and_mean_ratio" title="Link to this definition">¶</a></dt>
+        <dd><p>Divide a line of given <code class="docutils literal notranslate"><span class="pre">length</span></code> (default <code class="docutils literal notranslate"><span class="pre">10</span></code>) in extreme and mean ratio.</p>
+        <p>Reproduces Pacioli’s canonical numerical archetype (<em>Summa</em> Dist. VI &amp; Part II Dist. VIII;
+        <em>De Divina Proportione</em> Cap. VIII–X): for <span class="math notranslate nohighlight">\(AB = 10\)</span>, the major segment is
+        <span class="math notranslate nohighlight">\(AC = \sqrt{125} - 5 = 5(\sqrt{5} - 1)\)</span> and the minor segment is
+        <span class="math notranslate nohighlight">\(CB = 15 - \sqrt{125} = 5(3 - \sqrt{5})\)</span>, satisfying
+        <span class="math notranslate nohighlight">\(AB \cdot CB = AC^2 = 150 - 10\sqrt{125}\)</span> and Euclid <code class="docutils literal notranslate"><span class="pre">XIII.1</span></code>
+        <span class="math notranslate nohighlight">\((AC + 5)^2 = 125 = 5 \cdot 5^2\)</span>.</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><strong>length</strong> – Positive exact length of segment <span class="math notranslate nohighlight">\(AB\)</span> (default <code class="docutils literal notranslate"><span class="pre">10</span></code>).</p>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>Exact <a class="reference internal" href="#src.geometor.pacioli.proportions.ExtremeMeanResult" title="src.geometor.pacioli.proportions.ExtremeMeanResult"><code class="xref py py-class docutils literal notranslate"><span class="pre">ExtremeMeanResult</span></code></a> with proven <code class="docutils literal notranslate"><span class="pre">Model</span></code> and closed-form algebraic parts.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.proportions.solve_cossic_quadratic">
+        <span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.proportions.</span></span><span class="sig-name descname"><span class="pre">solve_cossic_quadratic</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">canon_number</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">a_censi</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">b_cose</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">c_numero</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#src.geometor.pacioli.proportions.CossicQuadraticResult" title="src.geometor.pacioli.proportions.CossicQuadraticResult"><span class="pre">CossicQuadraticResult</span></a></span></span><a class="headerlink" href="#src.geometor.pacioli.proportions.solve_cossic_quadratic" title="Link to this definition">¶</a></dt>
+        <dd><p>Solve one of Pacioli’s six canonical Cossic equations (<em>Summa</em> fols. 145r–146r).</p>
+        <p>On fol. 145r, Pacioli classifies positive-coefficient equations into three simple
+        (<em>capitoli semplici</em>, 1–3) and three compound (<em>capitoli composti</em>, 4–6) canons:</p>
+        <ol class="arabic simple">
+        <li><p><code class="docutils literal notranslate"><span class="pre">a</span> <span class="pre">.ce.</span> <span class="pre">=</span> <span class="pre">b</span> <span class="pre">.co.</span></code> (<span class="math notranslate nohighlight">\(a x^2 = b x\)</span>)</p></li>
+        <li><p><code class="docutils literal notranslate"><span class="pre">a</span> <span class="pre">.ce.</span> <span class="pre">=</span> <span class="pre">c</span></code> (<span class="math notranslate nohighlight">\(a x^2 = c\)</span>)</p></li>
+        <li><p><code class="docutils literal notranslate"><span class="pre">b</span> <span class="pre">.co.</span> <span class="pre">=</span> <span class="pre">c</span></code> (<span class="math notranslate nohighlight">\(b x = c\)</span>)</p></li>
+        <li><p><code class="docutils literal notranslate"><span class="pre">a</span> <span class="pre">.ce.</span> <span class="pre">p̄</span> <span class="pre">b</span> <span class="pre">.co.</span> <span class="pre">=</span> <span class="pre">c</span></code> (<span class="math notranslate nohighlight">\(a x^2 + b x = c\)</span> — <em>Primi canonis versus</em>:
+        <em>Si res et census numero coaequantur…</em>)</p></li>
+        <li><p><code class="docutils literal notranslate"><span class="pre">a</span> <span class="pre">.ce.</span> <span class="pre">p̄</span> <span class="pre">c</span> <span class="pre">=</span> <span class="pre">b</span> <span class="pre">.co.</span></code> (<span class="math notranslate nohighlight">\(a x^2 + c = b x\)</span> — <em>Secundi canonis versus</em>:
+        two positive roots when <span class="math notranslate nohighlight">\((b/(2a))^2 &gt; c/a\)</span>)</p></li>
+        <li><p><code class="docutils literal notranslate"><span class="pre">b</span> <span class="pre">.co.</span> <span class="pre">p̄</span> <span class="pre">c</span> <span class="pre">=</span> <span class="pre">a</span> <span class="pre">.ce.</span></code> (<span class="math notranslate nohighlight">\(b x + c = a x^2\)</span> — <em>Tertii canonis versus</em>)</p></li>
+        </ol>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><ul class="simple">
+        <li><p><strong>canon_number</strong> – Integer <code class="docutils literal notranslate"><span class="pre">1</span></code> through <code class="docutils literal notranslate"><span class="pre">6</span></code> selecting Pacioli’s canon.</p></li>
+        <li><p><strong>a_censi</strong> – Coefficient of <em>censo</em> (<span class="math notranslate nohighlight">\(x^2\)</span>), positive for canons 1, 2, 4, 5, 6.</p></li>
+        <li><p><strong>b_cose</strong> – Coefficient of <em>cosa</em> (<span class="math notranslate nohighlight">\(x\)</span>), positive for canons 1, 3, 4, 5, 6.</p></li>
+        <li><p><strong>c_numero</strong> – Constant <em>numero</em>, positive for canons 2, 3, 4, 5, 6.</p></li>
+        </ul>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>Exact <a class="reference internal" href="#src.geometor.pacioli.proportions.CossicQuadraticResult" title="src.geometor.pacioli.proportions.CossicQuadraticResult"><code class="xref py py-class docutils literal notranslate"><span class="pre">CossicQuadraticResult</span></code></a> with Cossic statement, positive root(s),
+        and completion-of-the-square gnomon invariants.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        </section>
+        </section>
+
+      </div>
+      <footer class="book-footer">
+        <div class="book-footer-ornament">&#10086;</div>
+        <div class="book-footer-nav">
+          <div class="book-nav-prev">
+          </div>
+          <div class="book-nav-center">
+            <a class="book-toc-link" href="../../../../../../index.html">geometor • pacioli</a>
+          </div>
+          <div class="book-nav-next">
+          </div>
+        </div>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside class="aside-search">
+      <h3>Search</h3>
+      <div id="searchbox" role="search">
+        <form id="rtd-search-form" class="wy-form search-form" action="../../../../../../search.html" method="get">
+          <div class="search-field">
+            <input type="search" name="q" placeholder="Search docs..." aria-label="Search docs" autocomplete="off" />
+            <button type="submit" class="search-submit" aria-label="Search" title="Search">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </div>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+    <aside class="aside-recent-logs">
+      <h3>Recent Logs</h3>
+      <ul>
+        <li><a href="../../../../../../log/26.302-183400/index.html">Five-Track De Divina Proportione Codex & 482 Paganini Woodcut Graphics</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-tags">
+      <h3>Tags</h3>
+      <ul>
+        <li><a href="../../../../../../tags/leonardo-da-vinci.html">leonardo-da-vinci</a></li>
+        <li><a href="../../../../../../tags/pacioli.html">pacioli</a></li>
+        <li><a href="../../../../../../tags/paganini-1509.html">paganini-1509</a></li>
+        <li><a href="../../../../../../tags/winterberg.html">winterberg</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-categories">
+      <h3>Categories</h3>
+      <ul>
+        <li><a href="../../../../../../categories/codex.html">codex</a></li>
+        <li><a href="../../../../../../categories/graphics.html">graphics</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-types">
+      <h3>Types</h3>
+      <ul>
+        <li><a href="../../../../../../types/apparatus.html">apparatus</a></li>
+        <li><a href="../../../../../../types/log.html">log</a></li>
+      </ul>
+    </aside>
+  </div>
+  <footer>
+    <div class="footer-nav">
+      <ul>
+        <li><a href="../../../../../../about.html"  >about</a></li>
+        <li><a href="../../../../../../connect.html"  >connect</a></li>
+        <li><a href="../../../../../../todos/index.html"  >todos</a></li>
+        <li><a href="../../../../../../changelog.html"  >0.4.0 (2026-11-12)</a></li>
+      </ul>
+    </div>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright 2026, geometor.
+      </p>
+    </div>
+  </footer>
+
+  <script src="../../../../../../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../../../../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../../../../../../_static/documentation_options.js?v=6c02275b"></script>
+  <script src="../../../../../../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../../../../../../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../../../../../../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../../../../../../_static/js/geometor_interactive.js?v=b2892320"></script>
+  <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+  <script src="../../../../../../_static/js/search_highlight.js"></script>
+
+</body>
+</html>

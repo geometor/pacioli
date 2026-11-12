@@ -1,0 +1,308 @@
+
+
+<!DOCTYPE html>
+<html lang="en" data-content_root="../">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>De Computis et Scripturis &amp; Problem of Points (1494) &mdash; geometor • pacioli</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=66998e95" />
+  <link rel="stylesheet" type="text/css" href="../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../_static/favicon.ico" />
+</head>
+
+<body class="book-theme-classical-serif">
+  <header>
+    <div class="logo">
+      <a href="../index.html">
+        <img src="../_static/logo.png" class="logo" alt="Logo"/>
+      </a>
+      <div class="org-repo">
+        <span class="org">geometor</span>
+        •
+        <span class="repo">pacioli</span>
+      </div>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../de_divina_proportione/index.html"  >DE DIVINA PROPORTIONE</a>
+        </li>
+        <li>
+          <a href="../summa_1494/index.html"  >SUMMA DE ARITHMETICA, GEOMETRIA, PROPORTIONI ET PROPORTIONALITA</a>
+        </li>
+        <li>
+          <a href="index.html" class="is-active" aria-selected="true" >Symbolic Demonstrations</a>
+        </li>
+        <li>
+          <a href="../mission/index.html"  >mission</a>
+        </li>
+        <li>
+          <a href="../usage/index.html"  >usage</a>
+        </li>
+        <li>
+          <a href="../log/index.html"  >log</a>
+        </li>
+        <li>
+          <a href="../modules/index.html"  >modules</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main class="book-main">
+    <article class="book-layout book-reading-pane">
+      <header class="book-header">
+        <div class="book-header-bar">
+          <div class="book-header-identity">
+            <a class="book-portal-link" href="../index.html" title="Return to Project Portal">&larr; pacioli</a>
+            <span class="book-header-sep">/</span>
+            <a class="book-title-link" href="../index.html">geometor • pacioli</a>
+          </div>
+          <div class="book-header-breadcrumbs book-header-badges" role="navigation" aria-label="Breadcrumbs">
+            <a class="book-crumb-link" href="index.html">Symbolic Demonstrations</a>
+          </div>
+        </div>
+        <div class="book-header-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="summa_geometria.html" title="Tractatus Geometriae (Part II, 1494)">&larr; <span class="nav-label">Prev</span></a>
+          </div>
+          <div class="book-nav-center">
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="demo.html" title="Master Demonstration Runner"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
+        </div>
+      </header>
+      <div class="content body book-content" role="main">
+        <section class="level-1" id="de-computis-et-scripturis-problem-of-points-1494">
+        <h1>De Computis et Scripturis &amp; Problem of Points (1494)<a class="headerlink" href="#de-computis-et-scripturis-problem-of-points-1494" title="Link to this heading">¶</a></h1>
+        <p>Models Pacioli’s Venetian <em>Giornale</em> and <em>Quaderno grande</em> (<em>Part I, Distinctio IX, Tractatus XI</em>,
+        fols. 198v–210v) in exact <code class="docutils literal notranslate"><span class="pre">l.</span> <span class="pre">s.</span> <span class="pre">g.</span> <span class="pre">p.</span></code> money of account, verifies the oriented incidence
+        conservation law <span class="math notranslate nohighlight">\(\mathbf{1}^T B = \mathbf{0}^T\)</span> and skew-symmetric flow <span class="math notranslate nohighlight">\(F^T = -F\)</span>,
+        executes the <em>Pro e Danno</em> <span class="math notranslate nohighlight">\(\to\)</span> <em>Cavedal</em> <span class="math notranslate nohighlight">\(\to\)</span> <em>Bilancio del libro</em> closing cycle,
+        and compares Pacioli’s 1494 <em>balla</em> and three-player <em>balestrare</em> stake divisions (fol. 197r–197v)
+        against Pascal and Fermat’s 1654 combinatorial expectation.</p>
+        <div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="sd">"""Runnable CLI demonstration of Pacioli's Venetian *Quaderno* &amp; *Problem of Points* (1494).</span>
+
+        <span class="sd">Displays Rich tables verifying:</span>
+        <span class="sd">1. Chronological Venetian *Giornale* entries (``Per // A``) in ``l. s. g. p.`` money of account,</span>
+        <span class="sd">2. Pre-closing *Summa summarum* trial balance and skew-symmetric conservation ``F + F^T = 0``,</span>
+        <span class="sd">3. Cap. 27 &amp; Cap. 34 closing cycle (*Pro e Danno* -&gt; *Cavedal* -&gt; *Bilancio del libro*),</span>
+        <span class="sd">4. Pacioli's 1494 *Problem of Points* (*balla* &amp; *balestrare*, fol. 197r–197v) vs. Pascal–Fermat.</span>
+        <span class="sd">"""</span>
+
+        <span class="kn">from</span><span class="w"> </span><span class="nn">__future__</span><span class="w"> </span><span class="kn">import</span> <span class="n">annotations</span>
+
+        <span class="kn">import</span><span class="w"> </span><span class="nn">sys</span>
+        <span class="kn">from</span><span class="w"> </span><span class="nn">pathlib</span><span class="w"> </span><span class="kn">import</span> <span class="n">Path</span>
+
+        <span class="n">_SRC</span> <span class="o">=</span> <span class="n">Path</span><span class="p">(</span><span class="vm">__file__</span><span class="p">)</span><span class="o">.</span><span class="n">resolve</span><span class="p">()</span><span class="o">.</span><span class="n">parents</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">/</span> <span class="s2">"src"</span>
+        <span class="k">if</span> <span class="nb">str</span><span class="p">(</span><span class="n">_SRC</span><span class="p">)</span> <span class="ow">not</span> <span class="ow">in</span> <span class="n">sys</span><span class="o">.</span><span class="n">path</span><span class="p">:</span>
+            <span class="n">sys</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">insert</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nb">str</span><span class="p">(</span><span class="n">_SRC</span><span class="p">))</span>
+
+        <span class="kn">import</span><span class="w"> </span><span class="nn">sympy</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">sp</span>  <span class="c1"># noqa: E402</span>
+        <span class="kn">from</span><span class="w"> </span><span class="nn">rich.console</span><span class="w"> </span><span class="kn">import</span> <span class="n">Console</span>  <span class="c1"># noqa: E402</span>
+        <span class="kn">from</span><span class="w"> </span><span class="nn">rich.table</span><span class="w"> </span><span class="kn">import</span> <span class="n">Table</span>  <span class="c1"># noqa: E402</span>
+
+        <span class="kn">from</span><span class="w"> </span><span class="nn">geometor.pacioli.ledger_conservation</span><span class="w"> </span><span class="kn">import</span> <span class="p">(</span>  <span class="c1"># noqa: E402</span>
+            <span class="n">build_venetian_merchant_quaderno_1493</span><span class="p">,</span>
+            <span class="n">compare_problem_of_points</span><span class="p">,</span>
+        <span class="p">)</span>
+
+
+        <span class="k">def</span><span class="w"> </span><span class="nf">run_demo</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+        <span class="w">    </span><span class="sd">"""Execute and print the Venetian *Quaderno* and *Problem of Points* showcase."""</span>
+            <span class="n">console</span> <span class="o">=</span> <span class="n">Console</span><span class="p">()</span>
+            <span class="n">console</span><span class="o">.</span><span class="n">rule</span><span class="p">(</span><span class="s2">"[bold gold1]Fra Luca Pacioli • Summa Dist. IX (1494) — De Computis et Scripturis"</span><span class="p">)</span>
+
+            <span class="n">ledger</span> <span class="o">=</span> <span class="n">build_venetian_merchant_quaderno_1493</span><span class="p">()</span>
+
+            <span class="n">giornale_table</span> <span class="o">=</span> <span class="n">Table</span><span class="p">(</span><span class="n">title</span><span class="o">=</span><span class="s2">"Venetian Giornale (Nov. 1493, al modo de Vinegia, fol. 201v)"</span><span class="p">)</span>
+            <span class="n">giornale_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"#"</span><span class="p">,</span> <span class="n">justify</span><span class="o">=</span><span class="s2">"right"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"cyan"</span><span class="p">)</span>
+            <span class="n">giornale_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Date"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"white"</span><span class="p">)</span>
+            <span class="n">giornale_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Per (Dare / Debtor)"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"green"</span><span class="p">)</span>
+            <span class="n">giornale_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"A (Avere / Creditor)"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"yellow"</span><span class="p">)</span>
+            <span class="n">giornale_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"l. s. g. p."</span><span class="p">,</span> <span class="n">justify</span><span class="o">=</span><span class="s2">"right"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"bold white"</span><span class="p">)</span>
+
+            <span class="k">for</span> <span class="n">ent</span> <span class="ow">in</span> <span class="n">ledger</span><span class="o">.</span><span class="n">entries</span><span class="p">:</span>
+                <span class="n">giornale_table</span><span class="o">.</span><span class="n">add_row</span><span class="p">(</span>
+                    <span class="nb">str</span><span class="p">(</span><span class="n">ent</span><span class="o">.</span><span class="n">entry_no</span><span class="p">),</span>
+                    <span class="n">ent</span><span class="o">.</span><span class="n">date</span><span class="p">,</span>
+                    <span class="n">ent</span><span class="o">.</span><span class="n">debit_account</span><span class="p">,</span>
+                    <span class="n">ent</span><span class="o">.</span><span class="n">credit_account</span><span class="p">,</span>
+                    <span class="n">ent</span><span class="o">.</span><span class="n">amount</span><span class="o">.</span><span class="n">format_venetian</span><span class="p">(),</span>
+                <span class="p">)</span>
+            <span class="n">console</span><span class="o">.</span><span class="n">print</span><span class="p">(</span><span class="n">giornale_table</span><span class="p">)</span>
+
+            <span class="n">tb</span> <span class="o">=</span> <span class="n">ledger</span><span class="o">.</span><span class="n">trial_balance</span><span class="p">()</span>
+            <span class="n">mat_b</span> <span class="o">=</span> <span class="n">ledger</span><span class="o">.</span><span class="n">incidence_matrix</span><span class="p">()</span>
+            <span class="n">flow_f</span> <span class="o">=</span> <span class="n">ledger</span><span class="o">.</span><span class="n">skew_symmetric_flow_matrix</span><span class="p">()</span>
+            <span class="n">is_skew</span> <span class="o">=</span> <span class="n">flow_f</span> <span class="o">+</span> <span class="n">flow_f</span><span class="o">.</span><span class="n">T</span> <span class="o">==</span> <span class="n">sp</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">flow_f</span><span class="o">.</span><span class="n">rows</span><span class="p">,</span> <span class="n">flow_f</span><span class="o">.</span><span class="n">cols</span><span class="p">)</span>
+
+            <span class="n">quaderno_table</span> <span class="o">=</span> <span class="n">Table</span><span class="p">(</span><span class="n">title</span><span class="o">=</span><span class="s2">"Pre-Closing Quaderno Grande — Summa Summarum (Ducati a oro)"</span><span class="p">)</span>
+            <span class="n">quaderno_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Carta"</span><span class="p">,</span> <span class="n">justify</span><span class="o">=</span><span class="s2">"right"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"cyan"</span><span class="p">)</span>
+            <span class="n">quaderno_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Account"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"white"</span><span class="p">)</span>
+            <span class="n">quaderno_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Dare"</span><span class="p">,</span> <span class="n">justify</span><span class="o">=</span><span class="s2">"right"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"green"</span><span class="p">)</span>
+            <span class="n">quaderno_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Avere"</span><span class="p">,</span> <span class="n">justify</span><span class="o">=</span><span class="s2">"right"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"yellow"</span><span class="p">)</span>
+            <span class="n">quaderno_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Net Dare"</span><span class="p">,</span> <span class="n">justify</span><span class="o">=</span><span class="s2">"right"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"magenta"</span><span class="p">)</span>
+
+            <span class="k">for</span> <span class="n">acc</span> <span class="ow">in</span> <span class="n">tb</span><span class="o">.</span><span class="n">accounts</span><span class="p">:</span>
+                <span class="n">quaderno_table</span><span class="o">.</span><span class="n">add_row</span><span class="p">(</span>
+                    <span class="nb">str</span><span class="p">(</span><span class="n">acc</span><span class="o">.</span><span class="n">folio</span><span class="p">),</span>
+                    <span class="n">acc</span><span class="o">.</span><span class="n">name</span><span class="p">,</span>
+                    <span class="nb">str</span><span class="p">(</span><span class="n">acc</span><span class="o">.</span><span class="n">dare_ducati</span><span class="p">),</span>
+                    <span class="nb">str</span><span class="p">(</span><span class="n">acc</span><span class="o">.</span><span class="n">avere_ducati</span><span class="p">),</span>
+                    <span class="nb">str</span><span class="p">(</span><span class="n">acc</span><span class="o">.</span><span class="n">net_dare_ducati</span><span class="p">),</span>
+                <span class="p">)</span>
+            <span class="n">quaderno_table</span><span class="o">.</span><span class="n">add_section</span><span class="p">()</span>
+            <span class="n">quaderno_table</span><span class="o">.</span><span class="n">add_row</span><span class="p">(</span>
+                <span class="s2">"Σ"</span><span class="p">,</span>
+                <span class="s2">"SUMMA SUMMARUM"</span><span class="p">,</span>
+                <span class="sa">f</span><span class="s2">"[bold]</span><span class="si">{</span><span class="n">tb</span><span class="o">.</span><span class="n">summa_dare_ducati</span><span class="si">}</span><span class="s2">[/bold]"</span><span class="p">,</span>
+                <span class="sa">f</span><span class="s2">"[bold]</span><span class="si">{</span><span class="n">tb</span><span class="o">.</span><span class="n">summa_avere_ducati</span><span class="si">}</span><span class="s2">[/bold]"</span><span class="p">,</span>
+                <span class="sa">f</span><span class="s2">"[bold]</span><span class="si">{</span><span class="n">tb</span><span class="o">.</span><span class="n">net_conservation_sum</span><span class="si">}</span><span class="s2">[/bold]"</span><span class="p">,</span>
+            <span class="p">)</span>
+            <span class="n">console</span><span class="o">.</span><span class="n">print</span><span class="p">(</span><span class="n">quaderno_table</span><span class="p">)</span>
+
+            <span class="n">net_profit</span> <span class="o">=</span> <span class="n">ledger</span><span class="o">.</span><span class="n">close_to_bilancio</span><span class="p">()</span>
+            <span class="n">closed_tb</span> <span class="o">=</span> <span class="n">ledger</span><span class="o">.</span><span class="n">trial_balance</span><span class="p">()</span>
+            <span class="n">console</span><span class="o">.</span><span class="n">print</span><span class="p">(</span>
+                <span class="sa">f</span><span class="s2">"[bold]Conservation Laws Verified:[/bold] "</span>
+                <span class="sa">f</span><span class="s2">"Incidence B shape=</span><span class="si">{</span><span class="n">mat_b</span><span class="o">.</span><span class="n">shape</span><span class="si">}</span><span class="s2">, Fᵀ = -F is [green]</span><span class="si">{</span><span class="n">is_skew</span><span class="si">}</span><span class="s2">[/green], "</span>
+                <span class="sa">f</span><span class="s2">"Cassa non-negative is [green]</span><span class="si">{</span><span class="n">tb</span><span class="o">.</span><span class="n">cassa_non_negative</span><span class="si">}</span><span class="s2">[/green], "</span>
+                <span class="sa">f</span><span class="s2">"Net Profit to Cavedal = [yellow]</span><span class="si">{</span><span class="n">net_profit</span><span class="si">}</span><span class="s2"> ducati[/yellow], "</span>
+                <span class="sa">f</span><span class="s2">"Post-Bilancio Summa = </span><span class="si">{</span><span class="n">closed_tb</span><span class="o">.</span><span class="n">summa_dare_ducati</span><span class="si">}</span><span class="s2"> = </span><span class="si">{</span><span class="n">closed_tb</span><span class="o">.</span><span class="n">summa_avere_ducati</span><span class="si">}</span><span class="se">\n</span><span class="s2">"</span>
+            <span class="p">)</span>
+
+            <span class="n">points_table</span> <span class="o">=</span> <span class="n">Table</span><span class="p">(</span>
+                <span class="n">title</span><span class="o">=</span><span class="s2">"Fol. 197r–197v: Problem of Points — Pacioli (1494) vs. Pascal–Fermat (1654)"</span>
+            <span class="p">)</span>
+            <span class="n">points_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Contest (Target = 6, Stake = 10 ducats)"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"cyan"</span><span class="p">)</span>
+            <span class="n">points_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Pacioli 1494 Shares"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"yellow"</span><span class="p">)</span>
+            <span class="n">points_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Pascal–Fermat Shares"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"bold green"</span><span class="p">)</span>
+            <span class="n">points_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Discrepancy (PF - Pacioli)"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"magenta"</span><span class="p">)</span>
+
+            <span class="k">for</span> <span class="n">label</span><span class="p">,</span> <span class="n">scores</span> <span class="ow">in</span> <span class="p">[(</span><span class="s2">"Balla 2-player (5, 3)"</span><span class="p">,</span> <span class="p">(</span><span class="mi">5</span><span class="p">,</span> <span class="mi">3</span><span class="p">)),</span> <span class="p">(</span><span class="s2">"Balestrare 3-player (4, 3, 2)"</span><span class="p">,</span> <span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">2</span><span class="p">))]:</span>
+                <span class="n">cmp</span> <span class="o">=</span> <span class="n">compare_problem_of_points</span><span class="p">(</span><span class="mi">6</span><span class="p">,</span> <span class="n">scores</span><span class="p">,</span> <span class="mi">10</span><span class="p">)</span>
+                <span class="n">points_table</span><span class="o">.</span><span class="n">add_row</span><span class="p">(</span>
+                    <span class="n">label</span><span class="p">,</span>
+                    <span class="s2">", "</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">x</span><span class="p">)</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">cmp</span><span class="o">.</span><span class="n">pacioli_shares</span><span class="p">),</span>
+                    <span class="s2">", "</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">x</span><span class="p">)</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">cmp</span><span class="o">.</span><span class="n">pascal_fermat_shares</span><span class="p">),</span>
+                    <span class="s2">", "</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">x</span><span class="p">)</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">cmp</span><span class="o">.</span><span class="n">discrepancies</span><span class="p">),</span>
+                <span class="p">)</span>
+            <span class="n">console</span><span class="o">.</span><span class="n">print</span><span class="p">(</span><span class="n">points_table</span><span class="p">)</span>
+
+
+        <span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">"__main__"</span><span class="p">:</span>
+            <span class="n">run_demo</span><span class="p">()</span>
+        </pre></div>
+        </div>
+        </section>
+
+      </div>
+      <footer class="book-footer">
+        <div class="book-footer-ornament">&#10086;</div>
+        <div class="book-footer-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="summa_geometria.html" title="Tractatus Geometriae (Part II, 1494)">&larr; <span class="nav-label">Tractatus Geometriae (Part II, 1494)</span></a>
+          </div>
+          <div class="book-nav-center">
+            <a class="book-toc-link" href="../index.html">geometor • pacioli</a>
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="demo.html" title="Master Demonstration Runner"><span class="nav-label">Master Demonstration Runner</span> &rarr;</a>
+          </div>
+        </div>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside class="aside-search">
+      <h3>Search</h3>
+      <div id="searchbox" role="search">
+        <form id="rtd-search-form" class="wy-form search-form" action="../search.html" method="get">
+          <div class="search-field">
+            <input type="search" name="q" placeholder="Search docs..." aria-label="Search docs" autocomplete="off" />
+            <button type="submit" class="search-submit" aria-label="Search" title="Search">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </div>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+    <aside class="aside-recent-logs">
+      <h3>Recent Logs</h3>
+      <ul>
+        <li><a href="../log/26.302-183400/index.html">Five-Track De Divina Proportione Codex & 482 Paganini Woodcut Graphics</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-tags">
+      <h3>Tags</h3>
+      <ul>
+        <li><a href="../tags/leonardo-da-vinci.html">leonardo-da-vinci</a></li>
+        <li><a href="../tags/pacioli.html">pacioli</a></li>
+        <li><a href="../tags/paganini-1509.html">paganini-1509</a></li>
+        <li><a href="../tags/winterberg.html">winterberg</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-categories">
+      <h3>Categories</h3>
+      <ul>
+        <li><a href="../categories/codex.html">codex</a></li>
+        <li><a href="../categories/graphics.html">graphics</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-types">
+      <h3>Types</h3>
+      <ul>
+        <li><a href="../types/apparatus.html">apparatus</a></li>
+        <li><a href="../types/log.html">log</a></li>
+      </ul>
+    </aside>
+  </div>
+  <footer>
+    <div class="footer-nav">
+      <ul>
+        <li><a href="../about.html"  >about</a></li>
+        <li><a href="../connect.html"  >connect</a></li>
+        <li><a href="../todos/index.html"  >todos</a></li>
+        <li><a href="../changelog.html"  >0.4.0 (2026-11-12)</a></li>
+      </ul>
+    </div>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright 2026, geometor.
+      </p>
+    </div>
+  </footer>
+
+  <script src="../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../_static/documentation_options.js?v=6c02275b"></script>
+  <script src="../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../_static/js/geometor_interactive.js?v=b2892320"></script>
+  <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+  <script src="../_static/js/search_highlight.js"></script>
+
+</body>
+</html>

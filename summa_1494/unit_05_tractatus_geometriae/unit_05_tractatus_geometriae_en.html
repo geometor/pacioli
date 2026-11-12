@@ -1,0 +1,433 @@
+
+
+<!DOCTYPE html>
+<html lang="en" data-content_root="../../">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>UNIT V — TRACTATUS GEOMETRIAE: HERON, SURFACE DIVISION &amp; REGULAR SOLIDS &mdash; Summa de Arithmetica, Geometria, Proportioni et Proportionalita</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../../_static/css/styles.css?v=66998e95" />
+  <link rel="stylesheet" type="text/css" href="../../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="../../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../../_static/favicon.ico" />
+</head>
+
+<body class="is-book-page book-theme-classical-serif" data-folio="Part II, fols. 1r–76r (Colophon Nov. 10, 1494)">
+  <header>
+    <div class="logo">
+      <a href="../../index.html">
+        <img src="../../_static/logo.png" class="logo" alt="Logo"/>
+      </a>
+      <div class="org-repo">
+        <span class="org">geometor</span>
+        •
+        <span class="repo">pacioli</span>
+      </div>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../../de_divina_proportione/index.html"  >DE DIVINA PROPORTIONE</a>
+        </li>
+        <li>
+          <a href="../index.html" class="is-active" aria-selected="true" >SUMMA DE ARITHMETICA, GEOMETRIA, PROPORTIONI ET PROPORTIONALITA</a>
+        </li>
+        <li>
+          <a href="../../demos/index.html"  >Symbolic Demonstrations</a>
+        </li>
+        <li>
+          <a href="../../mission/index.html"  >mission</a>
+        </li>
+        <li>
+          <a href="../../usage/index.html"  >usage</a>
+        </li>
+        <li>
+          <a href="../../log/index.html"  >log</a>
+        </li>
+        <li>
+          <a href="../../modules/index.html"  >modules</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main class="book-main">
+    <article class="book-layout book-reading-pane" data-folio="Part II, fols. 1r–76r (Colophon Nov. 10, 1494)" data-canonical-id="Summa II, Dist. I–VIII">
+      <header class="book-header">
+        <div class="book-header-bar">
+          <div class="book-header-identity">
+            <a class="book-portal-link" href="../../index.html" title="Return to Project Portal">&larr; pacioli</a>
+            <span class="book-header-sep">/</span>
+            <a class="book-title-link" href="../index.html">Summa de Arithmetica, Geometria, Proportioni et Proportionalita</a>
+          </div>
+          <div class="book-header-breadcrumbs book-header-badges" role="navigation" aria-label="Book Breadcrumbs">
+            <span class="book-badge canonical-badge">Summa II, Dist. I–VIII</span>
+            <span class="book-badge folio-badge">Folio Part II, fols. 1r–76r (Colophon Nov. 10, 1494)</span>
+          </div>
+        </div>
+        <div class="book-header-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../unit_04_computis_quaderno/unit_04_computis_quaderno_en.html" title="UNIT IV — PARTICULARIS DE COMPUTIS ET SCRIPTURIS &amp; THE PROBLEM OF POINTS">&larr; <span class="nav-label">Prev</span></a>
+          </div>
+          <div class="book-nav-center">
+            <nav class="book-tracks-nav" aria-label="Document Tracks">
+              <strong class="book-track-item is-active" aria-current="page">English</strong>
+              <span class="book-track-sep">&middot;</span>
+              <a class="book-track-item" href="unit_05_tractatus_geometriae_it.html">Italiano</a>
+              <span class="book-track-sep">&middot;</span>
+              <a class="book-track-item" href="unit_05_tractatus_geometriae_summary.html">Summary</a>
+              <span class="book-track-sep">&middot;</span>
+              <a class="book-track-item" href="unit_05_tractatus_geometriae_notes.html">Notes</a>
+            </nav>
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../bibliography.html" title="Bibliography &amp; Cited Works"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
+        </div>
+      </header>
+      <div class="content body book-content folio-book-page" role="main">
+        <section class="level-1" id="unit-v-tractatus-geometriae-heron-surface-division-regular-solids">
+        <span id="summa-unit-05-en"></span><span id="summa-unit-05"></span><h1>UNIT V — TRACTATUS GEOMETRIAE: HERON, SURFACE DIVISION &amp; REGULAR SOLIDS<a class="headerlink" href="#unit-v-tractatus-geometriae-heron-surface-division-regular-solids" title="Link to this heading">¶</a></h1>
+        <p class="rubric">Part II, Distinctiones I–VIII: Plane Mensuration, Archimedes’s Circle, <em>De Divisione Superficierum</em>, Inscribed Polyhedra &amp; the 1494 Colophon (fols. 1r–76r)</p>
+        <div class="folio-milestone" id="folio-Part II, fols. 1r–9v" data-folio="Part II, fols. 1r–9v" data-page="">[Folio Part II, fols. 1r–9v]</div>
+        <p class="rubric">Euclid Digest &amp; Heron’s <cite>(13, 14, 15)</cite> Triangle Mensuration (<cite>Part II, fol. 9v</cite>)</p>
+        <p>Opening the separately foliated second tome (<em>Tractatus Geometriae</em>, <cite>fols. 1r–2r</cite>), <a class="person-ref" id="occ-person-pacioli-1" href="../persons.html#person-pacioli" data-person="pacioli" title="Pacioli, Fra Luca (c. 1447 – 1517) — Franciscan Mathematician of Borgo Sansepolcro; Author of the Summa (1494) and De Divina Proportione (1509)">Fra Luca Pacioli</a> condenses the foundational definitions and constructions of <a class="person-ref" id="occ-person-euclid-1" href="../persons.html#person-euclid" data-person="euclid" title="Euclid of Alexandria (fl. c. 300 BC) — Greek Geometer; Author of the Elements">Euclid</a> Books I, II, and VI before turning in <em>Distinctio I, Cap. 8</em> (<cite>fol. 9v</cite>) to the crown jewel of practical surveyor’s mensuration inherited from <a class="person-ref" id="occ-person-heron-1" href="../persons.html#person-heron" data-person="heron" title="Heron of Alexandria (fl. 1st century AD) — Alexandrian Geometer and Engineer">Heron of Alexandria</a> and <a class="person-ref" id="occ-person-leonardo-pisano-1" href="../persons.html#person-leonardo-pisano" data-person="leonardo-pisano" title="Leonardo Pisano (Fibonacci) (c. 1170 – c. 1250) — Pisan Mathematician; Principal Medieval Source of the Summa">Leonardo Pisano's</a> <a class="citation-ref" id="occ-cite-leonardo-pisano-practica-geometriae-1" href="../bibliography.html#cite-leonardo-pisano-practica-geometriae" data-cite="leonardo-pisano:practica-geometriae" title="Leonardo Pisano (Fibonacci, c. 1170 – c. 1250) — Practica Geometriae (Pisa, 1220)"><em>Practica Geometriae</em></a>: determining the exact area, perpendicular <a class="term-ref glossary-term" id="occ-term-catetto-1" href="../glossary.html#term-catetto" data-term="catetto" title="catetto (cathetus) (Perpendicular Altitude of a Triangle): Perpendicular dropped from a triangle vertex onto the opposite base; in Summa Part II, fol. 9v, dividing twice the Heron area (168) by base 14 yields catetto AD = 12.">cathetus (<em>catetto</em>)</a>, and incircle of a scalene triangle from its three sides alone.</p>
+        <figure class="photon-picture photon-svg">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 295" width="420" height="295" class="euclid-graphic" data-graphic-id="summa.II.1.heron" data-folio="Part II, fol. 9v" data-graphic="g1" data-proposition="Summa.II.I.8">
+          <defs>
+            <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+              <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+            </marker>
+            <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+              <line x1="-1.8" y1="-4.5" x2="-1.8" y2="4.5" class="geom-tick-mark" />
+              <line x1="1.8" y1="-4.5" x2="1.8" y2="4.5" class="geom-tick-mark" />
+            </marker>
+            <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+              <line x1="-3.2" y1="-4.5" x2="-3.2" y2="4.5" class="geom-tick-mark" />
+              <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+              <line x1="3.2" y1="-4.5" x2="3.2" y2="4.5" class="geom-tick-mark" />
+            </marker>
+          </defs>
+          <g id="elements">
+            <circle id="el-circle-incircle" data-ref="( I T )" data-type="circle" cx="189" cy="174" r="78" class="geom-circle" />
+          </g>
+          <g id="graphics">
+            <polygon id="el-poly-GBA" data-ref="&lt; G B A &gt;" data-type="polygon" points="72,252 345,252 169.5,18" class="geom-polygon" />
+            <polygon id="el-poly-GDA" data-ref="&lt; G D A &gt;" data-type="polygon" points="72,252 169.5,252 169.5,18" class="geom-polygon-gnomon" />
+            <path id="el-seg-GB" data-ref="/ G B /" data-type="segment" class="geom-bold" d="M 72 252 L 208.5 252 L 345 252" />
+            <path id="el-seg-GA" data-ref="/ G A /" data-type="segment" class="geom-bold" d="M 72 252 L 120.75 135 L 169.5 18" />
+            <path id="el-seg-BA" data-ref="/ B A /" data-type="segment" class="geom-bold" d="M 345 252 L 257.25 135 L 169.5 18" />
+            <path id="el-seg-AD" data-ref="/ A D /" data-type="segment" class="geom-dashed" d="M 169.5 18 L 169.5 135 L 169.5 252" />
+            <path id="el-seg-IT" data-ref="/ I T /" data-type="segment" class="geom-line" d="M 189 174 L 189 213 L 189 252" />
+            <path id="el-seg-GD" data-ref="/ G D /" data-type="segment" class="geom-line" d="M 72 252 L 120.75 252 L 169.5 252" />
+            <path id="el-seg-DB" data-ref="/ D B /" data-type="segment" class="geom-line" d="M 169.5 252 L 257.25 252 L 345 252" />
+          </g>
+          <g id="highlights" style="pointer-events: none;">
+            <polygon id="hl-poly-GBA" data-ref="&lt; G B A &gt;" points="72,252 345,252 169.5,18" class="geom-polygon geom-overlay" />
+            <polygon id="hl-poly-GDA" data-ref="&lt; G D A &gt;" points="72,252 169.5,252 169.5,18" class="geom-polygon-gnomon geom-overlay" />
+            <circle id="hl-circle-incircle" data-ref="( I T )" cx="189" cy="174" r="78" class="geom-circle geom-overlay" />
+            <path id="hl-seg-GB" data-ref="/ G B /" class="geom-bold geom-overlay" d="M 72 252 L 208.5 252 L 345 252" />
+            <path id="hl-seg-GA" data-ref="/ G A /" class="geom-bold geom-overlay" d="M 72 252 L 120.75 135 L 169.5 18" />
+            <path id="hl-seg-BA" data-ref="/ B A /" class="geom-bold geom-overlay" d="M 345 252 L 257.25 135 L 169.5 18" />
+            <path id="hl-seg-AD" data-ref="/ A D /" class="geom-dashed geom-overlay" d="M 169.5 18 L 169.5 135 L 169.5 252" />
+            <path id="hl-seg-IT" data-ref="/ I T /" class="geom-line geom-overlay" d="M 189 174 L 189 213 L 189 252" />
+            <path id="hl-seg-GD" data-ref="/ G D /" class="geom-line geom-overlay" d="M 72 252 L 120.75 252 L 169.5 252" />
+            <path id="hl-seg-DB" data-ref="/ D B /" class="geom-line geom-overlay" d="M 169.5 252 L 257.25 252 L 345 252" />
+          </g>
+          <g id="points">
+            <circle id="el-pt-G" data-ref="G" data-type="point" cx="72" cy="252" r="3.4" class="geom-point" />
+            <circle id="el-pt-D" data-ref="D" data-type="point" cx="169.5" cy="252" r="3.4" class="geom-point" />
+            <circle id="el-pt-T" data-ref="T" data-type="point" cx="189" cy="252" r="3.4" class="geom-point" />
+            <circle id="el-pt-B" data-ref="B" data-type="point" cx="345" cy="252" r="3.4" class="geom-point" />
+            <circle id="el-pt-A" data-ref="A" data-type="point" cx="169.5" cy="18" r="3.4" class="geom-point" />
+            <circle id="el-pt-I" data-ref="I" data-type="point" cx="189" cy="174" r="3.4" class="geom-point" />
+          </g>
+          <g id="labels">
+            <text id="lbl-G" data-ref="G" x="62" y="264" text-anchor="end" class="geom-label">G</text>
+            <text id="lbl-D" data-ref="D" x="169.5" y="267" text-anchor="middle" class="geom-label">D</text>
+            <text id="lbl-T" data-ref="T" x="189" y="267" text-anchor="middle" class="geom-label">T</text>
+            <text id="lbl-B" data-ref="B" x="355" y="264" text-anchor="start" class="geom-label">B</text>
+            <text id="lbl-A" data-ref="A" x="169.5" y="8" text-anchor="middle" class="geom-label">A</text>
+            <text id="lbl-I" data-ref="I" x="199" y="170" text-anchor="start" class="geom-label">I</text>
+            <text id="ann-lbl-13" x="101.25" y="123.3" text-anchor="middle" class="geom-label-sm">AG = 13</text>
+            <text id="ann-lbl-15" x="278.7" y="123.3" text-anchor="middle" class="geom-label-sm">AB = 15</text>
+            <text id="ann-lbl-12" x="151.95" y="131.1" text-anchor="end" class="geom-label-sm">AD = 12</text>
+            <text id="ann-lbl-r4" x="220.2" y="213" text-anchor="start" class="geom-label-sm">r = 4</text>
+            <text id="ann-heron-eq" x="208.5" y="282.23" text-anchor="middle" class="geom-label-sm">s = 21  |  ℞(6 · 7 · 8 · 21) = ℞.7056 = 84 braccia²</text>
+          </g>
+        </svg>
+        </figure>
+        <div class="assertion"><a class="justification" href="https://geometor.github.io/euclid/heath/volume_I/book_ii/propositions/13/index.html#ii-13" data-ref-target="II.13" title="II.13">[Heron&#x27;s Formula &amp; Euclid II.13 / IV.4]</a>
+        <p>Let scalene triangle <span class="geom-ref" data-ref="summa.II.1.heron:&lt; G B A &gt;" title="&lt; G B A &gt;">GBA</span> have sides <span class="geom-ref" data-ref="summa.II.1.heron:/ G A /" title="/ G A /">GA</span> $= 13$, base <span class="geom-ref" data-ref="summa.II.1.heron:/ G B /" title="/ G B /">GB</span> $= 14$, and <span class="geom-ref" data-ref="summa.II.1.heron:/ B A /" title="/ B A /">BA</span> $= 15$ <em>braccia</em> (<a class="justification" href="https://geometor.github.io/euclid/heath/volume_I/book_i/propositions/22/index.html#i-22" data-ref-target="I.22" title="I.22">[I.22]</a>). Sum the three sides ($13 + 14 + 15 = 42$) and take the <strong>semiperimeter</strong> (<em>mità dela summa</em>) $s = 21$. Subtract each side in turn to obtain the three <strong>excesses</strong> (<em>differentie</em>):</p>
+        <p>$$21 - 15 = 6, \qquad 21 - 14 = 7, \qquad 21 - 13 = 8$$</p>
+        <p>Multiply $6 \times 7 \times 8 = 336$, and multiply $336$ by the semiperimeter $21$ to obtain $7056$, whose exact square root gives the area:</p>
+        <p>$$\text{Area}(\triangle GBA) = \sqrt{7056} = 84 \text{ square braccia}$$</p>
+        <p>Dividing $2 \times 84 = 168$ by base <span class="geom-ref" data-ref="summa.II.1.heron:/ G B /" title="/ G B /">GB</span> ($14$) yields the perpendicular <a class="term-ref glossary-term" id="occ-term-catetto-2" href="../glossary.html#term-catetto" data-term="catetto" title="catetto (cathetus) (Perpendicular Altitude of a Triangle): Perpendicular dropped from a triangle vertex onto the opposite base; in Summa Part II, fol. 9v, dividing twice the Heron area (168) by base 14 yields catetto AD = 12.">cathetus</a> <span class="geom-ref" data-ref="summa.II.1.heron:/ A D /" title="/ A D /">AD</span> $= 12$, splitting $GB$ at <span class="geom-ref" data-ref="summa.II.1.heron:D" title="D">D</span> into right-triangle base segments <span class="geom-ref" data-ref="summa.II.1.heron:/ G D /" title="/ G D /">GD</span> $= 5$ (inside $(5, 12, 13)$ right triangle <span class="geom-ref" data-ref="summa.II.1.heron:&lt; G D A &gt;" title="&lt; G D A &gt;">GDA</span>) and <span class="geom-ref" data-ref="summa.II.1.heron:/ D B /" title="/ D B /">DB</span> $= 9$ (inside $(9, 12, 15)$). Dividing area $84$ by semiperimeter $21$ locates the incircle <span class="geom-ref" data-ref="summa.II.1.heron:( I T )" title="( I T )">(IT)</span> centered at <span class="geom-ref" data-ref="summa.II.1.heron:I" title="I">I</span> $= (6, 4)$ of exact integer inradius <span class="geom-ref" data-ref="summa.II.1.heron:/ I T /" title="/ I T /">IT</span> $= 4$ (<a class="justification" href="https://geometor.github.io/euclid/heath/volume_II/book_iv/propositions/04/index.html#iv-4" data-ref-target="IV.4" title="IV.4">[IV.4]</a>).</p>
+        </div>
+        <div class="folio-milestone" id="folio-Part II, fol. 31r &amp; fols. 34r–43v" data-folio="Part II, fol. 31r &amp; fols. 34r–43v" data-page="">[Folio Part II, fol. 31r &amp; fols. 34r–43v]</div>
+        <p class="rubric">Archimedes’s Circle (<cite>fol. 31r</cite>) &amp; <em>De Divisione Superficierum</em> (<cite>Dist. IV</cite>)</p>
+        <p>In <em>Distinctio III, Cap. 6</em> (<cite>fol. 31r</cite>), Pacioli expounds <a class="person-ref" id="occ-person-archimedes-1" href="../persons.html#person-archimedes" data-person="archimedes" title="Archimedes of Syracuse (c. 287 – 212 BC) — Greek Geometer and Hydrostatician">Archimedes's</a> <a class="citation-ref" id="occ-cite-archimedes-dimensio-circuli-1" href="../bibliography.html#cite-archimedes-dimensio-circuli" data-cite="archimedes:dimensio-circuli" title="Archimedes of Syracuse (c. 287 – 212 BC) — Dimensio Circuli (On the Measurement of the Circle) (Propositions 1–3)"><em>Dimensio Circuli</em></a>, bounding the circumference-to-diameter ratio by inscribed and circumscribed $96$-gons between $3\frac{10}{71}$ and $3\frac{1}{7}$ ($22 : 7$). In <em>Distinctio IV</em> (<em>De divisione superficierum</em>), he solves estate-partition problems dividing triangles, quadrilaterals, and circles in prescribed ratios $p : q$ both through vertices (<a class="justification" href="https://geometor.github.io/euclid/heath/volume_II/book_vi/propositions/01/index.html#vi-1" data-ref-target="VI.1" title="VI.1">[VI.1]</a>) and parallel to a side (<a class="justification" href="https://geometor.github.io/euclid/heath/volume_II/book_vi/propositions/13/index.html#vi-13" data-ref-target="VI.13" title="VI.13">[VI.13]</a>, <a class="justification" href="https://geometor.github.io/euclid/heath/volume_II/book_vi/propositions/19/index.html#vi-19" data-ref-target="VI.19" title="VI.19">[VI.19]</a>).</p>
+        <figure class="photon-picture photon-svg">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" width="420" height="300" class="euclid-graphic" data-graphic-id="summa.II.4.divisione" data-folio="Part II, fol. 35r" data-graphic="g1" data-proposition="VI.19">
+          <defs>
+            <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+              <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+            </marker>
+            <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+              <line x1="-1.8" y1="-4.5" x2="-1.8" y2="4.5" class="geom-tick-mark" />
+              <line x1="1.8" y1="-4.5" x2="1.8" y2="4.5" class="geom-tick-mark" />
+            </marker>
+            <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+              <line x1="-3.2" y1="-4.5" x2="-3.2" y2="4.5" class="geom-tick-mark" />
+              <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+              <line x1="3.2" y1="-4.5" x2="3.2" y2="4.5" class="geom-tick-mark" />
+            </marker>
+          </defs>
+          <g id="elements">
+            <path id="el-arc-semiGB" data-ref="( M B )" data-type="arc" class="geom-dashed" d="M 342 248 A 133 133 0 0 0 76 248" />
+            <path id="el-arc-arcGS" data-ref="( G S )" data-type="arc" class="geom-arc" d="M 264.09 248 A 188.09 188.09 0 0 0 209 115" />
+          </g>
+          <g id="graphics">
+            <polygon id="el-poly-GBA" data-ref="&lt; G B A &gt;" data-type="polygon" points="76,248 342,248 171,20" class="geom-polygon" />
+            <polygon id="el-poly-GUV" data-ref="&lt; G U V &gt;" data-type="polygon" points="76,248 264.09,248 143.18,86.78" class="geom-polygon-gnomon" />
+            <path id="el-seg-GB" data-ref="/ G B /" data-type="segment" class="geom-bold" d="M 76 248 L 209 248 L 342 248" />
+            <path id="el-seg-GA" data-ref="/ G A /" data-type="segment" class="geom-bold" d="M 76 248 L 123.5 134 L 171 20" />
+            <path id="el-seg-BA" data-ref="/ B A /" data-type="segment" class="geom-bold" d="M 342 248 L 256.5 134 L 171 20" />
+            <path id="el-seg-UV" data-ref="/ U V /" data-type="segment" class="geom-bold" d="M 264.09 248 L 203.63 167.39 L 143.18 86.78" />
+            <path id="el-seg-MS" data-ref="/ M S /" data-type="segment" class="geom-dashed" d="M 209 248 L 209 181.5 L 209 115" />
+            <path id="el-seg-GS" data-ref="/ G S /" data-type="segment" class="geom-dashed" d="M 76 248 L 142.5 181.5 L 209 115" />
+          </g>
+          <g id="highlights" style="pointer-events: none;">
+            <polygon id="hl-poly-GBA" data-ref="&lt; G B A &gt;" points="76,248 342,248 171,20" class="geom-polygon geom-overlay" />
+            <polygon id="hl-poly-GUV" data-ref="&lt; G U V &gt;" points="76,248 264.09,248 143.18,86.78" class="geom-polygon-gnomon geom-overlay" />
+            <path id="hl-arc-semiGB" data-ref="( M B )" class="geom-dashed geom-overlay" d="M 342 248 A 133 133 0 0 0 76 248" />
+            <path id="hl-arc-arcGS" data-ref="( G S )" class="geom-arc geom-overlay" d="M 264.09 248 A 188.09 188.09 0 0 0 209 115" />
+            <path id="hl-seg-GB" data-ref="/ G B /" class="geom-bold geom-overlay" d="M 76 248 L 209 248 L 342 248" />
+            <path id="hl-seg-GA" data-ref="/ G A /" class="geom-bold geom-overlay" d="M 76 248 L 123.5 134 L 171 20" />
+            <path id="hl-seg-BA" data-ref="/ B A /" class="geom-bold geom-overlay" d="M 342 248 L 256.5 134 L 171 20" />
+            <path id="hl-seg-UV" data-ref="/ U V /" class="geom-bold geom-overlay" d="M 264.09 248 L 203.63 167.39 L 143.18 86.78" />
+            <path id="hl-seg-MS" data-ref="/ M S /" class="geom-dashed geom-overlay" d="M 209 248 L 209 181.5 L 209 115" />
+            <path id="hl-seg-GS" data-ref="/ G S /" class="geom-dashed geom-overlay" d="M 76 248 L 142.5 181.5 L 209 115" />
+          </g>
+          <g id="points">
+            <circle id="el-pt-G" data-ref="G" data-type="point" cx="76" cy="248" r="3.4" class="geom-point" />
+            <circle id="el-pt-M" data-ref="M" data-type="point" cx="209" cy="248" r="3.4" class="geom-point" />
+            <circle id="el-pt-U" data-ref="U" data-type="point" cx="264.09" cy="248" r="3.4" class="geom-point" />
+            <circle id="el-pt-B" data-ref="B" data-type="point" cx="342" cy="248" r="3.4" class="geom-point" />
+            <circle id="el-pt-A" data-ref="A" data-type="point" cx="171" cy="20" r="3.4" class="geom-point" />
+            <circle id="el-pt-V" data-ref="V" data-type="point" cx="143.18" cy="86.78" r="3.4" class="geom-point" />
+            <circle id="el-pt-S" data-ref="S" data-type="point" cx="209" cy="115" r="3.4" class="geom-point" />
+          </g>
+          <g id="labels">
+            <text id="lbl-G" data-ref="G" x="66" y="260" text-anchor="end" class="geom-label">G</text>
+            <text id="lbl-M" data-ref="M" x="209" y="263" text-anchor="middle" class="geom-label">M</text>
+            <text id="lbl-U" data-ref="U" x="264.09" y="263" text-anchor="middle" class="geom-label">U</text>
+            <text id="lbl-B" data-ref="B" x="352" y="260" text-anchor="start" class="geom-label">B</text>
+            <text id="lbl-A" data-ref="A" x="171" y="10" text-anchor="middle" class="geom-label">A</text>
+            <text id="lbl-V" data-ref="V" x="133.18" y="82.78" text-anchor="end" class="geom-label">V</text>
+            <text id="lbl-S" data-ref="S" x="217" y="109" text-anchor="start" class="geom-label">S</text>
+            <text id="ann-div-lbl" x="209" y="279.35" text-anchor="middle" class="geom-label-sm">GU = GS = ℞(14·7) = ℞.98  ⇒  Area(GUV) = Area(UBAV) = 42</text>
+          </g>
+        </svg>
+        </figure>
+        <div class="assertion"><a class="justification" href="https://geometor.github.io/euclid/heath/volume_II/book_vi/propositions/19/index.html#vi-19" data-ref-target="VI.19" title="VI.19">[Euclid VI.13 &amp; VI.19]</a>To bisect the area ($84$) of <span class="geom-ref" data-ref="summa.II.4.divisione:&lt; G B A &gt;" title="&lt; G B A &gt;">GBA</span> by a cut <span class="geom-ref" data-ref="summa.II.4.divisione:/ U V /" title="/ U V /">UV</span> parallel to <span class="geom-ref" data-ref="summa.II.4.divisione:/ B A /" title="/ B A /">BA</span>: erect perpendicular <span class="geom-ref" data-ref="summa.II.4.divisione:/ M S /" title="/ M S /">MS</span> at midpoint <span class="geom-ref" data-ref="summa.II.4.divisione:M" title="M">M</span> $(7, 0)$ of semicircle <span class="geom-ref" data-ref="summa.II.4.divisione:( M B )" title="( M B )">(MB)</span> to meet the arc at <span class="geom-ref" data-ref="summa.II.4.divisione:S" title="S">S</span>, and swing arc <span class="geom-ref" data-ref="summa.II.4.divisione:( G S )" title="( G S )">(GS)</span> onto <span class="geom-ref" data-ref="summa.II.4.divisione:/ G B /" title="/ G B /">GB</span> at <span class="geom-ref" data-ref="summa.II.4.divisione:U" title="U">U</span>, so <span class="geom-ref" data-ref="summa.II.4.divisione:U" title="U">GU</span> is <span class="geom-eq-ref" data-assert-equal="summa.II.4.divisione:/ G S / = summa.II.4.divisione:/ G B /" title="summa.II.4.divisione:/ G S / = summa.II.4.divisione:/ G B /">equal</span> in chord length to <span class="geom-ref" data-ref="summa.II.4.divisione:/ G S /" title="/ G S /">GS</span> $= \sqrt{14 \cdot 7} = \sqrt{98} = 7\sqrt{2}$. Drawing <span class="geom-ref" data-ref="summa.II.4.divisione:/ U V /" title="/ U V /">UV</span> $\parallel$ <span class="geom-ref" data-ref="summa.II.4.divisione:/ B A /" title="/ B A /">BA</span> cuts off similar sub-triangle <span class="geom-ref" data-ref="summa.II.4.divisione:&lt; G U V &gt;" title="&lt; G U V &gt;">GUV</span> of exact area $\frac{GU^2}{GB^2} \cdot 84 = \frac{98}{196} \cdot 84 = 42$.</div>
+        <p>In <em>Distinctio V–VI</em>, Pacioli gauges wine casks (<a class="term-ref glossary-term" id="occ-term-botte-1" href="../glossary.html#term-botte" data-term="botte" title="misura delle botti (Wine-Barrel Stereometric Gauging): Practical solid mensuration in Summa Part II, Dist. V modeling curved wine casks as frusta of cones or averaged cylinders from bung and head diameters.">botte</a>) and solves algebraic-geometric circle packings via <em>Regola dela Cosa</em>—culminating on <cite>fol. 57r</cite> in inscribing three mutually tangent equal circles inside the $(10, 10, 12)$ triangle via the Cossic quadratic $5\frac{3}{4}.\text{ce.} \; \bar{p} \; 16.\text{co.} = 48$ ($r = \frac{8\sqrt{85} - 32}{23}$), three centuries before Malfatti (1803).</p>
+        <div class="folio-milestone" id="folio-Part II, fols. 68v–70r &amp; 76r" data-folio="Part II, fols. 68v–70r &amp; 76r" data-page="">[Folio Part II, fols. 68v–70r &amp; 76r]</div>
+        <p class="rubric"><em>De Corporibus Regularibus</em> (<cite>Dist. VIII</cite>) &amp; the November 10, 1494 Venetian Colophon</p>
+        <figure class="photon-picture photon-svg">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 305" width="420" height="305" class="euclid-graphic" data-graphic-id="summa.II.8.corporibus" data-folio="Part II, fol. 69v" data-graphic="g1" data-proposition="XIII.17">
+          <defs>
+            <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+              <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+            </marker>
+            <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+              <line x1="-1.8" y1="-4.5" x2="-1.8" y2="4.5" class="geom-tick-mark" />
+              <line x1="1.8" y1="-4.5" x2="1.8" y2="4.5" class="geom-tick-mark" />
+            </marker>
+            <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+              <line x1="-3.2" y1="-4.5" x2="-3.2" y2="4.5" class="geom-tick-mark" />
+              <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+              <line x1="3.2" y1="-4.5" x2="3.2" y2="4.5" class="geom-tick-mark" />
+            </marker>
+          </defs>
+          <g id="elements">
+            <circle id="el-circle-sphere" data-ref="( O P )" data-type="circle" cx="210" cy="150" r="108" class="geom-circle" />
+          </g>
+          <g id="graphics">
+            <polygon id="el-poly-cuboct" data-ref="&lt; P Q R S T U &gt;" data-type="polygon" points="318,150 264,56.47 156,56.47 102,150 156,243.53 264,243.53" class="geom-polygon" />
+            <path id="el-seg-PQ" data-ref="/ P Q /" data-type="segment" class="geom-line" d="M 318 150 L 291 103.23 L 264 56.47" />
+            <path id="el-seg-QR" data-ref="/ Q R /" data-type="segment" class="geom-line" d="M 264 56.47 L 210 56.47 L 156 56.47" />
+            <path id="el-seg-RS" data-ref="/ R S /" data-type="segment" class="geom-line" d="M 156 56.47 L 129 103.23 L 102 150" />
+            <path id="el-seg-ST" data-ref="/ S T /" data-type="segment" class="geom-line" d="M 102 150 L 129 196.77 L 156 243.53" />
+            <path id="el-seg-TU" data-ref="/ T U /" data-type="segment" class="geom-line" d="M 156 243.53 L 210 243.53 L 264 243.53" />
+            <path id="el-seg-UP" data-ref="/ U P /" data-type="segment" class="geom-line" d="M 264 243.53 L 291 196.77 L 318 150" />
+            <path id="el-seg-PS" data-ref="/ P S /" data-type="segment" class="geom-dashed" d="M 318 150 L 210 150 L 102 150" />
+            <path id="el-seg-QT" data-ref="/ Q T /" data-type="segment" class="geom-dashed" d="M 264 56.47 L 210 150 L 156 243.53" />
+            <path id="el-seg-RU" data-ref="/ R U /" data-type="segment" class="geom-dashed" d="M 156 56.47 L 210 150 L 264 243.53" />
+            <polygon id="el-poly-golden-rect" data-ref="&lt; W X Y Z &gt;" data-type="polygon" points="301.87,93.22 118.13,93.22 118.13,206.78 301.87,206.78" class="geom-polygon-gnomon" />
+            <path id="el-seg-WX" data-ref="/ W X /" data-type="segment" class="geom-bold" d="M 301.87 93.22 L 210 93.22 L 118.13 93.22" />
+            <path id="el-seg-XY" data-ref="/ X Y /" data-type="segment" class="geom-bold" d="M 118.13 93.22 L 118.13 150 L 118.13 206.78" />
+            <path id="el-seg-YZ" data-ref="/ Y Z /" data-type="segment" class="geom-bold" d="M 118.13 206.78 L 210 206.78 L 301.87 206.78" />
+            <path id="el-seg-ZW" data-ref="/ Z W /" data-type="segment" class="geom-bold" d="M 301.87 206.78 L 301.87 150 L 301.87 93.22" />
+          </g>
+          <g id="highlights" style="pointer-events: none;">
+            <circle id="hl-circle-sphere" data-ref="( O P )" cx="210" cy="150" r="108" class="geom-circle geom-overlay" />
+            <polygon id="hl-poly-cuboct" data-ref="&lt; P Q R S T U &gt;" points="318,150 264,56.47 156,56.47 102,150 156,243.53 264,243.53" class="geom-polygon geom-overlay" />
+            <path id="hl-seg-PQ" data-ref="/ P Q /" class="geom-line geom-overlay" d="M 318 150 L 291 103.23 L 264 56.47" />
+            <path id="hl-seg-QR" data-ref="/ Q R /" class="geom-line geom-overlay" d="M 264 56.47 L 210 56.47 L 156 56.47" />
+            <path id="hl-seg-RS" data-ref="/ R S /" class="geom-line geom-overlay" d="M 156 56.47 L 129 103.23 L 102 150" />
+            <path id="hl-seg-ST" data-ref="/ S T /" class="geom-line geom-overlay" d="M 102 150 L 129 196.77 L 156 243.53" />
+            <path id="hl-seg-TU" data-ref="/ T U /" class="geom-line geom-overlay" d="M 156 243.53 L 210 243.53 L 264 243.53" />
+            <path id="hl-seg-UP" data-ref="/ U P /" class="geom-line geom-overlay" d="M 264 243.53 L 291 196.77 L 318 150" />
+            <path id="hl-seg-PS" data-ref="/ P S /" class="geom-dashed geom-overlay" d="M 318 150 L 210 150 L 102 150" />
+            <path id="hl-seg-QT" data-ref="/ Q T /" class="geom-dashed geom-overlay" d="M 264 56.47 L 210 150 L 156 243.53" />
+            <path id="hl-seg-RU" data-ref="/ R U /" class="geom-dashed geom-overlay" d="M 156 56.47 L 210 150 L 264 243.53" />
+            <polygon id="hl-poly-golden-rect" data-ref="&lt; W X Y Z &gt;" points="301.87,93.22 118.13,93.22 118.13,206.78 301.87,206.78" class="geom-polygon-gnomon geom-overlay" />
+            <path id="hl-seg-WX" data-ref="/ W X /" class="geom-bold geom-overlay" d="M 301.87 93.22 L 210 93.22 L 118.13 93.22" />
+            <path id="hl-seg-XY" data-ref="/ X Y /" class="geom-bold geom-overlay" d="M 118.13 93.22 L 118.13 150 L 118.13 206.78" />
+            <path id="hl-seg-YZ" data-ref="/ Y Z /" class="geom-bold geom-overlay" d="M 118.13 206.78 L 210 206.78 L 301.87 206.78" />
+            <path id="hl-seg-ZW" data-ref="/ Z W /" class="geom-bold geom-overlay" d="M 301.87 206.78 L 301.87 150 L 301.87 93.22" />
+          </g>
+          <g id="points">
+            <circle id="el-pt-O" data-ref="O" data-type="point" cx="210" cy="150" r="3.4" class="geom-point" />
+            <circle id="el-pt-P" data-ref="P" data-type="point" cx="318" cy="150" r="3.4" class="geom-point" />
+            <circle id="el-pt-Q" data-ref="Q" data-type="point" cx="264" cy="56.47" r="3.4" class="geom-point" />
+            <circle id="el-pt-R" data-ref="R" data-type="point" cx="156" cy="56.47" r="3.4" class="geom-point" />
+            <circle id="el-pt-S" data-ref="S" data-type="point" cx="102" cy="150" r="3.4" class="geom-point" />
+            <circle id="el-pt-T" data-ref="T" data-type="point" cx="156" cy="243.53" r="3.4" class="geom-point" />
+            <circle id="el-pt-U" data-ref="U" data-type="point" cx="264" cy="243.53" r="3.4" class="geom-point" />
+            <circle id="el-pt-W" data-ref="W" data-type="point" cx="301.87" cy="93.22" r="3.4" class="geom-point" />
+            <circle id="el-pt-X" data-ref="X" data-type="point" cx="118.13" cy="93.22" r="3.4" class="geom-point" />
+            <circle id="el-pt-Y" data-ref="Y" data-type="point" cx="118.13" cy="206.78" r="3.4" class="geom-point" />
+            <circle id="el-pt-Z" data-ref="Z" data-type="point" cx="301.87" cy="206.78" r="3.4" class="geom-point" />
+          </g>
+          <g id="labels">
+            <text id="lbl-O" data-ref="O" x="218" y="144" text-anchor="start" class="geom-label">O</text>
+            <text id="lbl-P" data-ref="P" x="329" y="154" text-anchor="start" class="geom-label">P</text>
+            <text id="lbl-Q" data-ref="Q" x="272" y="48.47" text-anchor="start" class="geom-label">Q</text>
+            <text id="lbl-R" data-ref="R" x="148" y="48.47" text-anchor="end" class="geom-label">R</text>
+            <text id="lbl-S" data-ref="S" x="91" y="154" text-anchor="end" class="geom-label">S</text>
+            <text id="lbl-T" data-ref="T" x="148" y="257.53" text-anchor="end" class="geom-label">T</text>
+            <text id="lbl-U" data-ref="U" x="272" y="257.53" text-anchor="start" class="geom-label">U</text>
+            <text id="lbl-W" data-ref="W" x="310.87" y="88.22" text-anchor="start" class="geom-label">W</text>
+            <text id="lbl-X" data-ref="X" x="109.13" y="88.22" text-anchor="end" class="geom-label">X</text>
+            <text id="lbl-Y" data-ref="Y" x="109.13" y="219.78" text-anchor="end" class="geom-label">Y</text>
+            <text id="lbl-Z" data-ref="Z" x="310.87" y="219.78" text-anchor="start" class="geom-label">Z</text>
+            <text id="ann-sph-cap" x="210" y="285" text-anchor="middle" class="geom-label-sm">Spera D = 6 (R = 3)  |  Cuboctaedro lato = 3  |  Rettangolo aureo WXYZ</text>
+          </g>
+        </svg>
+        </figure>
+        <p>Closing the entire work in <em>Distinctio VIII</em> (<cite>fols. 68v–70v</cite>), Pacioli inscribes the five regular Platonic solids (<a class="justification" href="https://geometor.github.io/euclid/heath/volume_III/book_xiii/propositions/13/index.html#xiii-13" data-ref-target="XIII.13" title="XIII.13">[XIII.13]</a>–<a class="justification" href="https://geometor.github.io/euclid/heath/volume_III/book_xiii/propositions/17/index.html#xiii-17" data-ref-target="XIII.17" title="XIII.17">[XIII.17]</a>) and dependent Archimedean truncations (following <a class="person-ref" id="occ-person-piero-della-francesca-1" href="../persons.html#person-piero-della-francesca" data-person="piero-della-francesca" title="Francesca, Piero della (c. 1412 – 1492) — Master Painter and Mathematician of Borgo Sansepolcro">Piero della Francesca's</a> <a class="citation-ref" id="occ-cite-piero-della-francesca-de-quinque-corporibus-1" href="../bibliography.html#cite-piero-della-francesca-de-quinque-corporibus" data-cite="piero-della-francesca:de-quinque-corporibus" title="Francesca, Piero della (c. 1412 – 1492) — Libellus de quinque corporibus regularibus (Urbino MS Vat. Urb. lat. 632, c. 1485)"><em>Libellus de quinque corporibus regularibus</em></a>) inside a sphere <span class="geom-ref" data-ref="summa.II.8.corporibus:( O P )" title="( O P )">(OP)</span> of diameter $D = 6$ (radius $R = 3$):</p>
+        <ul class="simple">
+        <li><p><strong>Tetrahedron (`fol. 69r`)</strong>: <a class="term-ref glossary-term" id="occ-term-possanza-1" href="../glossary.html#term-possanza" data-term="possanza" title="possanza (potentia) (Square of a Line Segment (Quadrance)): The area of the square on a segment (Euclidean dunamis / Wildberger quadrance): e.g., a sphere whose axis has possanza 48 (length √48) on Part II, fol. 70r.">Possanza</a> $e^2 = \frac{2}{3} D^2 = 24$ ($e = \sqrt{24}$); <strong>Cube</strong>: $e^2 = \frac{1}{3} D^2 = 12$ ($e = \sqrt{12}$); <strong>Octahedron (`fol. 68v`)</strong>: $e^2 = \frac{1}{2} D^2 = 18$ ($e = \sqrt{18}$).</p></li>
+        <li><p><strong>Truncated Tetrahedron (`fol. 69v, prob. 15–16`, 4 triangles + 4 hexagons)</strong>: Exact squared edge $e^2 = \frac{2}{11} D^2 = \frac{72}{11} = 6\frac{6}{11}$, matching Pacioli’s printed radical $\mathcal{R}.6\frac{6}{11}$!</p></li>
+        <li><p><strong>Cuboctahedron (`fol. 69v–70r, prob. 17–19`, 6 squares + 8 triangles)</strong>: Its equatorial great-circle section <span class="geom-ref" data-ref="summa.II.8.corporibus:&lt; P Q R S T U &gt;" title="&lt; P Q R S T U &gt;">PQRSTU</span> across diameters <span class="geom-ref" data-ref="summa.II.8.corporibus:/ P S /" title="/ P S /">PS</span>, <span class="geom-ref" data-ref="summa.II.8.corporibus:/ Q T /" title="/ Q T /">QT</span>, and <span class="geom-ref" data-ref="summa.II.8.corporibus:/ R U /" title="/ R U /">RU</span> is a regular hexagon whose side <span class="geom-ref" data-ref="summa.II.8.corporibus:/ P Q /" title="/ P Q /">PQ</span> is <span class="geom-eq-ref" data-assert-equal="summa.II.8.corporibus:/ P Q / = summa.II.8.corporibus:/ Q R / = summa.II.8.corporibus:/ R S /" title="summa.II.8.corporibus:/ P Q / = summa.II.8.corporibus:/ Q R / = summa.II.8.corporibus:/ R S /">equal</span> to the sphere radius $R = 3$!</p></li>
+        <li><p><strong>Icosahedron &amp; Dodecahedron (`fol. 70r, prob. 21–22`)</strong>: Spanned internally by golden rectangle <span class="geom-ref" data-ref="summa.II.8.corporibus:&lt; W X Y Z &gt;" title="&lt; W X Y Z &gt;">WXYZ</span> (<span class="geom-ref" data-ref="summa.II.8.corporibus:/ W X /" title="/ W X /">WX</span> : <span class="geom-ref" data-ref="summa.II.8.corporibus:/ X Y /" title="/ X Y /">XY</span> $= \phi : 1$). In Problem 21 (<cite>fol. 70r</cite>), for a sphere whose axis has <a class="term-ref glossary-term" id="occ-term-possanza-2" href="../glossary.html#term-possanza" data-term="possanza" title="possanza (potentia) (Square of a Line Segment (Quadrance)): The area of the square on a segment (Euclidean dunamis / Wildberger quadrance): e.g., a sphere whose axis has possanza 48 (length √48) on Part II, fol. 70r.">possanza</a> $48$ ($D = \sqrt{48}$), the inscribed cube has edge $\sqrt{48/3} = 4$, and dividing $4$ in <a class="term-ref glossary-term" id="occ-term-media-et-estrema-ragione-1" href="../glossary.html#term-media-et-estrema-ragione" data-term="media-et-estrema-ragione" title="proportione avente el mezzo e doi estremi (Extreme and Mean Ratio (Golden Section)): Euclidean division of a magnitude AB at C so AB : AC = AC : CB (Euclid II.11, VI.def.3, VI.30, XIII.1), called &#x27;Divina Proportione&#x27; in Pacioli&#x27;s 1509 treatise.">extreme and mean ratio</a> yields the exact dodecahedron edge $\sqrt{20} - 2$ and minor segment $6 - \sqrt{20}$, right beside Problem 20’s hydrostatic method of <a class="person-ref" id="occ-person-archimedes-2" href="../persons.html#person-archimedes" data-person="archimedes" title="Archimedes of Syracuse (c. 287 – 212 BC) — Greek Geometer and Hydrostatician">Archimedes</a> measuring irregular sculptural bodies by displaced water.</p></li>
+        </ul>
+        <div class="qed">On <cite>Part II, fol. 76r</cite>, <a class="person-ref" id="occ-person-paganino-de-paganini-1" href="../persons.html#person-paganino-de-paganini" data-person="paganino-de-paganini" title="Paganini, Paganino de&#x27; (fl. 1483 – 1538) — Master Printer from Brescia in Venice">Paganino de' Paganini</a> sets his colophon in Venice on <strong>November 10, 1494</strong>, under the ten-year privilege of <a class="person-ref" id="occ-person-agostino-barbarigo-1" href="../persons.html#person-agostino-barbarigo" data-person="agostino-barbarigo" title="Barbarigo, Agostino (1419 – 1501) — Doge of the Republic of Venice (1486 – 1501)">Doge Agostino Barbarigo</a> (<em>Con spesa e diligentia: e opifitio del prudente homo Paganino de Paganini da Brescia. Nella excelsa cita de vinegia… Negli anni de nostra Salute M.cccc.lxliiii. adi .10. de nouembre</em>)—launching the mathematical Renaissance in print.</div>
+        </section>
+
+      </div>
+      <footer class="book-footer">
+        <div class="book-footer-ornament">&#10086;</div>
+        <div class="book-footer-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../unit_04_computis_quaderno/unit_04_computis_quaderno_en.html" title="UNIT IV — PARTICULARIS DE COMPUTIS ET SCRIPTURIS &amp; THE PROBLEM OF POINTS">&larr; <span class="nav-label">UNIT IV — PARTICULARIS DE COMPUTIS ET SCRIPTURIS & THE PROBLEM OF POINTS</span></a>
+          </div>
+          <div class="book-nav-center">
+            <a class="book-toc-link" href="../index.html">Summa de Arithmetica, Geometria, Proportioni et Proportionalita</a>
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../bibliography.html" title="Bibliography &amp; Cited Works"><span class="nav-label">Bibliography & Cited Works</span> &rarr;</a>
+          </div>
+        </div>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside class="aside-search">
+      <h3>Search</h3>
+      <div id="searchbox" role="search">
+        <form id="rtd-search-form" class="wy-form search-form" action="../../search.html" method="get">
+          <div class="search-field">
+            <input type="search" name="q" placeholder="Search docs..." aria-label="Search docs" autocomplete="off" />
+            <button type="submit" class="search-submit" aria-label="Search" title="Search">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </div>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+    <aside class="aside-recent-logs">
+      <h3>Recent Logs</h3>
+      <ul>
+        <li><a href="../../log/26.302-183400/index.html">Five-Track De Divina Proportione Codex & 482 Paganini Woodcut Graphics</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-tags">
+      <h3>Tags</h3>
+      <ul>
+        <li><a href="../../tags/leonardo-da-vinci.html">leonardo-da-vinci</a></li>
+        <li><a href="../../tags/pacioli.html">pacioli</a></li>
+        <li><a href="../../tags/paganini-1509.html">paganini-1509</a></li>
+        <li><a href="../../tags/winterberg.html">winterberg</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-categories">
+      <h3>Categories</h3>
+      <ul>
+        <li><a href="../../categories/codex.html">codex</a></li>
+        <li><a href="../../categories/graphics.html">graphics</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-types">
+      <h3>Types</h3>
+      <ul>
+        <li><a href="../../types/apparatus.html">apparatus</a></li>
+        <li><a href="../../types/log.html">log</a></li>
+      </ul>
+    </aside>
+  </div>
+  <footer>
+    <div class="footer-nav">
+      <ul>
+        <li><a href="../../about.html"  >about</a></li>
+        <li><a href="../../connect.html"  >connect</a></li>
+        <li><a href="../../todos/index.html"  >todos</a></li>
+        <li><a href="../../changelog.html"  >0.4.0 (2026-11-12)</a></li>
+      </ul>
+    </div>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright 2026, geometor.
+      </p>
+    </div>
+  </footer>
+
+  <script src="../../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../../_static/documentation_options.js?v=6c02275b"></script>
+  <script src="../../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../../_static/js/geometor_interactive.js?v=b2892320"></script>
+  <script src="../../_static/js/search_highlight.js"></script>
+
+</body>
+</html>

@@ -6,12 +6,12 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>demos &mdash; geometor • pacioli</title>
+  <title>Symbolic Demonstrations &mdash; geometor • pacioli</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=ea5fcf70" />
-  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=69acf51f" />
+  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=66998e95" />
   <link rel="stylesheet" type="text/css" href="../_static/graphviz.css?v=4ae1632d" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
@@ -40,6 +40,12 @@
           <a href="../de_divina_proportione/index.html"  >DE DIVINA PROPORTIONE</a>
         </li>
         <li>
+          <a href="../summa_1494/index.html"  >SUMMA DE ARITHMETICA, GEOMETRIA, PROPORTIONI ET PROPORTIONALITA</a>
+        </li>
+        <li>
+          <a href="#" class="is-active" aria-selected="true" aria-current="page">Symbolic Demonstrations</a>
+        </li>
+        <li>
           <a href="../mission/index.html"  >mission</a>
         </li>
         <li>
@@ -65,13 +71,36 @@
             <a class="book-title-link" href="../index.html">geometor • pacioli</a>
           </div>
         </div>
+        <div class="book-header-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../summa_1494/glossary.html" title="Technical Glossary">&larr; <span class="nav-label">Prev</span></a>
+          </div>
+          <div class="book-nav-center">
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="summa_proportions.html" title="Proportioni &amp; Regola dela Cosa (1494)"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
+        </div>
       </header>
       <div class="content body book-content" role="main">
-        <section class="level-1" id="demos">
-        <h1>demos<a class="headerlink" href="#demos" title="Link to this heading">¶</a></h1>
+        <section class="level-1" id="symbolic-demonstrations">
+        <span id="demos-index"></span><h1>Symbolic Demonstrations<a class="headerlink" href="#symbolic-demonstrations" title="Link to this heading">¶</a></h1>
+        <p>Executable Python 3.13 CLI demonstrations backed by <a class="reference external" href="https://docs.sympy.org/latest/index.html#module-sympy" title="(in SymPy v1.14.0)"><code class="xref py py-mod docutils literal notranslate"><span class="pre">sympy</span></code></a> and <code class="xref py py-mod docutils literal notranslate"><span class="pre">geometor.model</span></code>
+        for <span class="person-ref" data-person="pacioli" title="Person: pacioli">Fra Luca Pacioli's</span> <em>Summa de arithmetica, geometria, proportioni et proportionalita</em>
+        (Venice, 1494) and <em>De Divina Proportione</em> (Venice, 1509).</p>
+        <p>Run any demonstration inside the offline <code class="docutils literal notranslate"><span class="pre">uv</span></code> environment:</p>
+        <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>uv<span class="w"> </span>run<span class="w"> </span>--no-sync<span class="w"> </span>python<span class="w"> </span>demos/summa_proportions.py
+        uv<span class="w"> </span>run<span class="w"> </span>--no-sync<span class="w"> </span>python<span class="w"> </span>demos/summa_geometria.py
+        uv<span class="w"> </span>run<span class="w"> </span>--no-sync<span class="w"> </span>python<span class="w"> </span>demos/summa_quaderno.py
+        </pre></div>
+        </div>
         <div class="toctree-wrapper compound">
+        <p class="caption" role="heading"><span class="caption-text">Runnable Demonstrations</span></p>
         <ul>
-        <li class="toctree-l1"><a class="reference internal" href="demo.html">demo</a></li>
+        <li class="toctree-l1"><a class="reference internal" href="summa_proportions.html">Proportioni &amp; Regola dela Cosa (1494)</a></li>
+        <li class="toctree-l1"><a class="reference internal" href="summa_geometria.html">Tractatus Geometriae (Part II, 1494)</a></li>
+        <li class="toctree-l1"><a class="reference internal" href="summa_quaderno.html">De Computis et Scripturis &amp; Problem of Points (1494)</a></li>
+        <li class="toctree-l1"><a class="reference internal" href="demo.html">Master Demonstration Runner</a></li>
         </ul>
         </div>
         </section>
@@ -81,11 +110,13 @@
         <div class="book-footer-ornament">&#10086;</div>
         <div class="book-footer-nav">
           <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../summa_1494/glossary.html" title="Technical Glossary">&larr; <span class="nav-label">Technical Glossary</span></a>
           </div>
           <div class="book-nav-center">
             <a class="book-toc-link" href="../index.html">geometor • pacioli</a>
           </div>
           <div class="book-nav-next">
+            <a class="book-nav-btn" href="summa_proportions.html" title="Proportioni &amp; Regola dela Cosa (1494)"><span class="nav-label">Proportioni & Regola dela Cosa (1494)</span> &rarr;</a>
           </div>
         </div>
       </footer>
@@ -146,7 +177,7 @@
         <li><a href="../about.html"  >about</a></li>
         <li><a href="../connect.html"  >connect</a></li>
         <li><a href="../todos/index.html"  >todos</a></li>
-        <li><a href="../changelog.html"  >0.3.2 (2026-10-29)</a></li>
+        <li><a href="../changelog.html"  >0.4.0 (2026-11-12)</a></li>
       </ul>
     </div>
     <hr />
@@ -159,11 +190,11 @@
 
   <script src="../_static/jquery.js?v=5d32c60e"></script>
   <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-  <script src="../_static/documentation_options.js?v=71d9d8e6"></script>
+  <script src="../_static/documentation_options.js?v=6c02275b"></script>
   <script src="../_static/doctools.js?v=fd6eb6e6"></script>
   <script src="../_static/sphinx_highlight.js?v=6ffebe34"></script>
   <script src="../_static/js/collection_controls.js?v=b6b5297a"></script>
-  <script src="../_static/js/geometor_interactive.js?v=4430a5d4"></script>
+  <script src="../_static/js/geometor_interactive.js?v=b2892320"></script>
   <script src="../_static/js/search_highlight.js"></script>
 
 </body>

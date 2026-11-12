@@ -1,0 +1,311 @@
+
+
+<!DOCTYPE html>
+<html lang="en" data-content_root="../">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Proportioni &amp; Regola dela Cosa (1494) &mdash; geometor • pacioli</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=66998e95" />
+  <link rel="stylesheet" type="text/css" href="../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../_static/favicon.ico" />
+</head>
+
+<body class="book-theme-classical-serif">
+  <header>
+    <div class="logo">
+      <a href="../index.html">
+        <img src="../_static/logo.png" class="logo" alt="Logo"/>
+      </a>
+      <div class="org-repo">
+        <span class="org">geometor</span>
+        •
+        <span class="repo">pacioli</span>
+      </div>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../de_divina_proportione/index.html"  >DE DIVINA PROPORTIONE</a>
+        </li>
+        <li>
+          <a href="../summa_1494/index.html"  >SUMMA DE ARITHMETICA, GEOMETRIA, PROPORTIONI ET PROPORTIONALITA</a>
+        </li>
+        <li>
+          <a href="index.html" class="is-active" aria-selected="true" >Symbolic Demonstrations</a>
+        </li>
+        <li>
+          <a href="../mission/index.html"  >mission</a>
+        </li>
+        <li>
+          <a href="../usage/index.html"  >usage</a>
+        </li>
+        <li>
+          <a href="../log/index.html"  >log</a>
+        </li>
+        <li>
+          <a href="../modules/index.html"  >modules</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main class="book-main">
+    <article class="book-layout book-reading-pane">
+      <header class="book-header">
+        <div class="book-header-bar">
+          <div class="book-header-identity">
+            <a class="book-portal-link" href="../index.html" title="Return to Project Portal">&larr; pacioli</a>
+            <span class="book-header-sep">/</span>
+            <a class="book-title-link" href="../index.html">geometor • pacioli</a>
+          </div>
+          <div class="book-header-breadcrumbs book-header-badges" role="navigation" aria-label="Breadcrumbs">
+            <a class="book-crumb-link" href="index.html">Symbolic Demonstrations</a>
+          </div>
+        </div>
+        <div class="book-header-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="index.html" title="Symbolic Demonstrations">&larr; <span class="nav-label">Prev</span></a>
+          </div>
+          <div class="book-nav-center">
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="summa_geometria.html" title="Tractatus Geometriae (Part II, 1494)"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
+        </div>
+      </header>
+      <div class="content body book-content" role="main">
+        <section class="level-1" id="proportioni-regola-dela-cosa-1494">
+        <h1>Proportioni &amp; Regola dela Cosa (1494)<a class="headerlink" href="#proportioni-regola-dela-cosa-1494" title="Link to this heading">¶</a></h1>
+        <p>Verifies Severinus Boethius’s and Pacioli’s five genera of rational inequality (<em>Summa</em> Part I,
+        <em>Distinctio VI</em>, fols. 70r–83r), the six Euclidean <em>modi arguendi</em> (fol. 74r), the exact
+        <code class="docutils literal notranslate"><span class="pre">geometor.model</span></code> semicircle construction of the arithmetic, geometric, and harmonic means,
+        the Euclidean golden cut of <code class="docutils literal notranslate"><span class="pre">10</span></code> into <span class="math notranslate nohighlight">\(\sqrt{125}-5\)</span> and <span class="math notranslate nohighlight">\(15-\sqrt{125}\)</span>, and
+        Pacioli’s six canonical Cossic quadratic equations (<em>Distinctio VIII</em>, fols. 145r–146r).</p>
+        <div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="sd">"""Runnable CLI demonstration of Pacioli's *Summa* (1494) proportions and Cossic algebra.</span>
+
+        <span class="sd">Displays Rich tables verifying:</span>
+        <span class="sd">1. Severinus Boethius's and Pacioli's five genera of rational inequality (*Summa* fols. 70r–83r),</span>
+        <span class="sd">2. The six Euclidean *modi arguendi* (*Summa* fol. 74r),</span>
+        <span class="sd">3. Exact ``geometor.model`` semicircle construction of the three classical means and the</span>
+        <span class="sd">   division of ``10`` in extreme and mean ratio,</span>
+        <span class="sd">4. Pacioli's six canonical Cossic quadratic equations (*Summa* fols. 145r–146r).</span>
+        <span class="sd">"""</span>
+
+        <span class="kn">from</span><span class="w"> </span><span class="nn">__future__</span><span class="w"> </span><span class="kn">import</span> <span class="n">annotations</span>
+
+        <span class="kn">import</span><span class="w"> </span><span class="nn">sys</span>
+        <span class="kn">from</span><span class="w"> </span><span class="nn">pathlib</span><span class="w"> </span><span class="kn">import</span> <span class="n">Path</span>
+
+        <span class="n">_SRC</span> <span class="o">=</span> <span class="n">Path</span><span class="p">(</span><span class="vm">__file__</span><span class="p">)</span><span class="o">.</span><span class="n">resolve</span><span class="p">()</span><span class="o">.</span><span class="n">parents</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">/</span> <span class="s2">"src"</span>
+        <span class="k">if</span> <span class="nb">str</span><span class="p">(</span><span class="n">_SRC</span><span class="p">)</span> <span class="ow">not</span> <span class="ow">in</span> <span class="n">sys</span><span class="o">.</span><span class="n">path</span><span class="p">:</span>
+            <span class="n">sys</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">insert</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nb">str</span><span class="p">(</span><span class="n">_SRC</span><span class="p">))</span>
+
+        <span class="kn">import</span><span class="w"> </span><span class="nn">sympy</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">sp</span>  <span class="c1"># noqa: E402</span>
+        <span class="kn">from</span><span class="w"> </span><span class="nn">rich.console</span><span class="w"> </span><span class="kn">import</span> <span class="n">Console</span>  <span class="c1"># noqa: E402</span>
+        <span class="kn">from</span><span class="w"> </span><span class="nn">rich.table</span><span class="w"> </span><span class="kn">import</span> <span class="n">Table</span>  <span class="c1"># noqa: E402</span>
+
+        <span class="kn">from</span><span class="w"> </span><span class="nn">geometor.pacioli.proportions</span><span class="w"> </span><span class="kn">import</span> <span class="p">(</span>  <span class="c1"># noqa: E402</span>
+            <span class="n">apply_six_euclidean_modes</span><span class="p">,</span>
+            <span class="n">classify_boethian_ratio</span><span class="p">,</span>
+            <span class="n">compound_ratios</span><span class="p">,</span>
+            <span class="n">construct_extreme_and_mean_ratio</span><span class="p">,</span>
+            <span class="n">construct_three_means</span><span class="p">,</span>
+            <span class="n">solve_cossic_quadratic</span><span class="p">,</span>
+        <span class="p">)</span>
+
+
+        <span class="k">def</span><span class="w"> </span><span class="nf">run_demo</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+        <span class="w">    </span><span class="sd">"""Execute and print the *Summa* (1494) proportions and Cossic algebra showcase."""</span>
+            <span class="n">console</span> <span class="o">=</span> <span class="n">Console</span><span class="p">()</span>
+            <span class="n">console</span><span class="o">.</span><span class="n">rule</span><span class="p">(</span><span class="s2">"[bold gold1]Fra Luca Pacioli • Summa (1494) — Proportioni &amp; Regola dela Cosa"</span><span class="p">)</span>
+
+            <span class="n">boethian_table</span> <span class="o">=</span> <span class="n">Table</span><span class="p">(</span><span class="n">title</span><span class="o">=</span><span class="s2">"Part I, Dist. VI (fols. 70r–83r): Five Boethian Genera of Ratio"</span><span class="p">)</span>
+            <span class="n">boethian_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Terms (p : q)"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"cyan"</span><span class="p">)</span>
+            <span class="n">boethian_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Reduced"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"white"</span><span class="p">)</span>
+            <span class="n">boethian_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Inequality"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"magenta"</span><span class="p">)</span>
+            <span class="n">boethian_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Genus"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"green"</span><span class="p">)</span>
+            <span class="n">boethian_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Latin Species"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"bold yellow"</span><span class="p">)</span>
+
+            <span class="n">sample_pairs</span> <span class="o">=</span> <span class="p">[(</span><span class="mi">6</span><span class="p">,</span> <span class="mi">6</span><span class="p">),</span> <span class="p">(</span><span class="mi">12</span><span class="p">,</span> <span class="mi">4</span><span class="p">),</span> <span class="p">(</span><span class="mi">9</span><span class="p">,</span> <span class="mi">6</span><span class="p">),</span> <span class="p">(</span><span class="mi">5</span><span class="p">,</span> <span class="mi">3</span><span class="p">),</span> <span class="p">(</span><span class="mi">5</span><span class="p">,</span> <span class="mi">2</span><span class="p">),</span> <span class="p">(</span><span class="mi">11</span><span class="p">,</span> <span class="mi">4</span><span class="p">),</span> <span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">)]</span>
+            <span class="k">for</span> <span class="n">p_val</span><span class="p">,</span> <span class="n">q_val</span> <span class="ow">in</span> <span class="n">sample_pairs</span><span class="p">:</span>
+                <span class="n">rec</span> <span class="o">=</span> <span class="n">classify_boethian_ratio</span><span class="p">(</span><span class="n">p_val</span><span class="p">,</span> <span class="n">q_val</span><span class="p">)</span>
+                <span class="n">boethian_table</span><span class="o">.</span><span class="n">add_row</span><span class="p">(</span>
+                    <span class="sa">f</span><span class="s2">"</span><span class="si">{</span><span class="n">p_val</span><span class="si">}</span><span class="s2"> : </span><span class="si">{</span><span class="n">q_val</span><span class="si">}</span><span class="s2">"</span><span class="p">,</span>
+                    <span class="sa">f</span><span class="s2">"</span><span class="si">{</span><span class="n">rec</span><span class="o">.</span><span class="n">antecedent</span><span class="si">}</span><span class="s2">:</span><span class="si">{</span><span class="n">rec</span><span class="o">.</span><span class="n">consequent</span><span class="si">}</span><span class="s2">"</span><span class="p">,</span>
+                    <span class="n">rec</span><span class="o">.</span><span class="n">inequality</span><span class="p">,</span>
+                    <span class="n">rec</span><span class="o">.</span><span class="n">genus</span><span class="p">,</span>
+                    <span class="n">rec</span><span class="o">.</span><span class="n">latin_species</span><span class="p">,</span>
+                <span class="p">)</span>
+            <span class="n">console</span><span class="o">.</span><span class="n">print</span><span class="p">(</span><span class="n">boethian_table</span><span class="p">)</span>
+
+            <span class="n">octave</span> <span class="o">=</span> <span class="n">compound_ratios</span><span class="p">([(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">2</span><span class="p">),</span> <span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="mi">3</span><span class="p">)])</span>
+            <span class="n">console</span><span class="o">.</span><span class="n">print</span><span class="p">(</span>
+                <span class="sa">f</span><span class="s2">"[bold]Compounded Musical Octave (fol. 83r):[/bold] "</span>
+                <span class="sa">f</span><span class="s2">"(3:2 sesquialtera) ⊗ (4:3 sesquitertia) = "</span>
+                <span class="sa">f</span><span class="s2">"[yellow]</span><span class="si">{</span><span class="n">octave</span><span class="o">.</span><span class="n">antecedent</span><span class="si">}</span><span class="s2">:</span><span class="si">{</span><span class="n">octave</span><span class="o">.</span><span class="n">consequent</span><span class="si">}</span><span class="s2"> (</span><span class="si">{</span><span class="n">octave</span><span class="o">.</span><span class="n">latin_species</span><span class="si">}</span><span class="s2">)[/yellow]</span><span class="se">\n</span><span class="s2">"</span>
+            <span class="p">)</span>
+
+            <span class="n">modes</span> <span class="o">=</span> <span class="n">apply_six_euclidean_modes</span><span class="p">(</span><span class="mi">12</span><span class="p">,</span> <span class="mi">8</span><span class="p">,</span> <span class="mi">9</span><span class="p">,</span> <span class="mi">6</span><span class="p">,</span> <span class="n">e</span><span class="o">=</span><span class="mi">4</span><span class="p">,</span> <span class="n">f</span><span class="o">=</span><span class="mi">3</span><span class="p">)</span>
+            <span class="n">console</span><span class="o">.</span><span class="n">print</span><span class="p">(</span>
+                <span class="sa">f</span><span class="s2">"[bold]Six Euclidean Modes on 12:8 = 9:6 (fol. 74r):[/bold] "</span>
+                <span class="sa">f</span><span class="s2">"conversa=</span><span class="si">{</span><span class="n">modes</span><span class="o">.</span><span class="n">conversa</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="si">}</span><span class="s2">, permutata=</span><span class="si">{</span><span class="n">modes</span><span class="o">.</span><span class="n">permutata</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="si">}</span><span class="s2">, "</span>
+                <span class="sa">f</span><span class="s2">"congionta=</span><span class="si">{</span><span class="n">modes</span><span class="o">.</span><span class="n">congionta</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="si">}</span><span class="s2">, disgiunta=</span><span class="si">{</span><span class="n">modes</span><span class="o">.</span><span class="n">disgiunta</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="n">modes</span><span class="o">.</span><span class="n">disgiunta</span><span class="w"> </span><span class="k">else</span><span class="w"> </span><span class="s1">'N/A'</span><span class="si">}</span><span class="s2">, "</span>
+                <span class="sa">f</span><span class="s2">"eversa=</span><span class="si">{</span><span class="n">modes</span><span class="o">.</span><span class="n">eversa</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="n">modes</span><span class="o">.</span><span class="n">eversa</span><span class="w"> </span><span class="k">else</span><span class="w"> </span><span class="s1">'N/A'</span><span class="si">}</span><span class="s2">, "</span>
+                <span class="sa">f</span><span class="s2">"equa=</span><span class="si">{</span><span class="n">modes</span><span class="o">.</span><span class="n">equa</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="n">modes</span><span class="o">.</span><span class="n">equa</span><span class="w"> </span><span class="k">else</span><span class="w"> </span><span class="s1">'N/A'</span><span class="si">}</span><span class="se">\n</span><span class="s2">"</span>
+            <span class="p">)</span>
+
+            <span class="n">means</span> <span class="o">=</span> <span class="n">construct_three_means</span><span class="p">(</span><span class="mi">9</span><span class="p">,</span> <span class="mi">4</span><span class="p">)</span>
+            <span class="n">div10</span> <span class="o">=</span> <span class="n">construct_extreme_and_mean_ratio</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span>
+            <span class="n">console</span><span class="o">.</span><span class="n">print</span><span class="p">(</span>
+                <span class="sa">f</span><span class="s2">"[bold]Semicircle Three Means for (9, 4) (fol. 73v):[/bold] "</span>
+                <span class="sa">f</span><span class="s2">"A = </span><span class="si">{</span><span class="n">means</span><span class="o">.</span><span class="n">arithmetic_mean</span><span class="si">}</span><span class="s2">, G = </span><span class="si">{</span><span class="n">means</span><span class="o">.</span><span class="n">geometric_mean</span><span class="si">}</span><span class="s2">, H = </span><span class="si">{</span><span class="n">means</span><span class="o">.</span><span class="n">harmonic_mean</span><span class="si">}</span><span class="s2"> "</span>
+                <span class="sa">f</span><span class="s2">"(G² = A·H = </span><span class="si">{</span><span class="n">means</span><span class="o">.</span><span class="n">geometric_mean</span><span class="o">**</span><span class="mi">2</span><span class="si">}</span><span class="s2">; Proof steps = </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">means</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">steps</span><span class="p">)</span><span class="si">}</span><span class="s2">)"</span>
+            <span class="p">)</span>
+            <span class="n">console</span><span class="o">.</span><span class="n">print</span><span class="p">(</span>
+                <span class="sa">f</span><span class="s2">"[bold]Divine Proportion of 10 (Dist. VI &amp; Compendio Cap. VIII):[/bold] "</span>
+                <span class="sa">f</span><span class="s2">"Major = </span><span class="si">{</span><span class="n">div10</span><span class="o">.</span><span class="n">major_part</span><span class="si">}</span><span class="s2">, Minor = </span><span class="si">{</span><span class="n">div10</span><span class="o">.</span><span class="n">minor_part</span><span class="si">}</span><span class="s2">, "</span>
+                <span class="sa">f</span><span class="s2">"φ = </span><span class="si">{</span><span class="n">div10</span><span class="o">.</span><span class="n">phi_ratio</span><span class="si">}</span><span class="s2"> (Proof steps = </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">div10</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">steps</span><span class="p">)</span><span class="si">}</span><span class="s2">)</span><span class="se">\n</span><span class="s2">"</span>
+            <span class="p">)</span>
+
+            <span class="n">cossic_table</span> <span class="o">=</span> <span class="n">Table</span><span class="p">(</span><span class="n">title</span><span class="o">=</span><span class="s2">"Part I, Dist. VIII (fols. 145r–146r): Six Canonical Cossic Equations"</span><span class="p">)</span>
+            <span class="n">cossic_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Canon"</span><span class="p">,</span> <span class="n">justify</span><span class="o">=</span><span class="s2">"right"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"cyan"</span><span class="p">)</span>
+            <span class="n">cossic_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Kind"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"magenta"</span><span class="p">)</span>
+            <span class="n">cossic_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"1494 Cossic Statement"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"white"</span><span class="p">)</span>
+            <span class="n">cossic_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Positive Root(s)"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"bold green"</span><span class="p">)</span>
+            <span class="n">cossic_table</span><span class="o">.</span><span class="n">add_column</span><span class="p">(</span><span class="s2">"Completed Square"</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="s2">"yellow"</span><span class="p">)</span>
+
+            <span class="n">cases</span> <span class="o">=</span> <span class="p">[</span>
+                <span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">0</span><span class="p">),</span>
+                <span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">27</span><span class="p">),</span>
+                <span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="mi">20</span><span class="p">),</span>
+                <span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">39</span><span class="p">),</span>
+                <span class="p">(</span><span class="mi">5</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">21</span><span class="p">),</span>
+                <span class="p">(</span><span class="mi">6</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">),</span>
+                <span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="n">sp</span><span class="o">.</span><span class="n">Rational</span><span class="p">(</span><span class="mi">23</span><span class="p">,</span> <span class="mi">4</span><span class="p">),</span> <span class="mi">16</span><span class="p">,</span> <span class="mi">48</span><span class="p">),</span>
+            <span class="p">]</span>
+            <span class="k">for</span> <span class="n">canon_no</span><span class="p">,</span> <span class="n">a_val</span><span class="p">,</span> <span class="n">b_val</span><span class="p">,</span> <span class="n">c_val</span> <span class="ow">in</span> <span class="n">cases</span><span class="p">:</span>
+                <span class="n">sol</span> <span class="o">=</span> <span class="n">solve_cossic_quadratic</span><span class="p">(</span><span class="n">canon_no</span><span class="p">,</span> <span class="n">a_val</span><span class="p">,</span> <span class="n">b_val</span><span class="p">,</span> <span class="n">c_val</span><span class="p">)</span>
+                <span class="n">roots_str</span> <span class="o">=</span> <span class="s2">", "</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">r</span><span class="p">)</span> <span class="k">for</span> <span class="n">r</span> <span class="ow">in</span> <span class="n">sol</span><span class="o">.</span><span class="n">positive_roots</span><span class="p">)</span>
+                <span class="n">cossic_table</span><span class="o">.</span><span class="n">add_row</span><span class="p">(</span>
+                    <span class="nb">str</span><span class="p">(</span><span class="n">sol</span><span class="o">.</span><span class="n">canon_number</span><span class="p">),</span>
+                    <span class="n">sol</span><span class="o">.</span><span class="n">canon_kind</span><span class="p">,</span>
+                    <span class="n">sol</span><span class="o">.</span><span class="n">cossic_statement</span><span class="p">,</span>
+                    <span class="n">roots_str</span><span class="p">,</span>
+                    <span class="nb">str</span><span class="p">(</span><span class="n">sol</span><span class="o">.</span><span class="n">completed_square_area</span><span class="p">),</span>
+                <span class="p">)</span>
+            <span class="n">console</span><span class="o">.</span><span class="n">print</span><span class="p">(</span><span class="n">cossic_table</span><span class="p">)</span>
+
+
+        <span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">"__main__"</span><span class="p">:</span>
+            <span class="n">run_demo</span><span class="p">()</span>
+        </pre></div>
+        </div>
+        </section>
+
+      </div>
+      <footer class="book-footer">
+        <div class="book-footer-ornament">&#10086;</div>
+        <div class="book-footer-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="index.html" title="Symbolic Demonstrations">&larr; <span class="nav-label">Symbolic Demonstrations</span></a>
+          </div>
+          <div class="book-nav-center">
+            <a class="book-toc-link" href="../index.html">geometor • pacioli</a>
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="summa_geometria.html" title="Tractatus Geometriae (Part II, 1494)"><span class="nav-label">Tractatus Geometriae (Part II, 1494)</span> &rarr;</a>
+          </div>
+        </div>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside class="aside-search">
+      <h3>Search</h3>
+      <div id="searchbox" role="search">
+        <form id="rtd-search-form" class="wy-form search-form" action="../search.html" method="get">
+          <div class="search-field">
+            <input type="search" name="q" placeholder="Search docs..." aria-label="Search docs" autocomplete="off" />
+            <button type="submit" class="search-submit" aria-label="Search" title="Search">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </div>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+    <aside class="aside-recent-logs">
+      <h3>Recent Logs</h3>
+      <ul>
+        <li><a href="../log/26.302-183400/index.html">Five-Track De Divina Proportione Codex & 482 Paganini Woodcut Graphics</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-tags">
+      <h3>Tags</h3>
+      <ul>
+        <li><a href="../tags/leonardo-da-vinci.html">leonardo-da-vinci</a></li>
+        <li><a href="../tags/pacioli.html">pacioli</a></li>
+        <li><a href="../tags/paganini-1509.html">paganini-1509</a></li>
+        <li><a href="../tags/winterberg.html">winterberg</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-categories">
+      <h3>Categories</h3>
+      <ul>
+        <li><a href="../categories/codex.html">codex</a></li>
+        <li><a href="../categories/graphics.html">graphics</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-types">
+      <h3>Types</h3>
+      <ul>
+        <li><a href="../types/apparatus.html">apparatus</a></li>
+        <li><a href="../types/log.html">log</a></li>
+      </ul>
+    </aside>
+  </div>
+  <footer>
+    <div class="footer-nav">
+      <ul>
+        <li><a href="../about.html"  >about</a></li>
+        <li><a href="../connect.html"  >connect</a></li>
+        <li><a href="../todos/index.html"  >todos</a></li>
+        <li><a href="../changelog.html"  >0.4.0 (2026-11-12)</a></li>
+      </ul>
+    </div>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright 2026, geometor.
+      </p>
+    </div>
+  </footer>
+
+  <script src="../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../_static/documentation_options.js?v=6c02275b"></script>
+  <script src="../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../_static/js/geometor_interactive.js?v=b2892320"></script>
+  <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+  <script src="../_static/js/search_highlight.js"></script>
+
+</body>
+</html>

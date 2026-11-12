@@ -1,0 +1,11 @@
+src.geometor.pacioli.pacioli
+============================
+
+.. py:module:: src.geometor.pacioli.pacioli
+
+.. autoapi-nested-parse::
+
+   pacioli
+
+
+

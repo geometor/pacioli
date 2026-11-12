@@ -1,0 +1,562 @@
+
+
+<!DOCTYPE html>
+<html lang="en" data-content_root="../../../../../../">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>src.geometor.pacioli.tractatus_geometriae &mdash; geometor • pacioli</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="../../../../../../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../../../../../../_static/css/styles.css?v=66998e95" />
+  <link rel="stylesheet" type="text/css" href="../../../../../../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="../../../../../../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../../../../../../_static/favicon.ico" />
+</head>
+
+<body class="book-theme-classical-serif">
+  <header>
+    <div class="logo">
+      <a href="../../../../../../index.html">
+        <img src="../../../../../../_static/logo.png" class="logo" alt="Logo"/>
+      </a>
+      <div class="org-repo">
+        <span class="org">geometor</span>
+        •
+        <span class="repo">pacioli</span>
+      </div>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../../../../../../de_divina_proportione/index.html"  >DE DIVINA PROPORTIONE</a>
+        </li>
+        <li>
+          <a href="../../../../../../summa_1494/index.html"  >SUMMA DE ARITHMETICA, GEOMETRIA, PROPORTIONI ET PROPORTIONALITA</a>
+        </li>
+        <li>
+          <a href="../../../../../../demos/index.html"  >Symbolic Demonstrations</a>
+        </li>
+        <li>
+          <a href="../../../../../../mission/index.html"  >mission</a>
+        </li>
+        <li>
+          <a href="../../../../../../usage/index.html"  >usage</a>
+        </li>
+        <li>
+          <a href="../../../../../../log/index.html"  >log</a>
+        </li>
+        <li>
+          <a href="../../../../../index.html" class="is-active" aria-selected="true" >modules</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main class="book-main">
+    <article class="book-layout book-reading-pane">
+      <header class="book-header">
+        <div class="book-header-bar">
+          <div class="book-header-identity">
+            <a class="book-portal-link" href="../../../../../../index.html" title="Return to Project Portal">&larr; pacioli</a>
+            <span class="book-header-sep">/</span>
+            <a class="book-title-link" href="../../../../../../index.html">geometor • pacioli</a>
+          </div>
+        </div>
+      </header>
+      <div class="content body book-content" role="main">
+        <section class="level-1" id="module-src.geometor.pacioli.tractatus_geometriae">
+        <span id="src-geometor-pacioli-tractatus-geometriae"></span><h1>src.geometor.pacioli.tractatus_geometriae<a class="headerlink" href="#module-src.geometor.pacioli.tractatus_geometriae" title="Link to this heading">¶</a></h1>
+        <p>Exact symbolic constructions from Part II (<em>Tractatus Geometriae</em>) of <em>Summa</em> (1494).</p>
+        <p>Models three landmark geometric treatises from Part II of Fra Luca Pacioli’s
+        <em>Summa de arithmetica, geometria, proportioni et proportionalita</em> (Venice, Nov. 10, 1494):</p>
+        <ol class="arabic simple">
+        <li><p><strong>Heron’s Formula &amp; the ``(13, 14, 15)`` Triangle</strong> (<em>Part II, Distinctio I, Cap. 8</em>,
+        fol. 9v): Pure straightedge-and-compass <code class="docutils literal notranslate"><span class="pre">geometor.model.Model</span></code> construction of
+        <span class="math notranslate nohighlight">\(\triangle G B A\)</span> with sides <span class="math notranslate nohighlight">\(GA=13, GB=14, AB=15\)</span>, cathetus <span class="math notranslate nohighlight">\(AD=12\)</span>,
+        base segments <span class="math notranslate nohighlight">\(GD=5, DB=9\)</span>, Heron product <span class="math notranslate nohighlight">\(6 \cdot 7 \cdot 8 \cdot 21 = 7056\)</span>,
+        area <span class="math notranslate nohighlight">\(\sqrt{7056} = 84\)</span>, rational incenter <span class="math notranslate nohighlight">\(I=(6,4)\)</span> (<span class="math notranslate nohighlight">\(r=4\)</span>), and
+        rational circumcenter <span class="math notranslate nohighlight">\(O=(7, 33/8)\)</span> (<span class="math notranslate nohighlight">\(R=65/8\)</span>).</p></li>
+        <li><p><strong>Proportional Division of Triangles</strong> (<em>Part II, Distinctio IV: De divisione
+        superficierum</em>, after Leonardo Pisano’s <em>Practica Geometriae</em>): Exact Euclidean division
+        of <span class="math notranslate nohighlight">\(\triangle G B A\)</span> in ratio <span class="math notranslate nohighlight">\(p : q\)</span> both through a vertex cevian (<code class="docutils literal notranslate"><span class="pre">VI.1</span></code>)
+        and by a line parallel to the base constructed via the semicircle geometric mean
+        (<code class="docutils literal notranslate"><span class="pre">VI.13</span></code>, <code class="docutils literal notranslate"><span class="pre">VI.19</span></code>).</p></li>
+        <li><p><strong>Regular &amp; Archimedean Polyhedra Inscribed in the Sphere</strong> (<em>Part II, Distinctio VIII:
+        De corporibus regularibus</em>, fols. 68v–70r): Exact closed-form edge lengths, squared edges
+        (<em>possanze</em>), surface areas, and volumes over <span class="math notranslate nohighlight">\(\mathbb{Q}(\sqrt{2}, \sqrt{3}, \phi)\)</span>
+        for a sphere of diameter <span class="math notranslate nohighlight">\(D = 6\)</span> (including the truncated tetrahedron of edge
+        <span class="math notranslate nohighlight">\(\sqrt{72/11} = \sqrt{6\frac{6}{11}}\)</span> and cuboctahedron of edge <span class="math notranslate nohighlight">\(3\)</span> on fol. 69v,
+        and the dodecahedron of edge <span class="math notranslate nohighlight">\(\sqrt{20}-2\)</span> in the sphere of axis <span class="math notranslate nohighlight">\(\sqrt{48}\)</span> on fol. 70r).</p></li>
+        </ol>
+        <section class="level-2" id="classes">
+        <h2>Classes<a class="headerlink" href="#classes" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult" title="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult"><code class="xref py py-obj docutils literal notranslate"><span class="pre">HeronTriangleResult</span></code></a></p></td>
+        <td><p>Exact symbolic invariants of Pacioli's <code class="docutils literal notranslate"><span class="pre">(13,</span> <span class="pre">14,</span> <span class="pre">15)</span></code> triangle (Part II, fol. 9v).</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult" title="src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult"><code class="xref py py-obj docutils literal notranslate"><span class="pre">TriangleDivisionResult</span></code></a></p></td>
+        <td><p>Exact symbolic outputs for dividing a triangle's area in ratio <code class="docutils literal notranslate"><span class="pre">p</span> <span class="pre">:</span> <span class="pre">q</span></code>.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec" title="src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec"><code class="xref py py-obj docutils literal notranslate"><span class="pre">InscribedPolyhedronSpec</span></code></a></p></td>
+        <td><p>Exact symbolic metrics of a regular or Archimedean solid in a sphere of diameter <code class="docutils literal notranslate"><span class="pre">D</span></code>.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result" title="src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result"><code class="xref py py-obj docutils literal notranslate"><span class="pre">DodecahedronAxis48Result</span></code></a></p></td>
+        <td><p>Exact symbolic metrics for Problem 21 on Part II, fol. 70r (sphere axis <code class="docutils literal notranslate"><span class="pre">sqrt(48)</span></code>).</p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="functions">
+        <h2>Functions<a class="headerlink" href="#functions" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.construct_heron_13_14_15" title="src.geometor.pacioli.tractatus_geometriae.construct_heron_13_14_15"><code class="xref py py-obj docutils literal notranslate"><span class="pre">construct_heron_13_14_15</span></code></a>() → HeronTriangleResult</p></td>
+        <td><p>Construct and verify Pacioli's <code class="docutils literal notranslate"><span class="pre">(13,</span> <span class="pre">14,</span> <span class="pre">15)</span></code> Heron triangle (Part II, fol. 9v).</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.construct_triangle_division_cevian" title="src.geometor.pacioli.tractatus_geometriae.construct_triangle_division_cevian"><code class="xref py py-obj docutils literal notranslate"><span class="pre">construct_triangle_division_cevian</span></code></a>([ratio_p, ratio_q]) → TriangleDivisionResult</p></td>
+        <td><p>Divide <span class="math notranslate nohighlight">\(\triangle GBA\)</span> (<code class="docutils literal notranslate"><span class="pre">13,</span> <span class="pre">14,</span> <span class="pre">15</span></code>) in ratio <code class="docutils literal notranslate"><span class="pre">p</span> <span class="pre">:</span> <span class="pre">q</span></code> by a vertex cevian.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.construct_triangle_division_parallel" title="src.geometor.pacioli.tractatus_geometriae.construct_triangle_division_parallel"><code class="xref py py-obj docutils literal notranslate"><span class="pre">construct_triangle_division_parallel</span></code></a>([ratio_p, ratio_q]) → TriangleDivisionResult</p></td>
+        <td><p>Divide <span class="math notranslate nohighlight">\(\triangle GBA\)</span> in ratio <code class="docutils literal notranslate"><span class="pre">p</span> <span class="pre">:</span> <span class="pre">q</span></code> by a cut parallel to side <code class="docutils literal notranslate"><span class="pre">BA</span></code>.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.inscribed_polyhedra_sphere_table" title="src.geometor.pacioli.tractatus_geometriae.inscribed_polyhedra_sphere_table"><code class="xref py py-obj docutils literal notranslate"><span class="pre">inscribed_polyhedra_sphere_table</span></code></a>([diameter]) → dict[str, InscribedPolyhedronSpec]</p></td>
+        <td><p>Compute exact symbolic metrics for regular &amp; Archimedean solids in a sphere of diameter <code class="docutils literal notranslate"><span class="pre">D</span></code>.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.dodecahedron_in_sphere_sqrt48" title="src.geometor.pacioli.tractatus_geometriae.dodecahedron_in_sphere_sqrt48"><code class="xref py py-obj docutils literal notranslate"><span class="pre">dodecahedron_in_sphere_sqrt48</span></code></a>() → DodecahedronAxis48Result</p></td>
+        <td><p>Reproduce Problem 21 on Part II, fol. 70r (dodecahedron in sphere of axis <code class="docutils literal notranslate"><span class="pre">sqrt(48)</span></code>).</p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="module-contents">
+        <h2>Module Contents<a class="headerlink" href="#module-contents" title="Link to this heading">¶</a></h2>
+        <dl class="py class">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.tractatus_geometriae.</span></span><span class="sig-name descname"><span class="pre">HeronTriangleResult</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult" title="Link to this definition">¶</a></dt>
+        <dd><p>Exact symbolic invariants of Pacioli’s <code class="docutils literal notranslate"><span class="pre">(13,</span> <span class="pre">14,</span> <span class="pre">15)</span></code> triangle (Part II, fol. 9v).</p>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.model">
+        <span class="sig-name descname"><span class="pre">model</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">geometor.model.Model</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.model" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.pt_g">
+        <span class="sig-name descname"><span class="pre">pt_g</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.geometry.Point</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.pt_g" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.pt_b">
+        <span class="sig-name descname"><span class="pre">pt_b</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.geometry.Point</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.pt_b" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.pt_a">
+        <span class="sig-name descname"><span class="pre">pt_a</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.geometry.Point</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.pt_a" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.pt_d">
+        <span class="sig-name descname"><span class="pre">pt_d</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.geometry.Point</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.pt_d" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.incenter">
+        <span class="sig-name descname"><span class="pre">incenter</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.geometry.Point</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.incenter" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.circumcenter">
+        <span class="sig-name descname"><span class="pre">circumcenter</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.geometry.Point</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.circumcenter" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.sides">
+        <span class="sig-name descname"><span class="pre">sides</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#tuple" title="(in Python v3.13)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><span class="pre">sympy.Integer</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">sympy.Integer</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">sympy.Integer</span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.sides" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.perimeter">
+        <span class="sig-name descname"><span class="pre">perimeter</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Integer</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.perimeter" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.semiperimeter">
+        <span class="sig-name descname"><span class="pre">semiperimeter</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Integer</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.semiperimeter" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.excesses">
+        <span class="sig-name descname"><span class="pre">excesses</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#tuple" title="(in Python v3.13)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><span class="pre">sympy.Integer</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">sympy.Integer</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">sympy.Integer</span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.excesses" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.heron_radicand">
+        <span class="sig-name descname"><span class="pre">heron_radicand</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Integer</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.heron_radicand" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.area">
+        <span class="sig-name descname"><span class="pre">area</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Integer</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.area" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.altitude">
+        <span class="sig-name descname"><span class="pre">altitude</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Integer</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.altitude" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.base_segments">
+        <span class="sig-name descname"><span class="pre">base_segments</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#tuple" title="(in Python v3.13)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><span class="pre">sympy.Integer</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">sympy.Integer</span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.base_segments" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.inradius">
+        <span class="sig-name descname"><span class="pre">inradius</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Integer</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.inradius" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.circumradius">
+        <span class="sig-name descname"><span class="pre">circumradius</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Rational</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult.circumradius" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py class">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.tractatus_geometriae.</span></span><span class="sig-name descname"><span class="pre">TriangleDivisionResult</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult" title="Link to this definition">¶</a></dt>
+        <dd><p>Exact symbolic outputs for dividing a triangle’s area in ratio <code class="docutils literal notranslate"><span class="pre">p</span> <span class="pre">:</span> <span class="pre">q</span></code>.</p>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult.model">
+        <span class="sig-name descname"><span class="pre">model</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">geometor.model.Model</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult.model" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult.method">
+        <span class="sig-name descname"><span class="pre">method</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult.method" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult.ratio_p">
+        <span class="sig-name descname"><span class="pre">ratio_p</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Integer</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult.ratio_p" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult.ratio_q">
+        <span class="sig-name descname"><span class="pre">ratio_q</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Integer</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult.ratio_q" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult.total_area">
+        <span class="sig-name descname"><span class="pre">total_area</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult.total_area" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult.part_1_area">
+        <span class="sig-name descname"><span class="pre">part_1_area</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult.part_1_area" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult.part_2_area">
+        <span class="sig-name descname"><span class="pre">part_2_area</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult.part_2_area" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult.cut_points">
+        <span class="sig-name descname"><span class="pre">cut_points</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#tuple" title="(in Python v3.13)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><span class="pre">sympy.geometry.Point</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="p"><span class="pre">...</span></span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult.cut_points" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py class">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.tractatus_geometriae.</span></span><span class="sig-name descname"><span class="pre">InscribedPolyhedronSpec</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec" title="Link to this definition">¶</a></dt>
+        <dd><p>Exact symbolic metrics of a regular or Archimedean solid in a sphere of diameter <code class="docutils literal notranslate"><span class="pre">D</span></code>.</p>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec.key">
+        <span class="sig-name descname"><span class="pre">key</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec.key" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec.italian_name">
+        <span class="sig-name descname"><span class="pre">italian_name</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec.italian_name" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec.faces_description">
+        <span class="sig-name descname"><span class="pre">faces_description</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec.faces_description" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec.sphere_diameter">
+        <span class="sig-name descname"><span class="pre">sphere_diameter</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec.sphere_diameter" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec.edge_squared">
+        <span class="sig-name descname"><span class="pre">edge_squared</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec.edge_squared" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec.edge">
+        <span class="sig-name descname"><span class="pre">edge</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec.edge" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec.surface_area">
+        <span class="sig-name descname"><span class="pre">surface_area</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec.surface_area" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec.volume">
+        <span class="sig-name descname"><span class="pre">volume</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec.volume" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec.folio_citation">
+        <span class="sig-name descname"><span class="pre">folio_citation</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec.folio_citation" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py class">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.tractatus_geometriae.</span></span><span class="sig-name descname"><span class="pre">DodecahedronAxis48Result</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result" title="Link to this definition">¶</a></dt>
+        <dd><p>Exact symbolic metrics for Problem 21 on Part II, fol. 70r (sphere axis <code class="docutils literal notranslate"><span class="pre">sqrt(48)</span></code>).</p>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result.sphere_axis_squared">
+        <span class="sig-name descname"><span class="pre">sphere_axis_squared</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Integer</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result.sphere_axis_squared" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result.sphere_axis">
+        <span class="sig-name descname"><span class="pre">sphere_axis</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result.sphere_axis" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result.inscribed_cube_edge_squared">
+        <span class="sig-name descname"><span class="pre">inscribed_cube_edge_squared</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Integer</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result.inscribed_cube_edge_squared" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result.inscribed_cube_edge">
+        <span class="sig-name descname"><span class="pre">inscribed_cube_edge</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Integer</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result.inscribed_cube_edge" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result.dodecahedron_edge">
+        <span class="sig-name descname"><span class="pre">dodecahedron_edge</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result.dodecahedron_edge" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result.extreme_mean_minor_part">
+        <span class="sig-name descname"><span class="pre">extreme_mean_minor_part</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result.extreme_mean_minor_part" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.construct_heron_13_14_15">
+        <span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.tractatus_geometriae.</span></span><span class="sig-name descname"><span class="pre">construct_heron_13_14_15</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult" title="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult"><span class="pre">HeronTriangleResult</span></a></span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.construct_heron_13_14_15" title="Link to this definition">¶</a></dt>
+        <dd><p>Construct and verify Pacioli’s <code class="docutils literal notranslate"><span class="pre">(13,</span> <span class="pre">14,</span> <span class="pre">15)</span></code> Heron triangle (Part II, fol. 9v).</p>
+        <p>On Part II, fol. 9v (<em>Distinctio prima, Capitulum octavum</em>), Pacioli computes for
+        <span class="math notranslate nohighlight">\(\triangle ABG\)</span> with <span class="math notranslate nohighlight">\(AG=13\)</span>, <span class="math notranslate nohighlight">\(BG=14\)</span>, <span class="math notranslate nohighlight">\(AB=15\)</span>:</p>
+        <ul class="simple">
+        <li><p>Perimeter <span class="math notranslate nohighlight">\(13 + 14 + 15 = 42\)</span>, semiperimeter <span class="math notranslate nohighlight">\(s = 21\)</span>,</p></li>
+        <li><p>Excesses <span class="math notranslate nohighlight">\((s - 15, s - 14, s - 13) = (6, 7, 8)\)</span>,</p></li>
+        <li><p>Product <span class="math notranslate nohighlight">\(6 \cdot 7 \cdot 8 = 336\)</span>, and <span class="math notranslate nohighlight">\(336 \cdot 21 = 7056\)</span>,</p></li>
+        <li><p>Area <span class="math notranslate nohighlight">\(\sqrt{7056} = 84\)</span> <em>braccia quadre</em>, cathetus <span class="math notranslate nohighlight">\(AD = 12\)</span>, segments <span class="math notranslate nohighlight">\(5, 9\)</span>.</p></li>
+        </ul>
+        <dl class="field-list simple">
+        <dt class="field-odd">Returns<span class="colon">:</span></dt>
+        <dd class="field-odd"><p>Exact <a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult" title="src.geometor.pacioli.tractatus_geometriae.HeronTriangleResult"><code class="xref py py-class docutils literal notranslate"><span class="pre">HeronTriangleResult</span></code></a> containing the proven <code class="docutils literal notranslate"><span class="pre">Model</span></code> and invariants.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.construct_triangle_division_cevian">
+        <span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.tractatus_geometriae.</span></span><span class="sig-name descname"><span class="pre">construct_triangle_division_cevian</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">ratio_p</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">1</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">ratio_q</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">2</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult" title="src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult"><span class="pre">TriangleDivisionResult</span></a></span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.construct_triangle_division_cevian" title="Link to this definition">¶</a></dt>
+        <dd><p>Divide <span class="math notranslate nohighlight">\(\triangle GBA\)</span> (<code class="docutils literal notranslate"><span class="pre">13,</span> <span class="pre">14,</span> <span class="pre">15</span></code>) in ratio <code class="docutils literal notranslate"><span class="pre">p</span> <span class="pre">:</span> <span class="pre">q</span></code> by a vertex cevian.</p>
+        <p>Implements the first problem of <em>Part II, Distinctio IV: De divisione superficierum</em>
+        (following Euclid <code class="docutils literal notranslate"><span class="pre">VI.1</span></code> and Leonardo Pisano’s <em>Practica Geometriae</em>): dividing base
+        <span class="math notranslate nohighlight">\(GB\)</span> at <span class="math notranslate nohighlight">\(K\)</span> in ratio <span class="math notranslate nohighlight">\(p : q\)</span> via Thales’s intercept construction (<code class="docutils literal notranslate"><span class="pre">VI.10</span></code>)
+        so <span class="math notranslate nohighlight">\(\text{Area}(\triangle GAK) : \text{Area}(\triangle KAB) = p : q\)</span>.</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><ul class="simple">
+        <li><p><strong>ratio_p</strong> – Positive integer share adjacent to <code class="docutils literal notranslate"><span class="pre">G</span></code> (default <code class="docutils literal notranslate"><span class="pre">1</span></code>).</p></li>
+        <li><p><strong>ratio_q</strong> – Positive integer share adjacent to <code class="docutils literal notranslate"><span class="pre">B</span></code> (default <code class="docutils literal notranslate"><span class="pre">2</span></code>).</p></li>
+        </ul>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>Exact <a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult" title="src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult"><code class="xref py py-class docutils literal notranslate"><span class="pre">TriangleDivisionResult</span></code></a> with verified polygonal areas.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.construct_triangle_division_parallel">
+        <span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.tractatus_geometriae.</span></span><span class="sig-name descname"><span class="pre">construct_triangle_division_parallel</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">ratio_p</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">1</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">ratio_q</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">1</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult" title="src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult"><span class="pre">TriangleDivisionResult</span></a></span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.construct_triangle_division_parallel" title="Link to this definition">¶</a></dt>
+        <dd><p>Divide <span class="math notranslate nohighlight">\(\triangle GBA\)</span> in ratio <code class="docutils literal notranslate"><span class="pre">p</span> <span class="pre">:</span> <span class="pre">q</span></code> by a cut parallel to side <code class="docutils literal notranslate"><span class="pre">BA</span></code>.</p>
+        <p>Implements Pacioli’s <em>De divisione superficierum</em> (<em>Part II, Distinctio IV</em>, Euclid
+        <code class="docutils literal notranslate"><span class="pre">VI.13</span></code> + <code class="docutils literal notranslate"><span class="pre">VI.19</span></code>): to cut off <span class="math notranslate nohighlight">\(\triangle GUV \sim \triangle GBA\)</span> with
+        <span class="math notranslate nohighlight">\(\text{Area}(\triangle GUV) / \text{Area}(\triangle GBA) = p / (p + q)\)</span>, first divide
+        <span class="math notranslate nohighlight">\(GB\)</span> at <span class="math notranslate nohighlight">\(K\)</span> with <span class="math notranslate nohighlight">\(GK / GB = p / (p+q)\)</span>, then construct the geometric mean
+        <span class="math notranslate nohighlight">\(GU = \sqrt{GB \cdot GK}\)</span> via a semicircle on <span class="math notranslate nohighlight">\(GB\)</span> and draw <span class="math notranslate nohighlight">\(UV \parallel BA\)</span>.</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><ul class="simple">
+        <li><p><strong>ratio_p</strong> – Positive integer share for sub-triangle <code class="docutils literal notranslate"><span class="pre">GUV</span></code> (default <code class="docutils literal notranslate"><span class="pre">1</span></code>, bisecting area).</p></li>
+        <li><p><strong>ratio_q</strong> – Positive integer share for trapezoid <code class="docutils literal notranslate"><span class="pre">UBAV</span></code> (default <code class="docutils literal notranslate"><span class="pre">1</span></code>).</p></li>
+        </ul>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>Exact <a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult" title="src.geometor.pacioli.tractatus_geometriae.TriangleDivisionResult"><code class="xref py py-class docutils literal notranslate"><span class="pre">TriangleDivisionResult</span></code></a> with verified radical cut coordinates and rational areas.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.inscribed_polyhedra_sphere_table">
+        <span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.tractatus_geometriae.</span></span><span class="sig-name descname"><span class="pre">inscribed_polyhedra_sphere_table</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">diameter</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">6</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#dict" title="(in Python v3.13)"><span class="pre">dict</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec" title="src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec"><span class="pre">InscribedPolyhedronSpec</span></a><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.inscribed_polyhedra_sphere_table" title="Link to this definition">¶</a></dt>
+        <dd><p>Compute exact symbolic metrics for regular &amp; Archimedean solids in a sphere of diameter <code class="docutils literal notranslate"><span class="pre">D</span></code>.</p>
+        <p>Defaults to <code class="docutils literal notranslate"><span class="pre">diameter</span> <span class="pre">=</span> <span class="pre">6</span></code> (<em>Summa</em> Part II, <em>Distinctio VIII: De corporibus regularibus</em>,
+        fol. 69v–70r), reproducing both Euclid Book XIII’s five regular solids and Pacioli’s
+        dependent Archimedean solids inherited from Piero della Francesca:</p>
+        <ul class="simple">
+        <li><p><code class="docutils literal notranslate"><span class="pre">truncated_tetrahedron</span></code> (fol. 69v, prob. 15–16): <span class="math notranslate nohighlight">\(e^2 = \frac{2}{11} D^2\)</span>
+        (<span class="math notranslate nohighlight">\(= \frac{72}{11} = 6\frac{6}{11}\)</span> for <span class="math notranslate nohighlight">\(D=6\)</span>, matching Pacioli’s <code class="docutils literal notranslate"><span class="pre">℞.6</span> <span class="pre">6/11</span></code>!).</p></li>
+        <li><p><code class="docutils literal notranslate"><span class="pre">cuboctahedron</span></code> (fol. 69v–70r, prob. 17–19): <span class="math notranslate nohighlight">\(e = \frac{1}{2} D\)</span>
+        (<span class="math notranslate nohighlight">\(= 3\)</span> <em>braccia</em> for <span class="math notranslate nohighlight">\(D=6\)</span>).</p></li>
+        </ul>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><strong>diameter</strong> – Exact positive sphere diameter <code class="docutils literal notranslate"><span class="pre">D</span></code> (default <code class="docutils literal notranslate"><span class="pre">6</span></code>).</p>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>Dictionary mapping solid keys to <a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec" title="src.geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec"><code class="xref py py-class docutils literal notranslate"><span class="pre">InscribedPolyhedronSpec</span></code></a>.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="src.geometor.pacioli.tractatus_geometriae.dodecahedron_in_sphere_sqrt48">
+        <span class="sig-prename descclassname"><span class="pre">src.geometor.pacioli.tractatus_geometriae.</span></span><span class="sig-name descname"><span class="pre">dodecahedron_in_sphere_sqrt48</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result" title="src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result"><span class="pre">DodecahedronAxis48Result</span></a></span></span><a class="headerlink" href="#src.geometor.pacioli.tractatus_geometriae.dodecahedron_in_sphere_sqrt48" title="Link to this definition">¶</a></dt>
+        <dd><p>Reproduce Problem 21 on Part II, fol. 70r (dodecahedron in sphere of axis <code class="docutils literal notranslate"><span class="pre">sqrt(48)</span></code>).</p>
+        <p>On fol. 70r, Pacioli takes a sphere whose axis has squared length (<em>possanza</em>) <code class="docutils literal notranslate"><span class="pre">48</span></code>:
+        by Euclid <code class="docutils literal notranslate"><span class="pre">XIII.15</span></code>, the inscribed cube has squared edge <code class="docutils literal notranslate"><span class="pre">48</span> <span class="pre">/</span> <span class="pre">3</span> <span class="pre">=</span> <span class="pre">16</span></code>, so edge <code class="docutils literal notranslate"><span class="pre">4</span></code>;
+        dividing <code class="docutils literal notranslate"><span class="pre">4</span></code> in extreme and mean ratio (Campanus <code class="docutils literal notranslate"><span class="pre">XIV.18</span></code> / Euclid <code class="docutils literal notranslate"><span class="pre">XIII.17</span></code> corollary)
+        yields major part <code class="docutils literal notranslate"><span class="pre">sqrt(20)</span> <span class="pre">-</span> <span class="pre">2</span></code> (the dodecahedron edge) and minor part <code class="docutils literal notranslate"><span class="pre">6</span> <span class="pre">-</span> <span class="pre">sqrt(20)</span></code>.</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Returns<span class="colon">:</span></dt>
+        <dd class="field-odd"><p>Exact <a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result" title="src.geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result"><code class="xref py py-class docutils literal notranslate"><span class="pre">DodecahedronAxis48Result</span></code></a> verified against <a class="reference internal" href="#src.geometor.pacioli.tractatus_geometriae.inscribed_polyhedra_sphere_table" title="src.geometor.pacioli.tractatus_geometriae.inscribed_polyhedra_sphere_table"><code class="xref py py-func docutils literal notranslate"><span class="pre">inscribed_polyhedra_sphere_table()</span></code></a>.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        </section>
+        </section>
+
+      </div>
+      <footer class="book-footer">
+        <div class="book-footer-ornament">&#10086;</div>
+        <div class="book-footer-nav">
+          <div class="book-nav-prev">
+          </div>
+          <div class="book-nav-center">
+            <a class="book-toc-link" href="../../../../../../index.html">geometor • pacioli</a>
+          </div>
+          <div class="book-nav-next">
+          </div>
+        </div>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside class="aside-search">
+      <h3>Search</h3>
+      <div id="searchbox" role="search">
+        <form id="rtd-search-form" class="wy-form search-form" action="../../../../../../search.html" method="get">
+          <div class="search-field">
+            <input type="search" name="q" placeholder="Search docs..." aria-label="Search docs" autocomplete="off" />
+            <button type="submit" class="search-submit" aria-label="Search" title="Search">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </div>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+    <aside class="aside-recent-logs">
+      <h3>Recent Logs</h3>
+      <ul>
+        <li><a href="../../../../../../log/26.302-183400/index.html">Five-Track De Divina Proportione Codex & 482 Paganini Woodcut Graphics</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-tags">
+      <h3>Tags</h3>
+      <ul>
+        <li><a href="../../../../../../tags/leonardo-da-vinci.html">leonardo-da-vinci</a></li>
+        <li><a href="../../../../../../tags/pacioli.html">pacioli</a></li>
+        <li><a href="../../../../../../tags/paganini-1509.html">paganini-1509</a></li>
+        <li><a href="../../../../../../tags/winterberg.html">winterberg</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-categories">
+      <h3>Categories</h3>
+      <ul>
+        <li><a href="../../../../../../categories/codex.html">codex</a></li>
+        <li><a href="../../../../../../categories/graphics.html">graphics</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-types">
+      <h3>Types</h3>
+      <ul>
+        <li><a href="../../../../../../types/apparatus.html">apparatus</a></li>
+        <li><a href="../../../../../../types/log.html">log</a></li>
+      </ul>
+    </aside>
+  </div>
+  <footer>
+    <div class="footer-nav">
+      <ul>
+        <li><a href="../../../../../../about.html"  >about</a></li>
+        <li><a href="../../../../../../connect.html"  >connect</a></li>
+        <li><a href="../../../../../../todos/index.html"  >todos</a></li>
+        <li><a href="../../../../../../changelog.html"  >0.4.0 (2026-11-12)</a></li>
+      </ul>
+    </div>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright 2026, geometor.
+      </p>
+    </div>
+  </footer>
+
+  <script src="../../../../../../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../../../../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../../../../../../_static/documentation_options.js?v=6c02275b"></script>
+  <script src="../../../../../../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../../../../../../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../../../../../../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../../../../../../_static/js/geometor_interactive.js?v=b2892320"></script>
+  <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+  <script src="../../../../../../_static/js/search_highlight.js"></script>
+
+</body>
+</html>

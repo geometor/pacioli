@@ -6,12 +6,12 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>demo &mdash; geometor • pacioli</title>
+  <title>Master Demonstration Runner &mdash; geometor • pacioli</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=ea5fcf70" />
-  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=69acf51f" />
+  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=66998e95" />
   <link rel="stylesheet" type="text/css" href="../_static/graphviz.css?v=4ae1632d" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
@@ -40,6 +40,12 @@
           <a href="../de_divina_proportione/index.html"  >DE DIVINA PROPORTIONE</a>
         </li>
         <li>
+          <a href="../summa_1494/index.html"  >SUMMA DE ARITHMETICA, GEOMETRIA, PROPORTIONI ET PROPORTIONALITA</a>
+        </li>
+        <li>
+          <a href="index.html" class="is-active" aria-selected="true" >Symbolic Demonstrations</a>
+        </li>
+        <li>
           <a href="../mission/index.html"  >mission</a>
         </li>
         <li>
@@ -64,12 +70,52 @@
             <span class="book-header-sep">/</span>
             <a class="book-title-link" href="../index.html">geometor • pacioli</a>
           </div>
+          <div class="book-header-breadcrumbs book-header-badges" role="navigation" aria-label="Breadcrumbs">
+            <a class="book-crumb-link" href="index.html">Symbolic Demonstrations</a>
+          </div>
+        </div>
+        <div class="book-header-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="summa_quaderno.html" title="De Computis et Scripturis &amp; Problem of Points (1494)">&larr; <span class="nav-label">Prev</span></a>
+          </div>
+          <div class="book-nav-center">
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../mission/index.html" title="mission"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
         </div>
       </header>
       <div class="content body book-content" role="main">
-        <section class="level-1" id="demo">
-        <h1>demo<a class="headerlink" href="#demo" title="Link to this heading">¶</a></h1>
-        <div class="highlight-python notranslate"><div class="highlight"><pre><span></span>
+        <section class="level-1" id="master-demonstration-runner">
+        <h1>Master Demonstration Runner<a class="headerlink" href="#master-demonstration-runner" title="Link to this heading">¶</a></h1>
+        <p>Runs all three <em>Summa</em> (1494) symbolic demonstrations sequentially (Boethian &amp;
+        Euclidean proportions, <em>Tractatus Geometriae</em> mensuration and polyhedra, and
+        Venetian double-entry <em>Quaderno</em> conservation).</p>
+        <div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="sd">"""Master CLI runner executing all three *Summa* (1494) symbolic demonstrations."""</span>
+
+        <span class="kn">from</span><span class="w"> </span><span class="nn">__future__</span><span class="w"> </span><span class="kn">import</span> <span class="n">annotations</span>
+
+        <span class="kn">import</span><span class="w"> </span><span class="nn">sys</span>
+        <span class="kn">from</span><span class="w"> </span><span class="nn">pathlib</span><span class="w"> </span><span class="kn">import</span> <span class="n">Path</span>
+
+        <span class="n">_DEMOS_DIR</span> <span class="o">=</span> <span class="n">Path</span><span class="p">(</span><span class="vm">__file__</span><span class="p">)</span><span class="o">.</span><span class="n">resolve</span><span class="p">()</span><span class="o">.</span><span class="n">parent</span>
+        <span class="k">if</span> <span class="nb">str</span><span class="p">(</span><span class="n">_DEMOS_DIR</span><span class="p">)</span> <span class="ow">not</span> <span class="ow">in</span> <span class="n">sys</span><span class="o">.</span><span class="n">path</span><span class="p">:</span>
+            <span class="n">sys</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">insert</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nb">str</span><span class="p">(</span><span class="n">_DEMOS_DIR</span><span class="p">))</span>
+
+        <span class="kn">import</span><span class="w"> </span><span class="nn">summa_geometria</span>  <span class="c1"># noqa: E402</span>
+        <span class="kn">import</span><span class="w"> </span><span class="nn">summa_proportions</span>  <span class="c1"># noqa: E402</span>
+        <span class="kn">import</span><span class="w"> </span><span class="nn">summa_quaderno</span>  <span class="c1"># noqa: E402</span>
+
+
+        <span class="k">def</span><span class="w"> </span><span class="nf">main</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+        <span class="w">    </span><span class="sd">"""Run proportions, *Tractatus Geometriae*, and *Quaderno* conservation demos."""</span>
+            <span class="n">summa_proportions</span><span class="o">.</span><span class="n">run_demo</span><span class="p">()</span>
+            <span class="n">summa_geometria</span><span class="o">.</span><span class="n">run_demo</span><span class="p">()</span>
+            <span class="n">summa_quaderno</span><span class="o">.</span><span class="n">run_demo</span><span class="p">()</span>
+
+
+        <span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">"__main__"</span><span class="p">:</span>
+            <span class="n">main</span><span class="p">()</span>
         </pre></div>
         </div>
         </section>
@@ -79,11 +125,13 @@
         <div class="book-footer-ornament">&#10086;</div>
         <div class="book-footer-nav">
           <div class="book-nav-prev">
+            <a class="book-nav-btn" href="summa_quaderno.html" title="De Computis et Scripturis &amp; Problem of Points (1494)">&larr; <span class="nav-label">De Computis et Scripturis & Problem of Points (1494)</span></a>
           </div>
           <div class="book-nav-center">
             <a class="book-toc-link" href="../index.html">geometor • pacioli</a>
           </div>
           <div class="book-nav-next">
+            <a class="book-nav-btn" href="../mission/index.html" title="mission"><span class="nav-label">mission</span> &rarr;</a>
           </div>
         </div>
       </footer>
@@ -144,7 +192,7 @@
         <li><a href="../about.html"  >about</a></li>
         <li><a href="../connect.html"  >connect</a></li>
         <li><a href="../todos/index.html"  >todos</a></li>
-        <li><a href="../changelog.html"  >0.3.2 (2026-10-29)</a></li>
+        <li><a href="../changelog.html"  >0.4.0 (2026-11-12)</a></li>
       </ul>
     </div>
     <hr />
@@ -157,11 +205,11 @@
 
   <script src="../_static/jquery.js?v=5d32c60e"></script>
   <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-  <script src="../_static/documentation_options.js?v=71d9d8e6"></script>
+  <script src="../_static/documentation_options.js?v=6c02275b"></script>
   <script src="../_static/doctools.js?v=fd6eb6e6"></script>
   <script src="../_static/sphinx_highlight.js?v=6ffebe34"></script>
   <script src="../_static/js/collection_controls.js?v=b6b5297a"></script>
-  <script src="../_static/js/geometor_interactive.js?v=4430a5d4"></script>
+  <script src="../_static/js/geometor_interactive.js?v=b2892320"></script>
   <script src="../_static/js/search_highlight.js"></script>
 
 </body>

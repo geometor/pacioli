@@ -1,0 +1,19 @@
+src.geometor.pacioli.run_parse
+==============================
+
+.. py:module:: src.geometor.pacioli.run_parse
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   src.geometor.pacioli.run_parse.main
+
+
+Module Contents
+---------------
+
+.. py:function:: main()
+
