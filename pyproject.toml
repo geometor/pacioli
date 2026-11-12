@@ -13,6 +13,8 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 dependencies = [
+    "sympy",
+    "geometor-model",
     "textual",
     "rich",
     "jinja2",
@@ -20,6 +22,12 @@ dependencies = [
     "pypdfium2",
     "opencv-python",
     "numpy",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "ruff",
 ]
 
 [project.scripts]
@@ -43,3 +51,17 @@ version = {attr = "geometor.pacioli.__version__"}
 "Website" = "https://geometor.github.io/pacioli"
 "Repository" = "https://github.com/geometor/pacioli"
 "Issues" = "https://github.com/geometor/pacioli/issues"
+
+[tool.ruff]
+lint.select = ["E", "F", "I", "ANN", "D"]
+lint.ignore = ["E501"]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.ruff.lint.per-file-ignores]
+"src/geometor/pacioli/{__main__,app,extraction,graphics,pacioli,parse_winterberg,parser,run_parse,run_winterberg_parse}.py" = ["E", "F", "I", "ANN", "D"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

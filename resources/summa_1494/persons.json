@@ -1,0 +1,207 @@
+{
+  "pacioli": {
+    "name": "Pacioli, Fra Luca",
+    "dates": "c. 1447 – 1517",
+    "role": "Franciscan Mathematician of Borgo Sansepolcro; Author of the Summa (1494) and De Divina Proportione (1509)",
+    "bio": "Born at Borgo Sansepolcro, educated in the workshop of Piero della Francesca and hosted in Rome by Leon Battista Alberti; lectured on Euclid and practical mathematics across Perugia, Zara, Naples, Rome, Milan (alongside Leonardo da Vinci), Florence, Pisa, Bologna, and Venice, seeing his encyclopedic Summa through Paganino de' Paganini's press in November 1494.",
+    "works": [
+      "Summa de arithmetica, geometria, proportioni et proportionalita (Venice, 1494)",
+      "De Divina Proportione (Venice, 1509)",
+      "Euclidis Opera (Latin edition, Venice, 1509)",
+      "De Viribus Quantitatis (Bologna MS, c. 1508)"
+    ]
+  },
+  "guidobaldo-da-montefeltro": {
+    "name": "Montefeltro, Guidobaldo da",
+    "dates": "1472 – 1508",
+    "role": "Duke of Urbino; Dedicatee of Pacioli's Summa (1494)",
+    "bio": "Son of Federico da Montefeltro and Battista Sforza; humanist prince of Urbino to whom Pacioli dedicated both the Italian and Latin dedicatory epistles of the 1494 Summa and fashioned wooden models of the regular and dependent polyhedra.",
+    "works": []
+  },
+  "federico-da-montefeltro": {
+    "name": "Montefeltro, Federico da",
+    "dates": "1422 – 1482",
+    "role": "Duke of Urbino, Condottiero, and Builder of the Palazzo Ducale",
+    "bio": "Father of Guidobaldo da Montefeltro; patron of Piero della Francesca, Francesco di Giorgio Martini, and Luciano Laurana, celebrated by Pacioli on prelim. fol. 2v for the architectural proportion of the Ducal Palace of Urbino.",
+    "works": []
+  },
+  "marco-sanudo": {
+    "name": "Sanudo, Marco",
+    "dates": "fl. 1490 – 1505",
+    "role": "Venetian Patrician, Mathematician, and Financial Patron of the 1494 Summa",
+    "bio": "Learned Venetian nobleman praised by Pacioli on prelim. fol. 1v as 'astrologiae, geometriae, arithmeticaeque cultor exquisitissimus', whose financial patronage underwrote the printing of the 1494 Summa in Venice.",
+    "works": []
+  },
+  "paganino-de-paganini": {
+    "name": "Paganini, Paganino de'",
+    "dates": "fl. 1483 – 1538",
+    "role": "Master Printer from Brescia in Venice",
+    "bio": "Master typographer from Brescia operating in Venice who cut the marginal mathematical woodblocks and printed both Pacioli's Summa (Nov. 10–20, 1494) and De Divina Proportione plus Euclidis Opera (1509).",
+    "works": []
+  },
+  "agostino-barbarigo": {
+    "name": "Barbarigo, Agostino",
+    "dates": "1419 – 1501",
+    "role": "Doge of the Republic of Venice (1486 – 1501)",
+    "bio": "Doge of Venice under whose signory Paganino de' Paganini and Fra Luca Pacioli were granted a ten-year printing privilege recorded in the colophon of Part II, fol. 76r.",
+    "works": []
+  },
+  "pompilio": {
+    "name": "Pompilio, Paolo",
+    "dates": "c. 1455 – 1491",
+    "role": "Roman Humanist Poet",
+    "bio": "Author of the Latin elegiac epigram in praise of Fra Luca Pacioli printed on prelim. fol. 1v of the 1494 Summa.",
+    "works": ["Epigramma ad Lucam Paciolum (Summa, prelim. fol. 1v)"]
+  },
+  "giorgio-sommaripa": {
+    "name": "Sommaripa, Giorgio",
+    "dates": "c. 1435 – 1504",
+    "role": "Veronese Patrician and Vernacular Poet",
+    "bio": "Author of the Italian caudate sonnet celebrating Pacioli's universal synthesis of arithmetic, geometry, and Venetian double-entry ledger craft on prelim. fol. 1v.",
+    "works": ["Sonetto a Fra Luca Pacioli (Summa, prelim. fol. 1v)"]
+  },
+  "piero-della-francesca": {
+    "name": "Francesca, Piero della",
+    "dates": "c. 1412 – 1492",
+    "role": "Master Painter and Mathematician of Borgo Sansepolcro",
+    "bio": "Fellow townsman and mathematical mentor of Pacioli; praised on fol. 68v as 'el monarca a li tempi nostri de la pictura' and author of the Trattato d'abaco, De prospectiva pingendi, and Libellus de quinque corporibus regularibus.",
+    "works": [
+      "Trattato d'abaco",
+      "De prospectiva pingendi",
+      "Libellus de quinque corporibus regularibus"
+    ]
+  },
+  "alberti": {
+    "name": "Alberti, Leon Battista",
+    "dates": "1404 – 1472",
+    "role": "Florentine Humanist, Architect, and Theorist",
+    "bio": "Hosted young Pacioli in Rome; cited on fol. 68v alongside Vitruvius and Piero della Francesca on architectural and pictorial symmetry.",
+    "works": ["De Re Aedificatoria", "De Pictura", "Ludi Rerum Mathematicarum"]
+  },
+  "leonardo-pisano": {
+    "name": "Leonardo Pisano (Fibonacci)",
+    "dates": "c. 1170 – c. 1250",
+    "role": "Pisan Mathematician; Principal Medieval Source of the Summa",
+    "bio": "Explicitly acknowledged by Pacioli on Part I, fol. 1v as his foremost authority: wherever no other author is named in the Summa, the reader is to understand the doctrine derives from Leonardo Pisano's Liber Abaci (1202/1228) and Practica Geometriae (1220).",
+    "works": ["Liber Abaci (1202/1228)", "Practica Geometriae (1220)", "Liber Quadratorum (1225)"]
+  },
+  "euclid": {
+    "name": "Euclid of Alexandria",
+    "dates": "fl. c. 300 BC",
+    "role": "Greek Geometer; Author of the Elements",
+    "bio": "Revered throughout the Summa as the supreme deductive authority across arithmetic (Books VII–IX), proportion (Book V), irrational binomials and apotomes (Book X), plane geometry (Books I–VI), and the regular solids (Books XI–XIII).",
+    "works": ["Elements (Books I–XIII)", "On Divisions of Figures"]
+  },
+  "boethius": {
+    "name": "Boethius, Anicius Manlius Severinus",
+    "dates": "c. 480 – 524 AD",
+    "role": "Roman Philosopher and Codifier of the Quadrivium",
+    "bio": "Transmitted Nicomachus's arithmetic and musical ratio nomenclature (multiplex, superparticularis, superpartiens) into the Latin scholastic curriculum expounded in Summa Part I, Dist. I & VI.",
+    "works": ["De Institutione Arithmetica", "De Institutione Musica"]
+  },
+  "jordanus-nemorarius": {
+    "name": "Jordanus de Nemore (Jordanus Nemorarius)",
+    "dates": "fl. early 13th century",
+    "role": "Medieval Mathematician and Statician",
+    "bio": "Cited by Pacioli on Part I, fol. 1v and throughout Distinctio VI for speculative arithmetic and proportion theory (De elementis arismetice artis, De numeris datis).",
+    "works": ["De elementis arismetice artis", "De numeris datis"]
+  },
+  "campanus": {
+    "name": "Campanus of Novara",
+    "dates": "c. 1220 – 1296",
+    "role": "Medieval Commentator and Editor of the Latin Euclid",
+    "bio": "Papal chaplain whose Latin edition and scholia on Euclid's Elements (printed at Venice by Erhard Ratdolt in 1482 and revised by Pacioli in 1509) supplied Pacioli's proposition numbering and proportion commentary.",
+    "works": ["Euclidis Elementa cum commentariis Campani (1482)"]
+  },
+  "archimedes": {
+    "name": "Archimedes of Syracuse",
+    "dates": "c. 287 – 212 BC",
+    "role": "Greek Geometer and Hydrostatician",
+    "bio": "Cited in Summa Part II, Dist. III (fol. 31r) for the 96-gon bounds 3 10/71 < pi < 3 1/7, Dist. V for sphere-and-cylinder mensuration, and Dist. VIII (fol. 70r, prob. 20) for hydrostatic volume measurement by displaced fluid.",
+    "works": ["Dimensio Circuli", "De Sphaera et Cylindro", "On Floating Bodies"]
+  },
+  "heron": {
+    "name": "Heron of Alexandria",
+    "dates": "fl. 1st century AD",
+    "role": "Alexandrian Geometer and Engineer",
+    "bio": "Discoverer of the semiperimeter area formula sqrt(s(s-a)(s-b)(s-c)) transmitted via Arabic intermediaries and Leonardo Pisano into Summa Part II, Dist. I, Cap. 8 (fol. 9v).",
+    "works": ["Metrica", "Dioptra"]
+  },
+  "ptolemy": {
+    "name": "Ptolemy, Claudius",
+    "dates": "c. 100 – c. 170 AD",
+    "role": "Greco-Egyptian Astronomer and Geometer",
+    "bio": "Cited in Summa Part II, Dist. III for chord tables and cyclic quadrilaterals from Book I of the Almagest.",
+    "works": ["Almagest (Syntaxis Mathematica)"]
+  },
+  "vitruvius": {
+    "name": "Vitruvius Pollio, Marcus",
+    "dates": "c. 80 – c. 15 BC",
+    "role": "Roman Architect and Engineer",
+    "bio": "Cited on Summa Part I, fol. 68v on architectural proportion and human symmetry.",
+    "works": ["De Architectura Libri Decem"]
+  },
+  "sacrobosco": {
+    "name": "Sacrobosco, Johannes de (John of Hollywood)",
+    "dates": "c. 1195 – c. 1256",
+    "role": "Scholastic Astronomer and Algorist at Paris",
+    "bio": "Acknowledged on Part I, fol. 1v as a standard authority on Hindu-Arabic algorism and spherical astronomy.",
+    "works": ["Algorismus Vulgaris", "Tractatus de Sphaera"]
+  },
+  "al-khwarizmi": {
+    "name": "al-Khwārizmī, Muḥammad ibn Mūsā",
+    "dates": "c. 780 – c. 850",
+    "role": "Founder of Hisāb al-jabr wa'l-muqābala in Baghdad",
+    "bio": "Established the six canonical positive-coefficient linear and quadratic equations and their geometric gnomon demonstrations inherited by Leonardo Pisano and expounded in Summa Part I, Dist. VIII (fols. 145r–146r).",
+    "works": ["Al-Kitāb al-mukhtaṣar fī ḥisāb al-jabr wa'l-muqābala"]
+  },
+  "prosdocimo-de-beldomandi": {
+    "name": "Beldomandi, Prosdocimo de'",
+    "dates": "c. 1380 – 1428",
+    "role": "Paduan Mathematician, Astronomer, and Music Theorist",
+    "bio": "Cited by Pacioli on Part I, fol. 1v among his foremost Italian predecessors in algorism and musical proportion.",
+    "works": ["Algorismus de integris (1410)"]
+  },
+  "biagio-pelacani": {
+    "name": "Pelacani da Parma, Biagio (Blasius of Parma)",
+    "dates": "c. 1347 – 1416",
+    "role": "Scholastic Natural Philosopher and Theorist of Proportions",
+    "bio": "Cited on Part I, fol. 1v and in Distinctio VI on kinematic and geometric proportions.",
+    "works": ["Quaestiones de proportionibus"]
+  },
+  "pascal": {
+    "name": "Pascal, Blaise",
+    "dates": "1623 – 1662",
+    "role": "French Geometer and Co-Founder of Mathematical Probability",
+    "bio": "In his July–October 1654 correspondence with Pierre de Fermat, resolved the interrupted-game Problem of Points first printed in Pacioli's 1494 Summa (fol. 197r–197v) via backward expectation and the arithmetic triangle.",
+    "works": ["Traité du triangle arithmétique (1654)"]
+  },
+  "fermat": {
+    "name": "Fermat, Pierre de",
+    "dates": "1607 – 1665",
+    "role": "French Mathematician and Co-Founder of Probability and Number Theory",
+    "bio": "Resolved both two-player and multi-player cases of Pacioli's Problem of Points in 1654 via equiprobable completion sequences and discovered Fermat's Little Theorem governing Mersenne primes (cf. Summa fol. 8r).",
+    "works": ["Correspondence with Blaise Pascal (1654)"]
+  },
+  "scipione-del-ferro": {
+    "name": "Ferro, Scipione del",
+    "dates": "1465 – 1526",
+    "role": "Bolognese Mathematician; Discoverer of the Depressed Cubic Formula",
+    "bio": "Colleague of Pacioli at the University of Bologna (1501–1502) who, inspired directly by Pacioli's 1494 challenge on fol. 150r, discovered the radical solution to x^3 + px = q around 1515.",
+    "works": []
+  },
+  "tartaglia": {
+    "name": "Tartaglia, Niccolò Fontana",
+    "dates": "1499 – 1557",
+    "role": "Venetian Mathematician and Translator of Euclid and Archimedes",
+    "bio": "Rediscovered the cubic solution in Venice (1535), criticized Pacioli's Problem of Points rule in his General Trattato (1556), and published the first Italian translation of Euclid (1543).",
+    "works": ["Quesiti et inventioni diverse (1546)", "General Trattato di numeri et misure (1556)"]
+  },
+  "cardano": {
+    "name": "Cardano, Gerolamo",
+    "dates": "1501 – 1576",
+    "role": "Milanese Physician and Algebraist; Author of the Ars Magna (1545)",
+    "bio": "Opened Chapter I of his Ars Magna (1545) by recalling Fra Luca Pacioli's 1494 declaration that cubics were as impossible as squaring the circle before publishing the general cubic and quartic solutions of del Ferro, Tartaglia, and Ferrari.",
+    "works": ["Artis Magnae, sive de Regulis Algebraicis (1545)", "Liber de Ludo Aleae"]
+  }
+}

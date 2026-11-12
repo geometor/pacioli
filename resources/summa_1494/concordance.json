@@ -1,0 +1,126 @@
+{
+  "preliminaries": {
+    "folios": "[prelim. fols. 1r–8v]",
+    "title": "Continentia, Epigrams, Dedicatory Epistles, & Tabula",
+    "codex_unit": "unit_01_dedication_arithmetica",
+    "cross_refs": ["De Divina Proportione (1509) Cap. I–II"]
+  },
+  "part_i_arithmetica_et_algebra": [
+    {
+      "distinctio": "I",
+      "folios": "fols. 1r–18v",
+      "title": "Speculative Arithmetic: Continuous & Discrete Quantity, Perfect, Figurate & Polygonal Numbers",
+      "codex_unit": "unit_01_dedication_arithmetica",
+      "euclid_refs": ["VII.def.1", "VII.def.22", "IX.20", "IX.36"],
+      "sources": ["Euclid", "Boethius", "Nicomachus", "Jordanus Nemorarius"]
+    },
+    {
+      "distinctio": "II",
+      "folios": "fols. 19r–43v",
+      "title": "Algorismus of Whole Numbers: Numeration, Hands, Multiplication (8 Modes, Gelosia), Division (Danda, Galea), Progression & Root Extraction",
+      "codex_unit": "unit_02_algebra_cosa",
+      "euclid_refs": ["II.4"],
+      "sources": ["Leonardo Pisano (Liber Abaci)", "Sacrobosco (Algorismus)"]
+    },
+    {
+      "distinctio": "III–V",
+      "folios": "fols. 44r–67v",
+      "title": "Fractions (Rotti), Rule of Three (Regola del Tre), Single & Double False Position (El Cataym)",
+      "codex_unit": "unit_02_algebra_cosa",
+      "euclid_refs": ["V.16", "VII.19"],
+      "sources": ["Leonardo Pisano", "Maestro Paolo dell'Abbaco"]
+    },
+    {
+      "distinctio": "VI",
+      "folios": "fols. 68r–98r",
+      "title": "Tractatus de Proportionibus et Proportionalitatibus: Five Boethian Genera, Ten Means, Six Euclidean Modes & Golden Ratio",
+      "codex_unit": "unit_03_proportioni",
+      "euclid_refs": ["V.def.5", "V.16", "V.17", "V.18", "V.19", "V.22", "II.11", "VI.13", "VI.30"],
+      "sources": ["Euclid Book V", "Campanus", "Boethius", "Piero della Francesca", "Alberti", "Vitruvius"],
+      "divina_proportione_refs": ["Compendio Cap. V–XXIII", "Arbor Proportionis (fol. 0311)"]
+    },
+    {
+      "distinctio": "VII",
+      "folios": "fols. 98v–111v",
+      "title": "Restorative & Recreational Problems (De viribus quantitatis precursor)",
+      "codex_unit": "unit_02_algebra_cosa",
+      "euclid_refs": [],
+      "sources": ["Leonardo Pisano", "Alberti (Ludi rerum mathematicarum)"]
+    },
+    {
+      "distinctio": "VIII",
+      "folios": "fols. 112r–150r",
+      "title": "Arte Maggiore / Regola dela Cosa: Cossic Powers, Plus/Minus Signs, Euclid Book X Binomials & Residui, Six Canonical Quadratics & Verdict on Cubics",
+      "codex_unit": "unit_02_algebra_cosa",
+      "euclid_refs": ["II.4", "II.5", "II.6", "X.36", "X.73"],
+      "sources": ["Al-Khwārizmī", "Leonardo Pisano", "Piero della Francesca (Trattato d'abaco)"]
+    },
+    {
+      "distinctio": "IX, Tract. I–X",
+      "folios": "fols. 150v–198r",
+      "title": "Mercantile Practice: Compagnie, Soccite, Baratti, Cambi, Meriti/Sconti, Leghe delle Monete, Viaggi & Giuoco della Balla / Balestrare (Problem of Points)",
+      "codex_unit": "unit_04_computis_quaderno",
+      "euclid_refs": ["VII.19"],
+      "sources": ["Venetian Rialto Mercantile Custom", "Tuscan Abbaco Tradition"]
+    },
+    {
+      "distinctio": "IX, Tract. XI",
+      "folios": "fols. 198v–210v",
+      "title": "Particularis de Computis et Scripturis (36 Chapters): Double-Entry Bookkeeping al modo de Vinegia — Inventario, Memoriale, Giornale, Quaderno & Bilancio",
+      "codex_unit": "unit_04_computis_quaderno",
+      "euclid_refs": ["I.cn.2", "I.cn.3"],
+      "sources": ["Venetian Chancery & Rialto Counting-House Practice"]
+    },
+    {
+      "distinctio": "IX, Tract. XII",
+      "folios": "fols. 211r–224v",
+      "title": "Tariffa de tutti i costumi, cambi, monete, pesi e misure across Mediterranean Trading Cities",
+      "codex_unit": "unit_04_computis_quaderno",
+      "euclid_refs": [],
+      "sources": ["Chiarini / Venetian Merchant Manuals"]
+    }
+  ],
+  "part_ii_tractatus_geometriae": [
+    {
+      "distinctio": "I–II",
+      "folios": "Part II, fols. 1r–20v",
+      "title": "Triangles & Quadrilaterals: Euclid Books I–II Digest, Heron's (13, 14, 15) Formula & Cathetus",
+      "codex_unit": "unit_05_tractatus_geometriae",
+      "euclid_refs": ["I.1", "I.12", "I.22", "I.47", "II.12", "II.13", "IV.4", "IV.5"],
+      "sources": ["Euclid", "Heron of Alexandria", "Leonardo Pisano (Practica Geometriae)"]
+    },
+    {
+      "distinctio": "III",
+      "folios": "Part II, fols. 21r–33v",
+      "title": "Circles, Chords & Mountain Mensuration: Euclid Book III & Archimedes's 96-gon Pi Bounds",
+      "codex_unit": "unit_05_tractatus_geometriae",
+      "euclid_refs": ["III.31", "III.35", "XII.2"],
+      "sources": ["Archimedes (Dimensio Circuli)", "Ptolemy (Almagest)", "Leonardo Pisano"]
+    },
+    {
+      "distinctio": "IV",
+      "folios": "Part II, fols. 34r–43v",
+      "title": "De divisione superficierum: Proportional Division of Triangles, Polygons & Circles",
+      "codex_unit": "unit_05_tractatus_geometriae",
+      "euclid_refs": ["VI.1", "VI.10", "VI.13", "VI.19"],
+      "sources": ["Euclid (On Divisions of Figures)", "Muḥammad al-Baghdādī", "Leonardo Pisano"]
+    },
+    {
+      "distinctio": "V–VII",
+      "folios": "Part II, fols. 44r–68r",
+      "title": "Stereometry, Barrel Gauging (Botte), Instruments (Quadrante) & Algebraic-Geometric Circle Packings",
+      "codex_unit": "unit_05_tractatus_geometriae",
+      "euclid_refs": ["XI.def.14", "XII.10", "XII.18"],
+      "sources": ["Archimedes", "Leonardo Pisano", "Piero della Francesca"]
+    },
+    {
+      "distinctio": "VIII",
+      "folios": "Part II, fols. 68v–76r",
+      "title": "De corporibus regularibus & Paganini Colophon: Five Platonic & Dependent Archimedean Solids Inscribed in the Sphere",
+      "codex_unit": "unit_05_tractatus_geometriae",
+      "euclid_refs": ["XIII.13", "XIII.14", "XIII.15", "XIII.16", "XIII.17", "XIII.18"],
+      "sources": ["Euclid Book XIII", "Campanus Book XIV–XV", "Piero della Francesca (De quinque corporibus regularibus)"],
+      "divina_proportione_refs": ["Compendio Cap. XXIV–LV", "Libellus in tres partiales tractatus divisus (1509)"]
+    }
+  ]
+}

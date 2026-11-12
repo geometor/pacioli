@@ -1,0 +1,194 @@
+{
+  "cosa": {
+    "headword": "cosa (.co. / res / radix)",
+    "language": "Italian / Latin",
+    "translation": "First Unknown Power (x)",
+    "definition": "The primary algebraic unknown ('the Thing') in the Regola dela Cosa (Arte Maggiore, Summa Part I, Dist. VIII), printed with the syncopated abbreviation .co. and corresponding geometrically to the side of a square."
+  },
+  "censo": {
+    "headword": "censo (.ce. / census)",
+    "language": "Italian / Latin",
+    "translation": "Square of the Unknown (x^2)",
+    "definition": "The second Cossic power, equal to cosa multiplied by itself (x^2), abbreviated .ce. from the Latin census translating Arabic māl ('wealth' or 'square estate')."
+  },
+  "cubo": {
+    "headword": "cubo (.cu. / cubus)",
+    "language": "Italian / Latin",
+    "translation": "Cube of the Unknown (x^3)",
+    "definition": "The third Cossic power (x^3), abbreviated .cu.; on fol. 150r Pacioli famously noted that general equations mixing cubo, censo, cosa, and numero had not yet yielded to a universal rule."
+  },
+  "censo-de-censo": {
+    "headword": "censo de censo (.ce.ce.)",
+    "language": "Italian",
+    "translation": "Fourth Power / Biquadratic (x^4)",
+    "definition": "The fourth Cossic power ((x^2)^2 = x^4); Pacioli shows on fol. 149v–150r that biquadratic trinomials in .ce.ce., .ce., and numero reduce directly to the three compound quadratic canons."
+  },
+  "piu-e-meno": {
+    "headword": "più (.p̄.) e meno (.m̄.)",
+    "language": "Italian",
+    "translation": "Plus (+) and Minus (−) Operators",
+    "definition": "Syncopated operational signs standardized in print across Summa Dist. VIII for additive (.p̄.) and subtractive (.m̄.) terms, accompanied by the four sign laws of multiplication ('meno via meno fa più')."
+  },
+  "radice-universale": {
+    "headword": "radice legata / universale (.℞.u.)",
+    "language": "Italian",
+    "translation": "Compound Radical Grouping",
+    "definition": "Pacioli's prefix radical operator .℞.u. governing an entire binomial or polynomial radicand (playing the grouping role of the later vinculum over √(...))."
+  },
+  "binomio": {
+    "headword": "binomio (binomialis)",
+    "language": "Italian / Latin",
+    "translation": "Euclidean Binomial Irrational",
+    "definition": "An additive compound irrational a + √b or √a + √b classified into six species following Euclid Book X, Definitions II.1–6 and Propositions X.36–X.72."
+  },
+  "residuo": {
+    "headword": "residuo (apotome)",
+    "language": "Italian / Greek-Latin",
+    "translation": "Euclidean Apotome Irrational",
+    "definition": "A subtractive compound irrational such as √125 − 5 or 15 − √125 (the two segments of 10 divided in extreme and mean ratio), classified into six species following Euclid X.73."
+  },
+  "capitoli-composti": {
+    "headword": "capitoli composti (tre canoni composti)",
+    "language": "Italian",
+    "translation": "Three Compound Quadratic Canons",
+    "definition": "The three positive-coefficient three-term quadratic forms on fol. 145r: (1) censo + cose = numero, (2) censo + numero = cose, and (3) cose + numero = censo, proved geometrically on fol. 146r by Euclid II.4–II.6."
+  },
+  "proportione": {
+    "headword": "proportione (ratio / habitudo)",
+    "language": "Italian / Latin",
+    "translation": "Ratio Between Two Homogeneous Magnitudes",
+    "definition": "In Renaissance Euclidean terminology (fol. 68r–69v), the quantitative relation (habitudo) of one magnitude to another of the same kind—whereas a relation of ratios (a:b = c:d) is called proportionalità."
+  },
+  "proportionalita": {
+    "headword": "proportionalità (proportio / analogia)",
+    "language": "Italian / Latin",
+    "translation": "Similitude of Ratios (Proportion)",
+    "definition": "Equality or similitude of two or more ratios (e.g., continuous a:b = b:c or discontinuous a:b = c:d), governed by the six Euclidean modi arguendi on fol. 74r."
+  },
+  "multiplex": {
+    "headword": "multiplex (moltiplice)",
+    "language": "Latin / Italian",
+    "translation": "Multiple Genus of Ratio (n : 1)",
+    "definition": "First Boethian genus of greater inequality in which the antecedent contains the consequent an exact integer number n >= 2 times (dupla 2:1, tripla 3:1, quadrupla 4:1)."
+  },
+  "superparticularis": {
+    "headword": "superparticularis (superparticolare)",
+    "language": "Latin / Italian",
+    "translation": "Superparticular Genus ((n + 1) : n)",
+    "definition": "Second Boethian genus in which the greater term contains the lesser once plus a single aliquot part 1/n: sesquialtera (3:2, musical fifth), sesquitertia (4:3, musical fourth), sesquioctava (9:8, whole tone)."
+  },
+  "superpartiens": {
+    "headword": "superpartiens (superpartiente)",
+    "language": "Latin / Italian",
+    "translation": "Superpartient Genus ((n + r) : n, 1 < r < n)",
+    "definition": "Third Boethian genus in which the greater term contains the lesser once plus r > 1 proper parts (e.g., 5:3 = superbipartiens tertias)."
+  },
+  "modi-arguendi": {
+    "headword": "modi arguendi proportionalitatum",
+    "language": "Latin",
+    "translation": "Six Euclidean Transformational Modes of Proportion",
+    "definition": "The six inference rules expounded on fol. 74r from Euclid Book V: conversa, permutata (alternando), congionta (componendo), disgiunta (dividendo), eversa (convertendo), and equa (ex aequali)."
+  },
+  "media-et-estrema-ragione": {
+    "headword": "proportione avente el mezzo e doi estremi",
+    "language": "Italian",
+    "translation": "Extreme and Mean Ratio (Golden Section)",
+    "definition": "Euclidean division of a magnitude AB at C so AB : AC = AC : CB (Euclid II.11, VI.def.3, VI.30, XIII.1), called 'Divina Proportione' in Pacioli's 1509 treatise."
+  },
+  "numero-perfetto": {
+    "headword": "numero perfetto",
+    "language": "Italian",
+    "translation": "Perfect Number",
+    "definition": "An integer equal to the sum of its proper aliquot divisors (6, 28, 496, 8128, ...), generated via Euclid IX.36 on Summa Part I, fol. 8r whenever the geometric sum 2^n - 1 is prime."
+  },
+  "inventario": {
+    "headword": "inventario",
+    "language": "Italian",
+    "translation": "Opening Merchant Inventory",
+    "definition": "Complete dated enumeration on a single day of all cash, jewels, merchandise, real estate, debtors, and creditors owned by a merchant (De computis Cap. 2–3, fols. 198v–199r)."
+  },
+  "memoriale": {
+    "headword": "memoriale (squarzo / vacchetta)",
+    "language": "Italian / Venetian",
+    "translation": "Day-Book / Waste-Book Memorandum",
+    "definition": "First chronological book of the Venetian counting-house in which every transaction is written down immediately as it occurs by any clerk or factor in whatever local coinage was used (Cap. 5–6)."
+  },
+  "giornale": {
+    "headword": "giornale",
+    "language": "Italian",
+    "translation": "Venetian Journal",
+    "definition": "Second principal ledger book converting Memoriale items into uniform money of account using the syntax 'Per <Debitore> // A <Creditore>' with marginal Quaderno folio fractions (Cap. 10–12, fol. 201r–201v)."
+  },
+  "quaderno": {
+    "headword": "quaderno grande",
+    "language": "Italian",
+    "translation": "General Double-Entry Ledger",
+    "definition": "Third principal book indexed by an alphabetical Repertorio (Alfabeto), placing Dare (debits) on the left verso and Avere (credits) on the facing right recto in four currency columns l. s. g. p. (Cap. 13–14)."
+  },
+  "per-a": {
+    "headword": "Per // A",
+    "language": "Venetian Italian",
+    "translation": "Debit // Credit Journal Prepositions",
+    "definition": "Canonical Venetian Giornale markers explained in Cap. 11 (fol. 201r): 'Per' designates the debtor account first, separated by two oblique strokes '//' from 'A', which designates the creditor account."
+  },
+  "cassa": {
+    "headword": "cassa de contanti",
+    "language": "Italian",
+    "translation": "Cash Account",
+    "definition": "Real ledger account tracking physical specie on hand; in Cap. 12 (fol. 201r) Pacioli states the domain invariant that Cassa must always be debtor or zero—never creditor."
+  },
+  "cavedal": {
+    "headword": "cavedal (capitale)",
+    "language": "Venetian / Italian",
+    "translation": "Merchant's Capital Equity Account",
+    "definition": "Venetian orthography for capitale ('tutto il tuo monte corpo di facoltà presente', Cap. 12, fol. 201r), credited at opening against Inventario assets and credited/debited with net profit or loss from Pro e Danno at closing."
+  },
+  "pro-e-danno": {
+    "headword": "pro e danno (utile e danno)",
+    "language": "Venetian / Italian",
+    "translation": "Profit and Loss Summary Account",
+    "definition": "Summary nominal account (Cap. 27) collecting merchandise gains on Avere and losses/expenses on Dare before transferring net income into Cavedal."
+  },
+  "summa-summarum": {
+    "headword": "summa summarum",
+    "language": "Latin",
+    "translation": "Grand Trial Balance Equality",
+    "definition": "Grand total of all Dare postings and grand total of all Avere postings across the entire Quaderno (Cap. 34, 36); their exact equality confirms structural conservation before closing."
+  },
+  "bilancio-del-libro": {
+    "headword": "bilancio del libro",
+    "language": "Italian",
+    "translation": "Ledger Closing Balance Sheet",
+    "definition": "Closing summary procedure (Cap. 34) transferring open asset, debtor, creditor, and Cavedal balances from an exhausted Quaderno A into a fresh Quaderno B (marked with the Sign of the Cross +)."
+  },
+  "ducato-di-conto": {
+    "headword": "lira di grossi a oro (l. s. g. p.)",
+    "language": "Venetian",
+    "translation": "Venetian Four-Column Money of Account",
+    "definition": "Standard Venetian Quaderno accounting unit recorded on fol. 201v: 1 lira = 20 soldi = 10 gold ducats; 1 soldo = 12 grossi; 1 ducato = 24 grossi; 1 grosso = 32 piccoli (1 lira = 7,680 piccoli)."
+  },
+  "catetto": {
+    "headword": "catetto (cathetus)",
+    "language": "Italian / Greek-Latin",
+    "translation": "Perpendicular Altitude of a Triangle",
+    "definition": "Perpendicular dropped from a triangle vertex onto the opposite base; in Summa Part II, fol. 9v, dividing twice the Heron area (168) by base 14 yields catetto AD = 12."
+  },
+  "possanza": {
+    "headword": "possanza (potentia)",
+    "language": "Italian / Latin",
+    "translation": "Square of a Line Segment (Quadrance)",
+    "definition": "The area of the square on a segment (Euclidean dunamis / Wildberger quadrance): e.g., a sphere whose axis has possanza 48 (length √48) on Part II, fol. 70r."
+  },
+  "botte": {
+    "headword": "misura delle botti",
+    "language": "Italian",
+    "translation": "Wine-Barrel Stereometric Gauging",
+    "definition": "Practical solid mensuration in Summa Part II, Dist. V modeling curved wine casks as frusta of cones or averaged cylinders from bung and head diameters."
+  },
+  "balla": {
+    "headword": "giuoco della balla / balestrare",
+    "language": "Italian",
+    "translation": "Interrupted Ball or Crossbow Contest (Problem of Points)",
+    "definition": "Stake-division problem on Summa Part I, fol. 197r–197v asking how a pot of 10 ducats should be divided fairly when a race to 6 winning rounds is interrupted prematurely."
+  }
+}

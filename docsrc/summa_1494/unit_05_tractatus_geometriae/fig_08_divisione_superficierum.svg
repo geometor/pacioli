@@ -1,0 +1,222 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" width="420" height="300" class="euclid-graphic" data-graphic-id="summa.II.4.divisione" data-folio="Part II, fol. 35r" data-graphic="g1" data-proposition="VI.19">
+  <style>
+    :root {
+      --geom-fg: #18181b;
+      --geom-bg: #ffffff;
+      --geom-point-stroke: #ffffff;
+      --geom-poly-fill: #000000;
+      --geom-accent: #c88a1e;
+      --geom-assert: #16a34a;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #d6cfc5;
+        --geom-bg: #1e1e20;
+        --geom-point-stroke: #1e1e20;
+        --geom-poly-fill: #d6cfc5;
+        --geom-accent: #e8b85a;
+        --geom-assert: #5ec27e;
+      }
+    }
+    .euclid-graphic {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      background-color: var(--geom-bg);
+    }
+    .geom-line {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-bold {
+      stroke: var(--geom-fg);
+      stroke-width: 2.3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-circle, .geom-curve {
+      stroke: var(--geom-fg);
+      stroke-width: 1.7;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-arc {
+      stroke: var(--geom-fg);
+      stroke-width: 1.6;
+      stroke-linecap: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-dashed, .geom-aux {
+      stroke: var(--geom-fg);
+      stroke-width: 1.4;
+      stroke-dasharray: 4, 3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      opacity: 0.85;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-tick-mark {
+      stroke: var(--geom-assert);
+      stroke-width: 2;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-polygon {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.05;
+      stroke: none;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-polygon-gnomon {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.13;
+      stroke: none;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-point {
+      fill: var(--geom-fg);
+      stroke: var(--geom-point-stroke);
+      stroke-width: 1.1;
+      transition: fill 0.15s, r 0.15s;
+    }
+    .geom-label {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', sans-serif;
+      font-size: 13.5px;
+      font-weight: 700;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-sm {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      fill: var(--geom-fg);
+      opacity: 0.88;
+      user-select: none;
+    }
+    .geom-overlay {
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.12s ease;
+    }
+    [data-ref]:hover, .highlight, .geom-highlight-active {
+      opacity: 1 !important;
+      stroke: var(--geom-accent) !important;
+      cursor: pointer;
+    }
+    text[data-ref]:hover, text.highlight, text.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-polygon:hover, .geom-polygon.highlight, .geom-polygon-gnomon:hover, .geom-polygon-gnomon.highlight, polygon.geom-highlight-active {
+      opacity: 1 !important;
+      fill-opacity: 0.24 !important;
+      fill: var(--geom-accent) !important;
+      stroke: var(--geom-accent) !important;
+    }
+    .geom-point:hover, .geom-point.highlight, circle.geom-point.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-assert-active {
+      opacity: 1 !important;
+      stroke: var(--geom-assert) !important;
+    }
+    text.geom-assert-active {
+      opacity: 1 !important;
+      fill: var(--geom-assert) !important;
+      stroke: none !important;
+    }
+    polygon.geom-assert-active {
+      opacity: 1 !important;
+      fill-opacity: 0.22 !important;
+      fill: var(--geom-assert) !important;
+      stroke: var(--geom-assert) !important;
+    }
+    circle.geom-point.geom-assert-active {
+      opacity: 1 !important;
+      fill: var(--geom-assert) !important;
+      stroke: none !important;
+    }
+    path.geom-assert-active.geom-tick-1 {
+      marker-mid: url(#geom-tick-1);
+    }
+    path.geom-assert-active.geom-tick-2 {
+      marker-mid: url(#geom-tick-2);
+    }
+    path.geom-assert-active.geom-tick-3 {
+      marker-mid: url(#geom-tick-3);
+    }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-1.8" y1="-4.5" x2="-1.8" y2="4.5" class="geom-tick-mark" />
+      <line x1="1.8" y1="-4.5" x2="1.8" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-3.2" y1="-4.5" x2="-3.2" y2="4.5" class="geom-tick-mark" />
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+      <line x1="3.2" y1="-4.5" x2="3.2" y2="4.5" class="geom-tick-mark" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path id="el-arc-semiGB" data-ref="( M B )" data-type="arc" class="geom-dashed" d="M 342 248 A 133 133 0 0 0 76 248" />
+    <path id="el-arc-arcGS" data-ref="( G S )" data-type="arc" class="geom-arc" d="M 264.09 248 A 188.09 188.09 0 0 0 209 115" />
+  </g>
+  <g id="graphics">
+    <polygon id="el-poly-GBA" data-ref="&lt; G B A &gt;" data-type="polygon" points="76,248 342,248 171,20" class="geom-polygon" />
+    <polygon id="el-poly-GUV" data-ref="&lt; G U V &gt;" data-type="polygon" points="76,248 264.09,248 143.18,86.78" class="geom-polygon-gnomon" />
+    <path id="el-seg-GB" data-ref="/ G B /" data-type="segment" class="geom-bold" d="M 76 248 L 209 248 L 342 248" />
+    <path id="el-seg-GA" data-ref="/ G A /" data-type="segment" class="geom-bold" d="M 76 248 L 123.5 134 L 171 20" />
+    <path id="el-seg-BA" data-ref="/ B A /" data-type="segment" class="geom-bold" d="M 342 248 L 256.5 134 L 171 20" />
+    <path id="el-seg-UV" data-ref="/ U V /" data-type="segment" class="geom-bold" d="M 264.09 248 L 203.63 167.39 L 143.18 86.78" />
+    <path id="el-seg-MS" data-ref="/ M S /" data-type="segment" class="geom-dashed" d="M 209 248 L 209 181.5 L 209 115" />
+    <path id="el-seg-GS" data-ref="/ G S /" data-type="segment" class="geom-dashed" d="M 76 248 L 142.5 181.5 L 209 115" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <polygon id="hl-poly-GBA" data-ref="&lt; G B A &gt;" points="76,248 342,248 171,20" class="geom-polygon geom-overlay" />
+    <polygon id="hl-poly-GUV" data-ref="&lt; G U V &gt;" points="76,248 264.09,248 143.18,86.78" class="geom-polygon-gnomon geom-overlay" />
+    <path id="hl-arc-semiGB" data-ref="( M B )" class="geom-dashed geom-overlay" d="M 342 248 A 133 133 0 0 0 76 248" />
+    <path id="hl-arc-arcGS" data-ref="( G S )" class="geom-arc geom-overlay" d="M 264.09 248 A 188.09 188.09 0 0 0 209 115" />
+    <path id="hl-seg-GB" data-ref="/ G B /" class="geom-bold geom-overlay" d="M 76 248 L 209 248 L 342 248" />
+    <path id="hl-seg-GA" data-ref="/ G A /" class="geom-bold geom-overlay" d="M 76 248 L 123.5 134 L 171 20" />
+    <path id="hl-seg-BA" data-ref="/ B A /" class="geom-bold geom-overlay" d="M 342 248 L 256.5 134 L 171 20" />
+    <path id="hl-seg-UV" data-ref="/ U V /" class="geom-bold geom-overlay" d="M 264.09 248 L 203.63 167.39 L 143.18 86.78" />
+    <path id="hl-seg-MS" data-ref="/ M S /" class="geom-dashed geom-overlay" d="M 209 248 L 209 181.5 L 209 115" />
+    <path id="hl-seg-GS" data-ref="/ G S /" class="geom-dashed geom-overlay" d="M 76 248 L 142.5 181.5 L 209 115" />
+  </g>
+  <g id="points">
+    <circle id="el-pt-G" data-ref="G" data-type="point" cx="76" cy="248" r="3.4" class="geom-point" />
+    <circle id="el-pt-M" data-ref="M" data-type="point" cx="209" cy="248" r="3.4" class="geom-point" />
+    <circle id="el-pt-U" data-ref="U" data-type="point" cx="264.09" cy="248" r="3.4" class="geom-point" />
+    <circle id="el-pt-B" data-ref="B" data-type="point" cx="342" cy="248" r="3.4" class="geom-point" />
+    <circle id="el-pt-A" data-ref="A" data-type="point" cx="171" cy="20" r="3.4" class="geom-point" />
+    <circle id="el-pt-V" data-ref="V" data-type="point" cx="143.18" cy="86.78" r="3.4" class="geom-point" />
+    <circle id="el-pt-S" data-ref="S" data-type="point" cx="209" cy="115" r="3.4" class="geom-point" />
+  </g>
+  <g id="labels">
+    <text id="lbl-G" data-ref="G" x="66" y="260" text-anchor="end" class="geom-label">G</text>
+    <text id="lbl-M" data-ref="M" x="209" y="263" text-anchor="middle" class="geom-label">M</text>
+    <text id="lbl-U" data-ref="U" x="264.09" y="263" text-anchor="middle" class="geom-label">U</text>
+    <text id="lbl-B" data-ref="B" x="352" y="260" text-anchor="start" class="geom-label">B</text>
+    <text id="lbl-A" data-ref="A" x="171" y="10" text-anchor="middle" class="geom-label">A</text>
+    <text id="lbl-V" data-ref="V" x="133.18" y="82.78" text-anchor="end" class="geom-label">V</text>
+    <text id="lbl-S" data-ref="S" x="217" y="109" text-anchor="start" class="geom-label">S</text>
+    <text id="ann-div-lbl" x="209" y="279.35" text-anchor="middle" class="geom-label-sm">GU = GS = ℞(14·7) = ℞.98  ⇒  Area(GUV) = Area(UBAV) = 42</text>
+  </g>
+</svg>
