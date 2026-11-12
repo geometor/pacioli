@@ -1,0 +1,142 @@
+{
+  "pacioli:summa": {
+    "author": "Pacioli, Fra Luca (c. 1447 – 1517)",
+    "author_slug": "pacioli",
+    "work": "Summa de arithmetica, geometria, proportioni et proportionalita",
+    "work_slug": "summa",
+    "locus": "Venice: Paganino de' Paganini, Nov. 10–20, 1494"
+  },
+  "pacioli:divina-proportione": {
+    "author": "Pacioli, Fra Luca (c. 1447 – 1517)",
+    "author_slug": "pacioli",
+    "work": "De Divina Proportione",
+    "work_slug": "divina-proportione",
+    "locus": "Venice: Paganino de' Paganini, June 1, 1509"
+  },
+  "euclid:elements": {
+    "author": "Euclid of Alexandria (fl. c. 300 BC)",
+    "author_slug": "euclid",
+    "work": "Elements (Elementa Geometriae)",
+    "work_slug": "elements",
+    "locus": "Books I–XIII (with Campanus Books XIV–XV)"
+  },
+  "boethius:de-institutione-arithmetica": {
+    "author": "Boethius, Anicius Manlius Severinus (c. 480 – 524 AD)",
+    "author_slug": "boethius",
+    "work": "De Institutione Arithmetica",
+    "work_slug": "de-institutione-arithmetica",
+    "locus": "Books I–II"
+  },
+  "boethius:de-institutione-musica": {
+    "author": "Boethius, Anicius Manlius Severinus (c. 480 – 524 AD)",
+    "author_slug": "boethius",
+    "work": "De Institutione Musica",
+    "work_slug": "de-institutione-musica",
+    "locus": "Books I–V"
+  },
+  "leonardo-pisano:liber-abaci": {
+    "author": "Leonardo Pisano (Fibonacci, c. 1170 – c. 1250)",
+    "author_slug": "leonardo-pisano",
+    "work": "Liber Abaci",
+    "work_slug": "liber-abaci",
+    "locus": "Pisa, 1202 / rev. 1228"
+  },
+  "leonardo-pisano:practica-geometriae": {
+    "author": "Leonardo Pisano (Fibonacci, c. 1170 – c. 1250)",
+    "author_slug": "leonardo-pisano",
+    "work": "Practica Geometriae",
+    "work_slug": "practica-geometriae",
+    "locus": "Pisa, 1220"
+  },
+  "piero-della-francesca:trattato-dabaco": {
+    "author": "Francesca, Piero della (c. 1412 – 1492)",
+    "author_slug": "piero-della-francesca",
+    "work": "Trattato d'abaco",
+    "work_slug": "trattato-dabaco",
+    "locus": "Borgo Sansepolcro MS, c. 1470"
+  },
+  "piero-della-francesca:de-quinque-corporibus": {
+    "author": "Francesca, Piero della (c. 1412 – 1492)",
+    "author_slug": "piero-della-francesca",
+    "work": "Libellus de quinque corporibus regularibus",
+    "work_slug": "de-quinque-corporibus",
+    "locus": "Urbino MS Vat. Urb. lat. 632, c. 1485"
+  },
+  "piero-della-francesca:de-prospectiva-pingendi": {
+    "author": "Francesca, Piero della (c. 1412 – 1492)",
+    "author_slug": "piero-della-francesca",
+    "work": "De prospectiva pingendi",
+    "work_slug": "de-prospectiva-pingendi",
+    "locus": "Borgo Sansepolcro / Urbino, c. 1475"
+  },
+  "alberti:de-re-aedificatoria": {
+    "author": "Alberti, Leon Battista (1404 – 1472)",
+    "author_slug": "alberti",
+    "work": "De Re Aedificatoria Libri Decem",
+    "work_slug": "de-re-aedificatoria",
+    "locus": "Florence, 1485"
+  },
+  "vitruvius:de-architectura": {
+    "author": "Vitruvius Pollio, Marcus (1st century BC)",
+    "author_slug": "vitruvius",
+    "work": "De Architectura Libri Decem",
+    "work_slug": "de-architectura",
+    "locus": "Book III, Cap. 1"
+  },
+  "archimedes:dimensio-circuli": {
+    "author": "Archimedes of Syracuse (c. 287 – 212 BC)",
+    "author_slug": "archimedes",
+    "work": "Dimensio Circuli (On the Measurement of the Circle)",
+    "work_slug": "dimensio-circuli",
+    "locus": "Propositions 1–3"
+  },
+  "archimedes:de-sphaera-et-cylindro": {
+    "author": "Archimedes of Syracuse (c. 287 – 212 BC)",
+    "author_slug": "archimedes",
+    "work": "De Sphaera et Cylindro",
+    "work_slug": "de-sphaera-et-cylindro",
+    "locus": "Book I"
+  },
+  "jordanus:arithmetica": {
+    "author": "Jordanus Nemorarius (fl. early 13th century)",
+    "author_slug": "jordanus-nemorarius",
+    "work": "De elementis arismetice artis",
+    "work_slug": "arithmetica",
+    "locus": "Books I–X"
+  },
+  "sacrobosco:algorismus": {
+    "author": "Sacrobosco, Johannes de (c. 1195 – c. 1256)",
+    "author_slug": "sacrobosco",
+    "work": "Algorismus Vulgaris",
+    "work_slug": "algorismus",
+    "locus": "Paris, c. 1230"
+  },
+  "al-khwarizmi:algebra": {
+    "author": "al-Khwārizmī, Muḥammad ibn Mūsā (c. 780 – c. 850)",
+    "author_slug": "al-khwarizmi",
+    "work": "Al-Kitāb al-mukhtaṣar fī ḥisāb al-jabr wa'l-muqābala",
+    "work_slug": "algebra",
+    "locus": "Latin translation of Robert of Chester / Gerard of Cremona"
+  },
+  "campanus:elements": {
+    "author": "Campanus of Novara (c. 1220 – 1296)",
+    "author_slug": "campanus",
+    "work": "Preclarissimus liber elementorum Euclidis perspicacissimi in artem Geometrie",
+    "work_slug": "elements",
+    "locus": "Venice: Erhard Ratdolt, May 25, 1482"
+  },
+  "cardano:ars-magna": {
+    "author": "Cardano, Gerolamo (1501 – 1576)",
+    "author_slug": "cardano",
+    "work": "Artis Magnae, sive de Regulis Algebraicis Liber Unus",
+    "work_slug": "ars-magna",
+    "locus": "Nuremberg: Johannes Petreius, 1545, Cap. I"
+  },
+  "pascal-fermat:correspondence-1654": {
+    "author": "Pascal, Blaise & Pierre de Fermat",
+    "author_slug": "pascal",
+    "work": "Correspondence on the Problem of Points (La règle des partis)",
+    "work_slug": "correspondence-1654",
+    "locus": "Paris & Toulouse, July – October 1654"
+  }
+}

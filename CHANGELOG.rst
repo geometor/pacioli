@@ -1,3 +1,12 @@
+0.4.0 (2026-11-12)
+------------------
+
+*   Added the **Summa de Arithmetica, Geometria, Proportioni et Proportionalita (Venice, 1494)** Book Codex (``docsrc/summa_1494/``) alongside *De Divina Proportione* (1509):
+
+    *   Visually verified 32 folios of the November 10–20, 1494 Paganino de' Paganini *editio princeps* across 5 canonical units with 4 synchronized companion tracks (**English**, **Italiano 1494**, **Summary**, and **Notes**) and dedicated apparatus registries (``resources/summa_1494/{sources_manifest,concordance,persons,citations,glossary}.json``).
+    *   Generated 9 interactive ``.euclid-graphic`` vector SVGs (``svg_woodcut.py``) wired to ``:g:``, ``:eq:``, and ``:just:`` roles across polygonal/perfect numbers, Cossic quadratic gnomons, Euclid Book X binomials/apotomes, semicircle three means, golden division of ``10``, Venetian *Quaderno* conservation, Heron's ``(13, 14, 15)`` triangle, *De divisione superficierum*, and inscribed polyhedra in the sphere of diameter ``6``.
+    *   Added exact ``SymPy`` and ``geometor.model`` symbolic modules (``proportions.py``, ``tractatus_geometriae.py``, ``ledger_conservation.py``, ``svg_woodcut.py``), comprehensive ``pytest`` unit tests (``tests/``), and runnable CLI demonstrations (``demos/summa_*.py``).
+
 0.3.2 (2026-10-29)
 ------------------
 
