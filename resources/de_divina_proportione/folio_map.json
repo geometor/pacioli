@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "work": "De Divina Proportione (1509)",
+    "commentary": "Constantin Winterberg (1889)",
+    "source": "resources/de_divina_proportione/winterberg.txt"
+  },
+  "folios": {
+    "S. III–V, 1–15": {
+      "de": "resources/de_divina_proportione/winterberg/00_intro/002_introduction.txt#L2",
+      "en": "resources/de_divina_proportione/winterberg_en/00_intro/002_introduction.txt#L1",
+      "default": "resources/de_divina_proportione/winterberg.txt#L104"
+    },
+    "pp. III–V, 1–15": {
+      "en": "resources/de_divina_proportione/winterberg_en/00_intro/002_introduction.txt#L1",
+      "de": "resources/de_divina_proportione/winterberg/00_intro/002_introduction.txt#L2",
+      "default": "resources/de_divina_proportione/winterberg.txt#L104"
+    },
+    "Winterberg S. 338–352": "resources/de_divina_proportione/winterberg.txt#L15197",
+    "Winterberg pp. 338–352": "resources/de_divina_proportione/winterberg.txt#L15197"
+  }
+}
