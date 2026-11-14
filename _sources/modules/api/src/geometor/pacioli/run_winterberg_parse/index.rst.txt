@@ -1,6 +1,0 @@
-src.geometor.pacioli.run_winterberg_parse
-=========================================
-
-.. py:module:: src.geometor.pacioli.run_winterberg_parse
-
-

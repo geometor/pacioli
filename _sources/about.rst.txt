@@ -1,8 +1,9 @@
 :navigation: footer
 :order: 10
+:nav_title: About
 
 =====
-about
+About
 =====
 
 ``geometor.pacioli`` is part of the **GEOMETOR** initiative by **phi ARCHITECT**, dedicated to the digital reconstruction and geometric analysis of :person:`Fra Luca Pacioli's <pacioli>` treatises.

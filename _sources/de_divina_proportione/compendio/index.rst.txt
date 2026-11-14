@@ -1,4 +1,3 @@
-:layout: book
 :title: Part I: Compendio de Divina Proportione
 
 .. _compendio-index:
@@ -10,8 +9,8 @@ Part I: Compendio de Divina Proportione (Chapters I–LXXI)
 
 Dedicated to :person:`**Ludovico Maria Sforza** <ludovico-sforza>`, Duke of Milan (completed at Milan, December 14, 1498; printed at Venice by :person:`Paganino de' Paganini <paganino-de-paganini>`, June 1, 1509). Each chapter is presented in four synchronized companion tracks: **English**, **Italiano (1509)**, **Deutsch (Winterberg 1889)**, and **Critical Notes**.
 
-Conspectus Capitum (Part I)
----------------------------
+Overview of Chapters (Part I)
+-----------------------------
 
 - **Cap. I** (*Folio 0017–0018 (f. 1r–f. 1v)*): Epistle on the :term:`Divine Proportion <divina-proportione>` to the Most Excellent Prince :person:`Ludovico Maria Sforza Anglo <ludovico-sforza>`, Duke of Milan, Ornament of Peace and War, by Brother :person:`Luca Pacioli <pacioli>` of :term:`Borgo Sansepolcro <san-sepolcro>` of the Order of Minorites, Professor of Sacred Theology
   [:ref:`English <compendio-cap_01-en>` · :ref:`Italiano <compendio-cap_01-it>` · :ref:`Deutsch <compendio-cap_01-de>` · :ref:`Notes <compendio-cap_01-notes>`]

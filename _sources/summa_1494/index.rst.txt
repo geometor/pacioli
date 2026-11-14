@@ -1,18 +1,28 @@
 :navigation: header
 :order: 2
+:nav_title: Summa (1494)
 :layout: book
 :book_title: Summa de Arithmetica, Geometria, Proportioni et Proportionalita
-:book_subtitle: Fra Luca Pacioli • Venice 1494
+:book_subtitle: Fra Luca Pacioli (Venice, 1494)
 :author: Fra Luca Pacioli
 :publisher: Paganinus de Paganinis de Brixia (Venice, Nov. 10–20, 1494)
 :year: 1494
 
 .. _summa-1494-index:
 
-SUMMA DE ARITHMETICA, GEOMETRIA, PROPORTIONI ET PROPORTIONALITA
+===============================================================
+Summa de Arithmetica, Geometria, Proportioni et Proportionalita
 ===============================================================
 
 .. rubric:: Fra Luca Pacioli (Venice, 1494) — Critical Multi-Track Digital Codex & Symbolic Edition
+
+.. container:: title-page
+
+   | **Author:** :person:`Fra Luca Pacioli <pacioli>`, O.F.M. (c. 1447–1517)
+   | **Printer:** :person:`Paganino de' Paganini <paganino-de-paganini>` (Venice, November 1494)
+   | **Patrons:** :person:`Guidobaldo da Montefeltro <guidobaldo-da-montefeltro>`, Duke of Urbino & :person:`Marco Sanudo <marco-sanudo>`
+   | **First Edition:** Venice: Paganino de' Paganini (1494)
+   | **GEOMETOR Edition:** 616-folio critical reconstruction · 9 interactive vector diagrams · Synchronized English, Italian, Summary, & Notes tracks
 
 A folio-verified digital edition of :person:`Fra Luca Pacioli's <pacioli>` encyclopedic Renaissance masterpiece, :cite:`*Summa de arithmetica, geometria, proportioni et proportionalita* <pacioli:summa>` (printed in Venice by :person:`Paganino de' Paganini <paganino-de-paganini>`, November 10–20, 1494, under :person:`Doge Agostino Barbarigo <agostino-barbarigo>` and dedicated to :person:`Guidobaldo da Montefeltro <guidobaldo-da-montefeltro>`, Duke of Urbino, and the Venetian patrician :person:`Marco Sanudo <marco-sanudo>`).
 
@@ -23,8 +33,8 @@ As the first printed Renaissance synthesis of speculative arithmetic, Hindu–Ar
 - **Summary**: Executive mathematical and architectural digest of definitions, algorithms, conservation laws, and exact ``SymPy`` / ``geometor.model`` invariants.
 - **Notes**: Historical, philological, and deductive commentary tracing Pacioli's sources in :person:`Euclid <euclid>`, :person:`Boethius <boethius>`, :person:`Al-Khwārizmī <al-khwarizmi>`, :person:`Leonardo Pisano <leonardo-pisano>`, :person:`Jordanus Nemorarius <jordanus-nemorarius>`, :person:`Campanus of Novara <campanus>`, and :person:`Piero della Francesca <piero-della-francesca>`, forward to :person:`Scipione del Ferro <scipione-del-ferro>`, :person:`Gerolamo Cardano <cardano>`, :person:`Blaise Pascal <pascal>`, and :person:`Pierre de Fermat <fermat>`.
 
-Conspectus Totius Operis
-------------------------
+Table of Contents
+-----------------
 
 - :ref:`Unit I — Preliminaries & Speculative Arithmetic (Prelim. fols. 1r–8v; Part I, Dist. I, fols. 1r–18v) <summa-unit-01-en>`
   - *Continentia de tutta lopera*, Latin Epistle to :person:`Marco Sanudo <marco-sanudo>`, Epigrams of :person:`Paolo Pompilio <pompilio>` and :person:`Giorgio Sommaripa <giorgio-sommaripa>`, Italian and Latin Dedications to :person:`Duke Guidobaldo da Montefeltro <guidobaldo-da-montefeltro>`, the Quadrivium Hierarchy, Explicit Debt to :person:`Leonardo Pisano <leonardo-pisano>`, Polygonal Figurate Numbers, and :just:`IX.36` Generation of :term:`Perfect Numbers <numero-perfetto>` (`fol. 8r`).
@@ -81,9 +91,11 @@ Conspectus Totius Operis
    unit_04_computis_quaderno/unit_04_computis_quaderno_notes
    unit_05_tractatus_geometriae/unit_05_tractatus_geometriae_notes
 
+Scholarly Apparatus
+-------------------
+
 .. toctree::
    :maxdepth: 1
-   :caption: Scholarly Apparatus
 
    bibliography
    persons

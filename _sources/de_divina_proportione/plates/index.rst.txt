@@ -1,4 +1,3 @@
-:layout: book
 :title: Appendices: Woodcut Plates & Mathematical Commentary
 
 .. _plates-index:

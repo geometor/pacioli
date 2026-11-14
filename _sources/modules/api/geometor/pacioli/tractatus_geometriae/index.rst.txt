@@ -1,0 +1,314 @@
+geometor.pacioli.tractatus_geometriae
+=====================================
+
+.. py:module:: geometor.pacioli.tractatus_geometriae
+
+.. autoapi-nested-parse::
+
+   Exact symbolic constructions from Part II (*Tractatus Geometriae*) of *Summa* (1494).
+
+   Models three landmark geometric treatises from Part II of Fra Luca Pacioli's
+   *Summa de arithmetica, geometria, proportioni et proportionalita* (Venice, Nov. 10, 1494):
+
+   1. **Heron's Formula & the ``(13, 14, 15)`` Triangle** (*Part II, Distinctio I, Cap. 8*,
+      fol. 9v): Pure straightedge-and-compass ``geometor.model.Model`` construction of
+      :math:`\triangle G B A` with sides :math:`GA=13, GB=14, AB=15`, cathetus :math:`AD=12`,
+      base segments :math:`GD=5, DB=9`, Heron product :math:`6 \cdot 7 \cdot 8 \cdot 21 = 7056`,
+      area :math:`\sqrt{7056} = 84`, rational incenter :math:`I=(6,4)` (:math:`r=4`), and
+      rational circumcenter :math:`O=(7, 33/8)` (:math:`R=65/8`).
+   2. **Proportional Division of Triangles** (*Part II, Distinctio IV: De divisione
+      superficierum*, after Leonardo Pisano's *Practica Geometriae*): Exact Euclidean division
+      of :math:`\triangle G B A` in ratio :math:`p : q` both through a vertex cevian (``VI.1``)
+      and by a line parallel to the base constructed via the semicircle geometric mean
+      (``VI.13``, ``VI.19``).
+   3. **Regular & Archimedean Polyhedra Inscribed in the Sphere** (*Part II, Distinctio VIII:
+      De corporibus regularibus*, fols. 68v–70r): Exact closed-form edge lengths, squared edges
+      (*possanze*), surface areas, and volumes over :math:`\mathbb{Q}(\sqrt{2}, \sqrt{3}, \phi)`
+      for a sphere of diameter :math:`D = 6` (including the truncated tetrahedron of edge
+      :math:`\sqrt{72/11} = \sqrt{6\frac{6}{11}}` and cuboctahedron of edge :math:`3` on fol. 69v,
+      and the dodecahedron of edge :math:`\sqrt{20}-2` in the sphere of axis :math:`\sqrt{48}` on fol. 70r).
+
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   geometor.pacioli.tractatus_geometriae.HeronTriangleResult
+   geometor.pacioli.tractatus_geometriae.TriangleDivisionResult
+   geometor.pacioli.tractatus_geometriae.InscribedPolyhedronSpec
+   geometor.pacioli.tractatus_geometriae.DodecahedronAxis48Result
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.pacioli.tractatus_geometriae.construct_heron_13_14_15
+   geometor.pacioli.tractatus_geometriae.construct_triangle_division_cevian
+   geometor.pacioli.tractatus_geometriae.construct_triangle_division_parallel
+   geometor.pacioli.tractatus_geometriae.inscribed_polyhedra_sphere_table
+   geometor.pacioli.tractatus_geometriae.dodecahedron_in_sphere_sqrt48
+
+
+Module Contents
+---------------
+
+.. py:class:: HeronTriangleResult
+
+   Exact symbolic invariants of Pacioli's ``(13, 14, 15)`` triangle (Part II, fol. 9v).
+
+
+   .. py:attribute:: model
+      :type:  geometor.model.Model
+
+
+   .. py:attribute:: pt_g
+      :type:  sympy.geometry.Point
+
+
+   .. py:attribute:: pt_b
+      :type:  sympy.geometry.Point
+
+
+   .. py:attribute:: pt_a
+      :type:  sympy.geometry.Point
+
+
+   .. py:attribute:: pt_d
+      :type:  sympy.geometry.Point
+
+
+   .. py:attribute:: incenter
+      :type:  sympy.geometry.Point
+
+
+   .. py:attribute:: circumcenter
+      :type:  sympy.geometry.Point
+
+
+   .. py:attribute:: sides
+      :type:  tuple[sympy.Integer, sympy.Integer, sympy.Integer]
+
+
+   .. py:attribute:: perimeter
+      :type:  sympy.Integer
+
+
+   .. py:attribute:: semiperimeter
+      :type:  sympy.Integer
+
+
+   .. py:attribute:: excesses
+      :type:  tuple[sympy.Integer, sympy.Integer, sympy.Integer]
+
+
+   .. py:attribute:: heron_radicand
+      :type:  sympy.Integer
+
+
+   .. py:attribute:: area
+      :type:  sympy.Integer
+
+
+   .. py:attribute:: altitude
+      :type:  sympy.Integer
+
+
+   .. py:attribute:: base_segments
+      :type:  tuple[sympy.Integer, sympy.Integer]
+
+
+   .. py:attribute:: inradius
+      :type:  sympy.Integer
+
+
+   .. py:attribute:: circumradius
+      :type:  sympy.Rational
+
+
+.. py:class:: TriangleDivisionResult
+
+   Exact symbolic outputs for dividing a triangle's area in ratio ``p : q``.
+
+
+   .. py:attribute:: model
+      :type:  geometor.model.Model
+
+
+   .. py:attribute:: method
+      :type:  str
+
+
+   .. py:attribute:: ratio_p
+      :type:  sympy.Integer
+
+
+   .. py:attribute:: ratio_q
+      :type:  sympy.Integer
+
+
+   .. py:attribute:: total_area
+      :type:  sympy.Expr
+
+
+   .. py:attribute:: part_1_area
+      :type:  sympy.Expr
+
+
+   .. py:attribute:: part_2_area
+      :type:  sympy.Expr
+
+
+   .. py:attribute:: cut_points
+      :type:  tuple[sympy.geometry.Point, ...]
+
+
+.. py:class:: InscribedPolyhedronSpec
+
+   Exact symbolic metrics of a regular or Archimedean solid in a sphere of diameter ``D``.
+
+
+   .. py:attribute:: key
+      :type:  str
+
+
+   .. py:attribute:: italian_name
+      :type:  str
+
+
+   .. py:attribute:: faces_description
+      :type:  str
+
+
+   .. py:attribute:: sphere_diameter
+      :type:  sympy.Expr
+
+
+   .. py:attribute:: edge_squared
+      :type:  sympy.Expr
+
+
+   .. py:attribute:: edge
+      :type:  sympy.Expr
+
+
+   .. py:attribute:: surface_area
+      :type:  sympy.Expr
+
+
+   .. py:attribute:: volume
+      :type:  sympy.Expr
+
+
+   .. py:attribute:: folio_citation
+      :type:  str
+
+
+.. py:class:: DodecahedronAxis48Result
+
+   Exact symbolic metrics for Problem 21 on Part II, fol. 70r (sphere axis ``sqrt(48)``).
+
+
+   .. py:attribute:: sphere_axis_squared
+      :type:  sympy.Integer
+
+
+   .. py:attribute:: sphere_axis
+      :type:  sympy.Expr
+
+
+   .. py:attribute:: inscribed_cube_edge_squared
+      :type:  sympy.Integer
+
+
+   .. py:attribute:: inscribed_cube_edge
+      :type:  sympy.Integer
+
+
+   .. py:attribute:: dodecahedron_edge
+      :type:  sympy.Expr
+
+
+   .. py:attribute:: extreme_mean_minor_part
+      :type:  sympy.Expr
+
+
+.. py:function:: construct_heron_13_14_15() -> HeronTriangleResult
+
+   Construct and verify Pacioli's ``(13, 14, 15)`` Heron triangle (Part II, fol. 9v).
+
+   On Part II, fol. 9v (*Distinctio prima, Capitulum octavum*), Pacioli computes for
+   :math:`\triangle ABG` with :math:`AG=13`, :math:`BG=14`, :math:`AB=15`:
+
+   - Perimeter :math:`13 + 14 + 15 = 42`, semiperimeter :math:`s = 21`,
+   - Excesses :math:`(s - 15, s - 14, s - 13) = (6, 7, 8)`,
+   - Product :math:`6 \cdot 7 \cdot 8 = 336`, and :math:`336 \cdot 21 = 7056`,
+   - Area :math:`\sqrt{7056} = 84` *braccia quadre*, cathetus :math:`AD = 12`, segments :math:`5, 9`.
+
+   :returns: Exact :class:`HeronTriangleResult` containing the proven ``Model`` and invariants.
+
+
+.. py:function:: construct_triangle_division_cevian(ratio_p: int = 1, ratio_q: int = 2) -> TriangleDivisionResult
+
+   Divide :math:`\triangle GBA` (``13, 14, 15``) in ratio ``p : q`` by a vertex cevian.
+
+   Implements the first problem of *Part II, Distinctio IV: De divisione superficierum*
+   (following Euclid ``VI.1`` and Leonardo Pisano's *Practica Geometriae*): dividing base
+   :math:`GB` at :math:`K` in ratio :math:`p : q` via Thales's intercept construction (``VI.10``)
+   so :math:`\text{Area}(\triangle GAK) : \text{Area}(\triangle KAB) = p : q`.
+
+   :param ratio_p: Positive integer share adjacent to ``G`` (default ``1``).
+   :param ratio_q: Positive integer share adjacent to ``B`` (default ``2``).
+
+   :returns: Exact :class:`TriangleDivisionResult` with verified polygonal areas.
+
+
+.. py:function:: construct_triangle_division_parallel(ratio_p: int = 1, ratio_q: int = 1) -> TriangleDivisionResult
+
+   Divide :math:`\triangle GBA` in ratio ``p : q`` by a cut parallel to side ``BA``.
+
+   Implements Pacioli's *De divisione superficierum* (*Part II, Distinctio IV*, Euclid
+   ``VI.13`` + ``VI.19``): to cut off :math:`\triangle GUV \sim \triangle GBA` with
+   :math:`\text{Area}(\triangle GUV) / \text{Area}(\triangle GBA) = p / (p + q)`, first divide
+   :math:`GB` at :math:`K` with :math:`GK / GB = p / (p+q)`, then construct the geometric mean
+   :math:`GU = \sqrt{GB \cdot GK}` via a semicircle on :math:`GB` and draw :math:`UV \parallel BA`.
+
+   :param ratio_p: Positive integer share for sub-triangle ``GUV`` (default ``1``, bisecting area).
+   :param ratio_q: Positive integer share for trapezoid ``UBAV`` (default ``1``).
+
+   :returns: Exact :class:`TriangleDivisionResult` with verified radical cut coordinates and rational areas.
+
+
+.. py:function:: inscribed_polyhedra_sphere_table(diameter: int | sympy.Expr = 6) -> dict[str, InscribedPolyhedronSpec]
+
+   Compute exact symbolic metrics for regular & Archimedean solids in a sphere of diameter ``D``.
+
+   Defaults to ``diameter = 6`` (*Summa* Part II, *Distinctio VIII: De corporibus regularibus*,
+   fol. 69v–70r), reproducing both Euclid Book XIII's five regular solids and Pacioli's
+   dependent Archimedean solids inherited from Piero della Francesca:
+
+   - ``truncated_tetrahedron`` (fol. 69v, prob. 15–16): :math:`e^2 = \frac{2}{11} D^2`
+     (:math:`= \frac{72}{11} = 6\frac{6}{11}` for :math:`D=6`, matching Pacioli's ``℞.6 6/11``!).
+   - ``cuboctahedron`` (fol. 69v–70r, prob. 17–19): :math:`e = \frac{1}{2} D`
+     (:math:`= 3` *braccia* for :math:`D=6`).
+
+   :param diameter: Exact positive sphere diameter ``D`` (default ``6``).
+
+   :returns: Dictionary mapping solid keys to :class:`InscribedPolyhedronSpec`.
+
+
+.. py:function:: dodecahedron_in_sphere_sqrt48() -> DodecahedronAxis48Result
+
+   Reproduce Problem 21 on Part II, fol. 70r (dodecahedron in sphere of axis ``sqrt(48)``).
+
+   On fol. 70r, Pacioli takes a sphere whose axis has squared length (*possanza*) ``48``:
+   by Euclid ``XIII.15``, the inscribed cube has squared edge ``48 / 3 = 16``, so edge ``4``;
+   dividing ``4`` in extreme and mean ratio (Campanus ``XIV.18`` / Euclid ``XIII.17`` corollary)
+   yields major part ``sqrt(20) - 2`` (the dodecahedron edge) and minor part ``6 - sqrt(20)``.
+
+   :returns: Exact :class:`DodecahedronAxis48Result` verified against :func:`inscribed_polyhedra_sphere_table`.
+
+
