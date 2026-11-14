@@ -39,17 +39,18 @@ Scholarly Apparatus & Reader's Guide
 
 * :doc:`People <persons>` — Unified biographical register of Renaissance masters, commentators, and editors (:doc:`Pacioli <persons>`, :doc:`Leonardo <persons>`, :doc:`Piero della Francesca <persons>`, :doc:`Winterberg <persons>`).
 * :doc:`Bibliography <bibliography>` — Primary incunables, critical editions, and manuscript traditions for both treatises.
+* :doc:`About This Edition <about/index>` — Critical overview, GEOMETOR mission, and archival provenance.
 * :doc:`Using This Edition <usage/index>` — Complete reader's guide to parallel tracks, folio milestones, woodcuts, search, and collection layouts.
 
 .. toctree::
    :hidden:
    :maxdepth: 2
 
+   about/index
    de_divina_proportione/index
    summa_1494/index
    persons
    bibliography
-   mission/index
    usage/index
    demos/index
    log/index
