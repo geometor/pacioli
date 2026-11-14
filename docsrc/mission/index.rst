@@ -1,12 +1,14 @@
 :navigation: header
 :order: 10
+:nav_title: Mission
 
-mission
+=======
+Mission
 =======
 
-    track and analyze the works of :person:`Fra Luca Pacioli <pacioli>`
+    Track and analyze the mathematical and architectural works of :person:`Fra Luca Pacioli <pacioli>`.
 
-goals
+Goals
 -----
 
 .. collection::

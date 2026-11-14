@@ -26,3 +26,5 @@ repo = "pacioli"
 repo_name = "pacioli"
 
 setup_globals(org, org_name, repo, repo_name)  # noqa: F405
+
+autoapi_dirs = [str(_REPO_ROOT / "src" / "geometor")]
