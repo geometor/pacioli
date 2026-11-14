@@ -1,3 +1,8 @@
+0.4.1 (2026-11-13)
+------------------
+
+*   Added track-aware primary-source folio map (``resources/summa_1494/folio_map.json``) resolving 517/517 folio directives and 400/400 header badges across *De Divina Proportione* (1509) and *Summa de Arithmetica* (1494).
+
 0.4.0 (2026-11-12)
 ------------------
 
