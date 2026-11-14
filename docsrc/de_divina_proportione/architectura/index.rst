@@ -1,4 +1,3 @@
-:layout: book
 :title: Part II: Tractato de l'Architectura
 
 .. _architectura-index:
@@ -10,8 +9,8 @@ Part II: Tractato de l'Architectura (Prohemio & Chapters I–XX)
 
 Dedicated to :person:`Pacioli's <pacioli>` beloved disciples and pupils of :term:`Borgo Sansepolcro <san-sepolcro>` (1509 Paganini Folios 0061–0082, ``f. 23r``–``f. 33v``). Each chapter is presented in four synchronized companion tracks: **English**, **Italiano (1509)**, **Deutsch (Winterberg 1889)**, and **Critical Notes**.
 
-Conspectus Capitum (Part II)
-----------------------------
+Overview of Chapters (Part II)
+------------------------------
 
 - **Prohemio (Dedication)** (*Folio 0061–0065 (f. 23r–f. 25r)*): Epistle Dedicatory to His Dearest Disciples and Pupils—Cesare dal Sasso, Cera del Cera, Rainer Francesco di Pippo, Bernardino and Marsilio da Monte, Girolamo del Fecciarino, and Companions of :term:`Borgo Sansepolcro <san-sepolcro>`, Worthy Stonemasons and Zealous Followers of the Sculptural and Architectural Art—by :person:`Fra Luca Pacioli <pacioli>`, Their Fellow Countryman of the Order of Friars Minor and Professor of Sacred Theology.
   [:ref:`English <architectura-dedication-en>` · :ref:`Italiano <architectura-dedication-it>` · :ref:`Deutsch <architectura-dedication-de>` · :ref:`Notes <architectura-dedication-notes>`]
