@@ -20,11 +20,14 @@ import geometor.pacioli as module  # noqa: E402
 version = module.__version__
 
 org = "geometor"
-org_name = "geometor"
+org_name = "GEOMETOR"
 
 repo = "pacioli"
 repo_name = "pacioli"
 
 setup_globals(org, org_name, repo, repo_name)  # noqa: F405
+
+html_static_path = ["_static"]
+html_css_files = [*globals().get("html_css_files", []), "css/custom.css"]
 
 autoapi_dirs = [str(_REPO_ROOT / "src" / "geometor")]

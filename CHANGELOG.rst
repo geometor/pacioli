@@ -1,3 +1,8 @@
+0.4.4 (2026-11-15)
+------------------
+
+- Restructured the Table of Contents and part overviews across *De Divina Proportione* (``docsrc/de_divina_proportione/{index,compendio/index,architectura/index,plates/index}.rst``) and *Summa de Arithmetica* (``docsrc/summa_1494/index.rst``) into clean hierarchical outlines (``.. container:: toc-outline``), resolving collapsed nested sub-lists, inline floating ``:just:`` badge fragmentation, and duplicate visible ``.. toctree::`` lists while preserving ``Prev`` / ``Next`` book navigation.
+
 0.4.3 (2026-11-14)
 ------------------
 

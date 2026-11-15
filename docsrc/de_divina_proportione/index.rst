@@ -25,34 +25,49 @@ De Divina Proportione
    | **Printer:** :person:`Paganino de' Paganini <paganino-de-paganini>` (Venice, June 1, 1509)
    | **GEOMETOR Edition:** 318 archival folio scans · 482 woodcut plates & Leonardo polyhedra · Synchronized English, Italian, German, & Notes tracks
 
-A unified digital edition of :person:`Fra Luca Pacioli's <pacioli>` :cite:`*De Divina Proportione* <pacioli:divina-proportione>` (Venice: :person:`Paganino de' Paganini <paganino-de-paganini>`, June 1, 1509), integrating the 318 high-resolution folio scans and 482 recalibrated woodcuts (214 illuminated initials, 180 marginal geometric diagrams, 23 Roman geometric alphabet plates, 5 architectural and *Arbor Proportionis* plates, and :person:`Leonardo da Vinci's <leonardo>` 60 polyhedra plates) with four synchronized companion tracks:
+A folio-verified critical edition of :person:`Fra Luca Pacioli's <pacioli>` :cite:`*De Divina Proportione* <pacioli:divina-proportione>` (Venice, June 1, 1509), uniting the 318 high-resolution folio scans and 482 recalibrated woodcuts (214 initials, 180 marginal geometric diagrams, 23 Roman alphabet plates, 5 architectural and *Arbor Proportionis* plates, and :person:`Leonardo da Vinci's <leonardo>` 60 polyhedra plates) across four synchronized tracks: **English** (GEOMETOR translation), **Italiano** (1509 Paganini diplomatic text), **Deutsch** (Winterberg 1889 critical translation), and **Notes** (historical & mathematical commentary).
 
-- **English (GEOMETOR Edition)**: Unabridged scholarly English translation with Euclidean dependency markup (``:just:``, ``:g:``, ``.. enunciation::``, ``.. assertion::``, ``.. qed::``, ``.. folio::``) across all chapters and plates.
-- **Italiano (1509 / 1889)**: Diplomatic Italian text from the 1509 Venice Paganini edition and :person:`Constantin Winterberg <winterberg>`'s 1889 Vienna edition.
-- **Deutsch (1889)**: :person:`Constantin Winterberg <winterberg>`'s German critical translation (:cite:`*Quellenschriften für Kunstgeschichte* <eitelberger:quellenschriften>`, Vienna, 1889).
-- **Notes & Commentary**: Historical, prosopographical, architectural, and mathematical apparatus for every chapter, incorporating :person:`Constantin Winterberg <winterberg>`'s 1889 *Vorwort & Einleitung* and all seventeen *Sachliche Anmerkungen*.
+----
+
+.. _table-of-contents:
 
 Table of Contents
 -----------------
 
-- :ref:`Winterberg's Critical Introduction (Vienna, 1889, pp. III–V, 1–15) <winterberg-intro-en>` ([:ref:`English <winterberg-intro-en>` · :ref:`Deutsch <winterberg-intro-de>`])
-- :ref:`Part I: Compendio de Divina Proportione (Chapters I–LXXI, Folios 0017–0061) <compendio-index>`
-  - **Section 1 (Cap. I–VI)**: Dedicatory Epistle, Eulogy of Mathematics, Definition of the :term:`Divine Proportion <divina-proportione>`, and Its Five Divine Attributes
-  - **Section 2 (Cap. VII–XXIII)**: The Thirteen Marvelous Effects of the :term:`Divine Proportion <divina-proportione>` in Lines and Regular Polygons (:just:`XIII.1`–:just:`XIII.12`, :just:`X.73`, :just:`X.76`)
-  - **Section 3 (Cap. XXIV–LV)**: The Five Regular Platonic Solids, Proof of Their Uniqueness (:just:`XI.21`), Constructions (:just:`XIII.13`–:just:`XIII.18`), Proportions (Book XIV), Twelve Mutual Inscriptions (Book XV), and Truncated/Elevated Dependent Bodies (Plates I–XL)
-  - **Section 4 (Cap. LVI–LXXI)**: The Sphere, Oblong Bodies (Columns and Pyramids), Mensuration, Panegyric to :person:`Ludovico Sforza <ludovico-sforza>`, Concordance of :person:`Leonardo's <leonardo>` Plates, and Mathematical Glossary (Plates XLI–LIX)
-- :ref:`Part II: Tractato de l'Architectura (Prohemio & Chapters I–XX, Folios 0061–0082) <architectura-index>`
-  - **Prohemio**: Dedication to the Stonemasons of :term:`Borgo Sansepolcro <san-sepolcro>`, Promise of :person:`Piero della Francesca's <piero-della-francesca>` Perspective, and Roll of Honor of the Captains of Sansepolcro
-  - **Chapters I–III**: Vitruvian Human Proportions, the Head in the Equilateral Triangle (:just:`I.1`), the Painter's Net (*Rete*), and the Perfect Numbers 6, 10, and 16 (:just:`IX.36`)
-  - **Chapters IV–XX**: The Classical Orders (Ionic, Doric, Corinthian), Bases, Stylobates, Stereobates, Survey of Columns Across Italy, Epistyles, Friezes, Cornices, the :term:`*Porta Speciosa* <porta-speciosa>`, Polyhedra in Architecture, and Superimposed Columns
-- :ref:`Appendices: Roman Alphabet, Architectural Plates, Leonardo Polyhedra Plates & Winterberg's Mathematical Commentary <plates-index>`
-  - **Appendix I**: :ref:`The Roman Geometric Alphabet (Folios 0139–0183) <plates-alphabet-en>`
-  - **Appendix II**: :ref:`Architectural Plates & Arbor Proportionis (Folios 0137, 0185, 0213, 0215, 0311) <plates-architectural-en>`
-  - **Appendix III**: :ref:`Polyhedra Plates by Leonardo da Vinci (Plates I–LIX, Folios 0187–0309) <plates-polyhedra-en>`
-  - **Appendix IV**: :ref:`Winterberg's Substantive Mathematical Notes (Sachliche Anmerkungen 1–17, 1889, pp. 338–352) <plates-anmerkungen-en>`
+.. container:: toc-outline
+
+   - **Frontmatter**
+
+     - :ref:`Winterberg's Critical Introduction (Vienna, 1889) <winterberg-intro-en>` — *pp. III–V, 1–15* ([:ref:`English <winterberg-intro-en>` · :ref:`Deutsch <winterberg-intro-de>`])
+
+   - **Part I —** :ref:`Compendio de Divina Proportione <compendio-index>` *(Cap. I–LXXI · Folios 0017–0061, f. 1r–23r)*
+
+     - **I.** :ref:`Dedication, Preface & Nature of the Mathematical Sciences <compendio-sec-1>` *(Cap. I–VI)* — Epistle to :person:`Ludovico Sforza <ludovico-sforza>`, eulogy of the quadrivium, and the five divine attributes of the :term:`Divine Proportion <divina-proportione>`
+     - **II.** :ref:`The Thirteen Marvelous Effects in Lines & Regular Polygons <compendio-sec-2>` *(Cap. VII–XXIII)* — Extreme and mean ratio in segments, hexagons, decagons, and pentagons *(Euclid XIII.1–12, X.73, X.76)*
+     - **III.** :ref:`The Five Regular Bodies, Mutual Inscriptions & Dependent Solids <compendio-sec-3>` *(Cap. XXIV–LV · Plates I–XL)* — Uniqueness *(XI.21)*, constructions *(XIII.13–18)*, proportions *(Book XIV)*, twelve mutual inscriptions *(Book XV)*, and truncated/elevated bodies
+     - **IV.** :ref:`Sphere, Columns, Pyramids, Plate Concordance & Glossary <compendio-sec-4>` *(Cap. LVI–LXXI · Plates XLI–LIX)* — Stereometric mensuration, Milanese panegyric, order of :person:`Leonardo's <leonardo>` perspective models, and mathematical terms
+
+   - **Part II —** :ref:`Tractato de l'Architectura <architectura-index>` *(Prohemio & Cap. I–XX · Folios 0061–0082, f. 23r–33v)*
+
+     - **I.** :ref:`Prohemio to the Stonemasons of Borgo Sansepolcro <architectura-sec-1>` *(f. 23r–25r)* — Disciples of :term:`Borgo Sansepolcro <san-sepolcro>` and promise of :person:`Piero della Francesca's <piero-della-francesca>` perspective
+     - **II.** :ref:`Vitruvian Human Proportions <architectura-sec-2>` *(Cap. I–III)* — Head in the equilateral triangle *(Euclid I.1)*, perspective net (*rete*), and perfect numbers 6, 10, and 16 *(IX.36)*
+     - **III.** :ref:`Columns, Classical Orders & Architectural Solids <architectura-sec-3>` *(Cap. IV–XI)* — Corinthian, Ionic, and Doric orders, stylobates, columns across Italy, pyramids, and ancient letters
+     - **IV.** :ref:`Entablature, Porta Speciosa & Superimposed Orders <architectura-sec-4>` *(Cap. XII–XX)* — Intercolumniations, triglyphs, epistyle, frieze, cornice, :term:`*Porta Speciosa* <porta-speciosa>`, and polyhedra in architecture
+
+   - **Appendices —** :ref:`Woodcut Plates (1509) & Mathematical Commentary (1889) <plates-index>`
+
+     - **I.** :ref:`The Roman Geometric Alphabet <plates-alphabet-en>` *(23 Plates · Folios 0139–0183)*
+     - **II.** :ref:`Architectural Plates & Arbor Proportionis <plates-architectural-en>` *(5 Plates · Folios 0137, 0185, 0213, 0215, 0311)*
+     - **III.** :ref:`Polyhedra Plates by Leonardo da Vinci <plates-polyhedra-en>` *(Plates I–LIX · Folios 0187–0309)*
+     - **IV.** :ref:`Winterberg's Substantive Mathematical Notes <plates-anmerkungen-en>` *(Sachliche Anmerkungen 1–17 · 1889, pp. 338–352)*
+
+   - **Scholarly Apparatus**
+
+     - :doc:`Bibliography & Cited Works <bibliography>` · :doc:`Index of Persons <persons>` · :doc:`Technical Glossary <glossary>`
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
 
    intro/intro_en
    compendio/index
@@ -66,11 +81,10 @@ Table of Contents
 
    intro/intro_de
 
-Scholarly Apparatus
--------------------
-
 .. toctree::
    :maxdepth: 1
+   :hidden:
+   :caption: Scholarly Apparatus
 
    bibliography
    persons

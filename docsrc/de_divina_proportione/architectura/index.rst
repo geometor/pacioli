@@ -1,62 +1,84 @@
 :title: Part II: Tractato de l'Architectura
+:layout: book
 
 .. _architectura-index:
 
-Part II: Tractato de l'Architectura (Prohemio & Chapters I–XX)
-==============================================================
+Part II: Tractato de l'Architectura
+===================================
 
-.. rubric:: Dedicated to the Stonemasons, Sculptors, and Disciples of Borgo Sansepolcro (1509)
+.. rubric:: Prohemio & Chapters I–XX · Dedicated to the Stonemasons & Disciples of Borgo Sansepolcro (1509)
 
-Dedicated to :person:`Pacioli's <pacioli>` beloved disciples and pupils of :term:`Borgo Sansepolcro <san-sepolcro>` (1509 Paganini Folios 0061–0082, ``f. 23r``–``f. 33v``). Each chapter is presented in four synchronized companion tracks: **English**, **Italiano (1509)**, **Deutsch (Winterberg 1889)**, and **Critical Notes**.
+Printed at Venice in 1509 (*Folios 0061–0082, f. 23r–33v*). Opening any chapter provides synchronized switching across **English**, **Italiano (1509)**, **Deutsch (1889)**, and **Critical Notes**.
 
-Overview of Chapters (Part II)
-------------------------------
+----
 
-- **Prohemio (Dedication)** (*Folio 0061–0065 (f. 23r–f. 25r)*): Epistle Dedicatory to His Dearest Disciples and Pupils—Cesare dal Sasso, Cera del Cera, Rainer Francesco di Pippo, Bernardino and Marsilio da Monte, Girolamo del Fecciarino, and Companions of :term:`Borgo Sansepolcro <san-sepolcro>`, Worthy Stonemasons and Zealous Followers of the Sculptural and Architectural Art—by :person:`Fra Luca Pacioli <pacioli>`, Their Fellow Countryman of the Order of Friars Minor and Professor of Sacred Theology.
-  [:ref:`English <architectura-dedication-en>` · :ref:`Italiano <architectura-dedication-it>` · :ref:`Deutsch <architectura-dedication-de>` · :ref:`Notes <architectura-dedication-notes>`]
-- **Cap. I** (*Folio 0065–0067 (f. 25r–f. 26r)*): On the Measure and Proportions of the Human Body, of the Head, and of Its Other Members as the Model and Simulacrum of Architecture.
-  [:ref:`English <architectura-cap_01-en>` · :ref:`Italiano <architectura-cap_01-it>` · :ref:`Deutsch <architectura-cap_01-de>` · :ref:`Notes <architectura-cap_01-notes>`]
-- **Cap. II** (*Folio 0067–0068 (f. 26r–f. 26v)*): On the Distance from the Profile to the Nape (:term:`*Cotozzo* <cotozzo>`) of the Said Head, on the Proportions of the Eye and Ear, and on the Painter's Perspective Net (*Rete*).
-  [:ref:`English <architectura-cap_02-en>` · :ref:`Italiano <architectura-cap_02-it>` · :ref:`Deutsch <architectura-cap_02-de>` · :ref:`Notes <architectura-cap_02-notes>`]
-- **Cap. III** (*Folio 0068–0069 (f. 26v–f. 27r)*): On the Proportion of the Whole Well-Disposed Human Body to Its Head and Other Members According to Length and Breadth, and on the Perfect Numbers Six, Ten, and Sixteen.
-  [:ref:`English <architectura-cap_03-en>` · :ref:`Italiano <architectura-cap_03-it>` · :ref:`Deutsch <architectura-cap_03-de>` · :ref:`Notes <architectura-cap_03-notes>`]
-- **Cap. IV** (*Folio 0069–0070 (f. 27r–f. 27v)*): On Round Columns with Their Bases, Capitals, and Pedestals or Stylobates, and How the Corinthian Capital and Its Four Tetrants Are Constructed.
-  [:ref:`English <architectura-cap_04-en>` · :ref:`Italiano <architectura-cap_04-it>` · :ref:`Deutsch <architectura-cap_04-de>` · :ref:`Notes <architectura-cap_04-notes>`]
-- **Cap. V** (*Folio 0071 (f. 28r)*): On the Length (Height), Thickness, Entasis, and Base (*Spira*) of the Round Column.
-  [:ref:`English <architectura-cap_05-en>` · :ref:`Italiano <architectura-cap_05-it>` · :ref:`Deutsch <architectura-cap_05-de>` · :ref:`Notes <architectura-cap_05-notes>`]
-- **Cap. VI** (*Folio 0071–0072 (f. 28r–f. 28v)*): On the Order and Construction of the :term:`Stylobate <stilobata>` (Pedestal or Base-Pillar) of the Column, the :term:`Stereobate <steriobata>` Foundation, the Ancient Roman Alphabet, and the Three Sets of Sixty Polyhedra Models Made by :person:`Pacioli <pacioli>` alongside :person:`Leonardo da Vinci <leonardo>`.
-  [:ref:`English <architectura-cap_06-en>` · :ref:`Italiano <architectura-cap_06-it>` · :ref:`Deutsch <architectura-cap_06-de>` · :ref:`Notes <architectura-cap_06-notes>`]
-- **Cap. VII** (*Folio 0073–0074 (f. 29r–f. 29v)*): Wherein the Three Species of Columns—Ionic, Doric, and Corinthian—Differ from One Another, and :person:`Vitruvius <vitruvius>`'s Account of Their Origin and of :person:`Callimachus <callimachus>`'s Invention of the Corinthian Capital.
-  [:ref:`English <architectura-cap_07-en>` · :ref:`Italiano <architectura-cap_07-it>` · :ref:`Deutsch <architectura-cap_07-de>` · :ref:`Notes <architectura-cap_07-notes>`]
-- **Cap. VIII** (*Folio 0074–0075 (f. 29v–f. 30r)*): Where Columns Most Duly Made by the Ancients and Moderns Are Found Today in Italy, Critique of :person:`Leon Battista Alberti <alberti>`, and the Most Perfect Column in Venice at the Ca' Grande (Frari).
-  [:ref:`English <architectura-cap_08-en>` · :ref:`Italiano <architectura-cap_08-it>` · :ref:`Deutsch <architectura-cap_08-de>` · :ref:`Notes <architectura-cap_08-notes>`]
-- **Cap. IX** (*Folio 0075–0076 (f. 30r–f. 30v)*): On Lateral (Prismatic) Columns in Architecture, and on the Quadrature of the Circle.
-  [:ref:`English <architectura-cap_09-en>` · :ref:`Italiano <architectura-cap_09-it>` · :ref:`Deutsch <architectura-cap_09-de>` · :ref:`Notes <architectura-cap_09-notes>`]
-- **Cap. X** (*Folio 0076 (f. 30v)*): On Round and Lateral Pyramids in Architecture, and Praise of :person:`Leonardo da Vinci's <leonardo>` Incomparable Drawings.
-  [:ref:`English <architectura-cap_10-en>` · :ref:`Italiano <architectura-cap_10-it>` · :ref:`Deutsch <architectura-cap_10-de>` · :ref:`Notes <architectura-cap_10-notes>`]
-- **Cap. XI** (*Folio 0076 (f. 30v)*): On the Origin of the Letters of Every Nation, Egyptian Hieroglyphs on Roman Obelisks, the Anecdote on the Piazza San Marco in Venice, and Tribute to the Late Cardinal :person:`Galeotto Franciotti della Rovere <galeotto-della-rovere>`.
-  [:ref:`English <architectura-cap_11-en>` · :ref:`Italiano <architectura-cap_11-it>` · :ref:`Deutsch <architectura-cap_11-de>` · :ref:`Notes <architectura-cap_11-notes>`]
-- **Cap. XII** (*Folio 0077 (f. 31r)*): On the Orders and Spacing (Intercolumniations / Tetrants) of Round Columns in Buildings, and How the Architect Must Adapt Symmetry to the Site and Load (:person:`Vitruvius <vitruvius>` Book V).
-  [:ref:`English <architectura-cap_12-en>` · :ref:`Italiano <architectura-cap_12-it>` · :ref:`Deutsch <architectura-cap_12-de>` · :ref:`Notes <architectura-cap_12-notes>`]
-- **Cap. XIII** (*Folio 0078 (f. 31v)*): On the Intervals Between One Triglyph and Another.
-  [:ref:`English <architectura-cap_13-en>` · :ref:`Italiano <architectura-cap_13-it>` · :ref:`Deutsch <architectura-cap_13-de>` · :ref:`Notes <architectura-cap_13-notes>`]
-- **Cap. XIV** (*Folio 0078 (f. 31v)*): On the Epistyle—Called the :term:`Architrave <epistilio>` by the Moderns—and Why Excessive Intercolumniations Crack Stone Architraves (:person:`Vitruvius <vitruvius>` Book III).
-  [:ref:`English <architectura-cap_14-en>` · :ref:`Italiano <architectura-cap_14-it>` · :ref:`Deutsch <architectura-cap_14-de>` · :ref:`Notes <architectura-cap_14-notes>`]
-- **Cap. XV** (*Folio 0079 (f. 32r)*): On the Zophorus (Frieze) Above the Epistyle.
-  [:ref:`English <architectura-cap_15-en>` · :ref:`Italiano <architectura-cap_15-it>` · :ref:`Deutsch <architectura-cap_15-de>` · :ref:`Notes <architectura-cap_15-notes>`]
-- **Cap. XVI** (*Folio 0079 (f. 32r)*): On the Composition and Mouldings of the Cornice (:term:`*Cornicione* <cornicione>`).
-  [:ref:`English <architectura-cap_16-en>` · :ref:`Italiano <architectura-cap_16-it>` · :ref:`Deutsch <architectura-cap_16-de>` · :ref:`Notes <architectura-cap_16-notes>`]
-- **Cap. XVII** (*Folio 0079 (f. 32r)*): On the Site of the :term:`Triglyphs <tygraphi>` and the Union of All the Preceding Parts in the Temple Portal Called :term:`*Porta Speciosa* <porta-speciosa>` (Plate 0185).
-  [:ref:`English <architectura-cap_17-en>` · :ref:`Italiano <architectura-cap_17-it>` · :ref:`Deutsch <architectura-cap_17-de>` · :ref:`Notes <architectura-cap_17-notes>`]
-- **Cap. XVIII** (*Folio 0080 (f. 32v)*): How Stonemasons and Sculptors Are Highly Commended for Placing the Regular and Dependent Polyhedra in Their Works, and How :person:`Phidias <phidias>` Placed the :term:`Icosahedron <icosahedron>` in the Temple of Ceres in Rome.
-  [:ref:`English <architectura-cap_18-en>` · :ref:`Italiano <architectura-cap_18-it>` · :ref:`Deutsch <architectura-cap_18-de>` · :ref:`Notes <architectura-cap_18-notes>`]
-- **Cap. XIX** (*Folio 0080–0081 (f. 32v–f. 33r)*): How the Architect Must Govern Himself in Cramped and Irregular Sites, Why Continuous Geometric Proportion Is Wider Than Discrete Numerical Proportion, and Praise of Master :person:`Piero della Francesca <piero-della-francesca>`.
-  [:ref:`English <architectura-cap_19-en>` · :ref:`Italiano <architectura-cap_19-it>` · :ref:`Deutsch <architectura-cap_19-de>` · :ref:`Notes <architectura-cap_19-notes>`]
-- **Cap. XX** (*Folio 0081–0082 (f. 33r–f. 33v)*): On Columns Placed Above Other Columns in Multi-Story Buildings (:person:`Vitruvius <vitruvius>` Book V), the 1498 Disputation in the Castello Sforzesco with Count Onofrio Paganini of Brescia, and Colophon of the 1509 Venice Edition.
-  [:ref:`English <architectura-cap_20-en>` · :ref:`Italiano <architectura-cap_20-it>` · :ref:`Deutsch <architectura-cap_20-de>` · :ref:`Notes <architectura-cap_20-notes>`]
+Outline of Chapters
+-------------------
+
+.. _architectura-sec-1:
+
+I. Prohemio — Dedication to Borgo Sansepolcro
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. container:: toc-outline
+
+   - *Folios 0061–0065 (f. 23r–25r)*
+
+     - :ref:`Prohemio (Dedication) <architectura-dedication-en>` — Epistle Dedicatory to the Stonemasons, Sculptors, and Disciples of :term:`Borgo Sansepolcro <san-sepolcro>` *(f. 23r–f. 25r)*
+
+.. _architectura-sec-2:
+
+II. Vitruvian Human Proportions (Cap. I–III)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. container:: toc-outline
+
+   - *Folios 0065–0069 (f. 25r–27r)*
+
+     - :ref:`Cap. I <architectura-cap_01-en>` — On the Measure and Proportions of the Human Body, of the Head, and of Its Other Members as the Model and Simulacrum of Architecture *(f. 25r–f. 26r)*
+     - :ref:`Cap. II <architectura-cap_02-en>` — On the Distance from the Profile to the Nape (:term:`*Cotozzo* <cotozzo>`) of the Said Head, on the Proportions of the Eye and Ear, and on the Painter's Perspective Net (*Rete*) *(f. 26r–f. 26v)*
+     - :ref:`Cap. III <architectura-cap_03-en>` — On the Proportion of the Whole Well-Disposed Human Body to Its Head and Other Members According to Length and Breadth, and on the Perfect Numbers Six, Ten, and Sixteen *(f. 26v–f. 27r)*
+
+.. _architectura-sec-3:
+
+III. Columns, Classical Orders & Architectural Solids (Cap. IV–XI)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. container:: toc-outline
+
+   - *Folios 0069–0076 (f. 27r–30v)*
+
+     - :ref:`Cap. IV <architectura-cap_04-en>` — On Round Columns with Their Bases, Capitals, and Pedestals or Stylobates, and How the Corinthian Capital and Its Four Tetrants Are Constructed *(f. 27r–f. 27v)*
+     - :ref:`Cap. V <architectura-cap_05-en>` — On the Length (Height), Thickness, Entasis, and Base (*Spira*) of the Round Column *(f. 28r)*
+     - :ref:`Cap. VI <architectura-cap_06-en>` — On the Order and Construction of the :term:`Stylobate <stilobata>` (Pedestal or Base-Pillar) of the Column, the :term:`Stereobate <steriobata>` Foundation, the Ancient Roman Alphabet, and the Three Sets of Sixty Polyhedra Models Made by :person:`Pacioli <pacioli>` alongside :person:`Leonardo da Vinci <leonardo>` *(f. 28r–f. 28v)*
+     - :ref:`Cap. VII <architectura-cap_07-en>` — Wherein the Three Species of Columns—Ionic, Doric, and Corinthian—Differ from One Another, and :person:`Vitruvius <vitruvius>`'s Account of Their Origin and of :person:`Callimachus <callimachus>`'s Invention of the Corinthian Capital *(f. 29r–f. 29v)*
+     - :ref:`Cap. VIII <architectura-cap_08-en>` — Where Columns Most Duly Made by the Ancients and Moderns Are Found Today in Italy, Critique of :person:`Leon Battista Alberti <alberti>`, and the Most Perfect Column in Venice at the Ca' Grande (Frari) *(f. 29v–f. 30r)*
+     - :ref:`Cap. IX <architectura-cap_09-en>` — On Lateral (Prismatic) Columns in Architecture, and on the Quadrature of the Circle *(f. 30r–f. 30v)*
+     - :ref:`Cap. X <architectura-cap_10-en>` — On Round and Lateral Pyramids in Architecture, and Praise of :person:`Leonardo da Vinci's <leonardo>` Incomparable Drawings *(f. 30v)*
+     - :ref:`Cap. XI <architectura-cap_11-en>` — On the Origin of the Letters of Every Nation, Egyptian Hieroglyphs on Roman Obelisks, the Anecdote on the Piazza San Marco in Venice, and Tribute to the Late Cardinal :person:`Galeotto Franciotti della Rovere <galeotto-della-rovere>` *(f. 30v)*
+
+.. _architectura-sec-4:
+
+IV. Entablature, Porta Speciosa & Structural Harmony (Cap. XII–XX)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. container:: toc-outline
+
+   - *Folios 0077–0082 (f. 31r–33v)*
+
+     - :ref:`Cap. XII <architectura-cap_12-en>` — On the Orders and Spacing (Intercolumniations / Tetrants) of Round Columns in Buildings, and How the Architect Must Adapt Symmetry to the Site and Load (:person:`Vitruvius <vitruvius>` Book V) *(f. 31r)*
+     - :ref:`Cap. XIII <architectura-cap_13-en>` — On the Intervals Between One Triglyph and Another *(f. 31v)*
+     - :ref:`Cap. XIV <architectura-cap_14-en>` — On the Epistyle—Called the :term:`Architrave <epistilio>` by the Moderns—and Why Excessive Intercolumniations Crack Stone Architraves (:person:`Vitruvius <vitruvius>` Book III) *(f. 31v)*
+     - :ref:`Cap. XV <architectura-cap_15-en>` — On the Zophorus (Frieze) Above the Epistyle *(f. 32r)*
+     - :ref:`Cap. XVI <architectura-cap_16-en>` — On the Composition and Mouldings of the Cornice (:term:`*Cornicione* <cornicione>`) *(f. 32r)*
+     - :ref:`Cap. XVII <architectura-cap_17-en>` — On the Site of the :term:`Triglyphs <tygraphi>` and the Union of All the Preceding Parts in the Temple Portal Called :term:`*Porta Speciosa* <porta-speciosa>` (Plate 0185) *(f. 32r)*
+     - :ref:`Cap. XVIII <architectura-cap_18-en>` — How Stonemasons and Sculptors Are Highly Commended for Placing the Regular and Dependent Polyhedra in Their Works, and How :person:`Phidias <phidias>` Placed the :term:`Icosahedron <icosahedron>` in the Temple of Ceres in Rome *(f. 32v)*
+     - :ref:`Cap. XIX <architectura-cap_19-en>` — How the Architect Must Govern Himself in Cramped and Irregular Sites, Why Continuous Geometric Proportion Is Wider Than Discrete Numerical Proportion, and Praise of Master :person:`Piero della Francesca <piero-della-francesca>` *(f. 32v–f. 33r)*
+     - :ref:`Cap. XX <architectura-cap_20-en>` — On Columns Placed Above Other Columns in Multi-Story Buildings (:person:`Vitruvius <vitruvius>` Book V), the 1498 Disputation in the Castello Sforzesco with Count Onofrio Paganini of Brescia, and Colophon of the 1509 Venice Edition *(f. 33r–f. 33v)*
 
 .. toctree::
    :maxdepth: 1
+   :hidden:
    :caption: Prohemio & Chapters I–XX (English)
 
    dedication/dedication_en
