@@ -6,13 +6,14 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>0.4.3 (2026-11-14) &mdash; geometor • pacioli</title>
+  <title>0.4.4 (2026-11-15) &mdash; GEOMETOR • pacioli</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=ea5fcf70" />
-  <link rel="stylesheet" type="text/css" href="_static/css/styles.css?v=8713e751" />
+  <link rel="stylesheet" type="text/css" href="_static/css/styles.css?v=99410eb1" />
   <link rel="stylesheet" type="text/css" href="_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" type="text/css" href="_static/css/custom.css?v=07535334" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
@@ -27,7 +28,7 @@
         <img src="_static/logo.png" class="logo" alt="Logo"/>
       </a>
       <div class="org-repo">
-        <span class="org">geometor</span>
+        <span class="org">GEOMETOR</span>
         •
         <span class="repo">pacioli</span>
       </div>
@@ -74,7 +75,7 @@
           <div class="book-header-identity">
             <a class="book-portal-link" href="index.html" title="Return to Project Portal">&larr; pacioli</a>
             <span class="book-header-sep">/</span>
-            <a class="book-title-link" href="index.html">geometor • pacioli</a>
+            <a class="book-title-link" href="index.html">GEOMETOR • pacioli</a>
           </div>
         </div>
         <div class="book-header-nav">
@@ -90,25 +91,31 @@
       </header>
       <div class="content body book-content" role="main">
         <section class="level-2" id="id1">
-        <h2>0.4.3 (2026-11-14)<a class="headerlink" href="#id1" title="Link to this heading">¶</a></h2>
+        <h2>0.4.4 (2026-11-15)<a class="headerlink" href="#id1" title="Link to this heading">¶</a></h2>
+        <ul class="simple">
+        <li><p>Restructured the Table of Contents and part overviews across <em>De Divina Proportione</em> (<code class="docutils literal notranslate"><span class="pre">docsrc/de_divina_proportione/{index,compendio/index,architectura/index,plates/index}.rst</span></code>) and <em>Summa de Arithmetica</em> (<code class="docutils literal notranslate"><span class="pre">docsrc/summa_1494/index.rst</span></code>) into clean hierarchical outlines (<code class="docutils literal notranslate"><span class="pre">..</span> <span class="pre">container::</span> <span class="pre">toc-outline</span></code>), resolving collapsed nested sub-lists, inline floating <code class="docutils literal notranslate"><span class="pre">:just:</span></code> badge fragmentation, and duplicate visible <code class="docutils literal notranslate"><span class="pre">..</span> <span class="pre">toctree::</span></code> lists while preserving <code class="docutils literal notranslate"><span class="pre">Prev</span></code> / <code class="docutils literal notranslate"><span class="pre">Next</span></code> book navigation.</p></li>
+        </ul>
+        </section>
+        <section class="level-2" id="id2">
+        <h2>0.4.3 (2026-11-14)<a class="headerlink" href="#id2" title="Link to this heading">¶</a></h2>
         <ul class="simple">
         <li><p>Standardized top-level <code class="docutils literal notranslate"><span class="pre">About</span></code> page (<code class="docutils literal notranslate"><span class="pre">docsrc/about/index.rst</span></code> promoted to top header <code class="docutils literal notranslate"><span class="pre">:order:</span> <span class="pre">10</span></code>) with the three-pillar GEOMETOR semantic-extraction mission and archival provenance; retired <code class="docutils literal notranslate"><span class="pre">docsrc/mission/</span></code> stubs cleanly into Home and <code class="docutils literal notranslate"><span class="pre">About</span></code>.</p></li>
         </ul>
         </section>
-        <section class="level-2" id="id2">
-        <h2>0.4.2 (2026-11-14)<a class="headerlink" href="#id2" title="Link to this heading">¶</a></h2>
+        <section class="level-2" id="id3">
+        <h2>0.4.2 (2026-11-14)<a class="headerlink" href="#id3" title="Link to this heading">¶</a></h2>
         <ul class="simple">
         <li><p>Standardized Book Title Page, top-level header navigation (<code class="docutils literal notranslate"><span class="pre">Book</span></code>, <code class="docutils literal notranslate"><span class="pre">People</span></code>, <code class="docutils literal notranslate"><span class="pre">Bibliography</span></code>, <code class="docutils literal notranslate"><span class="pre">Usage</span></code>), Reader’s Guide (<code class="docutils literal notranslate"><span class="pre">docsrc/usage/</span></code>), featured Author and Translator profiles in People, and English structural terminology.</p></li>
         </ul>
         </section>
-        <section class="level-2" id="id3">
-        <h2>0.4.1 (2026-11-13)<a class="headerlink" href="#id3" title="Link to this heading">¶</a></h2>
+        <section class="level-2" id="id4">
+        <h2>0.4.1 (2026-11-13)<a class="headerlink" href="#id4" title="Link to this heading">¶</a></h2>
         <ul class="simple">
         <li><p>Added track-aware primary-source folio map (<code class="docutils literal notranslate"><span class="pre">resources/summa_1494/folio_map.json</span></code>) resolving 517/517 folio directives and 400/400 header badges across <em>De Divina Proportione</em> (1509) and <em>Summa de Arithmetica</em> (1494).</p></li>
         </ul>
         </section>
-        <section class="level-2" id="id4">
-        <h2>0.4.0 (2026-11-12)<a class="headerlink" href="#id4" title="Link to this heading">¶</a></h2>
+        <section class="level-2" id="id5">
+        <h2>0.4.0 (2026-11-12)<a class="headerlink" href="#id5" title="Link to this heading">¶</a></h2>
         <ul class="simple">
         <li><p>Added the <strong>Summa de Arithmetica, Geometria, Proportioni et Proportionalita (Venice, 1494)</strong> Book Codex (<code class="docutils literal notranslate"><span class="pre">docsrc/summa_1494/</span></code>) alongside <em>De Divina Proportione</em> (1509):</p>
         <ul>
@@ -119,16 +126,16 @@
         </li>
         </ul>
         </section>
-        <section class="level-2" id="id5">
-        <h2>0.3.2 (2026-10-29)<a class="headerlink" href="#id5" title="Link to this heading">¶</a></h2>
+        <section class="level-2" id="id6">
+        <h2>0.3.2 (2026-10-29)<a class="headerlink" href="#id6" title="Link to this heading">¶</a></h2>
         <ul class="simple">
         <li><p>Enabled intersphinx cross-referencing to <code class="docutils literal notranslate"><span class="pre">geometor/euclid</span></code> across all Euclid proposition, definition, postulate, and common-notion citations (<code class="docutils literal notranslate"><span class="pre">:just:</span></code> and <code class="docutils literal notranslate"><span class="pre">:ref:</span></code>):
         *   Added <code class="docutils literal notranslate"><span class="pre">resources/de_divina_proportione/enunciations.json</span></code> combining all 642 Euclid Books I–XIII enunciations with Campanus/Hypsicles Books XIV and XV propositions (<code class="docutils literal notranslate"><span class="pre">XIV.1</span></code>–<code class="docutils literal notranslate"><span class="pre">XIV.10</span></code>, <code class="docutils literal notranslate"><span class="pre">XV.1</span></code>–<code class="docutils literal notranslate"><span class="pre">XV.12</span></code>) for rich hover tooltips.
         *   Expanded rubric-style <code class="docutils literal notranslate"><span class="pre">..</span> <span class="pre">assertion::</span></code> step headings in <code class="docutils literal notranslate"><span class="pre">scripts/build_docsrc.py</span></code> so inline <code class="docutils literal notranslate"><span class="pre">:just:</span></code> roles render as individual interactive intersphinx links to <code class="docutils literal notranslate"><span class="pre">https://geometor.github.io/euclid/</span></code>.</p></li>
         </ul>
         </section>
-        <section class="level-2" id="id6">
-        <h2>0.3.1 (2026-10-29)<a class="headerlink" href="#id6" title="Link to this heading">¶</a></h2>
+        <section class="level-2" id="id7">
+        <h2>0.3.1 (2026-10-29)<a class="headerlink" href="#id7" title="Link to this heading">¶</a></h2>
         <ul class="simple">
         <li><p>Integrated Constantin Winterberg’s 1889 critical commentary (<em>Quellenschriften für Kunstgeschichte</em>, Vienna, 1889) across the Book Codex:
         *   Added Winterberg’s <em>Vorwort &amp; Einleitung</em> (Preface and Historical-Mathematical Introduction, pp. III–V, 1–15) in synchronized <strong>English</strong> and <strong>Deutsch (1889)</strong> companion tracks (<cite>docsrc/de_divina_proportione/intro/intro_en.rst</cite>, <cite>intro_de.rst</cite>).
@@ -136,8 +143,8 @@
         *   Injected Winterberg’s 17 <em>Sachliche Anmerkungen</em> and philological chapter footnotes directly into the corresponding <cite>_notes.rst</cite> tracks across Part I (<em>Compendio</em>) and Part II (<em>Architectura</em>), plus Alphabet plate footnotes on Letters <strong>H</strong>, <strong>N</strong>, and <strong>S</strong>.</p></li>
         </ul>
         </section>
-        <section class="level-2" id="id7">
-        <h2>0.3.0 (2026-10-29)<a class="headerlink" href="#id7" title="Link to this heading">¶</a></h2>
+        <section class="level-2" id="id8">
+        <h2>0.3.0 (2026-10-29)<a class="headerlink" href="#id8" title="Link to this heading">¶</a></h2>
         <ul class="simple">
         <li><p>Restructured <code class="docutils literal notranslate"><span class="pre">docsrc/de_divina_proportione/</span></code> as a <code class="docutils literal notranslate"><span class="pre">photon_platform.publish</span></code> Book Codex (<code class="docutils literal notranslate"><span class="pre">:layout:</span> <span class="pre">book</span></code>) with synchronized companion language tracks (<strong>English</strong>, <strong>Italiano 1509</strong>, <strong>Deutsch 1889</strong>, <strong>Latin / Greek 1509</strong>, and <strong>Critical Notes</strong>) and track-preserving <code class="docutils literal notranslate"><span class="pre">Prev</span></code> / <code class="docutils literal notranslate"><span class="pre">Next</span></code> navigation.</p></li>
         <li><p>Built scholarly apparatus registries and RST index pages (<code class="docutils literal notranslate"><span class="pre">bibliography.rst</span></code> with 113 cited loci, <code class="docutils literal notranslate"><span class="pre">persons.rst</span></code> with 98 historical persons, and <code class="docutils literal notranslate"><span class="pre">glossary.rst</span></code> with 160 technical terms) with interactive <code class="docutils literal notranslate"><span class="pre">:cite:</span></code>, <code class="docutils literal notranslate"><span class="pre">:person:</span></code>, <code class="docutils literal notranslate"><span class="pre">:term:</span></code>, <code class="docutils literal notranslate"><span class="pre">:just:</span></code>, and <code class="docutils literal notranslate"><span class="pre">:g:</span></code> cross-references across all 318 folios and chapters.</p></li>
@@ -145,8 +152,8 @@
         <li><p>Recalibrated all 482 woodcut graphics across the 1509 Paganini edition (214 illuminated initial caps, 180 marginal geometric diagrams, and 88 full-page alphabet, architectural, and Leonardo polyhedra plates), removing 28 false-positive detections and mapping initials and diagrams to their exact chapters.</p></li>
         </ul>
         </section>
-        <section class="level-2" id="id8">
-        <h2>0.2.0 (2026-10-16)<a class="headerlink" href="#id8" title="Link to this heading">¶</a></h2>
+        <section class="level-2" id="id9">
+        <h2>0.2.0 (2026-10-16)<a class="headerlink" href="#id9" title="Link to this heading">¶</a></h2>
         <ul class="simple">
         <li><p>Added high-resolution folio extraction for the 1509 Paganini edition of <em>De Divina Proportione</em> (<cite>pacioli-extract</cite>).</p></li>
         <li><p>Implemented automated woodcut diagram and polyhedron detection, bounding-box calibration, and image cropping via OpenCV (<cite>pacioli-graphics</cite>).</p></li>
@@ -155,8 +162,8 @@
         <li><p>Added CLI commands <cite>pacioli-extract</cite> and <cite>pacioli-graphics</cite>.</p></li>
         </ul>
         </section>
-        <section class="level-2" id="id9">
-        <h2>0.1.0 (2025-12-10)<a class="headerlink" href="#id9" title="Link to this heading">¶</a></h2>
+        <section class="level-2" id="id10">
+        <h2>0.1.0 (2025-12-10)<a class="headerlink" href="#id10" title="Link to this heading">¶</a></h2>
         <ul class="simple">
         <li><p>Synthesized English translations of <em>De Divina Proportione</em> (Book I) Chapters I-LXXI.</p></li>
         <li><p>Implemented <cite>winterberg-parser</cite> to process the 1896 Winterberg bilingual edition.</p></li>
@@ -165,8 +172,8 @@
         <li><p>Added <cite>PacioliParser</cite> class for text extraction and cleaning.</p></li>
         </ul>
         </section>
-        <section class="level-2" id="id10">
-        <h2>0.0.2 (2025-??-??)<a class="headerlink" href="#id10" title="Link to this heading">¶</a></h2>
+        <section class="level-2" id="id11">
+        <h2>0.0.2 (2025-??-??)<a class="headerlink" href="#id11" title="Link to this heading">¶</a></h2>
         <ul class="simple">
         <li><p>Initial project setup.</p></li>
         </ul>
@@ -180,7 +187,7 @@
             <a class="book-nav-btn" href="todos/expand_hathi_trust.html" title="Expand Hathi Trust">&larr; <span class="nav-label">Expand Hathi Trust</span></a>
           </div>
           <div class="book-nav-center">
-            <a class="book-toc-link" href="index.html">geometor • pacioli</a>
+            <a class="book-toc-link" href="index.html">GEOMETOR • pacioli</a>
           </div>
           <div class="book-nav-next">
             <a class="book-nav-btn" href="modules/api/index.html" title="API Reference"><span class="nav-label">API Reference</span> &rarr;</a>
@@ -249,14 +256,14 @@
     <hr />
     <div role="contentinfo">
       <p>
-        &copy; Copyright 2026, geometor.
+        &copy; Copyright 2026, GEOMETOR.
       </p>
     </div>
   </footer>
 
   <script src="_static/jquery.js?v=5d32c60e"></script>
   <script src="_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-  <script src="_static/documentation_options.js?v=5bfaad31"></script>
+  <script src="_static/documentation_options.js?v=90733dfc"></script>
   <script src="_static/doctools.js?v=fd6eb6e6"></script>
   <script src="_static/sphinx_highlight.js?v=6ffebe34"></script>
   <script src="_static/js/collection_controls.js?v=b6b5297a"></script>
