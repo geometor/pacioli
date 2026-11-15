@@ -1,1 +1,65 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@0,400;0,700;1,400;1,700&display=swap'); */
+/* Hierarchical Table of Contents Outline for Pacioli Book Codices */
+
+.toc-outline > ul,
+.toc-outline > ol {
+  list-style: none;
+  margin: 0.5rem 0 1.5rem 0;
+  padding-left: 0;
+}
+
+.toc-outline > ul > li,
+.toc-outline > ol > li {
+  margin: 0 0 1.2rem 0;
+  padding: 0;
+  line-height: 1.5;
+}
+
+.toc-outline > ul > li > p,
+.toc-outline > ol > li > p {
+  margin: 0 0 0.35rem 0;
+  font-size: 1.06em;
+}
+
+.toc-outline ul ul,
+.toc-outline ul ol,
+.toc-outline ol ul,
+.toc-outline ol ol {
+  list-style: none;
+  margin: 0.35rem 0 0.25rem 0.45rem;
+  padding-left: 1.05rem;
+  border-left: 1px solid rgba(196, 178, 148, 0.26);
+}
+
+body.light-mode .toc-outline ul ul,
+body.light-mode .toc-outline ul ol,
+body[data-theme="light"] .toc-outline ul ul,
+body[data-theme="light"] .toc-outline ul ol {
+  border-left-color: rgba(90, 76, 56, 0.22);
+}
+
+.toc-outline ul ul > li,
+.toc-outline ul ol > li,
+.toc-outline ol ul > li,
+.toc-outline ol ol > li {
+  margin: 0.28rem 0;
+  padding: 0;
+  font-size: 0.96em;
+  line-height: 1.46;
+}
+
+.toc-outline ul ul > li > p,
+.toc-outline ul ol > li > p {
+  margin: 0;
+}
+
+.toc-outline h3 {
+  margin-top: 1.4rem;
+  margin-bottom: 0.45rem;
+}
+
+.toc-outline h4 {
+  margin-top: 0.95rem;
+  margin-bottom: 0.3rem;
+  font-size: 1rem;
+  opacity: 0.9;
+}

@@ -113,4 +113,4 @@ __all__ = [
     "inscribed_polyhedra_sphere_table",
     "solve_cossic_quadratic",
 ]
-__version__ = "0.4.3"
+__version__ = "0.4.4"
