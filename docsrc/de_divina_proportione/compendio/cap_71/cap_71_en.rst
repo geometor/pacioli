@@ -5,8 +5,8 @@
 .. _compendio-cap_71:
 .. _compendio-cap_71-en:
 
-CHAPTER LXXI
-============
+Chapter LXXI: Glossary of Mathematical Terms Used in the Compendium
+===================================================================
 
 .. rubric:: What Is Understood by the Mathematical Terms Used in This Compendium—Namely Hypothesis, Hypotenuse, Corausto, Pyramidal Cone, Pentagonal Chord, Perpendicular, Cathetus, Diameter, Parallelogram, Diagonal, Center, and Sagitta—and Conclusion of Part I (December 14, 1498).
 

@@ -5,8 +5,8 @@
 .. _architectura-cap_16:
 .. _architectura-cap_16-en:
 
-CHAPTER XVI
-===========
+Chapter XVI: Composition and Mouldings of the Cornice (Cornicione)
+==================================================================
 
 .. rubric:: On the Composition and Mouldings of the Cornice (*Cornicione*).
 

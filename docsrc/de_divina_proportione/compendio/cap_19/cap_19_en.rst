@@ -5,8 +5,8 @@
 .. _compendio-cap_19:
 .. _compendio-cap_19-en:
 
-CHAPTER XIX
-===========
+Chapter XIX: On Its Tenth Supreme Effect
+========================================
 
 .. rubric:: On Its Tenth Supreme Effect
 

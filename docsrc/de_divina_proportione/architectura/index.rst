@@ -20,61 +20,54 @@ Outline of Chapters
 I. Prohemio — Dedication to Borgo Sansepolcro
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. container:: toc-outline
+.. collection::
 
-   - *Folios 0061–0065 (f. 23r–25r)*
-
-     - :ref:`Prohemio (Dedication) <architectura-dedication-en>` — Epistle Dedicatory to the Stonemasons, Sculptors, and Disciples of :term:`Borgo Sansepolcro <san-sepolcro>` *(f. 23r–f. 25r)*
+   :doc: dedication/dedication_en
 
 .. _architectura-sec-2:
 
 II. Vitruvian Human Proportions (Cap. I–III)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. container:: toc-outline
+.. collection::
 
-   - *Folios 0065–0069 (f. 25r–27r)*
-
-     - :ref:`Cap. I <architectura-cap_01-en>` — On the Measure and Proportions of the Human Body, of the Head, and of Its Other Members as the Model and Simulacrum of Architecture *(f. 25r–f. 26r)*
-     - :ref:`Cap. II <architectura-cap_02-en>` — On the Distance from the Profile to the Nape (:term:`*Cotozzo* <cotozzo>`) of the Said Head, on the Proportions of the Eye and Ear, and on the Painter's Perspective Net (*Rete*) *(f. 26r–f. 26v)*
-     - :ref:`Cap. III <architectura-cap_03-en>` — On the Proportion of the Whole Well-Disposed Human Body to Its Head and Other Members According to Length and Breadth, and on the Perfect Numbers Six, Ten, and Sixteen *(f. 26v–f. 27r)*
+   :doc: cap_01/cap_01_en
+   :doc: cap_02/cap_02_en
+   :doc: cap_03/cap_03_en
 
 .. _architectura-sec-3:
 
 III. Columns, Classical Orders & Architectural Solids (Cap. IV–XI)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. container:: toc-outline
+.. collection::
 
-   - *Folios 0069–0076 (f. 27r–30v)*
-
-     - :ref:`Cap. IV <architectura-cap_04-en>` — On Round Columns with Their Bases, Capitals, and Pedestals or Stylobates, and How the Corinthian Capital and Its Four Tetrants Are Constructed *(f. 27r–f. 27v)*
-     - :ref:`Cap. V <architectura-cap_05-en>` — On the Length (Height), Thickness, Entasis, and Base (*Spira*) of the Round Column *(f. 28r)*
-     - :ref:`Cap. VI <architectura-cap_06-en>` — On the Order and Construction of the :term:`Stylobate <stilobata>` (Pedestal or Base-Pillar) of the Column, the :term:`Stereobate <steriobata>` Foundation, the Ancient Roman Alphabet, and the Three Sets of Sixty Polyhedra Models Made by :person:`Pacioli <pacioli>` alongside :person:`Leonardo da Vinci <leonardo>` *(f. 28r–f. 28v)*
-     - :ref:`Cap. VII <architectura-cap_07-en>` — Wherein the Three Species of Columns—Ionic, Doric, and Corinthian—Differ from One Another, and :person:`Vitruvius <vitruvius>`'s Account of Their Origin and of :person:`Callimachus <callimachus>`'s Invention of the Corinthian Capital *(f. 29r–f. 29v)*
-     - :ref:`Cap. VIII <architectura-cap_08-en>` — Where Columns Most Duly Made by the Ancients and Moderns Are Found Today in Italy, Critique of :person:`Leon Battista Alberti <alberti>`, and the Most Perfect Column in Venice at the Ca' Grande (Frari) *(f. 29v–f. 30r)*
-     - :ref:`Cap. IX <architectura-cap_09-en>` — On Lateral (Prismatic) Columns in Architecture, and on the Quadrature of the Circle *(f. 30r–f. 30v)*
-     - :ref:`Cap. X <architectura-cap_10-en>` — On Round and Lateral Pyramids in Architecture, and Praise of :person:`Leonardo da Vinci's <leonardo>` Incomparable Drawings *(f. 30v)*
-     - :ref:`Cap. XI <architectura-cap_11-en>` — On the Origin of the Letters of Every Nation, Egyptian Hieroglyphs on Roman Obelisks, the Anecdote on the Piazza San Marco in Venice, and Tribute to the Late Cardinal :person:`Galeotto Franciotti della Rovere <galeotto-della-rovere>` *(f. 30v)*
+   :doc: cap_04/cap_04_en
+   :doc: cap_05/cap_05_en
+   :doc: cap_06/cap_06_en
+   :doc: cap_07/cap_07_en
+   :doc: cap_08/cap_08_en
+   :doc: cap_09/cap_09_en
+   :doc: cap_10/cap_10_en
+   :doc: cap_11/cap_11_en
 
 .. _architectura-sec-4:
 
 IV. Entablature, Porta Speciosa & Structural Harmony (Cap. XII–XX)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. container:: toc-outline
+.. collection::
 
-   - *Folios 0077–0082 (f. 31r–33v)*
+   :doc: cap_12/cap_12_en
+   :doc: cap_13/cap_13_en
+   :doc: cap_14/cap_14_en
+   :doc: cap_15/cap_15_en
+   :doc: cap_16/cap_16_en
+   :doc: cap_17/cap_17_en
+   :doc: cap_18/cap_18_en
+   :doc: cap_19/cap_19_en
+   :doc: cap_20/cap_20_en
 
-     - :ref:`Cap. XII <architectura-cap_12-en>` — On the Orders and Spacing (Intercolumniations / Tetrants) of Round Columns in Buildings, and How the Architect Must Adapt Symmetry to the Site and Load (:person:`Vitruvius <vitruvius>` Book V) *(f. 31r)*
-     - :ref:`Cap. XIII <architectura-cap_13-en>` — On the Intervals Between One Triglyph and Another *(f. 31v)*
-     - :ref:`Cap. XIV <architectura-cap_14-en>` — On the Epistyle—Called the :term:`Architrave <epistilio>` by the Moderns—and Why Excessive Intercolumniations Crack Stone Architraves (:person:`Vitruvius <vitruvius>` Book III) *(f. 31v)*
-     - :ref:`Cap. XV <architectura-cap_15-en>` — On the Zophorus (Frieze) Above the Epistyle *(f. 32r)*
-     - :ref:`Cap. XVI <architectura-cap_16-en>` — On the Composition and Mouldings of the Cornice (:term:`*Cornicione* <cornicione>`) *(f. 32r)*
-     - :ref:`Cap. XVII <architectura-cap_17-en>` — On the Site of the :term:`Triglyphs <tygraphi>` and the Union of All the Preceding Parts in the Temple Portal Called :term:`*Porta Speciosa* <porta-speciosa>` (Plate 0185) *(f. 32r)*
-     - :ref:`Cap. XVIII <architectura-cap_18-en>` — How Stonemasons and Sculptors Are Highly Commended for Placing the Regular and Dependent Polyhedra in Their Works, and How :person:`Phidias <phidias>` Placed the :term:`Icosahedron <icosahedron>` in the Temple of Ceres in Rome *(f. 32v)*
-     - :ref:`Cap. XIX <architectura-cap_19-en>` — How the Architect Must Govern Himself in Cramped and Irregular Sites, Why Continuous Geometric Proportion Is Wider Than Discrete Numerical Proportion, and Praise of Master :person:`Piero della Francesca <piero-della-francesca>` *(f. 32v–f. 33r)*
-     - :ref:`Cap. XX <architectura-cap_20-en>` — On Columns Placed Above Other Columns in Multi-Story Buildings (:person:`Vitruvius <vitruvius>` Book V), the 1498 Disputation in the Castello Sforzesco with Count Onofrio Paganini of Brescia, and Colophon of the 1509 Venice Edition *(f. 33r–f. 33v)*
 
 .. toctree::
    :maxdepth: 1

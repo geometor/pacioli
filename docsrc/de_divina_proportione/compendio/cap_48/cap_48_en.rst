@@ -5,8 +5,8 @@
 .. _compendio-cap_48:
 .. _compendio-cap_48-en:
 
-CHAPTER XLVIII
-==============
+Chapter XLVIII: Solid and Skeletal Forms of the Tetracedron, Regular, Truncated, and Elevated
+=============================================================================================
 
 .. rubric:: On the Form and Disposition of the Plane (Solid) and Hollow (Skeletal) Tetracedron, Regular and Truncated (Plates I–IV), and Elevated (Plates V–VI).
 

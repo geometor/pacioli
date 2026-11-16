@@ -5,8 +5,8 @@
 .. _compendio-cap_10:
 .. _compendio-cap_10-en:
 
-CHAPTER X
-=========
+Chapter X: Sequel to the First Proposed Effect
+==============================================
 
 .. rubric:: Sequel to the First Proposed Effect
 

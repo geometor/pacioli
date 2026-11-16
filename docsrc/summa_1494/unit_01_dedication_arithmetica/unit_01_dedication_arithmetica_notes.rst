@@ -4,8 +4,8 @@
 
 .. _summa-unit-01-notes:
 
-UNIT I — HISTORICAL, PHILOLOGICAL & DEDUCTIVE NOTES
-===================================================
+HISTORICAL, PHILOLOGICAL & DEDUCTIVE NOTES
+==========================================
 
 .. rubric:: Commentary on the 1494 Preliminaries, Vernacular Scientific Prose & `fol. 8r`
 

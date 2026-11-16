@@ -5,8 +5,8 @@
 .. _architectura-cap_10:
 .. _architectura-cap_10-en:
 
-CHAPTER X
-=========
+Chapter X: Round and Lateral Pyramids and Praise of Leonardo da Vinci's Drawings
+================================================================================
 
 .. rubric:: On Round and Lateral Pyramids in Architecture, and Praise of Leonardo da Vinci's Incomparable Drawings.
 

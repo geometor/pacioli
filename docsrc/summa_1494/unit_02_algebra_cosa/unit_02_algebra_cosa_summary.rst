@@ -4,8 +4,8 @@
 
 .. _summa-unit-02-summary:
 
-UNIT II — MATHEMATICAL & ALGEBRAIC SUMMARY
-==========================================
+MATHEMATICAL & ALGEBRAIC SUMMARY
+================================
 
 .. rubric:: Exact Symbolic Digest of Cossic Powers, Surds & the Six Quadratic Canons
 

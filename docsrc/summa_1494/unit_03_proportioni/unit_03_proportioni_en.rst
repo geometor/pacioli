@@ -5,8 +5,8 @@
 .. _summa-unit-03:
 .. _summa-unit-03-en:
 
-UNIT III — TRACTATUS DE PROPORTIONIBUS ET PROPORTIONALITATIBUS
-==============================================================
+TRACTATUS DE PROPORTIONIBUS ET PROPORTIONALITATIBUS
+===================================================
 
 .. rubric:: Part I, Distinctio VI: Universal Praise of Proportion, the Five Boethian Genera, Classical Means, Six Euclidean Modes & the Golden Ratio (fols. 68r–98r)
 

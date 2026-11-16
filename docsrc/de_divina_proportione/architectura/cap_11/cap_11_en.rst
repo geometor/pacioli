@@ -5,8 +5,8 @@
 .. _architectura-cap_11:
 .. _architectura-cap_11-en:
 
-CHAPTER XI
-==========
+Chapter XI: Origin of Letters, Egyptian Hieroglyphs, and Tribute to Galeotto della Rovere
+=========================================================================================
 
 .. rubric:: On the Origin of the Letters of Every Nation, Egyptian Hieroglyphs on Roman Obelisks, the Anecdote on the Piazza San Marco in Venice, and Tribute to the Late Cardinal Galeotto Franciotti della Rovere.
 

@@ -5,8 +5,8 @@
 .. _compendio-cap_58:
 .. _compendio-cap_58-en:
 
-CHAPTER LVIII
-=============
+Chapter LVIII: On Oblong Bodies, and First on the Round Column (Cylinder)
+=========================================================================
 
 .. rubric:: On Oblong Bodies, That Is, Bodies Longer or Higher Than They Are Wide: And First on the Round Column (Cylinder, Plates XLIII–XLIV).
 

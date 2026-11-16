@@ -5,8 +5,8 @@
 .. _compendio-cap_39:
 .. _compendio-cap_39-en:
 
-CHAPTER XXXIX
-=============
+Chapter XXXIX: How the Tetracedron Is Formed in the Octocedron
+==============================================================
 
 .. rubric:: How the Tetracedron Is Formed in the Octocedron.
 

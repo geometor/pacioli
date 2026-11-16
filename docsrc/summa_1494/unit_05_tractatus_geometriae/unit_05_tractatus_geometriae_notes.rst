@@ -4,8 +4,8 @@
 
 .. _summa-unit-05-notes:
 
-UNIT V — HISTORICAL, PHILOLOGICAL & DEDUCTIVE NOTES
-===================================================
+HISTORICAL, PHILOLOGICAL & DEDUCTIVE NOTES
+==========================================
 
 .. rubric:: Commentary on `(13, 14, 15)`, Pre-Malfatti Circle Packing, Truncated Polyhedra & the Two Colophons
 

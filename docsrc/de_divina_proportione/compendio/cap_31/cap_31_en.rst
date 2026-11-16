@@ -5,8 +5,8 @@
 .. _compendio-cap_31:
 .. _compendio-cap_31-en:
 
-CHAPTER XXXI
-============
+Chapter XXXI: Rule and Way to Find the Sides of All Five Regular Bodies in One Sphere
+=====================================================================================
 
 .. rubric:: On the Rule and Way to Find the Sides of All Five Regular Bodies Placed in One and the Same Sphere, and Their Comparison with One Another.
 

@@ -5,8 +5,8 @@
 .. _architectura-cap_19:
 .. _architectura-cap_19-en:
 
-CHAPTER XIX
-===========
+Chapter XIX: Cramped Sites, Continuous Proportion, and Piero della Francesca
+============================================================================
 
 .. rubric:: How the Architect Must Govern Himself in Cramped and Irregular Sites, Why Continuous Geometric Proportion Is Wider Than Discrete Numerical Proportion, and Praise of Master Piero della Francesca.
 

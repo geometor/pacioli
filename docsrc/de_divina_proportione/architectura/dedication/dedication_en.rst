@@ -5,8 +5,8 @@
 .. _architectura-dedication:
 .. _architectura-dedication-en:
 
-DEDICATION
-==========
+Prohemio: Dedicatory Epistle to the Stonemasons of Borgo Sansepolcro
+====================================================================
 
 .. rubric:: Epistle Dedicatory to His Dearest Disciples and Pupils—Cesare dal Sasso, Cera del Cera, Rainer Francesco di Pippo, Bernardino and Marsilio da Monte, Girolamo del Fecciarino, and Companions of Borgo Sansepolcro, Worthy Stonemasons and Zealous Followers of the Sculptural and Architectural Art—by Fra Luca Pacioli, Their Fellow Countryman of the Order of Friars Minor and Professor of Sacred Theology.
 

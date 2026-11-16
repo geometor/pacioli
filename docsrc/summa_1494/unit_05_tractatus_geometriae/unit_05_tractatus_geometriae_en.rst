@@ -5,8 +5,8 @@
 .. _summa-unit-05:
 .. _summa-unit-05-en:
 
-UNIT V — TRACTATUS GEOMETRIAE: HERON, SURFACE DIVISION & REGULAR SOLIDS
-=======================================================================
+TRACTATUS GEOMETRIAE: HERON, SURFACE DIVISION & REGULAR SOLIDS
+==============================================================
 
 .. rubric:: Part II, Distinctiones I–VIII: Plane Mensuration, Archimedes's Circle, *De Divisione Superficierum*, Inscribed Polyhedra & the 1494 Colophon (fols. 1r–76r)
 

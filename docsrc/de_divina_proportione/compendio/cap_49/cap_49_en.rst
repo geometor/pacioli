@@ -5,8 +5,8 @@
 .. _compendio-cap_49:
 .. _compendio-cap_49-en:
 
-CHAPTER XLIX
-============
+Chapter XLIX: Disposition of the Exacedron or Cube: Regular, Truncated, and Elevated
+====================================================================================
 
 .. rubric:: On the Disposition of the Exacedron or Cube: Regular (Plates VII–VIII), Truncated (Plates IX–X), and Elevated (Plates XI–XII).
 

@@ -4,8 +4,8 @@
 
 .. _summa-unit-02-it:
 
-UNITÀ II — ALGORISMO, BINOMII E REGOLA DELA COSA (1494)
-=======================================================
+ALGORISMO, BINOMII E REGOLA DELA COSA (1494)
+============================================
 
 .. rubric:: Trascrizione diplomatica da *Summa* Parte I, *Distinctio VIII* (cc. 112r–150r, Venezia 1494)
 

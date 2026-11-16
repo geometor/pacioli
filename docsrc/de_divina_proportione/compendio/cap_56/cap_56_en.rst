@@ -5,8 +5,8 @@
 .. _compendio-cap_56:
 .. _compendio-cap_56-en:
 
-CHAPTER LVI
-===========
+Chapter LVI: On the Spherical Body and How It Is Formed
+=======================================================
 
 .. rubric:: On the Spherical Body and How It Is Formed (Plates XLI–XLII).
 

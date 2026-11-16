@@ -5,8 +5,8 @@
 .. _compendio-cap_13:
 .. _compendio-cap_13-en:
 
-CHAPTER XIII
-============
+Chapter XIII: On Its Fourth Ineffable Effect
+============================================
 
 .. rubric:: On Its Fourth Ineffable Effect
 

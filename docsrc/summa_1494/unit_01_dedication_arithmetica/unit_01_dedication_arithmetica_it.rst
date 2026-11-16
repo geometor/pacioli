@@ -4,8 +4,8 @@
 
 .. _summa-unit-01-it:
 
-UNITÀ I — DEDICATORIE, CONTINENTIA E ARITHMETICA SPECULATIVA (1494)
-===================================================================
+DEDICATORIE, CONTINENTIA E ARITHMETICA SPECULATIVA (1494)
+=========================================================
 
 .. rubric:: Trascrizione diplomatica verificata sull'edizione veneziana di Paganino de' Paganini (10–20 novembre 1494)
 

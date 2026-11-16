@@ -5,8 +5,8 @@
 .. _compendio-cap_33:
 .. _compendio-cap_33-en:
 
-CHAPTER XXXIII
-==============
+Chapter XXXIII: On the Proportion of the Surfaces and Solid Volumes of All the Regular Bodies
+=============================================================================================
 
 .. rubric:: On the Proportion of the Surfaces and Solid Volumes of All the Regular Bodies to One Another.
 

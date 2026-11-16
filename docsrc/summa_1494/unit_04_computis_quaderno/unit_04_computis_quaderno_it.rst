@@ -4,8 +4,8 @@
 
 .. _summa-unit-04-it:
 
-UNITÀ IV — PARTICULARIS DE COMPUTIS ET SCRIPTURIS E GIUOCO DELLA BALLA (1494)
-=============================================================================
+PARTICULARIS DE COMPUTIS ET SCRIPTURIS E GIUOCO DELLA BALLA (1494)
+==================================================================
 
 .. rubric:: Trascrizione diplomatica da *Summa* Parte I, *Distinctio Nona, Tractatus X–XI* (cc. 197r–202r, Venezia 1494)
 

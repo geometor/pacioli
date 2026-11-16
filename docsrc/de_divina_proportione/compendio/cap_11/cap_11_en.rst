@@ -5,8 +5,8 @@
 .. _compendio-cap_11:
 .. _compendio-cap_11-en:
 
-CHAPTER XI
-==========
+Chapter XI: On Its Second Essential Effect
+==========================================
 
 .. rubric:: On Its Second Essential Effect
 

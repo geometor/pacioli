@@ -5,8 +5,8 @@
 .. _compendio-cap_12:
 .. _compendio-cap_12-en:
 
-CHAPTER XII
-===========
+Chapter XII: On Its Third Singular Effect
+=========================================
 
 .. rubric:: On Its Third Singular Effect
 

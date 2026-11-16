@@ -5,8 +5,8 @@
 .. _architectura-cap_12:
 .. _architectura-cap_12-en:
 
-CHAPTER XII
-===========
+Chapter XII: Intercolumniations of Round Columns According to Vitruvius Book V
+==============================================================================
 
 .. rubric:: On the Orders and Spacing (Intercolumniations / Tetrants) of Round Columns in Buildings, and How the Architect Must Adapt Symmetry to the Site and Load (Vitruvius Book V).
 

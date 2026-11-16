@@ -5,8 +5,8 @@
 .. _compendio-cap_06:
 .. _compendio-cap_06-en:
 
-CHAPTER VI
-==========
+Chapter VI: On Its Worthy Commendation
+======================================
 
 .. rubric:: On Its Worthy Commendation
 

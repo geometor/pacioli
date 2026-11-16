@@ -5,8 +5,8 @@
 .. _compendio-cap_07:
 .. _compendio-cap_07-en:
 
-CHAPTER VII
-===========
+Chapter VII: On the First Effect of a Line Divided According to Our Proportion
+==============================================================================
 
 .. rubric:: On the First Effect of a Line Divided According to Our Proportion
 

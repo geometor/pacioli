@@ -5,8 +5,8 @@
 .. _summa-unit-02:
 .. _summa-unit-02-en:
 
-UNIT II — ALGORISMUS, EUCLIDEAN SURDS & COSSIC ALGEBRA (*REGOLA DELA COSA*)
-===========================================================================
+ALGORISMUS, EUCLIDEAN SURDS & COSSIC ALGEBRA (REGOLA DELA COSA)
+===============================================================
 
 .. rubric:: Part I, Distinctiones II–V (Practical Algorism) & Distinctio VIII: *Arte Maggiore / Algebra e Almucabala* (fols. 112r–150r)
 

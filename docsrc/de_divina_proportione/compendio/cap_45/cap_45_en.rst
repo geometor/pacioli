@@ -5,8 +5,8 @@
 .. _compendio-cap_45:
 .. _compendio-cap_45-en:
 
-CHAPTER XLV
-===========
+Chapter XLV: How the Octocedron Is Placed in the Duodecedron
+============================================================
 
 .. rubric:: How the Octocedron Is Placed in the Duodecedron.
 

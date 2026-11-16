@@ -5,8 +5,8 @@
 .. _compendio-cap_43:
 .. _compendio-cap_43-en:
 
-CHAPTER XLIII
-=============
+Chapter XLIII: How the Ycocedron Is Formed in the Duodecedron
+=============================================================
 
 .. rubric:: How the Ycocedron Is Formed in the Duodecedron.
 

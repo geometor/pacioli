@@ -5,8 +5,8 @@
 .. _compendio-cap_37:
 .. _compendio-cap_37-en:
 
-CHAPTER XXXVII
-==============
+Chapter XXXVII: How the Octocedron Is Placed in the Cube
+========================================================
 
 .. rubric:: How the Octocedron Is Placed in the Cube.
 

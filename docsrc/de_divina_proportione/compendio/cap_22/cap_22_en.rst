@@ -5,8 +5,8 @@
 .. _compendio-cap_22:
 .. _compendio-cap_22-en:
 
-CHAPTER XXII
-============
+Chapter XXII: On Its Thirteenth Most Worthy Effect
+==================================================
 
 .. rubric:: On Its Thirteenth Most Worthy Effect
 

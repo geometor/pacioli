@@ -4,8 +4,8 @@
 
 .. _summa-unit-05-summary:
 
-UNIT V — GEOMETRIC & STEREOMETRIC SUMMARY
-=========================================
+GEOMETRIC & STEREOMETRIC SUMMARY
+================================
 
 .. rubric:: Exact Symbolic Invariants of *Tractatus Geometriae* (:mod:`geometor.pacioli.tractatus_geometriae`)
 

@@ -5,8 +5,8 @@
 .. _compendio-cap_53:
 .. _compendio-cap_53-en:
 
-CHAPTER LIII
-============
+Chapter LIII: Formation and Origin of the Body of Twenty-Six Bases
+==================================================================
 
 .. rubric:: On the Formation and Origin of the Body of Twenty-Six Bases: Eighteen Squares and Eight Equilateral Triangles (Plates XXXV–XXXVIII).
 

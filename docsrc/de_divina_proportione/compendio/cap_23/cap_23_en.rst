@@ -5,8 +5,8 @@
 .. _compendio-cap_23:
 .. _compendio-cap_23-en:
 
-CHAPTER XXIII
-=============
+Chapter XXIII: How, Out of Reverence for Our Salvation, the Said Effects Conclude
+=================================================================================
 
 .. rubric:: How, Out of Reverence for Our Salvation, the Said Effects Conclude
 

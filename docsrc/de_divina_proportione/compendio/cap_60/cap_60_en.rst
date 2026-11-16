@@ -5,8 +5,8 @@
 .. _compendio-cap_60:
 .. _compendio-cap_60-en:
 
-CHAPTER LX
-==========
+Chapter LX: On Four-Sided Lateral Columns and the Five Species of Quadrilaterals
+================================================================================
 
 .. rubric:: On Four-Sided (Quadrilateral) Lateral Columns and the Five Species of Quadrilaterals (Plates XLVII–XLVIII).
 

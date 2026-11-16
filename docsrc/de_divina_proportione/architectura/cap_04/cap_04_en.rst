@@ -5,8 +5,8 @@
 .. _architectura-cap_04:
 .. _architectura-cap_04-en:
 
-CHAPTER IV
-==========
+Chapter IV: Round Columns, Bases, Capitals, Pedestals, and the Corinthian Capital
+=================================================================================
 
 .. rubric:: On Round Columns with Their Bases, Capitals, and Pedestals or Stylobates, and How the Corinthian Capital and Its Four Tetrants Are Constructed.
 

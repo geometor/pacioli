@@ -5,8 +5,8 @@
 .. _compendio-cap_28:
 .. _compendio-cap_28-en:
 
-CHAPTER XXVIII
-==============
+Chapter XXVIII: How the Third Regular Body, Called the Octocedron, Is Formed in the Sphere
+==========================================================================================
 
 .. rubric:: How the Third Regular Body, Called the Octocedron of Eight Triangular Bases, Is Formed in the Sphere.
 

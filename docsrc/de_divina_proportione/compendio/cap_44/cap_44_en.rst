@@ -5,8 +5,8 @@
 .. _compendio-cap_44:
 .. _compendio-cap_44-en:
 
-CHAPTER XLIV
-============
+Chapter XLIV: How the Ycocedron Is Placed in the Cube
+=====================================================
 
 .. rubric:: How the Ycocedron Is Placed in the Cube.
 

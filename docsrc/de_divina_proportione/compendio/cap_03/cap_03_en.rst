@@ -5,8 +5,8 @@
 .. _compendio-cap_03:
 .. _compendio-cap_03-en:
 
-CHAPTER III
-===========
+Chapter III: What Is Meant by the Name 'Mathematical' (The Quadrivium)
+======================================================================
 
 .. rubric:: The Preface Being Ended, There Follows an Explanation of What Is Meant by This Name 'Mathematical'
 

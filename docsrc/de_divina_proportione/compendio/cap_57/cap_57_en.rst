@@ -5,8 +5,8 @@
 .. _compendio-cap_57:
 .. _compendio-cap_57-en:
 
-CHAPTER LVII
-============
+Chapter LVII: How Stonemasons May Carve the Five Regular Bodies from a Spherical Stone
+======================================================================================
 
 .. rubric:: How All Five Regular Bodies Are Placed in the Sphere, How Stonemasons May Carve Them from a Spherical Stone, and the Anecdote of Count Girolamo Riario and Melozzo da Forlì in Rome.
 

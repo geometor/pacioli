@@ -5,8 +5,8 @@
 .. _compendio-cap_26:
 .. _compendio-cap_26-en:
 
-CHAPTER XXVI
-============
+Chapter XXVI: How the First Regular Body, Called the Tetracedron or Pyramid, Is Formed in the Sphere
+====================================================================================================
 
 .. rubric:: How the First Regular Body, Called the Tetracedron or Pyramid of Four Triangular Bases, Is Formed and Placed in the Sphere.
 

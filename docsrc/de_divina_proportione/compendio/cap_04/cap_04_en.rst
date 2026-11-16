@@ -5,8 +5,8 @@
 .. _compendio-cap_04:
 .. _compendio-cap_04-en:
 
-CHAPTER IV
-==========
+Chapter IV: Things the Reader Must Observe for Understanding This Treatise
+==========================================================================
 
 .. rubric:: On Those Things Which the Reader Must Observe for the Understanding of This Treatise
 

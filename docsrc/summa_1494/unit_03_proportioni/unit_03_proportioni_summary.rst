@@ -4,8 +4,8 @@
 
 .. _summa-unit-03-summary:
 
-UNIT III — MATHEMATICAL & PROPORTIONAL SUMMARY
-==============================================
+MATHEMATICAL & PROPORTIONAL SUMMARY
+===================================
 
 .. rubric:: Exact Symbolic Classification, Means & Golden Section Identities
 

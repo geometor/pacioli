@@ -5,8 +5,8 @@
 .. _compendio-cap_17:
 .. _compendio-cap_17-en:
 
-CHAPTER XVII
-============
+Chapter XVII: On the Eighth Effect, the Converse of the Preceding
+=================================================================
 
 .. rubric:: On the Eighth Effect, the Converse of the Preceding
 

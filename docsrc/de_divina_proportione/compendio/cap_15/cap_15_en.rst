@@ -5,8 +5,8 @@
 .. _compendio-cap_15:
 .. _compendio-cap_15-en:
 
-CHAPTER XV
-==========
+Chapter XV: On Its Sixth Inexpressible Effect
+=============================================
 
 .. rubric:: On Its Sixth Inexpressible Effect
 

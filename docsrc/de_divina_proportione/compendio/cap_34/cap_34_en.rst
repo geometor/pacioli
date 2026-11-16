@@ -5,8 +5,8 @@
 .. _compendio-cap_34:
 .. _compendio-cap_34-en:
 
-CHAPTER XXXIV
-=============
+Chapter XXXIV: On the Inscriptions of the Five Regular Bodies in One Another
+============================================================================
 
 .. rubric:: On the Inscriptions of the Five Regular Bodies in One Another, How Many There Are in All, and Why.
 

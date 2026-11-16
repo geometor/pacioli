@@ -5,8 +5,8 @@
 .. _compendio-cap_29:
 .. _compendio-cap_29-en:
 
-CHAPTER XXIX
-============
+Chapter XXIX: How the Fourth Regular Body, Called the Ycocedron, Is Formed in the Sphere
+========================================================================================
 
 .. rubric:: How the Fourth Regular Body, Called the Ycocedron of Twenty Triangular Bases, Is Formed in the Sphere.
 

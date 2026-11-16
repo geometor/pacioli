@@ -27,6 +27,7 @@ repo_name = "pacioli"
 
 setup_globals(org, org_name, repo, repo_name)  # noqa: F405
 
+site_title = "Fra Luca Pacioli"
 html_static_path = ["_static"]
 html_css_files = [*globals().get("html_css_files", []), "css/custom.css"]
 

@@ -5,8 +5,8 @@
 .. _compendio-cap_05:
 .. _compendio-cap_05-en:
 
-CHAPTER V
-=========
+Chapter V: On the Fitting Title of the Present Treatise
+=======================================================
 
 .. rubric:: On the Fitting Title of the Present Treatise
 

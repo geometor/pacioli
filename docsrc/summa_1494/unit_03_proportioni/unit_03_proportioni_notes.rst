@@ -4,8 +4,8 @@
 
 .. _summa-unit-03-notes:
 
-UNIT III — HISTORICAL, PHILOLOGICAL & DEDUCTIVE NOTES
-=====================================================
+HISTORICAL, PHILOLOGICAL & DEDUCTIVE NOTES
+==========================================
 
 .. rubric:: Commentary on *Proportione* vs. *Proportionalità*, Piero della Francesca & the 1509 *Compendio*
 

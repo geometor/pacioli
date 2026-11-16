@@ -5,8 +5,8 @@
 .. _compendio-cap_20:
 .. _compendio-cap_20-en:
 
-CHAPTER XX
-==========
+Chapter XX: On Its Eleventh Most Excellent Effect
+=================================================
 
 .. rubric:: On Its Eleventh Most Excellent Effect
 

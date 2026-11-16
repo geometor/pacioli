@@ -5,8 +5,8 @@
 .. _architectura-cap_15:
 .. _architectura-cap_15-en:
 
-CHAPTER XV
-==========
+Chapter XV: The Zophorus (Frieze) Above the Epistyle
+====================================================
 
 .. rubric:: On the Zophorus (Frieze) Above the Epistyle.
 

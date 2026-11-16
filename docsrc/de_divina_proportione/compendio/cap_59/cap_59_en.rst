@@ -5,8 +5,8 @@
 .. _compendio-cap_59:
 .. _compendio-cap_59-en:
 
-CHAPTER LIX
-===========
+Chapter LIX: On Lateral Columns, and First on the Three-Sided Column (Serratile Body)
+=====================================================================================
 
 .. rubric:: On Lateral (Faceted) Columns, and First on the Three-Sided (Triangular) Column, Called the Serratile Body (Plates XLV–XLVI).
 
