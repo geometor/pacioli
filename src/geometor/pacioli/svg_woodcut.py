@@ -997,7 +997,7 @@ def generate_all_summa_svgs(summa_docsrc_dir: Path | str) -> list[SVGSpec]:
     manifest = [
         (
             "summa.I.1.figurate",
-            "unit_01_dedication_arithmetica",
+            "dist_01_dedication_arithmetica",
             "fig_01_figurate_perfect.svg",
             "fol. 8r",
             "IX.36",
@@ -1005,7 +1005,7 @@ def generate_all_summa_svgs(summa_docsrc_dir: Path | str) -> list[SVGSpec]:
         ),
         (
             "summa.I.8.gnomon",
-            "unit_02_algebra_cosa",
+            "dist_02_algebra_cosa",
             "fig_02_cossic_gnomon.svg",
             "fol. 146r",
             "II.4",
@@ -1013,7 +1013,7 @@ def generate_all_summa_svgs(summa_docsrc_dir: Path | str) -> list[SVGSpec]:
         ),
         (
             "summa.I.8.surds",
-            "unit_02_algebra_cosa",
+            "dist_02_algebra_cosa",
             "fig_03_book_x_binomial_apotome.svg",
             "fol. 118r",
             "X.36",
@@ -1021,7 +1021,7 @@ def generate_all_summa_svgs(summa_docsrc_dir: Path | str) -> list[SVGSpec]:
         ),
         (
             "summa.I.6.means",
-            "unit_03_proportioni",
+            "dist_03_proportioni",
             "fig_04_three_means_semicircle.svg",
             "fol. 73v",
             "VI.13",
@@ -1029,7 +1029,7 @@ def generate_all_summa_svgs(summa_docsrc_dir: Path | str) -> list[SVGSpec]:
         ),
         (
             "summa.I.6.divina10",
-            "unit_03_proportioni",
+            "dist_03_proportioni",
             "fig_05_extreme_mean_10.svg",
             "fol. 78r",
             "II.11",
@@ -1037,7 +1037,7 @@ def generate_all_summa_svgs(summa_docsrc_dir: Path | str) -> list[SVGSpec]:
         ),
         (
             "summa.I.9.quaderno",
-            "unit_04_computis_quaderno",
+            "dist_04_computis_quaderno",
             "fig_06_quaderno_conservation.svg",
             "fol. 202r",
             "Summa.I.IX.14",
@@ -1045,7 +1045,7 @@ def generate_all_summa_svgs(summa_docsrc_dir: Path | str) -> list[SVGSpec]:
         ),
         (
             "summa.II.1.heron",
-            "unit_05_tractatus_geometriae",
+            "dist_05_tractatus_geometriae",
             "fig_07_heron_13_14_15.svg",
             "Part II, fol. 9v",
             "Summa.II.I.8",
@@ -1053,7 +1053,7 @@ def generate_all_summa_svgs(summa_docsrc_dir: Path | str) -> list[SVGSpec]:
         ),
         (
             "summa.II.4.divisione",
-            "unit_05_tractatus_geometriae",
+            "dist_05_tractatus_geometriae",
             "fig_08_divisione_superficierum.svg",
             "Part II, fol. 35r",
             "VI.19",
@@ -1061,7 +1061,7 @@ def generate_all_summa_svgs(summa_docsrc_dir: Path | str) -> list[SVGSpec]:
         ),
         (
             "summa.II.8.corporibus",
-            "unit_05_tractatus_geometriae",
+            "dist_05_tractatus_geometriae",
             "fig_09_inscribed_polyhedra.svg",
             "Part II, fol. 69v",
             "XIII.17",

@@ -16,11 +16,11 @@ def test_generate_all_summa_svgs_contract(tmp_path: Path) -> None:
     assert len(specs) == 9
 
     expected_units = {
-        "unit_01_dedication_arithmetica",
-        "unit_02_algebra_cosa",
-        "unit_03_proportioni",
-        "unit_04_computis_quaderno",
-        "unit_05_tractatus_geometriae",
+        "dist_01_dedication_arithmetica",
+        "dist_02_algebra_cosa",
+        "dist_03_proportioni",
+        "dist_04_computis_quaderno",
+        "dist_05_tractatus_geometriae",
     }
     assert {spec.unit_dir for spec in specs} == expected_units
 
