@@ -5,8 +5,8 @@
 .. _compendio-cap_32:
 .. _compendio-cap_32-en:
 
-CHAPTER XXXII
-=============
+Chapter XXXII: On the Proportion of the Five Regular Bodies to One Another (Icosahedron to Dodecahedron)
+========================================================================================================
 
 .. rubric:: On the Proportion of the Said Regular Bodies to One Another, Especially that of the Ycocedron to the Duodecedron.
 

@@ -5,8 +5,8 @@
 .. _compendio-cap_47:
 .. _compendio-cap_47-en:
 
-CHAPTER XLVII
-=============
+Chapter XLVII: How the Sphere Is Placed and Inscribed in Each of the Five Regular Bodies
+========================================================================================
 
 .. rubric:: How the Sphere Is Placed and Inscribed in Each of the Said Five Regular Bodies.
 

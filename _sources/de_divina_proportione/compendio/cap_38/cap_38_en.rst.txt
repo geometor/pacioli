@@ -5,8 +5,8 @@
 .. _compendio-cap_38:
 .. _compendio-cap_38-en:
 
-CHAPTER XXXVIII
-===============
+Chapter XXXVIII: How the Exacedron or Cube Is Formed in the Octocedron
+======================================================================
 
 .. rubric:: How the Exacedron or Cube Is Formed in the Octocedron.
 

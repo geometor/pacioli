@@ -5,8 +5,8 @@
 .. _compendio-cap_67:
 .. _compendio-cap_67-en:
 
-CHAPTER LXVII
-=============
+Chapter LXVII: Demonstration That Every Lateral Pyramid Is One-Third of Its Column
+==================================================================================
 
 .. rubric:: How It Is Manifestly Demonstrated That Every Lateral Pyramid Is One-Third (*Subtripla*) of Its Column, and Why Every Polygon of N Sides Resolves into N − 2 Triangles.
 

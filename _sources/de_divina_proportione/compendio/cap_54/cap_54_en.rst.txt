@@ -5,8 +5,8 @@
 .. _compendio-cap_54:
 .. _compendio-cap_54-en:
 
-CHAPTER LIV
-===========
+Chapter LIV: On the Body of Seventy-Two Bases (Septuaginta Duarum Basium) and Its Use in Vaults
+===============================================================================================
 
 .. rubric:: On the Body of Seventy-Two Bases (*Septuaginta Duarum Basium*), Its Origin, and Its Architectural Use in Cupolas and Vaults (Plates XXXIX–XL).
 

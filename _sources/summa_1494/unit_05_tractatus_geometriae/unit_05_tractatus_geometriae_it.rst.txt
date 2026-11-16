@@ -4,8 +4,8 @@
 
 .. _summa-unit-05-it:
 
-UNITÀ V — TRACTATUS GEOMETRIAE E COLOPHON VENEZIANO (10 NOVEMBRE 1494)
-======================================================================
+TRACTATUS GEOMETRIAE E COLOPHON VENEZIANO (10 NOVEMBRE 1494)
+============================================================
 
 .. rubric:: Trascrizione diplomatica da *Summa* Parte II (*Tractatus Geometriae*, cc. 9v, 31r, 57r, 69v–70r, 76r)
 

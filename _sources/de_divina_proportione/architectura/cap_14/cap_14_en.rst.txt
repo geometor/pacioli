@@ -5,8 +5,8 @@
 .. _architectura-cap_14:
 .. _architectura-cap_14-en:
 
-CHAPTER XIV
-===========
+Chapter XIV: The Epistyle (Architrave) and Why Excessive Spans Crack Architraves
+================================================================================
 
 .. rubric:: On the Epistyle—Called the Architrave by the Moderns—and Why Excessive Intercolumniations Crack Stone Architraves (Vitruvius Book III).
 

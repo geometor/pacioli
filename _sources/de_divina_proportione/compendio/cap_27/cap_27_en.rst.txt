@@ -5,8 +5,8 @@
 .. _compendio-cap_27:
 .. _compendio-cap_27-en:
 
-CHAPTER XXVII
-=============
+Chapter XXVII: How the Second Regular Body, Called the Exacedron or Cube, Is Formed in the Sphere
+=================================================================================================
 
 .. rubric:: How the Second Regular Body, Called the Exacedron or Cube, Is Formed and Placed in the Sphere.
 

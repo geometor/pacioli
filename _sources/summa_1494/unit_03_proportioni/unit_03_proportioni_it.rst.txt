@@ -4,8 +4,8 @@
 
 .. _summa-unit-03-it:
 
-UNITÀ III — TRACTATUS DE PROPORTIONIBUS ET PROPORTIONALITATIBUS (1494)
-======================================================================
+TRACTATUS DE PROPORTIONIBUS ET PROPORTIONALITATIBUS (1494)
+==========================================================
 
 .. rubric:: Trascrizione diplomatica da *Summa* Parte I, *Distinctio Sexta* (cc. 68v–83r, Venezia 1494)
 

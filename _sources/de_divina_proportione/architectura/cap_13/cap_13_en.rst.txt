@@ -5,8 +5,8 @@
 .. _architectura-cap_13:
 .. _architectura-cap_13-en:
 
-CHAPTER XIII
-============
+Chapter XIII: Intervals Between Adjacent Triglyphs
+==================================================
 
 .. rubric:: On the Intervals Between One Triglyph and Another.
 

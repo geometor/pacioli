@@ -5,8 +5,8 @@
 .. _compendio-cap_68:
 .. _compendio-cap_68-en:
 
-CHAPTER LXVIII
-==============
+Chapter LXVIII: How Short or Truncated Pyramids Are Measured
+============================================================
 
 .. rubric:: How Short or Truncated Pyramids (*Pyramidi Corte ouer Scapezze*) Are Measured.
 

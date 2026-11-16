@@ -5,8 +5,8 @@
 .. _compendio-cap_55:
 .. _compendio-cap_55-en:
 
-CHAPTER LV
-==========
+Chapter LV: How Forms of Bodies Proceed to Infinity, and Why Plato Assigned the Solids to the Elements
+======================================================================================================
 
 .. rubric:: On the Way to Know How to Form Still More Bodies Beyond Those Mentioned, How Their Forms Proceed to Infinity, and Why Plato Assigned the Five Regular Bodies to the Five Simple Bodies of the Universe.
 

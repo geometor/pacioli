@@ -5,8 +5,8 @@
 .. _architectura-cap_01:
 .. _architectura-cap_01-en:
 
-CHAPTER I
-=========
+Chapter I: Proportions of the Human Body and Head as the Model of Architecture
+==============================================================================
 
 .. rubric:: On the Measure and Proportions of the Human Body, of the Head, and of Its Other Members as the Model and Simulacrum of Architecture.
 

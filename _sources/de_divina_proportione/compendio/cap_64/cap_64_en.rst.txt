@@ -5,8 +5,8 @@
 .. _compendio-cap_64:
 .. _compendio-cap_64-en:
 
-CHAPTER LXIV
-============
+Chapter LXIV: On Pyramids and All Their Differences, and First on the Round Pyramid (Cone)
+==========================================================================================
 
 .. rubric:: On Pyramids and All Their Differences, and First on the Round Pyramid (Cone, Plates XLIII–XLIV).
 

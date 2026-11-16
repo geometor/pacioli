@@ -5,8 +5,8 @@
 .. _compendio-cap_66:
 .. _compendio-cap_66-en:
 
-CHAPTER LXVI
-============
+Chapter LXVI: On the Way and Rule to Know How to Measure Every Complete Pyramid
+===============================================================================
 
 .. rubric:: On the Way and Rule to Know How to Measure Every Complete Pyramid, Round or Lateral.
 

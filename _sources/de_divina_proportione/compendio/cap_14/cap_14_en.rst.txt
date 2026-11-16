@@ -5,8 +5,8 @@
 .. _compendio-cap_14:
 .. _compendio-cap_14-en:
 
-CHAPTER XIV
-===========
+Chapter XIV: On Its Fifth Marvelous Effect
+==========================================
 
 .. rubric:: On Its Fifth Marvelous Effect
 

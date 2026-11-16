@@ -244,7 +244,7 @@ Author of De Institutione Arithmetica and De Institutione Musica; cited by Pacio
 
 **Principal Works:** *De Institutione Arithmetica*, *De Institutione Musica*
 
-**Occurrences:** :doc:`Comp. Cap. 3 (DE) </de_divina_proportione/compendio/cap_03/cap_03_de>`, :doc:`Comp. Cap. 3 (EN) </de_divina_proportione/compendio/cap_03/cap_03_en>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/cap_03_it>`, :doc:`Comp. Cap. 3 (Notes) </de_divina_proportione/compendio/cap_03/cap_03_notes>`, :doc:`Comp. Cap. 7 (EN) </de_divina_proportione/compendio/cap_07/cap_07_en>`, :doc:`Comp. Cap. 7 (Notes) </de_divina_proportione/compendio/cap_07/cap_07_notes>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural_de>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural_en>`
+**Occurrences:** :doc:`Comp. Cap. 3 (DE) </de_divina_proportione/compendio/cap_03/cap_03_de>`, :doc:`Comp. Cap. 3 (EN) </de_divina_proportione/compendio/cap_03/cap_03_en>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/cap_03_it>`, :doc:`Comp. Cap. 3 (Notes) </de_divina_proportione/compendio/cap_03/cap_03_notes>`, :doc:`Comp. Cap. 7 (EN) </de_divina_proportione/compendio/cap_07/cap_07_en>`, :doc:`Comp. Cap. 7 (Notes) </de_divina_proportione/compendio/cap_07/cap_07_notes>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural/index>`
 
 .. _person-bramante:
 

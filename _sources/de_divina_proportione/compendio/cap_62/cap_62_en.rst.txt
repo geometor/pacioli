@@ -5,8 +5,8 @@
 .. _compendio-cap_62:
 .. _compendio-cap_62-en:
 
-CHAPTER LXII
-============
+Chapter LXII: On the Way to Measure All Kinds of Columns, and First the Round Columns
+=====================================================================================
 
 .. rubric:: On the Way to Measure All Kinds of Columns, and First the Round Columns (Cylinders).
 

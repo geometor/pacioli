@@ -5,8 +5,8 @@
 .. _compendio-cap_52:
 .. _compendio-cap_52-en:
 
-CHAPTER LII
-===========
+Chapter LII: Disposition of the Duodecedron: Regular, Truncated, Elevated, and Elevated Truncated Bodies
+========================================================================================================
 
 .. rubric:: On the Disposition of the Duodecedron: Regular (Plates XXV–XXVI), Truncated (Plates XXVII–XXVIII), Elevated (Plates XXIX–XXX), and the Elevated Truncated Bodies (Plates XXXI–XXXIV).
 

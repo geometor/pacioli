@@ -5,8 +5,8 @@
 .. _architectura-cap_07:
 .. _architectura-cap_07-en:
 
-CHAPTER VII
-===========
+Chapter VII: Differences of Ionic, Doric, and Corinthian Columns in Vitruvius
+=============================================================================
 
 .. rubric:: Wherein the Three Species of Columns—Ionic, Doric, and Corinthian—Differ from One Another, and Vitruvius's Account of Their Origin and of Callimachus's Invention of the Corinthian Capital.
 

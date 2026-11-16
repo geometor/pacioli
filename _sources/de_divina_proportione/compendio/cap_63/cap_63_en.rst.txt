@@ -5,8 +5,8 @@
 .. _compendio-cap_63:
 .. _compendio-cap_63-en:
 
-CHAPTER LXIII
-=============
+Chapter LXIII: On the Way to Know How to Measure All Lateral (Prismatic) Columns
+================================================================================
 
 .. rubric:: On the Way to Know How to Measure All Lateral (Prismatic) Columns.
 

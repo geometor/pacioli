@@ -5,8 +5,8 @@
 .. _compendio-cap_50:
 .. _compendio-cap_50-en:
 
-CHAPTER L
-=========
+Chapter L: Disposition of the Octocedron: Regular, Truncated, and Elevated
+==========================================================================
 
 .. rubric:: On the Disposition of the Octocedron: Regular (Plates XIII–XIV), Truncated (Plates XV–XVI), and Elevated (Plates XVII–XVIII).
 

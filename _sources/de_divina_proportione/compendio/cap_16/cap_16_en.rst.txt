@@ -5,8 +5,8 @@
 .. _compendio-cap_16:
 .. _compendio-cap_16-en:
 
-CHAPTER XVI
-===========
+Chapter XVI: On Its Seventh Inestimable Effect
+==============================================
 
 .. rubric:: On Its Seventh Inestimable Effect
 

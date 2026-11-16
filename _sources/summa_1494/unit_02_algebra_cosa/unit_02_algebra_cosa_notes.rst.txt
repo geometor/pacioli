@@ -4,8 +4,8 @@
 
 .. _summa-unit-02-notes:
 
-UNIT II — HISTORICAL, PHILOLOGICAL & DEDUCTIVE NOTES
-====================================================
+HISTORICAL, PHILOLOGICAL & DEDUCTIVE NOTES
+==========================================
 
 .. rubric:: Commentary on Syncopated Typography, Book X Irrationals & the Bologna Cubic Breakthrough
 

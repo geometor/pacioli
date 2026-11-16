@@ -5,8 +5,8 @@
 .. _architectura-cap_02:
 .. _architectura-cap_02-en:
 
-CHAPTER II
-==========
+Chapter II: Profile to Nape, Proportions of Eye and Ear, and the Perspective Net
+================================================================================
 
 .. rubric:: On the Distance from the Profile to the Nape (*Cotozzo*) of the Said Head, on the Proportions of the Eye and Ear, and on the Painter's Perspective Net (*Rete*).
 

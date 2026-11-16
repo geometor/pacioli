@@ -4,8 +4,8 @@
 
 .. _summa-unit-04-notes:
 
-UNIT IV — HISTORICAL, PHILOLOGICAL & DEDUCTIVE NOTES
-====================================================
+HISTORICAL, PHILOLOGICAL & DEDUCTIVE NOTES
+==========================================
 
 .. rubric:: Commentary on Venetian Double-Entry Symmetry, Benedetto Cotrugli & the Birth of Probability
 

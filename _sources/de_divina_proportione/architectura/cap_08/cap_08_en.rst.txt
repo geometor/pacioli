@@ -5,8 +5,8 @@
 .. _architectura-cap_08:
 .. _architectura-cap_08-en:
 
-CHAPTER VIII
-============
+Chapter VIII: Ancient and Modern Columns in Italy and Critique of Leon Battista Alberti
+=======================================================================================
 
 .. rubric:: Where Columns Most Duly Made by the Ancients and Moderns Are Found Today in Italy, Critique of Leon Battista Alberti, and the Most Perfect Column in Venice at the Ca' Grande (Frari).
 

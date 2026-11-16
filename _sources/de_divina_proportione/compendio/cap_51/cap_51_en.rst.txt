@@ -5,8 +5,8 @@
 .. _compendio-cap_51:
 .. _compendio-cap_51-en:
 
-CHAPTER LI
-==========
+Chapter LI: Disposition of the Ycocedron: Regular, Truncated, and Elevated
+==========================================================================
 
 .. rubric:: On the Disposition of the Ycocedron: Regular (Plates XIX–XX), Truncated (Plates XXI–XXII), and Elevated (Plates XXIII–XXIV).
 

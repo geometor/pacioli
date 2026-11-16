@@ -5,8 +5,8 @@
 .. _compendio-cap_65:
 .. _compendio-cap_65-en:
 
-CHAPTER LXV
-===========
+Chapter LXV: On Lateral Pyramids and Their Varieties: Right, Oblique, and Truncated
+===================================================================================
 
 .. rubric:: On Lateral (Polygonal) Pyramids and Their Varieties: Right, Oblique, and Truncated (Plates LI–LIX).
 

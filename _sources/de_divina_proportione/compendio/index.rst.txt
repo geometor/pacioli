@@ -20,117 +20,104 @@ Outline of Chapters
 I. Dedication, Preface & Nature of the Mathematical Sciences (Cap. I–VI)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. container:: toc-outline
+.. collection::
 
-   - *Folios 0017–0023 (f. 1r–4r)*
-
-     - :ref:`Cap. I <compendio-cap_01-en>` — Dedicatory Epistle on the :term:`Divine Proportion <divina-proportione>` to :person:`Ludovico Maria Sforza <ludovico-sforza>`, Duke of Milan *(f. 1r–f. 1v)*
-     - :ref:`Cap. II <compendio-cap_02-en>` — Author's Preface to the Compendium on the :term:`Divine Proportion <divina-proportione>` *(f. 1v–f. 3r)*
-     - :ref:`Cap. III <compendio-cap_03-en>` — What Is Meant by the Name 'Mathematical' (The Quadrivium) *(f. 3r–f. 3v)*
-     - :ref:`Cap. IV <compendio-cap_04-en>` — On Those Things Which the Reader Must Observe for the Understanding of This Treatise *(f. 3v)*
-     - :ref:`Cap. V <compendio-cap_05-en>` — On the Fitting Title of the Present Treatise *(f. 3v–f. 4r)*
-     - :ref:`Cap. VI <compendio-cap_06-en>` — On Its Worthy Commendation *(f. 4r)*
+   :doc: cap_01/cap_01_en
+   :doc: cap_02/cap_02_en
+   :doc: cap_03/cap_03_en
+   :doc: cap_04/cap_04_en
+   :doc: cap_05/cap_05_en
+   :doc: cap_06/cap_06_en
 
 .. _compendio-sec-2:
 
 II. The Thirteen Marvelous Effects in Lines & Regular Polygons (Cap. VII–XXIII)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. container:: toc-outline
+.. collection::
 
-   - *Folios 0023–0031 (f. 4r–8r)*
-
-     - :ref:`Cap. VII <compendio-cap_07-en>` — On the First Effect of a Line Divided According to Our Proportion *(f. 4r–f. 5r)*
-     - :ref:`Cap. VIII <compendio-cap_08-en>` — How a Quantity Divided According to the Proportion Having a Mean and Two Extremes Is to Be Understood *(f. 5r)*
-     - :ref:`Cap. IX <compendio-cap_09-en>` — What the Root of a Number and of Any Other Quantity Is *(f. 5v)*
-     - :ref:`Cap. X <compendio-cap_10-en>` — Sequel to the First Proposed Effect *(f. 5v)*
-     - :ref:`Cap. XI <compendio-cap_11-en>` — On Its Second Essential Effect *(f. 5v)*
-     - :ref:`Cap. XII <compendio-cap_12-en>` — On Its Third Singular Effect *(f. 6r)*
-     - :ref:`Cap. XIII <compendio-cap_13-en>` — On Its Fourth Ineffable Effect *(f. 6r)*
-     - :ref:`Cap. XIV <compendio-cap_14-en>` — On Its Fifth Marvelous Effect *(f. 6r)*
-     - :ref:`Cap. XV <compendio-cap_15-en>` — On Its Sixth Inexpressible Effect *(f. 6r)*
-     - :ref:`Cap. XVI <compendio-cap_16-en>` — On Its Seventh Inestimable Effect *(f. 6v)*
-     - :ref:`Cap. XVII <compendio-cap_17-en>` — On the Eighth Effect, the Converse of the Preceding *(f. 6v)*
-     - :ref:`Cap. XVIII <compendio-cap_18-en>` — On Its Ninth Effect, Surpassing All the Others *(f. 6v)*
-     - :ref:`Cap. XIX <compendio-cap_19-en>` — On Its Tenth Supreme Effect *(f. 7r)*
-     - :ref:`Cap. XX <compendio-cap_20-en>` — On Its Eleventh Most Excellent Effect *(f. 7r)*
-     - :ref:`Cap. XXI <compendio-cap_21-en>` — On Its Twelfth Almost Incomprehensible Effect *(f. 7r–f. 7v)*
-     - :ref:`Cap. XXII <compendio-cap_22-en>` — On Its Thirteenth Most Worthy Effect *(f. 7v)*
-     - :ref:`Cap. XXIII <compendio-cap_23-en>` — How, Out of Reverence for Our Salvation, the Said Effects Conclude *(f. 7v–f. 8r)*
+   :doc: cap_07/cap_07_en
+   :doc: cap_08/cap_08_en
+   :doc: cap_09/cap_09_en
+   :doc: cap_10/cap_10_en
+   :doc: cap_11/cap_11_en
+   :doc: cap_12/cap_12_en
+   :doc: cap_13/cap_13_en
+   :doc: cap_14/cap_14_en
+   :doc: cap_15/cap_15_en
+   :doc: cap_16/cap_16_en
+   :doc: cap_17/cap_17_en
+   :doc: cap_18/cap_18_en
+   :doc: cap_19/cap_19_en
+   :doc: cap_20/cap_20_en
+   :doc: cap_21/cap_21_en
+   :doc: cap_22/cap_22_en
+   :doc: cap_23/cap_23_en
 
 .. _compendio-sec-3:
 
 III. The Five Regular Bodies, Mutual Inscriptions & Dependent Solids (Cap. XXIV–LV)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. container:: toc-outline
+.. collection::
 
-   - **A. Formation & Proportions of the Five Regular Bodies** *(Cap. XXIV–XXXIII · f. 8r–13r)*
-
-     - :ref:`Cap. XXIV <compendio-cap_24-en>` — On the Tenth Effect of Our :term:`Divine Proportion <divina-proportione>`, Which Introduces the Formation of the Five Regular Bodies *(f. 8r)*
-     - :ref:`Cap. XXV <compendio-cap_25-en>` — How It Is Not Possible for There to Be More Than Five Regular Bodies in Nature, and Why *(f. 8r–f. 8v)*
-     - :ref:`Cap. XXVI <compendio-cap_26-en>` — How the First Regular Body, Called the :term:`Tetracedron <tetrahedron>` or Pyramid of Four Triangular Bases, Is Formed and Placed in the Sphere *(f. 8v)*
-     - :ref:`Cap. XXVII <compendio-cap_27-en>` — How the Second Regular Body, Called the :term:`Exacedron <exahedron>` or Cube, Is Formed and Placed in the Sphere *(f. 8v–f. 9r)*
-     - :ref:`Cap. XXVIII <compendio-cap_28-en>` — How the Third Regular Body, Called the :term:`Octocedron <octahedron>` of Eight Triangular Bases, Is Formed in the Sphere *(f. 9r–f. 9v)*
-     - :ref:`Cap. XXIX <compendio-cap_29-en>` — How the Fourth Regular Body, Called the :term:`Ycocedron <icosahedron>` of Twenty Triangular Bases, Is Formed in the Sphere *(f. 9v–f. 10v)*
-     - :ref:`Cap. XXX <compendio-cap_30-en>` — How the Fifth and Most Noble Regular Body, Called the :term:`Duodecedron <dodecahedron>` of Twelve Pentagonal Bases, Is Formed in the Sphere *(f. 10v–f. 11v)*
-     - :ref:`Cap. XXXI <compendio-cap_31-en>` — On the Rule and Way to Find the Sides of All Five Regular Bodies Placed in One and the Same Sphere, and Their Comparison with One Another *(f. 11v–f. 12v)*
-     - :ref:`Cap. XXXII <compendio-cap_32-en>` — On the Proportion of the Said Regular Bodies to One Another, Especially that of the :term:`Ycocedron <icosahedron>` to the :term:`Duodecedron <dodecahedron>` *(f. 12v)*
-     - :ref:`Cap. XXXIII <compendio-cap_33-en>` — On the Proportion of the Surfaces and Solid Volumes of All the Regular Bodies to One Another *(f. 12v–f. 13r)*
-
-   - **B. The Twelve Mutual Inscriptions & Inscribed Sphere** *(Cap. XXXIV–XLVII · f. 13r–14r)*
-
-     - :ref:`Cap. XXXIV <compendio-cap_34-en>` — On the Inscriptions of the Five Regular Bodies in One Another, How Many There Are in All, and Why *(f. 13r)*
-     - :ref:`Cap. XXXV <compendio-cap_35-en>` — How the :term:`Octocedron <octahedron>` Is Formed and Inscribed in the :term:`Tetracedron <tetrahedron>` *(f. 13r)*
-     - :ref:`Cap. XXXVI <compendio-cap_36-en>` — How the :term:`Tetracedron <tetrahedron>` Is Placed in the Cube *(f. 13r)*
-     - :ref:`Cap. XXXVII <compendio-cap_37-en>` — How the :term:`Octocedron <octahedron>` Is Placed in the Cube *(f. 13r)*
-     - :ref:`Cap. XXXVIII <compendio-cap_38-en>` — How the :term:`Exacedron <exahedron>` or Cube Is Formed in the :term:`Octocedron <octahedron>` *(f. 13v)*
-     - :ref:`Cap. XXXIX <compendio-cap_39-en>` — How the :term:`Tetracedron <tetrahedron>` Is Formed in the :term:`Octocedron <octahedron>` *(f. 13v)*
-     - :ref:`Cap. XL <compendio-cap_40-en>` — How the :term:`Duodecedron <dodecahedron>` Is Formed in the :term:`Ycocedron <icosahedron>` *(f. 13v)*
-     - :ref:`Cap. XLI <compendio-cap_41-en>` — How the :term:`Exacedron <exahedron>` or Cube Is Placed in the :term:`Ycocedron <icosahedron>` *(f. 13v)*
-     - :ref:`Cap. XLII <compendio-cap_42-en>` — How the :term:`Tetracedron <tetrahedron>` Is Formed in the :term:`Ycocedron <icosahedron>` *(f. 13v)*
-     - :ref:`Cap. XLIII <compendio-cap_43-en>` — How the :term:`Ycocedron <icosahedron>` Is Formed in the :term:`Duodecedron <dodecahedron>` *(f. 13v)*
-     - :ref:`Cap. XLIV <compendio-cap_44-en>` — How the :term:`Ycocedron <icosahedron>` Is Placed in the Cube *(f. 13v)*
-     - :ref:`Cap. XLV <compendio-cap_45-en>` — How the :term:`Octocedron <octahedron>` Is Placed in the :term:`Duodecedron <dodecahedron>` *(f. 14r)*
-     - :ref:`Cap. XLVI <compendio-cap_46-en>` — How the :term:`Exacedron <exahedron>` and the :term:`Tetracedron <tetrahedron>` Are Placed in the :term:`Duodecedron <dodecahedron>`, and Why Only Twelve Inscriptions Are Possible *(f. 14r)*
-     - :ref:`Cap. XLVII <compendio-cap_47-en>` — How the Sphere Is Placed and Inscribed in Each of the Said Five Regular Bodies *(f. 14r)*
-
-   - **C. Solid, Skeletal, Truncated & Elevated Dependent Bodies** *(Cap. XLVIII–LV · f. 14r–17r · Plates I–XL)*
-
-     - :ref:`Cap. XLVIII <compendio-cap_48-en>` — On the Form and Disposition of the Plane (Solid) and Hollow (Skeletal) :term:`Tetracedron <tetrahedron>`, Regular and Truncated (Plates I–IV), and Elevated (Plates V–VI) *(f. 14r–f. 14v)*
-     - :ref:`Cap. XLIX <compendio-cap_49-en>` — On the Disposition of the :term:`Exacedron <exahedron>` or Cube: Regular (Plates VII–VIII), Truncated (Plates IX–X), and Elevated (Plates XI–XII) *(f. 14v)*
-     - :ref:`Cap. L <compendio-cap_50-en>` — On the Disposition of the :term:`Octocedron <octahedron>`: Regular (Plates XIII–XIV), Truncated (Plates XV–XVI), and Elevated (Plates XVII–XVIII) *(f. 14v–f. 15r)*
-     - :ref:`Cap. LI <compendio-cap_51-en>` — On the Disposition of the :term:`Ycocedron <icosahedron>`: Regular (Plates XIX–XX), Truncated (Plates XXI–XXII), and Elevated (Plates XXIII–XXIV) *(f. 15r)*
-     - :ref:`Cap. LII <compendio-cap_52-en>` — On the Disposition of the :term:`Duodecedron <dodecahedron>`: Regular (Plates XXV–XXVI), Truncated (Plates XXVII–XXVIII), Elevated (Plates XXIX–XXX), and the Elevated Truncated Bodies (Plates XXXI–XXXIV) *(f. 15r–f. 15v)*
-     - :ref:`Cap. LIII <compendio-cap_53-en>` — On the Formation and Origin of the Body of Twenty-Six Bases: Eighteen Squares and Eight Equilateral Triangles (Plates XXXV–XXXVIII) *(f. 15v–f. 16r)*
-     - :ref:`Cap. LIV <compendio-cap_54-en>` — On the Body of Seventy-Two Bases (:term:`*Septuaginta Duarum Basium* <septuaginta-duarum-basium>`), Its Origin, and Its Architectural Use in Cupolas and Vaults (Plates XXXIX–XL) *(f. 16r–f. 16v)*
-     - :ref:`Cap. LV <compendio-cap_55-en>` — On the Way to Know How to Form Still More Bodies Beyond Those Mentioned, How Their Forms Proceed to Infinity, and Why :person:`Plato <plato>` Assigned the Five Regular Bodies to the Five Simple Bodies of the Universe *(f. 16v–f. 17r)*
+   :doc: cap_24/cap_24_en
+   :doc: cap_25/cap_25_en
+   :doc: cap_26/cap_26_en
+   :doc: cap_27/cap_27_en
+   :doc: cap_28/cap_28_en
+   :doc: cap_29/cap_29_en
+   :doc: cap_30/cap_30_en
+   :doc: cap_31/cap_31_en
+   :doc: cap_32/cap_32_en
+   :doc: cap_33/cap_33_en
+   :doc: cap_34/cap_34_en
+   :doc: cap_35/cap_35_en
+   :doc: cap_36/cap_36_en
+   :doc: cap_37/cap_37_en
+   :doc: cap_38/cap_38_en
+   :doc: cap_39/cap_39_en
+   :doc: cap_40/cap_40_en
+   :doc: cap_41/cap_41_en
+   :doc: cap_42/cap_42_en
+   :doc: cap_43/cap_43_en
+   :doc: cap_44/cap_44_en
+   :doc: cap_45/cap_45_en
+   :doc: cap_46/cap_46_en
+   :doc: cap_47/cap_47_en
+   :doc: cap_48/cap_48_en
+   :doc: cap_49/cap_49_en
+   :doc: cap_50/cap_50_en
+   :doc: cap_51/cap_51_en
+   :doc: cap_52/cap_52_en
+   :doc: cap_53/cap_53_en
+   :doc: cap_54/cap_54_en
+   :doc: cap_55/cap_55_en
 
 .. _compendio-sec-4:
 
 IV. Sphere, Oblong Bodies, Mensuration, Plate Concordance & Glossary (Cap. LVI–LXXI)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. container:: toc-outline
+.. collection::
 
-   - *Folios 0049–0061 (f. 17r–23r · Plates XLI–LIX)*
+   :doc: cap_56/cap_56_en
+   :doc: cap_57/cap_57_en
+   :doc: cap_58/cap_58_en
+   :doc: cap_59/cap_59_en
+   :doc: cap_60/cap_60_en
+   :doc: cap_61/cap_61_en
+   :doc: cap_62/cap_62_en
+   :doc: cap_63/cap_63_en
+   :doc: cap_64/cap_64_en
+   :doc: cap_65/cap_65_en
+   :doc: cap_66/cap_66_en
+   :doc: cap_67/cap_67_en
+   :doc: cap_68/cap_68_en
+   :doc: cap_69/cap_69_en
+   :doc: cap_70/cap_70_en
+   :doc: cap_71/cap_71_en
 
-     - :ref:`Cap. LVI <compendio-cap_56-en>` — On the Spherical Body and How It Is Formed (Plates XLI–XLII) *(f. 17r–f. 17v)*
-     - :ref:`Cap. LVII <compendio-cap_57-en>` — How All Five Regular Bodies Are Placed in the Sphere, How Stonemasons May Carve Them from a Spherical Stone, and the Anecdote of Count :person:`Girolamo Riario <girolamo-riario>` and :person:`Melozzo da Forlì <melozzo-da-forli>` in Rome *(f. 17v–f. 18r)*
-     - :ref:`Cap. LVIII <compendio-cap_58-en>` — On Oblong Bodies, That Is, Bodies Longer or Higher Than They Are Wide: And First on the Round Column (Cylinder, Plates XLIII–XLIV) *(f. 18r–f. 18v)*
-     - :ref:`Cap. LIX <compendio-cap_59-en>` — On Lateral (Faceted) Columns, and First on the Three-Sided (Triangular) Column, Called the Serratile Body (Plates XLV–XLVI) *(f. 18v)*
-     - :ref:`Cap. LX <compendio-cap_60-en>` — On Four-Sided (Quadrilateral) Lateral Columns and the Five Species of Quadrilaterals (Plates XLVII–XLVIII) *(f. 18v–f. 19r)*
-     - :ref:`Cap. LXI <compendio-cap_61-en>` — On Five-Sided (Pentagonal) Lateral Columns and How the Species of Lateral Columns Proceed to Infinity (Plates XLIX–L) *(f. 19r)*
-     - :ref:`Cap. LXII <compendio-cap_62-en>` — On the Way to Measure All Kinds of Columns, and First the Round Columns (Cylinders) *(f. 19r–f. 19v)*
-     - :ref:`Cap. LXIII <compendio-cap_63-en>` — On the Way to Know How to Measure All Lateral (Prismatic) Columns *(f. 19v)*
-     - :ref:`Cap. LXIV <compendio-cap_64-en>` — On Pyramids and All Their Differences, and First on the Round Pyramid (Cone, Plates XLIII–XLIV) *(f. 20r)*
-     - :ref:`Cap. LXV <compendio-cap_65-en>` — On Lateral (Polygonal) Pyramids and Their Varieties: Right, Oblique, and Truncated (Plates LI–LIX) *(f. 20r–f. 20v)*
-     - :ref:`Cap. LXVI <compendio-cap_66-en>` — On the Way and Rule to Know How to Measure Every Complete Pyramid, Round or Lateral *(f. 20v)*
-     - :ref:`Cap. LXVII <compendio-cap_67-en>` — How It Is Manifestly Demonstrated That Every Lateral Pyramid Is One-Third (*Subtripla*) of Its Column, and Why Every Polygon of N Sides Resolves into N − 2 Triangles *(f. 20v–f. 21r)*
-     - :ref:`Cap. LXVIII <compendio-cap_68-en>` — How Short or Truncated Pyramids (*Pyramidi Corte ouer Scapezze*) Are Measured *(f. 21r–f. 21v)*
-     - :ref:`Cap. LXIX <compendio-cap_69-en>` — On the Measure of All the Regular and Dependent Bodies, and the Panegyric to Duke :person:`Ludovico Maria Sforza <ludovico-sforza>` and the 1498 Franciscan General Chapter in Milan *(f. 21v–f. 22r)*
-     - :ref:`Cap. LXX <compendio-cap_70-en>` — How to Locate in Order All the Bodies Drawn in Perspective in This Book, as Well as Their Physical Models According to Their Public Table *(f. 22r)*
-     - :ref:`Cap. LXXI <compendio-cap_71-en>` — Glossary of Mathematical Terms Used in the Compendium & Conclusion of Part I (Dec. 14, 1498) *(f. 22r–f. 23r)*
 
 .. toctree::
    :maxdepth: 1

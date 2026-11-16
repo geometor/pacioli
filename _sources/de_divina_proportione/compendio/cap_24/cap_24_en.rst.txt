@@ -5,8 +5,8 @@
 .. _compendio-cap_24:
 .. _compendio-cap_24-en:
 
-CHAPTER XXIV
-============
+Chapter XXIV: On the Tenth Effect, Which Introduces the Formation of the Five Regular Bodies
+============================================================================================
 
 .. rubric:: On the Tenth Effect of Our Divine Proportion, Which Introduces the Formation of the Five Regular Bodies.
 

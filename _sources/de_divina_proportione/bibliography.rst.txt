@@ -133,7 +133,7 @@ Sacra Scriptura (Biblia Vulgata)
 
 .. _cite-biblia-sapientia-11-21:
 
-- ``11.21`` (``biblia:sapientia:11.21``) — Cited in :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural_it>` [1509 Folios: 0215]
+- ``11.21`` (``biblia:sapientia:11.21``) — Cited in :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>` [1509 Folios: 0215]
 
 .. _cite-biblia-sapientia-7-13:
 
@@ -726,7 +726,7 @@ See biographical entry: :ref:`Pacioli, Fra Luca, O.F.M. <person-pacioli>`.
 
 **Tractato de l'Architectura (1509)** (``pacioli:architectura``)
 
-- ``General reference`` (``pacioli:architectura``) — Cited in :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural_en>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural_it>` [1509 Folios: 0061, 0062, 0063, 0064, 0065, 0066, 0067, 0068, 0069, 0070]
+- ``General reference`` (``pacioli:architectura``) — Cited in :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>` [1509 Folios: 0061, 0062, 0063, 0064, 0065, 0066, 0067, 0068, 0069, 0070]
 
 .. _work-pacioli-divina-proportione:
 .. _cite-pacioli-divina-proportione:
@@ -740,7 +740,7 @@ See biographical entry: :ref:`Pacioli, Fra Luca, O.F.M. <person-pacioli>`.
 
 **Summa de Arithmetica, Geometria, Proportioni et Proportionalita (Venice, 1494)** (``pacioli:summa``)
 
-- ``General reference`` (``pacioli:summa``) — Cited in :doc:`Arch. Cap. 19 (DE) </de_divina_proportione/architectura/cap_19/cap_19_de>`, :doc:`Arch. Cap. 19 (IT) </de_divina_proportione/architectura/cap_19/cap_19_it>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Comp. Cap. 4 (EN) </de_divina_proportione/compendio/cap_04/cap_04_en>`, :doc:`Comp. Cap. 21 (EN) </de_divina_proportione/compendio/cap_21/cap_21_en>`, :doc:`Comp. Cap. 62 (EN) </de_divina_proportione/compendio/cap_62/cap_62_en>`, :doc:`Comp. Cap. 63 (EN) </de_divina_proportione/compendio/cap_63/cap_63_en>`, :doc:`Comp. Cap. 63 (Notes) </de_divina_proportione/compendio/cap_63/cap_63_notes>`, :doc:`Comp. Cap. 68 (EN) </de_divina_proportione/compendio/cap_68/cap_68_en>`, :doc:`Comp. Cap. 68 (Notes) </de_divina_proportione/compendio/cap_68/cap_68_notes>`, :doc:`Comp. Cap. 69 (EN) </de_divina_proportione/compendio/cap_69/cap_69_en>`, :doc:`Comp. Cap. 71 (EN) </de_divina_proportione/compendio/cap_71/cap_71_en>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/cap_71_it>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural_de>` [1509 Folios: 0017, 0054, 0057, 0058, 0060, 0080]
+- ``General reference`` (``pacioli:summa``) — Cited in :doc:`Arch. Cap. 19 (DE) </de_divina_proportione/architectura/cap_19/cap_19_de>`, :doc:`Arch. Cap. 19 (IT) </de_divina_proportione/architectura/cap_19/cap_19_it>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Comp. Cap. 4 (EN) </de_divina_proportione/compendio/cap_04/cap_04_en>`, :doc:`Comp. Cap. 21 (EN) </de_divina_proportione/compendio/cap_21/cap_21_en>`, :doc:`Comp. Cap. 62 (EN) </de_divina_proportione/compendio/cap_62/cap_62_en>`, :doc:`Comp. Cap. 63 (EN) </de_divina_proportione/compendio/cap_63/cap_63_en>`, :doc:`Comp. Cap. 63 (Notes) </de_divina_proportione/compendio/cap_63/cap_63_notes>`, :doc:`Comp. Cap. 68 (EN) </de_divina_proportione/compendio/cap_68/cap_68_en>`, :doc:`Comp. Cap. 68 (Notes) </de_divina_proportione/compendio/cap_68/cap_68_notes>`, :doc:`Comp. Cap. 69 (EN) </de_divina_proportione/compendio/cap_69/cap_69_en>`, :doc:`Comp. Cap. 71 (EN) </de_divina_proportione/compendio/cap_71/cap_71_en>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/cap_71_it>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural/index>` [1509 Folios: 0017, 0054, 0057, 0058, 0060, 0080]
 
 .. _bib-piero-della-francesca:
 

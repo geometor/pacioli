@@ -5,8 +5,8 @@
 .. _compendio-cap_36:
 .. _compendio-cap_36-en:
 
-CHAPTER XXXVI
-=============
+Chapter XXXVI: How the Tetracedron Is Placed in the Cube
+========================================================
 
 .. rubric:: How the Tetracedron Is Placed in the Cube.
 

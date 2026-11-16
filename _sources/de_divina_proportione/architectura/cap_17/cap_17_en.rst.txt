@@ -5,8 +5,8 @@
 .. _architectura-cap_17:
 .. _architectura-cap_17-en:
 
-CHAPTER XVII
-============
+Chapter XVII: The Temple Portal Called Porta Speciosa (Plate 0185)
+==================================================================
 
 .. rubric:: On the Site of the Triglyphs and the Union of All the Preceding Parts in the Temple Portal Called *Porta Speciosa* (Plate 0185).
 

@@ -5,8 +5,8 @@
 .. _architectura-cap_09:
 .. _architectura-cap_09-en:
 
-CHAPTER IX
-==========
+Chapter IX: Lateral Columns in Architecture and Quadrature of the Circle
+========================================================================
 
 .. rubric:: On Lateral (Prismatic) Columns in Architecture, and on the Quadrature of the Circle.
 

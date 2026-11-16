@@ -5,8 +5,8 @@
 .. _compendio-cap_01:
 .. _compendio-cap_01-en:
 
-CHAPTER I
-=========
+Chapter I: Dedicatory Epistle on the Divine Proportion to Ludovico Maria Sforza
+===============================================================================
 
 .. rubric:: Epistle on the Divine Proportion to the Most Excellent Prince Ludovico Maria Sforza Anglo, Duke of Milan, Ornament of Peace and War, by Brother Luca Pacioli of Borgo Sansepolcro of the Order of Minorites, Professor of Sacred Theology
 

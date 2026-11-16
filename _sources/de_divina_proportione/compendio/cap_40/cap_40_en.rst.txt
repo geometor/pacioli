@@ -5,8 +5,8 @@
 .. _compendio-cap_40:
 .. _compendio-cap_40-en:
 
-CHAPTER XL
-==========
+Chapter XL: How the Duodecedron Is Formed in the Ycocedron
+==========================================================
 
 .. rubric:: How the Duodecedron Is Formed in the Ycocedron.
 

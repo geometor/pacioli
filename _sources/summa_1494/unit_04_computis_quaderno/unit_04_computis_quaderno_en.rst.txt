@@ -5,8 +5,8 @@
 .. _summa-unit-04:
 .. _summa-unit-04-en:
 
-UNIT IV — PARTICULARIS DE COMPUTIS ET SCRIPTURIS & THE PROBLEM OF POINTS
-========================================================================
+PARTICULARIS DE COMPUTIS ET SCRIPTURIS & THE PROBLEM OF POINTS
+==============================================================
 
 .. rubric:: Part I, Distinctio IX, Tractatus X–XI: Interrupted Games of Chance (`fol. 197r–197v`) & Venetian Double-Entry Bookkeeping (`fols. 198v–210v`)
 

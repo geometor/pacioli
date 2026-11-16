@@ -5,8 +5,8 @@
 .. _compendio-cap_61:
 .. _compendio-cap_61-en:
 
-CHAPTER LXI
-===========
+Chapter LXI: On Five-Sided Lateral Columns and How Lateral Columns Proceed to Infinity
+======================================================================================
 
 .. rubric:: On Five-Sided (Pentagonal) Lateral Columns and How the Species of Lateral Columns Proceed to Infinity (Plates XLIX–L).
 

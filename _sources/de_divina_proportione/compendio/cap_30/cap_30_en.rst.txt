@@ -5,8 +5,8 @@
 .. _compendio-cap_30:
 .. _compendio-cap_30-en:
 
-CHAPTER XXX
-===========
+Chapter XXX: How the Fifth Regular Body, Called the Duodecedron, Is Formed in the Sphere
+========================================================================================
 
 .. rubric:: How the Fifth and Most Noble Regular Body, Called the Duodecedron of Twelve Pentagonal Bases, Is Formed in the Sphere.
 

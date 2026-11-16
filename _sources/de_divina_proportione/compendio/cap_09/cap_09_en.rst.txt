@@ -5,8 +5,8 @@
 .. _compendio-cap_09:
 .. _compendio-cap_09-en:
 
-CHAPTER IX
-==========
+Chapter IX: What the Root of a Number and of Any Other Quantity Is
+==================================================================
 
 .. rubric:: What the Root of a Number and of Any Other Quantity Is
 

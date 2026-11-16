@@ -5,8 +5,8 @@
 .. _architectura-cap_03:
 .. _architectura-cap_03-en:
 
-CHAPTER III
-===========
+Chapter III: Whole Human Body Proportions and the Perfect Numbers 6, 10, and 16
+===============================================================================
 
 .. rubric:: On the Proportion of the Whole Well-Disposed Human Body to Its Head and Other Members According to Length and Breadth, and on the Perfect Numbers Six, Ten, and Sixteen.
 

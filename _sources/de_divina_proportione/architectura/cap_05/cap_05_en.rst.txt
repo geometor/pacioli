@@ -5,8 +5,8 @@
 .. _architectura-cap_05:
 .. _architectura-cap_05-en:
 
-CHAPTER V
-=========
+Chapter V: Length, Thickness, Entasis, and Attic Base of the Round Column
+=========================================================================
 
 .. rubric:: On the Length (Height), Thickness, Entasis, and Base (*Spira*) of the Round Column.
 

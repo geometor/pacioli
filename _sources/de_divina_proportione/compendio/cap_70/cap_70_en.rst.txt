@@ -5,8 +5,8 @@
 .. _compendio-cap_70:
 .. _compendio-cap_70-en:
 
-CHAPTER LXX
-===========
+Chapter LXX: How to Locate in Order All the Perspective Bodies and Their Physical Models
+========================================================================================
 
 .. rubric:: How to Locate in Order All the Bodies Drawn in Perspective in This Book, as Well as Their Physical Models According to Their Public Table.
 

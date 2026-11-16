@@ -5,8 +5,8 @@
 .. _compendio-cap_25:
 .. _compendio-cap_25-en:
 
-CHAPTER XXV
-===========
+Chapter XXV: How It Is Not Possible for There to Be More Than Five Regular Bodies in Nature
+===========================================================================================
 
 .. rubric:: How It Is Not Possible for There to Be More Than Five Regular Bodies in Nature, and Why.
 

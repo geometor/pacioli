@@ -5,8 +5,8 @@
 .. _compendio-cap_69:
 .. _compendio-cap_69-en:
 
-CHAPTER LXIX
-============
+Chapter LXIX: On the Measure of Regular Bodies and Panegyric to Duke Ludovico Maria Sforza
+==========================================================================================
 
 .. rubric:: On the Measure of All the Regular and Dependent Bodies, and the Panegyric to Duke Ludovico Maria Sforza and the 1498 Franciscan General Chapter in Milan.
 

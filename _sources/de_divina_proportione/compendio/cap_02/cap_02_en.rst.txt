@@ -5,8 +5,8 @@
 .. _compendio-cap_02:
 .. _compendio-cap_02-en:
 
-CHAPTER II
-==========
+Chapter II: Author's Preface to the Compendium on the Divine Proportion
+=======================================================================
 
 .. rubric:: Preface of the Reverend Father Magister Luca Pacioli of Borgo Sansepolcro, of the Order of Minorites and Professor of Sacred Theology, to the Compendium on the Divine Proportion drawn from the Mathematical Disciplines
 

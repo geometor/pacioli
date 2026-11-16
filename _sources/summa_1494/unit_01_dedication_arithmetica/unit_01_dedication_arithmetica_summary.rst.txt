@@ -4,8 +4,8 @@
 
 .. _summa-unit-01-summary:
 
-UNIT I — MATHEMATICAL & ARCHITECTURAL SUMMARY
-=============================================
+MATHEMATICAL & ARCHITECTURAL SUMMARY
+====================================
 
 .. rubric:: Structural Digest of the Preliminaries & *Part I, Distinctio I*
 

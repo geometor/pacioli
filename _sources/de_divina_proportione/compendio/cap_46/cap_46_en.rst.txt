@@ -5,8 +5,8 @@
 .. _compendio-cap_46:
 .. _compendio-cap_46-en:
 
-CHAPTER XLVI
-============
+Chapter XLVI: How the Exacedron and Tetracedron Are Placed in the Duodecedron
+=============================================================================
 
 .. rubric:: How the Exacedron and the Tetracedron Are Placed in the Duodecedron, and Why Only Twelve Inscriptions Are Possible.
 

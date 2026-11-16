@@ -5,8 +5,8 @@
 .. _compendio-cap_42:
 .. _compendio-cap_42-en:
 
-CHAPTER XLII
-============
+Chapter XLII: How the Tetracedron Is Formed in the Ycocedron
+============================================================
 
 .. rubric:: How the Tetracedron Is Formed in the Ycocedron.
 

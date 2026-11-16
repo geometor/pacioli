@@ -5,8 +5,8 @@
 .. _compendio-cap_21:
 .. _compendio-cap_21-en:
 
-CHAPTER XXI
-===========
+Chapter XXI: On Its Twelfth Almost Incomprehensible Effect
+==========================================================
 
 .. rubric:: On Its Twelfth Almost Incomprehensible Effect
 

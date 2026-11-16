@@ -5,8 +5,8 @@
 .. _compendio-cap_35:
 .. _compendio-cap_35-en:
 
-CHAPTER XXXV
-============
+Chapter XXXV: How the Octocedron Is Formed and Inscribed in the Tetracedron
+===========================================================================
 
 .. rubric:: How the Octocedron Is Formed and Inscribed in the Tetracedron.
 

@@ -4,8 +4,8 @@
 
 .. _summa-unit-04-summary:
 
-UNIT IV — CONSERVATION ALGEBRA & PROBABILITY SUMMARY
-====================================================
+CONSERVATION ALGEBRA & PROBABILITY SUMMARY
+==========================================
 
 .. rubric:: Symbolic Matrix Formulation of the *Quaderno* & Exact *Problem of Points* Shares
 

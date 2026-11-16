@@ -5,8 +5,8 @@
 .. _architectura-cap_20:
 .. _architectura-cap_20-en:
 
-CHAPTER XX
-==========
+Chapter XX: Superimposed Columns, the 1498 Sforza Disputation, and Venetian Colophon
+====================================================================================
 
 .. rubric:: On Columns Placed Above Other Columns in Multi-Story Buildings (Vitruvius Book V), the 1498 Disputation in the Castello Sforzesco with Count Onofrio Paganini of Brescia, and Colophon of the 1509 Venice Edition.
 

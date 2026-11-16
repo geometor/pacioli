@@ -5,8 +5,8 @@
 .. _summa-unit-01:
 .. _summa-unit-01-en:
 
-UNIT I — DEDICATIONS, CONTINENTIA & SPECULATIVE ARITHMETIC
-==========================================================
+DEDICATIONS, CONTINENTIA & SPECULATIVE ARITHMETIC
+=================================================
 
 .. rubric:: Preliminaries (fols. 1r–8v) & Part I, Distinctio I: Continuous and Discrete Quantity, Figurate & Perfect Numbers (fols. 1r–18v)
 

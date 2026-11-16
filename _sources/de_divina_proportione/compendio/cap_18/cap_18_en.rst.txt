@@ -5,8 +5,8 @@
 .. _compendio-cap_18:
 .. _compendio-cap_18-en:
 
-CHAPTER XVIII
-=============
+Chapter XVIII: On Its Ninth Effect, Surpassing All the Others
+=============================================================
 
 .. rubric:: On Its Ninth Effect, Surpassing All the Others
 

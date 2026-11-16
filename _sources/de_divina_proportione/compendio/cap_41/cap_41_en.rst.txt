@@ -5,8 +5,8 @@
 .. _compendio-cap_41:
 .. _compendio-cap_41-en:
 
-CHAPTER XLI
-===========
+Chapter XLI: How the Exacedron or Cube Is Placed in the Ycocedron
+=================================================================
 
 .. rubric:: How the Exacedron or Cube Is Placed in the Ycocedron.
 

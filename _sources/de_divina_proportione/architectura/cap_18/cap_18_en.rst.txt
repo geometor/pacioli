@@ -5,8 +5,8 @@
 .. _architectura-cap_18:
 .. _architectura-cap_18-en:
 
-CHAPTER XVIII
-=============
+Chapter XVIII: Polyhedra in Architecture and Phidias in the Temple of Ceres
+===========================================================================
 
 .. rubric:: How Stonemasons and Sculptors Are Highly Commended for Placing the Regular and Dependent Polyhedra in Their Works, and How Phidias Placed the Icosahedron in the Temple of Ceres in Rome.
 

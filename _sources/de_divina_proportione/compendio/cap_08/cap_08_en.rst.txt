@@ -5,8 +5,8 @@
 .. _compendio-cap_08:
 .. _compendio-cap_08-en:
 
-CHAPTER VIII
-============
+Chapter VIII: How a Quantity Divided According to the Proportion Having a Mean and Two Extremes Is Understood
+=============================================================================================================
 
 .. rubric:: How a Quantity Divided According to the Proportion Having a Mean and Two Extremes Is to Be Understood
 
