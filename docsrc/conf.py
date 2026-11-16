@@ -32,3 +32,16 @@ html_static_path = ["_static"]
 html_css_files = [*globals().get("html_css_files", []), "css/custom.css"]
 
 autoapi_dirs = [str(_REPO_ROOT / "src" / "geometor")]
+
+# Restrict intersphinx_mapping strictly to offline local inventories present on disk:
+for _key in list(intersphinx_mapping.keys()):  # noqa: F405
+    _entry = intersphinx_mapping[_key]  # noqa: F405
+    _target = _entry[1] if isinstance(_entry, tuple) and len(_entry) >= 2 else None
+    _local_file = _target[0] if isinstance(_target, tuple) and _target else _target
+    if not (isinstance(_local_file, str) and Path(_local_file).is_file()):
+        intersphinx_mapping.pop(_key, None)  # noqa: F405
+
+if "intro.rst" not in exclude_patterns:  # noqa: F405
+    exclude_patterns.append("intro.rst")  # noqa: F405
+suppress_warnings = ["autoapi.python_import_resolution", "toc.not_included"]
+

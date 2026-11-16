@@ -2,13 +2,13 @@
 
 .. container:: author-overline
 
-   the works of
+   semantic digital archive • the works of
 
 ================
 Fra Luca Pacioli
 ================
 
-The mission of this project is to capture a semantic digital library of the works of :person:`Fra Luca Pacioli <pacioli>` (c. 1447–1517), the Franciscan mathematician of Borgo Sansepolcro whose treatises bridged classical Euclidean proportion, Renaissance perspective and polyhedra with :person:`Leonardo da Vinci <leonardo>`, and commercial arithmetic.
+The works of :person:`Fra Luca Pacioli <pacioli>` (c. 1447–1517) bridged classical Euclidean proportion, Renaissance perspective and polyhedra with :person:`Leonardo da Vinci <leonardo>`, and foundational algebra in his Venetian masterworks *De Divina Proportione* and *Summa de Arithmetica*. Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, these landmark treatises are liberated from static print bounds into addressable semantic units, calibrated vector diagrams, primary-source folio provenance, and exact symbolic models speaking one shared geometric language.
 
 .. collection::
    :type: book
