@@ -32,11 +32,11 @@ Table of Contents
 
 .. collection::
 
-   :doc: unit_01_dedication_arithmetica/unit_01_dedication_arithmetica_en
-   :doc: unit_02_algebra_cosa/unit_02_algebra_cosa_en
-   :doc: unit_03_proportioni/unit_03_proportioni_en
-   :doc: unit_04_computis_quaderno/unit_04_computis_quaderno_en
-   :doc: unit_05_tractatus_geometriae/unit_05_tractatus_geometriae_en
+   :doc: dist_01_dedication_arithmetica/dist_01_dedication_arithmetica_en
+   :doc: dist_02_algebra_cosa/dist_02_algebra_cosa_en
+   :doc: dist_03_proportioni/dist_03_proportioni_en
+   :doc: dist_04_computis_quaderno/dist_04_computis_quaderno_en
+   :doc: dist_05_tractatus_geometriae/dist_05_tractatus_geometriae_en
 
 ----
 
@@ -50,44 +50,44 @@ Table of Contents
    :hidden:
    :caption: Contents
 
-   unit_01_dedication_arithmetica/unit_01_dedication_arithmetica_en
-   unit_02_algebra_cosa/unit_02_algebra_cosa_en
-   unit_03_proportioni/unit_03_proportioni_en
-   unit_04_computis_quaderno/unit_04_computis_quaderno_en
-   unit_05_tractatus_geometriae/unit_05_tractatus_geometriae_en
+   dist_01_dedication_arithmetica/dist_01_dedication_arithmetica_en
+   dist_02_algebra_cosa/dist_02_algebra_cosa_en
+   dist_03_proportioni/dist_03_proportioni_en
+   dist_04_computis_quaderno/dist_04_computis_quaderno_en
+   dist_05_tractatus_geometriae/dist_05_tractatus_geometriae_en
 
 .. toctree::
    :maxdepth: 1
    :hidden:
    :caption: Italiano (1494)
 
-   unit_01_dedication_arithmetica/unit_01_dedication_arithmetica_it
-   unit_02_algebra_cosa/unit_02_algebra_cosa_it
-   unit_03_proportioni/unit_03_proportioni_it
-   unit_04_computis_quaderno/unit_04_computis_quaderno_it
-   unit_05_tractatus_geometriae/unit_05_tractatus_geometriae_it
+   dist_01_dedication_arithmetica/dist_01_dedication_arithmetica_it
+   dist_02_algebra_cosa/dist_02_algebra_cosa_it
+   dist_03_proportioni/dist_03_proportioni_it
+   dist_04_computis_quaderno/dist_04_computis_quaderno_it
+   dist_05_tractatus_geometriae/dist_05_tractatus_geometriae_it
 
 .. toctree::
    :maxdepth: 1
    :hidden:
    :caption: Mathematical Summary
 
-   unit_01_dedication_arithmetica/unit_01_dedication_arithmetica_summary
-   unit_02_algebra_cosa/unit_02_algebra_cosa_summary
-   unit_03_proportioni/unit_03_proportioni_summary
-   unit_04_computis_quaderno/unit_04_computis_quaderno_summary
-   unit_05_tractatus_geometriae/unit_05_tractatus_geometriae_summary
+   dist_01_dedication_arithmetica/dist_01_dedication_arithmetica_summary
+   dist_02_algebra_cosa/dist_02_algebra_cosa_summary
+   dist_03_proportioni/dist_03_proportioni_summary
+   dist_04_computis_quaderno/dist_04_computis_quaderno_summary
+   dist_05_tractatus_geometriae/dist_05_tractatus_geometriae_summary
 
 .. toctree::
    :maxdepth: 1
    :hidden:
    :caption: Commentary & Notes
 
-   unit_01_dedication_arithmetica/unit_01_dedication_arithmetica_notes
-   unit_02_algebra_cosa/unit_02_algebra_cosa_notes
-   unit_03_proportioni/unit_03_proportioni_notes
-   unit_04_computis_quaderno/unit_04_computis_quaderno_notes
-   unit_05_tractatus_geometriae/unit_05_tractatus_geometriae_notes
+   dist_01_dedication_arithmetica/dist_01_dedication_arithmetica_notes
+   dist_02_algebra_cosa/dist_02_algebra_cosa_notes
+   dist_03_proportioni/dist_03_proportioni_notes
+   dist_04_computis_quaderno/dist_04_computis_quaderno_notes
+   dist_05_tractatus_geometriae/dist_05_tractatus_geometriae_notes
 
 .. toctree::
    :maxdepth: 1
