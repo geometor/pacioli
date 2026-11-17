@@ -1,4 +1,6 @@
-:order: 92
+:navigation: header
+:order: 16
+:nav_title: Glossary
 :layout: book
 :type: apparatus
 :title: Technical Glossary

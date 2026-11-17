@@ -1,8 +1,7 @@
-:navigation: header
 :order: 91
+:nav_title: People
 :layout: book
 :title: Index of Persons
-:nav_title: People
 :breadcrumb_title: People
 
 .. _summa-persons:
