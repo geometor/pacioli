@@ -1,14 +1,14 @@
-:title: Part II: Tractato de l'Architectura
+:title: Part II: Treatise on Architecture
 :layout: book
 
 .. _architectura-index:
 
-Part II: Tractato de l'Architectura
-===================================
+Part II: Treatise on Architecture
+=================================
 
-.. rubric:: Prohemio & Chapters I–XX · Dedicated to the Stonemasons & Disciples of Borgo Sansepolcro (1509)
+.. rubric:: *Tractato de l'Architectura* — Prohemio & Chapters I–XX · Dedicated to the Stonemasons & Disciples of Borgo Sansepolcro (1509)
 
-Printed at Venice in 1509 (*Folios 0061–0082, f. 23r–33v*). Opening any chapter provides synchronized switching across **English**, **Italiano (1509)**, **Deutsch (1889)**, and **Critical Notes**.
+Printed at Venice in 1509 (*Folios 0061–0082, f. 23r–33v*). Opening any chapter provides synchronized switching across **English**, **Italian**, **German**, and **Notes**.
 
 ----
 
@@ -99,7 +99,7 @@ IV. Entablature, Porta Speciosa & Structural Harmony (Cap. XII–XX)
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Prohemio & Capitoli I–XX (Italiano 1509)
+   :caption: Italian Edition
 
    dedication/dedication_it
    cap_01/cap_01_it
