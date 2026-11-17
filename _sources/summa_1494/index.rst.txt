@@ -97,7 +97,7 @@ Table of Contents
    :caption: Scholarly Apparatus
 
    bibliography
-   persons
+   people/index
    glossary
 
 .. toctree::
