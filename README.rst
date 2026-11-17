@@ -21,24 +21,6 @@ Books in This Archive
 - `On the Divine Proportion <https://geometor.github.io/pacioli/de_divina_proportione/>`_ — *De Divina Proportione*, master treatise on the golden proportion, regular and semi-regular polyhedra illustrated with Leonardo da Vinci's sixty woodcut plates (Venice, 1509).
 - `Summary of Arithmetic, Geometry, Proportions and Proportionality <https://geometor.github.io/pacioli/summa_1494/>`_ — *Summa de Arithmetica, Geometria, Proportioni et Proportionalita*, encyclopedic compendium of Renaissance arithmetic, Cossic algebra, practical geometry, proportion theory, and double-entry bookkeeping (Venice, 1494).
 
-Python Package & Modules
-------------------------
-
-The ``geometor-pacioli`` Python package (``import geometor.pacioli``) provides the executable symbolic geometry, construction, and compilation modules powering this archive:
-
-- ``extraction.py`` — Module for extracting folios (images, text, manifests) from De Divina Proportione scans.
-- ``graphics.py`` — Module and CLI utility for graphic, initial cap, and content metadata extraction for Pacioli.
-- ``ledger_conservation.py`` — Exact conservation algebra of Pacioli's Venetian *Quaderno* & *Problem of Points* (1494).
-- ``pacioli.py`` — pacioli
-- ``parse_winterberg.py`` — ``geometor.pacioli.parse_winterberg`` module.
-- ``parser.py`` — ``geometor.pacioli.parser`` module.
-- ``proportions.py`` — Exact symbolic proportion theory and Cossic algebra from Pacioli's *Summa* (1494).
-- ``run_parse.py`` — ``geometor.pacioli.run_parse`` module.
-- ``run_winterberg_parse.py`` — ``geometor.pacioli.run_winterberg_parse`` module.
-- ``svg_woodcut.py`` — Deterministic ``.euclid-graphic`` SVG generator for Pacioli's *Summa* (1494) codex.
-- *Plus 2 additional modules under* ``src/geometor/pacioli/``.
-
-See the `API Reference <https://geometor.github.io/pacioli/modules/>`_ for full module documentation.
 
 Repository Contents
 -------------------
