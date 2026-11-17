@@ -1,14 +1,14 @@
-:title: Part I: Compendio de Divina Proportione
+:title: Part I: Compendium of the Divine Proportion
 :layout: book
 
 .. _compendio-index:
 
-Part I: Compendio de Divina Proportione
-=======================================
+Part I: Compendium of the Divine Proportion
+===========================================
 
-.. rubric:: Chapters I–LXXI · Dedicated to Ludovico Maria Sforza, Duke of Milan (Milan, 1498 / Venice, 1509)
+.. rubric:: *Compendio de Divina Proportione* — Chapters I–LXXI · Dedicated to Ludovico Maria Sforza, Duke of Milan (Milan, 1498 / Venice, 1509)
 
-Completed at Milan on December 14, 1498 and printed at Venice by :person:`Paganino de' Paganini <paganino-de-paganini>` on June 1, 1509 (*Folios 0017–0061, f. 1r–23r*). Opening any chapter provides synchronized switching across **English**, **Italiano (1509)**, **Deutsch (1889)**, and **Critical Notes**.
+Completed at Milan on December 14, 1498 and printed at Venice by :person:`Paganino de' Paganini <paganino-de-paganini>` on June 1, 1509 (*Folios 0017–0061, f. 1r–23r*). Opening any chapter provides synchronized switching across **English**, **Italian**, **German**, and **Notes**.
 
 ----
 
@@ -199,7 +199,7 @@ IV. Sphere, Oblong Bodies, Mensuration, Plate Concordance & Glossary (Cap. LVI�
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Capitoli I–LXXI (Italiano 1509)
+   :caption: Italian Edition
 
    cap_01/cap_01_it
    cap_02/cap_02_it

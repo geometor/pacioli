@@ -3,6 +3,11 @@ GEOMETOR • pacioli
 
 **Visit the Online Archive:** https://geometor.github.io/pacioli/
 
+.. image:: docsrc/summa_1494/dist_01_dedication_arithmetica/fig_01_figurate_perfect.svg
+   :alt: GEOMETOR • pacioli featured geometric construction
+   :target: https://geometor.github.io/pacioli/
+   :align: center
+
 **Fra Luca Pacioli • De Divina Proportione, Summa de Arithmetica • semantic digital archive**
 
 Mission
@@ -13,8 +18,8 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`De Divina Proportione <https://geometor.github.io/pacioli/de_divina_proportione/>`_** — Master treatise on the golden proportion, regular and semi-regular polyhedra illustrated with Leonardo da Vinci's sixty woodcut plates (Venice, 1509).
-- **`Summa de Arithmetica, Geometria, Proportioni et Proportionalita <https://geometor.github.io/pacioli/summa_1494/>`_** — Encyclopedic compendium of Renaissance arithmetic, Cossic algebra, practical geometry, proportion theory, and double-entry bookkeeping (Venice, 1494).
+- **`On the Divine Proportion <https://geometor.github.io/pacioli/de_divina_proportione/>`_** — *De Divina Proportione*, master treatise on the golden proportion, regular and semi-regular polyhedra illustrated with Leonardo da Vinci's sixty woodcut plates (Venice, 1509).
+- **`Summary of Arithmetic, Geometry, Proportions and Proportionality <https://geometor.github.io/pacioli/summa_1494/>`_** — *Summa de Arithmetica, Geometria, Proportioni et Proportionalita*, encyclopedic compendium of Renaissance arithmetic, Cossic algebra, practical geometry, proportion theory, and double-entry bookkeeping (Venice, 1494).
 
 Repository Contents
 -------------------

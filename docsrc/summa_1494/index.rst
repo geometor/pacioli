@@ -1,23 +1,25 @@
 :navigation: header
 :order: 2
 :type: book
-:nav_title: Summa de Arithmetica
-:breadcrumb_title: Summa de Arithmetica
+:title: Summary of Arithmetic, Geometry, Proportions and Proportionality
+:nav_title: Summa
+:breadcrumb_title: Summa
 :layout: book
-:book_title: Summa de Arithmetica, Geometria, Proportioni et Proportionalita
-:book_subtitle: Fra Luca Pacioli (Venice, 1494)
+:book_title: Summary of Arithmetic, Geometry, Proportions and Proportionality
+:book_subtitle: Summa de Arithmetica, Geometria, Proportioni et Proportionalita — Fra Luca Pacioli (Venice, 1494)
 :author: Fra Luca Pacioli
 :publisher: Paganinus de Paganinis de Brixia (Venice, Nov. 10–20, 1494)
 :year: 1494
+:tracks: English: index | Italian: title-it
 :excerpt: Pacioli's monumental 1494 Venetian compendium of speculative arithmetic, Hindu–Arabic algorism, Cossic algebra, Euclidean proportion theory, double-entry bookkeeping, and practical geometry.
 
 .. _summa-1494-index:
 
-===============================================================
-Summa de Arithmetica, Geometria, Proportioni et Proportionalita
-===============================================================
+====================================================================
+Summary of Arithmetic, Geometry, Proportions and Proportionality
+====================================================================
 
-.. rubric:: Fra Luca Pacioli (Venice, 1494)
+.. rubric:: *Summa de Arithmetica, Geometria, Proportioni et Proportionalita* — Fra Luca Pacioli (Venice, 1494)
 
 .. container:: title-page
 
@@ -59,7 +61,7 @@ Table of Contents
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Italiano (1494)
+   :caption: Italian Edition
 
    dist_01_dedication_arithmetica/dist_01_dedication_arithmetica_it
    dist_02_algebra_cosa/dist_02_algebra_cosa_it
@@ -97,3 +99,10 @@ Table of Contents
    bibliography
    persons
    glossary
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Title Pages
+
+   title-it

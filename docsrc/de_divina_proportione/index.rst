@@ -1,24 +1,26 @@
 :navigation: header
 :order: 1
 :type: book
-:nav_title: De Divina Proportione
-:breadcrumb_title: De Divina Proportione
+:title: On the Divine Proportion
+:nav_title: Divine Proportion
+:breadcrumb_title: Divine Proportion
 :layout: book
-:book_title: De Divina Proportione
-:book_subtitle: On the Divine Proportion — Fra Luca Pacioli & Leonardo da Vinci (Venice, 1509)
+:book_title: On the Divine Proportion
+:book_subtitle: De Divina Proportione — Fra Luca Pacioli & Leonardo da Vinci (Venice, 1509)
 :author: Fra Luca Pacioli
 :publisher: Paganinus de Paganinis de Brixia (Venice, 1509)
 :year: 1509
+:tracks: English: index | Italian: title-it
 :excerpt: Pacioli's 1509 Venetian treatise on the Divine Proportion, the thirteen marvelous effects of Euclid's Book XIII, Vitruvian architecture, the Roman alphabet, and the sixty Platonic and Archimedean solids drawn by Leonardo da Vinci.
 
 .. _de-divina-proportione-index:
 .. _pacioli-index:
 
-=====================
-De Divina Proportione
-=====================
+=========================
+On the Divine Proportion
+=========================
 
-.. rubric:: *On the Divine Proportion* — Fra Luca Pacioli & Leonardo da Vinci (Venice, 1509)
+.. rubric:: *De Divina Proportione* — Fra Luca Pacioli & Leonardo da Vinci (Venice, 1509)
 
 .. container:: title-page
 
@@ -72,3 +74,10 @@ Table of Contents
    bibliography
    persons
    glossary
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Title Pages
+
+   title-it
