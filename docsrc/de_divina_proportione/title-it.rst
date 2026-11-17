@@ -40,5 +40,5 @@ Apparato Critico
 ----------------
 
 * :doc:`Bibliografia <bibliography>`
-* :doc:`Indice dei Nomi <persons>`
+* :doc:`Indice dei Nomi <people/index>`
 * :doc:`Glossario <glossary>`

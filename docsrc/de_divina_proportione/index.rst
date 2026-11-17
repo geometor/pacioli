@@ -47,7 +47,7 @@ Table of Contents
 
 .. rubric:: Scholarly Apparatus
 
-:doc:`Bibliography & Cited Works <bibliography>` · :doc:`Index of Persons <persons>` · :doc:`Technical Glossary <glossary>`
+:doc:`Bibliography & Cited Works <bibliography>` · :doc:`Index of Persons <people/index>` · :doc:`Technical Glossary <glossary>`
 
 
 .. toctree::
@@ -72,7 +72,7 @@ Table of Contents
    :caption: Scholarly Apparatus
 
    bibliography
-   persons
+   people/index
    glossary
 
 .. toctree::
