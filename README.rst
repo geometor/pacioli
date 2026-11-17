@@ -18,8 +18,8 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`On the Divine Proportion <https://geometor.github.io/pacioli/de_divina_proportione/>`_** — *De Divina Proportione*, master treatise on the golden proportion, regular and semi-regular polyhedra illustrated with Leonardo da Vinci's sixty woodcut plates (Venice, 1509).
-- **`Summary of Arithmetic, Geometry, Proportions and Proportionality <https://geometor.github.io/pacioli/summa_1494/>`_** — *Summa de Arithmetica, Geometria, Proportioni et Proportionalita*, encyclopedic compendium of Renaissance arithmetic, Cossic algebra, practical geometry, proportion theory, and double-entry bookkeeping (Venice, 1494).
+- `On the Divine Proportion <https://geometor.github.io/pacioli/de_divina_proportione/>`_ — *De Divina Proportione*, master treatise on the golden proportion, regular and semi-regular polyhedra illustrated with Leonardo da Vinci's sixty woodcut plates (Venice, 1509).
+- `Summary of Arithmetic, Geometry, Proportions and Proportionality <https://geometor.github.io/pacioli/summa_1494/>`_ — *Summa de Arithmetica, Geometria, Proportioni et Proportionalita*, encyclopedic compendium of Renaissance arithmetic, Cossic algebra, practical geometry, proportion theory, and double-entry bookkeeping (Venice, 1494).
 
 Repository Contents
 -------------------
