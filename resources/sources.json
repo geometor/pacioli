@@ -1,0 +1,24 @@
+{
+  "repository": "geometor/pacioli",
+  "rights_category": "public-domain",
+  "sources": [
+    {
+      "id": "paganini-1509",
+      "title": "De Divina Proportione (Venice, 1509)",
+      "author": "Fra Luca Pacioli",
+      "year": "1509",
+      "era": "Internet Archive",
+      "languages": [
+        "Italian",
+        "Latin"
+      ],
+      "site_url": "https://archive.org/details/divinaproportion00paci",
+      "local_path": "resources/de_divina_proportione/pdfs/divinaproportion00paci.pdf",
+      "pages": 318,
+      "publisher": "Paganino de' Paganini, Venice",
+      "holding_institution": "Getty Research Institute",
+      "rights": "Public Domain (1509)",
+      "excerpt": "1509 Venice editio princeps with Leonardo da Vinci's 60 polyhedra, 318 pp., Getty copy on Internet Archive."
+    }
+  ]
+}
