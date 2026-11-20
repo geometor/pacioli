@@ -3,6 +3,12 @@ GEOMETOR • pacioli
 
 **Visit the Online Archive:** https://geometor.github.io/pacioli/
 
+.. image:: docsrc/_static/logo.png
+   :alt: GEOMETOR • pacioli Medallion
+   :target: https://geometor.github.io/pacioli/
+   :width: 180px
+   :align: center
+
 .. image:: docsrc/summa_1494/dist_01_dedication_arithmetica/fig_01_figurate_perfect.svg
    :alt: GEOMETOR • pacioli featured geometric construction
    :target: https://geometor.github.io/pacioli/
