@@ -8,6 +8,10 @@
 Fra Luca Pacioli
 ================
 
+.. image:: _static/medallion.svg
+   :alt: Fra Luca Pacioli Medallion
+   :class: repo-medallion-hero
+
 The works of :person:`Fra Luca Pacioli <pacioli>` (c. 1447–1517) bridged classical Euclidean proportion, Renaissance perspective and polyhedra with :person:`Leonardo da Vinci <leonardo>`, and foundational algebra in his Venetian masterworks *De Divina Proportione* and *Summa de Arithmetica*. Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, these landmark treatises are liberated from static print bounds into addressable semantic units, calibrated vector diagrams, primary-source folio provenance, and exact symbolic models speaking one shared geometric language.
 
 .. reference-directory::
