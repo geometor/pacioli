@@ -8,7 +8,7 @@
 Chapter VI: The Stylobate, Roman Alphabet, and the Three Sets of Polyhedra Models
 =================================================================================
 
-.. rubric:: On the Order and Construction of the Stylobate (Pedestal or Base-Pillar) of the Column, the Stereobate Foundation, the Ancient Roman Alphabet, and the Three Sets of Sixty Polyhedra Models Made by Pacioli alongside Leonardo da Vinci.
+.. rubric:: On the Order and Construction of the Stylobate (Pedestal or Base-Pillar) of the Column, the Stereobate Foundation, the Ancient Roman Alphabet, and the Three Sets of Sixty Polyhedra Models Made by Our Hand alongside Leonardo da Vinci.
 
 .. folio:: 0071–0072 (f. 28r–f. 28v)
    :initial: 0071.c2.png

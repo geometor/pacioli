@@ -34,7 +34,7 @@ Summa de Arithmetica, Geometria, Proportioni et Proportionalita (Venice: 1494)
 The 616-folio incunable encyclopedia uniting commercial arithmetic, syncopated Cossic algebra (*Regola dela Cosa*), Boethian and Euclidean proportions, the earliest printed system of double-entry bookkeeping (*Particularis de computis et scripturis*), and practical stereometry.
 
 Fra Luca Pacioli: Divina Proportione (Winterberg, Vienna 1889)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **Citation Key**: ``winterberg:1889``
 * **Editor & Translator**: :person:`Constantin Winterberg <winterberg>`
