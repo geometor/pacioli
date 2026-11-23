@@ -25,7 +25,7 @@ And to understand why the Ancients varied the strength and ornament of their col
 
 .. assertion::
 
-   1. **Height of the Abacus (:math:`\frac{1}{8} - \frac{1}{10} = \frac{1}{40}` of the Column Height)**:
+   1. **Height of the Abacus** (:math:`\frac{1}{8} - \frac{1}{10} = \frac{1}{40}` of the Column Height):
       To proportion the capital of the round column (see :ref:`Plate 0213 <plates-architectural-en>`), the Ancients first divided the total intended height of the column (including its capital) into **8 equal parts** (:math:`\frac{1}{8}`), and then divided that same height into **10 equal parts** (:math:`\frac{1}{10}`). Subtracting one-tenth from one-eighth leaves **one-fortieth** (:math:`\frac{1}{8} - \frac{1}{10} = \frac{1}{40}`) of the total height!
 
       - This **fortieth part** (:math:`\frac{1}{40}`) is assigned to the thickness (height) of the **abacus** (:term:`*abaco* <abaco>`, called *cimatio* by modern masons, marked :math:`ln` or :math:`mo` in Plate 0213).

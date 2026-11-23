@@ -21,9 +21,9 @@ Having shown how round columns are carved and proportioned in themselves, we now
 
    When setting up a row of columns plumb (*a livello*) upon their stylobates and foundations, the Ancients spaced them apart from one another by the following multiples of **one column thickness (lower diameter)**:
 
-   1. **One and a half column thicknesses (:math:`1\frac{1}{2}\,D`, Pycnostyle)**, or even **one single thickness (:math:`1\,D`)**: Found by travelers in ancient temples at **Athens** and **Alexandria in Egypt**, and in many places in **Rome**; strongest of all for bearing immense loads.
-   2. **Two column thicknesses (:math:`2\,D`, Systyle)**: Commended by :person:`Vitruvius <vitruvius>` for combining strength with dignity.
-   3. **Two and a quarter or two and a half column thicknesses (:math:`2\frac{1}{4}\,D` to :math:`2\frac{1}{2}\,D`, Eustyle)**: **Commended above all others by our Vitruvius** (*più commenda... a vaghezza*) both for visual beauty (*venustà*) and for convenient passage, provided the load of the epistyle (:term:`architrave <epistilio>`), frieze, and cornice overhead is not excessive!
+   1. **One and a half column thicknesses** (:math:`1\frac{1}{2}\,D`, Pycnostyle), or even **one single thickness** (:math:`1\,D`): Found by travelers in ancient temples at **Athens** and **Alexandria in Egypt**, and in many places in **Rome**; strongest of all for bearing immense loads.
+   2. **Two column thicknesses** (:math:`2\,D`, Systyle): Commended by :person:`Vitruvius <vitruvius>` for combining strength with dignity.
+   3. **Two and a quarter or two and a half column thicknesses** (:math:`2\frac{1}{4}\,D` to :math:`2\frac{1}{2}\,D`, Eustyle): **Commended above all others by our Vitruvius** (*più commenda... a vaghezza*) both for visual beauty (*venustà*) and for convenient passage, provided the load of the epistyle (:term:`architrave <epistilio>`), frieze, and cornice overhead is not excessive!
 
    *(Note on the term **Tetrante**: By *tetrante* is understood any rectangular space or interval bounded by parallel lines that tends toward a square—thus we used *tetrante* in :ref:`Chapter IV <architectura-cap_04-en>` for the space between two corner horns of the capital's abacus, here for the **intercolumniation** between two standing columns, and in :ref:`Chapter XIII <architectura-cap_13-en>` for the metope interval between two *:term:`*triglyphs* <tygraphi>`*!)*
 

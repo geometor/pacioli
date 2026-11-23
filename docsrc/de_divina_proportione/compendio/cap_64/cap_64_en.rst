@@ -29,11 +29,11 @@ It now follows in order, most lofty Duke, to treat of **pyramids** and their var
 
    Let :math:`abc` be the generating right triangle with right angle at :math:`b` (:math:`\angle abc = 90^{\circ}`), fixed vertical axis :math:`ab`, and revolving base leg :math:`bc`. When the revolving triangle reaches the opposite position :math:`abd` in the same plane, the two legs :math:`bc` and :math:`bd` form a single straight line :math:`bcd` (the diameter of the circular base), and the axial cross-section of the cone is the isosceles triangle :math:`acd` with apex angle :math:`\angle cad = 2\,\angle cab`:
 
-   1. **Case 1 (:math:`ab = bc`, Right-Angled Cone)**:
+   1. **Case 1** (:math:`ab = bc`, Right-Angled Cone):
       In the right triangle :math:`abc`, since :math:`ab = bc`, by the :just:`fifth <I.5>` and :just:`thirty-second of the first <I.32>`, the acute angle :math:`\angle cab` is **half a right angle** (:math:`45^{\circ}`). Therefore the full apex angle :math:`\angle cad = 2\,\angle cab` is **one right angle** (:math:`90^{\circ}`), and the cone is called **right-angled** (*pyramide rectangola*).
-   2. **Case 2 (:math:`ab > bc`, Acute-Angled Cone)**:
+   2. **Case 2** (:math:`ab > bc`, Acute-Angled Cone):
       If the axis :math:`ab` is longer than the radius :math:`bc`, then by the :just:`nineteenth <I.19>` and :just:`thirty-second of the first <I.32>` (since the greater side subtends the greater angle), :math:`\angle cab < \angle acb`, so :math:`\angle cab` is **less than half a right angle** (:math:`< 45^{\circ}`). Therefore the full apex angle :math:`\angle cad = 2\,\angle cab` is **less than a right angle** (acute), and the cone is called **acute-angled** (*pyramide acutiangola*).
-   3. **Case 3 (:math:`ab < bc`, Obtuse-Angled Cone)**:
+   3. **Case 3** (:math:`ab < bc`, Obtuse-Angled Cone):
       If the axis :math:`ab` is shorter than the radius :math:`bc`, then by :just:`I.19` and :just:`I.32`, :math:`\angle cab > \angle acb`, so :math:`\angle cab` is **greater than half a right angle** (:math:`> 45^{\circ}`). Therefore the full apex angle :math:`\angle cad = 2\,\angle cab` is **greater than a right angle** (obtuse), and the cone is called **obtuse-angled** (*pyramide obtusiangola*).
 
 .. qed::

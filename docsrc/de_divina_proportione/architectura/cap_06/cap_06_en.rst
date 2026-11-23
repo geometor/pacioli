@@ -19,9 +19,9 @@ The :term:`**stylobate** <stilobata>` (:term:`*stilobata* <stilobata>`, which we
 
 .. assertion::
 
-   1. **Width and Height of the Stylobate Die (:math:`cdef`)**:
+   1. **Width and Height of the Stylobate Die** (:math:`cdef`):
 
-      - The width :math:`ef = cd` of the vertical die (shaft) of the :term:`stylobate <stilobata>` must be **exactly equal to the width of the plinth (:math:`hg`) of the column base** standing upon it (:math:`1\frac{1}{2}` column diameters), aligned plumb (*a livello*) so that the vertical lines :math:`ce` and :math:`df` carry the load directly without overhang or obliquity.
+      - The width :math:`ef = cd` of the vertical die (shaft) of the :term:`stylobate <stilobata>` must be **exactly equal to the width of the plinth** (:math:`hg`) **of the column base** standing upon it (:math:`1\frac{1}{2}` column diameters), aligned plumb (*a livello*) so that the vertical lines :math:`ce` and :math:`df` carry the load directly without overhang or obliquity.
       - The **height** of the :term:`stylobate <stilobata>` must be **twice its width** (:math:`2 : 1` ratio, i.e., equal to two plinth lengths), so that it combines structural strength with visual grace, as seen in the :term:`**Porta Speciosa** <porta-speciosa>` (:ref:`Plate 0185 <plates-architectural-en>`).
 
    2. **Universal Law of Square Projections (*Proiecture / Sportafore*)**:

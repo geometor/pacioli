@@ -21,15 +21,15 @@ Having treated sufficiently of the proportions of the head, we now set forth the
 
    With the Ancients and our :person:`**Vitruvius** <vitruvius>` (Book III, Chapter 1, *De sacrarum aedium compositione*), we state the following fundamental ratios of the total stature (height) of a well-proportioned man from the soles of his feet to the crown of his head:
 
-   1. **The Face (*Testa / Os Capitis*, :math:`= \frac{1}{10}`)**: From the bottom of the chin to the top of the forehead at the roots of the hair (our profile line :math:`mk` in :ref:`Chapter I <architectura-cap_01-en>`) is **one-tenth** (:math:`\frac{1}{10}`) of the total height of the body.
-   2. **The Hand (*Palma dela Mano*, :math:`= \frac{1}{10}`)**: From the wrist joint (*articolo*) to the tip of the middle finger is likewise **one-tenth** (:math:`\frac{1}{10}`) of the total height (equal to one face, *vna testa*).
-   3. **The Whole Head (*Tutto el Capo*, :math:`= \frac{1}{8}`)**: From the bottom of the chin to the highest crown (*vertice*, point :math:`p`) of the skull is **one-eighth** (:math:`\frac{1}{8}`) of the total height.
-   4. **From the Top of the Chest to the Hairline (:math:`= \frac{1}{6}`)**: Equals **one-sixth** (:math:`\frac{1}{6}`) of the total height.
-   5. **From the Top of the Chest to the Crown of the Head (:math:`= \frac{1}{4}`)**: Equals **one-fourth** (:math:`\frac{1}{4}`) of the total height.
-   6. **Subdivisions of the Face (:math:`= \frac{1}{3}` of :math:`\frac{1}{10}` each)**: From the chin to the nostrils is :math:`\frac{1}{3}` of the face; the nose from the nostrils to the brow is :math:`\frac{1}{3}`; and the forehead from the brow to the hairline is :math:`\frac{1}{3}`.
-   7. **The Foot (*El Pede*, :math:`= \frac{1}{6}`)**: From the heel to the tip of the great toe is **one-sixth** (:math:`\frac{1}{6}`) of the total height.
-   8. **The Cubit / Forearm (*El Cubito*, :math:`= \frac{1}{4}`)**: Equals **one-fourth** (:math:`\frac{1}{4}`) of the total height.
-   9. **The Chest / Breast (*El Petto*, :math:`= \frac{1}{4}`)**: Equals **one-fourth** (:math:`\frac{1}{4}`) of the total height.
+   1. **The Face** (*Testa / Os Capitis*, :math:`= \frac{1}{10}`): From the bottom of the chin to the top of the forehead at the roots of the hair (our profile line :math:`mk` in :ref:`Chapter I <architectura-cap_01-en>`) is **one-tenth** (:math:`\frac{1}{10}`) of the total height of the body.
+   2. **The Hand** (*Palma dela Mano*, :math:`= \frac{1}{10}`): From the wrist joint (*articolo*) to the tip of the middle finger is likewise **one-tenth** (:math:`\frac{1}{10}`) of the total height (equal to one face, *vna testa*).
+   3. **The Whole Head** (*Tutto el Capo*, :math:`= \frac{1}{8}`): From the bottom of the chin to the highest crown (*vertice*, point :math:`p`) of the skull is **one-eighth** (:math:`\frac{1}{8}`) of the total height.
+   4. **From the Top of the Chest to the Hairline** (:math:`= \frac{1}{6}`): Equals **one-sixth** (:math:`\frac{1}{6}`) of the total height.
+   5. **From the Top of the Chest to the Crown of the Head** (:math:`= \frac{1}{4}`): Equals **one-fourth** (:math:`\frac{1}{4}`) of the total height.
+   6. **Subdivisions of the Face** (:math:`= \frac{1}{3}` of :math:`\frac{1}{10}` each): From the chin to the nostrils is :math:`\frac{1}{3}` of the face; the nose from the nostrils to the brow is :math:`\frac{1}{3}`; and the forehead from the brow to the hairline is :math:`\frac{1}{3}`.
+   7. **The Foot** (*El Pede*, :math:`= \frac{1}{6}`): From the heel to the tip of the great toe is **one-sixth** (:math:`\frac{1}{6}`) of the total height.
+   8. **The Cubit / Forearm** (*El Cubito*, :math:`= \frac{1}{4}`): Equals **one-fourth** (:math:`\frac{1}{4}`) of the total height.
+   9. **The Chest / Breast** (*El Petto*, :math:`= \frac{1}{4}`): Equals **one-fourth** (:math:`\frac{1}{4}`) of the total height.
 
    As :person:`Vitruvius <vitruvius>` himself writes verbatim in Latin (III.1.2):
 
@@ -50,7 +50,7 @@ Having treated sufficiently of the proportions of the head, we now set forth the
 
       (*Cum coaptati fuerint numeri ab unitate continue dupli qui coniuncti faciant numerum primum, extremus eorum in aggregatum ex eis ductus producit numerum perfectum.*)
 
-   3. **The Most Perfect Number Sixteen (:math:`10 + 6 = 16`, and :math:`4^{2} = (2^{2})^{2}`)**:
+   3. **The Most Perfect Number Sixteen** (:math:`10 + 6 = 16`, and :math:`4^{2} = (2^{2})^{2}`):
       Joining together the philosophical perfect number **10** and the mathematical perfect number **6** produces **16** (:math:`10 + 6 = 16`, the 16 digits in a foot!), which :person:`Vitruvius <vitruvius>` calls the **most perfect number** (*perfectissimo*). And proceeding mathematically, we may add a second reason of our own (*ratione quadraturae*): **16** is the **square of the first square** (*el quadrato del primo quadrato*, or :term:`*censo de censo* <censo-de-censo>` in algebra!), since setting aside unity (the queen of all numbers), the first square (*censo primo*) is **4** (:math:`= 2^{2}`), and its square is **16** (:math:`= 4^{2} = 2^{4}`)!
 
 To keep all these human proportions before your eyes at a single opening of the compass, I have placed in the margin on Folio 0069 (diagram ``0069.g1.png``) the graduated scale line :math:`ab` divided into 10 equal parts at points :math:`c, d, e, f, g, h, k, l, m`, by which you can scale any figure—whether life-sized, a giant (*gigante*), or a dwarf (*nanino*)—just as cosmographers use their degree-scales on world maps (*mappamondi*) and nautical charts (*carte naviganti*).
