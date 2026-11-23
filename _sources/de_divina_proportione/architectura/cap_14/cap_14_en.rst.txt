@@ -23,13 +23,13 @@ Once the columns have been erected plumb (*a livello*) upon their stylobates, wi
 
    1. Divide the total height of the epistyle into **7 equal parts**:
 
-      - **One-seventh (:math:`\frac{1}{7}`) at the top** is assigned to the **taenia or cymatium of the epistyle** (*la tenia ouer cimatio delo epistilio*, marked :math:`h` in Plate 0215), upon which the frieze (:term:`*zophoro* <zophoro>`, marked :math:`V`) rests.
+      - **One-seventh** (:math:`\frac{1}{7}`) **at the top** is assigned to the **taenia or cymatium of the epistyle** (*la tenia ouer cimatio delo epistilio*, marked :math:`h` in Plate 0215), upon which the frieze (:term:`*zophoro* <zophoro>`, marked :math:`V`) rests.
 
-   2. Divide the remaining **six-sevenths (:math:`\frac{6}{7}`)** below the cymatium into **12 equal sub-parts** (so each sub-part is :math:`\frac{1}{14}` of the whole epistyle), and distribute them among the **three fasciae** (*tre fasce ouer fastigii*) in the **3 : 4 : 5 arithmetic proportion**:
+   2. Divide the remaining **six-sevenths** (:math:`\frac{6}{7}`) below the cymatium into **12 equal sub-parts** (so each sub-part is :math:`\frac{1}{14}` of the whole epistyle), and distribute them among the **three fasciae** (*tre fasce ouer fastigii*) in the **3 : 4 : 5 arithmetic proportion**:
 
-      - **Lowest Fascia (*Fascia Infima*, marked :math:`a`)**: **3 parts** (out of 12);
-      - **Middle Fascia (*Fascia Media*, marked :math:`c`)**: **4 parts** (out of 12);
-      - **Upper Fascia (*Fascia Soprana*, marked :math:`e`)**: **5 parts** (out of 12).
+      - **Lowest Fascia** (*Fascia Infima*, marked :math:`a`): **3 parts** (out of 12);
+      - **Middle Fascia** (*Fascia Media*, marked :math:`c`): **4 parts** (out of 12);
+      - **Upper Fascia** (*Fascia Soprana*, marked :math:`e`): **5 parts** (out of 12).
 
    3. **Ornamental Mouldings Between and Above the Three Fasciae**:
 
