@@ -31,6 +31,9 @@ Und hieraus offenbart es sich, dass jedem rechtwinkligen Parallelogramme der Kre
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0052.g1.svg
+   :alt: Calibrated vector diagram for 0052.g1.png
+
 .. figure:: 0052.g1.png
    :align: center
 

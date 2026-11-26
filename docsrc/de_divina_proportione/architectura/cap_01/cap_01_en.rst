@@ -67,6 +67,9 @@ For **art imitates nature as far as it is able** (*l'arte imita la natura quanto
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0066.g1.svg
+   :alt: Calibrated vector diagram for 0066.g1.png
+
 .. figure:: 0066.g1.png
    :align: center
 

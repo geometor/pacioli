@@ -49,6 +49,9 @@ And if a sixth simple element could have existed in nature without a correspondi
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0049.g1.svg
+   :alt: Calibrated vector diagram for 0049.g1.png
+
 .. figure:: 0049.g1.png
    :align: center
 

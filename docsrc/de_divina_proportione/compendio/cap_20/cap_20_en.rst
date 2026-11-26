@@ -30,6 +30,9 @@ Chapter XX: On Its Eleventh Most Excellent Effect
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0029.g1.svg
+   :alt: Calibrated vector diagram for 0029.g1.png
+
 .. figure:: 0029.g1.png
    :align: center
 

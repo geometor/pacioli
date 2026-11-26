@@ -45,10 +45,16 @@ How deeply obligated we are, most lofty Duke, to the Ancients who by their long 
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0057.g1.svg
+   :alt: Calibrated vector diagram for 0057.g1.png
+
 .. figure:: 0057.g1.png
    :align: center
 
    Folio 0057 Diagram 1
+
+.. picture:: 0057.g2.svg
+   :alt: Calibrated vector diagram for 0057.g2.png
 
 .. figure:: 0057.g2.png
    :align: center

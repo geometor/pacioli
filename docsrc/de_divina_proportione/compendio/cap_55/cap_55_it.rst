@@ -31,6 +31,9 @@ E auenga che questi 5 sienno soli chiamati regulari non pero se exclude la :term
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0049.g1.svg
+   :alt: Calibrated vector diagram for 0049.g1.png
+
 .. figure:: 0049.g1.png
    :align: center
 

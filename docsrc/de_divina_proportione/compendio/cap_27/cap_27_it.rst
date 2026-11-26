@@ -23,15 +23,24 @@ E cosi ancora :cite:`per la quarta del ditto vndecimo <euclid:elements:XI.4>` se
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0032.g3.svg
+   :alt: Calibrated vector diagram for 0032.g3.png
+
 .. figure:: 0032.g3.png
    :align: center
 
    Folio 0032 Diagram 3
 
+.. picture:: 0033.g1.svg
+   :alt: Calibrated vector diagram for 0033.g1.png
+
 .. figure:: 0033.g1.png
    :align: center
 
    Folio 0033 Diagram 1
+
+.. picture:: 0033.g2.svg
+   :alt: Calibrated vector diagram for 0033.g2.png
 
 .. figure:: 0033.g2.png
    :align: center

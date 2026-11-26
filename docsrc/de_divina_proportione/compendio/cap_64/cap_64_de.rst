@@ -27,10 +27,16 @@ Und diese wird Pyramide der runden Säule genannt, d. h, von der, welche das Par
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0055.g1.svg
+   :alt: Calibrated vector diagram for 0055.g1.png
+
 .. figure:: 0055.g1.png
    :align: center
 
    Folio 0055 Diagram 1
+
+.. picture:: 0055.g2.svg
+   :alt: Calibrated vector diagram for 0055.g2.png
 
 .. figure:: 0055.g2.png
    :align: center

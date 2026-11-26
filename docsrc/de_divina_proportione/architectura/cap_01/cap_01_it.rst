@@ -39,6 +39,9 @@ E questo basti quanto ala proportionale diuisione del profilo dela testa fiumana
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0066.g1.svg
+   :alt: Calibrated vector diagram for 0066.g1.png
+
 .. figure:: 0066.g1.png
    :align: center
 

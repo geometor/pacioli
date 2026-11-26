@@ -60,6 +60,9 @@ To keep all these human proportions before your eyes at a single opening of the 
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0069.g1.svg
+   :alt: Calibrated vector diagram for 0069.g1.png
+
 .. figure:: 0069.g1.png
    :align: center
 

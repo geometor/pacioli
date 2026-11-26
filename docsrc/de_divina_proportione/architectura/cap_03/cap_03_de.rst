@@ -45,6 +45,9 @@ Und wir werden im Folgenden zur beabsichtigten Aufgabe nämlich zum Entwurf rund
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0069.g1.svg
+   :alt: Calibrated vector diagram for 0069.g1.png
+
 .. figure:: 0069.g1.png
    :align: center
 

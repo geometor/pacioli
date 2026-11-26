@@ -39,6 +39,9 @@ Seria circa ciò da dir molte altre parti nell homo poste conciosia che dali sap
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0069.g1.svg
+   :alt: Calibrated vector diagram for 0069.g1.png
+
 .. figure:: 0069.g1.png
    :align: center
 

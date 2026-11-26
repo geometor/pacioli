@@ -22,6 +22,9 @@ E dico per la proportione fral :term:`dyametro <dyametro>` dela :term:`spera <sp
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0032.g2.svg
+   :alt: Calibrated vector diagram for 0032.g2.png
+
 .. figure:: 0032.g2.png
    :align: center
 

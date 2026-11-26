@@ -49,6 +49,9 @@ Chapter XXI: On Its Twelfth Almost Incomprehensible Effect
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0029.g2.svg
+   :alt: Calibrated vector diagram for 0029.g2.png
+
 .. figure:: 0029.g2.png
    :align: center
 

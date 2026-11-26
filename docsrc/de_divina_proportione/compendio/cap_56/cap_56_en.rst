@@ -33,6 +33,9 @@ The sphere has been defined in various ways by many authors—above all by the w
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0049.g2.svg
+   :alt: Calibrated vector diagram for 0049.g2.png
+
 .. figure:: 0049.g2.png
    :align: center
 

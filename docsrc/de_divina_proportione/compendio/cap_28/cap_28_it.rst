@@ -25,15 +25,24 @@ Ecosi sempre con diligentia obseruate le sopra diete cose sira finito el corpo d
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0033.g3.svg
+   :alt: Calibrated vector diagram for 0033.g3.png
+
 .. figure:: 0033.g3.png
    :align: center
 
    Folio 0033 Diagram 3
 
+.. picture:: 0033.g4.svg
+   :alt: Calibrated vector diagram for 0033.g4.png
+
 .. figure:: 0033.g4.png
    :align: center
 
    Folio 0033 Diagram 4
+
+.. picture:: 0034.g1.svg
+   :alt: Calibrated vector diagram for 0034.g1.png
 
 .. figure:: 0034.g1.png
    :align: center

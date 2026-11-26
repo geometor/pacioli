@@ -25,6 +25,9 @@ Und das sei zu seiner Kenntniss und über seinen Ursprung gesagt.
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0049.g2.svg
+   :alt: Calibrated vector diagram for 0049.g2.png
+
 .. figure:: 0049.g2.png
    :align: center
 

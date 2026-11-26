@@ -43,6 +43,9 @@ Therefore the regular :term:`tetracedron <tetrahedron>` has been formed and insc
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0032.g2.svg
+   :alt: Calibrated vector diagram for 0032.g2.png
+
 .. figure:: 0032.g2.png
    :align: center
 
