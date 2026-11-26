@@ -25,6 +25,9 @@ E de luna e de laltra fin qua le lor forme materiali alochio demostrano quello s
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0053.g1.svg
+   :alt: Calibrated vector diagram for 0053.g1.png
+
 .. figure:: 0053.g1.png
    :align: center
 

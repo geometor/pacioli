@@ -29,6 +29,9 @@ Onde perche sienno tanti e tali li :term:`corpi regulari <corpi-regulari>` e per
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0032.g1.svg
+   :alt: Calibrated vector diagram for 0032.g1.png
+
 .. figure:: 0032.g1.png
    :align: center
 

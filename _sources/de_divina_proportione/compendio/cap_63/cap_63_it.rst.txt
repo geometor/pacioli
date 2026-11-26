@@ -21,20 +21,32 @@ E per expeditione de tutte laltre questa medesima regola se deue seruare o sienn
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0054.g5.svg
+   :alt: Calibrated vector diagram for 0054.g5.png
+
 .. figure:: 0054.g5.png
    :align: center
 
    Folio 0054 Diagram 5
+
+.. picture:: 0054.g6.svg
+   :alt: Calibrated vector diagram for 0054.g6.png
 
 .. figure:: 0054.g6.png
    :align: center
 
    Folio 0054 Diagram 6
 
+.. picture:: 0054.g8.svg
+   :alt: Calibrated vector diagram for 0054.g8.png
+
 .. figure:: 0054.g8.png
    :align: center
 
    Folio 0054 Diagram 8
+
+.. picture:: 0054.g7.svg
+   :alt: Calibrated vector diagram for 0054.g7.png
 
 .. figure:: 0054.g7.png
    :align: center

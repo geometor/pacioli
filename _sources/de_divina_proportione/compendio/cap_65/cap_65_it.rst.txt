@@ -29,20 +29,32 @@ E questo mi pare sia alor notitia sufficiente. E sequendo apresso diremo de loro
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0055.g3.svg
+   :alt: Calibrated vector diagram for 0055.g3.png
+
 .. figure:: 0055.g3.png
    :align: center
 
    Folio 0055 Diagram 3
+
+.. picture:: 0056.g1.svg
+   :alt: Calibrated vector diagram for 0056.g1.png
 
 .. figure:: 0056.g1.png
    :align: center
 
    Folio 0056 Diagram 1
 
+.. picture:: 0056.g2.svg
+   :alt: Calibrated vector diagram for 0056.g2.png
+
 .. figure:: 0056.g2.png
    :align: center
 
    Folio 0056 Diagram 2
+
+.. picture:: 0056.g3.svg
+   :alt: Calibrated vector diagram for 0056.g3.png
 
 .. figure:: 0056.g3.png
    :align: center

@@ -50,6 +50,9 @@ Therefore, in the entire universe of nature, there can be neither more nor fewer
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0032.g1.svg
+   :alt: Calibrated vector diagram for 0032.g1.png
+
 .. figure:: 0032.g1.png
    :align: center
 

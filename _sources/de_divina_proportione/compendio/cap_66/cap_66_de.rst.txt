@@ -25,20 +25,32 @@ Und ebenso wie es mit der runden geschehen, muss man das gleiche bei allen kanti
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0056.g4.svg
+   :alt: Calibrated vector diagram for 0056.g4.png
+
 .. figure:: 0056.g4.png
    :align: center
 
    Folio 0056 Diagram 4
+
+.. picture:: 0056.g5.svg
+   :alt: Calibrated vector diagram for 0056.g5.png
 
 .. figure:: 0056.g5.png
    :align: center
 
    Folio 0056 Diagram 5
 
+.. picture:: 0056.g6.svg
+   :alt: Calibrated vector diagram for 0056.g6.png
+
 .. figure:: 0056.g6.png
    :align: center
 
    Folio 0056 Diagram 6
+
+.. picture:: 0056.g7.svg
+   :alt: Calibrated vector diagram for 0056.g7.png
 
 .. figure:: 0056.g7.png
    :align: center

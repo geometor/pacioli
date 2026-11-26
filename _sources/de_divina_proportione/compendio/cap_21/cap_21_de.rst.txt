@@ -25,6 +25,9 @@ Die Untersuchung dieser Grössen ist höchst subtil und sie beziehen sich auf sp
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0029.g2.svg
+   :alt: Calibrated vector diagram for 0029.g2.png
+
 .. figure:: 0029.g2.png
    :align: center
 

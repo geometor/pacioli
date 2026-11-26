@@ -33,6 +33,9 @@ Und obwohl diese fünf allein als regelmässige bezeichnet werden, wird trotzdem
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0049.g1.svg
+   :alt: Calibrated vector diagram for 0049.g1.png
+
 .. figure:: 0049.g1.png
    :align: center
 

@@ -56,20 +56,32 @@ If the diameter of the sphere is :math:`10` (so its square is :math:`100`), the 
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0034.g2.svg
+   :alt: Calibrated vector diagram for 0034.g2.png
+
 .. figure:: 0034.g2.png
    :align: center
 
    Folio 0034 Diagram 2
+
+.. picture:: 0035.g1.svg
+   :alt: Calibrated vector diagram for 0035.g1.png
 
 .. figure:: 0035.g1.png
    :align: center
 
    Folio 0035 Diagram 1
 
+.. picture:: 0035.g2.svg
+   :alt: Calibrated vector diagram for 0035.g2.png
+
 .. figure:: 0035.g2.png
    :align: center
 
    Folio 0035 Diagram 2
+
+.. picture:: 0036.g1.svg
+   :alt: Calibrated vector diagram for 0036.g1.png
 
 .. figure:: 0036.g1.png
    :align: center

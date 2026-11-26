@@ -30,6 +30,9 @@ Chapter XVII: On the Eighth Effect, the Converse of the Preceding
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0028.g1.svg
+   :alt: Calibrated vector diagram for 0028.g1.png
+
 .. figure:: 0028.g1.png
    :align: center
 

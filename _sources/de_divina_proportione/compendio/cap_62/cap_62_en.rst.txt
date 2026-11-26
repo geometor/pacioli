@@ -56,25 +56,40 @@ Having described the forms of all columns, it is now fitting to give Your Ducal 
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0053.g2.svg
+   :alt: Calibrated vector diagram for 0053.g2.png
+
 .. figure:: 0053.g2.png
    :align: center
 
    Folio 0053 Diagram 2
+
+.. picture:: 0054.g1.svg
+   :alt: Calibrated vector diagram for 0054.g1.png
 
 .. figure:: 0054.g1.png
    :align: center
 
    Folio 0054 Diagram 1
 
+.. picture:: 0054.g2.svg
+   :alt: Calibrated vector diagram for 0054.g2.png
+
 .. figure:: 0054.g2.png
    :align: center
 
    Folio 0054 Diagram 2
 
+.. picture:: 0054.g3.svg
+   :alt: Calibrated vector diagram for 0054.g3.png
+
 .. figure:: 0054.g3.png
    :align: center
 
    Folio 0054 Diagram 3
+
+.. picture:: 0054.g4.svg
+   :alt: Calibrated vector diagram for 0054.g4.png
 
 .. figure:: 0054.g4.png
    :align: center

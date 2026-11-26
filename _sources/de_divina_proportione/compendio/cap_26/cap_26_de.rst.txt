@@ -24,6 +24,9 @@ Und das will sagen, dass wenn das Quadrat genannten Durchmessers 6 wäre, das Qu
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0032.g2.svg
+   :alt: Calibrated vector diagram for 0032.g2.png
+
 .. figure:: 0032.g2.png
    :align: center
 

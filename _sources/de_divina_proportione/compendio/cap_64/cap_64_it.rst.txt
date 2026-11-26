@@ -29,10 +29,16 @@ E laxe de questa piramide fia detta linea ab. elasua basa el cerchio descripto d
 Marginal Woodcut Diagrams (Paganini 1509)
 -----------------------------------------
 
+.. picture:: 0055.g1.svg
+   :alt: Calibrated vector diagram for 0055.g1.png
+
 .. figure:: 0055.g1.png
    :align: center
 
    Folio 0055 Diagram 1
+
+.. picture:: 0055.g2.svg
+   :alt: Calibrated vector diagram for 0055.g2.png
 
 .. figure:: 0055.g2.png
    :align: center
