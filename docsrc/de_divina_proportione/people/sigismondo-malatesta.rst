@@ -14,4 +14,4 @@ Malatesta, Sigismondo Pandolfo
 
 Patron of Leon Battista Alberti (Tempio Malatestiano) and Piero della Francesca, and dedicatee of Roberto Valturio's military treatise De Re Militari cited by Pacioli in Compendio Chapter II.
 
-**Occurrences:** :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`
+**Occurrences:** :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/notes>`

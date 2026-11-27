@@ -12,4 +12,4 @@ Mellini, Mario
 
 Roman baron in whose home on Monte Mario Pacioli read ancient Roman annals recording Phidias's placement of an icosahedron in the Temple of Ceres (Architectura Cap. XVIII).
 
-**Occurrences:** :doc:`Arch. Cap. 18 (DE) </de_divina_proportione/architectura/cap_18/cap_18_de>`, :doc:`Arch. Cap. 18 (Notes) </de_divina_proportione/architectura/cap_18/cap_18_notes>`
+**Occurrences:** :doc:`Arch. Cap. 18 (DE) </de_divina_proportione/architectura/cap_18/de>`, :doc:`Arch. Cap. 18 (Notes) </de_divina_proportione/architectura/cap_18/notes>`

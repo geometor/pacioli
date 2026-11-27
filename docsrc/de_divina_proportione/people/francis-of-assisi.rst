@@ -14,4 +14,4 @@ Francis of Assisi, St.
 
 Founder of Pacioli's Franciscan ('Minorite' / 'Seraphic') Order.
 
-**Occurrences:** :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/dedication_it>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`
+**Occurrences:** :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/it>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/notes>`

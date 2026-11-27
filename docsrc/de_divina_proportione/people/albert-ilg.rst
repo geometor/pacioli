@@ -16,4 +16,4 @@ Director at the Kunsthistorisches Museum in Vienna who succeeded Rudolf von Eite
 
 **Principal Works:** *Quellenschriften für Kunstgeschichte und Kunsttechnik (Neue Folge)*
 
-**Occurrences:** :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`

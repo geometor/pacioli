@@ -12,4 +12,4 @@ Fromme, Carl)
 
 Viennese court printing house (k. k. Hofbuchdruckerei Carl Fromme) that printed Constantin Winterberg's 1889 edition of Pacioli's Divina Proportione.
 
-**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`

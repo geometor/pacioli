@@ -16,4 +16,4 @@ Author of Neue Lehre von den Proportionen des menschlichen Körpers (Leipzig, 18
 
 **Principal Works:** *Neue Lehre von den Proportionen des menschlichen Körpers (1854)*
 
-**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`

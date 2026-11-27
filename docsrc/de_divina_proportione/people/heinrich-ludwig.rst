@@ -16,4 +16,4 @@ Edited and translated Leonardo da Vinci's Trattato della Pittura (Das Buch von d
 
 **Principal Works:** *Lionardo da Vinci: Das Buch von der Malerei (Wien, 1882)*
 
-**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`

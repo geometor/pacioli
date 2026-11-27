@@ -24,7 +24,7 @@ abaco (abacus) (abaco)
 
 The flat slab forming the uppermost member of a column capital immediately beneath the architrave (Architectura Cap. VII, Folio 0213).
 
-**Occurrences:** :doc:`Arch. Cap. 4 (EN) </de_divina_proportione/architectura/cap_04/cap_04_en>`, :doc:`Arch. Cap. 4 (IT) </de_divina_proportione/architectura/cap_04/cap_04_it>`, :doc:`Arch. Cap. 7 (IT) </de_divina_proportione/architectura/cap_07/cap_07_it>`, :doc:`Comp. Cap. 57 (IT) </de_divina_proportione/compendio/cap_57/cap_57_it>`, :doc:`Comp. Cap. 70 (IT) </de_divina_proportione/compendio/cap_70/cap_70_it>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
+**Occurrences:** :doc:`Arch. Cap. 4 (EN) </de_divina_proportione/architectura/cap_04/index>`, :doc:`Arch. Cap. 4 (IT) </de_divina_proportione/architectura/cap_04/it>`, :doc:`Arch. Cap. 7 (IT) </de_divina_proportione/architectura/cap_07/it>`, :doc:`Comp. Cap. 57 (IT) </de_divina_proportione/compendio/cap_57/it>`, :doc:`Comp. Cap. 70 (IT) </de_divina_proportione/compendio/cap_70/it>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
 
 .. _term-abscisum:
 
@@ -35,7 +35,7 @@ abscisum / absciso / scapezzo (ἀποτετμημένον) (abscisum)
 
 A dependent (Archimedean) polyhedron derived from a regular body by cutting off its vertices at one-third or one-half of each edge (generating the truncated tetrahedron, cuboctahedron, truncated octahedron, truncated icosahedron, and icosidodecahedron).
 
-**Occurrences:** :doc:`Comp. Cap. 47 (Notes) </de_divina_proportione/compendio/cap_47/cap_47_notes>`, :doc:`Comp. Cap. 48 (EN) </de_divina_proportione/compendio/cap_48/cap_48_en>`, :doc:`Comp. Cap. 48 (Notes) </de_divina_proportione/compendio/cap_48/cap_48_notes>`, :doc:`Comp. Cap. 49 (Notes) </de_divina_proportione/compendio/cap_49/cap_49_notes>`, :doc:`Comp. Cap. 50 (Notes) </de_divina_proportione/compendio/cap_50/cap_50_notes>`, :doc:`Comp. Cap. 51 (Notes) </de_divina_proportione/compendio/cap_51/cap_51_notes>`, :doc:`Comp. Cap. 52 (IT) </de_divina_proportione/compendio/cap_52/cap_52_it>`, :doc:`Comp. Cap. 52 (Notes) </de_divina_proportione/compendio/cap_52/cap_52_notes>`, :doc:`Comp. Cap. 53 (IT) </de_divina_proportione/compendio/cap_53/cap_53_it>`, :doc:`Comp. Cap. 68 (Notes) </de_divina_proportione/compendio/cap_68/cap_68_notes>`, :doc:`Comp. Cap. 69 (EN) </de_divina_proportione/compendio/cap_69/cap_69_en>`, :doc:`Comp. Cap. 69 (IT) </de_divina_proportione/compendio/cap_69/cap_69_it>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
+**Occurrences:** :doc:`Comp. Cap. 47 (Notes) </de_divina_proportione/compendio/cap_47/notes>`, :doc:`Comp. Cap. 48 (EN) </de_divina_proportione/compendio/cap_48/index>`, :doc:`Comp. Cap. 48 (Notes) </de_divina_proportione/compendio/cap_48/notes>`, :doc:`Comp. Cap. 49 (Notes) </de_divina_proportione/compendio/cap_49/notes>`, :doc:`Comp. Cap. 50 (Notes) </de_divina_proportione/compendio/cap_50/notes>`, :doc:`Comp. Cap. 51 (Notes) </de_divina_proportione/compendio/cap_51/notes>`, :doc:`Comp. Cap. 52 (IT) </de_divina_proportione/compendio/cap_52/it>`, :doc:`Comp. Cap. 52 (Notes) </de_divina_proportione/compendio/cap_52/notes>`, :doc:`Comp. Cap. 53 (IT) </de_divina_proportione/compendio/cap_53/it>`, :doc:`Comp. Cap. 68 (Notes) </de_divina_proportione/compendio/cap_68/notes>`, :doc:`Comp. Cap. 69 (EN) </de_divina_proportione/compendio/cap_69/index>`, :doc:`Comp. Cap. 69 (IT) </de_divina_proportione/compendio/cap_69/it>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
 
 .. _term-acroterio:
 
@@ -55,7 +55,7 @@ algebra e almucabala (regola de la cosa) (algebra-e-almucabala)
 
 The speculative practice of restoration (al-jabr) and balancing (al-muqābala) of equations, termed in the Italian vernacular 'la regola de la cosa' (Chapter VIII).
 
-**Occurrences:** :doc:`Comp. Cap. 52 (IT) </de_divina_proportione/compendio/cap_52/cap_52_it>`
+**Occurrences:** :doc:`Comp. Cap. 52 (IT) </de_divina_proportione/compendio/cap_52/it>`
 
 .. _term-ambliogonio:
 
@@ -84,7 +84,7 @@ angulo dela iustitia (angolo recto) (angulo-dela-iustitia)
 
 Pacioli's name in Chapter LIV for the invariant 90° right angle determined by the plummet and square, without which good cannot be distinguished from bad in architecture and measurement.
 
-**Occurrences:** :doc:`Comp. Cap. 54 (EN) </de_divina_proportione/compendio/cap_54/cap_54_en>`
+**Occurrences:** :doc:`Comp. Cap. 54 (EN) </de_divina_proportione/compendio/cap_54/index>`
 
 .. _term-angulo-obtuso:
 
@@ -113,7 +113,7 @@ angulo solido (angulo-solido)
 
 An angle formed by the meeting of three or more plane angles at a single point not lying in the same plane; the sum of its plane angles must be strictly less than four right angles (360°, Euclid XI.21).
 
-**Occurrences:** :doc:`Comp. Cap. 25 (EN) </de_divina_proportione/compendio/cap_25/cap_25_en>`, :doc:`Comp. Cap. 25 (IT) </de_divina_proportione/compendio/cap_25/cap_25_it>`, :doc:`Comp. Cap. 25 (Notes) </de_divina_proportione/compendio/cap_25/cap_25_notes>`, :doc:`Comp. Cap. 27 (EN) </de_divina_proportione/compendio/cap_27/cap_27_en>`, :doc:`Comp. Cap. 28 (EN) </de_divina_proportione/compendio/cap_28/cap_28_en>`, :doc:`Comp. Cap. 29 (EN) </de_divina_proportione/compendio/cap_29/cap_29_en>`, :doc:`Comp. Cap. 30 (EN) </de_divina_proportione/compendio/cap_30/cap_30_en>`, :doc:`Comp. Cap. 34 (EN) </de_divina_proportione/compendio/cap_34/cap_34_en>`, :doc:`Comp. Cap. 35 (EN) </de_divina_proportione/compendio/cap_35/cap_35_en>`, :doc:`Comp. Cap. 36 (IT) </de_divina_proportione/compendio/cap_36/cap_36_it>`, :doc:`Comp. Cap. 37 (EN) </de_divina_proportione/compendio/cap_37/cap_37_en>`, :doc:`Comp. Cap. 38 (EN) </de_divina_proportione/compendio/cap_38/cap_38_en>`, :doc:`Comp. Cap. 40 (EN) </de_divina_proportione/compendio/cap_40/cap_40_en>`, :doc:`Comp. Cap. 43 (EN) </de_divina_proportione/compendio/cap_43/cap_43_en>`, :doc:`Comp. Cap. 45 (EN) </de_divina_proportione/compendio/cap_45/cap_45_en>`, :doc:`Comp. Cap. 46 (EN) </de_divina_proportione/compendio/cap_46/cap_46_en>`, :doc:`Comp. Cap. 48 (EN) </de_divina_proportione/compendio/cap_48/cap_48_en>`, :doc:`Comp. Cap. 50 (IT) </de_divina_proportione/compendio/cap_50/cap_50_it>`, :doc:`Comp. Cap. 50 (Notes) </de_divina_proportione/compendio/cap_50/cap_50_notes>`, :doc:`Comp. Cap. 53 (EN) </de_divina_proportione/compendio/cap_53/cap_53_en>`, :doc:`Comp. Cap. 55 (EN) </de_divina_proportione/compendio/cap_55/cap_55_en>`, :doc:`Comp. Cap. 57 (EN) </de_divina_proportione/compendio/cap_57/cap_57_en>`
+**Occurrences:** :doc:`Comp. Cap. 25 (EN) </de_divina_proportione/compendio/cap_25/index>`, :doc:`Comp. Cap. 25 (IT) </de_divina_proportione/compendio/cap_25/it>`, :doc:`Comp. Cap. 25 (Notes) </de_divina_proportione/compendio/cap_25/notes>`, :doc:`Comp. Cap. 27 (EN) </de_divina_proportione/compendio/cap_27/index>`, :doc:`Comp. Cap. 28 (EN) </de_divina_proportione/compendio/cap_28/index>`, :doc:`Comp. Cap. 29 (EN) </de_divina_proportione/compendio/cap_29/index>`, :doc:`Comp. Cap. 30 (EN) </de_divina_proportione/compendio/cap_30/index>`, :doc:`Comp. Cap. 34 (EN) </de_divina_proportione/compendio/cap_34/index>`, :doc:`Comp. Cap. 35 (EN) </de_divina_proportione/compendio/cap_35/index>`, :doc:`Comp. Cap. 36 (IT) </de_divina_proportione/compendio/cap_36/it>`, :doc:`Comp. Cap. 37 (EN) </de_divina_proportione/compendio/cap_37/index>`, :doc:`Comp. Cap. 38 (EN) </de_divina_proportione/compendio/cap_38/index>`, :doc:`Comp. Cap. 40 (EN) </de_divina_proportione/compendio/cap_40/index>`, :doc:`Comp. Cap. 43 (EN) </de_divina_proportione/compendio/cap_43/index>`, :doc:`Comp. Cap. 45 (EN) </de_divina_proportione/compendio/cap_45/index>`, :doc:`Comp. Cap. 46 (EN) </de_divina_proportione/compendio/cap_46/index>`, :doc:`Comp. Cap. 48 (EN) </de_divina_proportione/compendio/cap_48/index>`, :doc:`Comp. Cap. 50 (IT) </de_divina_proportione/compendio/cap_50/it>`, :doc:`Comp. Cap. 50 (Notes) </de_divina_proportione/compendio/cap_50/notes>`, :doc:`Comp. Cap. 53 (EN) </de_divina_proportione/compendio/cap_53/index>`, :doc:`Comp. Cap. 55 (EN) </de_divina_proportione/compendio/cap_55/index>`, :doc:`Comp. Cap. 57 (EN) </de_divina_proportione/compendio/cap_57/index>`
 
 .. _term-arbor-proportionis:
 
@@ -153,7 +153,7 @@ arithmetica
 
 The mathematical discipline treating of discrete quantity (number) in itself and its ratios (Compendio Cap. III).
 
-**Occurrences:** :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/dedication_it>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/cap_03_it>`, :doc:`Comp. Cap. 4 (IT) </de_divina_proportione/compendio/cap_04/cap_04_it>`, :doc:`Comp. Cap. 10 (IT) </de_divina_proportione/compendio/cap_10/cap_10_it>`, :doc:`Comp. Cap. 19 (IT) </de_divina_proportione/compendio/cap_19/cap_19_it>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/cap_71_it>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
+**Occurrences:** :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/it>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/it>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/it>`, :doc:`Comp. Cap. 4 (IT) </de_divina_proportione/compendio/cap_04/it>`, :doc:`Comp. Cap. 10 (IT) </de_divina_proportione/compendio/cap_10/it>`, :doc:`Comp. Cap. 19 (IT) </de_divina_proportione/compendio/cap_19/it>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/it>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
 
 .. _term-astragalo:
 
@@ -173,7 +173,7 @@ astronomia / astrologia (astronomia)
 
 The mathematical science of mobile continuous magnitude and the revolutions of the celestial spheres (Compendio Cap. III).
 
-**Occurrences:** :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/cap_03_it>`
+**Occurrences:** :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/it>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/it>`
 
 .. _term-binomio:
 
@@ -193,7 +193,7 @@ capitello
 
 The crowning head of a column shaft, whose form distinguishes the Doric, Ionic (pulvinated), and Corinthian orders (Architectura Cap. IV, VII, Folio 0213).
 
-**Occurrences:** :doc:`Arch. Cap. 4 (IT) </de_divina_proportione/architectura/cap_04/cap_04_it>`, :doc:`Arch. Cap. 5 (IT) </de_divina_proportione/architectura/cap_05/cap_05_it>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/cap_06_it>`, :doc:`Arch. Cap. 7 (IT) </de_divina_proportione/architectura/cap_07/cap_07_it>`, :doc:`Arch. Cap. 8 (IT) </de_divina_proportione/architectura/cap_08/cap_08_it>`, :doc:`Arch. Cap. 12 (IT) </de_divina_proportione/architectura/cap_12/cap_12_it>`, :doc:`Comp. Cap. 57 (IT) </de_divina_proportione/compendio/cap_57/cap_57_it>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
+**Occurrences:** :doc:`Arch. Cap. 4 (IT) </de_divina_proportione/architectura/cap_04/it>`, :doc:`Arch. Cap. 5 (IT) </de_divina_proportione/architectura/cap_05/it>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/it>`, :doc:`Arch. Cap. 7 (IT) </de_divina_proportione/architectura/cap_07/it>`, :doc:`Arch. Cap. 8 (IT) </de_divina_proportione/architectura/cap_08/it>`, :doc:`Arch. Cap. 12 (IT) </de_divina_proportione/architectura/cap_12/it>`, :doc:`Comp. Cap. 57 (IT) </de_divina_proportione/compendio/cap_57/it>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
 
 .. _term-catheto:
 
@@ -204,7 +204,7 @@ catheto / perpendiculare (catheto)
 
 Defined in Chapter LXXI: a plumbed line falling at right angles upon a plane or base line, or the altitude dropped from the apex of a triangle or pyramid to its base.
 
-**Occurrences:** :doc:`Arch. Cap. 1 (EN) </de_divina_proportione/architectura/cap_01/cap_01_en>`, :doc:`Arch. Cap. 1 (IT) </de_divina_proportione/architectura/cap_01/cap_01_it>`, :doc:`Arch. Cap. 2 (IT) </de_divina_proportione/architectura/cap_02/cap_02_it>`, :doc:`Arch. Cap. 20 (DE) </de_divina_proportione/architectura/cap_20/cap_20_de>`, :doc:`Arch. Cap. 20 (EN) </de_divina_proportione/architectura/cap_20/cap_20_en>`, :doc:`Arch. Cap. 20 (IT) </de_divina_proportione/architectura/cap_20/cap_20_it>`, :doc:`Comp. Cap. 26 (IT) </de_divina_proportione/compendio/cap_26/cap_26_it>`, :doc:`Comp. Cap. 27 (IT) </de_divina_proportione/compendio/cap_27/cap_27_it>`, :doc:`Comp. Cap. 28 (IT) </de_divina_proportione/compendio/cap_28/cap_28_it>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>`, :doc:`Comp. Cap. 29 (Notes) </de_divina_proportione/compendio/cap_29/cap_29_notes>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/cap_30_it>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/cap_31_it>`, :doc:`Comp. Cap. 33 (IT) </de_divina_proportione/compendio/cap_33/cap_33_it>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/cap_71_it>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
+**Occurrences:** :doc:`Arch. Cap. 1 (EN) </de_divina_proportione/architectura/cap_01/index>`, :doc:`Arch. Cap. 1 (IT) </de_divina_proportione/architectura/cap_01/it>`, :doc:`Arch. Cap. 2 (IT) </de_divina_proportione/architectura/cap_02/it>`, :doc:`Arch. Cap. 20 (DE) </de_divina_proportione/architectura/cap_20/de>`, :doc:`Arch. Cap. 20 (EN) </de_divina_proportione/architectura/cap_20/index>`, :doc:`Arch. Cap. 20 (IT) </de_divina_proportione/architectura/cap_20/it>`, :doc:`Comp. Cap. 26 (IT) </de_divina_proportione/compendio/cap_26/it>`, :doc:`Comp. Cap. 27 (IT) </de_divina_proportione/compendio/cap_27/it>`, :doc:`Comp. Cap. 28 (IT) </de_divina_proportione/compendio/cap_28/it>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/it>`, :doc:`Comp. Cap. 29 (Notes) </de_divina_proportione/compendio/cap_29/notes>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/it>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/it>`, :doc:`Comp. Cap. 33 (IT) </de_divina_proportione/compendio/cap_33/it>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/it>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _term-ceneraccio:
 
@@ -215,7 +215,7 @@ Ceneraccio (ceneraccio)
 
 Satirical term coined by the humanist Annibale Caro (referring to the coarse cloth bundle of wood-ash used in boiling laundry lye) to describe Fra Luca Pacioli's unpolished, hybrid Latin-Tuscan-Lombard vernacular prose, beneath which precious mathematical and artistic jewels lie hidden (Winterberg Einleitung).
 
-**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`
 
 .. _term-censo:
 
@@ -235,7 +235,7 @@ censo de censo (ce. ce.) (censo-de-censo)
 
 Abacus algebraic term for the square of the square (x⁴), extensively used by Piero della Francesca and Pacioli in the biquadratic problems of the Libellus.
 
-**Occurrences:** :doc:`Arch. Cap. 3 (EN) </de_divina_proportione/architectura/cap_03/cap_03_en>`, :doc:`Arch. Cap. 3 (IT) </de_divina_proportione/architectura/cap_03/cap_03_it>`, :doc:`Arch. Cap. 3 (Notes) </de_divina_proportione/architectura/cap_03/cap_03_notes>`
+**Occurrences:** :doc:`Arch. Cap. 3 (EN) </de_divina_proportione/architectura/cap_03/index>`, :doc:`Arch. Cap. 3 (IT) </de_divina_proportione/architectura/cap_03/it>`, :doc:`Arch. Cap. 3 (Notes) </de_divina_proportione/architectura/cap_03/notes>`
 
 .. _term-centro:
 
@@ -255,7 +255,7 @@ cimento e copella (cimento-e-copella)
 
 Metallurgical metaphor used by Pacioli in Chapters I–II for the mathematical disciplines as the infallible test of intellectual rigor ('aurum probatur igni et ingenium mathematicis').
 
-**Occurrences:** :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`
+**Occurrences:** :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/index>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/it>`
 
 .. _term-circino:
 
@@ -266,7 +266,7 @@ circino / sesto (compasso) (circino)
 
 Along with the straightedge/ruler (regolo/norma), one of the two universal instruments of geometry and all mechanical arts, generating the circle and transferring proportions (Compendio Cap. LIV; Alphabet Folios 0139–0183).
 
-**Occurrences:** :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/cap_06_en>`, :doc:`Arch. Cap. 9 (EN) </de_divina_proportione/architectura/cap_09/cap_09_en>`, :doc:`Arch. Cap. 9 (IT) </de_divina_proportione/architectura/cap_09/cap_09_it>`, :doc:`Arch. Cap. 11 (EN) </de_divina_proportione/architectura/cap_11/cap_11_en>`, :doc:`Arch. Cap. 11 (IT) </de_divina_proportione/architectura/cap_11/cap_11_it>`, :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/dedication_en>`, :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/dedication_it>`
+**Occurrences:** :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/index>`, :doc:`Arch. Cap. 9 (EN) </de_divina_proportione/architectura/cap_09/index>`, :doc:`Arch. Cap. 9 (IT) </de_divina_proportione/architectura/cap_09/it>`, :doc:`Arch. Cap. 11 (EN) </de_divina_proportione/architectura/cap_11/index>`, :doc:`Arch. Cap. 11 (IT) </de_divina_proportione/architectura/cap_11/it>`, :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/index>`, :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/it>`
 
 .. _term-circonferentia:
 
@@ -335,7 +335,7 @@ colonna laterata (columna laterata / κίων πλευρώδης) (colonna-later
 
 An oblong solid whose two opposite bases are congruent rectilinear polygons (triangles, squares, pentagons, hexagons) connected by rectangular lateral faces (Compendio Cap. LVIII–LXI, LXIII).
 
-**Occurrences:** :doc:`Arch. Cap. 9 (EN) </de_divina_proportione/architectura/cap_09/cap_09_en>`, :doc:`Comp. Cap. 59 (EN) </de_divina_proportione/compendio/cap_59/cap_59_en>`, :doc:`Comp. Cap. 63 (EN) </de_divina_proportione/compendio/cap_63/cap_63_en>`, :doc:`Comp. Cap. 65 (IT) </de_divina_proportione/compendio/cap_65/cap_65_it>`, :doc:`Comp. Cap. 67 (IT) </de_divina_proportione/compendio/cap_67/cap_67_it>`
+**Occurrences:** :doc:`Arch. Cap. 9 (EN) </de_divina_proportione/architectura/cap_09/index>`, :doc:`Comp. Cap. 59 (EN) </de_divina_proportione/compendio/cap_59/index>`, :doc:`Comp. Cap. 63 (EN) </de_divina_proportione/compendio/cap_63/index>`, :doc:`Comp. Cap. 65 (IT) </de_divina_proportione/compendio/cap_65/it>`, :doc:`Comp. Cap. 67 (IT) </de_divina_proportione/compendio/cap_67/it>`
 
 .. _term-colonna-pentagona:
 
@@ -366,7 +366,7 @@ colonna rotonda (columna rotunda / κίων στρογγύλος) (colonna-roton
 
 A cylinder generated by the rotation of a rectangle about one of its stationary vertical sides, bounded by two parallel circular bases (Compendio Cap. LVIII, LXII; Plate LVII).
 
-**Occurrences:** :doc:`Arch. Cap. 3 (IT) </de_divina_proportione/architectura/cap_03/cap_03_it>`, :doc:`Arch. Cap. 4 (EN) </de_divina_proportione/architectura/cap_04/cap_04_en>`, :doc:`Arch. Cap. 7 (IT) </de_divina_proportione/architectura/cap_07/cap_07_it>`, :doc:`Arch. Cap. 9 (IT) </de_divina_proportione/architectura/cap_09/cap_09_it>`, :doc:`Arch. Cap. 20 (IT) </de_divina_proportione/architectura/cap_20/cap_20_it>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
+**Occurrences:** :doc:`Arch. Cap. 3 (IT) </de_divina_proportione/architectura/cap_03/it>`, :doc:`Arch. Cap. 4 (EN) </de_divina_proportione/architectura/cap_04/index>`, :doc:`Arch. Cap. 7 (IT) </de_divina_proportione/architectura/cap_07/it>`, :doc:`Arch. Cap. 9 (IT) </de_divina_proportione/architectura/cap_09/it>`, :doc:`Arch. Cap. 20 (IT) </de_divina_proportione/architectura/cap_20/it>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
 
 .. _term-cono-pyramidale:
 
@@ -377,7 +377,7 @@ cono dela pyramide (cono-pyramidale)
 
 Defined in Chapter LXXI: the supreme summit point of a pyramid where all lateral edges ascending from its base concur.
 
-**Occurrences:** :doc:`Comp. Cap. 65 (EN) </de_divina_proportione/compendio/cap_65/cap_65_en>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/cap_71_it>`
+**Occurrences:** :doc:`Comp. Cap. 65 (EN) </de_divina_proportione/compendio/cap_65/index>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/it>`
 
 .. _term-corausto:
 
@@ -388,7 +388,7 @@ corausto (coraustus) (corausto)
 
 Defined in Chapter LXXI (from Campanus on Euclid XIII.16): a straight line joining the upper extremities of two equal perpendiculars (catheti) erected upon a base plane, forming the upper horizontal ring of the icosahedron.
 
-**Occurrences:** :doc:`Comp. Cap. 26 (Notes) </de_divina_proportione/compendio/cap_26/cap_26_notes>`, :doc:`Comp. Cap. 45 (EN) </de_divina_proportione/compendio/cap_45/cap_45_en>`, :doc:`Comp. Cap. 48 (Notes) </de_divina_proportione/compendio/cap_48/cap_48_notes>`, :doc:`Comp. Cap. 71 (EN) </de_divina_proportione/compendio/cap_71/cap_71_en>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/cap_71_it>`, :doc:`Comp. index </de_divina_proportione/compendio/index>`
+**Occurrences:** :doc:`Comp. Cap. 26 (Notes) </de_divina_proportione/compendio/cap_26/notes>`, :doc:`Comp. Cap. 45 (EN) </de_divina_proportione/compendio/cap_45/index>`, :doc:`Comp. Cap. 48 (Notes) </de_divina_proportione/compendio/cap_48/notes>`, :doc:`Comp. Cap. 71 (EN) </de_divina_proportione/compendio/cap_71/index>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/it>`, :doc:`Comp. index </de_divina_proportione/compendio/index>`
 
 .. _term-corda:
 
@@ -408,7 +408,7 @@ corda pentagonica (corda-pentagonica)
 
 Defined in Chapters XVIII and LXXI: a straight line drawn inside a regular pentagon from any vertex to an opposite non-adjacent vertex; two intersecting pentagonal chords divide each other in the Divine Proportion (Euclid XIII.8).
 
-**Occurrences:** :doc:`Comp. Cap. 41 (EN) </de_divina_proportione/compendio/cap_41/cap_41_en>`, :doc:`Comp. Cap. 46 (EN) </de_divina_proportione/compendio/cap_46/cap_46_en>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/cap_71_it>`
+**Occurrences:** :doc:`Comp. Cap. 41 (EN) </de_divina_proportione/compendio/cap_41/index>`, :doc:`Comp. Cap. 46 (EN) </de_divina_proportione/compendio/cap_46/index>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/it>`
 
 .. _term-cornicione:
 
@@ -419,7 +419,7 @@ cornice / cornicione (cornicione)
 
 The projecting uppermost assembly of the entablature above the frieze, comprising dentils, corona (dripstone), echinus (ovolo), and acroterium/regolo (Architectura Cap. XIV, XVI, Folio 0215).
 
-**Occurrences:** :doc:`Arch. Cap. 16 (EN) </de_divina_proportione/architectura/cap_16/cap_16_en>`, :doc:`Arch. Cap. 16 (IT) </de_divina_proportione/architectura/cap_16/cap_16_it>`, :doc:`Arch. Cap. 20 (IT) </de_divina_proportione/architectura/cap_20/cap_20_it>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
+**Occurrences:** :doc:`Arch. Cap. 16 (EN) </de_divina_proportione/architectura/cap_16/index>`, :doc:`Arch. Cap. 16 (IT) </de_divina_proportione/architectura/cap_16/it>`, :doc:`Arch. Cap. 20 (IT) </de_divina_proportione/architectura/cap_20/it>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
 
 .. _term-corona:
 
@@ -441,7 +441,7 @@ corpi dependenti (corpi-dependenti)
 
 Semi-regular and stellated polyhedra generated systematically from the five regular solids by uniform truncation of edges ('abscisi / scapezzi') or by erecting pyramids upon every face ('elevati / pontuti').
 
-**Occurrences:** :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/cap_05_en>`, :doc:`Comp. Cap. 47 (Notes) </de_divina_proportione/compendio/cap_47/cap_47_notes>`
+**Occurrences:** :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/index>`, :doc:`Comp. Cap. 47 (Notes) </de_divina_proportione/compendio/cap_47/notes>`
 
 .. _term-corpi-regulari:
 
@@ -452,7 +452,7 @@ corpi regulari (quinque corpora regularia) (corpi-regulari)
 
 The five convex polyhedra bounded by congruent equilateral and equiangular polygons meeting in congruent solid angles, each inscribable and circumscribable in a sphere (Euclid XIII.18): tetrahedron, hexahedron (cube), octahedron, icosahedron, and dodecahedron.
 
-**Occurrences:** :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/cap_06_it>`, :doc:`Arch. Cap. 9 (IT) </de_divina_proportione/architectura/cap_09/cap_09_it>`, :doc:`Arch. Cap. 12 (IT) </de_divina_proportione/architectura/cap_12/cap_12_it>`, :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/cap_05_en>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/cap_05_it>`, :doc:`Comp. Cap. 19 (IT) </de_divina_proportione/compendio/cap_19/cap_19_it>`, :doc:`Comp. Cap. 23 (IT) </de_divina_proportione/compendio/cap_23/cap_23_it>`, :doc:`Comp. Cap. 24 (IT) </de_divina_proportione/compendio/cap_24/cap_24_it>`, :doc:`Comp. Cap. 25 (IT) </de_divina_proportione/compendio/cap_25/cap_25_it>`, :doc:`Comp. Cap. 26 (IT) </de_divina_proportione/compendio/cap_26/cap_26_it>`, :doc:`Comp. Cap. 32 (IT) </de_divina_proportione/compendio/cap_32/cap_32_it>`, :doc:`Comp. Cap. 46 (IT) </de_divina_proportione/compendio/cap_46/cap_46_it>`, :doc:`Comp. Cap. 47 (IT) </de_divina_proportione/compendio/cap_47/cap_47_it>`, :doc:`Comp. Cap. 55 (IT) </de_divina_proportione/compendio/cap_55/cap_55_it>`, :doc:`Comp. Cap. 57 (IT) </de_divina_proportione/compendio/cap_57/cap_57_it>`, :doc:`Comp. Cap. 69 (IT) </de_divina_proportione/compendio/cap_69/cap_69_it>`
+**Occurrences:** :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/it>`, :doc:`Arch. Cap. 9 (IT) </de_divina_proportione/architectura/cap_09/it>`, :doc:`Arch. Cap. 12 (IT) </de_divina_proportione/architectura/cap_12/it>`, :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/index>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/it>`, :doc:`Comp. Cap. 19 (IT) </de_divina_proportione/compendio/cap_19/it>`, :doc:`Comp. Cap. 23 (IT) </de_divina_proportione/compendio/cap_23/it>`, :doc:`Comp. Cap. 24 (IT) </de_divina_proportione/compendio/cap_24/it>`, :doc:`Comp. Cap. 25 (IT) </de_divina_proportione/compendio/cap_25/it>`, :doc:`Comp. Cap. 26 (IT) </de_divina_proportione/compendio/cap_26/it>`, :doc:`Comp. Cap. 32 (IT) </de_divina_proportione/compendio/cap_32/it>`, :doc:`Comp. Cap. 46 (IT) </de_divina_proportione/compendio/cap_46/it>`, :doc:`Comp. Cap. 47 (IT) </de_divina_proportione/compendio/cap_47/it>`, :doc:`Comp. Cap. 55 (IT) </de_divina_proportione/compendio/cap_55/it>`, :doc:`Comp. Cap. 57 (IT) </de_divina_proportione/compendio/cap_57/it>`, :doc:`Comp. Cap. 69 (IT) </de_divina_proportione/compendio/cap_69/it>`
 
 .. _term-corpo-seratile:
 
@@ -463,7 +463,7 @@ corpo seratile (columna laterata triangula / σχῆμα πριστόν) (corpo-
 
 A five-faced prism with two parallel triangular bases and three rectangular lateral faces, called 'seratile' (from Latin serratus, 'sawn') because it is obtained by sawing a parallelepiped diagonally in half (Euclid XI.def.13, XII.7; Compendio Cap. LIX, LXVII; Plates XLI–XLII).
 
-**Occurrences:** :doc:`Comp. Cap. 41 (IT) </de_divina_proportione/compendio/cap_41/cap_41_it>`, :doc:`Comp. Cap. 59 (EN) </de_divina_proportione/compendio/cap_59/cap_59_en>`, :doc:`Comp. Cap. 59 (IT) </de_divina_proportione/compendio/cap_59/cap_59_it>`, :doc:`Comp. Cap. 59 (Notes) </de_divina_proportione/compendio/cap_59/cap_59_notes>`, :doc:`Comp. Cap. 67 (EN) </de_divina_proportione/compendio/cap_67/cap_67_en>`, :doc:`Comp. Cap. 67 (IT) </de_divina_proportione/compendio/cap_67/cap_67_it>`, :doc:`Comp. Cap. 67 (Notes) </de_divina_proportione/compendio/cap_67/cap_67_notes>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
+**Occurrences:** :doc:`Comp. Cap. 41 (IT) </de_divina_proportione/compendio/cap_41/it>`, :doc:`Comp. Cap. 59 (EN) </de_divina_proportione/compendio/cap_59/index>`, :doc:`Comp. Cap. 59 (IT) </de_divina_proportione/compendio/cap_59/it>`, :doc:`Comp. Cap. 59 (Notes) </de_divina_proportione/compendio/cap_59/notes>`, :doc:`Comp. Cap. 67 (EN) </de_divina_proportione/compendio/cap_67/index>`, :doc:`Comp. Cap. 67 (IT) </de_divina_proportione/compendio/cap_67/it>`, :doc:`Comp. Cap. 67 (Notes) </de_divina_proportione/compendio/cap_67/notes>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
 
 .. _term-corpo-solido:
 
@@ -501,7 +501,7 @@ cotozzo (occipite) (cotozzo)
 
 The rear occipital point of the human skull forming the apex of the equilateral triangle that governs the facial profile on Folio 0137 (Architectura Cap. I–II).
 
-**Occurrences:** :doc:`Arch. Cap. 2 (EN) </de_divina_proportione/architectura/cap_02/cap_02_en>`, :doc:`Arch. Cap. 2 (IT) </de_divina_proportione/architectura/cap_02/cap_02_it>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`
+**Occurrences:** :doc:`Arch. Cap. 2 (EN) </de_divina_proportione/architectura/cap_02/index>`, :doc:`Arch. Cap. 2 (IT) </de_divina_proportione/architectura/cap_02/it>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`
 
 .. _term-crosiera:
 
@@ -532,7 +532,7 @@ decagono equilatero (decagono)
 
 A ten-sided equilateral polygon inscribed in a circle; its side is the greater segment when the radius (side of the inscribed hexagon) is divided according to the Divine Proportion (Euclid XIII.9–10; Compendio Cap. XV–XVI, XXIX).
 
-**Occurrences:** :doc:`Comp. Cap. 16 (IT) </de_divina_proportione/compendio/cap_16/cap_16_it>`, :doc:`Comp. Cap. 17 (IT) </de_divina_proportione/compendio/cap_17/cap_17_it>`, :doc:`Comp. Cap. 20 (IT) </de_divina_proportione/compendio/cap_20/cap_20_it>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/cap_31_it>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/cap_71_it>`
+**Occurrences:** :doc:`Comp. Cap. 16 (IT) </de_divina_proportione/compendio/cap_16/it>`, :doc:`Comp. Cap. 17 (IT) </de_divina_proportione/compendio/cap_17/it>`, :doc:`Comp. Cap. 20 (IT) </de_divina_proportione/compendio/cap_20/it>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/it>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/it>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/it>`
 
 .. _term-denticeli:
 
@@ -554,7 +554,7 @@ diagonale
 
 Defined in Chapter LXXI: the straight line drawn from one angle to the opposite angle of a quadrilateral figure, dividing it into two triangles.
 
-**Occurrences:** :doc:`Arch. Cap. 4 (DE) </de_divina_proportione/architectura/cap_04/cap_04_de>`, :doc:`Arch. Cap. 4 (IT) </de_divina_proportione/architectura/cap_04/cap_04_it>`, :doc:`Comp. Cap. 27 (Notes) </de_divina_proportione/compendio/cap_27/cap_27_notes>`, :doc:`Comp. Cap. 35 (DE) </de_divina_proportione/compendio/cap_35/cap_35_de>`, :doc:`Comp. Cap. 67 (DE) </de_divina_proportione/compendio/cap_67/cap_67_de>`, :doc:`Comp. Cap. 71 (DE) </de_divina_proportione/compendio/cap_71/cap_71_de>`, :doc:`Winterberg Anmerkungen (DE) </de_divina_proportione/plates/anmerkungen_de>`
+**Occurrences:** :doc:`Arch. Cap. 4 (DE) </de_divina_proportione/architectura/cap_04/de>`, :doc:`Arch. Cap. 4 (IT) </de_divina_proportione/architectura/cap_04/it>`, :doc:`Comp. Cap. 27 (Notes) </de_divina_proportione/compendio/cap_27/notes>`, :doc:`Comp. Cap. 35 (DE) </de_divina_proportione/compendio/cap_35/de>`, :doc:`Comp. Cap. 67 (DE) </de_divina_proportione/compendio/cap_67/de>`, :doc:`Comp. Cap. 71 (DE) </de_divina_proportione/compendio/cap_71/de>`, :doc:`Winterberg Anmerkungen (DE) </de_divina_proportione/plates/anmerkungen_de>`
 
 .. _term-divina-proportione:
 
@@ -565,7 +565,7 @@ divina proportione (divina-proportione)
 
 Pacioli's theological and mathematical name for extreme and mean ratio (Euclid VI.def.3, II.11, VI.30, XIII.1–18), possessing five analogies with God: unity, trinity of terms, irrationality/ineffability, self-similarity (invariability), and formal generation of the cosmic dodecahedron and the five Platonic solids.
 
-**Occurrences:** :doc:`Arch. Cap. 6 (DE) </de_divina_proportione/architectura/cap_06/cap_06_de>`, :doc:`Arch. Cap. 18 (DE) </de_divina_proportione/architectura/cap_18/cap_18_de>`, :doc:`Arch. Cap. 18 (EN) </de_divina_proportione/architectura/cap_18/cap_18_en>`, :doc:`Arch. Cap. 19 (EN) </de_divina_proportione/architectura/cap_19/cap_19_en>`, :doc:`Arch. Prohemio (DE) </de_divina_proportione/architectura/dedication/dedication_de>`, :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/cap_01_de>`, :doc:`Comp. Cap. 5 (DE) </de_divina_proportione/compendio/cap_05/cap_05_de>`, :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 7 (DE) </de_divina_proportione/compendio/cap_07/cap_07_de>`, :doc:`Comp. Cap. 7 (EN) </de_divina_proportione/compendio/cap_07/cap_07_en>`, :doc:`Comp. Cap. 12 (DE) </de_divina_proportione/compendio/cap_12/cap_12_de>`, :doc:`Comp. Cap. 12 (EN) </de_divina_proportione/compendio/cap_12/cap_12_en>`, :doc:`Comp. Cap. 13 (DE) </de_divina_proportione/compendio/cap_13/cap_13_de>`, :doc:`Comp. Cap. 13 (EN) </de_divina_proportione/compendio/cap_13/cap_13_en>`, :doc:`Comp. Cap. 20 (DE) </de_divina_proportione/compendio/cap_20/cap_20_de>`, :doc:`Comp. Cap. 20 (EN) </de_divina_proportione/compendio/cap_20/cap_20_en>`, :doc:`Comp. Cap. 22 (DE) </de_divina_proportione/compendio/cap_22/cap_22_de>`, :doc:`Comp. Cap. 22 (EN) </de_divina_proportione/compendio/cap_22/cap_22_en>`, :doc:`Comp. Cap. 24 (EN) </de_divina_proportione/compendio/cap_24/cap_24_en>`, :doc:`Comp. Cap. 25 (EN) </de_divina_proportione/compendio/cap_25/cap_25_en>`, :doc:`Comp. Cap. 29 (EN) </de_divina_proportione/compendio/cap_29/cap_29_en>`, :doc:`Comp. Cap. 30 (EN) </de_divina_proportione/compendio/cap_30/cap_30_en>`, :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/cap_31_en>`, :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, *...and 12 more*
+**Occurrences:** :doc:`Arch. Cap. 6 (DE) </de_divina_proportione/architectura/cap_06/de>`, :doc:`Arch. Cap. 18 (DE) </de_divina_proportione/architectura/cap_18/de>`, :doc:`Arch. Cap. 18 (EN) </de_divina_proportione/architectura/cap_18/index>`, :doc:`Arch. Cap. 19 (EN) </de_divina_proportione/architectura/cap_19/index>`, :doc:`Arch. Prohemio (DE) </de_divina_proportione/architectura/dedication/de>`, :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/de>`, :doc:`Comp. Cap. 5 (DE) </de_divina_proportione/compendio/cap_05/de>`, :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/notes>`, :doc:`Comp. Cap. 7 (DE) </de_divina_proportione/compendio/cap_07/de>`, :doc:`Comp. Cap. 7 (EN) </de_divina_proportione/compendio/cap_07/index>`, :doc:`Comp. Cap. 12 (DE) </de_divina_proportione/compendio/cap_12/de>`, :doc:`Comp. Cap. 12 (EN) </de_divina_proportione/compendio/cap_12/index>`, :doc:`Comp. Cap. 13 (DE) </de_divina_proportione/compendio/cap_13/de>`, :doc:`Comp. Cap. 13 (EN) </de_divina_proportione/compendio/cap_13/index>`, :doc:`Comp. Cap. 20 (DE) </de_divina_proportione/compendio/cap_20/de>`, :doc:`Comp. Cap. 20 (EN) </de_divina_proportione/compendio/cap_20/index>`, :doc:`Comp. Cap. 22 (DE) </de_divina_proportione/compendio/cap_22/de>`, :doc:`Comp. Cap. 22 (EN) </de_divina_proportione/compendio/cap_22/index>`, :doc:`Comp. Cap. 24 (EN) </de_divina_proportione/compendio/cap_24/index>`, :doc:`Comp. Cap. 25 (EN) </de_divina_proportione/compendio/cap_25/index>`, :doc:`Comp. Cap. 29 (EN) </de_divina_proportione/compendio/cap_29/index>`, :doc:`Comp. Cap. 30 (EN) </de_divina_proportione/compendio/cap_30/index>`, :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/index>`, :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/notes>`, *...and 12 more*
 
 .. _term-dodecahedron:
 
@@ -576,7 +576,7 @@ Dodecahedron / duodecedron (corpo de dodeci pentagoni) (dodecahedron)
 
 The fifth and noblest regular solid, bounded by 12 regular pentagons, 30 edges, and 20 three-valent solid angles; constructed in Euclid XIII.17 via the Divine Proportion (Compendio Cap. XXX, Plates XXVII–XXXIV) and assigned by Plato to the Fifth Essence (Heaven).
 
-**Occurrences:** :doc:`Comp. Cap. 4 (Notes) </de_divina_proportione/compendio/cap_04/cap_04_notes>`, :doc:`Comp. Cap. 5 (DE) </de_divina_proportione/compendio/cap_05/cap_05_de>`, :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/cap_05_en>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/cap_05_it>`, :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 18 (Notes) </de_divina_proportione/compendio/cap_18/cap_18_notes>`, :doc:`Comp. Cap. 19 (Notes) </de_divina_proportione/compendio/cap_19/cap_19_notes>`, :doc:`Comp. Cap. 22 (DE) </de_divina_proportione/compendio/cap_22/cap_22_de>`, :doc:`Comp. Cap. 22 (EN) </de_divina_proportione/compendio/cap_22/cap_22_en>`, :doc:`Comp. Cap. 22 (IT) </de_divina_proportione/compendio/cap_22/cap_22_it>`, :doc:`Comp. Cap. 24 (EN) </de_divina_proportione/compendio/cap_24/cap_24_en>`, :doc:`Comp. Cap. 24 (Notes) </de_divina_proportione/compendio/cap_24/cap_24_notes>`, :doc:`Comp. Cap. 25 (DE) </de_divina_proportione/compendio/cap_25/cap_25_de>`, :doc:`Comp. Cap. 25 (EN) </de_divina_proportione/compendio/cap_25/cap_25_en>`, :doc:`Comp. Cap. 25 (IT) </de_divina_proportione/compendio/cap_25/cap_25_it>`, :doc:`Comp. Cap. 30 (DE) </de_divina_proportione/compendio/cap_30/cap_30_de>`, :doc:`Comp. Cap. 30 (EN) </de_divina_proportione/compendio/cap_30/cap_30_en>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/cap_30_it>`, :doc:`Comp. Cap. 30 (Notes) </de_divina_proportione/compendio/cap_30/cap_30_notes>`, :doc:`Comp. Cap. 31 (DE) </de_divina_proportione/compendio/cap_31/cap_31_de>`, :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/cap_31_en>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/cap_31_it>`, :doc:`Comp. Cap. 31 (Notes) </de_divina_proportione/compendio/cap_31/cap_31_notes>`, :doc:`Comp. Cap. 32 (DE) </de_divina_proportione/compendio/cap_32/cap_32_de>`, *...and 64 more*
+**Occurrences:** :doc:`Comp. Cap. 4 (Notes) </de_divina_proportione/compendio/cap_04/notes>`, :doc:`Comp. Cap. 5 (DE) </de_divina_proportione/compendio/cap_05/de>`, :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/index>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/it>`, :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/notes>`, :doc:`Comp. Cap. 18 (Notes) </de_divina_proportione/compendio/cap_18/notes>`, :doc:`Comp. Cap. 19 (Notes) </de_divina_proportione/compendio/cap_19/notes>`, :doc:`Comp. Cap. 22 (DE) </de_divina_proportione/compendio/cap_22/de>`, :doc:`Comp. Cap. 22 (EN) </de_divina_proportione/compendio/cap_22/index>`, :doc:`Comp. Cap. 22 (IT) </de_divina_proportione/compendio/cap_22/it>`, :doc:`Comp. Cap. 24 (EN) </de_divina_proportione/compendio/cap_24/index>`, :doc:`Comp. Cap. 24 (Notes) </de_divina_proportione/compendio/cap_24/notes>`, :doc:`Comp. Cap. 25 (DE) </de_divina_proportione/compendio/cap_25/de>`, :doc:`Comp. Cap. 25 (EN) </de_divina_proportione/compendio/cap_25/index>`, :doc:`Comp. Cap. 25 (IT) </de_divina_proportione/compendio/cap_25/it>`, :doc:`Comp. Cap. 30 (DE) </de_divina_proportione/compendio/cap_30/de>`, :doc:`Comp. Cap. 30 (EN) </de_divina_proportione/compendio/cap_30/index>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/it>`, :doc:`Comp. Cap. 30 (Notes) </de_divina_proportione/compendio/cap_30/notes>`, :doc:`Comp. Cap. 31 (DE) </de_divina_proportione/compendio/cap_31/de>`, :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/index>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/it>`, :doc:`Comp. Cap. 31 (Notes) </de_divina_proportione/compendio/cap_31/notes>`, :doc:`Comp. Cap. 32 (DE) </de_divina_proportione/compendio/cap_32/de>`, *...and 64 more*
 
 .. _term-dodecahedron-abscisum:
 
@@ -587,7 +587,7 @@ Dodecahedron abscisum (Δωδεκάεδρον ἀποτετμημένον / Icos
 
 Archimedean quasi-regular solid obtained by bisecting the thirty edges of a regular dodecahedron, bounded by 12 regular pentagons and 20 equilateral triangles, with 60 edges and 30 vertices (Compendio Cap. LII, Plates XXIX–XXX).
 
-**Occurrences:** :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Comp. Cap. 52 (EN) </de_divina_proportione/compendio/cap_52/cap_52_en>`, :doc:`Comp. Cap. 52 (Notes) </de_divina_proportione/compendio/cap_52/cap_52_notes>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
+**Occurrences:** :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/notes>`, :doc:`Comp. Cap. 52 (EN) </de_divina_proportione/compendio/cap_52/index>`, :doc:`Comp. Cap. 52 (Notes) </de_divina_proportione/compendio/cap_52/notes>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
 
 .. _term-dodecahedron-abscisum-elevatum:
 
@@ -620,7 +620,7 @@ dyametro
 
 Defined in Chapter LXXI: a straight line passing through the center of a circle or sphere and terminated at both ends by the circumference, bisecting the figure.
 
-**Occurrences:** :doc:`Arch. Cap. 7 (IT) </de_divina_proportione/architectura/cap_07/cap_07_it>`, :doc:`Comp. Cap. 26 (IT) </de_divina_proportione/compendio/cap_26/cap_26_it>`, :doc:`Comp. Cap. 27 (IT) </de_divina_proportione/compendio/cap_27/cap_27_it>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/cap_31_it>`, :doc:`Comp. Cap. 32 (IT) </de_divina_proportione/compendio/cap_32/cap_32_it>`, :doc:`Comp. Cap. 56 (IT) </de_divina_proportione/compendio/cap_56/cap_56_it>`, :doc:`Comp. Cap. 58 (IT) </de_divina_proportione/compendio/cap_58/cap_58_it>`, :doc:`Comp. Cap. 62 (IT) </de_divina_proportione/compendio/cap_62/cap_62_it>`, :doc:`Comp. Cap. 66 (IT) </de_divina_proportione/compendio/cap_66/cap_66_it>`, :doc:`Comp. Cap. 67 (IT) </de_divina_proportione/compendio/cap_67/cap_67_it>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/cap_71_it>`
+**Occurrences:** :doc:`Arch. Cap. 7 (IT) </de_divina_proportione/architectura/cap_07/it>`, :doc:`Comp. Cap. 26 (IT) </de_divina_proportione/compendio/cap_26/it>`, :doc:`Comp. Cap. 27 (IT) </de_divina_proportione/compendio/cap_27/it>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/it>`, :doc:`Comp. Cap. 32 (IT) </de_divina_proportione/compendio/cap_32/it>`, :doc:`Comp. Cap. 56 (IT) </de_divina_proportione/compendio/cap_56/it>`, :doc:`Comp. Cap. 58 (IT) </de_divina_proportione/compendio/cap_58/it>`, :doc:`Comp. Cap. 62 (IT) </de_divina_proportione/compendio/cap_62/it>`, :doc:`Comp. Cap. 66 (IT) </de_divina_proportione/compendio/cap_66/it>`, :doc:`Comp. Cap. 67 (IT) </de_divina_proportione/compendio/cap_67/it>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/it>`
 
 .. _term-echino:
 
@@ -631,7 +631,7 @@ echino / huovolo (echino)
 
 Convex quarter-round classical molding, called 'echino' by the ancients and 'huovolo' (egg-molding) by Renaissance masons (Folio 0215).
 
-**Occurrences:** :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/cap_06_en>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/cap_06_it>`, :doc:`Arch. Cap. 14 (EN) </de_divina_proportione/architectura/cap_14/cap_14_en>`, :doc:`Arch. Cap. 14 (IT) </de_divina_proportione/architectura/cap_14/cap_14_it>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
+**Occurrences:** :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/index>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/it>`, :doc:`Arch. Cap. 14 (EN) </de_divina_proportione/architectura/cap_14/index>`, :doc:`Arch. Cap. 14 (IT) </de_divina_proportione/architectura/cap_14/it>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
 
 .. _term-effetto:
 
@@ -651,7 +651,7 @@ elevatum / elevato / pontuto (ἐπηρμένον) (elevatum)
 
 A stellated polyhedron formed by erecting equilateral triangular pyramids upon every polygonal face of a core convex polyhedron (such as the elevated octahedron, later rediscovered by Kepler as the Stella Octangula).
 
-**Occurrences:** :doc:`Comp. Cap. 48 (EN) </de_divina_proportione/compendio/cap_48/cap_48_en>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
+**Occurrences:** :doc:`Comp. Cap. 48 (EN) </de_divina_proportione/compendio/cap_48/index>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
 
 .. _term-elmuariffe:
 
@@ -662,7 +662,7 @@ elmuariffe (trapezium) (elmuariffe)
 
 Campanus's Arabic-derived term (from al-munḥarif) used by Pacioli in Chapter LX for irregular four-sided plane figures that are neither squares, rectangles, rhombi, nor rhomboids.
 
-**Occurrences:** :doc:`Comp. Cap. 60 (DE) </de_divina_proportione/compendio/cap_60/cap_60_de>`, :doc:`Comp. Cap. 60 (EN) </de_divina_proportione/compendio/cap_60/cap_60_en>`, :doc:`Comp. Cap. 60 (IT) </de_divina_proportione/compendio/cap_60/cap_60_it>`, :doc:`Comp. Cap. 60 (Notes) </de_divina_proportione/compendio/cap_60/cap_60_notes>`, :doc:`Comp. Cap. 63 (EN) </de_divina_proportione/compendio/cap_63/cap_63_en>`
+**Occurrences:** :doc:`Comp. Cap. 60 (DE) </de_divina_proportione/compendio/cap_60/de>`, :doc:`Comp. Cap. 60 (EN) </de_divina_proportione/compendio/cap_60/index>`, :doc:`Comp. Cap. 60 (IT) </de_divina_proportione/compendio/cap_60/it>`, :doc:`Comp. Cap. 60 (Notes) </de_divina_proportione/compendio/cap_60/notes>`, :doc:`Comp. Cap. 63 (EN) </de_divina_proportione/compendio/cap_63/index>`
 
 .. _term-elmuhaym:
 
@@ -673,7 +673,7 @@ elmuhaym (rhombus) (elmuhaym)
 
 Campanus's Arabic-derived term (from al-mu'ayyan) used by Pacioli in Chapter LX for an equilateral four-sided figure whose angles are not right angles.
 
-**Occurrences:** :doc:`Comp. Cap. 60 (Notes) </de_divina_proportione/compendio/cap_60/cap_60_notes>`
+**Occurrences:** :doc:`Comp. Cap. 60 (Notes) </de_divina_proportione/compendio/cap_60/notes>`
 
 .. _term-epistilio:
 
@@ -684,7 +684,7 @@ epistilio / architrave (epistilio)
 
 The lowest of the three principal horizontal members of a classical entablature, resting directly upon the capitals of the columns to bind them together; divided into fasciae and crowned by the taenia/cymatium (Architectura Cap. XIV, Folio 0215).
 
-**Occurrences:** :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/cap_06_en>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/cap_06_it>`, :doc:`Arch. Cap. 12 (EN) </de_divina_proportione/architectura/cap_12/cap_12_en>`, :doc:`Arch. Cap. 12 (IT) </de_divina_proportione/architectura/cap_12/cap_12_it>`, :doc:`Arch. Cap. 13 (EN) </de_divina_proportione/architectura/cap_13/cap_13_en>`, :doc:`Arch. Cap. 13 (IT) </de_divina_proportione/architectura/cap_13/cap_13_it>`, :doc:`Arch. Cap. 13 (Notes) </de_divina_proportione/architectura/cap_13/cap_13_notes>`, :doc:`Arch. Cap. 14 (EN) </de_divina_proportione/architectura/cap_14/cap_14_en>`, :doc:`Arch. Cap. 14 (IT) </de_divina_proportione/architectura/cap_14/cap_14_it>`, :doc:`Arch. Cap. 14 (Notes) </de_divina_proportione/architectura/cap_14/cap_14_notes>`, :doc:`Arch. Cap. 15 (EN) </de_divina_proportione/architectura/cap_15/cap_15_en>`, :doc:`Arch. Cap. 15 (IT) </de_divina_proportione/architectura/cap_15/cap_15_it>`, :doc:`Arch. Cap. 16 (EN) </de_divina_proportione/architectura/cap_16/cap_16_en>`, :doc:`Arch. Cap. 16 (IT) </de_divina_proportione/architectura/cap_16/cap_16_it>`, :doc:`Arch. Cap. 17 (IT) </de_divina_proportione/architectura/cap_17/cap_17_it>`, :doc:`Arch. Cap. 20 (IT) </de_divina_proportione/architectura/cap_20/cap_20_it>`, :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/dedication_it>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
+**Occurrences:** :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/index>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/it>`, :doc:`Arch. Cap. 12 (EN) </de_divina_proportione/architectura/cap_12/index>`, :doc:`Arch. Cap. 12 (IT) </de_divina_proportione/architectura/cap_12/it>`, :doc:`Arch. Cap. 13 (EN) </de_divina_proportione/architectura/cap_13/index>`, :doc:`Arch. Cap. 13 (IT) </de_divina_proportione/architectura/cap_13/it>`, :doc:`Arch. Cap. 13 (Notes) </de_divina_proportione/architectura/cap_13/notes>`, :doc:`Arch. Cap. 14 (EN) </de_divina_proportione/architectura/cap_14/index>`, :doc:`Arch. Cap. 14 (IT) </de_divina_proportione/architectura/cap_14/it>`, :doc:`Arch. Cap. 14 (Notes) </de_divina_proportione/architectura/cap_14/notes>`, :doc:`Arch. Cap. 15 (EN) </de_divina_proportione/architectura/cap_15/index>`, :doc:`Arch. Cap. 15 (IT) </de_divina_proportione/architectura/cap_15/it>`, :doc:`Arch. Cap. 16 (EN) </de_divina_proportione/architectura/cap_16/index>`, :doc:`Arch. Cap. 16 (IT) </de_divina_proportione/architectura/cap_16/it>`, :doc:`Arch. Cap. 17 (IT) </de_divina_proportione/architectura/cap_17/it>`, :doc:`Arch. Cap. 20 (IT) </de_divina_proportione/architectura/cap_20/it>`, :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/it>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
 
 .. _term-equilatero:
 
@@ -695,7 +695,7 @@ equilatero (triangulo equilatero / ysopleuro) (equilatero)
 
 A three-sided plane figure with three equal sides and three 60° angles (Euclid I.1), serving as the elementary face of the tetrahedron, octahedron, and icosahedron, and as Plato's geometric atom of fire, air, and water (Compendio Cap. XXIV, XXV, LX).
 
-**Occurrences:** :doc:`Comp. Cap. 16 (IT) </de_divina_proportione/compendio/cap_16/cap_16_it>`, :doc:`Comp. Cap. 17 (IT) </de_divina_proportione/compendio/cap_17/cap_17_it>`, :doc:`Comp. Cap. 18 (IT) </de_divina_proportione/compendio/cap_18/cap_18_it>`, :doc:`Comp. Cap. 20 (IT) </de_divina_proportione/compendio/cap_20/cap_20_it>`, :doc:`Comp. Cap. 22 (IT) </de_divina_proportione/compendio/cap_22/cap_22_it>`, :doc:`Comp. Cap. 25 (IT) </de_divina_proportione/compendio/cap_25/cap_25_it>`, :doc:`Comp. Cap. 26 (IT) </de_divina_proportione/compendio/cap_26/cap_26_it>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/cap_30_it>`, :doc:`Comp. Cap. 61 (IT) </de_divina_proportione/compendio/cap_61/cap_61_it>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
+**Occurrences:** :doc:`Comp. Cap. 16 (IT) </de_divina_proportione/compendio/cap_16/it>`, :doc:`Comp. Cap. 17 (IT) </de_divina_proportione/compendio/cap_17/it>`, :doc:`Comp. Cap. 18 (IT) </de_divina_proportione/compendio/cap_18/it>`, :doc:`Comp. Cap. 20 (IT) </de_divina_proportione/compendio/cap_20/it>`, :doc:`Comp. Cap. 22 (IT) </de_divina_proportione/compendio/cap_22/it>`, :doc:`Comp. Cap. 25 (IT) </de_divina_proportione/compendio/cap_25/it>`, :doc:`Comp. Cap. 26 (IT) </de_divina_proportione/compendio/cap_26/it>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/it>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/it>`, :doc:`Comp. Cap. 61 (IT) </de_divina_proportione/compendio/cap_61/it>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
 
 .. _term-exagono:
 
@@ -706,7 +706,7 @@ exagono equilatero (exagono)
 
 A six-sided equilateral polygon whose side equals the radius (semidiameter) of its circumscribed circle (Euclid IV.15); when the side of the hexagon is divided in the Divine Proportion, its greater segment is the side of the regular decagon in the same circle (Euclid XIII.9; Compendio Cap. XV–XVI).
 
-**Occurrences:** :doc:`Comp. Cap. 16 (IT) </de_divina_proportione/compendio/cap_16/cap_16_it>`, :doc:`Comp. Cap. 17 (IT) </de_divina_proportione/compendio/cap_17/cap_17_it>`, :doc:`Comp. Cap. 20 (IT) </de_divina_proportione/compendio/cap_20/cap_20_it>`, :doc:`Comp. Cap. 25 (IT) </de_divina_proportione/compendio/cap_25/cap_25_it>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/cap_31_it>`, :doc:`Comp. Cap. 51 (IT) </de_divina_proportione/compendio/cap_51/cap_51_it>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/cap_71_it>`
+**Occurrences:** :doc:`Comp. Cap. 16 (IT) </de_divina_proportione/compendio/cap_16/it>`, :doc:`Comp. Cap. 17 (IT) </de_divina_proportione/compendio/cap_17/it>`, :doc:`Comp. Cap. 20 (IT) </de_divina_proportione/compendio/cap_20/it>`, :doc:`Comp. Cap. 25 (IT) </de_divina_proportione/compendio/cap_25/it>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/it>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/it>`, :doc:`Comp. Cap. 51 (IT) </de_divina_proportione/compendio/cap_51/it>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/it>`
 
 .. _term-exahedron:
 
@@ -717,7 +717,7 @@ Exahedron sive Cubus / exacedron (cubo) (exahedron)
 
 The second regular solid, bounded by 6 square faces, 12 edges, and 8 three-valent solid angles; constructed in Euclid XIII.15 (Compendio Cap. XXVII, Plates VII–XIV) and assigned by Plato to the element of Earth.
 
-**Occurrences:** :doc:`Comp. Cap. 5 (DE) </de_divina_proportione/compendio/cap_05/cap_05_de>`, :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/cap_05_en>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/cap_05_it>`, :doc:`Comp. Cap. 25 (EN) </de_divina_proportione/compendio/cap_25/cap_25_en>`, :doc:`Comp. Cap. 27 (EN) </de_divina_proportione/compendio/cap_27/cap_27_en>`, :doc:`Comp. Cap. 30 (EN) </de_divina_proportione/compendio/cap_30/cap_30_en>`, :doc:`Comp. Cap. 33 (DE) </de_divina_proportione/compendio/cap_33/cap_33_de>`, :doc:`Comp. Cap. 33 (IT) </de_divina_proportione/compendio/cap_33/cap_33_it>`, :doc:`Comp. Cap. 36 (DE) </de_divina_proportione/compendio/cap_36/cap_36_de>`, :doc:`Comp. Cap. 36 (EN) </de_divina_proportione/compendio/cap_36/cap_36_en>`, :doc:`Comp. Cap. 36 (IT) </de_divina_proportione/compendio/cap_36/cap_36_it>`, :doc:`Comp. Cap. 37 (DE) </de_divina_proportione/compendio/cap_37/cap_37_de>`, :doc:`Comp. Cap. 37 (EN) </de_divina_proportione/compendio/cap_37/cap_37_en>`, :doc:`Comp. Cap. 37 (IT) </de_divina_proportione/compendio/cap_37/cap_37_it>`, :doc:`Comp. Cap. 38 (EN) </de_divina_proportione/compendio/cap_38/cap_38_en>`, :doc:`Comp. Cap. 41 (EN) </de_divina_proportione/compendio/cap_41/cap_41_en>`, :doc:`Comp. Cap. 44 (EN) </de_divina_proportione/compendio/cap_44/cap_44_en>`, :doc:`Comp. Cap. 46 (EN) </de_divina_proportione/compendio/cap_46/cap_46_en>`, :doc:`Comp. Cap. 49 (DE) </de_divina_proportione/compendio/cap_49/cap_49_de>`, :doc:`Comp. Cap. 49 (EN) </de_divina_proportione/compendio/cap_49/cap_49_en>`, :doc:`Comp. Cap. 49 (IT) </de_divina_proportione/compendio/cap_49/cap_49_it>`, :doc:`Comp. Cap. 49 (Notes) </de_divina_proportione/compendio/cap_49/cap_49_notes>`, :doc:`Comp. Cap. 52 (EN) </de_divina_proportione/compendio/cap_52/cap_52_en>`, :doc:`Comp. Cap. 53 (DE) </de_divina_proportione/compendio/cap_53/cap_53_de>`, *...and 11 more*
+**Occurrences:** :doc:`Comp. Cap. 5 (DE) </de_divina_proportione/compendio/cap_05/de>`, :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/index>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/it>`, :doc:`Comp. Cap. 25 (EN) </de_divina_proportione/compendio/cap_25/index>`, :doc:`Comp. Cap. 27 (EN) </de_divina_proportione/compendio/cap_27/index>`, :doc:`Comp. Cap. 30 (EN) </de_divina_proportione/compendio/cap_30/index>`, :doc:`Comp. Cap. 33 (DE) </de_divina_proportione/compendio/cap_33/de>`, :doc:`Comp. Cap. 33 (IT) </de_divina_proportione/compendio/cap_33/it>`, :doc:`Comp. Cap. 36 (DE) </de_divina_proportione/compendio/cap_36/de>`, :doc:`Comp. Cap. 36 (EN) </de_divina_proportione/compendio/cap_36/index>`, :doc:`Comp. Cap. 36 (IT) </de_divina_proportione/compendio/cap_36/it>`, :doc:`Comp. Cap. 37 (DE) </de_divina_proportione/compendio/cap_37/de>`, :doc:`Comp. Cap. 37 (EN) </de_divina_proportione/compendio/cap_37/index>`, :doc:`Comp. Cap. 37 (IT) </de_divina_proportione/compendio/cap_37/it>`, :doc:`Comp. Cap. 38 (EN) </de_divina_proportione/compendio/cap_38/index>`, :doc:`Comp. Cap. 41 (EN) </de_divina_proportione/compendio/cap_41/index>`, :doc:`Comp. Cap. 44 (EN) </de_divina_proportione/compendio/cap_44/index>`, :doc:`Comp. Cap. 46 (EN) </de_divina_proportione/compendio/cap_46/index>`, :doc:`Comp. Cap. 49 (DE) </de_divina_proportione/compendio/cap_49/de>`, :doc:`Comp. Cap. 49 (EN) </de_divina_proportione/compendio/cap_49/index>`, :doc:`Comp. Cap. 49 (IT) </de_divina_proportione/compendio/cap_49/it>`, :doc:`Comp. Cap. 49 (Notes) </de_divina_proportione/compendio/cap_49/notes>`, :doc:`Comp. Cap. 52 (EN) </de_divina_proportione/compendio/cap_52/index>`, :doc:`Comp. Cap. 53 (DE) </de_divina_proportione/compendio/cap_53/de>`, *...and 11 more*
 
 .. _term-exahedron-abscisum:
 
@@ -728,7 +728,7 @@ Exahedron abscisum (Ἑξάεδρον ἀποτετμημένον / Cuboctahedro
 
 Archimedean quasi-regular solid obtained by bisecting all twelve edges of a cube, bounded by 6 squares and 8 equilateral triangles, with 24 edges and 12 four-valent vertices (Compendio Cap. XLIX, Plates IX–X).
 
-**Occurrences:** :doc:`Comp. Cap. 49 (EN) </de_divina_proportione/compendio/cap_49/cap_49_en>`, :doc:`Comp. Cap. 49 (Notes) </de_divina_proportione/compendio/cap_49/cap_49_notes>`, :doc:`Comp. Cap. 50 (EN) </de_divina_proportione/compendio/cap_50/cap_50_en>`, :doc:`Comp. Cap. 52 (EN) </de_divina_proportione/compendio/cap_52/cap_52_en>`, :doc:`Comp. Cap. 52 (Notes) </de_divina_proportione/compendio/cap_52/cap_52_notes>`, :doc:`Comp. Cap. 54 (Notes) </de_divina_proportione/compendio/cap_54/cap_54_notes>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
+**Occurrences:** :doc:`Comp. Cap. 49 (EN) </de_divina_proportione/compendio/cap_49/index>`, :doc:`Comp. Cap. 49 (Notes) </de_divina_proportione/compendio/cap_49/notes>`, :doc:`Comp. Cap. 50 (EN) </de_divina_proportione/compendio/cap_50/index>`, :doc:`Comp. Cap. 52 (EN) </de_divina_proportione/compendio/cap_52/index>`, :doc:`Comp. Cap. 52 (Notes) </de_divina_proportione/compendio/cap_52/notes>`, :doc:`Comp. Cap. 54 (Notes) </de_divina_proportione/compendio/cap_54/notes>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
 
 .. _term-exahedron-abscisum-elevatum:
 
@@ -761,7 +761,7 @@ proportione avente el mezzo e doi extremi (extrema-et-media-ratio)
 
 The technical Euclidean definition (Elements VI.def.3) whereby a magnitude AB is divided at C into unequal parts AC > CB such that AB : AC = AC : CB, and AB · CB = AC².
 
-**Occurrences:** :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 7 (Notes) </de_divina_proportione/compendio/cap_07/cap_07_notes>`, :doc:`Comp. Cap. 8 (Notes) </de_divina_proportione/compendio/cap_08/cap_08_notes>`, :doc:`Comp. Cap. 11 (Notes) </de_divina_proportione/compendio/cap_11/cap_11_notes>`, :doc:`Comp. Cap. 12 (Notes) </de_divina_proportione/compendio/cap_12/cap_12_notes>`, :doc:`Comp. Cap. 13 (Notes) </de_divina_proportione/compendio/cap_13/cap_13_notes>`, :doc:`Comp. Cap. 14 (Notes) </de_divina_proportione/compendio/cap_14/cap_14_notes>`, :doc:`Comp. Cap. 15 (Notes) </de_divina_proportione/compendio/cap_15/cap_15_notes>`, :doc:`Comp. Cap. 16 (Notes) </de_divina_proportione/compendio/cap_16/cap_16_notes>`, :doc:`Comp. Cap. 18 (Notes) </de_divina_proportione/compendio/cap_18/cap_18_notes>`, :doc:`Comp. Cap. 20 (Notes) </de_divina_proportione/compendio/cap_20/cap_20_notes>`, :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/cap_21_notes>`, :doc:`Comp. Cap. 24 (EN) </de_divina_proportione/compendio/cap_24/cap_24_en>`, :doc:`Comp. Cap. 29 (Notes) </de_divina_proportione/compendio/cap_29/cap_29_notes>`, :doc:`Comp. Cap. 30 (EN) </de_divina_proportione/compendio/cap_30/cap_30_en>`, :doc:`Comp. Cap. 30 (Notes) </de_divina_proportione/compendio/cap_30/cap_30_notes>`, :doc:`Comp. Cap. 44 (EN) </de_divina_proportione/compendio/cap_44/cap_44_en>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
+**Occurrences:** :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/notes>`, :doc:`Comp. Cap. 7 (Notes) </de_divina_proportione/compendio/cap_07/notes>`, :doc:`Comp. Cap. 8 (Notes) </de_divina_proportione/compendio/cap_08/notes>`, :doc:`Comp. Cap. 11 (Notes) </de_divina_proportione/compendio/cap_11/notes>`, :doc:`Comp. Cap. 12 (Notes) </de_divina_proportione/compendio/cap_12/notes>`, :doc:`Comp. Cap. 13 (Notes) </de_divina_proportione/compendio/cap_13/notes>`, :doc:`Comp. Cap. 14 (Notes) </de_divina_proportione/compendio/cap_14/notes>`, :doc:`Comp. Cap. 15 (Notes) </de_divina_proportione/compendio/cap_15/notes>`, :doc:`Comp. Cap. 16 (Notes) </de_divina_proportione/compendio/cap_16/notes>`, :doc:`Comp. Cap. 18 (Notes) </de_divina_proportione/compendio/cap_18/notes>`, :doc:`Comp. Cap. 20 (Notes) </de_divina_proportione/compendio/cap_20/notes>`, :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/notes>`, :doc:`Comp. Cap. 24 (EN) </de_divina_proportione/compendio/cap_24/index>`, :doc:`Comp. Cap. 29 (Notes) </de_divina_proportione/compendio/cap_29/notes>`, :doc:`Comp. Cap. 30 (EN) </de_divina_proportione/compendio/cap_30/index>`, :doc:`Comp. Cap. 30 (Notes) </de_divina_proportione/compendio/cap_30/notes>`, :doc:`Comp. Cap. 44 (EN) </de_divina_proportione/compendio/cap_44/index>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _term-fastigio:
 
@@ -772,7 +772,7 @@ fastigio / frontespicio (fastigio)
 
 The triangular crowning gable above the entablature of a temple facade or portal, enclosing the tympanum (Architectura Cap. VI, XVII; Folio 0185).
 
-**Occurrences:** :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/cap_06_en>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/cap_06_it>`, :doc:`Arch. Cap. 14 (IT) </de_divina_proportione/architectura/cap_14/cap_14_it>`, :doc:`Arch. Cap. 17 (EN) </de_divina_proportione/architectura/cap_17/cap_17_en>`, :doc:`Arch. Cap. 17 (IT) </de_divina_proportione/architectura/cap_17/cap_17_it>`, :doc:`Comp. Cap. 54 (IT) </de_divina_proportione/compendio/cap_54/cap_54_it>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
+**Occurrences:** :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/index>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/it>`, :doc:`Arch. Cap. 14 (IT) </de_divina_proportione/architectura/cap_14/it>`, :doc:`Arch. Cap. 17 (EN) </de_divina_proportione/architectura/cap_17/index>`, :doc:`Arch. Cap. 17 (IT) </de_divina_proportione/architectura/cap_17/it>`, :doc:`Comp. Cap. 54 (IT) </de_divina_proportione/compendio/cap_54/it>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
 
 .. _term-gamba-grossa:
 
@@ -794,7 +794,7 @@ geometria
 
 The mathematical discipline treating of stationary continuous magnitude—points, lines, surfaces, and solid bodies—and the sole domain capable of expressing irrational ratios such as the Divine Proportion (Compendio Cap. III, VI).
 
-**Occurrences:** :doc:`Arch. Cap. 19 (IT) </de_divina_proportione/architectura/cap_19/cap_19_it>`, :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/dedication_it>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/cap_03_it>`, :doc:`Comp. Cap. 4 (IT) </de_divina_proportione/compendio/cap_04/cap_04_it>`, :doc:`Comp. Cap. 26 (IT) </de_divina_proportione/compendio/cap_26/cap_26_it>`, :doc:`Comp. Cap. 54 (IT) </de_divina_proportione/compendio/cap_54/cap_54_it>`, :doc:`Comp. Cap. 63 (Notes) </de_divina_proportione/compendio/cap_63/cap_63_notes>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/cap_71_it>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
+**Occurrences:** :doc:`Arch. Cap. 19 (IT) </de_divina_proportione/architectura/cap_19/it>`, :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/it>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/it>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/it>`, :doc:`Comp. Cap. 4 (IT) </de_divina_proportione/compendio/cap_04/it>`, :doc:`Comp. Cap. 26 (IT) </de_divina_proportione/compendio/cap_26/it>`, :doc:`Comp. Cap. 54 (IT) </de_divina_proportione/compendio/cap_54/it>`, :doc:`Comp. Cap. 63 (Notes) </de_divina_proportione/compendio/cap_63/notes>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/it>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
 
 .. _term-gnomone:
 
@@ -814,7 +814,7 @@ Goldener Schnitt (sectio aurea / stetige Proportion) (goldener-schnitt)
 
 The nineteenth-century German mathematical and aesthetic term ('Die Lehre vom Goldenen Schnitt') used by Constantin Winterberg and Adolf Zeising for Pacioli's Divina Proportione (x : a = (a - x) : x, where x = a(√5 - 1)/2).
 
-**Occurrences:** :doc:`Comp. Cap. 7 (Notes) </de_divina_proportione/compendio/cap_07/cap_07_notes>`, :doc:`Comp. Cap. 22 (Notes) </de_divina_proportione/compendio/cap_22/cap_22_notes>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Comp. Cap. 7 (Notes) </de_divina_proportione/compendio/cap_07/notes>`, :doc:`Comp. Cap. 22 (Notes) </de_divina_proportione/compendio/cap_22/notes>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`
 
 .. _term-homo-ad-circulum:
 
@@ -834,7 +834,7 @@ Icosahedron / ycocedron (corpo de vinti basi triangulari) (icosahedron)
 
 The fourth regular solid, bounded by 20 equilateral triangles, 30 edges, and 12 five-valent solid angles; constructed in Euclid XIII.16 (Compendio Cap. XXIX, Plates XXI–XXVI) and assigned by Plato to the element of Water.
 
-**Occurrences:** :doc:`Arch. Cap. 18 (DE) </de_divina_proportione/architectura/cap_18/cap_18_de>`, :doc:`Arch. Cap. 18 (EN) </de_divina_proportione/architectura/cap_18/cap_18_en>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Comp. Cap. 4 (Notes) </de_divina_proportione/compendio/cap_04/cap_04_notes>`, :doc:`Comp. Cap. 5 (DE) </de_divina_proportione/compendio/cap_05/cap_05_de>`, :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/cap_05_en>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/cap_05_it>`, :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 19 (Notes) </de_divina_proportione/compendio/cap_19/cap_19_notes>`, :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/cap_21_notes>`, :doc:`Comp. Cap. 24 (EN) </de_divina_proportione/compendio/cap_24/cap_24_en>`, :doc:`Comp. Cap. 24 (Notes) </de_divina_proportione/compendio/cap_24/cap_24_notes>`, :doc:`Comp. Cap. 25 (DE) </de_divina_proportione/compendio/cap_25/cap_25_de>`, :doc:`Comp. Cap. 25 (EN) </de_divina_proportione/compendio/cap_25/cap_25_en>`, :doc:`Comp. Cap. 25 (IT) </de_divina_proportione/compendio/cap_25/cap_25_it>`, :doc:`Comp. Cap. 28 (Notes) </de_divina_proportione/compendio/cap_28/cap_28_notes>`, :doc:`Comp. Cap. 29 (DE) </de_divina_proportione/compendio/cap_29/cap_29_de>`, :doc:`Comp. Cap. 29 (EN) </de_divina_proportione/compendio/cap_29/cap_29_en>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>`, :doc:`Comp. Cap. 29 (Notes) </de_divina_proportione/compendio/cap_29/cap_29_notes>`, :doc:`Comp. Cap. 31 (DE) </de_divina_proportione/compendio/cap_31/cap_31_de>`, :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/cap_31_en>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/cap_31_it>`, :doc:`Comp. Cap. 31 (Notes) </de_divina_proportione/compendio/cap_31/cap_31_notes>`, *...and 59 more*
+**Occurrences:** :doc:`Arch. Cap. 18 (DE) </de_divina_proportione/architectura/cap_18/de>`, :doc:`Arch. Cap. 18 (EN) </de_divina_proportione/architectura/cap_18/index>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Comp. Cap. 4 (Notes) </de_divina_proportione/compendio/cap_04/notes>`, :doc:`Comp. Cap. 5 (DE) </de_divina_proportione/compendio/cap_05/de>`, :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/index>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/it>`, :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/notes>`, :doc:`Comp. Cap. 19 (Notes) </de_divina_proportione/compendio/cap_19/notes>`, :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/notes>`, :doc:`Comp. Cap. 24 (EN) </de_divina_proportione/compendio/cap_24/index>`, :doc:`Comp. Cap. 24 (Notes) </de_divina_proportione/compendio/cap_24/notes>`, :doc:`Comp. Cap. 25 (DE) </de_divina_proportione/compendio/cap_25/de>`, :doc:`Comp. Cap. 25 (EN) </de_divina_proportione/compendio/cap_25/index>`, :doc:`Comp. Cap. 25 (IT) </de_divina_proportione/compendio/cap_25/it>`, :doc:`Comp. Cap. 28 (Notes) </de_divina_proportione/compendio/cap_28/notes>`, :doc:`Comp. Cap. 29 (DE) </de_divina_proportione/compendio/cap_29/de>`, :doc:`Comp. Cap. 29 (EN) </de_divina_proportione/compendio/cap_29/index>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/it>`, :doc:`Comp. Cap. 29 (Notes) </de_divina_proportione/compendio/cap_29/notes>`, :doc:`Comp. Cap. 31 (DE) </de_divina_proportione/compendio/cap_31/de>`, :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/index>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/it>`, :doc:`Comp. Cap. 31 (Notes) </de_divina_proportione/compendio/cap_31/notes>`, *...and 59 more*
 
 .. _term-icosahedron-abscisum:
 
@@ -876,7 +876,7 @@ in agibilibus (in-agibilibus)
 
 Scholastic philosophical phrase ('in practical affairs of human action') contrasted with speculative science (in speculabilibus); glossed by Constantin Winterberg in Compendio Chapter LIV, fn. 1.
 
-**Occurrences:** :doc:`Arch. Cap. 19 (EN) </de_divina_proportione/architectura/cap_19/cap_19_en>`, :doc:`Arch. Cap. 19 (IT) </de_divina_proportione/architectura/cap_19/cap_19_it>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
+**Occurrences:** :doc:`Arch. Cap. 19 (EN) </de_divina_proportione/architectura/cap_19/index>`, :doc:`Arch. Cap. 19 (IT) </de_divina_proportione/architectura/cap_19/it>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
 
 .. _term-irrationale:
 
@@ -887,7 +887,7 @@ irrationale / incommensurabile (irrationale)
 
 A magnitude that has no common measure with a given rational unit (Euclid X.def.1–3) and cannot be expressed by a ratio of whole numbers.
 
-**Occurrences:** :doc:`Arch. Cap. 1 (IT) </de_divina_proportione/architectura/cap_01/cap_01_it>`, :doc:`Arch. Cap. 2 (DE) </de_divina_proportione/architectura/cap_02/cap_02_de>`, :doc:`Arch. Cap. 2 (IT) </de_divina_proportione/architectura/cap_02/cap_02_it>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/cap_03_it>`, :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/cap_05_en>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/cap_05_it>`, :doc:`Comp. Cap. 6 (IT) </de_divina_proportione/compendio/cap_06/cap_06_it>`, :doc:`Comp. Cap. 6 (Notes) </de_divina_proportione/compendio/cap_06/cap_06_notes>`, :doc:`Comp. Cap. 7 (IT) </de_divina_proportione/compendio/cap_07/cap_07_it>`, :doc:`Comp. Cap. 8 (IT) </de_divina_proportione/compendio/cap_08/cap_08_it>`, :doc:`Comp. Cap. 9 (EN) </de_divina_proportione/compendio/cap_09/cap_09_en>`, :doc:`Comp. Cap. 9 (IT) </de_divina_proportione/compendio/cap_09/cap_09_it>`, :doc:`Comp. Cap. 29 (DE) </de_divina_proportione/compendio/cap_29/cap_29_de>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>`, :doc:`Comp. Cap. 30 (DE) </de_divina_proportione/compendio/cap_30/cap_30_de>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/cap_30_it>`, :doc:`Comp. Cap. 33 (IT) </de_divina_proportione/compendio/cap_33/cap_33_it>`, :doc:`Comp. Cap. 67 (IT) </de_divina_proportione/compendio/cap_67/cap_67_it>`
+**Occurrences:** :doc:`Arch. Cap. 1 (IT) </de_divina_proportione/architectura/cap_01/it>`, :doc:`Arch. Cap. 2 (DE) </de_divina_proportione/architectura/cap_02/de>`, :doc:`Arch. Cap. 2 (IT) </de_divina_proportione/architectura/cap_02/it>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/it>`, :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/index>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/it>`, :doc:`Comp. Cap. 6 (IT) </de_divina_proportione/compendio/cap_06/it>`, :doc:`Comp. Cap. 6 (Notes) </de_divina_proportione/compendio/cap_06/notes>`, :doc:`Comp. Cap. 7 (IT) </de_divina_proportione/compendio/cap_07/it>`, :doc:`Comp. Cap. 8 (IT) </de_divina_proportione/compendio/cap_08/it>`, :doc:`Comp. Cap. 9 (EN) </de_divina_proportione/compendio/cap_09/index>`, :doc:`Comp. Cap. 9 (IT) </de_divina_proportione/compendio/cap_09/it>`, :doc:`Comp. Cap. 29 (DE) </de_divina_proportione/compendio/cap_29/de>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/it>`, :doc:`Comp. Cap. 30 (DE) </de_divina_proportione/compendio/cap_30/de>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/it>`, :doc:`Comp. Cap. 33 (IT) </de_divina_proportione/compendio/cap_33/it>`, :doc:`Comp. Cap. 67 (IT) </de_divina_proportione/compendio/cap_67/it>`
 
 .. _term-isoscele:
 
@@ -907,7 +907,7 @@ Kanon (κανών / Proportionsschlüssel) (kanon)
 
 Rule or standard system of modular ratios governing the proportions of the human figure in sculpture and painting, from Polykleitos, Phidias, and Vitruvius to Alberti, Leonardo da Vinci, Pacioli, Carus, and Zeising (Winterberg Einleitung).
 
-**Occurrences:** :doc:`Arch. Cap. 12 (DE) </de_divina_proportione/architectura/cap_12/cap_12_de>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Arch. Cap. 12 (DE) </de_divina_proportione/architectura/cap_12/de>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`
 
 .. _term-linea:
 
@@ -945,7 +945,7 @@ multiplex (moltiplice) (multiplex)
 
 The first of the five Boethian species of greater inequality in rational ratios, in which the greater term contains the lesser an exact whole number of times (dupla 2:1, tripla 3:1, quadrupla 4:1; Folio 0311).
 
-**Occurrences:** :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`
+**Occurrences:** :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/notes>`
 
 .. _term-musica:
 
@@ -965,7 +965,7 @@ norma / squadra (norma)
 
 Instrument defining the invariant 90° right angle ('angulo dela iustitia'), indispensable in architecture and stonecutting (Compendio Cap. LIV; Architectura Cap. IX–X).
 
-**Occurrences:** :doc:`Arch. Cap. 19 (EN) </de_divina_proportione/architectura/cap_19/cap_19_en>`, :doc:`Arch. Cap. 19 (IT) </de_divina_proportione/architectura/cap_19/cap_19_it>`, :doc:`Comp. Cap. 54 (IT) </de_divina_proportione/compendio/cap_54/cap_54_it>`, :doc:`Comp. Cap. 57 (EN) </de_divina_proportione/compendio/cap_57/cap_57_en>`, :doc:`Comp. Cap. 57 (IT) </de_divina_proportione/compendio/cap_57/cap_57_it>`
+**Occurrences:** :doc:`Arch. Cap. 19 (EN) </de_divina_proportione/architectura/cap_19/index>`, :doc:`Arch. Cap. 19 (IT) </de_divina_proportione/architectura/cap_19/it>`, :doc:`Comp. Cap. 54 (IT) </de_divina_proportione/compendio/cap_54/it>`, :doc:`Comp. Cap. 57 (EN) </de_divina_proportione/compendio/cap_57/index>`, :doc:`Comp. Cap. 57 (IT) </de_divina_proportione/compendio/cap_57/it>`
 
 .. _term-octagono:
 
@@ -976,7 +976,7 @@ octagono equilatero (octagono)
 
 An eight-sided equilateral polygon, formed as the cross-section and face of the truncated cube and 26-base body (Compendio Cap. LIII, Libellus).
 
-**Occurrences:** :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/cap_71_it>`
+**Occurrences:** :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/it>`
 
 .. _term-octahedron:
 
@@ -987,7 +987,7 @@ Octahedron / octocedron (corpo de octo basi triangulari) (octahedron)
 
 The third regular solid, bounded by 8 equilateral triangles, 12 edges, and 6 four-valent solid angles; constructed in Euclid XIII.14 (Compendio Cap. XXVIII, Plates XV–XX) and assigned by Plato to the element of Air.
 
-**Occurrences:** :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/cap_05_en>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/cap_05_it>`, :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 25 (DE) </de_divina_proportione/compendio/cap_25/cap_25_de>`, :doc:`Comp. Cap. 25 (EN) </de_divina_proportione/compendio/cap_25/cap_25_en>`, :doc:`Comp. Cap. 25 (IT) </de_divina_proportione/compendio/cap_25/cap_25_it>`, :doc:`Comp. Cap. 27 (Notes) </de_divina_proportione/compendio/cap_27/cap_27_notes>`, :doc:`Comp. Cap. 28 (DE) </de_divina_proportione/compendio/cap_28/cap_28_de>`, :doc:`Comp. Cap. 28 (EN) </de_divina_proportione/compendio/cap_28/cap_28_en>`, :doc:`Comp. Cap. 28 (IT) </de_divina_proportione/compendio/cap_28/cap_28_it>`, :doc:`Comp. Cap. 28 (Notes) </de_divina_proportione/compendio/cap_28/cap_28_notes>`, :doc:`Comp. Cap. 31 (DE) </de_divina_proportione/compendio/cap_31/cap_31_de>`, :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/cap_31_en>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/cap_31_it>`, :doc:`Comp. Cap. 31 (Notes) </de_divina_proportione/compendio/cap_31/cap_31_notes>`, :doc:`Comp. Cap. 32 (DE) </de_divina_proportione/compendio/cap_32/cap_32_de>`, :doc:`Comp. Cap. 32 (IT) </de_divina_proportione/compendio/cap_32/cap_32_it>`, :doc:`Comp. Cap. 33 (DE) </de_divina_proportione/compendio/cap_33/cap_33_de>`, :doc:`Comp. Cap. 33 (EN) </de_divina_proportione/compendio/cap_33/cap_33_en>`, :doc:`Comp. Cap. 33 (IT) </de_divina_proportione/compendio/cap_33/cap_33_it>`, :doc:`Comp. Cap. 34 (DE) </de_divina_proportione/compendio/cap_34/cap_34_de>`, :doc:`Comp. Cap. 34 (EN) </de_divina_proportione/compendio/cap_34/cap_34_en>`, :doc:`Comp. Cap. 34 (Notes) </de_divina_proportione/compendio/cap_34/cap_34_notes>`, :doc:`Comp. Cap. 35 (EN) </de_divina_proportione/compendio/cap_35/cap_35_en>`, *...and 48 more*
+**Occurrences:** :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/index>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/it>`, :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/notes>`, :doc:`Comp. Cap. 25 (DE) </de_divina_proportione/compendio/cap_25/de>`, :doc:`Comp. Cap. 25 (EN) </de_divina_proportione/compendio/cap_25/index>`, :doc:`Comp. Cap. 25 (IT) </de_divina_proportione/compendio/cap_25/it>`, :doc:`Comp. Cap. 27 (Notes) </de_divina_proportione/compendio/cap_27/notes>`, :doc:`Comp. Cap. 28 (DE) </de_divina_proportione/compendio/cap_28/de>`, :doc:`Comp. Cap. 28 (EN) </de_divina_proportione/compendio/cap_28/index>`, :doc:`Comp. Cap. 28 (IT) </de_divina_proportione/compendio/cap_28/it>`, :doc:`Comp. Cap. 28 (Notes) </de_divina_proportione/compendio/cap_28/notes>`, :doc:`Comp. Cap. 31 (DE) </de_divina_proportione/compendio/cap_31/de>`, :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/index>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/it>`, :doc:`Comp. Cap. 31 (Notes) </de_divina_proportione/compendio/cap_31/notes>`, :doc:`Comp. Cap. 32 (DE) </de_divina_proportione/compendio/cap_32/de>`, :doc:`Comp. Cap. 32 (IT) </de_divina_proportione/compendio/cap_32/it>`, :doc:`Comp. Cap. 33 (DE) </de_divina_proportione/compendio/cap_33/de>`, :doc:`Comp. Cap. 33 (EN) </de_divina_proportione/compendio/cap_33/index>`, :doc:`Comp. Cap. 33 (IT) </de_divina_proportione/compendio/cap_33/it>`, :doc:`Comp. Cap. 34 (DE) </de_divina_proportione/compendio/cap_34/de>`, :doc:`Comp. Cap. 34 (EN) </de_divina_proportione/compendio/cap_34/index>`, :doc:`Comp. Cap. 34 (Notes) </de_divina_proportione/compendio/cap_34/notes>`, :doc:`Comp. Cap. 35 (EN) </de_divina_proportione/compendio/cap_35/index>`, *...and 48 more*
 
 .. _term-octahedron-abscisum:
 
@@ -1009,7 +1009,7 @@ Octahedron elevatum (Ὀκτάεδρον ἐπηρμένον / Stella Octangula)
 
 Eight-pointed stellated polyhedron formed by erecting 8 equilateral triangular pyramids upon the 8 faces of a core regular octahedron, bounded externally by 24 equilateral triangles (Compendio Cap. L, Plates XIX–XX; later named Stella Octangula by Johannes Kepler in 1609).
 
-**Occurrences:** :doc:`Comp. Cap. 36 (Notes) </de_divina_proportione/compendio/cap_36/cap_36_notes>`, :doc:`Comp. Cap. 47 (Notes) </de_divina_proportione/compendio/cap_47/cap_47_notes>`, :doc:`Comp. Cap. 48 (Notes) </de_divina_proportione/compendio/cap_48/cap_48_notes>`, :doc:`Comp. Cap. 49 (Notes) </de_divina_proportione/compendio/cap_49/cap_49_notes>`, :doc:`Comp. Cap. 50 (Notes) </de_divina_proportione/compendio/cap_50/cap_50_notes>`, :doc:`Comp. Cap. 51 (Notes) </de_divina_proportione/compendio/cap_51/cap_51_notes>`, :doc:`Comp. Cap. 52 (Notes) </de_divina_proportione/compendio/cap_52/cap_52_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
+**Occurrences:** :doc:`Comp. Cap. 36 (Notes) </de_divina_proportione/compendio/cap_36/notes>`, :doc:`Comp. Cap. 47 (Notes) </de_divina_proportione/compendio/cap_47/notes>`, :doc:`Comp. Cap. 48 (Notes) </de_divina_proportione/compendio/cap_48/notes>`, :doc:`Comp. Cap. 49 (Notes) </de_divina_proportione/compendio/cap_49/notes>`, :doc:`Comp. Cap. 50 (Notes) </de_divina_proportione/compendio/cap_50/notes>`, :doc:`Comp. Cap. 51 (Notes) </de_divina_proportione/compendio/cap_51/notes>`, :doc:`Comp. Cap. 52 (Notes) </de_divina_proportione/compendio/cap_52/notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
 
 .. _term-orthogonio:
 
@@ -1038,7 +1038,7 @@ paralellogramo
 
 Defined in Chapter LXXI: a four-sided plane figure whose opposite sides are parallel and equidistant (Euclid I.34).
 
-**Occurrences:** :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 58 (EN) </de_divina_proportione/compendio/cap_58/cap_58_en>`, :doc:`Comp. Cap. 71 (EN) </de_divina_proportione/compendio/cap_71/cap_71_en>`, :doc:`Comp. index </de_divina_proportione/compendio/index>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/notes>`, :doc:`Comp. Cap. 58 (EN) </de_divina_proportione/compendio/cap_58/index>`, :doc:`Comp. Cap. 71 (EN) </de_divina_proportione/compendio/cap_71/index>`, :doc:`Comp. index </de_divina_proportione/compendio/index>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`
 
 .. _term-pentagono:
 
@@ -1049,7 +1049,7 @@ pentagono equilatero e equiangolo (pentagono)
 
 The five-sided equilateral and equiangular polygon (Euclid IV.11, XIII.7–11), which cannot be constructed without the Divine Proportion and forms the twelve faces of the cosmic dodecahedron (Compendio Cap. V, XVIII–XX, XXX).
 
-**Occurrences:** :doc:`Comp. Cap. 18 (IT) </de_divina_proportione/compendio/cap_18/cap_18_it>`, :doc:`Comp. Cap. 20 (IT) </de_divina_proportione/compendio/cap_20/cap_20_it>`, :doc:`Comp. Cap. 22 (IT) </de_divina_proportione/compendio/cap_22/cap_22_it>`, :doc:`Comp. Cap. 25 (IT) </de_divina_proportione/compendio/cap_25/cap_25_it>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/cap_30_it>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/cap_31_it>`, :doc:`Comp. Cap. 52 (IT) </de_divina_proportione/compendio/cap_52/cap_52_it>`, :doc:`Comp. Cap. 61 (IT) </de_divina_proportione/compendio/cap_61/cap_61_it>`
+**Occurrences:** :doc:`Comp. Cap. 18 (IT) </de_divina_proportione/compendio/cap_18/it>`, :doc:`Comp. Cap. 20 (IT) </de_divina_proportione/compendio/cap_20/it>`, :doc:`Comp. Cap. 22 (IT) </de_divina_proportione/compendio/cap_22/it>`, :doc:`Comp. Cap. 25 (IT) </de_divina_proportione/compendio/cap_25/it>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/it>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/it>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/it>`, :doc:`Comp. Cap. 52 (IT) </de_divina_proportione/compendio/cap_52/it>`, :doc:`Comp. Cap. 61 (IT) </de_divina_proportione/compendio/cap_61/it>`
 
 .. _term-perspectiva:
 
@@ -1060,7 +1060,7 @@ perspectiva (prospectiva) (perspectiva)
 
 Argued by Pacioli in Compendio Chapter III to deserve full rank alongside Music in the mathematical Quadrivium (making five mathematical sciences in all), since sight is the first portal of the intellect and visual rays obey strict arithmetic and geometric proportions.
 
-**Occurrences:** :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/cap_03_it>`, :doc:`Comp. Cap. 3 (Notes) </de_divina_proportione/compendio/cap_03/cap_03_notes>`
+**Occurrences:** :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/it>`, :doc:`Comp. Cap. 3 (Notes) </de_divina_proportione/compendio/cap_03/notes>`
 
 .. _term-pilastro:
 
@@ -1071,7 +1071,7 @@ pilastro (columna quadrangula) (pilastro)
 
 A four-sided upright structural support of square or rectangular plan, contrasted with the round column (Compendio Cap. LVIII; Architectura Cap. VIII, XI).
 
-**Occurrences:** :doc:`Arch. Cap. 5 (IT) </de_divina_proportione/architectura/cap_05/cap_05_it>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/cap_06_it>`
+**Occurrences:** :doc:`Arch. Cap. 5 (IT) </de_divina_proportione/architectura/cap_05/it>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/it>`
 
 .. _term-planum:
 
@@ -1102,7 +1102,7 @@ Pol und Polare (reciproke Polarität) (pol-und-polare)
 
 Projective geometric duality with respect to a concentric sphere invoked by Constantin Winterberg (Einleitung and Sachliche Anmerkung 5) to explain how the vertices and tangent face-planes of a circumscribed polyhedron correspond reciprocally to the face-planes and vertices of its dual inscribed polyhedron.
 
-**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`
 
 .. _term-porta-speciosa:
 
@@ -1113,7 +1113,7 @@ Porta Templi Domini dicta Speciosa (porta-speciosa)
 
 Architectural exemplar cited in Architectura Chapter VI and illustrated on Folio 0185, displaying the proportional synthesis of stylobate, stereobate, column, architrave, frieze, and cornice.
 
-**Occurrences:** :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/cap_06_en>`, :doc:`Arch. Cap. 6 (Notes) </de_divina_proportione/architectura/cap_06/cap_06_notes>`, :doc:`Arch. Cap. 17 (EN) </de_divina_proportione/architectura/cap_17/cap_17_en>`, :doc:`Arch. Cap. 17 (Notes) </de_divina_proportione/architectura/cap_17/cap_17_notes>`, :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/dedication_en>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
+**Occurrences:** :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/index>`, :doc:`Arch. Cap. 6 (Notes) </de_divina_proportione/architectura/cap_06/notes>`, :doc:`Arch. Cap. 17 (EN) </de_divina_proportione/architectura/cap_17/index>`, :doc:`Arch. Cap. 17 (Notes) </de_divina_proportione/architectura/cap_17/notes>`, :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/index>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
 
 .. _term-potentia:
 
@@ -1124,7 +1124,7 @@ potentia
 
 Defined by Pacioli in Chapter IV (after Euclid I.47 and X.def.2): 'the power (potentia) of a line is its square; what a line can do in power is its square.'
 
-**Occurrences:** :doc:`Comp. Cap. 4 (IT) </de_divina_proportione/compendio/cap_04/cap_04_it>`, :doc:`Comp. Cap. 4 (Notes) </de_divina_proportione/compendio/cap_04/cap_04_notes>`, :doc:`Comp. Cap. 6 (IT) </de_divina_proportione/compendio/cap_06/cap_06_it>`, :doc:`Comp. Cap. 6 (Notes) </de_divina_proportione/compendio/cap_06/cap_06_notes>`, :doc:`Comp. Cap. 21 (IT) </de_divina_proportione/compendio/cap_21/cap_21_it>`, :doc:`Comp. Cap. 24 (IT) </de_divina_proportione/compendio/cap_24/cap_24_it>`, :doc:`Comp. Cap. 27 (IT) </de_divina_proportione/compendio/cap_27/cap_27_it>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/cap_30_it>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/cap_31_it>`
+**Occurrences:** :doc:`Comp. Cap. 4 (IT) </de_divina_proportione/compendio/cap_04/it>`, :doc:`Comp. Cap. 4 (Notes) </de_divina_proportione/compendio/cap_04/notes>`, :doc:`Comp. Cap. 6 (IT) </de_divina_proportione/compendio/cap_06/it>`, :doc:`Comp. Cap. 6 (Notes) </de_divina_proportione/compendio/cap_06/notes>`, :doc:`Comp. Cap. 21 (IT) </de_divina_proportione/compendio/cap_21/it>`, :doc:`Comp. Cap. 24 (IT) </de_divina_proportione/compendio/cap_24/it>`, :doc:`Comp. Cap. 27 (IT) </de_divina_proportione/compendio/cap_27/it>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/it>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/it>`
 
 .. _term-proportio:
 
@@ -1153,7 +1153,7 @@ proportione continua (proportione-continua)
 
 A three-term progression in which the middle term serves both as consequent of the first ratio and antecedent of the second.
 
-**Occurrences:** :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 30 (DE) </de_divina_proportione/compendio/cap_30/cap_30_de>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`
+**Occurrences:** :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/notes>`, :doc:`Comp. Cap. 30 (DE) </de_divina_proportione/compendio/cap_30/de>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`
 
 .. _term-proportione-discontinua:
 
@@ -1173,7 +1173,7 @@ colonna pulvinata (ionica) (pulvinata)
 
 Vitruvian term for the Ionic capital whose lateral volutes resemble coiled cushions or matronly curls hanging down on either side (Architectura Cap. IV, VII, Folio 0213).
 
-**Occurrences:** :doc:`Arch. Cap. 7 (EN) </de_divina_proportione/architectura/cap_07/cap_07_en>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
+**Occurrences:** :doc:`Arch. Cap. 7 (EN) </de_divina_proportione/architectura/cap_07/index>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
 
 .. _term-punto:
 
@@ -1193,7 +1193,7 @@ pyramide corta / troncata (pyramide-corta)
 
 A pyramid or cone whose apex has been cut off by a plane parallel to the base, leaving two similar parallel bases (Compendio Cap. LXV, LXVIII).
 
-**Occurrences:** :doc:`Comp. Cap. 68 (IT) </de_divina_proportione/compendio/cap_68/cap_68_it>`, :doc:`Comp. Cap. 69 (IT) </de_divina_proportione/compendio/cap_69/cap_69_it>`
+**Occurrences:** :doc:`Comp. Cap. 68 (IT) </de_divina_proportione/compendio/cap_68/it>`, :doc:`Comp. Cap. 69 (IT) </de_divina_proportione/compendio/cap_69/it>`
 
 .. _term-pyramide-exagona:
 
@@ -1213,7 +1213,7 @@ pyramide laterata (pyramis laterata / πυραμὶς πλευρώδης) (pyram
 
 A solid bounded by a rectilinear polygonal base and triangular lateral faces meeting at a single apex, whose volume is exactly one-third that of the prism of equal base and altitude (Euclid XII.7; Compendio Cap. LXV–LXVII).
 
-**Occurrences:** :doc:`Comp. Cap. 49 (IT) </de_divina_proportione/compendio/cap_49/cap_49_it>`, :doc:`Comp. Cap. 50 (IT) </de_divina_proportione/compendio/cap_50/cap_50_it>`, :doc:`Comp. Cap. 51 (IT) </de_divina_proportione/compendio/cap_51/cap_51_it>`, :doc:`Comp. Cap. 53 (IT) </de_divina_proportione/compendio/cap_53/cap_53_it>`, :doc:`Comp. Cap. 64 (EN) </de_divina_proportione/compendio/cap_64/cap_64_en>`, :doc:`Comp. Cap. 65 (EN) </de_divina_proportione/compendio/cap_65/cap_65_en>`, :doc:`Comp. Cap. 65 (IT) </de_divina_proportione/compendio/cap_65/cap_65_it>`
+**Occurrences:** :doc:`Comp. Cap. 49 (IT) </de_divina_proportione/compendio/cap_49/it>`, :doc:`Comp. Cap. 50 (IT) </de_divina_proportione/compendio/cap_50/it>`, :doc:`Comp. Cap. 51 (IT) </de_divina_proportione/compendio/cap_51/it>`, :doc:`Comp. Cap. 53 (IT) </de_divina_proportione/compendio/cap_53/it>`, :doc:`Comp. Cap. 64 (EN) </de_divina_proportione/compendio/cap_64/index>`, :doc:`Comp. Cap. 65 (EN) </de_divina_proportione/compendio/cap_65/index>`, :doc:`Comp. Cap. 65 (IT) </de_divina_proportione/compendio/cap_65/it>`
 
 .. _term-pyramide-pentagona:
 
@@ -1244,7 +1244,7 @@ pyramide rotonda (pyramis rotunda / πυραμὶς στρογγύλη) (pyramid
 
 A cone generated by rotating a right-angled triangle about one of its perpendicular legs, whose volume is one-third that of the cylinder of equal circular base and altitude (Euclid XII.10; Compendio Cap. LXIV, LXVI; Plate LVIII).
 
-**Occurrences:** :doc:`Comp. Cap. 64 (EN) </de_divina_proportione/compendio/cap_64/cap_64_en>`, :doc:`Comp. Cap. 64 (IT) </de_divina_proportione/compendio/cap_64/cap_64_it>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
+**Occurrences:** :doc:`Comp. Cap. 64 (EN) </de_divina_proportione/compendio/cap_64/index>`, :doc:`Comp. Cap. 64 (IT) </de_divina_proportione/compendio/cap_64/it>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
 
 .. _term-pyramide-triangula:
 
@@ -1266,7 +1266,7 @@ quadratura del cerchio (quadratura-del-cerchio)
 
 Determination of the area of a circle in square units, approximated by Archimedes (Dimensio Circuli) as 11/14 of the square of its diameter (π ≈ 22/7; Compendio Cap. LXII).
 
-**Occurrences:** :doc:`Comp. Cap. 66 (IT) </de_divina_proportione/compendio/cap_66/cap_66_it>`
+**Occurrences:** :doc:`Comp. Cap. 66 (IT) </de_divina_proportione/compendio/cap_66/it>`
 
 .. _term-quadrivio:
 
@@ -1277,7 +1277,7 @@ quadrivio / mathematiche scienze (quadrivio)
 
 The classical Boethian fourfold division of the mathematical sciences—Arithmetic, Geometry, Astronomy, and Music—which Pacioli in Chapter III argues must either be reduced to three (Arithmetic, Geometry, Astronomy) with Music and Perspective subalternate, or expanded to five to include Perspective on an equal footing with Music.
 
-**Occurrences:** :doc:`Comp. Cap. 3 (EN) </de_divina_proportione/compendio/cap_03/cap_03_en>`, :doc:`Comp. Cap. 3 (Notes) </de_divina_proportione/compendio/cap_03/cap_03_notes>`
+**Occurrences:** :doc:`Comp. Cap. 3 (EN) </de_divina_proportione/compendio/cap_03/index>`, :doc:`Comp. Cap. 3 (Notes) </de_divina_proportione/compendio/cap_03/notes>`
 
 .. _term-quantita-continua:
 
@@ -1288,7 +1288,7 @@ quantità continua e discreta (quantita-continua)
 
 The fundamental Aristotelian and Boethian division of quantity into continuous magnitude (lines, surfaces, solids, studied by geometry and admitting both rational and irrational ratios) and discrete multitude (numbers, studied by arithmetic and admitting only rational ratios).
 
-**Occurrences:** :doc:`Arch. Cap. 19 (IT) </de_divina_proportione/architectura/cap_19/cap_19_it>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/cap_05_it>`
+**Occurrences:** :doc:`Arch. Cap. 19 (IT) </de_divina_proportione/architectura/cap_19/it>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/it>`
 
 .. _term-quantita-discreta:
 
@@ -1308,7 +1308,7 @@ quinta essentia (quinta-essentia)
 
 The celestial substance beyond the four sublunary elements (earth, water, air, fire), to which Plato in the Timaeus assigned the regular dodecahedron of twelve pentagonal faces.
 
-**Occurrences:** :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/cap_05_en>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/cap_05_it>`, :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 22 (EN) </de_divina_proportione/compendio/cap_22/cap_22_en>`, :doc:`Comp. Cap. 30 (EN) </de_divina_proportione/compendio/cap_30/cap_30_en>`, :doc:`Comp. Cap. 46 (EN) </de_divina_proportione/compendio/cap_46/cap_46_en>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Comp. Cap. 55 (EN) </de_divina_proportione/compendio/cap_55/cap_55_en>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
+**Occurrences:** :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/index>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/it>`, :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/notes>`, :doc:`Comp. Cap. 22 (EN) </de_divina_proportione/compendio/cap_22/index>`, :doc:`Comp. Cap. 30 (EN) </de_divina_proportione/compendio/cap_30/index>`, :doc:`Comp. Cap. 46 (EN) </de_divina_proportione/compendio/cap_46/index>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/notes>`, :doc:`Comp. Cap. 55 (EN) </de_divina_proportione/compendio/cap_55/index>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
 
 .. _term-radice:
 
@@ -1328,7 +1328,7 @@ radice universale / radice legata (R. V.) (radice-universale)
 
 A nested radical whose root sign governs an entire binomial or apotome expression, introduced in Chapter XXI (Twelfth Effect) and used throughout the Libellus.
 
-**Occurrences:** :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/cap_21_notes>`
+**Occurrences:** :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/notes>`
 
 .. _term-rationale:
 
@@ -1348,7 +1348,7 @@ reciproke Körper (duale Polyeder) (reciproke-koerper)
 
 Polyhedra standing in projective polar reciprocity to one another with respect to a sphere—specifically the self-dual tetrahedron, the reciprocal cube and octahedron, and the reciprocal icosahedron and dodecahedron (Winterberg Einleitung; Compendio Cap. LV–LVII; Sachliche Anmerkungen 1–5).
 
-**Occurrences:** :doc:`Comp. Cap. 47 (Notes) </de_divina_proportione/compendio/cap_47/cap_47_notes>`, :doc:`Comp. Cap. 48 (Notes) </de_divina_proportione/compendio/cap_48/cap_48_notes>`, :doc:`Comp. Cap. 49 (Notes) </de_divina_proportione/compendio/cap_49/cap_49_notes>`, :doc:`Comp. Cap. 50 (Notes) </de_divina_proportione/compendio/cap_50/cap_50_notes>`, :doc:`Comp. Cap. 51 (Notes) </de_divina_proportione/compendio/cap_51/cap_51_notes>`, :doc:`Comp. Cap. 52 (Notes) </de_divina_proportione/compendio/cap_52/cap_52_notes>`, :doc:`Winterberg Anmerkungen (DE) </de_divina_proportione/plates/anmerkungen_de>`
+**Occurrences:** :doc:`Comp. Cap. 47 (Notes) </de_divina_proportione/compendio/cap_47/notes>`, :doc:`Comp. Cap. 48 (Notes) </de_divina_proportione/compendio/cap_48/notes>`, :doc:`Comp. Cap. 49 (Notes) </de_divina_proportione/compendio/cap_49/notes>`, :doc:`Comp. Cap. 50 (Notes) </de_divina_proportione/compendio/cap_50/notes>`, :doc:`Comp. Cap. 51 (Notes) </de_divina_proportione/compendio/cap_51/notes>`, :doc:`Comp. Cap. 52 (Notes) </de_divina_proportione/compendio/cap_52/notes>`, :doc:`Winterberg Anmerkungen (DE) </de_divina_proportione/plates/anmerkungen_de>`
 
 .. _term-residuo:
 
@@ -1359,7 +1359,7 @@ residuo (apotome) (residuo)
 
 An irrational difference of two terms commensurable only in square (Euclid X.73–78, X.85–90), such as the golden-section segments √125 − 5 (first apotome) and 15 − √125 (fourth apotome) of a rational line of length 10, or the edge of the regular dodecahedron (Euclid XIII.17).
 
-**Occurrences:** :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`, :doc:`Comp. Cap. 8 (Notes) </de_divina_proportione/compendio/cap_08/cap_08_notes>`, :doc:`Comp. Cap. 13 (Notes) </de_divina_proportione/compendio/cap_13/cap_13_notes>`, :doc:`Comp. Cap. 15 (EN) </de_divina_proportione/compendio/cap_15/cap_15_en>`, :doc:`Comp. Cap. 15 (IT) </de_divina_proportione/compendio/cap_15/cap_15_it>`, :doc:`Comp. Cap. 15 (Notes) </de_divina_proportione/compendio/cap_15/cap_15_notes>`, :doc:`Comp. Cap. 18 (Notes) </de_divina_proportione/compendio/cap_18/cap_18_notes>`, :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/cap_21_notes>`, :doc:`Comp. Cap. 30 (EN) </de_divina_proportione/compendio/cap_30/cap_30_en>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/cap_30_it>`, :doc:`Comp. Cap. 30 (Notes) </de_divina_proportione/compendio/cap_30/cap_30_notes>`
+**Occurrences:** :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/it>`, :doc:`Comp. Cap. 8 (Notes) </de_divina_proportione/compendio/cap_08/notes>`, :doc:`Comp. Cap. 13 (Notes) </de_divina_proportione/compendio/cap_13/notes>`, :doc:`Comp. Cap. 15 (EN) </de_divina_proportione/compendio/cap_15/index>`, :doc:`Comp. Cap. 15 (IT) </de_divina_proportione/compendio/cap_15/it>`, :doc:`Comp. Cap. 15 (Notes) </de_divina_proportione/compendio/cap_15/notes>`, :doc:`Comp. Cap. 18 (Notes) </de_divina_proportione/compendio/cap_18/notes>`, :doc:`Comp. Cap. 21 (Notes) </de_divina_proportione/compendio/cap_21/notes>`, :doc:`Comp. Cap. 30 (EN) </de_divina_proportione/compendio/cap_30/index>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/it>`, :doc:`Comp. Cap. 30 (Notes) </de_divina_proportione/compendio/cap_30/notes>`
 
 .. _term-rotonda-pantheon:
 
@@ -1370,7 +1370,7 @@ la Rotonda a Roma (Pantheon) (rotonda-pantheon)
 
 Cited by Pacioli in Compendio Chapter LIV as the supreme ancient exemplar of a hemispherical coffered dome whose geometric law derives from the 72-base polyhedral sphere.
 
-**Occurrences:** :doc:`Arch. Cap. 8 (DE) </de_divina_proportione/architectura/cap_08/cap_08_de>`, :doc:`Arch. Cap. 8 (EN) </de_divina_proportione/architectura/cap_08/cap_08_en>`, :doc:`Arch. Cap. 8 (IT) </de_divina_proportione/architectura/cap_08/cap_08_it>`, :doc:`Arch. Cap. 11 (Notes) </de_divina_proportione/architectura/cap_11/cap_11_notes>`, :doc:`Comp. Cap. 54 (EN) </de_divina_proportione/compendio/cap_54/cap_54_en>`, :doc:`Comp. Cap. 54 (IT) </de_divina_proportione/compendio/cap_54/cap_54_it>`, :doc:`Comp. Cap. 54 (Notes) </de_divina_proportione/compendio/cap_54/cap_54_notes>`
+**Occurrences:** :doc:`Arch. Cap. 8 (DE) </de_divina_proportione/architectura/cap_08/de>`, :doc:`Arch. Cap. 8 (EN) </de_divina_proportione/architectura/cap_08/index>`, :doc:`Arch. Cap. 8 (IT) </de_divina_proportione/architectura/cap_08/it>`, :doc:`Arch. Cap. 11 (Notes) </de_divina_proportione/architectura/cap_11/notes>`, :doc:`Comp. Cap. 54 (EN) </de_divina_proportione/compendio/cap_54/index>`, :doc:`Comp. Cap. 54 (IT) </de_divina_proportione/compendio/cap_54/it>`, :doc:`Comp. Cap. 54 (Notes) </de_divina_proportione/compendio/cap_54/notes>`
 
 .. _term-saetta:
 
@@ -1381,7 +1381,7 @@ saetta (sagitta / frezza) (saetta)
 
 Defined in Chapter LXXI: the perpendicular altitude erected from the midpoint of a chord to the midpoint of its circular arc, like an arrow resting on a bowstring.
 
-**Occurrences:** :doc:`Comp. Cap. 71 (EN) </de_divina_proportione/compendio/cap_71/cap_71_en>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/cap_71_it>`, :doc:`Comp. Cap. 71 (Notes) </de_divina_proportione/compendio/cap_71/cap_71_notes>`, :doc:`Comp. index </de_divina_proportione/compendio/index>`
+**Occurrences:** :doc:`Comp. Cap. 71 (EN) </de_divina_proportione/compendio/cap_71/index>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/it>`, :doc:`Comp. Cap. 71 (Notes) </de_divina_proportione/compendio/cap_71/notes>`, :doc:`Comp. index </de_divina_proportione/compendio/index>`
 
 .. _term-san-sepolcro:
 
@@ -1392,7 +1392,7 @@ Borgo San Sepolcro (san-sepolcro)
 
 Native town of both Fra Luca Pacioli and his master Piero della Francesca in the upper Tiber valley, celebrated throughout the Compendio, the Architecture dedication, and the Libellus.
 
-**Occurrences:** :doc:`Arch. Cap. 8 (EN) </de_divina_proportione/architectura/cap_08/cap_08_en>`, :doc:`Arch. Cap. 19 (EN) </de_divina_proportione/architectura/cap_19/cap_19_en>`, :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/dedication_en>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Comp. index </de_divina_proportione/compendio/index>`, :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Arch. Cap. 8 (EN) </de_divina_proportione/architectura/cap_08/index>`, :doc:`Arch. Cap. 19 (EN) </de_divina_proportione/architectura/cap_19/index>`, :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/index>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/notes>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Comp. index </de_divina_proportione/compendio/index>`, :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`
 
 .. _term-santa-maria-delle-grazie:
 
@@ -1403,7 +1403,7 @@ S. Maria de le Gratie in Milano (santa-maria-delle-grazie)
 
 Dominican church in Milan featuring Bramante's domed tribune (cited in Cap. LIV alongside the 72-base body) and Leonardo da Vinci's Last Supper in the refectory (cited in Cap. I and XXIII).
 
-**Occurrences:** :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`, :doc:`Comp. Cap. 23 (EN) </de_divina_proportione/compendio/cap_23/cap_23_en>`, :doc:`Comp. Cap. 23 (Notes) </de_divina_proportione/compendio/cap_23/cap_23_notes>`, :doc:`Comp. Cap. 54 (EN) </de_divina_proportione/compendio/cap_54/cap_54_en>`, :doc:`Comp. Cap. 54 (Notes) </de_divina_proportione/compendio/cap_54/cap_54_notes>`, :doc:`Comp. Cap. 69 (EN) </de_divina_proportione/compendio/cap_69/cap_69_en>`, :doc:`Comp. Cap. 69 (Notes) </de_divina_proportione/compendio/cap_69/cap_69_notes>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/index>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/notes>`, :doc:`Comp. Cap. 23 (EN) </de_divina_proportione/compendio/cap_23/index>`, :doc:`Comp. Cap. 23 (Notes) </de_divina_proportione/compendio/cap_23/notes>`, :doc:`Comp. Cap. 54 (EN) </de_divina_proportione/compendio/cap_54/index>`, :doc:`Comp. Cap. 54 (Notes) </de_divina_proportione/compendio/cap_54/notes>`, :doc:`Comp. Cap. 69 (EN) </de_divina_proportione/compendio/cap_69/index>`, :doc:`Comp. Cap. 69 (Notes) </de_divina_proportione/compendio/cap_69/notes>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`
 
 .. _term-scaleno:
 
@@ -1423,7 +1423,7 @@ scothia / gola (trochilo) (scothia)
 
 Deep concave molding between the tori of an Attic or Ionic column base or in an entablature, called 'scothia' or 'trochilo' by Vitruvius and 'gola' by modern masons (Architectura Cap. V, Folio 0215).
 
-**Occurrences:** :doc:`Arch. Cap. 5 (EN) </de_divina_proportione/architectura/cap_05/cap_05_en>`, :doc:`Arch. Cap. 5 (IT) </de_divina_proportione/architectura/cap_05/cap_05_it>`, :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/cap_06_en>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/cap_06_it>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
+**Occurrences:** :doc:`Arch. Cap. 5 (EN) </de_divina_proportione/architectura/cap_05/index>`, :doc:`Arch. Cap. 5 (IT) </de_divina_proportione/architectura/cap_05/it>`, :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/index>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/it>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
 
 .. _term-semicirculo:
 
@@ -1434,7 +1434,7 @@ semicirculo / mezzo cerchio (semicirculo)
 
 The figure bounded by a diameter and the half-circumference cut off by it (Euclid I.def.18); used in Euclid XIII.13–18 to construct the edges of all five regular solids inside the sphere's diameter (Compendio Cap. XXVI–XXXI) and rotated in XI.def.14 to generate the sphere.
 
-**Occurrences:** :doc:`Comp. Cap. 26 (IT) </de_divina_proportione/compendio/cap_26/cap_26_it>`, :doc:`Comp. Cap. 27 (IT) </de_divina_proportione/compendio/cap_27/cap_27_it>`, :doc:`Comp. Cap. 28 (IT) </de_divina_proportione/compendio/cap_28/cap_28_it>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/cap_30_it>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/cap_31_it>`, :doc:`Comp. Cap. 47 (IT) </de_divina_proportione/compendio/cap_47/cap_47_it>`, :doc:`Comp. Cap. 56 (IT) </de_divina_proportione/compendio/cap_56/cap_56_it>`
+**Occurrences:** :doc:`Comp. Cap. 26 (IT) </de_divina_proportione/compendio/cap_26/it>`, :doc:`Comp. Cap. 27 (IT) </de_divina_proportione/compendio/cap_27/it>`, :doc:`Comp. Cap. 28 (IT) </de_divina_proportione/compendio/cap_28/it>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/it>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/it>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/it>`, :doc:`Comp. Cap. 47 (IT) </de_divina_proportione/compendio/cap_47/it>`, :doc:`Comp. Cap. 56 (IT) </de_divina_proportione/compendio/cap_56/it>`
 
 .. _term-septuaginta-duarum-basium:
 
@@ -1445,7 +1445,7 @@ Septuaginta duarum basium (corpo de 72 basi / Ἑβδομηκονταδισσά�
 
 Polyhedral sphere bounded by 48 isosceles trapezoids and 24 isosceles triangles arranged in six meridian zones of twelve around two poles (Compendio Cap. LIV, Plates XXXIX–XL), celebrated by Pacioli as the geometric archetype for the coffered dome of the Roman Pantheon (la Rotonda) and Santa Maria delle Grazie.
 
-**Occurrences:** :doc:`Comp. Cap. 54 (EN) </de_divina_proportione/compendio/cap_54/cap_54_en>`, :doc:`Comp. index </de_divina_proportione/compendio/index>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
+**Occurrences:** :doc:`Comp. Cap. 54 (EN) </de_divina_proportione/compendio/cap_54/index>`, :doc:`Comp. index </de_divina_proportione/compendio/index>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
 
 .. _term-sexquialtera:
 
@@ -1456,7 +1456,7 @@ sexquialtera
 
 A superparticular ratio in which the greater term contains the lesser once plus its half (e.g., 6 : 4 = 3 : 2, the musical fifth and the ratio of total surface areas of the octahedron and tetrahedron in the same sphere).
 
-**Occurrences:** :doc:`Comp. Cap. 7 (DE) </de_divina_proportione/compendio/cap_07/cap_07_de>`, :doc:`Comp. Cap. 7 (EN) </de_divina_proportione/compendio/cap_07/cap_07_en>`, :doc:`Comp. Cap. 7 (IT) </de_divina_proportione/compendio/cap_07/cap_07_it>`, :doc:`Comp. Cap. 26 (EN) </de_divina_proportione/compendio/cap_26/cap_26_en>`, :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/cap_31_en>`, :doc:`Comp. Cap. 33 (DE) </de_divina_proportione/compendio/cap_33/cap_33_de>`
+**Occurrences:** :doc:`Comp. Cap. 7 (DE) </de_divina_proportione/compendio/cap_07/de>`, :doc:`Comp. Cap. 7 (EN) </de_divina_proportione/compendio/cap_07/index>`, :doc:`Comp. Cap. 7 (IT) </de_divina_proportione/compendio/cap_07/it>`, :doc:`Comp. Cap. 26 (EN) </de_divina_proportione/compendio/cap_26/index>`, :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/index>`, :doc:`Comp. Cap. 33 (DE) </de_divina_proportione/compendio/cap_33/de>`
 
 .. _term-sexquitertia:
 
@@ -1467,7 +1467,7 @@ sexquitertia
 
 A superparticular ratio in which the greater term contains the lesser once plus its third (e.g., 8 : 6 = 4 : 3, the musical fourth and the ratio of a single face of the tetrahedron to a single face of the octahedron in the same sphere).
 
-**Occurrences:** :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/cap_31_en>`, :doc:`Comp. Cap. 33 (DE) </de_divina_proportione/compendio/cap_33/cap_33_de>`, :doc:`Comp. Cap. 33 (Notes) </de_divina_proportione/compendio/cap_33/cap_33_notes>`
+**Occurrences:** :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/index>`, :doc:`Comp. Cap. 33 (DE) </de_divina_proportione/compendio/cap_33/de>`, :doc:`Comp. Cap. 33 (Notes) </de_divina_proportione/compendio/cap_33/notes>`
 
 .. _term-simetria:
 
@@ -1487,7 +1487,7 @@ simulacro de l'ardente desiderio de nostra salute (simulacro)
 
 Pacioli's name in Chapters I and XXIII for Leonardo da Vinci's mural of the Last Supper in the refectory of Santa Maria delle Grazie in Milan, where Christ and the twelve apostles embody the sacred number thirteen.
 
-**Occurrences:** :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/cap_03_it>`, :doc:`Comp. Cap. 3 (Notes) </de_divina_proportione/compendio/cap_03/cap_03_notes>`, :doc:`Comp. Cap. 23 (Notes) </de_divina_proportione/compendio/cap_23/cap_23_notes>`, :doc:`Comp. Cap. 69 (Notes) </de_divina_proportione/compendio/cap_69/cap_69_notes>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/it>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/notes>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/it>`, :doc:`Comp. Cap. 3 (Notes) </de_divina_proportione/compendio/cap_03/notes>`, :doc:`Comp. Cap. 23 (Notes) </de_divina_proportione/compendio/cap_23/notes>`, :doc:`Comp. Cap. 69 (Notes) </de_divina_proportione/compendio/cap_69/notes>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`
 
 .. _term-solidum:
 
@@ -1498,7 +1498,7 @@ solidum / solido (στερεόν) (solidum)
 
 Modifier in Leonardo and Pacioli's plate nomenclature designating a polyhedron rendered as an opaque mass whose front faces conceal its interior and rear faces.
 
-**Occurrences:** :doc:`Comp. Cap. 47 (Notes) </de_divina_proportione/compendio/cap_47/cap_47_notes>`, :doc:`Comp. Cap. 48 (Notes) </de_divina_proportione/compendio/cap_48/cap_48_notes>`, :doc:`Comp. Cap. 49 (Notes) </de_divina_proportione/compendio/cap_49/cap_49_notes>`, :doc:`Comp. Cap. 50 (Notes) </de_divina_proportione/compendio/cap_50/cap_50_notes>`, :doc:`Comp. Cap. 51 (Notes) </de_divina_proportione/compendio/cap_51/cap_51_notes>`, :doc:`Comp. Cap. 52 (Notes) </de_divina_proportione/compendio/cap_52/cap_52_notes>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
+**Occurrences:** :doc:`Comp. Cap. 47 (Notes) </de_divina_proportione/compendio/cap_47/notes>`, :doc:`Comp. Cap. 48 (Notes) </de_divina_proportione/compendio/cap_48/notes>`, :doc:`Comp. Cap. 49 (Notes) </de_divina_proportione/compendio/cap_49/notes>`, :doc:`Comp. Cap. 50 (Notes) </de_divina_proportione/compendio/cap_50/notes>`, :doc:`Comp. Cap. 51 (Notes) </de_divina_proportione/compendio/cap_51/notes>`, :doc:`Comp. Cap. 52 (Notes) </de_divina_proportione/compendio/cap_52/notes>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
 
 .. _term-sommoscapo:
 
@@ -1518,7 +1518,7 @@ spera / sphaera (σφαῖρα) (spera)
 
 The most uniform and capacious of all solid bodies, defined by Euclid (XI.def.14) as the solid generated by the full revolution of a semicircle about its fixed diameter, and by Theodosius/Dionysius as a solid bounded by a single surface equidistant from an interior center (Compendio Cap. LVI–LVII; Plate LIX).
 
-**Occurrences:** :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/cap_05_it>`, :doc:`Comp. Cap. 21 (IT) </de_divina_proportione/compendio/cap_21/cap_21_it>`, :doc:`Comp. Cap. 26 (IT) </de_divina_proportione/compendio/cap_26/cap_26_it>`, :doc:`Comp. Cap. 27 (IT) </de_divina_proportione/compendio/cap_27/cap_27_it>`, :doc:`Comp. Cap. 28 (IT) </de_divina_proportione/compendio/cap_28/cap_28_it>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/cap_30_it>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/cap_31_it>`, :doc:`Comp. Cap. 32 (IT) </de_divina_proportione/compendio/cap_32/cap_32_it>`, :doc:`Comp. Cap. 33 (IT) </de_divina_proportione/compendio/cap_33/cap_33_it>`, :doc:`Comp. Cap. 47 (IT) </de_divina_proportione/compendio/cap_47/cap_47_it>`, :doc:`Comp. Cap. 55 (IT) </de_divina_proportione/compendio/cap_55/cap_55_it>`, :doc:`Comp. Cap. 56 (IT) </de_divina_proportione/compendio/cap_56/cap_56_it>`, :doc:`Comp. Cap. 57 (IT) </de_divina_proportione/compendio/cap_57/cap_57_it>`, :doc:`Comp. Cap. 58 (IT) </de_divina_proportione/compendio/cap_58/cap_58_it>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
+**Occurrences:** :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/it>`, :doc:`Comp. Cap. 21 (IT) </de_divina_proportione/compendio/cap_21/it>`, :doc:`Comp. Cap. 26 (IT) </de_divina_proportione/compendio/cap_26/it>`, :doc:`Comp. Cap. 27 (IT) </de_divina_proportione/compendio/cap_27/it>`, :doc:`Comp. Cap. 28 (IT) </de_divina_proportione/compendio/cap_28/it>`, :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/it>`, :doc:`Comp. Cap. 30 (IT) </de_divina_proportione/compendio/cap_30/it>`, :doc:`Comp. Cap. 31 (IT) </de_divina_proportione/compendio/cap_31/it>`, :doc:`Comp. Cap. 32 (IT) </de_divina_proportione/compendio/cap_32/it>`, :doc:`Comp. Cap. 33 (IT) </de_divina_proportione/compendio/cap_33/it>`, :doc:`Comp. Cap. 47 (IT) </de_divina_proportione/compendio/cap_47/it>`, :doc:`Comp. Cap. 55 (IT) </de_divina_proportione/compendio/cap_55/it>`, :doc:`Comp. Cap. 56 (IT) </de_divina_proportione/compendio/cap_56/it>`, :doc:`Comp. Cap. 57 (IT) </de_divina_proportione/compendio/cap_57/it>`, :doc:`Comp. Cap. 58 (IT) </de_divina_proportione/compendio/cap_58/it>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
 
 .. _term-statua-equestre:
 
@@ -1529,7 +1529,7 @@ admiranda e stupenda equestre statua (statua-equestre)
 
 Monumental bronze horse designed by Leonardo da Vinci in Milan in memory of Duke Francesco Sforza; Pacioli records its exact metrological dimensions in Chapter I: 12 Milanese braccia in height (37 4/5 times the printed segment ab on Folio 0017) and 200,000 twelve-ounce pounds of bronze.
 
-**Occurrences:** :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`
+**Occurrences:** :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/index>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/it>`
 
 .. _term-steriobata:
 
@@ -1540,7 +1540,7 @@ steriobata
 
 The solid underground masonry foundation beneath the stylobate and column base, extending down to firm earth (Architectura Cap. VI, XX, Folio 0213).
 
-**Occurrences:** :doc:`Arch. Cap. 4 (Notes) </de_divina_proportione/architectura/cap_04/cap_04_notes>`, :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/cap_06_en>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/cap_06_it>`, :doc:`Arch. Cap. 17 (EN) </de_divina_proportione/architectura/cap_17/cap_17_en>`, :doc:`Arch. Cap. 20 (IT) </de_divina_proportione/architectura/cap_20/cap_20_it>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
+**Occurrences:** :doc:`Arch. Cap. 4 (Notes) </de_divina_proportione/architectura/cap_04/notes>`, :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/index>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/it>`, :doc:`Arch. Cap. 17 (EN) </de_divina_proportione/architectura/cap_17/index>`, :doc:`Arch. Cap. 20 (IT) </de_divina_proportione/architectura/cap_20/it>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
 
 .. _term-stilobata:
 
@@ -1551,7 +1551,7 @@ stilobata / pilastrello / basamento (stilobata)
 
 The rectangular pedestal supporting a column above ground level, furnished with its own base moldings, die (dado), and cornice (Architectura Cap. IV, VI, Folio 0213).
 
-**Occurrences:** :doc:`Arch. Cap. 4 (IT) </de_divina_proportione/architectura/cap_04/cap_04_it>`, :doc:`Arch. Cap. 4 (Notes) </de_divina_proportione/architectura/cap_04/cap_04_notes>`, :doc:`Arch. Cap. 5 (IT) </de_divina_proportione/architectura/cap_05/cap_05_it>`, :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/cap_06_en>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/cap_06_it>`, :doc:`Arch. Cap. 7 (IT) </de_divina_proportione/architectura/cap_07/cap_07_it>`, :doc:`Arch. Cap. 16 (EN) </de_divina_proportione/architectura/cap_16/cap_16_en>`, :doc:`Arch. Cap. 16 (IT) </de_divina_proportione/architectura/cap_16/cap_16_it>`, :doc:`Arch. Cap. 17 (EN) </de_divina_proportione/architectura/cap_17/cap_17_en>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
+**Occurrences:** :doc:`Arch. Cap. 4 (IT) </de_divina_proportione/architectura/cap_04/it>`, :doc:`Arch. Cap. 4 (Notes) </de_divina_proportione/architectura/cap_04/notes>`, :doc:`Arch. Cap. 5 (IT) </de_divina_proportione/architectura/cap_05/it>`, :doc:`Arch. Cap. 6 (EN) </de_divina_proportione/architectura/cap_06/index>`, :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/it>`, :doc:`Arch. Cap. 7 (IT) </de_divina_proportione/architectura/cap_07/it>`, :doc:`Arch. Cap. 16 (EN) </de_divina_proportione/architectura/cap_16/index>`, :doc:`Arch. Cap. 16 (IT) </de_divina_proportione/architectura/cap_16/it>`, :doc:`Arch. Cap. 17 (EN) </de_divina_proportione/architectura/cap_17/index>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
 
 .. _term-superficie:
 
@@ -1589,7 +1589,7 @@ tetragono / quadrato (tetragono)
 
 A four-sided equilateral and right-angled plane figure, forming the six faces of the cube (hexahedron) and the eighteen square faces of the 26-base body (Compendio Cap. XXVII, LIII, LX).
 
-**Occurrences:** :doc:`Arch. Cap. 2 (IT) </de_divina_proportione/architectura/cap_02/cap_02_it>`, :doc:`Comp. Cap. 67 (IT) </de_divina_proportione/compendio/cap_67/cap_67_it>`
+**Occurrences:** :doc:`Arch. Cap. 2 (IT) </de_divina_proportione/architectura/cap_02/it>`, :doc:`Comp. Cap. 67 (IT) </de_divina_proportione/compendio/cap_67/it>`
 
 .. _term-tetragono-longo:
 
@@ -1600,7 +1600,7 @@ tetragono longo (parte altera longior) (tetragono-longo)
 
 A right-angled quadrilateral whose length exceeds its breadth (Chapter LX).
 
-**Occurrences:** :doc:`Arch. Cap. 1 (EN) </de_divina_proportione/architectura/cap_01/cap_01_en>`, :doc:`Arch. Cap. 1 (IT) </de_divina_proportione/architectura/cap_01/cap_01_it>`, :doc:`Arch. Cap. 2 (IT) </de_divina_proportione/architectura/cap_02/cap_02_it>`, :doc:`Comp. Cap. 71 (EN) </de_divina_proportione/compendio/cap_71/cap_71_en>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/cap_71_it>`
+**Occurrences:** :doc:`Arch. Cap. 1 (EN) </de_divina_proportione/architectura/cap_01/index>`, :doc:`Arch. Cap. 1 (IT) </de_divina_proportione/architectura/cap_01/it>`, :doc:`Arch. Cap. 2 (IT) </de_divina_proportione/architectura/cap_02/it>`, :doc:`Comp. Cap. 71 (EN) </de_divina_proportione/compendio/cap_71/index>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/it>`
 
 .. _term-tetrahedron:
 
@@ -1611,7 +1611,7 @@ Tetrahedron / tetracedron (corpo de quatro basi triangulari) (tetrahedron)
 
 The first regular solid, bounded by 4 equilateral triangles, 6 edges, and 4 three-valent solid angles; constructed in Euclid XIII.13 (Compendio Cap. XXVI, Plates I–VI) and assigned by Plato to the element of Fire.
 
-**Occurrences:** :doc:`Comp. Cap. 5 (DE) </de_divina_proportione/compendio/cap_05/cap_05_de>`, :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/cap_05_en>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/cap_05_it>`, :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/cap_05_notes>`, :doc:`Comp. Cap. 25 (DE) </de_divina_proportione/compendio/cap_25/cap_25_de>`, :doc:`Comp. Cap. 25 (EN) </de_divina_proportione/compendio/cap_25/cap_25_en>`, :doc:`Comp. Cap. 25 (IT) </de_divina_proportione/compendio/cap_25/cap_25_it>`, :doc:`Comp. Cap. 26 (DE) </de_divina_proportione/compendio/cap_26/cap_26_de>`, :doc:`Comp. Cap. 26 (EN) </de_divina_proportione/compendio/cap_26/cap_26_en>`, :doc:`Comp. Cap. 26 (IT) </de_divina_proportione/compendio/cap_26/cap_26_it>`, :doc:`Comp. Cap. 26 (Notes) </de_divina_proportione/compendio/cap_26/cap_26_notes>`, :doc:`Comp. Cap. 27 (EN) </de_divina_proportione/compendio/cap_27/cap_27_en>`, :doc:`Comp. Cap. 27 (Notes) </de_divina_proportione/compendio/cap_27/cap_27_notes>`, :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/cap_31_en>`, :doc:`Comp. Cap. 31 (Notes) </de_divina_proportione/compendio/cap_31/cap_31_notes>`, :doc:`Comp. Cap. 32 (DE) </de_divina_proportione/compendio/cap_32/cap_32_de>`, :doc:`Comp. Cap. 32 (IT) </de_divina_proportione/compendio/cap_32/cap_32_it>`, :doc:`Comp. Cap. 33 (DE) </de_divina_proportione/compendio/cap_33/cap_33_de>`, :doc:`Comp. Cap. 33 (EN) </de_divina_proportione/compendio/cap_33/cap_33_en>`, :doc:`Comp. Cap. 33 (IT) </de_divina_proportione/compendio/cap_33/cap_33_it>`, :doc:`Comp. Cap. 34 (DE) </de_divina_proportione/compendio/cap_34/cap_34_de>`, :doc:`Comp. Cap. 34 (EN) </de_divina_proportione/compendio/cap_34/cap_34_en>`, :doc:`Comp. Cap. 34 (IT) </de_divina_proportione/compendio/cap_34/cap_34_it>`, :doc:`Comp. Cap. 34 (Notes) </de_divina_proportione/compendio/cap_34/cap_34_notes>`, *...and 52 more*
+**Occurrences:** :doc:`Comp. Cap. 5 (DE) </de_divina_proportione/compendio/cap_05/de>`, :doc:`Comp. Cap. 5 (EN) </de_divina_proportione/compendio/cap_05/index>`, :doc:`Comp. Cap. 5 (IT) </de_divina_proportione/compendio/cap_05/it>`, :doc:`Comp. Cap. 5 (Notes) </de_divina_proportione/compendio/cap_05/notes>`, :doc:`Comp. Cap. 25 (DE) </de_divina_proportione/compendio/cap_25/de>`, :doc:`Comp. Cap. 25 (EN) </de_divina_proportione/compendio/cap_25/index>`, :doc:`Comp. Cap. 25 (IT) </de_divina_proportione/compendio/cap_25/it>`, :doc:`Comp. Cap. 26 (DE) </de_divina_proportione/compendio/cap_26/de>`, :doc:`Comp. Cap. 26 (EN) </de_divina_proportione/compendio/cap_26/index>`, :doc:`Comp. Cap. 26 (IT) </de_divina_proportione/compendio/cap_26/it>`, :doc:`Comp. Cap. 26 (Notes) </de_divina_proportione/compendio/cap_26/notes>`, :doc:`Comp. Cap. 27 (EN) </de_divina_proportione/compendio/cap_27/index>`, :doc:`Comp. Cap. 27 (Notes) </de_divina_proportione/compendio/cap_27/notes>`, :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/index>`, :doc:`Comp. Cap. 31 (Notes) </de_divina_proportione/compendio/cap_31/notes>`, :doc:`Comp. Cap. 32 (DE) </de_divina_proportione/compendio/cap_32/de>`, :doc:`Comp. Cap. 32 (IT) </de_divina_proportione/compendio/cap_32/it>`, :doc:`Comp. Cap. 33 (DE) </de_divina_proportione/compendio/cap_33/de>`, :doc:`Comp. Cap. 33 (EN) </de_divina_proportione/compendio/cap_33/index>`, :doc:`Comp. Cap. 33 (IT) </de_divina_proportione/compendio/cap_33/it>`, :doc:`Comp. Cap. 34 (DE) </de_divina_proportione/compendio/cap_34/de>`, :doc:`Comp. Cap. 34 (EN) </de_divina_proportione/compendio/cap_34/index>`, :doc:`Comp. Cap. 34 (IT) </de_divina_proportione/compendio/cap_34/it>`, :doc:`Comp. Cap. 34 (Notes) </de_divina_proportione/compendio/cap_34/notes>`, *...and 52 more*
 
 .. _term-tetrahedron-abscisum:
 
@@ -1644,7 +1644,7 @@ timpano (tympanum) (timpano)
 
 The recessed triangular wall surface enclosed between the horizontal cornice and the raking cornices of a pediment (Architectura Cap. XVII).
 
-**Occurrences:** :doc:`Arch. Cap. 7 (IT) </de_divina_proportione/architectura/cap_07/cap_07_it>`
+**Occurrences:** :doc:`Arch. Cap. 7 (IT) </de_divina_proportione/architectura/cap_07/it>`
 
 .. _term-tondo-e-quadro:
 
@@ -1675,7 +1675,7 @@ tygraphi / triglyphi (tygraphi)
 
 Vertically channeled blocks in the Doric frieze representing the ends of timber ceiling beams, alternating with square metopes (Architectura Cap. XII–XIII, XVII).
 
-**Occurrences:** :doc:`Arch. Cap. 12 (EN) </de_divina_proportione/architectura/cap_12/cap_12_en>`, :doc:`Arch. Cap. 12 (Notes) </de_divina_proportione/architectura/cap_12/cap_12_notes>`, :doc:`Arch. Cap. 13 (EN) </de_divina_proportione/architectura/cap_13/cap_13_en>`, :doc:`Arch. Cap. 13 (Notes) </de_divina_proportione/architectura/cap_13/cap_13_notes>`, :doc:`Arch. Cap. 17 (EN) </de_divina_proportione/architectura/cap_17/cap_17_en>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`
+**Occurrences:** :doc:`Arch. Cap. 12 (EN) </de_divina_proportione/architectura/cap_12/index>`, :doc:`Arch. Cap. 12 (Notes) </de_divina_proportione/architectura/cap_12/notes>`, :doc:`Arch. Cap. 13 (EN) </de_divina_proportione/architectura/cap_13/index>`, :doc:`Arch. Cap. 13 (Notes) </de_divina_proportione/architectura/cap_13/notes>`, :doc:`Arch. Cap. 17 (EN) </de_divina_proportione/architectura/cap_17/index>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`
 
 .. _term-vacuum:
 
@@ -1686,7 +1686,7 @@ vacuum / vacuo (κενόν) (vacuum)
 
 Leonardo da Vinci's revolutionary visual invention in which each polyhedral edge is rendered as a slender wooden strut of square cross-section with open fenestrated faces, allowing the viewer to see both front and rear edges simultaneously.
 
-**Occurrences:** :doc:`Comp. Cap. 47 (Notes) </de_divina_proportione/compendio/cap_47/cap_47_notes>`, :doc:`Comp. Cap. 48 (Notes) </de_divina_proportione/compendio/cap_48/cap_48_notes>`, :doc:`Comp. Cap. 49 (Notes) </de_divina_proportione/compendio/cap_49/cap_49_notes>`, :doc:`Comp. Cap. 50 (Notes) </de_divina_proportione/compendio/cap_50/cap_50_notes>`, :doc:`Comp. Cap. 51 (Notes) </de_divina_proportione/compendio/cap_51/cap_51_notes>`, :doc:`Comp. Cap. 52 (Notes) </de_divina_proportione/compendio/cap_52/cap_52_notes>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
+**Occurrences:** :doc:`Comp. Cap. 47 (Notes) </de_divina_proportione/compendio/cap_47/notes>`, :doc:`Comp. Cap. 48 (Notes) </de_divina_proportione/compendio/cap_48/notes>`, :doc:`Comp. Cap. 49 (Notes) </de_divina_proportione/compendio/cap_49/notes>`, :doc:`Comp. Cap. 50 (Notes) </de_divina_proportione/compendio/cap_50/notes>`, :doc:`Comp. Cap. 51 (Notes) </de_divina_proportione/compendio/cap_51/notes>`, :doc:`Comp. Cap. 52 (Notes) </de_divina_proportione/compendio/cap_52/notes>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
 
 .. _term-vigintisex-basium:
 
@@ -1697,7 +1697,7 @@ Vigintisex basium (corpo de 26 basi / Εἰκοσιεξάεδρον) (vigintisex
 
 Archimedean semi-regular polyhedron bounded by 18 squares and 8 equilateral triangles, with 48 edges and 24 four-valent vertices, generated by uniform second truncation of the cube (Compendio Cap. LIII, Plates XXXV–XXXVIII).
 
-**Occurrences:** :doc:`Comp. Cap. 53 (EN) </de_divina_proportione/compendio/cap_53/cap_53_en>`, :doc:`Comp. Cap. 53 (Notes) </de_divina_proportione/compendio/cap_53/cap_53_notes>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
+**Occurrences:** :doc:`Comp. Cap. 53 (EN) </de_divina_proportione/compendio/cap_53/index>`, :doc:`Comp. Cap. 53 (Notes) </de_divina_proportione/compendio/cap_53/notes>`, :doc:`Plates: Polyhedra (EN) </de_divina_proportione/plates/polyhedra/index>`, :doc:`Plates: Polyhedra (LA) </de_divina_proportione/plates/polyhedra/index>`
 
 .. _term-vigintisex-basium-elevatum:
 
@@ -1708,7 +1708,7 @@ Vigintisex basium elevatum (Εἰκοσιεξάεδρον ἐπηρμένον) (
 
 Twenty-six-pointed stellated polyhedron formed by erecting 18 square pyramids and 8 triangular pyramids upon the 26 faces of the small rhombicuboctahedron, bounded externally by 96 equilateral triangles (Compendio Cap. LIII, Plates XXXVII–XXXVIII).
 
-**Occurrences:** :doc:`Comp. Cap. 53 (Notes) </de_divina_proportione/compendio/cap_53/cap_53_notes>`
+**Occurrences:** :doc:`Comp. Cap. 53 (Notes) </de_divina_proportione/compendio/cap_53/notes>`
 
 .. _term-ypothesi:
 
@@ -1719,7 +1719,7 @@ ypothesi
 
 Defined in Pacioli's Chapter LXXI lexicon: the initial supposition or given data assumed at the outset of a geometric construction or demonstration.
 
-**Occurrences:** :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/cap_29_it>`, :doc:`Comp. Cap. 58 (IT) </de_divina_proportione/compendio/cap_58/cap_58_it>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/cap_71_it>`
+**Occurrences:** :doc:`Comp. Cap. 29 (IT) </de_divina_proportione/compendio/cap_29/it>`, :doc:`Comp. Cap. 58 (IT) </de_divina_proportione/compendio/cap_58/it>`, :doc:`Comp. Cap. 71 (IT) </de_divina_proportione/compendio/cap_71/it>`
 
 .. _term-ypotumissa:
 
@@ -1739,4 +1739,4 @@ zophoro / fregio (zophoro)
 
 The middle horizontal member of the entablature resting upon the epistyle (architrave), called 'zophoros' ('animal-bearing') by the Greeks because it is often sculpted with foliage, scrolls, and figures (Architectura Cap. XIV–XV, Folio 0215).
 
-**Occurrences:** :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/cap_06_it>`, :doc:`Arch. Cap. 14 (EN) </de_divina_proportione/architectura/cap_14/cap_14_en>`, :doc:`Arch. Cap. 14 (IT) </de_divina_proportione/architectura/cap_14/cap_14_it>`, :doc:`Arch. Cap. 15 (EN) </de_divina_proportione/architectura/cap_15/cap_15_en>`, :doc:`Arch. Cap. 15 (IT) </de_divina_proportione/architectura/cap_15/cap_15_it>`, :doc:`Arch. Cap. 16 (EN) </de_divina_proportione/architectura/cap_16/cap_16_en>`, :doc:`Arch. Cap. 16 (IT) </de_divina_proportione/architectura/cap_16/cap_16_it>`, :doc:`Arch. Cap. 17 (EN) </de_divina_proportione/architectura/cap_17/cap_17_en>`, :doc:`Arch. Cap. 17 (IT) </de_divina_proportione/architectura/cap_17/cap_17_it>`, :doc:`Arch. Cap. 20 (IT) </de_divina_proportione/architectura/cap_20/cap_20_it>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`
+**Occurrences:** :doc:`Arch. Cap. 6 (IT) </de_divina_proportione/architectura/cap_06/it>`, :doc:`Arch. Cap. 14 (EN) </de_divina_proportione/architectura/cap_14/index>`, :doc:`Arch. Cap. 14 (IT) </de_divina_proportione/architectura/cap_14/it>`, :doc:`Arch. Cap. 15 (EN) </de_divina_proportione/architectura/cap_15/index>`, :doc:`Arch. Cap. 15 (IT) </de_divina_proportione/architectura/cap_15/it>`, :doc:`Arch. Cap. 16 (EN) </de_divina_proportione/architectura/cap_16/index>`, :doc:`Arch. Cap. 16 (IT) </de_divina_proportione/architectura/cap_16/it>`, :doc:`Arch. Cap. 17 (EN) </de_divina_proportione/architectura/cap_17/index>`, :doc:`Arch. Cap. 17 (IT) </de_divina_proportione/architectura/cap_17/it>`, :doc:`Arch. Cap. 20 (IT) </de_divina_proportione/architectura/cap_20/it>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/it>`, :doc:`Plates: Architectural (DE) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (EN) </de_divina_proportione/plates/architectural/index>`, :doc:`Plates: Architectural (IT) </de_divina_proportione/plates/architectural/index>`

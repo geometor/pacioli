@@ -14,4 +14,4 @@ Author of the Elements of Astronomy (Liber de Aggregationibus Scientiae Stellaru
 
 **Principal Works:** *Liber de Aggregationibus Scientiae Stellarum*
 
-**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`
+**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/index>`

@@ -14,4 +14,4 @@ Montefeltro, Federico da, Duke of Urbino
 
 Builder of the Palazzo Ducale in Urbino, around whose base he commissioned the carved stone frieze of ancient and modern military machines and mathematical instruments praised by Pacioli in Chapter II.
 
-**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`
+**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/index>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/notes>`

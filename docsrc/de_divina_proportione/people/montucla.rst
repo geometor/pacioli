@@ -16,4 +16,4 @@ Author of the monumental Histoire des mathématiques (1758; 2nd ed. 1799–1802)
 
 **Principal Works:** *Histoire des mathématiques*
 
-**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`

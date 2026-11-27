@@ -14,4 +14,4 @@ Este, Cardinal Ippolito I d'
 
 Brother-in-law of Ludovico Sforza (brother of Beatrice d'Este); witnessed the presentation of De Divina Proportione in Milan, attended the 1498 Franciscan General Chapter, and participated in the Vitruvian architectural discussion on Milan Cathedral.
 
-**Occurrences:** :doc:`Comp. Cap. 69 (Notes) </de_divina_proportione/compendio/cap_69/cap_69_notes>`
+**Occurrences:** :doc:`Comp. Cap. 69 (Notes) </de_divina_proportione/compendio/cap_69/notes>`

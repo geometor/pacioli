@@ -14,4 +14,4 @@ Author of De Civitate Dei, cited by Pacioli in Compendio Chapter II on the supre
 
 **Principal Works:** *De Civitate Dei*, *De Genesi ad Litteram*
 
-**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`
+**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/index>`

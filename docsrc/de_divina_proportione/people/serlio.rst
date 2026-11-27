@@ -16,4 +16,4 @@ Author of I Sette Libri dell'Architettura (1537–1551), cited by Winterberg in 
 
 **Principal Works:** *I Sette Libri dell'Architettura*
 
-**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`

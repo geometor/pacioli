@@ -16,4 +16,4 @@ Author of Proportionsschlüssel: Neues System der Verhältnisse des menschlichen
 
 **Principal Works:** *Proportionsschlüssel: Neues System der Verhältnisse des menschlichen Körpers (1849)*
 
-**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`

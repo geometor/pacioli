@@ -2,5 +2,3 @@ references
 ==========
 
 .. toctree::
-
-   

@@ -14,4 +14,4 @@ Marcellus, Marcus Claudius
 
 Commander of the Roman siege of Syracuse (214–212 BC), whose assaults were long repelled by the geometrical engines of Archimedes (Compendio Cap. II).
 
-**Occurrences:** :doc:`Comp. Cap. 2 (DE) </de_divina_proportione/compendio/cap_02/cap_02_de>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`
+**Occurrences:** :doc:`Comp. Cap. 2 (DE) </de_divina_proportione/compendio/cap_02/de>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/index>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/it>`

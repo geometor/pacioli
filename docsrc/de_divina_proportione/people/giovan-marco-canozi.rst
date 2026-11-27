@@ -12,4 +12,4 @@ Canozi, Giovan Marco
 
 Son of Lorenzo Canozi da Lendinara; praised by Pacioli in the Dedication of the Tractato de l'Architectura among the disciples with whom he discussed Vitruvian architecture.
 
-**Occurrences:** :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/dedication_en>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`
+**Occurrences:** :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/index>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/notes>`

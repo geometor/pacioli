@@ -16,4 +16,4 @@ Cited in Compendio Chapter I alongside Avicenna and Hippocrates to illustrate th
 
 **Principal Works:** *Opera Medica*
 
-**Occurrences:** :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`
+**Occurrences:** :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/index>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/notes>`

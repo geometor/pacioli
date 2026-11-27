@@ -29,11 +29,11 @@ Summa de Arithmetica, Geometria, Proportioni et Proportionalita
 Indice dell'Opera
 -----------------
 
-* Dedica et Arithmetica Speculativa: :doc:`Italian <dist_01_dedication_arithmetica/dist_01_dedication_arithmetica_it>` · :doc:`English <dist_01_dedication_arithmetica/dist_01_dedication_arithmetica_en>`
-* Algebra e Regola della Cosa: :doc:`Italian <dist_02_algebra_cosa/dist_02_algebra_cosa_it>` · :doc:`English <dist_02_algebra_cosa/dist_02_algebra_cosa_en>`
-* De Proportioni et Proportionalita: :doc:`Italian <dist_03_proportioni/dist_03_proportioni_it>` · :doc:`English <dist_03_proportioni/dist_03_proportioni_en>`
-* De Computis et Scripturis: :doc:`Italian <dist_04_computis_quaderno/dist_04_computis_quaderno_it>` · :doc:`English <dist_04_computis_quaderno/dist_04_computis_quaderno_en>`
-* Tractatus Geometriae: :doc:`Italian <dist_05_tractatus_geometriae/dist_05_tractatus_geometriae_it>` · :doc:`English <dist_05_tractatus_geometriae/dist_05_tractatus_geometriae_en>`
+* Dedica et Arithmetica Speculativa: :doc:`Italian <dist_01_dedication_arithmetica/it>` · :doc:`English <dist_01_dedication_arithmetica/index>`
+* Algebra e Regola della Cosa: :doc:`Italian <dist_02_algebra_cosa/it>` · :doc:`English <dist_02_algebra_cosa/index>`
+* De Proportioni et Proportionalita: :doc:`Italian <dist_03_proportioni/it>` · :doc:`English <dist_03_proportioni/index>`
+* De Computis et Scripturis: :doc:`Italian <dist_04_computis_quaderno/it>` · :doc:`English <dist_04_computis_quaderno/index>`
+* Tractatus Geometriae: :doc:`Italian <dist_05_tractatus_geometriae/it>` · :doc:`English <dist_05_tractatus_geometriae/index>`
 
 ----
 

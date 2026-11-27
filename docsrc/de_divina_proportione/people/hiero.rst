@@ -14,4 +14,4 @@ Hiero I of Syracuse
 
 Cited in Compendio Chapter LVII (from Cicero's De Natura Deorum I.60) for asking the poet Simonides to define the nature of God.
 
-**Occurrences:** :doc:`Comp. Cap. 57 (DE) </de_divina_proportione/compendio/cap_57/cap_57_de>`, :doc:`Comp. Cap. 57 (EN) </de_divina_proportione/compendio/cap_57/cap_57_en>`, :doc:`Comp. Cap. 57 (IT) </de_divina_proportione/compendio/cap_57/cap_57_it>`, :doc:`Comp. Cap. 57 (Notes) </de_divina_proportione/compendio/cap_57/cap_57_notes>`
+**Occurrences:** :doc:`Comp. Cap. 57 (DE) </de_divina_proportione/compendio/cap_57/de>`, :doc:`Comp. Cap. 57 (EN) </de_divina_proportione/compendio/cap_57/index>`, :doc:`Comp. Cap. 57 (IT) </de_divina_proportione/compendio/cap_57/it>`, :doc:`Comp. Cap. 57 (Notes) </de_divina_proportione/compendio/cap_57/notes>`

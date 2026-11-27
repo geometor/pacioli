@@ -16,4 +16,4 @@ Author of Lehrbuch der plastischen Anatomie (Stuttgart, 1856–1858), cited by W
 
 **Principal Works:** *Lehrbuch der plastischen Anatomie (1856–1858)*
 
-**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`

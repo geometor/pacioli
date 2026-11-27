@@ -16,4 +16,4 @@ Author of Le Vite de' più eccellenti pittori, scultori, e architettori (1550/15
 
 **Principal Works:** *Le Vite de' più eccellenti pittori, scultori, e architettori*
 
-**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`

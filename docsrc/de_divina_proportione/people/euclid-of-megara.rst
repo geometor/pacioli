@@ -14,4 +14,4 @@ Euclid of Megara
 
 Disciple of Socrates from Megara whom medieval and Renaissance writers—including Campanus and Luca Pacioli ('Euclide Megarense')—habitually conflated with the Alexandrian geometer Euclid; glossed by Winterberg in Compendio Chapter II, fn. 2.
 
-**Occurrences:** :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`, :doc:`Comp. Cap. 67 (EN) </de_divina_proportione/compendio/cap_67/cap_67_en>`, :doc:`Comp. Cap. 71 (EN) </de_divina_proportione/compendio/cap_71/cap_71_en>`
+**Occurrences:** :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/notes>`, :doc:`Comp. Cap. 67 (EN) </de_divina_proportione/compendio/cap_67/index>`, :doc:`Comp. Cap. 71 (EN) </de_divina_proportione/compendio/cap_71/index>`

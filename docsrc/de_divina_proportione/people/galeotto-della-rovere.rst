@@ -14,4 +14,4 @@ Rovere, Cardinal Galeotto Franciotti della
 
 Nephew of Pope Julius II and patron of Luca Pacioli (Architectura Cap. XI), whose premature death in 1507 Pacioli laments.
 
-**Occurrences:** :doc:`Arch. Cap. 18 (Notes) </de_divina_proportione/architectura/cap_18/cap_18_notes>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`
+**Occurrences:** :doc:`Arch. Cap. 18 (Notes) </de_divina_proportione/architectura/cap_18/notes>`, :doc:`Arch. index </de_divina_proportione/architectura/index>`

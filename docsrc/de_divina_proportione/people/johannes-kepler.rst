@@ -16,4 +16,4 @@ Author of Mysterium Cosmographicum (1596) and Harmonices Mundi (1619), who gave 
 
 **Principal Works:** *Harmonices Mundi (1619)*
 
-**Occurrences:** :doc:`Comp. Cap. 50 (Notes) </de_divina_proportione/compendio/cap_50/cap_50_notes>`, :doc:`Comp. Cap. 52 (Notes) </de_divina_proportione/compendio/cap_52/cap_52_notes>`
+**Occurrences:** :doc:`Comp. Cap. 50 (Notes) </de_divina_proportione/compendio/cap_50/notes>`, :doc:`Comp. Cap. 52 (Notes) </de_divina_proportione/compendio/cap_52/notes>`

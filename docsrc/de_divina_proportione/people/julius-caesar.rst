@@ -16,4 +16,4 @@ Cited in Compendio Chapter II for his geometric timber bridge across the Rhine (
 
 **Principal Works:** *Commentarii de Bello Gallico*
 
-**Occurrences:** :doc:`Comp. Cap. 2 (DE) </de_divina_proportione/compendio/cap_02/cap_02_de>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`
+**Occurrences:** :doc:`Comp. Cap. 2 (DE) </de_divina_proportione/compendio/cap_02/de>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/index>`

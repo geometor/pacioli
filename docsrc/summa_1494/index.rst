@@ -34,62 +34,17 @@ Table of Contents
 
 .. collection::
 
-   :doc: dist_01_dedication_arithmetica/dist_01_dedication_arithmetica_en
-   :doc: dist_02_algebra_cosa/dist_02_algebra_cosa_en
-   :doc: dist_03_proportioni/dist_03_proportioni_en
-   :doc: dist_04_computis_quaderno/dist_04_computis_quaderno_en
-   :doc: dist_05_tractatus_geometriae/dist_05_tractatus_geometriae_en
+   :doc: dist_01_dedication_arithmetica/index
+   :doc: dist_02_algebra_cosa/index
+   :doc: dist_03_proportioni/index
+   :doc: dist_04_computis_quaderno/index
+   :doc: dist_05_tractatus_geometriae/index
 
 ----
 
 .. rubric:: Scholarly Apparatus
 
 :ref:`Bibliography & Cited Works <summa-bibliography>` · :ref:`Index of Persons <summa-persons>` · :ref:`Technical Glossary <summa-glossary>`
-
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Contents
-
-   dist_01_dedication_arithmetica/dist_01_dedication_arithmetica_en
-   dist_02_algebra_cosa/dist_02_algebra_cosa_en
-   dist_03_proportioni/dist_03_proportioni_en
-   dist_04_computis_quaderno/dist_04_computis_quaderno_en
-   dist_05_tractatus_geometriae/dist_05_tractatus_geometriae_en
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Italian Edition
-
-   dist_01_dedication_arithmetica/dist_01_dedication_arithmetica_it
-   dist_02_algebra_cosa/dist_02_algebra_cosa_it
-   dist_03_proportioni/dist_03_proportioni_it
-   dist_04_computis_quaderno/dist_04_computis_quaderno_it
-   dist_05_tractatus_geometriae/dist_05_tractatus_geometriae_it
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Mathematical Summary
-
-   dist_01_dedication_arithmetica/dist_01_dedication_arithmetica_summary
-   dist_02_algebra_cosa/dist_02_algebra_cosa_summary
-   dist_03_proportioni/dist_03_proportioni_summary
-   dist_04_computis_quaderno/dist_04_computis_quaderno_summary
-   dist_05_tractatus_geometriae/dist_05_tractatus_geometriae_summary
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Commentary & Notes
-
-   dist_01_dedication_arithmetica/dist_01_dedication_arithmetica_notes
-   dist_02_algebra_cosa/dist_02_algebra_cosa_notes
-   dist_03_proportioni/dist_03_proportioni_notes
-   dist_04_computis_quaderno/dist_04_computis_quaderno_notes
-   dist_05_tractatus_geometriae/dist_05_tractatus_geometriae_notes
 
 .. toctree::
    :maxdepth: 1

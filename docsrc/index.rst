@@ -54,8 +54,8 @@ Works in This Archive
       .. container:: home-actions
 
          * :doc:`Open the Summa (1494) → <summa_1494/index>`
-         * :doc:`Distinction I (Arithmetic) → <summa_1494/dist_01_dedication_arithmetica/dist_01_dedication_arithmetica_en>`
-         * :doc:`Double-Entry Bookkeeping → <summa_1494/dist_04_computis_quaderno/dist_04_computis_quaderno_en>`
+         * :doc:`Distinction I (Arithmetic) → <summa_1494/dist_01_dedication_arithmetica/index>`
+         * :doc:`Double-Entry Bookkeeping → <summa_1494/dist_04_computis_quaderno/index>`
 
 Key Features
 ------------

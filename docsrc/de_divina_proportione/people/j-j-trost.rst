@@ -16,4 +16,4 @@ Author of Die Proportionslehre Dürer's nach ihren wesentlichen Bestimmungen in 
 
 **Principal Works:** *Die Proportionslehre Dürer's (1859)*
 
-**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`

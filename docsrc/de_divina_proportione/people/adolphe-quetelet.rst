@@ -16,4 +16,4 @@ Author of Sur l'homme (1835) and Anthropométrie, ou Mesure des différentes fac
 
 **Principal Works:** *Anthropométrie, ou Mesure des différentes facultés de l'homme (1870)*
 
-**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`
