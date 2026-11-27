@@ -34,7 +34,7 @@ La terza e ultima cosa opportuna si è **che con bello ordine tutte sue facende 
 
 *(Prima partita del Giornale, `fol. 201v`, 8 Novembre 1493)*:
 **M.cccc.xciii. adi .8. Nouembre in Vinegia.**
-**Per Cassa de contanti // A Cavedal** de mi tale &c. per contanti mi trovo in questo presente dì fra oro e monete... $\frac{1}{2}$ — **l. — s. — g. — p.**
+**Per Cassa de contanti // A Cavedal** de mi tale &c. per contanti mi trovo in questo presente dì fra oro e monete... :math:`\frac{1}{2}` — **l. — s. — g. — p.**
 
 Sappi che in Vinegia **24 grossi fanno 1 ducato**, e **32 picioli fanno 1 grosso**, e **12 grossi fanno 1 soldo de grossi**, e **20 soldi fanno 1 lira de grossi** (che vale **10 ducati d'oro**): onde le quattro colonne del :term:`Quaderno <quaderno>` significano :term:`**lire, soldi, grossi, picioli** <ducato-di-conto>`.»
 

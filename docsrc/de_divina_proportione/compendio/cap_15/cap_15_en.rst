@@ -21,10 +21,10 @@ Chapter XV: On Its Sixth Inexpressible Effect
 
 .. assertion::
 
-   For example, let $10$ be the rational quantity that is to be divided according to the proportion having a mean and two extremes. I say that of necessity each of its parts must be an :term:`**apotome** <residuo>` (:term:`*residuo* <residuo>`):
+   For example, let :math:`10` be the rational quantity that is to be divided according to the proportion having a mean and two extremes. I say that of necessity each of its parts must be an :term:`**apotome** <residuo>` (:term:`*residuo* <residuo>`):
 
-   - One part, namely the lesser, will be $15 - \sqrt{125}$;
-   - The other, namely the greater, will be $\sqrt{125} - 5$.
+   - One part, namely the lesser, will be :math:`15 - \sqrt{125}`;
+   - The other, namely the greater, will be :math:`\sqrt{125} - 5`.
 
 .. qed::
 

@@ -21,11 +21,13 @@ Chapter XI: On Its Second Essential Effect
 
 .. assertion::
 
-   For example, let $15 - \sqrt{125}$ and $\sqrt{125} - 5$ be taken as the two integral parts of a quantity [namely $10$], and to one of them—namely $\sqrt{125} - 5$—let $5$ be added as a third quantity. Their sum will be $\sqrt{125}$, whose square is $125$; while the square of the added quantity ($5$) is $25$. Whence $125$ is **quintuple** to $25$, the square of the added quantity:
+   For example, let :math:`15 - \sqrt{125}` and :math:`\sqrt{125} - 5` be taken as the two integral parts of a quantity [namely :math:`10`], and to one of them—namely :math:`\sqrt{125} - 5`—let :math:`5` be added as a third quantity. Their sum will be :math:`\sqrt{125}`, whose square is :math:`125`; while the square of the added quantity (:math:`5`) is :math:`25`. Whence :math:`125` is **quintuple** to :math:`25`, the square of the added quantity:
 
-   $$125 = 5 \times 25$$
+   .. math::
 
-   I say that $\sqrt{25}$, namely $5$, is the **half of the first quantity** divided into those two parts; and that the part to which it was added ($\sqrt{125} - 5$) is the **greater part** of the said first quantity ($10$) divided according to our proportion having a mean and two extremes.
+      125 = 5 \times 25
+
+   I say that :math:`\sqrt{25}`, namely :math:`5`, is the **half of the first quantity** divided into those two parts; and that the part to which it was added (:math:`\sqrt{125} - 5`) is the **greater part** of the said first quantity (:math:`10`) divided according to our proportion having a mean and two extremes.
 
 .. qed::
 

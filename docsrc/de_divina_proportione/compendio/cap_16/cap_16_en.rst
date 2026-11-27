@@ -21,9 +21,9 @@ Chapter XVI: On Its Seventh Inestimable Effect
 
 .. assertion::
 
-   For example, let the side of an equilateral hexagon inscribed in a circle be $\sqrt{125} - 5$, and let the side of the equilateral decagon in the very same circle be $15 - \sqrt{125}$. (The diameter of this circle, which is double the side of the hexagon by :just:`IV.15`, will be $2(\sqrt{125} - 5) = \sqrt{500} - 10$.)
+   For example, let the side of an equilateral hexagon inscribed in a circle be :math:`\sqrt{125} - 5`, and let the side of the equilateral decagon in the very same circle be :math:`15 - \sqrt{125}`. (The diameter of this circle, which is double the side of the hexagon by :just:`IV.15`, will be :math:`2(\sqrt{125} - 5) = \sqrt{500} - 10`.)
 
-   I say that the sum of $\sqrt{125} - 5$ and $15 - \sqrt{125}$, which equals $10$, is divided according to our proportion, and that its **greater part** is $\sqrt{125} - 5$ [the hexagon side] and its **lesser part** is $15 - \sqrt{125}$ [the decagon side], just as we have repeatedly shown in the division of $10$.
+   I say that the sum of :math:`\sqrt{125} - 5` and :math:`15 - \sqrt{125}`, which equals :math:`10`, is divided according to our proportion, and that its **greater part** is :math:`\sqrt{125} - 5` [the hexagon side] and its **lesser part** is :math:`15 - \sqrt{125}` [the decagon side], just as we have repeatedly shown in the division of :math:`10`.
 
 .. qed::
 

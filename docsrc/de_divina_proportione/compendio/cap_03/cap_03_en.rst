@@ -13,7 +13,7 @@ Chapter III: What Is Meant by the Name 'Mathematical' (The Quadrivium)
 .. folio:: 0021–0022 (f. 3r–f. 3v)
    :initial: 0021.c1.png
 
-This word *Mathematical*, Most Exalted Duke, is Greek, derived from $\mu\alpha\theta\eta\mu\alpha\tau\iota\kappa\acute{o}\varsigma$ (*mathematikos* / $\mu\alpha\theta\eta\tau\acute{o}\varsigma$), which in our tongue signifies *disciplinable* ("capable of being taught and learned"). And for our purpose, by the mathematical sciences and disciplines are understood **Arithmetic**, **Geometry**, **Astrology** [Astronomy], **Music**, **Perspective**, **Architecture**, and **Cosmography**, together with every other science dependent upon these.
+This word *Mathematical*, Most Exalted Duke, is Greek, derived from :math:`\mu\alpha\theta\eta\mu\alpha\tau\iota\kappa\acute{o}\varsigma` (*mathematikos* / :math:`\mu\alpha\theta\eta\tau\acute{o}\varsigma`), which in our tongue signifies *disciplinable* ("capable of being taught and learned"). And for our purpose, by the mathematical sciences and disciplines are understood **Arithmetic**, **Geometry**, **Astrology** [Astronomy], **Music**, **Perspective**, **Architecture**, and **Cosmography**, together with every other science dependent upon these.
 
 Nevertheless, the wise commonly take only the first four—namely Arithmetic, Geometry, Astronomy, and Music [the classical :term:`*Quadrivium* <quadrivio>`]—and call the others *subalternate*, that is, dependent upon these four. So hold :person:`Plato <plato>`, :person:`Aristotle <aristotle>`, :person:`Isidore <isidore>` in his *Etymologies*, and Severinus :person:`Boethius <boethius>` in his *Arithmetic* (*De institutione arithmetica* I.1).
 

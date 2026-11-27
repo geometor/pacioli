@@ -21,23 +21,23 @@ TRACTATUS DE PROPORTIONIBUS ET PROPORTIONALITATIBUS (1494)
 
 «Ogni quantità comparata a un'altra d'un medesimo genere o gli è **equale** o gli è **inequale**. Se gli è inequale, o la maggiore si compara a la minore (*maior inaequalitas*), o la minore a la maggiore (*minor inaequalitas*, aggiungendo la preposizione *sub-*). E ciascuna ha **cinque generi generali**:
 
-1. :term:`**Multiplex** <multiplex>`: commo *dupla* ($2:1$), *tripla* ($3:1$), *quadrupla* ($4:1$).
-2. :term:`**Superparticularis** <superparticularis>`: commo *sesquialtera* ($3:2$), *sesquitertia* ($4:3$), *sesquiquarta* ($5:4$), *sesquioctava* ($9:8$).
-3. :term:`**Superpartiens** <superpartiens>`: commo *superbipartiens tertias* ($5:3$), *supertripartiens quartas* ($7:4$).
-4. **Multiplex superparticularis**: commo *dupla sesquialtera* ($5:2$).
-5. **Multiplex superpartiens**: commo *dupla supertripartiens quartas* ($11:4$).
+1. :term:`**Multiplex** <multiplex>`: commo *dupla* (:math:`2:1`), *tripla* (:math:`3:1`), *quadrupla* (:math:`4:1`).
+2. :term:`**Superparticularis** <superparticularis>`: commo *sesquialtera* (:math:`3:2`), *sesquitertia* (:math:`4:3`), *sesquiquarta* (:math:`5:4`), *sesquioctava* (:math:`9:8`).
+3. :term:`**Superpartiens** <superpartiens>`: commo *superbipartiens tertias* (:math:`5:3`), *supertripartiens quartas* (:math:`7:4`).
+4. **Multiplex superparticularis**: commo *dupla sesquialtera* (:math:`5:2`).
+5. **Multiplex superpartiens**: commo *dupla supertripartiens quartas* (:math:`11:4`).
 
-(`fol. 73v`): Le :term:`proportionalità <proportionalita>` famose appresso li antichi filosofi (:person:`Pitagora <boethius>`, :person:`Platone <euclid>`, :person:`Aristotele <boethius>`) principalmente sonno tre: **Arithmetica** (dove sonno equali le differentie, commo $9, 6\frac{1}{2}, 4$), **Geometrica** (dove sonno simili le proportioni, commo $9, 6, 4$), e **Harmonica** (dove qual proportione ha el primo estremo al terzo, tale ha la differentia del primo e secondo a la differentia del secondo e terzo, commo $9, 5\frac{7}{13}, 4$).»
+(`fol. 73v`): Le :term:`proportionalità <proportionalita>` famose appresso li antichi filosofi (:person:`Pitagora <boethius>`, :person:`Platone <euclid>`, :person:`Aristotele <boethius>`) principalmente sonno tre: **Arithmetica** (dove sonno equali le differentie, commo :math:`9, 6\frac{1}{2}, 4`), **Geometrica** (dove sonno simili le proportioni, commo :math:`9, 6, 4`), e **Harmonica** (dove qual proportione ha el primo estremo al terzo, tale ha la differentia del primo e secondo a la differentia del secondo e terzo, commo :math:`9, 5\frac{7}{13}, 4`).»
 
 .. folio:: Part I, fol. 74r
 
 .. rubric:: *De sex speciebus sive modis arguendi proportionalitatum* (:just:`V.16`–:just:`V.22`)
 
-«Sei sonno li :term:`modi d'arguire <modi-arguendi>` posti da :person:`Euclide <euclid>` nel quinto libro e da :person:`Campano <campanus>` esposti sopra quattro quantità proportionali $a : b = c : d$:
+«Sei sonno li :term:`modi d'arguire <modi-arguendi>` posti da :person:`Euclide <euclid>` nel quinto libro e da :person:`Campano <campanus>` esposti sopra quattro quantità proportionali :math:`a : b = c : d`:
 
-1. **Proportione conversa**: commo dal secondo al primo, così dal quarto al terzo ($b : a = d : c$).
-2. **Proportione permutata** (*alternando*, :just:`V.16`): commo dal primo al terzo, così dal secondo al quarto ($a : c = b : d$).
-3. **Proportione congionta** (*componendo*, :just:`V.18`): commo dal primo e secondo insieme al secondo, così dal terzo e quarto insieme al quarto ($(a+b) : b = (c+d) : d$).
-4. **Proportione disgiunta** (*dividendo*, :just:`V.17`): commo dal eccesso del primo sopra el secondo al secondo, così dal eccesso del terzo sopra el quarto al quarto ($(a-b) : b = (c-d) : d$).
-5. **Proportione eversa** (*convertendo*, :just:`V.19.por`): commo dal primo al suo eccesso sopra el secondo, così dal terzo al suo eccesso sopra el quarto ($a : (a-b) = c : (c-d)$).
-6. **Proportione equa** (*ex aequali*, :just:`V.22`): poste più quantità a altre tante, rimossi li mezzi resta dal primo al ultimo commo nell'altro ordine ($a : e = c : f$).»
+1. **Proportione conversa**: commo dal secondo al primo, così dal quarto al terzo (:math:`b : a = d : c`).
+2. **Proportione permutata** (*alternando*, :just:`V.16`): commo dal primo al terzo, così dal secondo al quarto (:math:`a : c = b : d`).
+3. **Proportione congionta** (*componendo*, :just:`V.18`): commo dal primo e secondo insieme al secondo, così dal terzo e quarto insieme al quarto (:math:`(a+b) : b = (c+d) : d`).
+4. **Proportione disgiunta** (*dividendo*, :just:`V.17`): commo dal eccesso del primo sopra el secondo al secondo, così dal eccesso del terzo sopra el quarto al quarto (:math:`(a-b) : b = (c-d) : d`).
+5. **Proportione eversa** (*convertendo*, :just:`V.19.por`): commo dal primo al suo eccesso sopra el secondo, così dal terzo al suo eccesso sopra el quarto (:math:`a : (a-b) = c : (c-d)`).
+6. **Proportione equa** (*ex aequali*, :just:`V.22`): poste più quantità a altre tante, rimossi li mezzi resta dal primo al ultimo commo nell'altro ordine (:math:`a : e = c : f`).»

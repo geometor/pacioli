@@ -21,7 +21,7 @@ Constantin Winterberg's Commentary (1889 Edition)
 
 .. rubric:: Note 10 (Cap. XXVI): Division of the Sphere Diameter by the Base of the Inscribed Tetrahedron (Euclid XIII.13) (:ref:`Sachliche Anmerkungen #10 <plates-anmerkungen-en>`, Cap. XXVI, p. 216, l. 12 from top)
 
-In every regular :term:`tetrahedron <tetrahedron>`, the four altitudes intersect at the center of the circumscribed sphere (of radius $r$) in the ratio $1 : 3$. Denoting the smaller segment (from the sphere center to the base plane) by $x = \frac{r}{3}$, and extending the altitude $ac = r + x$ beyond the base plane to meet the sphere at $b$ (so that $ab = 2r$ is the sphere diameter and $bc = r - x$), the ratio of the extension $bc$ to the :term:`tetrahedron <tetrahedron>` altitude $ac$ is:
+In every regular :term:`tetrahedron <tetrahedron>`, the four altitudes intersect at the center of the circumscribed sphere (of radius :math:`r`) in the ratio :math:`1 : 3`. Denoting the smaller segment (from the sphere center to the base plane) by :math:`x = \frac{r}{3}`, and extending the altitude :math:`ac = r + x` beyond the base plane to meet the sphere at :math:`b` (so that :math:`ab = 2r` is the sphere diameter and :math:`bc = r - x`), the ratio of the extension :math:`bc` to the :term:`tetrahedron <tetrahedron>` altitude :math:`ac` is:
 
 .. math::
 
@@ -29,7 +29,7 @@ In every regular :term:`tetrahedron <tetrahedron>`, the four altitudes intersect
 
 .. rubric:: Anmerkung 10 (Cap. XXVI, S. 216): Theilung des Kugeldurchmessers beim regulären Tetraeder (Euklid XIII.13)
 
-Bekanntlich verhalten sich in jedem regulären :term:`Tetraeder <tetrahedron>` die Abschnitte der Höhen, welche sich im Centrum der umschriebenen Kugel vom Radius $r$ schneiden, zu einander wie $1 : 3$. Bezeichnet man nun den kleinern Abschnitt mit $x$ und denkt sich ferner eine der Höhen über die Grundfläche hinaus bis zum Durchschnitt mit der Kugel verlängert, so ergibt sich das Verhältniss dieser Verlängerung $bc$ zu der Höhe $ac$ des :term:`Tetraeders <tetrahedron>`:
+Bekanntlich verhalten sich in jedem regulären :term:`Tetraeder <tetrahedron>` die Abschnitte der Höhen, welche sich im Centrum der umschriebenen Kugel vom Radius :math:`r` schneiden, zu einander wie :math:`1 : 3`. Bezeichnet man nun den kleinern Abschnitt mit :math:`x` und denkt sich ferner eine der Höhen über die Grundfläche hinaus bis zum Durchschnitt mit der Kugel verlängert, so ergibt sich das Verhältniss dieser Verlängerung :math:`bc` zu der Höhe :math:`ac` des :term:`Tetraeders <tetrahedron>`:
 
 .. math::
 

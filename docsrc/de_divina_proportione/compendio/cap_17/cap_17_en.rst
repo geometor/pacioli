@@ -21,7 +21,7 @@ Chapter XVII: On the Eighth Effect, the Converse of the Preceding
 
 .. assertion::
 
-   For example, if the divided line is $10$, its **greater part**, which is $\sqrt{125} - 5$, will always be the side of the equilateral hexagon of a circle whose diameter is double $\sqrt{125} - 5$, namely $\sqrt{500} - 10$ (:just:`IV.15`). I say that in that very same circle, the **lesser part**, $15 - \sqrt{125}$, will be the side of the equilateral decagon inscribed therein.
+   For example, if the divided line is :math:`10`, its **greater part**, which is :math:`\sqrt{125} - 5`, will always be the side of the equilateral hexagon of a circle whose diameter is double :math:`\sqrt{125} - 5`, namely :math:`\sqrt{500} - 10` (:just:`IV.15`). I say that in that very same circle, the **lesser part**, :math:`15 - \sqrt{125}`, will be the side of the equilateral decagon inscribed therein.
 
 .. qed::
 

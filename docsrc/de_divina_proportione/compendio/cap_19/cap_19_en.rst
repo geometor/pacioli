@@ -23,16 +23,16 @@ Chapter XIX: On Its Tenth Supreme Effect
 
    For example, let there be two lines thus divided: namely, one line :g:`ab` divided at :g:`c` whose greater part is :g:`ac`, and another line :g:`de` divided at :g:`f` whose greater part is :g:`df`. And what we say of these two lines, we understand likewise of infinitely many others, which can easily be assigned by way of Arithmetic:
 
-   - Setting :g:`ab` $= 10$, its greater part :g:`ac` will be $\sqrt{125} - 5$, and its lesser part :g:`cb` will be $15 - \sqrt{125}$;
-   - Setting :g:`de` $= 12$, its greater part :g:`df` will be $\sqrt{180} - 6$, and its lesser part :g:`fe` will be $18 - \sqrt{180}$.
+   - Setting :g:`ab` :math:`= 10`, its greater part :g:`ac` will be :math:`\sqrt{125} - 5`, and its lesser part :g:`cb` will be :math:`15 - \sqrt{125}`;
+   - Setting :g:`de` :math:`= 12`, its greater part :g:`df` will be :math:`\sqrt{180} - 6`, and its lesser part :g:`fe` will be :math:`18 - \sqrt{180}`.
 
    I say that everything that can ever happen to one of the said lines when compared, multiplied, divided, or manipulated in any other way whatever, happens identically to the other:
 
-   - The ratio of each whole line to its greater part is the very same (:g:`ab` $:$ :g:`ac` $=$ :g:`de` $:$ :g:`df`);
-   - The ratio of each whole line to its lesser part is the very same (:g:`ab` $:$ :g:`cb` $=$ :g:`de` $:$ :g:`fe`);
+   - The ratio of each whole line to its greater part is the very same (:g:`ab` :math:`:` :g:`ac` :math:`=` :g:`de` :math:`:` :g:`df`);
+   - The ratio of each whole line to its lesser part is the very same (:g:`ab` :math:`:` :g:`cb` :math:`=` :g:`de` :math:`:` :g:`fe`);
    - And conversely, from each of their parts to the wholes, and likewise in the product of one into its parts and conversely, and in division and subtraction.
 
-   Thus the ratio of $10$ to its greater part $\sqrt{125} - 5$ is the exact same as the ratio of $12$ to its greater part $\sqrt{180} - 6$; and the ratio of the sum of $10$ and $\sqrt{125} - 5$ to $\sqrt{125} - 5$ is the exact same as the ratio of the sum of $12$ and $\sqrt{180} - 6$ to $\sqrt{180} - 6$.
+   Thus the ratio of :math:`10` to its greater part :math:`\sqrt{125} - 5` is the exact same as the ratio of :math:`12` to its greater part :math:`\sqrt{180} - 6`; and the ratio of the sum of :math:`10` and :math:`\sqrt{125} - 5` to :math:`\sqrt{125} - 5` is the exact same as the ratio of the sum of :math:`12` and :math:`\sqrt{180} - 6` to :math:`\sqrt{180} - 6`.
 
 .. qed::
 

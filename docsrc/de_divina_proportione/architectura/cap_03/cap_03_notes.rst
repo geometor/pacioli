@@ -18,7 +18,7 @@ Historical & Mathematical Commentary
 Constantin Winterberg's Commentary (1889 Edition)
 -------------------------------------------------
 
-- :person:`Winterberg <winterberg>` Footnotes 1–5 (Arch. Cap. III, pp. 301–303): (1) Namely, equal to the distance from the chin to the base of the nostrils (*vom Kinn bis zum Nasenstachel*). (2) Namely, in breadth (*scil. Breite*). (3) The cubit (*cubito*)—from the elbow joint to the tip of the middle finger. (4) Square (*Quadrat*, $4^2 = 16$). (5) Biquadrate / fourth power (*Biquadrat*, $16^2 = 256$).
+- :person:`Winterberg <winterberg>` Footnotes 1–5 (Arch. Cap. III, pp. 301–303): (1) Namely, equal to the distance from the chin to the base of the nostrils (*vom Kinn bis zum Nasenstachel*). (2) Namely, in breadth (*scil. Breite*). (3) The cubit (*cubito*)—from the elbow joint to the tip of the middle finger. (4) Square (*Quadrat*, :math:`4^2 = 16`). (5) Biquadrate / fourth power (*Biquadrat*, :math:`16^2 = 256`).
   (:person:`Winterberg <winterberg>` Fussnoten 1–5 (Arch. Cap. III, S. 301–303): *1) D. h. wie der Abstand vom Kinn bis zum Nasenstachel. 2) scil. Breite. 3) d. h. vom Ellbogengelenk bis zur Mittelfingerspitze. 4) Quadrat. 5) Biquadrat.*)
 
 

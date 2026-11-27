@@ -22,29 +22,29 @@ MATHEMATICAL & ALGEBRAIC SUMMARY
      - Geometric Model
    * - ``.n°.``
      - *Numero* (*dragma*)
-     - $x^0 = 1$
+     - :math:`x^0 = 1`
      - Known area / constant magnitude
    * - ``.co.``
      - :term:`Cosa <cosa>` (*res*, *radix*)
-     - $x^1$
+     - :math:`x^1`
      - Side of the unknown square
    * - ``.ce.``
      - :term:`Censo <censo>` (*census*)
-     - $x^2$
+     - :math:`x^2`
      - Unknown square area
    * - ``.cu.``
      - :term:`Cubo <cubo>` (*cubus*)
-     - $x^3$
+     - :math:`x^3`
      - Solid cube on the *cosa*
    * - ``.ce.ce.``
      - :term:`Censo de censo <censo-de-censo>`
-     - $x^4$
-     - Biquadratic power $(x^2)^2$
+     - :math:`x^4`
+     - Biquadratic power :math:`(x^2)^2`
 
 2. Pacioli's Six Canonical Equations (`fols. 145r–146r`)
 --------------------------------------------------------
 
-Implemented symbolically in :func:`geometor.pacioli.proportions.solve_cossic_quadratic` for positive coefficients $a, b, c > 0$ (normalized with $p = b/a$, $q = c/a$):
+Implemented symbolically in :func:`geometor.pacioli.proportions.solve_cossic_quadratic` for positive coefficients :math:`a, b, c > 0` (normalized with :math:`p = b/a`, :math:`q = c/a`):
 
 .. list-table:: Six Positive-Coefficient Cossic Canons
    :header-rows: 1
@@ -55,32 +55,32 @@ Implemented symbolically in :func:`geometor.pacioli.proportions.solve_cossic_qua
      - Positive Root Formula
      - Euclidean Basis
    * - **1**
-     - $a.\text{ce.} = b.\text{co.}$
-     - $x = b / a$
+     - :math:`a.\text{ce.} = b.\text{co.}`
+     - :math:`x = b / a`
      - :just:`I.cn.3`
    * - **2**
-     - $a.\text{ce.} = c$
-     - $x = \sqrt{c / a}$
+     - :math:`a.\text{ce.} = c`
+     - :math:`x = \sqrt{c / a}`
      - :just:`II.14`
    * - **3**
-     - $b.\text{co.} = c$
-     - $x = c / b$
+     - :math:`b.\text{co.} = c`
+     - :math:`x = c / b`
      - :just:`VII.19`
    * - **4**
-     - $a.\text{ce.} \; \bar{p} \; b.\text{co.} = c$
-     - $x = \sqrt{(p/2)^2 + q} - p/2$
+     - :math:`a.\text{ce.} \; \bar{p} \; b.\text{co.} = c`
+     - :math:`x = \sqrt{(p/2)^2 + q} - p/2`
      - :just:`II.4` (Gnomon)
    * - **5**
-     - $a.\text{ce.} \; \bar{p} \; c = b.\text{co.}$
-     - $x = p/2 \mp \sqrt{(p/2)^2 - q}$ (if $(p/2)^2 \ge q$)
+     - :math:`a.\text{ce.} \; \bar{p} \; c = b.\text{co.}`
+     - :math:`x = p/2 \mp \sqrt{(p/2)^2 - q}` (if :math:`(p/2)^2 \ge q`)
      - :just:`II.5`
    * - **6**
-     - $b.\text{co.} \; \bar{p} \; c = a.\text{ce.}$
-     - $x = \sqrt{(p/2)^2 + q} + p/2$
+     - :math:`b.\text{co.} \; \bar{p} \; c = a.\text{ce.}`
+     - :math:`x = \sqrt{(p/2)^2 + q} + p/2`
      - :just:`II.6`
 
 3. Equidistant Gradation Criterion (`fols. 149v–150r`)
 ------------------------------------------------------
 
-- **Reducible Higher Trinomials**: Any equation $a x^{2m} + b x^m = c$ (e.g., $m=2$, *censo de censo e censo equale a numero*) reduces via $y = x^m$ to Canon 4, 5, or 6, yielding $x = \sqrt[m]{y}$.
-- **Irreducible Cubics (`fol. 150r`)**: Non-equidistant forms $x^3 + px = q$, $x^3 = px + q$, and $x^3 + q = px^2$ lack quadratic reduction; Pacioli marks them unsolved in general as of November 1494.
+- **Reducible Higher Trinomials**: Any equation :math:`a x^{2m} + b x^m = c` (e.g., :math:`m=2`, *censo de censo e censo equale a numero*) reduces via :math:`y = x^m` to Canon 4, 5, or 6, yielding :math:`x = \sqrt[m]{y}`.
+- **Irreducible Cubics (`fol. 150r`)**: Non-equidistant forms :math:`x^3 + px = q`, :math:`x^3 = px + q`, and :math:`x^3 + q = px^2` lack quadratic reduction; Pacioli marks them unsolved in general as of November 1494.

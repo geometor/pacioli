@@ -23,7 +23,7 @@ Historical & Mathematical Commentary
 Constantin Winterberg's Commentary (1889 Edition)
 -------------------------------------------------
 
-- :person:`Winterberg <winterberg>` Footnote 1 (Cap. LVII, p. 249): Point $d$, which is missing in the 1509 woodcut diagram (Folio 0050, ``0050.g1.png``), must be conceived in the initial plane from which the rotation of the semicircle begins.
+- :person:`Winterberg <winterberg>` Footnote 1 (Cap. LVII, p. 249): Point :math:`d`, which is missing in the 1509 woodcut diagram (Folio 0050, ``0050.g1.png``), must be conceived in the initial plane from which the rotation of the semicircle begins.
   (:person:`Winterberg <winterberg>` Fussnote 1 (Cap. LVII, S. 249): *Punkt d, welcher in der Zeichnung fehlt, muss in der Ebene gedacht werden, von wo die Drehung beginnt.*)
 
 

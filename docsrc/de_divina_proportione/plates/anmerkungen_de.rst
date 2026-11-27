@@ -18,11 +18,11 @@ Anmerkung 1 (Cap. VII, S. 198): Identität der zu Anfang gegebenen Definition de
 
 **Zugehörige Kapitel**: :ref:`Cap. 7 <compendio-cap_07-en>`
 
-Da die Definition der stetigen Theilung nach :person:`Euklid <euclid>` gewöhnlich so angegeben wird, wie am Schluss des Capitels gesagt, d. h. wenn die gegebene Linie $ac$ im Punkte $b$ in zwei Abschnitte zerfällt, wovon das Quadrat des grössern $ab^2$ gleich dem Product $ac \cdot bc$ aus der ganzen Länge mal dem kleinern Abschnitte ist, so sei zum Nachweise der Identität der letztern mit der zu Anfang dieses Capitels gegebenen Eigenschaft Folgendes bemerkt:
+Da die Definition der stetigen Theilung nach :person:`Euklid <euclid>` gewöhnlich so angegeben wird, wie am Schluss des Capitels gesagt, d. h. wenn die gegebene Linie :math:`ac` im Punkte :math:`b` in zwei Abschnitte zerfällt, wovon das Quadrat des grössern :math:`ab^2` gleich dem Product :math:`ac \cdot bc` aus der ganzen Länge mal dem kleinern Abschnitte ist, so sei zum Nachweise der Identität der letztern mit der zu Anfang dieses Capitels gegebenen Eigenschaft Folgendes bemerkt:
 
-- **Voraussetzung**: Es sei nach der bekannten :person:`Euklidischen <euclid>` Definition die Linie $ac$ im Punkte $b$ stetig getheilt, so dass $ab^2 = ac \cdot bc$.
-- **Behauptung**: $\left(ab + \frac{ac}{2}\right)^2 = 5\left(\frac{ac}{2}\right)^2$.
-- **Beweis**: Nach Voraussetzung ist $ab^2 = ac(ac - ab)$ oder $ac^2 = ab^2 + ab \cdot ac$. Fügt man rechts und links $\left(\frac{ac}{2}\right)^2$ hinzu, so folgt unmittelbar:
+- **Voraussetzung**: Es sei nach der bekannten :person:`Euklidischen <euclid>` Definition die Linie :math:`ac` im Punkte :math:`b` stetig getheilt, so dass :math:`ab^2 = ac \cdot bc`.
+- **Behauptung**: :math:`\left(ab + \frac{ac}{2}\right)^2 = 5\left(\frac{ac}{2}\right)^2`.
+- **Beweis**: Nach Voraussetzung ist :math:`ab^2 = ac(ac - ab)` oder :math:`ac^2 = ab^2 + ab \cdot ac`. Fügt man rechts und links :math:`\left(\frac{ac}{2}\right)^2` hinzu, so folgt unmittelbar:
 
   .. math::
 
@@ -35,7 +35,7 @@ Anmerkung 2 (Cap. VII, S. 198): Halbirung der Linie und stetige Theilung der Hä
 
 **Zugehörige Kapitel**: :ref:`Cap. 7 <compendio-cap_07-en>`
 
-Diese Folgerung ergibt sich, indem man sich die Linie $ab$ in $c$ halbirt, und sodann $bc$ im Punkte $d$ auf die gewöhnliche Art stetig getheilt denkt. Betrachtet man dann die drei Theile, aus denen die Linie $ab$ besteht, so ist der zusammengesetzte Abschnitt $ad = ac + cd$.
+Diese Folgerung ergibt sich, indem man sich die Linie :math:`ab` in :math:`c` halbirt, und sodann :math:`bc` im Punkte :math:`d` auf die gewöhnliche Art stetig getheilt denkt. Betrachtet man dann die drei Theile, aus denen die Linie :math:`ab` besteht, so ist der zusammengesetzte Abschnitt :math:`ad = ac + cd`.
 
 .. _winterberg-note-3-de:
 
@@ -44,17 +44,17 @@ Anmerkung 3 (Cap. XII, S. 203): Mathematischer Nachweis des dritten Effects (Euk
 
 **Zugehörige Kapitel**: :ref:`Cap. 12 <compendio-cap_12-en>`
 
-Mathematisch ausgedrückt heisst dies mit Bezug auf die in $b$ stetig getheilte Linie $ac$:
+Mathematisch ausgedrückt heisst dies mit Bezug auf die in :math:`b` stetig getheilte Linie :math:`ac`:
 
-- **Voraussetzung**: $ab^2 = ac \cdot bc$.
-- **Behauptung**: $\left(bc + \frac{ab}{2}\right)^2 = 5\left(\frac{ab}{2}\right)^2$.
-- **Beweis**: $ab^2 = bc^2 + ab \cdot bc$ (nach Voraussetzung), daher analog wie in Anmerkung 1 durch Hinzufügung von $\left(\frac{ab}{2}\right)^2$ rechts und links:
+- **Voraussetzung**: :math:`ab^2 = ac \cdot bc`.
+- **Behauptung**: :math:`\left(bc + \frac{ab}{2}\right)^2 = 5\left(\frac{ab}{2}\right)^2`.
+- **Beweis**: :math:`ab^2 = bc^2 + ab \cdot bc` (nach Voraussetzung), daher analog wie in Anmerkung 1 durch Hinzufügung von :math:`\left(\frac{ab}{2}\right)^2` rechts und links:
 
   .. math::
 
      \left(bc + \frac{ab}{2}\right)^2 = 5\left(\frac{ab}{2}\right)^2.
 
-  Setzt man die Werthe des in Cap. XII behandelten Beispiels ein ($ab = \sqrt{125} - 5$, $bc = 15 - \sqrt{125}$), so ergibt sich die Richtigkeit durch Uebereinstimmung der beiden Seiten der Gleichung ohne weiteres.
+  Setzt man die Werthe des in Cap. XII behandelten Beispiels ein (:math:`ab = \sqrt{125} - 5`, :math:`bc = 15 - \sqrt{125}`), so ergibt sich die Richtigkeit durch Uebereinstimmung der beiden Seiten der Gleichung ohne weiteres.
 
 .. _winterberg-note-4-de:
 
@@ -63,11 +63,11 @@ Anmerkung 4 (Cap. XIII, S. 203): Mathematischer Nachweis des vierten Effects (Eu
 
 **Zugehörige Kapitel**: :ref:`Cap. 13 <compendio-cap_13-en>`
 
-In mathematischer Form (wenn $bc$ in $d$ stetig getheilt und $ac = cd$ angesetzt wird):
+In mathematischer Form (wenn :math:`bc` in :math:`d` stetig getheilt und :math:`ac = cd` angesetzt wird):
 
-- **Voraussetzung**: $cd^2 = bc \cdot bd$ und $ac = cd$.
-- **Behauptung**: $bc^2 = ad \cdot cd$.
-- **Beweis**: Nach Voraussetzung ist $cd^2 = bc(bc - cd)$, folglich:
+- **Voraussetzung**: :math:`cd^2 = bc \cdot bd` und :math:`ac = cd`.
+- **Behauptung**: :math:`bc^2 = ad \cdot cd`.
+- **Beweis**: Nach Voraussetzung ist :math:`cd^2 = bc(bc - cd)`, folglich:
 
   .. math::
 
@@ -80,12 +80,12 @@ Anmerkung 5 (Cap. XIV, S. 204): Mathematischer Nachweis des fünften Effects (Eu
 
 **Zugehörige Kapitel**: :ref:`Cap. 14 <compendio-cap_14-en>`
 
-In allgemeiner Form unter der früheren Voraussetzung ($cd^2 = bc \cdot bd$):
+In allgemeiner Form unter der früheren Voraussetzung (:math:`cd^2 = bc \cdot bd`):
 
-- **Behauptung**: $bd^2 + bc^2 = 3\,cd^2$.
+- **Behauptung**: :math:`bd^2 + bc^2 = 3\,cd^2`.
 - **Beweis**:
-  a) $bc^2 = bc \cdot cd + cd^2$ (nach Anm. 4).
-  b) $bd^2 = (bc - cd)^2 = bc^2 - 2\,bc \cdot cd + cd^2$.
+  a) :math:`bc^2 = bc \cdot cd + cd^2` (nach Anm. 4).
+  b) :math:`bd^2 = (bc - cd)^2 = bc^2 - 2\,bc \cdot cd + cd^2`.
   Durch Addition von a) und b) erhält man:
 
   .. math::
@@ -108,13 +108,13 @@ Anmerkung 7 (Cap. XVIII, S. 206): Neunter Effect — Diagonalen des regulären F
 
 **Zugehörige Kapitel**: :ref:`Cap. 18 <compendio-cap_18-en>`
 
-Der Beweis folgt aus der Aehnlichkeit der gleichschenkligen Dreiecke $\triangle bca$ und $\triangle baf$, wonach sich unmittelbar ergibt:
+Der Beweis folgt aus der Aehnlichkeit der gleichschenkligen Dreiecke :math:`\triangle bca` und :math:`\triangle baf`, wonach sich unmittelbar ergibt:
 
 .. math::
 
    \frac{ca}{ba} = \frac{ba}{af}, \quad \text{d. h.} \quad ba^2 = ca \cdot af,
 
-oder, da $ba = bc = cf$ ist: $cf^2 = ca \cdot af$.
+oder, da :math:`ba = bc = cf` ist: :math:`cf^2 = ca \cdot af`.
 
 .. _winterberg-note-8-de:
 
@@ -123,28 +123,28 @@ Anmerkung 8 (Cap. XXI, S. 209): Zwölfter Effect — Verhältniss der Seite des 
 
 **Zugehörige Kapitel**: :ref:`Cap. 21 <compendio-cap_21-en>`
 
-Bezeichnet man mit $s, s'$ resp. die Seiten des Kubus und des regulären :term:`Ikosaeders <icosahedron>`, so wird, wenn die Linie $ab$ in $c$ stetig getheilt ist ($ac > bc$), behauptet:
+Bezeichnet man mit :math:`s, s'` resp. die Seiten des Kubus und des regulären :term:`Ikosaeders <icosahedron>`, so wird, wenn die Linie :math:`ab` in :math:`c` stetig getheilt ist (:math:`ac > bc`), behauptet:
 
 .. math::
 
    \sqrt{\frac{ab^2 + ac^2}{ab^2 + bc^2}} = \frac{s}{s'}.
 
 **Beweis**: Der Ausdruck unter dem Wurzelzeichen links lässt sich vereinfachen, indem zufolge Voraussetzung:
-a) $ac^2 = ab \cdot bc$,
-b) $bc^2 = (ab - ac)^2$.
+a) :math:`ac^2 = ab \cdot bc`,
+b) :math:`bc^2 = (ab - ac)^2`.
 Durch Einsetzen dieser Ausdrücke und Ausführung der Quadratur des letzteren erhält man:
 
 .. math::
 
    \frac{ab^2 + ac^2}{ab^2 + bc^2} = \frac{ab(ab + bc)}{3\,ab \cdot bc} = \frac{ab + bc}{3\,bc}.
 
-Aus der Gleichung a), nachdem darin $ac = ab - bc$ gesetzt, erhält man $bc^2 - 3\,ab \cdot bc + ab^2 = 0$, und durch Einsetzen in den vorstehenden Quotienten:
+Aus der Gleichung a), nachdem darin :math:`ac = ab - bc` gesetzt, erhält man :math:`bc^2 - 3\,ab \cdot bc + ab^2 = 0`, und durch Einsetzen in den vorstehenden Quotienten:
 
 .. math::
 
    \sqrt{\frac{ab^2 + ac^2}{ab^2 + bc^2}} = \sqrt{\frac{ab + bc}{3\,bc}} = \sqrt{\frac{5 + \sqrt{5}}{6}}.
 
-Derselbe Werth ergibt sich aber auch, wenn man das Verhältniss $\frac{s}{s'}$ durch den Radius $r$ der umschriebenen Kugel ausgedrückt berechnet, indem bekanntlich ist:
+Derselbe Werth ergibt sich aber auch, wenn man das Verhältniss :math:`\frac{s}{s'}` durch den Radius :math:`r` der umschriebenen Kugel ausgedrückt berechnet, indem bekanntlich ist:
 
 .. math::
 
@@ -166,7 +166,7 @@ Anmerkung 10 (Cap. XXVI, S. 216): Theilung des Kugeldurchmessers beim regulären
 
 **Zugehörige Kapitel**: :ref:`Cap. 26 <compendio-cap_26-en>`
 
-Bekanntlich verhalten sich in jedem regulären :term:`Tetraeder <tetrahedron>` die Abschnitte der Höhen, welche sich im Centrum der umschriebenen Kugel vom Radius $r$ schneiden, zu einander wie $1 : 3$. Bezeichnet man nun den kleinern Abschnitt mit $x$ und denkt sich ferner eine der Höhen über die Grundfläche hinaus bis zum Durchschnitt mit der Kugel verlängert, so ergibt sich das Verhältniss dieser Verlängerung $bc$ zu der Höhe $ac$ des :term:`Tetraeders <tetrahedron>`:
+Bekanntlich verhalten sich in jedem regulären :term:`Tetraeder <tetrahedron>` die Abschnitte der Höhen, welche sich im Centrum der umschriebenen Kugel vom Radius :math:`r` schneiden, zu einander wie :math:`1 : 3`. Bezeichnet man nun den kleinern Abschnitt mit :math:`x` und denkt sich ferner eine der Höhen über die Grundfläche hinaus bis zum Durchschnitt mit der Kugel verlängert, so ergibt sich das Verhältniss dieser Verlängerung :math:`bc` zu der Höhe :math:`ac` des :term:`Tetraeders <tetrahedron>`:
 
 .. math::
 
@@ -181,13 +181,13 @@ Anmerkung 11 (Cap. XXVII, S. 217): Theilung des Kugeldurchmessers beim Kubus (Eu
 
 **Zugehörige Kapitel**: :ref:`Cap. 27 <compendio-cap_27-en>`
 
-Bekanntlich ist das Quadrat der :term:`Diagonale <diagonale>` eines Quadrats doppelt so gross als das Quadrat der Seite. Denkt man sich nun durch eine der drei Hauptaxen $ab$ des Kubus und eine Kante $bd$ eine Ebene gelegt, so schneidet sie die umschriebene Kugel in einem Kreise, dessen Durchmesser jene Axe $ab$ ist, während die zwei von ihren Endpunkten ausgehenden Sehnen die Seite $bd$ und Flächendiagonale $ad$ des Quadrats sind. Daher hat man nach bekannten Sätzen:
+Bekanntlich ist das Quadrat der :term:`Diagonale <diagonale>` eines Quadrats doppelt so gross als das Quadrat der Seite. Denkt man sich nun durch eine der drei Hauptaxen :math:`ab` des Kubus und eine Kante :math:`bd` eine Ebene gelegt, so schneidet sie die umschriebene Kugel in einem Kreise, dessen Durchmesser jene Axe :math:`ab` ist, während die zwei von ihren Endpunkten ausgehenden Sehnen die Seite :math:`bd` und Flächendiagonale :math:`ad` des Quadrats sind. Daher hat man nach bekannten Sätzen:
 
 .. math::
 
    bd^2 = bc \cdot ab \quad \text{und} \quad ad^2 = ac \cdot ab.
 
-Somit, da $ad^2 = 2\,bd^2$ ist, erhält man durch Division vorstehender Gleichungen:
+Somit, da :math:`ad^2 = 2\,bd^2` ist, erhält man durch Division vorstehender Gleichungen:
 
 .. math::
 
@@ -200,25 +200,25 @@ Anmerkung 12 (Cap. XXIX, S. 220): Construction des regulären Ikosaeders in der 
 
 **Zugehörige Kapitel**: :ref:`Cap. 29 <compendio-cap_29-en>`
 
-Bekanntlich ist die Seite $a$ des regulären :term:`Ikosaeders <icosahedron>`, durch den Halbmesser $r$ der umschriebenen Kugel ausgedrückt:
+Bekanntlich ist die Seite :math:`a` des regulären :term:`Ikosaeders <icosahedron>`, durch den Halbmesser :math:`r` der umschriebenen Kugel ausgedrückt:
 
 .. math::
 
    a = \frac{4r}{\sqrt{10 + 2\sqrt{5}}}.
 
-Denkt man sich nun durch die Axe $ab = 2r$ und eine Kante $ad$ des :term:`Ikosaeders <icosahedron>` eine Ebene gelegt, welche zugleich die Kugel im Halbkreise $adb$ schneidet, so ist nach bekannten Sätzen:
+Denkt man sich nun durch die Axe :math:`ab = 2r` und eine Kante :math:`ad` des :term:`Ikosaeders <icosahedron>` eine Ebene gelegt, welche zugleich die Kugel im Halbkreise :math:`adb` schneidet, so ist nach bekannten Sätzen:
 
 .. math::
 
    ac = \frac{ad^2}{ab} = \frac{a^2}{2r} = r\left(1 - \frac{1}{\sqrt{5}}\right),
 
-woraus hervorgeht, dass $cm = r - ac = \frac{r}{\sqrt{5}}$, somit das Doppelte $cc' = \frac{2r}{\sqrt{5}} = \frac{d}{\sqrt{5}}$, wenn der Kugeldurchmesser mit $d = 2r$ bezeichnet wird. Nun ist dem Text zufolge $\frac{bd}{d} = \frac{1}{\sqrt{5}}$, sonach $bd = cc'$, d. h. gleich der Länge der im Text als Katheten bezeichneten Höhen, welche man in den Ecken der Fünfecke zu errichten hat. Der Radius $r'$ des diesen Fünfecken umschriebenen Kreises ist aber, wenn $a$ zugleich Fünfecksseite sein soll:
+woraus hervorgeht, dass :math:`cm = r - ac = \frac{r}{\sqrt{5}}`, somit das Doppelte :math:`cc' = \frac{2r}{\sqrt{5}} = \frac{d}{\sqrt{5}}`, wenn der Kugeldurchmesser mit :math:`d = 2r` bezeichnet wird. Nun ist dem Text zufolge :math:`\frac{bd}{d} = \frac{1}{\sqrt{5}}`, sonach :math:`bd = cc'`, d. h. gleich der Länge der im Text als Katheten bezeichneten Höhen, welche man in den Ecken der Fünfecke zu errichten hat. Der Radius :math:`r'` des diesen Fünfecken umschriebenen Kreises ist aber, wenn :math:`a` zugleich Fünfecksseite sein soll:
 
 .. math::
 
    r' = a\sqrt{\frac{5 + \sqrt{5}}{10}} = \frac{d}{\sqrt{5}} = bd,
 
-d. h. es muss $r'$ genau gleich der Linie $bd$ des Textes und zugleich gleich den als Katheten bezeichneten Höhen sein, wie solches der dort angegebenen Construction zufolge auch wirklich der Fall ist.
+d. h. es muss :math:`r'` genau gleich der Linie :math:`bd` des Textes und zugleich gleich den als Katheten bezeichneten Höhen sein, wie solches der dort angegebenen Construction zufolge auch wirklich der Fall ist.
 
 .. _winterberg-note-13-de:
 
@@ -227,13 +227,13 @@ Anmerkung 13 (Cap. XXX, S. 224): Nachweis der Diagonalengleichung beim Dodekaede
 
 **Zugehörige Kapitel**: :ref:`Cap. 30 <compendio-cap_30-en>`
 
-Dies ergibt sich unter Beibehaltung der Figur des Textes folgendermassen: Es ist der Construction zufolge (da $an = 2\,kl$ als Kante des Würfels gleich $hn$ u. s. w. ist):
+Dies ergibt sich unter Beibehaltung der Figur des Textes folgendermassen: Es ist der Construction zufolge (da :math:`an = 2\,kl` als Kante des Würfels gleich :math:`hn` u. s. w. ist):
 
 .. math::
 
    ln^2 = an^2 - ke^2 - le^2 = 4\,kl^2 - ke^2 - le^2.
 
-Da $kl^2 = ke \cdot le$ ist, kann man diese Gleichung auch schreiben:
+Da :math:`kl^2 = ke \cdot le` ist, kann man diese Gleichung auch schreiben:
 
 .. math::
 
@@ -241,12 +241,12 @@ Da $kl^2 = ke \cdot le$ ist, kann man diese Gleichung auch schreiben:
 
 .. _winterberg-note-14-de:
 
-Anmerkung 14 (Cap. XXX, S. 225): Geometrischer Beweis der Relation $el^2 + ke^2 = 3\,kl^2$
-------------------------------------------------------------------------------------------
+Anmerkung 14 (Cap. XXX, S. 225): Geometrischer Beweis der Relation :math:`el^2 + ke^2 = 3\,kl^2`
+------------------------------------------------------------------------------------------------
 
 **Zugehörige Kapitel**: :ref:`Cap. 30 <compendio-cap_30-en>`
 
-Dies ergibt sich am einfachsten, wenn man sich über $ek$ als Durchmesser einen Halbkreis denkt und im Punkte $l$ eine Senkrechte bis zum Durchschnitt $m$ mit ihm, sowie die Sehnen $em, km$ zieht. Dann ist nach Voraussetzung $kl^2 = ke \cdot el$, und ferner nach bekannten Sätzen:
+Dies ergibt sich am einfachsten, wenn man sich über :math:`ek` als Durchmesser einen Halbkreis denkt und im Punkte :math:`l` eine Senkrechte bis zum Durchschnitt :math:`m` mit ihm, sowie die Sehnen :math:`em, km` zieht. Dann ist nach Voraussetzung :math:`kl^2 = ke \cdot el`, und ferner nach bekannten Sätzen:
 
 .. math::
 
@@ -258,7 +258,7 @@ also addirt:
 
    el^2 + ke^2 = 2\,em^2 + mk^2 - ml^2 = 2\,em^2 + lk^2.
 
-Da ferner $em^2 = el \cdot ek = lk^2$, so folgt: $el^2 + ke^2 = 3\,em^2 = 3\,kl^2$. w. z. b. w.
+Da ferner :math:`em^2 = el \cdot ek = lk^2`, so folgt: :math:`el^2 + ke^2 = 3\,em^2 = 3\,kl^2`. w. z. b. w.
 
 .. _winterberg-note-15-de:
 
@@ -284,9 +284,9 @@ Die auf diese Art erhaltenen sternförmigen Körper sind ebenfalls in eine Kugel
 
 Die fünf einfachen regulären Körper verhalten sich hinsichtlich der Anzahl ihrer Ecken, Kanten und Seitenflächen zwei und zwei **reciprok** zu einander:
 
-- Das :term:`**Tetraeder** <tetrahedron>` entspricht nur sich selbst ($6$ Kanten, $4$ Ecken, $4$ Seitenflächen).
-- Der **Kubus** ($12$ Kanten, $8$ Ecken, $6$ Flächen) entspricht dem :term:`**Oktaeder** <octahedron>` ($12$ Kanten, $6$ Ecken, $8$ Flächen) und umgekehrt.
-- Dem :term:`**Ikosaeder** <icosahedron>` ($30$ Kanten, $12$ Ecken, $20$ Seitenflächen) entspricht das :term:`**Dodekaeder** <dodecahedron>` ($30$ Kanten, $20$ Ecken, $12$ Flächen) und umgekehrt.
+- Das :term:`**Tetraeder** <tetrahedron>` entspricht nur sich selbst (:math:`6` Kanten, :math:`4` Ecken, :math:`4` Seitenflächen).
+- Der **Kubus** (:math:`12` Kanten, :math:`8` Ecken, :math:`6` Flächen) entspricht dem :term:`**Oktaeder** <octahedron>` (:math:`12` Kanten, :math:`6` Ecken, :math:`8` Flächen) und umgekehrt.
+- Dem :term:`**Ikosaeder** <icosahedron>` (:math:`30` Kanten, :math:`12` Ecken, :math:`20` Seitenflächen) entspricht das :term:`**Dodekaeder** <dodecahedron>` (:math:`30` Kanten, :math:`20` Ecken, :math:`12` Flächen) und umgekehrt.
 
 Aus einem derselben ergibt sich der :term:`reciproke Körper <reciproke-koerper>` auf zweierlei Art:
 
@@ -312,11 +312,11 @@ Von irgend einem Körper kann man stets die Ecken und Grenzflächen auf zweierle
 
 Die einfachste Art, eine wechselseitige reciproke Beziehung herzustellen, ist die **polare Beziehung mittelst einer concentrischen Kugel**. Unter dem **Pol** einer Ebene bezüglich einer Kugel versteht man die Spitze des Tangentenkegels, dessen Basis der von jener Ebene aus der Kugel ausgeschnittene Kreis ist, wie umgekehrt diese Ebene die **Polarebene** jenes Punktes genannt wird. Bestimmt man auf diese Weise von irgend einem der regelmässigen Körper seinen polaren Körper mittelst einer concentrischen Kugel, so ergibt sich für jeden Körper der reciproke als polare Figur.
 
-Denkt man sich die Kugel vom Radius $R$ allmählich wachsend:
+Denkt man sich die Kugel vom Radius :math:`R` allmählich wachsend:
 
-1. **Erster Grenzfall ($R = \rho$)**: Berührt die Kugel den ursprünglich gegebenen Körper von innen, so fallen die Pole seiner Tangentialebenen in die Berührungspunkte (Flächenmitten), deren Verbindung den polaren Körper liefert, der somit dem ursprünglichen genau **einbeschrieben** ist.
-2. **Gegenseitige Durchdringung bei gemeinsamer Um- und Inkugel ($R = \sqrt{r\rho}$)**: Beide Körper werden von derselben Kugel vom Radius $r$ umschlossen und umhüllen dieselbe Kugel vom Radius $\rho$.
-3. **Zweiter Grenzfall ($R = r$)**: Umhüllt die Kugel den ursprünglichen Körper genau, so vertauschen beide Körper ihre Stellen, und der ursprüngliche ist dem polaren genau **einbeschrieben**.
+1. **Erster Grenzfall** (:math:`R = \rho`): Berührt die Kugel den ursprünglich gegebenen Körper von innen, so fallen die Pole seiner Tangentialebenen in die Berührungspunkte (Flächenmitten), deren Verbindung den polaren Körper liefert, der somit dem ursprünglichen genau **einbeschrieben** ist.
+2. **Gegenseitige Durchdringung bei gemeinsamer Um- und Inkugel** (:math:`R = \sqrt{r\rho}`): Beide Körper werden von derselben Kugel vom Radius :math:`r` umschlossen und umhüllen dieselbe Kugel vom Radius :math:`\rho`.
+3. **Zweiter Grenzfall** (:math:`R = r`): Umhüllt die Kugel den ursprünglichen Körper genau, so vertauschen beide Körper ihre Stellen, und der ursprüngliche ist dem polaren genau **einbeschrieben**.
 
 2. Schema aller 21 möglichen Fälle gegenseitiger Einbeschreibung
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -398,7 +398,7 @@ Die sämmtlichen überhaupt möglichen **20 oder genauer 21 Fälle** dieser Art 
 
 - **Zweite Gruppe (7–14)**:
 
-  - **7 $\leftrightarrow$ 8** und **9 $\leftrightarrow$ 10** ergeben sich unmittelbar.
+  - **7** :math:`\leftrightarrow` **8** und **9** :math:`\leftrightarrow` **10** ergeben sich unmittelbar.
   - Um aus **11** den Fall **12 (Dodekaeder im Tetraeder)** abzuleiten, vergegenwärtigt man sich den Fall **3** des dem :term:`Dodekaeder <dodecahedron>` eingeschriebenen :term:`Tetraeders <tetrahedron>` und legt durch die gemeinsamen vier Eckpunkte beider Körper Tangentialebenen, deren Gesammtheit das dem :term:`Dodekaeder <dodecahedron>` umschriebene :term:`Tetraeder <tetrahedron>` bildet.
   - Analog ergibt sich **14 (Dodekaeder im Oktaeder)** aus **13**, wobei die Mitten der acht Oktaederflächen diejenigen acht Ecken des :term:`Dodekaeders <dodecahedron>` enthalten, welche verbunden den eingeschriebenen Kubus bilden würden.
 
