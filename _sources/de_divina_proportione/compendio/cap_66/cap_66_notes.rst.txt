@@ -17,7 +17,7 @@ Historical & Mathematical Commentary
 Constantin Winterberg's Commentary (1889 Edition)
 -------------------------------------------------
 
-- :person:`Winterberg <winterberg>` Footnotes 1–2 (Cap. LXVI, p. 263): (1) That is, according to the numerical value of its volume (*dem Zahlenwerthe ihres Inhalts nach*), since $\pi$ is irrational, even though geometrically the cone is exactly $\frac{1}{3}$ of the cylinder (:cite:`Euclid XII.10 <euclid:elements:XII.10>`). (2) Namely, given numerical data (*scil. Daten*).
+- :person:`Winterberg <winterberg>` Footnotes 1–2 (Cap. LXVI, p. 263): (1) That is, according to the numerical value of its volume (*dem Zahlenwerthe ihres Inhalts nach*), since :math:`\pi` is irrational, even though geometrically the cone is exactly :math:`\frac{1}{3}` of the cylinder (:cite:`Euclid XII.10 <euclid:elements:XII.10>`). (2) Namely, given numerical data (*scil. Daten*).
   (:person:`Winterberg <winterberg>` Fussnoten 1–2 (Cap. LXVI, S. 263): *1) d. i. dem Zahlenwerthe ihres Inhalts nach. 2) scil. Daten.*)
 
 

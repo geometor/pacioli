@@ -40,7 +40,7 @@ Magnanimous Duke: as is clearly made manifest to everyone by the ancient and mod
 
 .. enunciation::
 
-   **Quantity** (*quantità*), Magnanimous Duke, is immediately twofold—namely **continuous** (*continua*) and **discrete** (*discreta*). Continuous quantity is that whose parts are joined at a certain common boundary, such as wood, iron, stone, line, surface, and body (divisible without end). Discrete or divided quantity is that whose parts are not joined at a common boundary, such as $1, 2, 3, \dots$ proceeding from the indivisible unit—establishing the fourfold mathematical *Quadrivium* of Arithmetic, Music, Geometry, and Astronomy (:cite:`Boethius, *De Institutione Arithmetica* I.1 <boethius:de-institutione-arithmetica>`).
+   **Quantity** (*quantità*), Magnanimous Duke, is immediately twofold—namely **continuous** (*continua*) and **discrete** (*discreta*). Continuous quantity is that whose parts are joined at a certain common boundary, such as wood, iron, stone, line, surface, and body (divisible without end). Discrete or divided quantity is that whose parts are not joined at a common boundary, such as :math:`1, 2, 3, \dots` proceeding from the indivisible unit—establishing the fourfold mathematical *Quadrivium* of Arithmetic, Music, Geometry, and Astronomy (:cite:`Boethius, *De Institutione Arithmetica* I.1 <boethius:de-institutione-arithmetica>`).
 
 From :person:`Euclid <euclid>`, :person:`Severinus Boethius <boethius>`, :person:`Leonardo Pisano <leonardo-pisano>`, :person:`Jordanus Nemorarius <jordanus-nemorarius>`, :person:`Biagio Pelacani of Parma <biagio-pelacani>`, :person:`Johannes de Sacrobosco <sacrobosco>`, and :person:`Prosdocimo de' Beldomandi <prosdocimo-de-beldomandi>` we have drawn the greater part of this work: **and wherever in the said work no author is set down, understand that passage to be from Leonardo Pisano.**
 
@@ -51,25 +51,31 @@ From :person:`Euclid <euclid>`, :person:`Severinus Boethius <boethius>`, :person
 .. picture:: fig_01_figurate_perfect.svg
    :alt: Triangular tetractys T4 = 10 and Euclid IX.36 dyadic perfect-number rectangle 4 x 7 = 28
 
-Following :person:`Boethius <boethius>` and :person:`Euclid <euclid>` (:just:`VII.def.22`, :just:`IX.36`), we consider numbers both geometrically as **figurate polygonal numbers**—such as the fourth triangular number (*tetractys*) $T_4 = 1 + 2 + 3 + 4 = 10$ bounded by the equilateral array :g:`ABC <summa.I.1.figurate:< A B C >>` where :g:`AB <summa.I.1.figurate:/ A B />` is :eq:`equal <summa.I.1.figurate:/ A B / = summa.I.1.figurate:/ B C / = summa.I.1.figurate:/ C A />` to :g:`BC <summa.I.1.figurate:/ B C />` and :g:`CA <summa.I.1.figurate:/ C A />`—and by their aliquot parts into **abundant** (*superflui*), **deficient** (*diminuti*), and **perfect** (:term:`numeri perfetti <numero-perfetto>`).
+Following :person:`Boethius <boethius>` and :person:`Euclid <euclid>` (:just:`VII.def.22`, :just:`IX.36`), we consider numbers both geometrically as **figurate polygonal numbers**—such as the fourth triangular number (*tetractys*) :math:`T_4 = 1 + 2 + 3 + 4 = 10` bounded by the equilateral array :g:`ABC <summa.I.1.figurate:< A B C >>` where :g:`AB <summa.I.1.figurate:/ A B />` is :eq:`equal <summa.I.1.figurate:/ A B / = summa.I.1.figurate:/ B C / = summa.I.1.figurate:/ C A />` to :g:`BC <summa.I.1.figurate:/ B C />` and :g:`CA <summa.I.1.figurate:/ C A />`—and by their aliquot parts into **abundant** (*superflui*), **deficient** (*diminuti*), and **perfect** (:term:`numeri perfetti <numero-perfetto>`).
 
-A **perfect number** is one that is precisely equal to all its aliquot parts added together: such is $6$, whose parts are $1, 2, 3$, making exactly $6$; the second is $28$, made of $1, 2, 4, 7, 14$; the third is $496$; the fourth is $8128$.
+A **perfect number** is one that is precisely equal to all its aliquot parts added together: such is :math:`6`, whose parts are :math:`1, 2, 3`, making exactly :math:`6`; the second is :math:`28`, made of :math:`1, 2, 4, 7, 14`; the third is :math:`496`; the fourth is :math:`8128`.
 
 .. assertion:: [Euclid IX.36] <IX.36>
 
    All perfect numbers arise in the order given by :person:`Euclid <euclid>` in the final proposition of Book IX (:just:`IX.36`), setting out continuous double numbers beginning from the unit:
 
-   $$1, \; 2, \; 4, \; 8, \; 16, \; \dots, \; 2^{n-1}$$
+   .. math::
 
-   Whenever their sum $S_n = 1 + 2 + 4 + \dots + 2^{n-1} = 2^n - 1$ makes a **prime incomposite number** (*numero primo incomposto*), multiplying that sum by the last summed term $2^{n-1}$ always produces a :term:`perfect number <numero-perfetto>`:
+      1, \; 2, \; 4, \; 8, \; 16, \; \dots, \; 2^{n-1}
 
-   $$P_n = 2^{n-1}(2^n - 1)$$
+   Whenever their sum :math:`S_n = 1 + 2 + 4 + \dots + 2^{n-1} = 2^n - 1` makes a **prime incomposite number** (*numero primo incomposto*), multiplying that sum by the last summed term :math:`2^{n-1}` always produces a :term:`perfect number <numero-perfetto>`:
 
-   In the dyadic rectangle :g:`DEFG <summa.I.1.figurate:< D E F G >>` for $n = 3$, the base :g:`DE <summa.I.1.figurate:/ D E />` has length $1 + 2 + 4 = 7$ (prime) and the altitude :g:`GD <summa.I.1.figurate:/ G D />` has length $2^2 = 4$ (:eq:`equal <summa.I.1.figurate:/ G D / = summa.I.1.figurate:/ E F />` to :g:`EF <summa.I.1.figurate:/ E F />`), beginning from the unit strip :g:`DHKG <summa.I.1.figurate:< D H K G >>` of area $1 \cdot 4 = 4$. Their product $7 \times 4 = 28$ equals the exact sum of its proper aliquot divisors:
+   .. math::
 
-   $$1 + 2 + 4 + 7 + 14 = 28$$
+      P_n = 2^{n-1}(2^n - 1)
 
-Take care not to be deceived, as many are who suppose that every odd place yields a prime: for whenever the sum is composite (such as $1 + 2 + \dots + 256 = 511 = 7 \times 73$ or $2047 = 23 \times 89$), it does not hold, and must be passed over; and their ending always terminates alternately in **$6$** or in **$8$**.
+   In the dyadic rectangle :g:`DEFG <summa.I.1.figurate:< D E F G >>` for :math:`n = 3`, the base :g:`DE <summa.I.1.figurate:/ D E />` has length :math:`1 + 2 + 4 = 7` (prime) and the altitude :g:`GD <summa.I.1.figurate:/ G D />` has length :math:`2^2 = 4` (:eq:`equal <summa.I.1.figurate:/ G D / = summa.I.1.figurate:/ E F />` to :g:`EF <summa.I.1.figurate:/ E F />`), beginning from the unit strip :g:`DHKG <summa.I.1.figurate:< D H K G >>` of area :math:`1 \cdot 4 = 4`. Their product :math:`7 \times 4 = 28` equals the exact sum of its proper aliquot divisors:
+
+   .. math::
+
+      1 + 2 + 4 + 7 + 14 = 28
+
+Take care not to be deceived, as many are who suppose that every odd place yields a prime: for whenever the sum is composite (such as :math:`1 + 2 + \dots + 256 = 511 = 7 \times 73` or :math:`2047 = 23 \times 89`), it does not hold, and must be passed over; and their ending always terminates alternately in :math:`6` or in :math:`8`.
 
 .. qed::
 

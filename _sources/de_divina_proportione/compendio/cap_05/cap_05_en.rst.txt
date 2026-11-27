@@ -21,7 +21,7 @@ It seems to me, Most Exalted Duke, that the fitting title of our treatise ought 
 
 .. subclause:: Second Correspondence: The Holy Trinity
 
-   The **second correspondence** is that of the **Holy Trinity**: namely, just as *in divinis* one and the same substance resides among three Persons—Father, Son, and Holy Spirit—so one and the same proportion of this kind must always be found among **three terms** [the whole $a+b$, the major part $a$, and the minor part $b$, where $(a+b) : a = a : b$], and can never be found in either more or fewer, as will be explained.
+   The **second correspondence** is that of the **Holy Trinity**: namely, just as *in divinis* one and the same substance resides among three Persons—Father, Son, and Holy Spirit—so one and the same proportion of this kind must always be found among **three terms** [the whole :math:`a+b`, the major part :math:`a`, and the minor part :math:`b`, where :math:`(a+b) : a = a : b`], and can never be found in either more or fewer, as will be explained.
 
 .. subclause:: Third Correspondence: Ineffability and Irrationality
 

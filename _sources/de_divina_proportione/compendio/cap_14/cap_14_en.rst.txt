@@ -17,33 +17,43 @@ Chapter XIV: On Its Fifth Marvelous Effect
 
    If a quantity be divided according to our said proportion, the **sum of the square of the lesser part and the square of the entire undivided quantity** will always be **triple** the **square of the greater part** (:just:`XIII.4` [:cite:`Campanus XIII.5 <campanus:euclid:XIII.5>`]):
 
-   $$b^2 + (a + b)^2 = 3a^2$$
+   .. math::
+
+      b^2 + (a + b)^2 = 3a^2
 
 .. rubric:: Numerical Demonstration
 
 .. assertion::
 
-   For example, let $10$ be the divided quantity, where, as we have said, one part is $15 - \sqrt{125}$ (namely the lesser, $b$) and the other is $\sqrt{125} - 5$ (namely the greater, $a$).
+   For example, let :math:`10` be the divided quantity, where, as we have said, one part is :math:`15 - \sqrt{125}` (namely the lesser, :math:`b`) and the other is :math:`\sqrt{125} - 5` (namely the greater, :math:`a`).
 
-   I say that when the square of $15 - \sqrt{125}$ is added to the square of $10$ (the whole quantity), their sum will be **triple**—that is, three times as great as—the square of the greater part, namely of $\sqrt{125} - 5$:
+   I say that when the square of :math:`15 - \sqrt{125}` is added to the square of :math:`10` (the whole quantity), their sum will be **triple**—that is, three times as great as—the square of the greater part, namely of :math:`\sqrt{125} - 5`:
 
-   1. The square of the lesser part ($15 - \sqrt{125}$) is:
+   1. The square of the lesser part (:math:`15 - \sqrt{125}`) is:
 
-      $$b^2 = (15 - \sqrt{125})^2 = 225 + 125 - 30\sqrt{125} = 350 - \sqrt{112500}$$
+      .. math::
 
-   2. The square of the whole quantity ($10$) is $100$, which, added to $350 - \sqrt{112500}$, makes:
+         b^2 = (15 - \sqrt{125})^2 = 225 + 125 - 30\sqrt{125} = 350 - \sqrt{112500}
 
-      $$b^2 + (a + b)^2 = 450 - \sqrt{112500}$$
+   2. The square of the whole quantity (:math:`10`) is :math:`100`, which, added to :math:`350 - \sqrt{112500}`, makes:
+
+      .. math::
+
+         b^2 + (a + b)^2 = 450 - \sqrt{112500}
 
       for the said sum.
 
-   3. Meanwhile, the square of the greater part ($\sqrt{125} - 5$) is:
+   3. Meanwhile, the square of the greater part (:math:`\sqrt{125} - 5`) is:
 
-      $$a^2 = (\sqrt{125} - 5)^2 = 150 - \sqrt{12500}$$
+      .. math::
 
-      which is manifestly one-third ($\frac{1}{3}$) of the said sum! For when $150 - \sqrt{12500}$ is multiplied by $3$, it makes:
+         a^2 = (\sqrt{125} - 5)^2 = 150 - \sqrt{12500}
 
-      $$3a^2 = 3 \times 150 - \sqrt{9 \times 12500} = 450 - \sqrt{112500}$$
+      which is manifestly one-third (:math:`\frac{1}{3}`) of the said sum! For when :math:`150 - \sqrt{12500}` is multiplied by :math:`3`, it makes:
+
+      .. math::
+
+         3a^2 = 3 \times 150 - \sqrt{9 \times 12500} = 450 - \sqrt{112500}
 
 .. qed::
 

@@ -26,29 +26,29 @@ Constantin Winterberg's Commentary (1889 Edition)
 
 .. rubric:: Note 13 (Cap. XXX): Verification of the Pentagon Diagonal in the Dodecahedron Construction (Euclid XIII.17) (:ref:`Sachliche Anmerkungen #13 <plates-anmerkungen-en>`, Cap. XXX, p. 224, l. 4 from bottom)
 
-Retaining the lettering of the figure in Chapter XXX (where $ke$ is half the cube edge, divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $l$ with $kl > le$, and $an = hn = 2\,kl$ is the cube edge): by the three-dimensional Pythagorean projection,
+Retaining the lettering of the figure in Chapter XXX (where :math:`ke` is half the cube edge, divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at :math:`l` with :math:`kl > le`, and :math:`an = hn = 2\,kl` is the cube edge): by the three-dimensional Pythagorean projection,
 
 .. math::
 
    ln^2 = an^2 - ke^2 - le^2 = 4\,kl^2 - ke^2 - le^2.
 
-Since $kl^2 = ke \cdot le$, we can rewrite this as:
+Since :math:`kl^2 = ke \cdot le`, we can rewrite this as:
 
 .. math::
 
    ln^2 = 2\,kl^2 + 2\,ke \cdot le - ke^2 - le^2 = 2\,kl^2 - (ke - le)^2 = 2\,kl^2 - kl^2 = kl^2,
 
-whence $ln = kl$, proving that the five vertices lie at equal radii and form an equilateral and equiangular pentagon (:cite:`Euclid XIII.17 <euclid:elements:XIII.17>`).
+whence :math:`ln = kl`, proving that the five vertices lie at equal radii and form an equilateral and equiangular pentagon (:cite:`Euclid XIII.17 <euclid:elements:XIII.17>`).
 
 .. rubric:: Anmerkung 13 (Cap. XXX, S. 224): Nachweis der Diagonalengleichung beim Dodekaeder (Euklid XIII.17)
 
-Dies ergibt sich unter Beibehaltung der Figur des Textes folgendermassen: Es ist der Construction zufolge (da $an = 2\,kl$ als Kante des Würfels gleich $hn$ u. s. w. ist):
+Dies ergibt sich unter Beibehaltung der Figur des Textes folgendermassen: Es ist der Construction zufolge (da :math:`an = 2\,kl` als Kante des Würfels gleich :math:`hn` u. s. w. ist):
 
 .. math::
 
    ln^2 = an^2 - ke^2 - le^2 = 4\,kl^2 - ke^2 - le^2.
 
-Da $kl^2 = ke \cdot le$ ist, kann man diese Gleichung auch schreiben:
+Da :math:`kl^2 = ke \cdot le` ist, kann man diese Gleichung auch schreiben:
 
 .. math::
 
@@ -56,18 +56,18 @@ Da $kl^2 = ke \cdot le$ ist, kann man diese Gleichung auch schreiben:
 
 .. rubric:: Note 14 (Cap. XXX): Semicircle Proof of the Fifth Effect Used in the Dodecahedron Sphere Inscription (:ref:`Sachliche Anmerkungen #14 <plates-anmerkungen-en>`, Cap. XXX, p. 225, l. 5 from top)
 
-This relation ($el^2 + ke^2 = 3\,kl^2$, already proved algebraically in Note 5) is seen most simply geometrically if we describe a semicircle on $ek$ as diameter, erect at $l$ a perpendicular meeting the semicircle at $m$, and draw the chords $em$ and $km$:
+This relation (:math:`el^2 + ke^2 = 3\,kl^2`, already proved algebraically in Note 5) is seen most simply geometrically if we describe a semicircle on :math:`ek` as diameter, erect at :math:`l` a perpendicular meeting the semicircle at :math:`m`, and draw the chords :math:`em` and :math:`km`:
 
-- By hypothesis, $kl^2 = ke \cdot el$, and by the right triangle $emk$ in the semicircle, $em^2 = ke \cdot el$, so $em = kl$.
-- Moreover, $el^2 = em^2 - ml^2$ and $ke^2 = em^2 + mk^2$. Adding both gives:
+- By hypothesis, :math:`kl^2 = ke \cdot el`, and by the right triangle :math:`emk` in the semicircle, :math:`em^2 = ke \cdot el`, so :math:`em = kl`.
+- Moreover, :math:`el^2 = em^2 - ml^2` and :math:`ke^2 = em^2 + mk^2`. Adding both gives:
 
   .. math::
 
      el^2 + ke^2 = 2\,em^2 + (mk^2 - ml^2) = 2\,em^2 + kl^2 = 3\,em^2 = 3\,kl^2. \quad \text{Q.E.D.}
 
-.. rubric:: Anmerkung 14 (Cap. XXX, S. 225): Geometrischer Beweis der Relation $el^2 + ke^2 = 3\,kl^2$
+.. rubric:: Anmerkung 14 (Cap. XXX, S. 225): Geometrischer Beweis der Relation :math:`el^2 + ke^2 = 3\,kl^2`
 
-Dies ergibt sich am einfachsten, wenn man sich über $ek$ als Durchmesser einen Halbkreis denkt und im Punkte $l$ eine Senkrechte bis zum Durchschnitt $m$ mit ihm, sowie die Sehnen $em, km$ zieht. Dann ist nach Voraussetzung $kl^2 = ke \cdot el$, und ferner nach bekannten Sätzen:
+Dies ergibt sich am einfachsten, wenn man sich über :math:`ek` als Durchmesser einen Halbkreis denkt und im Punkte :math:`l` eine Senkrechte bis zum Durchschnitt :math:`m` mit ihm, sowie die Sehnen :math:`em, km` zieht. Dann ist nach Voraussetzung :math:`kl^2 = ke \cdot el`, und ferner nach bekannten Sätzen:
 
 .. math::
 
@@ -79,9 +79,9 @@ also addirt:
 
    el^2 + ke^2 = 2\,em^2 + mk^2 - ml^2 = 2\,em^2 + lk^2.
 
-Da ferner $em^2 = el \cdot ek = lk^2$, so folgt: $el^2 + ke^2 = 3\,em^2 = 3\,kl^2$. w. z. b. w.
+Da ferner :math:`em^2 = el \cdot ek = lk^2`, so folgt: :math:`el^2 + ke^2 = 3\,em^2 = 3\,kl^2`. w. z. b. w.
 
-- :person:`Winterberg <winterberg>` Footnotes 1–4 (Cap. XXX, pp. 222–224): (1) Mathematical abbreviations are introduced occasionally here and in the following chapters for clearer overview. (2) Namely, because of the similarity of the two triangles $ksh$ and $qrh$ following from the proportion, since the sum of the two adjacent angles plus the dihedral angle enclosed by the two cube faces equals $180^\circ$. (3) For brevity, the expression 'continuous division' (*stetige Theilung*) is used for :person:`Pacioli's <pacioli>` 'proportion having a mean and two extremes'. (4) Compare Chapter LXXI.
+- :person:`Winterberg <winterberg>` Footnotes 1–4 (Cap. XXX, pp. 222–224): (1) Mathematical abbreviations are introduced occasionally here and in the following chapters for clearer overview. (2) Namely, because of the similarity of the two triangles :math:`ksh` and :math:`qrh` following from the proportion, since the sum of the two adjacent angles plus the dihedral angle enclosed by the two cube faces equals :math:`180^\circ`. (3) For brevity, the expression 'continuous division' (*stetige Theilung*) is used for :person:`Pacioli's <pacioli>` 'proportion having a mean and two extremes'. (4) Compare Chapter LXXI.
   (:person:`Winterberg <winterberg>` Fussnoten 1–4 (Cap. XXX, S. 222–224): *1) Es sei erlaubt, hier und im Folgenden einige mathematische Abkürzungen der bessern Uebersicht wegen gelegentlich anzubringen. 2) scil. wegen der aus obiger Proportion folgenden Aehnlichkeit der beiden Dreiecke ksh und qrh, da die Summe der beiden anstossenden Winkel plus dem durch die beiden Kubusflächen eingeschlossenen zusammen gleich 180° sind. 3) Der Kürze wegen ist hier und im Folgenden dieser Ausdruck für den gleichbedeutenden: „nach der Proportion, die einen mittlern und zwei äussere Abschnitte hat“ gesetzt worden. 4) cfr. Cap. LXXI.*)
 
 

@@ -18,7 +18,7 @@ Historical & Mathematical Commentary
 Constantin Winterberg's Commentary (1889 Edition)
 -------------------------------------------------
 
-- :person:`Winterberg <winterberg>` Footnotes 1–5 (Cap. XXXI, pp. 225–226): (1) Namely, $bd^2$. (2) That is, its square equals five times the square of the radius of the circle in which the pentagons of the :term:`icosahedron <icosahedron>` were described (compare Chapter XXIX, :cite:`Euclid XIII.16 <euclid:elements:XIII.16>`). (3) Namely, the :term:`icosahedron <icosahedron>`. (4) Namely, of the sphere diameter (:cite:`Euclid VI.8 <euclid:elements:VI.8>` Corollary, :cite:`Euclid XIII.18 <euclid:elements:XIII.18>`). (5) Namely, the regular :term:`tetrahedron <tetrahedron>`.
+- :person:`Winterberg <winterberg>` Footnotes 1–5 (Cap. XXXI, pp. 225–226): (1) Namely, :math:`bd^2`. (2) That is, its square equals five times the square of the radius of the circle in which the pentagons of the :term:`icosahedron <icosahedron>` were described (compare Chapter XXIX, :cite:`Euclid XIII.16 <euclid:elements:XIII.16>`). (3) Namely, the :term:`icosahedron <icosahedron>`. (4) Namely, of the sphere diameter (:cite:`Euclid VI.8 <euclid:elements:VI.8>` Corollary, :cite:`Euclid XIII.18 <euclid:elements:XIII.18>`). (5) Namely, the regular :term:`tetrahedron <tetrahedron>`.
   (:person:`Winterberg <winterberg>` Fussnoten 1–5 (Cap. XXXI, S. 225–226): *1) scil. bd². 2) D. h. sein Quadrat ist gleich dem fünffachen Quadrat des Radius desjenigen Kreises, in welchem die Pentagone beschrieben wurden (cfr. Cap. XXIX). 3) scil. Ikosaeder. 4) scil. vom Kugeldurchmesser. 5) scil. reguläre Tetraeder.*)
 
 

@@ -21,7 +21,7 @@ Chapter XX: On Its Eleventh Most Excellent Effect
 
 .. assertion::
 
-   For example, if the side of the equilateral hexagon be $10$, and it be divided in the manner stated, its **greater part** will be $\sqrt{125} - 5$, which I say is the exact **side of the decagon** inscribed in the very same circle, whose diameter will be $20$ (:just:`IV.15`). And this is concluded by the third proposition of the Fourteenth Book (:cite:`Campanus XIV.3 <campanus:euclid:XIV.3>` / :just:`XIII.9`).
+   For example, if the side of the equilateral hexagon be :math:`10`, and it be divided in the manner stated, its **greater part** will be :math:`\sqrt{125} - 5`, which I say is the exact **side of the decagon** inscribed in the very same circle, whose diameter will be :math:`20` (:just:`IV.15`). And this is concluded by the third proposition of the Fourteenth Book (:cite:`Campanus XIV.3 <campanus:euclid:XIV.3>` / :just:`XIII.9`).
 
 .. qed::
 

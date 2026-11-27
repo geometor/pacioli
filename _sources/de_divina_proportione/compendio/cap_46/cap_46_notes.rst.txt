@@ -49,15 +49,15 @@ The simplest universal mechanism for establishing a mutual reciprocal correspond
 - The **pole** of a plane cutting a sphere is the apex of the tangent cone touching the sphere along the circle of intersection; conversely, that plane is the **polar plane** of the point.
 - Taking a sphere concentric with any regular solid, the polar planes of all its vertices (or equivalently, the poles of all its faces) form its **polar reciprocal regular solid**:
 
-  - **Tetrahedron $\leftrightarrow$ Tetrahedron**
-  - **Cube $\leftrightarrow$ Octahedron**
-  - **Icosahedron $\leftrightarrow$ Dodecahedron**
+  - **Tetrahedron** :math:`\leftrightarrow` **Tetrahedron**
+  - **Cube** :math:`\leftrightarrow` **Octahedron**
+  - **Icosahedron** :math:`\leftrightarrow` **Dodecahedron**
 
-- As the radius $R$ of the reciprocating sphere expands continuously from $0$ to $\infty$:
+- As the radius :math:`R` of the reciprocating sphere expands continuously from :math:`0` to :math:`\infty`:
 
-  1. **First Limit ($R = \rho$, the inradius of the original solid)**: The sphere touches the faces of the original solid from within; the poles of the faces are the **centroids of the faces**, so the reciprocal solid is **inscribed** in the original solid with its vertices at the face-centers.
-  2. **Symmetric Dual Intersection ($R = \sqrt{r\rho}$, the geometric mean of the circumradius $r$ and inradius $\rho$)**: Both reciprocal solids are **inscribed in the same outer sphere of radius $r$ and circumscribed about the same inner sphere of radius $\rho$**!
-  3. **Second Limit ($R = r$, the circumradius of the original solid)**: The sphere passes through the vertices of the original solid; the polar planes are the tangent planes at those vertices, so the original solid is now **inscribed** in its reciprocal solid!
+  1. **First Limit** (:math:`R = \rho`, **the inradius of the original solid**): The sphere touches the faces of the original solid from within; the poles of the faces are the **centroids of the faces**, so the reciprocal solid is **inscribed** in the original solid with its vertices at the face-centers.
+  2. **Symmetric Dual Intersection** (:math:`R = \sqrt{r\rho}`, **the geometric mean of the circumradius** :math:`r` **and inradius** :math:`\rho`): Both reciprocal solids are **inscribed in the same outer sphere of radius** :math:`r` **and circumscribed about the same inner sphere of radius** :math:`\rho`!
+  3. **Second Limit** (:math:`R = r`, **the circumradius of the original solid**): The sphere passes through the vertices of the original solid; the polar planes are the tangent planes at those vertices, so the original solid is now **inscribed** in its reciprocal solid!
 
 2. Complete Classification of All 21 Possible Mutual Inscriptions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -131,19 +131,19 @@ By means of polar reciprocation, all **20 mutual inscriptions between distinct r
 3. Geometric Derivation of the Reciprocal Cases
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **Group I (1 $\leftrightarrow$ 2, 3 $\leftrightarrow$ 4, 5 $\leftrightarrow$ 6)**: Taking the polar reciprocals of two solids sharing common vertices on a circumscribed sphere converts the inner solid into the outer reciprocal solid and the outer solid into the inner reciprocal solid, with **coincident faces** replacing coincident vertices:
+- **Group I (1** :math:`\leftrightarrow` **2, 3** :math:`\leftrightarrow` **4, 5** :math:`\leftrightarrow` **6**): Taking the polar reciprocals of two solids sharing common vertices on a circumscribed sphere converts the inner solid into the outer reciprocal solid and the outer solid into the inner reciprocal solid, with **coincident faces** replacing coincident vertices:
 
   - From **1 (Tetrahedron in Cube)** arises **2 (Octahedron in Tetrahedron)**, where 4 of the 8 faces of the :term:`octahedron <octahedron>` lie in the 4 faces of the :term:`tetrahedron <tetrahedron>` and the 6 vertices of the :term:`octahedron <octahedron>` lie at the 6 edge-midpoints of the :term:`tetrahedron <tetrahedron>`.
   - From **3 (Tetrahedron in Dodecahedron)** arises **4 (Icosahedron in Tetrahedron)**, where 4 faces of the :term:`icosahedron <icosahedron>` lie in the 4 faces of the circumscribing :term:`tetrahedron <tetrahedron>` (obtained by extending the 4 :term:`icosahedron <icosahedron>` faces whose centroids form the inscribed :term:`tetrahedron <tetrahedron>` of Case 11 until they meet!).
   - From **5 (Cube in Dodecahedron)** arises **6 (Icosahedron in Octahedron)**, where 8 faces of the :term:`icosahedron <icosahedron>` lie in the 8 faces of the :term:`octahedron <octahedron>` and all 12 vertices of the :term:`icosahedron <icosahedron>` lie on the 12 edges of the :term:`octahedron <octahedron>` (dividing them in the golden ratio!).
 
-- **Group II (7 $\leftrightarrow$ 8, 9 $\leftrightarrow$ 10, 11 $\leftrightarrow$ 12, 13 $\leftrightarrow$ 14)**:
+- **Group II (7** :math:`\leftrightarrow` **8, 9** :math:`\leftrightarrow` **10, 11** :math:`\leftrightarrow` **12, 13** :math:`\leftrightarrow` **14**):
 
-  - **7 $\leftrightarrow$ 8 (Octahedron $\leftrightarrow$ Cube)** and **9 $\leftrightarrow$ 10 (Icosahedron $\leftrightarrow$ Dodecahedron)** are dual pairs directly.
+  - **7** :math:`\leftrightarrow` **8 (Octahedron** :math:`\leftrightarrow` **Cube**) and **9** :math:`\leftrightarrow` **10 (Icosahedron** :math:`\leftrightarrow` **Dodecahedron**) are dual pairs directly.
   - From **11 (Tetrahedron in Icosahedron)**, reciprocating with respect to the sphere touching the :term:`icosahedron <icosahedron>` and circumscribing the :term:`dodecahedron <dodecahedron>` yields **12 (Dodecahedron in Tetrahedron)**: passing tangent planes through the 4 common vertices of the :term:`dodecahedron <dodecahedron>` and its inscribed :term:`tetrahedron <tetrahedron>` (Case 3) forms the circumscribing :term:`tetrahedron <tetrahedron>` touching 4 vertices of the :term:`dodecahedron <dodecahedron>`.
   - From **13 (Cube in Icosahedron)** arises **14 (Dodecahedron in Octahedron)**, where the centers of the 8 :term:`octahedron <octahedron>` faces contain the 8 vertices of the :term:`dodecahedron <dodecahedron>` that form an inscribed cube.
 
-- **Group III (15 $\leftrightarrow$ 16, 17 $\leftrightarrow$ 18, 19 $\leftrightarrow$ 20)**: Because the two solids do not share a common circumsphere when vertices fall on edges, we reciprocate with respect to any concentric sphere (e.g., the sphere circumscribing the outer solid), transforming **vertices on edges** into **faces containing edges**:
+- **Group III (15** :math:`\leftrightarrow` **16, 17** :math:`\leftrightarrow` **18, 19** :math:`\leftrightarrow` **20**): Because the two solids do not share a common circumsphere when vertices fall on edges, we reciprocate with respect to any concentric sphere (e.g., the sphere circumscribing the outer solid), transforming **vertices on edges** into **faces containing edges**:
 
   - From **15 (Octahedron in Dodecahedron)** arises **16 (Icosahedron in Cube)**, where **6 opposite parallel edges of the icosahedron lie in the 6 square faces of the cube** along their midlines in three mutually perpendicular directions, so that all 12 vertices of the :term:`icosahedron <icosahedron>` rest in pairs on the 6 faces of the cube! Remarkably, although omitted here in the *Compendio*, this exact inscription is explicitly treated in :person:`Piero della Francesca <piero-della-francesca>` / :person:`Pacioli's <pacioli>` companion :cite:`*Libellus de Quinque Corporibus Regularibus* <piero:libellus>`!
   - From **17 (Octahedron in Icosahedron)** arises **18 (Dodecahedron in Cube)**, where 6 opposite parallel edges of the :term:`dodecahedron <dodecahedron>` lie along the midlines of the 6 faces of the cube (while the 8 remaining vertices of the :term:`dodecahedron <dodecahedron>`, corresponding to an inscribed cube, lie free inside).
@@ -163,11 +163,11 @@ Von irgend einem Körper kann man stets die Ecken und Grenzflächen auf zweierle
 
 Die einfachste Art, eine wechselseitige reciproke Beziehung herzustellen, ist die **polare Beziehung mittelst einer concentrischen Kugel**. Unter dem **Pol** einer Ebene bezüglich einer Kugel versteht man die Spitze des Tangentenkegels, dessen Basis der von jener Ebene aus der Kugel ausgeschnittene Kreis ist, wie umgekehrt diese Ebene die **Polarebene** jenes Punktes genannt wird. Bestimmt man auf diese Weise von irgend einem der regelmässigen Körper seinen polaren Körper mittelst einer concentrischen Kugel, so ergibt sich für jeden Körper der reciproke als polare Figur.
 
-Denkt man sich die Kugel vom Radius $R$ allmählich wachsend:
+Denkt man sich die Kugel vom Radius :math:`R` allmählich wachsend:
 
-1. **Erster Grenzfall ($R = \rho$)**: Berührt die Kugel den ursprünglich gegebenen Körper von innen, so fallen die Pole seiner Tangentialebenen in die Berührungspunkte (Flächenmitten), deren Verbindung den polaren Körper liefert, der somit dem ursprünglichen genau **einbeschrieben** ist.
-2. **Gegenseitige Durchdringung bei gemeinsamer Um- und Inkugel ($R = \sqrt{r\rho}$)**: Beide Körper werden von derselben Kugel vom Radius $r$ umschlossen und umhüllen dieselbe Kugel vom Radius $\rho$.
-3. **Zweiter Grenzfall ($R = r$)**: Umhüllt die Kugel den ursprünglichen Körper genau, so vertauschen beide Körper ihre Stellen, und der ursprüngliche ist dem polaren genau **einbeschrieben**.
+1. **Erster Grenzfall** (:math:`R = \rho`): Berührt die Kugel den ursprünglich gegebenen Körper von innen, so fallen die Pole seiner Tangentialebenen in die Berührungspunkte (Flächenmitten), deren Verbindung den polaren Körper liefert, der somit dem ursprünglichen genau **einbeschrieben** ist.
+2. **Gegenseitige Durchdringung bei gemeinsamer Um- und Inkugel** (:math:`R = \sqrt{r\rho}`): Beide Körper werden von derselben Kugel vom Radius :math:`r` umschlossen und umhüllen dieselbe Kugel vom Radius :math:`\rho`.
+3. **Zweiter Grenzfall** (:math:`R = r`): Umhüllt die Kugel den ursprünglichen Körper genau, so vertauschen beide Körper ihre Stellen, und der ursprüngliche ist dem polaren genau **einbeschrieben**.
 
 2. Schema aller 21 möglichen Fälle gegenseitiger Einbeschreibung
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -249,7 +249,7 @@ Die sämmtlichen überhaupt möglichen **20 oder genauer 21 Fälle** dieser Art 
 
 - **Zweite Gruppe (7–14)**:
 
-  - **7 $\leftrightarrow$ 8** und **9 $\leftrightarrow$ 10** ergeben sich unmittelbar.
+  - **7** :math:`\leftrightarrow` **8** und **9** :math:`\leftrightarrow` **10** ergeben sich unmittelbar.
   - Um aus **11** den Fall **12 (Dodekaeder im Tetraeder)** abzuleiten, vergegenwärtigt man sich den Fall **3** des dem :term:`Dodekaeder <dodecahedron>` eingeschriebenen :term:`Tetraeders <tetrahedron>` und legt durch die gemeinsamen vier Eckpunkte beider Körper Tangentialebenen, deren Gesammtheit das dem :term:`Dodekaeder <dodecahedron>` umschriebene :term:`Tetraeder <tetrahedron>` bildet.
   - Analog ergibt sich **14 (Dodekaeder im Oktaeder)** aus **13**, wobei die Mitten der acht Oktaederflächen diejenigen acht Ecken des :term:`Dodekaeders <dodecahedron>` enthalten, welche verbunden den eingeschriebenen Kubus bilden würden.
 

@@ -36,11 +36,11 @@ The star-like elevated polyhedra can likewise be inscribed in a sphere passing t
 - The **elevated icosahedron** leads to the **regular dodecahedron** (20 apices);
 - The **elevated dodecahedron** leads to the **regular icosahedron** (12 apices).
 
-More generally, the five regular solids correspond two by two as **reciprocal (dual) pairs** with respect to the numbers of their vertices ($V$), edges ($E$), and faces ($F$):
+More generally, the five regular solids correspond two by two as **reciprocal (dual) pairs** with respect to the numbers of their vertices (:math:`V`), edges (:math:`E`), and faces (:math:`F`):
 
-- **Tetrahedron $\leftrightarrow$ Tetrahedron (Self-Reciprocal)**: $E = 6$, $V = 4$, $F = 4$.
-- **Cube $\leftrightarrow$ Octahedron**: $E = 12$, with $V = 8, F = 6$ for the Cube and $V = 6, F = 8$ for the :term:`Octahedron <octahedron>`.
-- **Icosahedron $\leftrightarrow$ Dodecahedron**: $E = 30$, with $V = 12, F = 20$ for the :term:`Icosahedron <icosahedron>` and $V = 20, F = 12$ for the :term:`Dodecahedron <dodecahedron>`.
+- **Tetrahedron** :math:`\leftrightarrow` **Tetrahedron (Self-Reciprocal**): :math:`E = 6`, :math:`V = 4`, :math:`F = 4`.
+- **Cube** :math:`\leftrightarrow` **Octahedron**: :math:`E = 12`, with :math:`V = 8, F = 6` for the Cube and :math:`V = 6, F = 8` for the :term:`Octahedron <octahedron>`.
+- **Icosahedron** :math:`\leftrightarrow` **Dodecahedron**: :math:`E = 30`, with :math:`V = 12, F = 20` for the :term:`Icosahedron <icosahedron>` and :math:`V = 20, F = 12` for the :term:`Dodecahedron <dodecahedron>`.
 
 From any regular body, its **reciprocal (dual) body** arises in two dual ways:
 
@@ -55,9 +55,9 @@ Die auf diese Art erhaltenen sternförmigen Körper sind ebenfalls in eine Kugel
 
 Die fünf einfachen regulären Körper verhalten sich hinsichtlich der Anzahl ihrer Ecken, Kanten und Seitenflächen zwei und zwei **reciprok** zu einander:
 
-- Das :term:`**Tetraeder** <tetrahedron>` entspricht nur sich selbst ($6$ Kanten, $4$ Ecken, $4$ Seitenflächen).
-- Der **Kubus** ($12$ Kanten, $8$ Ecken, $6$ Flächen) entspricht dem :term:`**Oktaeder** <octahedron>` ($12$ Kanten, $6$ Ecken, $8$ Flächen) und umgekehrt.
-- Dem :term:`**Ikosaeder** <icosahedron>` ($30$ Kanten, $12$ Ecken, $20$ Seitenflächen) entspricht das :term:`**Dodekaeder** <dodecahedron>` ($30$ Kanten, $20$ Ecken, $12$ Flächen) und umgekehrt.
+- Das :term:`**Tetraeder** <tetrahedron>` entspricht nur sich selbst (:math:`6` Kanten, :math:`4` Ecken, :math:`4` Seitenflächen).
+- Der **Kubus** (:math:`12` Kanten, :math:`8` Ecken, :math:`6` Flächen) entspricht dem :term:`**Oktaeder** <octahedron>` (:math:`12` Kanten, :math:`6` Ecken, :math:`8` Flächen) und umgekehrt.
+- Dem :term:`**Ikosaeder** <icosahedron>` (:math:`30` Kanten, :math:`12` Ecken, :math:`20` Seitenflächen) entspricht das :term:`**Dodekaeder** <dodecahedron>` (:math:`30` Kanten, :math:`20` Ecken, :math:`12` Flächen) und umgekehrt.
 
 Aus einem derselben ergibt sich der :term:`reciproke Körper <reciproke-koerper>` auf zweierlei Art:
 

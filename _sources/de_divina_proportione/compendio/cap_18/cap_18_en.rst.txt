@@ -27,15 +27,15 @@ Chapter XVIII: On Its Ninth Effect, Surpassing All the Others
 
    - Of the line :g:`ac`, the greater part is :g:`cf`, and the lesser part is :g:`af`;
    - Of the line :g:`be`, the greater part is :g:`ef`, and the lesser part is :g:`bf`;
-   - And each of these greater parts (:g:`cf` and :g:`ef`) is always equal to the side of the said pentagon (:g:`ab` $= $ :g:`bc` $= $ :g:`cd` $= $ :g:`de` $= $ :g:`ea`).
+   - And each of these greater parts (:g:`cf` and :g:`ef`) is always equal to the side of the said pentagon (:g:`ab` :math:`=` :g:`bc` :math:`=` :g:`cd` :math:`=` :g:`de` :math:`=` :g:`ea`).
 
    By mathematicians these two lines (:g:`ac` and :g:`be`) are called by another name the **chords of the pentagonal angle** (*corde del'angolo pentagonico*).
 
-   Thus, if each of the said chords (:g:`ac` and :g:`be`) were $10$ (for they are equal when their pentagon in the circle is equilateral and equiangular):
+   Thus, if each of the said chords (:g:`ac` and :g:`be`) were :math:`10` (for they are equal when their pentagon in the circle is equilateral and equiangular):
 
-   - :g:`cf` would be $\sqrt{125} - 5$, and :g:`af` would be $15 - \sqrt{125}$;
-   - The part :g:`ef` would similarly be $\sqrt{125} - 5$, and :g:`bf` would be $15 - \sqrt{125}$;
-   - And the **side of the pentagon** itself would likewise be $\sqrt{125} - 5$!
+   - :g:`cf` would be :math:`\sqrt{125} - 5`, and :g:`af` would be :math:`15 - \sqrt{125}`;
+   - The part :g:`ef` would similarly be :math:`\sqrt{125} - 5`, and :g:`bf` would be :math:`15 - \sqrt{125}`;
+   - And the **side of the pentagon** itself would likewise be :math:`\sqrt{125} - 5`!
 
 .. qed::
 

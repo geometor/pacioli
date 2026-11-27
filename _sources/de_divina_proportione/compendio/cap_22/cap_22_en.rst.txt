@@ -21,7 +21,7 @@ Chapter XXII: On Its Thirteenth Most Worthy Effect
 
 .. assertion::
 
-   To this end, our Philosopher in the **tenth proposition of the Fourth Book** (:just:`IV.10`) teaches us how to construct an **isosceles triangle** of this condition: namely, that **each of the two angles at its base is double the remaining angle** [at the apex, i.e., $72^\circ, 72^\circ, 36^\circ$].
+   To this end, our Philosopher in the **tenth proposition of the Fourth Book** (:just:`IV.10`) teaches us how to construct an **isosceles triangle** of this condition: namely, that **each of the two angles at its base is double the remaining angle** [at the apex, i.e., :math:`72^\circ, 72^\circ, 36^\circ`].
 
    And he did this because, when we wish to know how to form the equilateral and equiangular pentagon, and to **inscribe** and **circumscribe** it in and about a circle—that is, to form it both inside and outside a given circle with exactness—it would have been impossible unless he had first taught us how to construct the said triangle, as appears from the eleventh and twelfth propositions of the said Fourth Book (:just:`IV.11`, :just:`IV.12`).
 

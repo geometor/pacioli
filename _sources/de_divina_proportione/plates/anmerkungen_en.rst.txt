@@ -19,17 +19,17 @@ Note 1 (Cap. VII): Equivalence of Pacioli's Initial Characterization with Euclid
 
 **Corresponding Chapters**: :ref:`Cap. 7 <compendio-cap_07-en>`
 
-Since the definition of continuous division (:term:`extreme and mean ratio <extrema-et-media-ratio>`) according to :person:`Euclid <euclid>` (:cite:`Euclid VI.def.3 <euclid:elements:VI.def.3>`, :cite:`Euclid II.11 <euclid:elements:II.11>`) is stated at the close of Chapter VII—namely, when a given line $ac$ is divided at $b$ into two segments such that the square on the greater segment $ab^2$ equals the rectangle $ac \cdot bc$ contained by the whole line and the lesser segment—we demonstrate its identity with the numerical property stated at the beginning of Chapter VII (:cite:`Euclid XIII.1 <euclid:elements:XIII.1>`):
+Since the definition of continuous division (:term:`extreme and mean ratio <extrema-et-media-ratio>`) according to :person:`Euclid <euclid>` (:cite:`Euclid VI.def.3 <euclid:elements:VI.def.3>`, :cite:`Euclid II.11 <euclid:elements:II.11>`) is stated at the close of Chapter VII—namely, when a given line :math:`ac` is divided at :math:`b` into two segments such that the square on the greater segment :math:`ab^2` equals the rectangle :math:`ac \cdot bc` contained by the whole line and the lesser segment—we demonstrate its identity with the numerical property stated at the beginning of Chapter VII (:cite:`Euclid XIII.1 <euclid:elements:XIII.1>`):
 
-- **Hypothesis**: Let the line $ac$ be divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $b$, so that $ab^2 = ac \cdot bc$.
-- **Claim**: $\left(ac + \frac{bc}{2}\right)^2 = 5\left(\frac{bc}{2}\right)^2$, or equivalently $\left(ab + \frac{ac}{2}\right)^2 = 5\left(\frac{ac}{2}\right)^2$.
-- **Proof**: By hypothesis, $ab^2 = ac(ac - ab)$, whence
+- **Hypothesis**: Let the line :math:`ac` be divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at :math:`b`, so that :math:`ab^2 = ac \cdot bc`.
+- **Claim**: :math:`\left(ac + \frac{bc}{2}\right)^2 = 5\left(\frac{bc}{2}\right)^2`, or equivalently :math:`\left(ab + \frac{ac}{2}\right)^2 = 5\left(\frac{ac}{2}\right)^2`.
+- **Proof**: By hypothesis, :math:`ab^2 = ac(ac - ab)`, whence
 
   .. math::
 
      ac^2 = ab^2 + ab \cdot ac \quad \text{and} \quad ab^2 + ab \cdot ac = ac^2.
 
-  Adding $\left(\frac{ac}{2}\right)^2$ to both sides yields
+  Adding :math:`\left(\frac{ac}{2}\right)^2` to both sides yields
 
   .. math::
 
@@ -42,7 +42,7 @@ Note 2 (Cap. VII): Bisection of the Whole Line and Continuous Division of the Ha
 
 **Corresponding Chapters**: :ref:`Cap. 7 <compendio-cap_07-en>`
 
-This corollary (:cite:`Euclid XIII.1 <euclid:elements:XIII.1>` / :cite:`Euclid XIII.2 <euclid:elements:XIII.2>`) follows immediately if we bisect the line $ab$ at $c$ ($ac = bc = \frac{1}{2}ab$) and divide $bc$ in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $d$; considering the three parts of the line $ab$, the greater segment of the half-line together with the other half satisfies the fivefold square relation $ad^2 = 5\,ac^2$.
+This corollary (:cite:`Euclid XIII.1 <euclid:elements:XIII.1>` / :cite:`Euclid XIII.2 <euclid:elements:XIII.2>`) follows immediately if we bisect the line :math:`ab` at :math:`c` (:math:`ac = bc = \frac{1}{2}ab`) and divide :math:`bc` in :term:`extreme and mean ratio <extrema-et-media-ratio>` at :math:`d`; considering the three parts of the line :math:`ab`, the greater segment of the half-line together with the other half satisfies the fivefold square relation :math:`ad^2 = 5\,ac^2`.
 
 .. _winterberg-note-3-en:
 
@@ -51,17 +51,17 @@ Note 3 (Cap. XII): Algebraic Proof of the Third Effect (Euclid XIII.3)
 
 **Corresponding Chapters**: :ref:`Cap. 12 <compendio-cap_12-en>`
 
-Expressed algebraically for the line $ac$ divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $b$ ($ab > bc$):
+Expressed algebraically for the line :math:`ac` divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at :math:`b` (:math:`ab > bc`):
 
-- **Hypothesis**: $ab^2 = ac \cdot bc = (ab + bc)\,bc$.
-- **Claim**: $\left(bc + \frac{ab}{2}\right)^2 = 5\left(\frac{ab}{2}\right)^2$.
-- **Proof**: Since $ab^2 = bc^2 + ab \cdot bc$ by hypothesis, adding $\left(\frac{ab}{2}\right)^2$ to both sides yields
+- **Hypothesis**: :math:`ab^2 = ac \cdot bc = (ab + bc)\,bc`.
+- **Claim**: :math:`\left(bc + \frac{ab}{2}\right)^2 = 5\left(\frac{ab}{2}\right)^2`.
+- **Proof**: Since :math:`ab^2 = bc^2 + ab \cdot bc` by hypothesis, adding :math:`\left(\frac{ab}{2}\right)^2` to both sides yields
 
   .. math::
 
      \left(bc + \frac{ab}{2}\right)^2 = bc^2 + ab \cdot bc + \left(\frac{ab}{2}\right)^2 = ab^2 + \frac{ab^2}{4} = 5\left(\frac{ab}{2}\right)^2.
 
-  Substituting the numerical values of Chapter XII ($ac = 10$, $ab = \sqrt{125} - 5$, $bc = 15 - \sqrt{125}$) confirms the identity of both sides immediately.
+  Substituting the numerical values of Chapter XII (:math:`ac = 10`, :math:`ab = \sqrt{125} - 5`, :math:`bc = 15 - \sqrt{125}`) confirms the identity of both sides immediately.
 
 .. _winterberg-note-4-en:
 
@@ -70,11 +70,11 @@ Note 4 (Cap. XIII): Algebraic Proof of the Fourth Effect (Euclid XIII.5)
 
 **Corresponding Chapters**: :ref:`Cap. 13 <compendio-cap_13-en>`
 
-In algebraic form, let the segment $bc$ be divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $d$ ($cd > bd$), and let $ac = cd$ be adjoined to form the whole line $ad = ac + bc$:
+In algebraic form, let the segment :math:`bc` be divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at :math:`d` (:math:`cd > bd`), and let :math:`ac = cd` be adjoined to form the whole line :math:`ad = ac + bc`:
 
-- **Hypothesis**: $cd^2 = bc \cdot bd$ and $ac = cd$.
-- **Claim**: $bc^2 = ad \cdot cd = ad \cdot ac$.
-- **Proof**: By hypothesis, $cd^2 = bc(bc - cd) = bc^2 - bc \cdot cd$, whence
+- **Hypothesis**: :math:`cd^2 = bc \cdot bd` and :math:`ac = cd`.
+- **Claim**: :math:`bc^2 = ad \cdot cd = ad \cdot ac`.
+- **Proof**: By hypothesis, :math:`cd^2 = bc(bc - cd) = bc^2 - bc \cdot cd`, whence
 
   .. math::
 
@@ -87,14 +87,14 @@ Note 5 (Cap. XIV): Algebraic Proof of the Fifth Effect (Euclid XIII.4)
 
 **Corresponding Chapters**: :ref:`Cap. 14 <compendio-cap_14-en>`
 
-In general algebraic form, for the line $bc$ divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $d$ ($cd > bd$):
+In general algebraic form, for the line :math:`bc` divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at :math:`d` (:math:`cd > bd`):
 
-- **Hypothesis**: $cd^2 = bc \cdot bd$.
-- **Claim**: $bd^2 + bc^2 = 3\,cd^2$.
+- **Hypothesis**: :math:`cd^2 = bc \cdot bd`.
+- **Claim**: :math:`bd^2 + bc^2 = 3\,cd^2`.
 - **Proof**:
-  a) From Note 4, $bc^2 = bc \cdot cd + cd^2$.
-  b) Expanding $bd^2 = (bc - cd)^2 = bc^2 - 2\,bc \cdot cd + cd^2$.
-  Adding (a) and (b) together and substituting $bc^2 - bc \cdot cd = bc(bc - cd) = bc \cdot bd = cd^2$ gives:
+  a) From Note 4, :math:`bc^2 = bc \cdot cd + cd^2`.
+  b) Expanding :math:`bd^2 = (bc - cd)^2 = bc^2 - 2\,bc \cdot cd + cd^2`.
+  Adding (a) and (b) together and substituting :math:`bc^2 - bc \cdot cd = bc(bc - cd) = bc \cdot bd = cd^2` gives:
 
   .. math::
 
@@ -116,13 +116,13 @@ Note 7 (Cap. XVIII): Ninth Effect — Diagonals of the Regular Pentagon (Euclid 
 
 **Corresponding Chapters**: :ref:`Cap. 18 <compendio-cap_18-en>`
 
-The proof follows immediately from the similarity of the isosceles triangles $\triangle bca \sim \triangle baf$ formed by the two intersecting chords $ac$ and $be$ (meeting at $f$) of the regular pentagon:
+The proof follows immediately from the similarity of the isosceles triangles :math:`\triangle bca \sim \triangle baf` formed by the two intersecting chords :math:`ac` and :math:`be` (meeting at :math:`f`) of the regular pentagon:
 
 .. math::
 
    \frac{ca}{ba} = \frac{ba}{af} \implies ba^2 = ca \cdot af,
 
-and since $ba = bc = cf$, we have $cf^2 = ca \cdot af$, so the chord $ca$ is cut in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $f$.
+and since :math:`ba = bc = cf`, we have :math:`cf^2 = ca \cdot af`, so the chord :math:`ca` is cut in :term:`extreme and mean ratio <extrema-et-media-ratio>` at :math:`f`.
 
 .. _winterberg-note-8-en:
 
@@ -131,25 +131,25 @@ Note 8 (Cap. XXI): Twelfth Effect — Ratio of the Cube Edge to the Icosahedron 
 
 **Corresponding Chapters**: :ref:`Cap. 21 <compendio-cap_21-en>`
 
-Denoting by $s$ and $s'$ the edges of the cube and regular :term:`icosahedron <icosahedron>` inscribed in the same sphere, and letting the segment $ab$ be divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $c$ ($ac > bc$), :person:`Pacioli's <pacioli>` claim (following :cite:`Campanus XIV.9 <campanus:euclid:XIV.9>`) is:
+Denoting by :math:`s` and :math:`s'` the edges of the cube and regular :term:`icosahedron <icosahedron>` inscribed in the same sphere, and letting the segment :math:`ab` be divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at :math:`c` (:math:`ac > bc`), :person:`Pacioli's <pacioli>` claim (following :cite:`Campanus XIV.9 <campanus:euclid:XIV.9>`) is:
 
 .. math::
 
    \sqrt{\frac{ab^2 + ac^2}{ab^2 + bc^2}} = \frac{s'}{s} \quad \left(\text{or reciprocally } \sqrt{\frac{ab^2 + bc^2}{ab^2 + ac^2}} = \frac{s}{s'}\right).
 
-**Proof**: Using the :term:`extreme and mean ratio <extrema-et-media-ratio>` relations (a) $ac^2 = ab \cdot bc$ and (b) $bc^2 = (ab - ac)^2 = ab^2 - 2\,ab \cdot ac + ac^2$, we have $ab^2 + bc^2 = 3\,ac^2 = 3\,ab \cdot bc$ (by Note 5) and $ab^2 + ac^2 = ab^2 + ab \cdot bc = ab(ab + bc)$. Hence the quotient under the radical simplifies to:
+**Proof**: Using the :term:`extreme and mean ratio <extrema-et-media-ratio>` relations (a) :math:`ac^2 = ab \cdot bc` and (b) :math:`bc^2 = (ab - ac)^2 = ab^2 - 2\,ab \cdot ac + ac^2`, we have :math:`ab^2 + bc^2 = 3\,ac^2 = 3\,ab \cdot bc` (by Note 5) and :math:`ab^2 + ac^2 = ab^2 + ab \cdot bc = ab(ab + bc)`. Hence the quotient under the radical simplifies to:
 
 .. math::
 
    \frac{ab^2 + ac^2}{ab^2 + bc^2} = \frac{ab(ab + bc)}{3\,ab \cdot bc} = \frac{ab + bc}{3\,bc}.
 
-Solving $ac^2 = ab \cdot bc = ab(ab - ac)$ gives $bc = \frac{3 - \sqrt{5}}{2}\,ab$, and substituting this into the quotient yields:
+Solving :math:`ac^2 = ab \cdot bc = ab(ab - ac)` gives :math:`bc = \frac{3 - \sqrt{5}}{2}\,ab`, and substituting this into the quotient yields:
 
 .. math::
 
    \sqrt{\frac{ab^2 + ac^2}{ab^2 + bc^2}} = \sqrt{\frac{ab + bc}{3\,bc}} = \sqrt{\frac{5 + \sqrt{5}}{6}} \quad \left(\text{and its reciprocal } \sqrt{\frac{3\,bc}{ab + bc}} = \sqrt{\frac{5 - \sqrt{5}}{6}}\right).
 
-The exact same value is obtained when we express $s$ and $s'$ in terms of the circumradius $r$ of the common sphere (:cite:`Euclid XIII.15 <euclid:elements:XIII.15>`, :cite:`Euclid XIII.16 <euclid:elements:XIII.16>`, :cite:`Euclid XIII.18 <euclid:elements:XIII.18>`):
+The exact same value is obtained when we express :math:`s` and :math:`s'` in terms of the circumradius :math:`r` of the common sphere (:cite:`Euclid XIII.15 <euclid:elements:XIII.15>`, :cite:`Euclid XIII.16 <euclid:elements:XIII.16>`, :cite:`Euclid XIII.18 <euclid:elements:XIII.18>`):
 
 .. math::
 
@@ -171,7 +171,7 @@ Note 10 (Cap. XXVI): Division of the Sphere Diameter by the Base of the Inscribe
 
 **Corresponding Chapters**: :ref:`Cap. 26 <compendio-cap_26-en>`
 
-In every regular :term:`tetrahedron <tetrahedron>`, the four altitudes intersect at the center of the circumscribed sphere (of radius $r$) in the ratio $1 : 3$. Denoting the smaller segment (from the sphere center to the base plane) by $x = \frac{r}{3}$, and extending the altitude $ac = r + x$ beyond the base plane to meet the sphere at $b$ (so that $ab = 2r$ is the sphere diameter and $bc = r - x$), the ratio of the extension $bc$ to the :term:`tetrahedron <tetrahedron>` altitude $ac$ is:
+In every regular :term:`tetrahedron <tetrahedron>`, the four altitudes intersect at the center of the circumscribed sphere (of radius :math:`r`) in the ratio :math:`1 : 3`. Denoting the smaller segment (from the sphere center to the base plane) by :math:`x = \frac{r}{3}`, and extending the altitude :math:`ac = r + x` beyond the base plane to meet the sphere at :math:`b` (so that :math:`ab = 2r` is the sphere diameter and :math:`bc = r - x`), the ratio of the extension :math:`bc` to the :term:`tetrahedron <tetrahedron>` altitude :math:`ac` is:
 
 .. math::
 
@@ -184,13 +184,13 @@ Note 11 (Cap. XXVII): Division of the Sphere Diameter by the Inscribed Cube (Euc
 
 **Corresponding Chapters**: :ref:`Cap. 27 <compendio-cap_27-en>`
 
-The square of the diagonal of a square is double the square of its side ($ad^2 = 2\,bd^2$). Passing a plane through one of the three main space diagonals $ab$ of the cube and an edge $bd$, this plane intersects the circumscribed sphere in a great circle whose diameter is $ab$, while the two chords drawn from its endpoints to $d$ are the cube edge $bd$ and the face diagonal $ad$. By the right-triangle projection theorem (:cite:`Euclid VI.8 <euclid:elements:VI.8>`):
+The square of the diagonal of a square is double the square of its side (:math:`ad^2 = 2\,bd^2`). Passing a plane through one of the three main space diagonals :math:`ab` of the cube and an edge :math:`bd`, this plane intersects the circumscribed sphere in a great circle whose diameter is :math:`ab`, while the two chords drawn from its endpoints to :math:`d` are the cube edge :math:`bd` and the face diagonal :math:`ad`. By the right-triangle projection theorem (:cite:`Euclid VI.8 <euclid:elements:VI.8>`):
 
 .. math::
 
    bd^2 = bc \cdot ab \quad \text{and} \quad ad^2 = ac \cdot ab.
 
-Since $ad^2 = 2\,bd^2$, dividing the two equations gives:
+Since :math:`ad^2 = 2\,bd^2`, dividing the two equations gives:
 
 .. math::
 
@@ -203,27 +203,27 @@ Note 12 (Cap. XXIX): Construction of the Regular Icosahedron in the Sphere (Eucl
 
 **Corresponding Chapters**: :ref:`Cap. 29 <compendio-cap_29-en>`
 
-The edge $a$ of the regular :term:`icosahedron <icosahedron>` in terms of the circumradius $r$ of the sphere is:
+The edge :math:`a` of the regular :term:`icosahedron <icosahedron>` in terms of the circumradius :math:`r` of the sphere is:
 
 .. math::
 
    a = \frac{4r}{\sqrt{10 + 2\sqrt{5}}}.
 
-Passing a plane through the sphere diameter $ab = 2r$ and a polar cap edge $ad = a$ (which cuts the sphere in a semicircle $adb$), the projection $ac$ of $ad$ on the diameter $ab$ satisfies:
+Passing a plane through the sphere diameter :math:`ab = 2r` and a polar cap edge :math:`ad = a` (which cuts the sphere in a semicircle :math:`adb`), the projection :math:`ac` of :math:`ad` on the diameter :math:`ab` satisfies:
 
 .. math::
 
    ac = \frac{ad^2}{ab} = \frac{a^2}{2r} = r\left(1 - \frac{1}{\sqrt{5}}\right), \qquad \text{whence } cm = r - ac = \frac{r}{\sqrt{5}},
 
-and therefore the middle axial segment between the two parallel pentagon planes is $cc' = 2\,cm = \frac{2r}{\sqrt{5}} = \frac{d}{\sqrt{5}}$, where $d = 2r$ is the sphere diameter.
+and therefore the middle axial segment between the two parallel pentagon planes is :math:`cc' = 2\,cm = \frac{2r}{\sqrt{5}} = \frac{d}{\sqrt{5}}`, where :math:`d = 2r` is the sphere diameter.
 
-Now in the auxiliary semicircle of Chapter XXIX with $ac_{\text{aux}} = 2\,bc_{\text{aux}}$, we have $bd = \frac{d}{\sqrt{5}} = cc'$—that is, $bd$ equals the height of the ten-triangle antiprism belt (the segments called :term:`*catheti* <catheto>` in the text) erected perpendicular to the two pentagon planes at $c$ and $c'$. Moreover, the circumradius $r'$ of these two parallel pentagons (and of the inscribed decagon) with pentagon side $a$ is:
+Now in the auxiliary semicircle of Chapter XXIX with :math:`ac_{\text{aux}} = 2\,bc_{\text{aux}}`, we have :math:`bd = \frac{d}{\sqrt{5}} = cc'`—that is, :math:`bd` equals the height of the ten-triangle antiprism belt (the segments called :term:`*catheti* <catheto>` in the text) erected perpendicular to the two pentagon planes at :math:`c` and :math:`c'`. Moreover, the circumradius :math:`r'` of these two parallel pentagons (and of the inscribed decagon) with pentagon side :math:`a` is:
 
 .. math::
 
    r' = a\sqrt{\frac{5 + \sqrt{5}}{10}} = \frac{d}{\sqrt{5}} = bd,
 
-so the circumradius $r'$ of the pentagon circle equals both the line $bd$ of the text and the axial height $cc'$ of the perpendicular :term:`*catheti* <catheto>`, exactly as constructed in :person:`Euclid <euclid>` :cite:`Euclid XIII.16 <euclid:elements:XIII.16>`!
+so the circumradius :math:`r'` of the pentagon circle equals both the line :math:`bd` of the text and the axial height :math:`cc'` of the perpendicular :term:`*catheti* <catheto>`, exactly as constructed in :person:`Euclid <euclid>` :cite:`Euclid XIII.16 <euclid:elements:XIII.16>`!
 
 .. _winterberg-note-13-en:
 
@@ -232,19 +232,19 @@ Note 13 (Cap. XXX): Verification of the Pentagon Diagonal in the Dodecahedron Co
 
 **Corresponding Chapters**: :ref:`Cap. 30 <compendio-cap_30-en>`
 
-Retaining the lettering of the figure in Chapter XXX (where $ke$ is half the cube edge, divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at $l$ with $kl > le$, and $an = hn = 2\,kl$ is the cube edge): by the three-dimensional Pythagorean projection,
+Retaining the lettering of the figure in Chapter XXX (where :math:`ke` is half the cube edge, divided in :term:`extreme and mean ratio <extrema-et-media-ratio>` at :math:`l` with :math:`kl > le`, and :math:`an = hn = 2\,kl` is the cube edge): by the three-dimensional Pythagorean projection,
 
 .. math::
 
    ln^2 = an^2 - ke^2 - le^2 = 4\,kl^2 - ke^2 - le^2.
 
-Since $kl^2 = ke \cdot le$, we can rewrite this as:
+Since :math:`kl^2 = ke \cdot le`, we can rewrite this as:
 
 .. math::
 
    ln^2 = 2\,kl^2 + 2\,ke \cdot le - ke^2 - le^2 = 2\,kl^2 - (ke - le)^2 = 2\,kl^2 - kl^2 = kl^2,
 
-whence $ln = kl$, proving that the five vertices lie at equal radii and form an equilateral and equiangular pentagon (:cite:`Euclid XIII.17 <euclid:elements:XIII.17>`).
+whence :math:`ln = kl`, proving that the five vertices lie at equal radii and form an equilateral and equiangular pentagon (:cite:`Euclid XIII.17 <euclid:elements:XIII.17>`).
 
 .. _winterberg-note-14-en:
 
@@ -253,10 +253,10 @@ Note 14 (Cap. XXX): Semicircle Proof of the Fifth Effect Used in the Dodecahedro
 
 **Corresponding Chapters**: :ref:`Cap. 30 <compendio-cap_30-en>`
 
-This relation ($el^2 + ke^2 = 3\,kl^2$, already proved algebraically in Note 5) is seen most simply geometrically if we describe a semicircle on $ek$ as diameter, erect at $l$ a perpendicular meeting the semicircle at $m$, and draw the chords $em$ and $km$:
+This relation (:math:`el^2 + ke^2 = 3\,kl^2`, already proved algebraically in Note 5) is seen most simply geometrically if we describe a semicircle on :math:`ek` as diameter, erect at :math:`l` a perpendicular meeting the semicircle at :math:`m`, and draw the chords :math:`em` and :math:`km`:
 
-- By hypothesis, $kl^2 = ke \cdot el$, and by the right triangle $emk$ in the semicircle, $em^2 = ke \cdot el$, so $em = kl$.
-- Moreover, $el^2 = em^2 - ml^2$ and $ke^2 = em^2 + mk^2$. Adding both gives:
+- By hypothesis, :math:`kl^2 = ke \cdot el`, and by the right triangle :math:`emk` in the semicircle, :math:`em^2 = ke \cdot el`, so :math:`em = kl`.
+- Moreover, :math:`el^2 = em^2 - ml^2` and :math:`ke^2 = em^2 + mk^2`. Adding both gives:
 
   .. math::
 
@@ -292,11 +292,11 @@ The star-like elevated polyhedra can likewise be inscribed in a sphere passing t
 - The **elevated icosahedron** leads to the **regular dodecahedron** (20 apices);
 - The **elevated dodecahedron** leads to the **regular icosahedron** (12 apices).
 
-More generally, the five regular solids correspond two by two as **reciprocal (dual) pairs** with respect to the numbers of their vertices ($V$), edges ($E$), and faces ($F$):
+More generally, the five regular solids correspond two by two as **reciprocal (dual) pairs** with respect to the numbers of their vertices (:math:`V`), edges (:math:`E`), and faces (:math:`F`):
 
-- **Tetrahedron $\leftrightarrow$ Tetrahedron (Self-Reciprocal)**: $E = 6$, $V = 4$, $F = 4$.
-- **Cube $\leftrightarrow$ Octahedron**: $E = 12$, with $V = 8, F = 6$ for the Cube and $V = 6, F = 8$ for the :term:`Octahedron <octahedron>`.
-- **Icosahedron $\leftrightarrow$ Dodecahedron**: $E = 30$, with $V = 12, F = 20$ for the :term:`Icosahedron <icosahedron>` and $V = 20, F = 12$ for the :term:`Dodecahedron <dodecahedron>`.
+- **Tetrahedron** :math:`\leftrightarrow` **Tetrahedron (Self-Reciprocal**): :math:`E = 6`, :math:`V = 4`, :math:`F = 4`.
+- **Cube** :math:`\leftrightarrow` **Octahedron**: :math:`E = 12`, with :math:`V = 8, F = 6` for the Cube and :math:`V = 6, F = 8` for the :term:`Octahedron <octahedron>`.
+- **Icosahedron** :math:`\leftrightarrow` **Dodecahedron**: :math:`E = 30`, with :math:`V = 12, F = 20` for the :term:`Icosahedron <icosahedron>` and :math:`V = 20, F = 12` for the :term:`Dodecahedron <dodecahedron>`.
 
 From any regular body, its **reciprocal (dual) body** arises in two dual ways:
 
@@ -325,15 +325,15 @@ The simplest universal mechanism for establishing a mutual reciprocal correspond
 - The **pole** of a plane cutting a sphere is the apex of the tangent cone touching the sphere along the circle of intersection; conversely, that plane is the **polar plane** of the point.
 - Taking a sphere concentric with any regular solid, the polar planes of all its vertices (or equivalently, the poles of all its faces) form its **polar reciprocal regular solid**:
 
-  - **Tetrahedron $\leftrightarrow$ Tetrahedron**
-  - **Cube $\leftrightarrow$ Octahedron**
-  - **Icosahedron $\leftrightarrow$ Dodecahedron**
+  - **Tetrahedron** :math:`\leftrightarrow` **Tetrahedron**
+  - **Cube** :math:`\leftrightarrow` **Octahedron**
+  - **Icosahedron** :math:`\leftrightarrow` **Dodecahedron**
 
-- As the radius $R$ of the reciprocating sphere expands continuously from $0$ to $\infty$:
+- As the radius :math:`R` of the reciprocating sphere expands continuously from :math:`0` to :math:`\infty`:
 
-  1. **First Limit ($R = \rho$, the inradius of the original solid)**: The sphere touches the faces of the original solid from within; the poles of the faces are the **centroids of the faces**, so the reciprocal solid is **inscribed** in the original solid with its vertices at the face-centers.
-  2. **Symmetric Dual Intersection ($R = \sqrt{r\rho}$, the geometric mean of the circumradius $r$ and inradius $\rho$)**: Both reciprocal solids are **inscribed in the same outer sphere of radius $r$ and circumscribed about the same inner sphere of radius $\rho$**!
-  3. **Second Limit ($R = r$, the circumradius of the original solid)**: The sphere passes through the vertices of the original solid; the polar planes are the tangent planes at those vertices, so the original solid is now **inscribed** in its reciprocal solid!
+  1. **First Limit** (:math:`R = \rho`, **the inradius of the original solid**): The sphere touches the faces of the original solid from within; the poles of the faces are the **centroids of the faces**, so the reciprocal solid is **inscribed** in the original solid with its vertices at the face-centers.
+  2. **Symmetric Dual Intersection** (:math:`R = \sqrt{r\rho}`, **the geometric mean of the circumradius** :math:`r` **and inradius** :math:`\rho`): Both reciprocal solids are **inscribed in the same outer sphere of radius** :math:`r` **and circumscribed about the same inner sphere of radius** :math:`\rho`!
+  3. **Second Limit** (:math:`R = r`, **the circumradius of the original solid**): The sphere passes through the vertices of the original solid; the polar planes are the tangent planes at those vertices, so the original solid is now **inscribed** in its reciprocal solid!
 
 2. Complete Classification of All 21 Possible Mutual Inscriptions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -407,19 +407,19 @@ By means of polar reciprocation, all **20 mutual inscriptions between distinct r
 3. Geometric Derivation of the Reciprocal Cases
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **Group I (1 $\leftrightarrow$ 2, 3 $\leftrightarrow$ 4, 5 $\leftrightarrow$ 6)**: Taking the polar reciprocals of two solids sharing common vertices on a circumscribed sphere converts the inner solid into the outer reciprocal solid and the outer solid into the inner reciprocal solid, with **coincident faces** replacing coincident vertices:
+- **Group I (1** :math:`\leftrightarrow` **2, 3** :math:`\leftrightarrow` **4, 5** :math:`\leftrightarrow` **6**): Taking the polar reciprocals of two solids sharing common vertices on a circumscribed sphere converts the inner solid into the outer reciprocal solid and the outer solid into the inner reciprocal solid, with **coincident faces** replacing coincident vertices:
 
   - From **1 (Tetrahedron in Cube)** arises **2 (Octahedron in Tetrahedron)**, where 4 of the 8 faces of the :term:`octahedron <octahedron>` lie in the 4 faces of the :term:`tetrahedron <tetrahedron>` and the 6 vertices of the :term:`octahedron <octahedron>` lie at the 6 edge-midpoints of the :term:`tetrahedron <tetrahedron>`.
   - From **3 (Tetrahedron in Dodecahedron)** arises **4 (Icosahedron in Tetrahedron)**, where 4 faces of the :term:`icosahedron <icosahedron>` lie in the 4 faces of the circumscribing :term:`tetrahedron <tetrahedron>` (obtained by extending the 4 :term:`icosahedron <icosahedron>` faces whose centroids form the inscribed :term:`tetrahedron <tetrahedron>` of Case 11 until they meet!).
   - From **5 (Cube in Dodecahedron)** arises **6 (Icosahedron in Octahedron)**, where 8 faces of the :term:`icosahedron <icosahedron>` lie in the 8 faces of the :term:`octahedron <octahedron>` and all 12 vertices of the :term:`icosahedron <icosahedron>` lie on the 12 edges of the :term:`octahedron <octahedron>` (dividing them in the golden ratio!).
 
-- **Group II (7 $\leftrightarrow$ 8, 9 $\leftrightarrow$ 10, 11 $\leftrightarrow$ 12, 13 $\leftrightarrow$ 14)**:
+- **Group II (7** :math:`\leftrightarrow` **8, 9** :math:`\leftrightarrow` **10, 11** :math:`\leftrightarrow` **12, 13** :math:`\leftrightarrow` **14**):
 
-  - **7 $\leftrightarrow$ 8 (Octahedron $\leftrightarrow$ Cube)** and **9 $\leftrightarrow$ 10 (Icosahedron $\leftrightarrow$ Dodecahedron)** are dual pairs directly.
+  - **7** :math:`\leftrightarrow` **8 (Octahedron** :math:`\leftrightarrow` **Cube**) and **9** :math:`\leftrightarrow` **10 (Icosahedron** :math:`\leftrightarrow` **Dodecahedron**) are dual pairs directly.
   - From **11 (Tetrahedron in Icosahedron)**, reciprocating with respect to the sphere touching the :term:`icosahedron <icosahedron>` and circumscribing the :term:`dodecahedron <dodecahedron>` yields **12 (Dodecahedron in Tetrahedron)**: passing tangent planes through the 4 common vertices of the :term:`dodecahedron <dodecahedron>` and its inscribed :term:`tetrahedron <tetrahedron>` (Case 3) forms the circumscribing :term:`tetrahedron <tetrahedron>` touching 4 vertices of the :term:`dodecahedron <dodecahedron>`.
   - From **13 (Cube in Icosahedron)** arises **14 (Dodecahedron in Octahedron)**, where the centers of the 8 :term:`octahedron <octahedron>` faces contain the 8 vertices of the :term:`dodecahedron <dodecahedron>` that form an inscribed cube.
 
-- **Group III (15 $\leftrightarrow$ 16, 17 $\leftrightarrow$ 18, 19 $\leftrightarrow$ 20)**: Because the two solids do not share a common circumsphere when vertices fall on edges, we reciprocate with respect to any concentric sphere (e.g., the sphere circumscribing the outer solid), transforming **vertices on edges** into **faces containing edges**:
+- **Group III (15** :math:`\leftrightarrow` **16, 17** :math:`\leftrightarrow` **18, 19** :math:`\leftrightarrow` **20**): Because the two solids do not share a common circumsphere when vertices fall on edges, we reciprocate with respect to any concentric sphere (e.g., the sphere circumscribing the outer solid), transforming **vertices on edges** into **faces containing edges**:
 
   - From **15 (Octahedron in Dodecahedron)** arises **16 (Icosahedron in Cube)**, where **6 opposite parallel edges of the icosahedron lie in the 6 square faces of the cube** along their midlines in three mutually perpendicular directions, so that all 12 vertices of the :term:`icosahedron <icosahedron>` rest in pairs on the 6 faces of the cube! Remarkably, although omitted here in the *Compendio*, this exact inscription is explicitly treated in :person:`Piero della Francesca <piero-della-francesca>` / :person:`Pacioli's <pacioli>` companion :cite:`*Libellus de Quinque Corporibus Regularibus* <piero:libellus>`!
   - From **17 (Octahedron in Icosahedron)** arises **18 (Dodecahedron in Cube)**, where 6 opposite parallel edges of the :term:`dodecahedron <dodecahedron>` lie along the midlines of the 6 faces of the cube (while the 8 remaining vertices of the :term:`dodecahedron <dodecahedron>`, corresponding to an inscribed cube, lie free inside).

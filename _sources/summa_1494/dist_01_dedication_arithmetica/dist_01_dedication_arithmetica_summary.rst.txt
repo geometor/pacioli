@@ -49,12 +49,16 @@ MATHEMATICAL & ARCHITECTURAL SUMMARY
 3. Figurate & Perfect Number Identities (`fols. 6r–18v`)
 --------------------------------------------------------
 
-- **Polygonal Numbers**: For $s$-gonal numbers of side rank $k \ge 1$,
+- **Polygonal Numbers**: For :math:`s`-gonal numbers of side rank :math:`k \ge 1`,
 
-  $$P(s, k) = \frac{(s - 2)k^2 - (s - 4)k}{2}, \qquad T_k = P(3, k) = \frac{k(k+1)}{2}$$
+  .. math::
+
+     P(s, k) = \frac{(s - 2)k^2 - (s - 4)k}{2}, \qquad T_k = P(3, k) = \frac{k(k+1)}{2}
 
 - **Euclid's Even Perfect Number Formula (:just:`IX.36`, `fol. 8r`)**:
 
-  $$M_p = 2^p - 1 \text{ prime} \implies P_p = 2^{p-1}(2^p - 1) \text{ satisfies } \sigma(P_p) = 2 P_p$$
+  .. math::
 
-  For $p \in \{2, 3, 5, 7, 13\}$, this yields $6$, $28$, $496$, $8128$, and $33{,}550{,}336$ ($p = 9$ and $p = 11$ fail because $2^9 - 1 = 511 = 7 \cdot 73$ and $2^{11} - 1 = 2047 = 23 \cdot 89$ are composite).
+     M_p = 2^p - 1 \text{ prime} \implies P_p = 2^{p-1}(2^p - 1) \text{ satisfies } \sigma(P_p) = 2 P_p
+
+  For :math:`p \in \{2, 3, 5, 7, 13\}`, this yields :math:`6`, :math:`28`, :math:`496`, :math:`8128`, and :math:`33{,}550{,}336` (:math:`p = 9` and :math:`p = 11` fail because :math:`2^9 - 1 = 511 = 7 \cdot 73` and :math:`2^{11} - 1 = 2047 = 23 \cdot 89` are composite).
