@@ -14,4 +14,4 @@ Portuguese-born Franciscan Regent Master at Pavia and Vicar General of the Conve
 
 **Principal Works:** *Quaestio perutilis de cuiuscumque scientiae subiecto*
 
-**Occurrences:** :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/cap_01_de>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/cap_01_notes>`
+**Occurrences:** :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/de>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/index>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/it>`, :doc:`Comp. Cap. 1 (Notes) </de_divina_proportione/compendio/cap_01/notes>`

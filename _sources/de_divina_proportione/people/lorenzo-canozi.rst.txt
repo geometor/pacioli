@@ -12,4 +12,4 @@ Canozi, Lorenzo
 
 Intarsia master in Padua and Modena and close friend of Piero della Francesca; praised by Pacioli in the Dedication of the Tractato de l'Architectura.
 
-**Occurrences:** :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`
+**Occurrences:** :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/notes>`

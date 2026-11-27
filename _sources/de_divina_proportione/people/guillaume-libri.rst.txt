@@ -14,4 +14,4 @@ Author of Histoire des sciences mathématiques en Italie (4 vols., Paris, 1838�
 
 **Principal Works:** *Histoire des sciences mathématiques en Italie (Vol. III, 1840)*
 
-**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`

@@ -16,4 +16,4 @@ Professor of Astrology and Mathematics at the University of Padua, cited by Paci
 
 **Principal Works:** *Algorismus de integris*, *Canones de motibus corporum supercoelestium*
 
-**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`
+**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/index>`

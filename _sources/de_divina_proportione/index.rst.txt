@@ -38,7 +38,7 @@ Table of Contents
 
 .. collection::
 
-   :doc: intro/intro_en
+   :doc: intro/index
    :doc: compendio/index
    :doc: architectura/index
    :doc: plates/index
@@ -49,22 +49,14 @@ Table of Contents
 
 :doc:`Bibliography & Cited Works <bibliography>` · :doc:`Index of Persons <people/index>` · :doc:`Technical Glossary <glossary>`
 
-
 .. toctree::
    :maxdepth: 2
    :hidden:
 
-   intro/intro_en
+   intro/index
    compendio/index
    architectura/index
    plates/index
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Companion Language Tracks
-
-   intro/intro_de
 
 .. toctree::
    :maxdepth: 1

@@ -14,4 +14,4 @@ Author of the General Trattato di Numeri et Misure (Venice, 1556–1560) and tra
 
 **Principal Works:** *General Trattato di Numeri et Misure (1556–1560)*
 
-**Occurrences:** :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/cap_35_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`, :doc:`Winterberg Anmerkungen (DE) </de_divina_proportione/plates/anmerkungen_de>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
+**Occurrences:** :doc:`Comp. Cap. 35 (Notes) </de_divina_proportione/compendio/cap_35/notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/notes>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`, :doc:`Winterberg Anmerkungen (DE) </de_divina_proportione/plates/anmerkungen_de>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`

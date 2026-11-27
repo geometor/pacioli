@@ -14,4 +14,4 @@ Author of Ab Urbe Condita, cited in Compendio Chapter II on Roman military engin
 
 **Principal Works:** *Ab Urbe Condita*
 
-**Occurrences:** :doc:`Comp. Cap. 2 (DE) </de_divina_proportione/compendio/cap_02/cap_02_de>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`
+**Occurrences:** :doc:`Comp. Cap. 2 (DE) </de_divina_proportione/compendio/cap_02/de>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/index>`

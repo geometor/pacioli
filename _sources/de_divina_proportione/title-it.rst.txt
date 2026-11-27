@@ -29,7 +29,7 @@ De Divina Proportione
 Indice dell'Opera
 -----------------
 
-* :doc:`Introduzione Critica <intro/intro_en>`
+* :doc:`Introduzione Critica <intro/index>`
 * :doc:`Parte Prima: Compendio de Divina Proportione (Cap. I–LXXI) <compendio/index>`
 * :doc:`Parte Seconda: Tractato de l'Architectura (Cap. I–XX) <architectura/index>`
 * :doc:`Tavole di Leonardo da Vinci: Poliedri, Alfabeto e Architettura <plates/index>`

@@ -14,4 +14,4 @@ Riario, Count Girolamo, Lord of Imola and Forlì
 
 Host of the architectural gathering at his palace construction in Rome (now Palazzo Altemps) with Melozzo da Forlì and Luca Pacioli recounted in Compendio Cap. LVII.
 
-**Occurrences:** :doc:`Comp. Cap. 57 (Notes) </de_divina_proportione/compendio/cap_57/cap_57_notes>`, :doc:`Comp. index </de_divina_proportione/compendio/index>`
+**Occurrences:** :doc:`Comp. Cap. 57 (Notes) </de_divina_proportione/compendio/cap_57/notes>`, :doc:`Comp. index </de_divina_proportione/compendio/index>`

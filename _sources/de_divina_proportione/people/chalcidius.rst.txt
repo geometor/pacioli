@@ -14,4 +14,4 @@ Cited by Pacioli in Compendio Chapter LV alongside Apuleius and Macrobius as a p
 
 **Principal Works:** *Timaeus Platonis translatus et Commentarius*
 
-**Occurrences:** :doc:`Comp. Cap. 55 (EN) </de_divina_proportione/compendio/cap_55/cap_55_en>`, :doc:`Comp. Cap. 55 (IT) </de_divina_proportione/compendio/cap_55/cap_55_it>`
+**Occurrences:** :doc:`Comp. Cap. 55 (EN) </de_divina_proportione/compendio/cap_55/index>`, :doc:`Comp. Cap. 55 (IT) </de_divina_proportione/compendio/cap_55/it>`

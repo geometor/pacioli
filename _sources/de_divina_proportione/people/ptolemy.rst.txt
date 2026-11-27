@@ -18,7 +18,7 @@ Author of the Almagest and Cosmographia (Geography); cited by Pacioli on the cho
 
 **Principal Works:** *Almagest (Syntaxis Mathematica)*, *Cosmographia (Geographia)*
 
-**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/cap_03_it>`, :doc:`Comp. Cap. 17 (DE) </de_divina_proportione/compendio/cap_17/cap_17_de>`, :doc:`Comp. Cap. 17 (EN) </de_divina_proportione/compendio/cap_17/cap_17_en>`, :doc:`Comp. Cap. 17 (IT) </de_divina_proportione/compendio/cap_17/cap_17_it>`, :doc:`Comp. Cap. 17 (Notes) </de_divina_proportione/compendio/cap_17/cap_17_notes>`
+**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/index>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/it>`, :doc:`Comp. Cap. 3 (IT) </de_divina_proportione/compendio/cap_03/it>`, :doc:`Comp. Cap. 17 (DE) </de_divina_proportione/compendio/cap_17/de>`, :doc:`Comp. Cap. 17 (EN) </de_divina_proportione/compendio/cap_17/index>`, :doc:`Comp. Cap. 17 (IT) </de_divina_proportione/compendio/cap_17/it>`, :doc:`Comp. Cap. 17 (Notes) </de_divina_proportione/compendio/cap_17/notes>`
 
 * **GEOMETOR Website**: `Ptolemy, Claudius <https://geometor.github.io/ptolemy/>`_
 * **GitHub Repository**: `https://github.com/geometor/ptolemy <https://github.com/geometor/ptolemy>`_

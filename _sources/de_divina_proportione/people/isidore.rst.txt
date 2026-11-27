@@ -16,4 +16,4 @@ Author of the Etymologiae (Book III, De Mathematica); cited by Pacioli in Compen
 
 **Principal Works:** *Etymologiae (Origines)*
 
-**Occurrences:** :doc:`Comp. Cap. 3 (EN) </de_divina_proportione/compendio/cap_03/cap_03_en>`, :doc:`Comp. Cap. 34 (Notes) </de_divina_proportione/compendio/cap_34/cap_34_notes>`
+**Occurrences:** :doc:`Comp. Cap. 3 (EN) </de_divina_proportione/compendio/cap_03/index>`, :doc:`Comp. Cap. 34 (Notes) </de_divina_proportione/compendio/cap_34/notes>`

@@ -16,4 +16,4 @@ Author of De Re Militari (printed in Verona, 1472), praised by Pacioli in Compen
 
 **Principal Works:** *De Re Militari (1472)*
 
-**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`
+**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/index>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/notes>`

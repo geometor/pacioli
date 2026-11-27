@@ -14,4 +14,4 @@ Author of the Flores Almagesti (Correction of the Almagest), translated into Lat
 
 **Principal Works:** *Flores Almagesti (De Astronomia Libri IX)*
 
-**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`
+**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/index>`

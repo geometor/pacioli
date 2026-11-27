@@ -16,4 +16,4 @@ Author of Book XIV of the Euclidean corpus on the comparison of the regular icos
 
 **Principal Works:** *Elementa Liber XIV*
 
-**Occurrences:** :doc:`Comp. Cap. 4 (Notes) </de_divina_proportione/compendio/cap_04/cap_04_notes>`, :doc:`Comp. Cap. 19 (Notes) </de_divina_proportione/compendio/cap_19/cap_19_notes>`, :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/cap_31_en>`, :doc:`Comp. Cap. 32 (Notes) </de_divina_proportione/compendio/cap_32/cap_32_notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/cap_46_notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`
+**Occurrences:** :doc:`Comp. Cap. 4 (Notes) </de_divina_proportione/compendio/cap_04/notes>`, :doc:`Comp. Cap. 19 (Notes) </de_divina_proportione/compendio/cap_19/notes>`, :doc:`Comp. Cap. 31 (EN) </de_divina_proportione/compendio/cap_31/index>`, :doc:`Comp. Cap. 32 (Notes) </de_divina_proportione/compendio/cap_32/notes>`, :doc:`Comp. Cap. 46 (Notes) </de_divina_proportione/compendio/cap_46/notes>`, :doc:`Winterberg Anmerkungen (EN) </de_divina_proportione/plates/anmerkungen_en>`

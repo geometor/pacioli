@@ -14,4 +14,4 @@ Trivulzio, Gian Giacomo
 
 Celebrated military commander praised by Pacioli in the Dedication of the Tractato de l'Architectura for his discourse on military and Vitruvian architecture in Naples.
 
-**Occurrences:** :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`
+**Occurrences:** :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/notes>`

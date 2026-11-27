@@ -12,4 +12,4 @@ Sansone, Fra Francesco da Brescia, O.F.M.
 
 Presided over the General Chapter of the Franciscan Order celebrated in Milan in 1498 under the patronage of Ludovico Sforza.
 
-**Occurrences:** :doc:`Comp. Cap. 69 (DE) </de_divina_proportione/compendio/cap_69/cap_69_de>`, :doc:`Comp. Cap. 69 (Notes) </de_divina_proportione/compendio/cap_69/cap_69_notes>`
+**Occurrences:** :doc:`Comp. Cap. 69 (DE) </de_divina_proportione/compendio/cap_69/de>`, :doc:`Comp. Cap. 69 (Notes) </de_divina_proportione/compendio/cap_69/notes>`

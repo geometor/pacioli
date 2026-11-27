@@ -12,4 +12,4 @@ Ferrante I
 
 Royal patron under whom Luca Pacioli taught mathematics and Euclid at the University of Naples; glossed by Winterberg in the Dedication of the Tractato de l'Architectura (fn. 2).
 
-**Occurrences:** :doc:`Arch. Cap. 8 (Notes) </de_divina_proportione/architectura/cap_08/cap_08_notes>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`
+**Occurrences:** :doc:`Arch. Cap. 8 (Notes) </de_divina_proportione/architectura/cap_08/notes>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/notes>`

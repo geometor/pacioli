@@ -16,4 +16,4 @@ Cited by Winterberg in the Einleitung for coining the famous satirical epithet '
 
 **Principal Works:** *Apologia degli Accademici di Banchi di Roma (1558)*
 
-**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`

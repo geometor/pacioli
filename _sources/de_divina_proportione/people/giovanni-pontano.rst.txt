@@ -14,4 +14,4 @@ Pontano, Giovanni Gioviano
 
 Head of the Accademia Pontaniana and chief minister to King Ferrante of Naples; cited by Pacioli in the Dedication of the Tractato de l'Architectura.
 
-**Occurrences:** :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/dedication_en>`, :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/dedication_it>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/dedication_notes>`
+**Occurrences:** :doc:`Arch. Prohemio (EN) </de_divina_proportione/architectura/dedication/index>`, :doc:`Arch. Prohemio (IT) </de_divina_proportione/architectura/dedication/it>`, :doc:`Arch. Prohemio (Notes) </de_divina_proportione/architectura/dedication/notes>`

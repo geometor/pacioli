@@ -14,4 +14,4 @@ Author of Epitoma Rei Militaris, cited in Compendio Chapter II on the mathematic
 
 **Principal Works:** *Epitoma Rei Militaris*
 
-**Occurrences:** :doc:`Comp. Cap. 2 (DE) </de_divina_proportione/compendio/cap_02/cap_02_de>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/cap_02_notes>`
+**Occurrences:** :doc:`Comp. Cap. 2 (DE) </de_divina_proportione/compendio/cap_02/de>`, :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/index>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/it>`, :doc:`Comp. Cap. 2 (Notes) </de_divina_proportione/compendio/cap_02/notes>`

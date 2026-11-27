@@ -16,4 +16,4 @@ First Professor of Art History at the University of Vienna and founding Director
 
 **Principal Works:** *Quellenschriften für Kunstgeschichte und Kunsttechnik des Mittelalters und der Neuzeit*
 
-**Occurrences:** :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`DE DIVINA PROPORTIONE </de_divina_proportione/index>`, :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`

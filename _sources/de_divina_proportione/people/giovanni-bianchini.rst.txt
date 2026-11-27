@@ -16,4 +16,4 @@ Professor at the University of Ferrara and author of astronomical and trigonomet
 
 **Principal Works:** *Tabulae astronomicae*
 
-**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`
+**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/index>`

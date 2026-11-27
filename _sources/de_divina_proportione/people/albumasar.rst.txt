@@ -14,4 +14,4 @@ Author of the Introductorium in Astronomiam, cited by Pacioli in Compendio Chapt
 
 **Principal Works:** *Introductorium in Astronomiam*
 
-**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/cap_02_en>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/cap_02_it>`
+**Occurrences:** :doc:`Comp. Cap. 2 (EN) </de_divina_proportione/compendio/cap_02/index>`, :doc:`Comp. Cap. 2 (IT) </de_divina_proportione/compendio/cap_02/it>`

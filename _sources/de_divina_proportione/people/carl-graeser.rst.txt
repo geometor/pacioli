@@ -14,4 +14,4 @@ Graeser, Carl
 
 Publisher of the Neue Folge of Quellenschriften für Kunstgeschichte in Vienna (Verlag von Carl Graeser, 1889).
 
-**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`

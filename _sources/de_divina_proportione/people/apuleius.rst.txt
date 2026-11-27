@@ -16,4 +16,4 @@ Author of De Platone et eius Dogmate, cited with Chalcidius and Macrobius in Com
 
 **Principal Works:** *De Platone et eius Dogmate*
 
-**Occurrences:** :doc:`Comp. Cap. 55 (EN) </de_divina_proportione/compendio/cap_55/cap_55_en>`, :doc:`Comp. Cap. 55 (IT) </de_divina_proportione/compendio/cap_55/cap_55_it>`, :doc:`Comp. Cap. 55 (Notes) </de_divina_proportione/compendio/cap_55/cap_55_notes>`
+**Occurrences:** :doc:`Comp. Cap. 55 (EN) </de_divina_proportione/compendio/cap_55/index>`, :doc:`Comp. Cap. 55 (IT) </de_divina_proportione/compendio/cap_55/it>`, :doc:`Comp. Cap. 55 (Notes) </de_divina_proportione/compendio/cap_55/notes>`

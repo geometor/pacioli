@@ -14,4 +14,4 @@ Editor of the first illustrated printed edition of Vitruvius (M. Vitruvii per Io
 
 **Principal Works:** *M. Vitruvii per Iocundum solito castigatior factus (Venice, 1511)*
 
-**Occurrences:** :doc:`Arch. Cap. 14 (Notes) </de_divina_proportione/architectura/cap_14/cap_14_notes>`
+**Occurrences:** :doc:`Arch. Cap. 14 (Notes) </de_divina_proportione/architectura/cap_14/notes>`

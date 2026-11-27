@@ -16,4 +16,4 @@ Cited in Compendio Chapter I alongside Galen and Avicenna.
 
 **Principal Works:** *Corpus Hippocraticum*
 
-**Occurrences:** :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/cap_01_de>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/cap_01_en>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/cap_01_it>`
+**Occurrences:** :doc:`Comp. Cap. 1 (DE) </de_divina_proportione/compendio/cap_01/de>`, :doc:`Comp. Cap. 1 (EN) </de_divina_proportione/compendio/cap_01/index>`, :doc:`Comp. Cap. 1 (IT) </de_divina_proportione/compendio/cap_01/it>`

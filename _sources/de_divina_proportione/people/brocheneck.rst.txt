@@ -14,4 +14,4 @@ Author of Die männliche und weibliche Normalgestalt, cited by Winterberg in the
 
 **Principal Works:** *Die männliche und weibliche Normalgestalt*
 
-**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/intro_de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/intro_en>`
+**Occurrences:** :doc:`Winterberg Intro (DE) </de_divina_proportione/intro/de>`, :doc:`Winterberg Intro (EN) </de_divina_proportione/intro/index>`

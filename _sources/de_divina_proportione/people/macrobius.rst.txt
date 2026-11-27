@@ -16,4 +16,4 @@ Author of Commentarii in Somnium Scipionis, cited with Chalcidius and Apuleius i
 
 **Principal Works:** *Commentarii in Somnium Scipionis*
 
-**Occurrences:** :doc:`Comp. Cap. 55 (DE) </de_divina_proportione/compendio/cap_55/cap_55_de>`, :doc:`Comp. Cap. 55 (EN) </de_divina_proportione/compendio/cap_55/cap_55_en>`, :doc:`Comp. Cap. 55 (IT) </de_divina_proportione/compendio/cap_55/cap_55_it>`, :doc:`Comp. Cap. 55 (Notes) </de_divina_proportione/compendio/cap_55/cap_55_notes>`
+**Occurrences:** :doc:`Comp. Cap. 55 (DE) </de_divina_proportione/compendio/cap_55/de>`, :doc:`Comp. Cap. 55 (EN) </de_divina_proportione/compendio/cap_55/index>`, :doc:`Comp. Cap. 55 (IT) </de_divina_proportione/compendio/cap_55/it>`, :doc:`Comp. Cap. 55 (Notes) </de_divina_proportione/compendio/cap_55/notes>`
